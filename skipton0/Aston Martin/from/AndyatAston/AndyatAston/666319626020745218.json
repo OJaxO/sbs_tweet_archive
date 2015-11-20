@@ -1,0 +1,124 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Nov 16 18:19:13 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 2407675152,
+                "id_str": "2407675152",
+                "indices": [
+                    0,
+                    13
+                ],
+                "name": "JKez",
+                "screen_name": "JordanKezley"
+            }
+        ]
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": null,
+    "id": 666319626020745218,
+    "id_str": "666319626020745218",
+    "in_reply_to_screen_name": "JordanKezley",
+    "in_reply_to_status_id": 666315127327625220,
+    "in_reply_to_status_id_str": "666315127327625220",
+    "in_reply_to_user_id": 2407675152,
+    "in_reply_to_user_id_str": "2407675152",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -3.23560072135158,
+                        51.8259029271059
+                    ],
+                    [
+                        -1.17213601934124,
+                        51.8259029271059
+                    ],
+                    [
+                        -1.17213601934124,
+                        53.2262100153425
+                    ],
+                    [
+                        -3.23560072135158,
+                        53.2262100153425
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United Kingdom",
+        "country_code": "GB",
+        "full_name": "West Midlands, England",
+        "id": "60160252aeb7e3e5",
+        "name": "West Midlands",
+        "place_type": "admin",
+        "url": "https://api.twitter.com/1.1/geo/id/60160252aeb7e3e5.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@JordanKezley Within the 2nd Century plan, Vantage will be replaced; however, Cygnet will not.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Sep 26 05:08:00 +0000 2014",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Chief Executive Officer - Aston Martin Lagonda Ltd.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 1830,
+        "follow_request_sent": false,
+        "followers_count": 4254,
+        "following": false,
+        "friends_count": 1263,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 2832522954,
+        "id_str": "2832522954",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 62,
+        "location": "UK",
+        "name": "Andy Palmer",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2832522954/1412155047",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/517268789621035008/yuilXlVP_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/517268789621035008/yuilXlVP_normal.jpeg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "AndyatAston",
+        "statuses_count": 1150,
+        "time_zone": null,
+        "url": null,
+        "utc_offset": null,
+        "verified": false
+    }
+}
