@@ -1,0 +1,124 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Nov 18 23:02:36 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 14266714,
+                "id_str": "14266714",
+                "indices": [
+                    0,
+                    9
+                ],
+                "name": "innocent drinks",
+                "screen_name": "innocent"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 667115718672969729,
+    "id_str": "667115718672969729",
+    "in_reply_to_screen_name": "innocent",
+    "in_reply_to_status_id": 667097993582141440,
+    "in_reply_to_status_id_str": "667097993582141440",
+    "in_reply_to_user_id": 14266714,
+    "in_reply_to_user_id_str": "14266714",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -104.92104,
+                        39.322269
+                    ],
+                    [
+                        -104.773048,
+                        39.322269
+                    ],
+                    [
+                        -104.773048,
+                        39.451319
+                    ],
+                    [
+                        -104.92104,
+                        39.451319
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Castle Rock, CO",
+        "id": "0fd0097acd635907",
+        "name": "Castle Rock",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/0fd0097acd635907.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@innocent dang is that thing cute....",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Jun 25 12:39:45 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Don't cling to your guns.  Hold them gently, while applying smooth, even pressure on the trigger.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 90,
+        "follow_request_sent": false,
+        "followers_count": 1297,
+        "following": false,
+        "friends_count": 1186,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 50633591,
+        "id_str": "50633591",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 24,
+        "location": "Colorado",
+        "name": "IXLR8",
+        "notifications": false,
+        "profile_background_color": "D6BB62",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/402502876/x4ff2ef35ada50f100c6e2d865f1c3cb.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/402502876/x4ff2ef35ada50f100c6e2d865f1c3cb.jpg",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/50633591/1424725878",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/2605887198/k6mdcshkw7ncvacuemul_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/2605887198/k6mdcshkw7ncvacuemul_normal.jpeg",
+        "profile_link_color": "A76159",
+        "profile_sidebar_border_color": "3A4654",
+        "profile_sidebar_fill_color": "5E5858",
+        "profile_text_color": "CC795B",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "DenverOilGuy",
+        "statuses_count": 11427,
+        "time_zone": "Mountain Time (US & Canada)",
+        "url": null,
+        "utc_offset": -25200,
+        "verified": false
+    }
+}

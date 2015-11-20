@@ -1,0 +1,166 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Nov 18 22:50:14 +0000 2015",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    21,
+                    26
+                ],
+                "text": "jazz"
+            }
+        ],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "facebook.com/events/1732217\u2026",
+                "expanded_url": "https://www.facebook.com/events/1732217770331703/",
+                "indices": [
+                    62,
+                    85
+                ],
+                "url": "https://t.co/NcBKJP86u1"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 14266714,
+                "id_str": "14266714",
+                "indices": [
+                    0,
+                    9
+                ],
+                "name": "innocent drinks",
+                "screen_name": "innocent"
+            },
+            {
+                "id": 199354543,
+                "id_str": "199354543",
+                "indices": [
+                    34,
+                    48
+                ],
+                "name": "Anna Kendrick",
+                "screen_name": "annaekendrick"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 667112607963357184,
+    "id_str": "667112607963357184",
+    "in_reply_to_screen_name": "innocent",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 14266714,
+    "in_reply_to_user_id_str": "14266714",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -74.026675,
+                        40.683935
+                    ],
+                    [
+                        -73.910408,
+                        40.683935
+                    ],
+                    [
+                        -73.910408,
+                        40.877483
+                    ],
+                    [
+                        -74.026675,
+                        40.877483
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Manhattan, NY",
+        "id": "01a9a39529b27f36",
+        "name": "Manhattan",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/01a9a39529b27f36.json"
+    },
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@innocent Tonight is #jazz singer @annaekendrick 646-373-6265\nhttps://t.co/NcBKJP86u1 \u2026",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Jan 10 03:55:04 +0000 2012",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "646-373-6265 NYC Moroccan Restaurant/ Entertainment Venue\nGreat for private events, cocktail parties\n646-373-6265",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "taginedining.com",
+                        "expanded_url": "http://www.taginedining.com",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/xZdw1QRheA"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 33,
+        "follow_request_sent": false,
+        "followers_count": 835,
+        "following": false,
+        "friends_count": 2007,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 459856781,
+        "id_str": "459856781",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 28,
+        "location": "221 West 38th Street",
+        "name": "TagineDiningGlobal",
+        "notifications": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/509108561964564480/OHWnPWQw.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/509108561964564480/OHWnPWQw.jpeg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/459856781/1436990252",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/662393111604240384/uLGv35-c_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/662393111604240384/uLGv35-c_normal.jpg",
+        "profile_link_color": "009999",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "TagineGlobal",
+        "statuses_count": 20283,
+        "time_zone": "Eastern Time (US & Canada)",
+        "url": "http://t.co/xZdw1QRheA",
+        "utc_offset": -18000,
+        "verified": false
+    }
+}
