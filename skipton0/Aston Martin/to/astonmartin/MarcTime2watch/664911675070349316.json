@@ -1,0 +1,147 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Nov 12 21:04:31 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 102323621,
+                "id_str": "102323621",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "Aston Martin",
+                "screen_name": "astonmartin"
+            },
+            {
+                "id": 33900164,
+                "id_str": "33900164",
+                "indices": [
+                    13,
+                    23
+                ],
+                "name": "British GQ",
+                "screen_name": "BritishGQ"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 664911675070349316,
+    "id_str": "664911675070349316",
+    "in_reply_to_screen_name": "astonmartin",
+    "in_reply_to_status_id": 664880399533887489,
+    "in_reply_to_status_id_str": "664880399533887489",
+    "in_reply_to_user_id": 102323621,
+    "in_reply_to_user_id_str": "102323621",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -64.237659,
+                        43.366298
+                    ],
+                    [
+                        -59.385802,
+                        43.366298
+                    ],
+                    [
+                        -59.385802,
+                        45.27617
+                    ],
+                    [
+                        -64.237659,
+                        45.27617
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "Canada",
+        "country_code": "CA",
+        "full_name": "Halifax, Nova Scotia",
+        "id": "5d058f2e9fe1516c",
+        "name": "Halifax",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/5d058f2e9fe1516c.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@astonmartin @BritishGQ going to see Spectre in 1 hour 15 minutes..... can't wait! LOVE THE DB10 !!!",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Jan 13 13:16:24 +0000 2012",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Husband & father of 2 great boys; love watches, into pocket knives, Sci-Fi & die-hard Montreal Canadiens Fan. GO HABS GO!!!",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "time2watch.net",
+                        "expanded_url": "http://www.time2watch.net",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/THjlB0WxdC"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 11,
+        "follow_request_sent": false,
+        "followers_count": 221,
+        "following": false,
+        "friends_count": 232,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 462869387,
+        "id_str": "462869387",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 4,
+        "location": "Canada",
+        "name": "Marc Levesque",
+        "notifications": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/462869387/1436281823",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/618438260415578112/UWB3RwpL_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/618438260415578112/UWB3RwpL_normal.jpg",
+        "profile_link_color": "009999",
+        "profile_sidebar_border_color": "EEEEEE",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "MarcTime2watch",
+        "statuses_count": 1802,
+        "time_zone": null,
+        "url": "http://t.co/THjlB0WxdC",
+        "utc_offset": null,
+        "verified": false
+    }
+}
