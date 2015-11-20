@@ -1,0 +1,155 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Nov 18 11:27:18 +0000 2015",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    117,
+                    128
+                ],
+                "text": "justsaying"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 102323621,
+                "id_str": "102323621",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "Aston Martin",
+                "screen_name": "astonmartin"
+            },
+            {
+                "id": 2832522954,
+                "id_str": "2832522954",
+                "indices": [
+                    13,
+                    25
+                ],
+                "name": "Andy Palmer",
+                "screen_name": "AndyatAston"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 666940740178731009,
+    "id_str": "666940740178731009",
+    "in_reply_to_screen_name": "astonmartin",
+    "in_reply_to_status_id": 666926338473902081,
+    "in_reply_to_status_id_str": "666926338473902081",
+    "in_reply_to_user_id": 102323621,
+    "in_reply_to_user_id_str": "102323621",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        145.675689152,
+                        -28.0915630845
+                    ],
+                    [
+                        145.709572896,
+                        -28.0915630845
+                    ],
+                    [
+                        145.709572896,
+                        -28.059357008
+                    ],
+                    [
+                        145.675689152,
+                        -28.059357008
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "Australia",
+        "country_code": "AU",
+        "full_name": "Cunnamulla, Queensland",
+        "id": "003ed354766f6b09",
+        "name": "Cunnamulla",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/003ed354766f6b09.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+    "text": "@astonmartin @AndyatAston think one would prefer discrete brand association rather than the endorsed brand approach. #justsaying",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Jan 10 08:58:45 +0000 2012",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Outback Marketing, Digital/Web, Graphic Design, IT & Strategic Solutions.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "trickydickies.com.au",
+                        "expanded_url": "http://www.trickydickies.com.au",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/3n4i30cSku"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 110,
+        "follow_request_sent": false,
+        "followers_count": 129,
+        "following": false,
+        "friends_count": 215,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 460013004,
+        "id_str": "460013004",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 3,
+        "location": "Queensland, Australia",
+        "name": "tricky dickies",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/460013004/1433060714",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/600546166959251456/wp4Nfnyr_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/600546166959251456/wp4Nfnyr_normal.png",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "tricky_dickies",
+        "statuses_count": 482,
+        "time_zone": "Brisbane",
+        "url": "http://t.co/3n4i30cSku",
+        "utc_offset": 36000,
+        "verified": false
+    }
+}
