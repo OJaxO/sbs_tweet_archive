@@ -1,0 +1,124 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Nov 19 18:28:22 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 15523283,
+                "id_str": "15523283",
+                "indices": [
+                    0,
+                    14
+                ],
+                "name": "LUSH Cosmetics",
+                "screen_name": "lushcosmetics"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 667409095897587712,
+    "id_str": "667409095897587712",
+    "in_reply_to_screen_name": "lushcosmetics",
+    "in_reply_to_status_id": 667408964016021505,
+    "in_reply_to_status_id_str": "667408964016021505",
+    "in_reply_to_user_id": 15523283,
+    "in_reply_to_user_id_str": "15523283",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -71.093301,
+                        42.2042941
+                    ],
+                    [
+                        -70.949379,
+                        42.2042941
+                    ],
+                    [
+                        -70.949379,
+                        42.307954
+                    ],
+                    [
+                        -71.093301,
+                        42.307954
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Quincy, MA",
+        "id": "7948fec74f58e8cd",
+        "name": "Quincy",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/7948fec74f58e8cd.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@lushcosmetics yes! \ud83d\ude0d I'm obsessed",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Feb 28 00:03:07 +0000 2012",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Be happy for no reason, like a child. If you are happy for a reason, you're in trouble because that reason can be taken from you.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 17149,
+        "follow_request_sent": false,
+        "followers_count": 620,
+        "following": false,
+        "friends_count": 296,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 506596138,
+        "id_str": "506596138",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 1,
+        "location": "",
+        "name": "Jenna Lee\u2765",
+        "notifications": false,
+        "profile_background_color": "FF6699",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/882901612/e0d3e0abe64a3c1f3890a8e8719378a8.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/882901612/e0d3e0abe64a3c1f3890a8e8719378a8.jpeg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/506596138/1447613500",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/662119585269829632/QHf-ft_S_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/662119585269829632/QHf-ft_S_normal.jpg",
+        "profile_link_color": "B40B43",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "E5507E",
+        "profile_text_color": "362720",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "_xojenna143",
+        "statuses_count": 51638,
+        "time_zone": "Atlantic Time (Canada)",
+        "url": null,
+        "utc_offset": -14400,
+        "verified": false
+    }
+}

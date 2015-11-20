@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Nov 19 18:30:14 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 15523283,
+                "id_str": "15523283",
+                "indices": [
+                    0,
+                    14
+                ],
+                "name": "LUSH Cosmetics",
+                "screen_name": "lushcosmetics"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 667409565676380160,
+    "id_str": "667409565676380160",
+    "in_reply_to_screen_name": "lushcosmetics",
+    "in_reply_to_status_id": 667399629659627520,
+    "in_reply_to_status_id_str": "667399629659627520",
+    "in_reply_to_user_id": 15523283,
+    "in_reply_to_user_id_str": "15523283",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -6.3873911,
+                        53.2987449
+                    ],
+                    [
+                        -6.1078047,
+                        53.2987449
+                    ],
+                    [
+                        -6.1078047,
+                        53.4110598
+                    ],
+                    [
+                        -6.3873911,
+                        53.4110598
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "Ireland",
+        "country_code": "IE",
+        "full_name": "Dublin City, Ireland",
+        "id": "7dde0febc9ef245b",
+        "name": "Dublin City",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/7dde0febc9ef245b.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@lushcosmetics thank you guys! Will report back and let you know how me and my scars get on:)",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Feb 17 20:24:23 +0000 2011",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Journalist and bionic lady at @PicThisDublin @campus_ie @mfiMagazine / Dublin2020 ambassador/ #OneYoungWorld / #Culture / #EnjoyYourCity / #DigitalMedia",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "culturedcuppa.com",
+                        "expanded_url": "http://culturedcuppa.com",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/J3mtlF0Cg0"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 11825,
+        "follow_request_sent": false,
+        "followers_count": 1311,
+        "following": false,
+        "friends_count": 886,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 253710634,
+        "id_str": "253710634",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 41,
+        "location": "Dublin - Boston",
+        "name": "Niamh O'Donoghue",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/253710634/1443475982",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/654592564755046401/izh8HizE_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/654592564755046401/izh8HizE_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "CulturedCuppa",
+        "statuses_count": 13819,
+        "time_zone": "Casablanca",
+        "url": "https://t.co/J3mtlF0Cg0",
+        "utc_offset": 0,
+        "verified": false
+    }
+}
