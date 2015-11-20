@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Nov 17 10:14:44 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 469358921,
+                "id_str": "469358921",
+                "indices": [
+                    0,
+                    14
+                ],
+                "name": "Nationwide UK",
+                "screen_name": "AskNationwide"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 666560092335177729,
+    "id_str": "666560092335177729",
+    "in_reply_to_screen_name": "AskNationwide",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 469358921,
+    "in_reply_to_user_id_str": "469358921",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -0.419679,
+                        51.491499
+                    ],
+                    [
+                        -0.302681,
+                        51.491499
+                    ],
+                    [
+                        -0.302681,
+                        51.559366
+                    ],
+                    [
+                        -0.419679,
+                        51.559366
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United Kingdom",
+        "country_code": "GB",
+        "full_name": "Southall, London",
+        "id": "21a9d859b598883a",
+        "name": "Southall",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/21a9d859b598883a.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@AskNationwide Help I keep receiving automated calls from 0800 464 3138. Seems like a scam to me. I've had 5 calls in under 24hrs. Help plz",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Jan 01 13:16:23 +0000 2015",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "British couple with a \u2764\ufe0f for everything Disney/Universal/SeaWorld & Busch Gardens. Not forgetting our own parks in the UK. We're theme park fanatics. So join us",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "youtube.com/channel/UCglPg\u2026",
+                        "expanded_url": "https://www.youtube.com/channel/UCglPgtk6eOBdo32NxJ9biqQ",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/dql414HmII"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 1216,
+        "follow_request_sent": false,
+        "followers_count": 321,
+        "following": false,
+        "friends_count": 652,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 2954740245,
+        "id_str": "2954740245",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 7,
+        "location": "London",
+        "name": "Get Binky",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2954740245/1436987873",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/550642335013298176/KTy1Bqlc_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/550642335013298176/KTy1Bqlc_normal.jpeg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "GetBinky",
+        "statuses_count": 1822,
+        "time_zone": null,
+        "url": "https://t.co/dql414HmII",
+        "utc_offset": null,
+        "verified": false
+    }
+}
