@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Nov 19 17:30:53 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 14266714,
+                "id_str": "14266714",
+                "indices": [
+                    0,
+                    9
+                ],
+                "name": "innocent drinks",
+                "screen_name": "innocent"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 667394628723851264,
+    "id_str": "667394628723851264",
+    "in_reply_to_screen_name": "innocent",
+    "in_reply_to_status_id": 667382050685497344,
+    "in_reply_to_status_id_str": "667382050685497344",
+    "in_reply_to_user_id": 14266714,
+    "in_reply_to_user_id_str": "14266714",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        12.453064,
+                        55.613717
+                    ],
+                    [
+                        12.6511441,
+                        55.613717
+                    ],
+                    [
+                        12.6511441,
+                        55.731834
+                    ],
+                    [
+                        12.453064,
+                        55.731834
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "Danmark",
+        "country_code": "DK",
+        "full_name": "Copenhagen, Capital Region of Denmark",
+        "id": "936b83f20956cd4c",
+        "name": "Copenhagen",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/936b83f20956cd4c.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@innocent I was thinking yet a new Spider-Man, but now I am concerned. Should I get a cat? Or 10?",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Feb 16 17:45:25 +0000 2012",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Copenhagen-based expat, geeking out over books, and tweeting about #socialmedia and all things digital. #SocialBuzz Specialist @FalconSocial.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "linkedin.com/pub/alexandra-\u2026",
+                        "expanded_url": "https://www.linkedin.com/pub/alexandra-zamfir/53/56b/49",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/SyEbaLDMDJ"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 1978,
+        "follow_request_sent": false,
+        "followers_count": 643,
+        "following": false,
+        "friends_count": 1143,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 494242537,
+        "id_str": "494242537",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 169,
+        "location": "Copenhagen",
+        "name": "Alex Zamfir",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/494242537/1436725911",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/620298295831883776/r4Ly0R5V_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/620298295831883776/r4Ly0R5V_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "alexzamfir90",
+        "statuses_count": 1247,
+        "time_zone": null,
+        "url": "https://t.co/SyEbaLDMDJ",
+        "utc_offset": null,
+        "verified": false
+    }
+}
