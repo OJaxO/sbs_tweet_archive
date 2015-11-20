@@ -1,0 +1,155 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Nov 16 10:13:52 +0000 2015",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    75,
+                    84
+                ],
+                "text": "bestbank"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 17648080,
+                "id_str": "17648080",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "first direct",
+                "screen_name": "firstdirect"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 666197485413638144,
+    "id_str": "666197485413638144",
+    "in_reply_to_screen_name": "firstdirect",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 17648080,
+    "in_reply_to_user_id_str": "17648080",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -1.706057,
+                        53.7363694
+                    ],
+                    [
+                        -1.424923,
+                        53.7363694
+                    ],
+                    [
+                        -1.424923,
+                        53.867543
+                    ],
+                    [
+                        -1.706057,
+                        53.867543
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United Kingdom",
+        "country_code": "GB",
+        "full_name": "Leeds, England",
+        "id": "6863fd050de21120",
+        "name": "Leeds",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/6863fd050de21120.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@firstdirect I've been a customer for TWENTY YEARS today!!! That's LOYALTY #bestbank",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Sep 30 12:46:09 +0000 2008",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Co-Founder Sweet Squared. Exclusive UK & ROI Distributor Partners for CND\u2122, SHELLAC\u2122, VINYLUX\u2122, MINX, MoroccanTan & WAXPERTS. Founders http://t.co/NnIB1NJVIT!",
+        "entities": {
+            "description": {
+                "urls": [
+                    {
+                        "display_url": "SalonGeek.com",
+                        "expanded_url": "http://SalonGeek.com",
+                        "indices": [
+                            135,
+                            157
+                        ],
+                        "url": "http://t.co/NnIB1NJVIT"
+                    }
+                ]
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "sweetsquared.com",
+                        "expanded_url": "http://www.sweetsquared.com",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/styLoGmZKQ"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 3808,
+        "follow_request_sent": false,
+        "followers_count": 8034,
+        "following": false,
+        "friends_count": 1160,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 16527037,
+        "id_str": "16527037",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 46,
+        "location": "West Yorkshire",
+        "name": "Samantha Sweet",
+        "notifications": false,
+        "profile_background_color": "010203",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/588332842247045120/oWGbx02i.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/588332842247045120/oWGbx02i.jpg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/16527037/1439844423",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/453659878113157120/PKYiC3vm_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/453659878113157120/PKYiC3vm_normal.jpeg",
+        "profile_link_color": "DD2E44",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "SamanthaSweet",
+        "statuses_count": 10355,
+        "time_zone": "London",
+        "url": "http://t.co/styLoGmZKQ",
+        "utc_offset": 0,
+        "verified": false
+    }
+}
