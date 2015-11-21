@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Nov 21 00:36:38 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 15523283,
+                "id_str": "15523283",
+                "indices": [
+                    0,
+                    14
+                ],
+                "name": "LUSH Cosmetics",
+                "screen_name": "lushcosmetics"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 667864160089280512,
+    "id_str": "667864160089280512",
+    "in_reply_to_screen_name": "lushcosmetics",
+    "in_reply_to_status_id": 667863941104668675,
+    "in_reply_to_status_id_str": "667863941104668675",
+    "in_reply_to_user_id": 15523283,
+    "in_reply_to_user_id_str": "15523283",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -73.621179,
+                        40.745743
+                    ],
+                    [
+                        -73.562468,
+                        40.745743
+                    ],
+                    [
+                        -73.562468,
+                        40.776161
+                    ],
+                    [
+                        -73.621179,
+                        40.776161
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Westbury, NY",
+        "id": "6b0f2ded51928926",
+        "name": "Westbury",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/6b0f2ded51928926.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@lushcosmetics BB Seaweed face mask! They said it just came in yesterday so it's super fresh! \u263a\ufe0f\ud83c\udf89",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Jan 26 20:51:23 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "love yourself girl or nobody will. May 4th. May 5th. July 19th.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "instagram.com/xoxothatblonde\u2026",
+                        "expanded_url": "http://www.instagram.com/xoxothatblondexoxo",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/uhUTb4PC5S"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 56012,
+        "follow_request_sent": false,
+        "followers_count": 959,
+        "following": false,
+        "friends_count": 1386,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 108713770,
+        "id_str": "108713770",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 7,
+        "location": "Long Island, NY",
+        "name": "Kaitlyn Belcher",
+        "notifications": false,
+        "profile_background_color": "FFFFFF",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000159425580/EIJoFqSu.png",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000159425580/EIJoFqSu.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/108713770/1444628191",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/653444110502764546/e0MI6540_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/653444110502764546/e0MI6540_normal.jpg",
+        "profile_link_color": "E37FC7",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DAECF4",
+        "profile_text_color": "663B12",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "kaitalino",
+        "statuses_count": 31171,
+        "time_zone": "Eastern Time (US & Canada)",
+        "url": "https://t.co/uhUTb4PC5S",
+        "utc_offset": -18000,
+        "verified": false
+    }
+}
