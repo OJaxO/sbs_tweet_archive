@@ -1,0 +1,149 @@
+{
+    "contributors": null,
+    "coordinates": {
+        "coordinates": [
+            -1.4154727,
+            54.9756547
+        ],
+        "type": "Point"
+    },
+    "created_at": "Sun Nov 22 11:44:17 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 469358921,
+                "id_str": "469358921",
+                "indices": [
+                    0,
+                    14
+                ],
+                "name": "Nationwide UK",
+                "screen_name": "AskNationwide"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": {
+        "coordinates": [
+            54.9756547,
+            -1.4154727
+        ],
+        "type": "Point"
+    },
+    "id": 668394567239139328,
+    "id_str": "668394567239139328",
+    "in_reply_to_screen_name": "AskNationwide",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 469358921,
+    "in_reply_to_user_id_str": "469358921",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -1.5043785,
+                        54.948281
+                    ],
+                    [
+                        -1.377026,
+                        54.948281
+                    ],
+                    [
+                        -1.377026,
+                        55.00756
+                    ],
+                    [
+                        -1.5043785,
+                        55.00756
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United Kingdom",
+        "country_code": "GB",
+        "full_name": "South Shields, England",
+        "id": "174aa071dce6ffd4",
+        "name": "South Shields",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/174aa071dce6ffd4.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@AskNationwide just recently moved premises and mortgage companies, is it ok to go ahead and cancel direct debit with yourselves? Regards",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Nov 15 19:14:13 +0000 2012",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Forced to work too long and hard, would be pro at someting if i had the time. love mma",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "philthetank.com",
+                        "expanded_url": "http://philthetank.com",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/6uu1Ot8RzY"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 117,
+        "follow_request_sent": false,
+        "followers_count": 138,
+        "following": false,
+        "friends_count": 168,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 950316661,
+        "id_str": "950316661",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 2,
+        "location": "North East",
+        "name": "Phil",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/950316661/1399829461",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/611642540484333570/2SNuz8-S_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/611642540484333570/2SNuz8-S_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "RealPhilTheTank",
+        "statuses_count": 5104,
+        "time_zone": "Casablanca",
+        "url": "http://t.co/6uu1Ot8RzY",
+        "utc_offset": 0,
+        "verified": false
+    }
+}

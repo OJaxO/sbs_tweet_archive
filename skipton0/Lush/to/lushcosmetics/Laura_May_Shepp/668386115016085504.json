@@ -1,0 +1,124 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Nov 22 11:10:42 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 15523283,
+                "id_str": "15523283",
+                "indices": [
+                    0,
+                    14
+                ],
+                "name": "LUSH Cosmetics",
+                "screen_name": "lushcosmetics"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 668386115016085504,
+    "id_str": "668386115016085504",
+    "in_reply_to_screen_name": "lushcosmetics",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 15523283,
+    "in_reply_to_user_id_str": "15523283",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -2.319934,
+                        53.343623
+                    ],
+                    [
+                        -2.147026,
+                        53.343623
+                    ],
+                    [
+                        -2.147026,
+                        53.5702824
+                    ],
+                    [
+                        -2.319934,
+                        53.5702824
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United Kingdom",
+        "country_code": "GB",
+        "full_name": "Manchester, England",
+        "id": "315b740b108481f6",
+        "name": "Manchester",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/315b740b108481f6.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@lushcosmetics you need to make baked alaska shower gel, bath bomb, deodorant, shampoo/conditioner, sweets I just love this scent \ud83d\udc99\ud83d\udc96\ud83d\udc99\ud83d\ude0d",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Nov 12 23:44:25 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "AM \u2764 21 Ambitions to travel the world and go to Tomorrowland. Obsessed with tattoos and animals. Time is precious waste it wisely\u23f3",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 465,
+        "follow_request_sent": false,
+        "followers_count": 1810,
+        "following": false,
+        "friends_count": 1619,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 411079371,
+        "id_str": "411079371",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 4,
+        "location": "Manchester, England",
+        "name": "Laura May",
+        "notifications": false,
+        "profile_background_color": "ACDED6",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000100824221/99f66e1d4eeaed78b991a02308a2d946.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000100824221/99f66e1d4eeaed78b991a02308a2d946.jpeg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/411079371/1446757028",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/659779889814478848/dHKBeOtp_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/659779889814478848/dHKBeOtp_normal.jpg",
+        "profile_link_color": "038543",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "F6F6F6",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Laura_May_Shepp",
+        "statuses_count": 16625,
+        "time_zone": null,
+        "url": null,
+        "utc_offset": null,
+        "verified": false
+    }
+}

@@ -1,0 +1,124 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Nov 22 05:44:55 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 15523283,
+                "id_str": "15523283",
+                "indices": [
+                    0,
+                    14
+                ],
+                "name": "LUSH Cosmetics",
+                "screen_name": "lushcosmetics"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 668304131011014656,
+    "id_str": "668304131011014656",
+    "in_reply_to_screen_name": "lushcosmetics",
+    "in_reply_to_status_id": 668166265261920257,
+    "in_reply_to_status_id_str": "668166265261920257",
+    "in_reply_to_user_id": 15523283,
+    "in_reply_to_user_id_str": "15523283",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -87.634643,
+                        24.396308
+                    ],
+                    [
+                        -79.974307,
+                        24.396308
+                    ],
+                    [
+                        -79.974307,
+                        31.001056
+                    ],
+                    [
+                        -87.634643,
+                        31.001056
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Florida, USA",
+        "id": "4ec01c9dbc693497",
+        "name": "Florida",
+        "place_type": "admin",
+        "url": "https://api.twitter.com/1.1/geo/id/4ec01c9dbc693497.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@lushcosmetics I really want to get the one with the rose in it because my cheeks are always red, I was so excited to get it for free \ud83d\ude2d",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Jan 10 02:55:04 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "my cheeks are always red",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 240,
+        "follow_request_sent": false,
+        "followers_count": 173,
+        "following": false,
+        "friends_count": 280,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 18824814,
+        "id_str": "18824814",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 1,
+        "location": "",
+        "name": "Amna",
+        "notifications": false,
+        "profile_background_color": "1A1B1F",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/600576367/r8x7avipfzbf4vqxune8.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/600576367/r8x7avipfzbf4vqxune8.jpeg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/18824814/1442594468",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/658922625104781312/Qu87og3k_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/658922625104781312/Qu87og3k_normal.jpg",
+        "profile_link_color": "EB1DC5",
+        "profile_sidebar_border_color": "181A1E",
+        "profile_sidebar_fill_color": "0D0105",
+        "profile_text_color": "6AB0E6",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "amnabamna",
+        "statuses_count": 4481,
+        "time_zone": "Central Time (US & Canada)",
+        "url": null,
+        "utc_offset": -21600,
+        "verified": false
+    }
+}

@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Nov 21 13:09:49 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 14266714,
+                "id_str": "14266714",
+                "indices": [
+                    0,
+                    9
+                ],
+                "name": "innocent drinks",
+                "screen_name": "innocent"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 668053703786631168,
+    "id_str": "668053703786631168",
+    "in_reply_to_screen_name": "innocent",
+    "in_reply_to_status_id": 668046054097580032,
+    "in_reply_to_status_id_str": "668046054097580032",
+    "in_reply_to_user_id": 14266714,
+    "in_reply_to_user_id_str": "14266714",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        16.18218,
+                        48.117666
+                    ],
+                    [
+                        16.577511,
+                        48.117666
+                    ],
+                    [
+                        16.577511,
+                        48.322574
+                    ],
+                    [
+                        16.18218,
+                        48.322574
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "\u00d6sterreich",
+        "country_code": "AT",
+        "full_name": "Vienna, Austria",
+        "id": "9f659d51e5c5deae",
+        "name": "Vienna",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/9f659d51e5c5deae.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@innocent 5) run out of smoothie due to bear attack.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Jun 18 05:43:36 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "#Twitterlauftreff #Vienna #Teamultrakitty #BoostVienna",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "vienna-running.eu",
+                        "expanded_url": "http://vienna-running.eu",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/r7CJl4Vqlt"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 12517,
+        "follow_request_sent": false,
+        "followers_count": 798,
+        "following": false,
+        "friends_count": 898,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 48260858,
+        "id_str": "48260858",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "de",
+        "listed_count": 35,
+        "location": "Vienna",
+        "name": "Pingu mit Pfeife",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/48260858/1431553163",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/665592381056634880/pS8u4uIu_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/665592381056634880/pS8u4uIu_normal.jpg",
+        "profile_link_color": "081430",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "Geordi2504",
+        "statuses_count": 23586,
+        "time_zone": "Vienna",
+        "url": "http://t.co/r7CJl4Vqlt",
+        "utc_offset": 3600,
+        "verified": false
+    }
+}

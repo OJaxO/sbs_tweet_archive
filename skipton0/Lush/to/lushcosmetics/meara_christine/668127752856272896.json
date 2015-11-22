@@ -1,0 +1,124 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Nov 21 18:04:04 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 15523283,
+                "id_str": "15523283",
+                "indices": [
+                    0,
+                    14
+                ],
+                "name": "LUSH Cosmetics",
+                "screen_name": "lushcosmetics"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 668127752856272896,
+    "id_str": "668127752856272896",
+    "in_reply_to_screen_name": "lushcosmetics",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 15523283,
+    "in_reply_to_user_id_str": "15523283",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -97.254743,
+                        44.876554
+                    ],
+                    [
+                        -97.0453234,
+                        44.876554
+                    ],
+                    [
+                        -97.0453234,
+                        44.950863
+                    ],
+                    [
+                        -97.254743,
+                        44.950863
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Watertown, SD",
+        "id": "c1b7e203a1d9630b",
+        "name": "Watertown",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/c1b7e203a1d9630b.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@lushcosmetics we have a problem! i bought 8 bath bombs a week ago and they're half gone... \ud83d\ude14 why must you make great products!?!?!? \ud83d\ude2b\ud83d\ude2b\ud83d\ude2b",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Jan 04 18:27:32 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "4.4.15 & 4.6.15 @leonardskyonard",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 3351,
+        "follow_request_sent": false,
+        "followers_count": 934,
+        "following": false,
+        "friends_count": 862,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 234044093,
+        "id_str": "234044093",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 1,
+        "location": "605",
+        "name": "Meara Walraven \u265b",
+        "notifications": false,
+        "profile_background_color": "FFF04D",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000171879216/DX2wGN8f.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000171879216/DX2wGN8f.jpeg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/234044093/1441686564",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/656865107574657024/Aa7xam-M_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/656865107574657024/Aa7xam-M_normal.jpg",
+        "profile_link_color": "0099CC",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "F6FFD1",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "meara_christine",
+        "statuses_count": 6127,
+        "time_zone": "Mountain Time (US & Canada)",
+        "url": null,
+        "utc_offset": -25200,
+        "verified": false
+    }
+}
