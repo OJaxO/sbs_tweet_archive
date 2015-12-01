@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Nov 23 05:56:36 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 15523283,
+                "id_str": "15523283",
+                "indices": [
+                    0,
+                    14
+                ],
+                "name": "LUSH Cosmetics",
+                "screen_name": "lushcosmetics"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 668669458043416576,
+    "id_str": "668669458043416576",
+    "in_reply_to_screen_name": "lushcosmetics",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 15523283,
+    "in_reply_to_user_id_str": "15523283",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -116.816165,
+                        32.8027882
+                    ],
+                    [
+                        -116.71178,
+                        32.8027882
+                    ],
+                    [
+                        -116.71178,
+                        32.852325
+                    ],
+                    [
+                        -116.816165,
+                        32.852325
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Alpine, CA",
+        "id": "ff5e82bba182df0b",
+        "name": "Alpine",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/ff5e82bba182df0b.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@lushcosmetics make a Magical Moringa scented body lotion/perfume plz. I love it so much!",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Sep 16 16:48:30 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "What's your 00 designation, license to kill or just annoy?",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "lovelooks4u.blogspot.com",
+                        "expanded_url": "http://lovelooks4u.blogspot.com",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/0cEUz4T5r0"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 421,
+        "follow_request_sent": false,
+        "followers_count": 83,
+        "following": false,
+        "friends_count": 205,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 74775546,
+        "id_str": "74775546",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 11,
+        "location": "San Diego, CA",
+        "name": "Jenny Ramsey",
+        "notifications": false,
+        "profile_background_color": "870D60",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/109796608/psylocke1__2_.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/109796608/psylocke1__2_.jpg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/74775546/1431757580",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/668277404004061184/owqSi1H0_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/668277404004061184/owqSi1H0_normal.png",
+        "profile_link_color": "0B08C9",
+        "profile_sidebar_border_color": "0F0101",
+        "profile_sidebar_fill_color": "9C097F",
+        "profile_text_color": "0A0101",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "RoseRedYerDead",
+        "statuses_count": 2176,
+        "time_zone": "America/Los_Angeles",
+        "url": "https://t.co/0cEUz4T5r0",
+        "utc_offset": -28800,
+        "verified": false
+    }
+}

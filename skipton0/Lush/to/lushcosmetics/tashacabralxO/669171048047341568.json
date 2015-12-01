@@ -1,0 +1,124 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Nov 24 15:09:45 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 15523283,
+                "id_str": "15523283",
+                "indices": [
+                    0,
+                    14
+                ],
+                "name": "LUSH Cosmetics",
+                "screen_name": "lushcosmetics"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 669171048047341568,
+    "id_str": "669171048047341568",
+    "in_reply_to_screen_name": "lushcosmetics",
+    "in_reply_to_status_id": 669161372085837824,
+    "in_reply_to_status_id_str": "669161372085837824",
+    "in_reply_to_user_id": 15523283,
+    "in_reply_to_user_id_str": "15523283",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -71.195676,
+                        41.603903
+                    ],
+                    [
+                        -71.101605,
+                        41.603903
+                    ],
+                    [
+                        -71.101605,
+                        41.7682983
+                    ],
+                    [
+                        -71.195676,
+                        41.7682983
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Fall River, MA",
+        "id": "1496f43fd8a3341f",
+        "name": "Fall River",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/1496f43fd8a3341f.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@lushcosmetics brazened honey!",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Nov 16 00:30:53 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 640,
+        "follow_request_sent": false,
+        "followers_count": 201,
+        "following": false,
+        "friends_count": 196,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 90284050,
+        "id_str": "90284050",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 0,
+        "location": "",
+        "name": "tashacabralxO",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000018444788/54f16dbfad5f188d4127e6d63c5cb162.png",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000018444788/54f16dbfad5f188d4127e6d63c5cb162.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/90284050/1447787365",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/668302983067648000/tXAtvCLm_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/668302983067648000/tXAtvCLm_normal.png",
+        "profile_link_color": "FF0000",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "FFFCFF",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "tashacabralxO",
+        "statuses_count": 17583,
+        "time_zone": "Mountain Time (US & Canada)",
+        "url": null,
+        "utc_offset": -25200,
+        "verified": false
+    }
+}

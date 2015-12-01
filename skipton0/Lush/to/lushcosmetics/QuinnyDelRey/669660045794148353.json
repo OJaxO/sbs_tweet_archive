@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Nov 25 23:32:51 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 15523283,
+                "id_str": "15523283",
+                "indices": [
+                    0,
+                    14
+                ],
+                "name": "LUSH Cosmetics",
+                "screen_name": "lushcosmetics"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 669660045794148353,
+    "id_str": "669660045794148353",
+    "in_reply_to_screen_name": "lushcosmetics",
+    "in_reply_to_status_id": 669659326131359745,
+    "in_reply_to_status_id_str": "669659326131359745",
+    "in_reply_to_user_id": 15523283,
+    "in_reply_to_user_id_str": "15523283",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -122.7900653,
+                        45.421863
+                    ],
+                    [
+                        -122.471751,
+                        45.421863
+                    ],
+                    [
+                        -122.471751,
+                        45.6509405
+                    ],
+                    [
+                        -122.7900653,
+                        45.6509405
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Portland, OR",
+        "id": "ac88a4f17a51c7fc",
+        "name": "Portland",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/ac88a4f17a51c7fc.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@lushcosmetics I didn't mean it as a bad thing! I loved the bath bomb just had pink hands after",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Jun 10 00:04:25 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "It hurts to become. I carry that hurt on the tip of my tongue.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "gofundme.com/s86we86k",
+                        "expanded_url": "https://www.gofundme.com/s86we86k",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/ZTaZjY4mTy"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 5523,
+        "follow_request_sent": false,
+        "followers_count": 195,
+        "following": false,
+        "friends_count": 186,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 153947842,
+        "id_str": "153947842",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 1,
+        "location": "transboy against misogyny",
+        "name": "God Save The Quinn",
+        "notifications": false,
+        "profile_background_color": "FFFFFF",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000034080905/1cbd7a2d5190a7a195f526f340008914.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000034080905/1cbd7a2d5190a7a195f526f340008914.jpeg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/153947842/1447450844",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/667436391069040640/oLMJqu0N_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/667436391069040640/oLMJqu0N_normal.jpg",
+        "profile_link_color": "000000",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "FFFFFF",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "QuinnyDelRey",
+        "statuses_count": 20967,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "https://t.co/ZTaZjY4mTy",
+        "utc_offset": -28800,
+        "verified": false
+    }
+}

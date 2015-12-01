@@ -1,0 +1,163 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Nov 30 02:49:16 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "media": [
+            {
+                "display_url": "pic.twitter.com/5pREc64bQJ",
+                "expanded_url": "http://twitter.com/bellakathleenn/status/671159029029187584/photo/1",
+                "id": 671159018799235072,
+                "id_str": "671159018799235072",
+                "indices": [
+                    63,
+                    86
+                ],
+                "media_url": "http://pbs.twimg.com/media/CVBvkldUAAAO54E.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/CVBvkldUAAAO54E.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 1024,
+                        "resize": "fit",
+                        "w": 576
+                    },
+                    "medium": {
+                        "h": 1024,
+                        "resize": "fit",
+                        "w": 576
+                    },
+                    "small": {
+                        "h": 604,
+                        "resize": "fit",
+                        "w": 340
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/5pREc64bQJ"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 15523283,
+                "id_str": "15523283",
+                "indices": [
+                    0,
+                    14
+                ],
+                "name": "LUSH Cosmetics",
+                "screen_name": "lushcosmetics"
+            }
+        ]
+    },
+    "favorite_count": 5,
+    "favorited": false,
+    "geo": null,
+    "id": 671159029029187584,
+    "id_str": "671159029029187584",
+    "in_reply_to_screen_name": "lushcosmetics",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 15523283,
+    "in_reply_to_user_id_str": "15523283",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -119.953849,
+                        39.350749
+                    ],
+                    [
+                        -119.700515,
+                        39.350749
+                    ],
+                    [
+                        -119.700515,
+                        39.674123
+                    ],
+                    [
+                        -119.953849,
+                        39.674123
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Reno, NV",
+        "id": "4b25aded08900fd8",
+        "name": "Reno",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/4b25aded08900fd8.json"
+    },
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@lushcosmetics obsessed with the intergalactic bath bomb oml\ud83d\ude0d\u2604 https://t.co/5pREc64bQJ",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Dec 26 00:02:56 +0000 2014",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "IRRELEVANT",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 3086,
+        "follow_request_sent": false,
+        "followers_count": 174,
+        "following": false,
+        "friends_count": 80,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 2943257778,
+        "id_str": "2943257778",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 1,
+        "location": "jadinnnnnn",
+        "name": "ughHQBBFKWKZ",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2943257778/1448864915",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/670450093686808577/flNRlau8_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/670450093686808577/flNRlau8_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "bellakathleenn",
+        "statuses_count": 3660,
+        "time_zone": null,
+        "url": null,
+        "utc_offset": null,
+        "verified": false
+    }
+}

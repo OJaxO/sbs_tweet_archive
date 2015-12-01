@@ -1,0 +1,132 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Nov 30 02:10:36 +0000 2015",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    122,
+                    138
+                ],
+                "text": "wishfulthinking"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 15523283,
+                "id_str": "15523283",
+                "indices": [
+                    0,
+                    14
+                ],
+                "name": "LUSH Cosmetics",
+                "screen_name": "lushcosmetics"
+            }
+        ]
+    },
+    "favorite_count": 2,
+    "favorited": false,
+    "geo": null,
+    "id": 671149299363913728,
+    "id_str": "671149299363913728",
+    "in_reply_to_screen_name": "lushcosmetics",
+    "in_reply_to_status_id": 671148225764663296,
+    "in_reply_to_status_id_str": "671148225764663296",
+    "in_reply_to_user_id": 15523283,
+    "in_reply_to_user_id_str": "15523283",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -72.786564,
+                        41.717959
+                    ],
+                    [
+                        -72.713899,
+                        41.717959
+                    ],
+                    [
+                        -72.713899,
+                        41.806675
+                    ],
+                    [
+                        -72.786564,
+                        41.806675
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "West Hartford, CT",
+        "id": "485ebc6dbebdbf32",
+        "name": "West Hartford",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/485ebc6dbebdbf32.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@lushcosmetics ugh, being one of your employees I know this all too well!!!  But I bought a Pop today to make up for it \ud83d\ude0a #wishfulthinking",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Aug 19 16:06:05 +0000 2015",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "little. sassy.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 2238,
+        "follow_request_sent": false,
+        "followers_count": 95,
+        "following": false,
+        "friends_count": 195,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 3431667137,
+        "id_str": "3431667137",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 1,
+        "location": "CT // NYC",
+        "name": "sasha",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3431667137/1448167365",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/651478400943718400/yVZMjwd3_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/651478400943718400/yVZMjwd3_normal.jpg",
+        "profile_link_color": "F5ABB5",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "bby_xndr",
+        "statuses_count": 893,
+        "time_zone": null,
+        "url": null,
+        "utc_offset": null,
+        "verified": false
+    }
+}

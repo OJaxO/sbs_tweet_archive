@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Nov 30 14:14:32 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 469358921,
+                "id_str": "469358921",
+                "indices": [
+                    0,
+                    14
+                ],
+                "name": "Nationwide UK",
+                "screen_name": "AskNationwide"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 671331479079796736,
+    "id_str": "671331479079796736",
+    "in_reply_to_screen_name": "AskNationwide",
+    "in_reply_to_status_id": 671331019501510656,
+    "in_reply_to_status_id_str": "671331019501510656",
+    "in_reply_to_user_id": 469358921,
+    "in_reply_to_user_id_str": "469358921",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -3.278624,
+                        51.447362
+                    ],
+                    [
+                        -3.0809756,
+                        51.447362
+                    ],
+                    [
+                        -3.0809756,
+                        51.5466412
+                    ],
+                    [
+                        -3.278624,
+                        51.5466412
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United Kingdom",
+        "country_code": "GB",
+        "full_name": "Cardiff, Wales",
+        "id": "68f3012fe4848e35",
+        "name": "Cardiff",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/68f3012fe4848e35.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "text": "@AskNationwide I\u2019m actually trying to _reduce_ the amount of time spent talking to your mortgage team\u2026",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Jun 15 18:09:45 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Product manager interested in all things #agile and #lean. Runs @SWAgileGroup",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "about.me/davegrant",
+                        "expanded_url": "http://about.me/davegrant",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/8NHxXFFRoz"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 265,
+        "follow_request_sent": false,
+        "followers_count": 322,
+        "following": false,
+        "friends_count": 512,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 47399819,
+        "id_str": "47399819",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 34,
+        "location": "Cardiff, UK",
+        "name": "Dave Grant",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/47399819/1357719309",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/531728985680400384/5en_HTxZ_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/531728985680400384/5en_HTxZ_normal.jpeg",
+        "profile_link_color": "4A913C",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "seize_the_dave",
+        "statuses_count": 1881,
+        "time_zone": "London",
+        "url": "http://t.co/8NHxXFFRoz",
+        "utc_offset": 0,
+        "verified": false
+    }
+}

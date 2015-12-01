@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Nov 29 01:15:10 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 15523283,
+                "id_str": "15523283",
+                "indices": [
+                    0,
+                    14
+                ],
+                "name": "LUSH Cosmetics",
+                "screen_name": "lushcosmetics"
+            }
+        ]
+    },
+    "favorite_count": 2,
+    "favorited": false,
+    "geo": null,
+    "id": 670772957765963777,
+    "id_str": "670772957765963777",
+    "in_reply_to_screen_name": "lushcosmetics",
+    "in_reply_to_status_id": 670764144170283009,
+    "in_reply_to_status_id_str": "670764144170283009",
+    "in_reply_to_user_id": 15523283,
+    "in_reply_to_user_id_str": "15523283",
+    "is_quote_status": false,
+    "lang": "tl",
+    "metadata": {
+        "iso_language_code": "tl",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -113.71368,
+                        53.395531
+                    ],
+                    [
+                        -113.271555,
+                        53.395531
+                    ],
+                    [
+                        -113.271555,
+                        53.7161084
+                    ],
+                    [
+                        -113.71368,
+                        53.7161084
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "Canada",
+        "country_code": "CA",
+        "full_name": "Edmonton, Alberta",
+        "id": "6a6d896ba1cb5dc4",
+        "name": "Edmonton",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/6a6d896ba1cb5dc4.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@lushcosmetics \ud83d\ude0e\ud83d\udc4d\ud83c\udffc haha!",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue May 17 23:40:36 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Colombiana. I'm always keen to work hard and put my heart into everything I do! Love #MUFC, running and yoga. #Whovian #VanGogh #FridaKahlo Banana bread lover!",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "marooka.wordpress.com",
+                        "expanded_url": "http://marooka.wordpress.com/",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/5j7euALZaE"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 1837,
+        "follow_request_sent": false,
+        "followers_count": 235,
+        "following": false,
+        "friends_count": 842,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 300554817,
+        "id_str": "300554817",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 10,
+        "location": "Edmonton, AB, Canada ",
+        "name": "Maria Margarita",
+        "notifications": false,
+        "profile_background_color": "642D8B",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/632074579326832640/5rCUSEzh.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/632074579326832640/5rCUSEzh.jpg",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/300554817/1439533388",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/655586139915464705/xirjjRRP_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/655586139915464705/xirjjRRP_normal.jpg",
+        "profile_link_color": "FF0000",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "7AC3EE",
+        "profile_text_color": "3D1957",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "mikirris",
+        "statuses_count": 2481,
+        "time_zone": "Eastern Time (US & Canada)",
+        "url": "http://t.co/5j7euALZaE",
+        "utc_offset": -18000,
+        "verified": false
+    }
+}

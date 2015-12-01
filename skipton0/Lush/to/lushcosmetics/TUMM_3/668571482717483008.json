@@ -1,0 +1,163 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Nov 22 23:27:17 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "media": [
+            {
+                "display_url": "pic.twitter.com/j7of5NJjy0",
+                "expanded_url": "http://twitter.com/TUMM_3/status/668571482717483008/photo/1",
+                "id": 668571464275132416,
+                "id_str": "668571464275132416",
+                "indices": [
+                    47,
+                    70
+                ],
+                "media_url": "http://pbs.twimg.com/media/CUc-NFsVAAAUjkb.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/CUc-NFsVAAAUjkb.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 1024,
+                        "resize": "fit",
+                        "w": 1024
+                    },
+                    "medium": {
+                        "h": 600,
+                        "resize": "fit",
+                        "w": 600
+                    },
+                    "small": {
+                        "h": 340,
+                        "resize": "fit",
+                        "w": 340
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/j7of5NJjy0"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 15523283,
+                "id_str": "15523283",
+                "indices": [
+                    0,
+                    14
+                ],
+                "name": "LUSH Cosmetics",
+                "screen_name": "lushcosmetics"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 668571482717483008,
+    "id_str": "668571482717483008",
+    "in_reply_to_screen_name": "lushcosmetics",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 15523283,
+    "in_reply_to_user_id_str": "15523283",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -88.097892,
+                        37.771743
+                    ],
+                    [
+                        -84.78458,
+                        37.771743
+                    ],
+                    [
+                        -84.78458,
+                        41.761368
+                    ],
+                    [
+                        -88.097892,
+                        41.761368
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Indiana, USA",
+        "id": "1010ecfa7d3a40f8",
+        "name": "Indiana",
+        "place_type": "admin",
+        "url": "https://api.twitter.com/1.1/geo/id/1010ecfa7d3a40f8.json"
+    },
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@lushcosmetics  as intergalactic as it gets  \u2606 https://t.co/j7of5NJjy0",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Nov 09 22:08:50 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Is life always this hard, or is it just when you're a kid? \u2022 Cosmetology \u2022 Roller Derby \u2022 \u0950",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 2436,
+        "follow_request_sent": false,
+        "followers_count": 213,
+        "following": false,
+        "friends_count": 233,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 408794183,
+        "id_str": "408794183",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 4,
+        "location": "Indiana ",
+        "name": "Death the Kid",
+        "notifications": false,
+        "profile_background_color": "54AEC7",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000043681182/c38fc61804d8b48610eadcac0b7da72e.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000043681182/c38fc61804d8b48610eadcac0b7da72e.jpeg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/408794183/1417659085",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/626372326905520129/qC9Yqcwi_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/626372326905520129/qC9Yqcwi_normal.jpg",
+        "profile_link_color": "AB37AB",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "TUMM_3",
+        "statuses_count": 3198,
+        "time_zone": null,
+        "url": null,
+        "utc_offset": null,
+        "verified": false
+    }
+}

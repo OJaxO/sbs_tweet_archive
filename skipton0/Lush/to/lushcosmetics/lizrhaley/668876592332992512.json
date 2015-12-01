@@ -1,0 +1,176 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Nov 23 19:39:41 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "media": [
+            {
+                "display_url": "pic.twitter.com/LqFgOfQXJl",
+                "expanded_url": "http://twitter.com/lizrhaley/status/668876592332992512/photo/1",
+                "id": 668876584292499456,
+                "id_str": "668876584292499456",
+                "indices": [
+                    15,
+                    38
+                ],
+                "media_url": "http://pbs.twimg.com/media/CUhTtaVUwAAO_ZH.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/CUhTtaVUwAAO_ZH.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 1024,
+                        "resize": "fit",
+                        "w": 576
+                    },
+                    "medium": {
+                        "h": 1024,
+                        "resize": "fit",
+                        "w": 576
+                    },
+                    "small": {
+                        "h": 604,
+                        "resize": "fit",
+                        "w": 340
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/LqFgOfQXJl"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 15523283,
+                "id_str": "15523283",
+                "indices": [
+                    0,
+                    14
+                ],
+                "name": "LUSH Cosmetics",
+                "screen_name": "lushcosmetics"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 668876592332992512,
+    "id_str": "668876592332992512",
+    "in_reply_to_screen_name": "lushcosmetics",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 15523283,
+    "in_reply_to_user_id_str": "15523283",
+    "is_quote_status": false,
+    "lang": "und",
+    "metadata": {
+        "iso_language_code": "und",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -97.51982,
+                        35.15327
+                    ],
+                    [
+                        -97.370527,
+                        35.15327
+                    ],
+                    [
+                        -97.370527,
+                        35.291332
+                    ],
+                    [
+                        -97.51982,
+                        35.291332
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Norman, OK",
+        "id": "27de1a6e27075587",
+        "name": "Norman",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/27de1a6e27075587.json"
+    },
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@lushcosmetics https://t.co/LqFgOfQXJl",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Jul 30 03:35:20 +0000 2014",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "lost in a world that doesn't exist \u2022 918 / 305 / 405 \u264e\ufe0f",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "ou.edu",
+                        "expanded_url": "http://ou.edu",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/GHIV3i3KBJ"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 904,
+        "follow_request_sent": false,
+        "followers_count": 329,
+        "following": false,
+        "friends_count": 314,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 2691716623,
+        "id_str": "2691716623",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 1,
+        "location": "off the grid",
+        "name": "thiz haley",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2691716623/1448308317",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/668877931142184962/dzhL68IC_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/668877931142184962/dzhL68IC_normal.jpg",
+        "profile_link_color": "9266CC",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "lizrhaley",
+        "statuses_count": 544,
+        "time_zone": "Central Time (US & Canada)",
+        "url": "https://t.co/GHIV3i3KBJ",
+        "utc_offset": -21600,
+        "verified": false
+    }
+}

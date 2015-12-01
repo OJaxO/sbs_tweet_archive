@@ -1,0 +1,163 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Nov 27 18:48:28 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "media": [
+            {
+                "display_url": "pic.twitter.com/4OKw3M0RBe",
+                "expanded_url": "http://twitter.com/ash_daniels12/status/670313255596924930/photo/1",
+                "id": 670313248500092929,
+                "id_str": "670313248500092929",
+                "indices": [
+                    35,
+                    58
+                ],
+                "media_url": "http://pbs.twimg.com/media/CU1uWRkWEAE6KKL.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/CU1uWRkWEAE6KKL.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 1024,
+                        "resize": "fit",
+                        "w": 768
+                    },
+                    "medium": {
+                        "h": 800,
+                        "resize": "fit",
+                        "w": 600
+                    },
+                    "small": {
+                        "h": 453,
+                        "resize": "fit",
+                        "w": 340
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/4OKw3M0RBe"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 15523283,
+                "id_str": "15523283",
+                "indices": [
+                    0,
+                    14
+                ],
+                "name": "LUSH Cosmetics",
+                "screen_name": "lushcosmetics"
+            }
+        ]
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": null,
+    "id": 670313255596924930,
+    "id_str": "670313255596924930",
+    "in_reply_to_screen_name": "lushcosmetics",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 15523283,
+    "in_reply_to_user_id_str": "15523283",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -80.206972,
+                        40.242046
+                    ],
+                    [
+                        -80.158673,
+                        40.242046
+                    ],
+                    [
+                        -80.158673,
+                        40.29827
+                    ],
+                    [
+                        -80.206972,
+                        40.29827
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Canonsburg, PA",
+        "id": "d64d438446aaf66a",
+        "name": "Canonsburg",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/d64d438446aaf66a.json"
+    },
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@lushcosmetics makes me happy \ud83d\ude0a\ud83d\ude0a\ud83d\ude0a\ud83d\ude0a https://t.co/4OKw3M0RBe",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Jan 19 20:44:26 +0000 2014",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "somewhere between new york and cali. |soccer| all i do is complain about life and tweet neil.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 8210,
+        "follow_request_sent": false,
+        "followers_count": 1094,
+        "following": false,
+        "friends_count": 2027,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 2300306102,
+        "id_str": "2300306102",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 2,
+        "location": "",
+        "name": "CoCohontas.",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2300306102/1442882321",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/668979397706256384/y5gK-PX3_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/668979397706256384/y5gK-PX3_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "ash_daniels12",
+        "statuses_count": 4185,
+        "time_zone": null,
+        "url": null,
+        "utc_offset": null,
+        "verified": false
+    }
+}
