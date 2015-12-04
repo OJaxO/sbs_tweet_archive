@@ -1,0 +1,152 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Dec 02 18:09:38 +0000 2015",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    73,
+                    85
+                ],
+                "text": "holidayfail"
+            },
+            {
+                "indices": [
+                    86,
+                    97
+                ],
+                "text": "pushCgetW6"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 30973,
+                "id_str": "30973",
+                "indices": [
+                    0,
+                    10
+                ],
+                "name": "Starbucks Coffee",
+                "screen_name": "Starbucks"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 672115423735775232,
+    "id_str": "672115423735775232",
+    "in_reply_to_screen_name": "Starbucks",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 30973,
+    "in_reply_to_user_id_str": "30973",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -112.3239143,
+                        33.29026
+                    ],
+                    [
+                        -111.9254391,
+                        33.29026
+                    ],
+                    [
+                        -111.9254391,
+                        33.8154652
+                    ],
+                    [
+                        -112.3239143,
+                        33.8154652
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Phoenix, AZ",
+        "id": "5c62ffb0f0f3479d",
+        "name": "Phoenix",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/5c62ffb0f0f3479d.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@Starbucks coffee spill from previous tweet ruined my wireless keyboard. #holidayfail #pushCgetW6",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Apr 06 16:53:16 +0000 2012",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Program Mgr for @phoenixprideaz : Runner : Hiker : Fighter 4 Equality : Purveyor of Awesomeness\n\nAll tweets & opinions are my own.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "anotherveganhipster.tumblr.com",
+                        "expanded_url": "http://anotherveganhipster.tumblr.com/",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/a3eI5ADnUq"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 91,
+        "follow_request_sent": false,
+        "followers_count": 173,
+        "following": false,
+        "friends_count": 268,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 546947678,
+        "id_str": "546947678",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 5,
+        "location": "Location:  By The Snacks",
+        "name": "Dani Logan",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/546947678/1355607229",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/631597454597554176/DF6OF_gq_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/631597454597554176/DF6OF_gq_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "heyyydani",
+        "statuses_count": 1977,
+        "time_zone": "Arizona",
+        "url": "http://t.co/a3eI5ADnUq",
+        "utc_offset": -25200,
+        "verified": false
+    }
+}

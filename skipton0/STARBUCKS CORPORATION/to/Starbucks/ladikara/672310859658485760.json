@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Dec 03 07:06:14 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 30973,
+                "id_str": "30973",
+                "indices": [
+                    0,
+                    10
+                ],
+                "name": "Starbucks Coffee",
+                "screen_name": "Starbucks"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 672310859658485760,
+    "id_str": "672310859658485760",
+    "in_reply_to_screen_name": "Starbucks",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 30973,
+    "in_reply_to_user_id_str": "30973",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -122.219209,
+                        37.8386908
+                    ],
+                    [
+                        -122.139444,
+                        37.8386908
+                    ],
+                    [
+                        -122.139444,
+                        37.920138
+                    ],
+                    [
+                        -122.219209,
+                        37.920138
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Orinda, CA",
+        "id": "ea049ae1073a8f35",
+        "name": "Orinda",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/ea049ae1073a8f35.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@Starbucks sent a gift card through app. Got an error saying try again later. Tried again and it processed. Friend got both. How to refund?",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Nov 28 18:41:17 +0000 2007",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "15+ year \u2708\ufe0f airline \u2708\ufe0f employee... \u2764\ufe0f my job & my amazing company. Living in the SF Bay Area but my \u2764\ufe0f will always be in the Pacific NW.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "facebook.com/ladikara",
+                        "expanded_url": "http://www.facebook.com/ladikara",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/RnUT2dn5Gm"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 931,
+        "follow_request_sent": false,
+        "followers_count": 52,
+        "following": false,
+        "friends_count": 231,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 10682252,
+        "id_str": "10682252",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 7,
+        "location": "Orinda, CA",
+        "name": "ladikara",
+        "notifications": false,
+        "profile_background_color": "89C9FA",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/550475805776547840/erS8doWH.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/550475805776547840/erS8doWH.jpeg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/10682252/1425006013",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/655985780695785472/FPW-Umfj_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/655985780695785472/FPW-Umfj_normal.jpg",
+        "profile_link_color": "FF6699",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "FFFFFF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "ladikara",
+        "statuses_count": 11993,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "https://t.co/RnUT2dn5Gm",
+        "utc_offset": -28800,
+        "verified": false
+    }
+}

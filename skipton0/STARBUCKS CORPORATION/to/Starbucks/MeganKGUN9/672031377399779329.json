@@ -1,0 +1,330 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Dec 02 12:35:40 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/abc15/status/6\u2026",
+                "expanded_url": "https://twitter.com/abc15/status/672029734046408704",
+                "indices": [
+                    113,
+                    136
+                ],
+                "url": "https://t.co/ZH3LohedTE"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 30973,
+                "id_str": "30973",
+                "indices": [
+                    0,
+                    10
+                ],
+                "name": "Starbucks Coffee",
+                "screen_name": "Starbucks"
+            },
+            {
+                "id": 39799109,
+                "id_str": "39799109",
+                "indices": [
+                    38,
+                    52
+                ],
+                "name": "Phoenix Police",
+                "screen_name": "phoenixpolice"
+            },
+            {
+                "id": 20205271,
+                "id_str": "20205271",
+                "indices": [
+                    83,
+                    89
+                ],
+                "name": "KGUN9 On Your Side",
+                "screen_name": "kgun9"
+            },
+            {
+                "id": 9721292,
+                "id_str": "9721292",
+                "indices": [
+                    105,
+                    111
+                ],
+                "name": "ABC15 Arizona",
+                "screen_name": "abc15"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 672031377399779329,
+    "id_str": "672031377399779329",
+    "in_reply_to_screen_name": "Starbucks",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 30973,
+    "in_reply_to_user_id_str": "30973",
+    "is_quote_status": true,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -111.083219,
+                        32.057802
+                    ],
+                    [
+                        -110.747928,
+                        32.057802
+                    ],
+                    [
+                        -110.747928,
+                        32.320979
+                    ],
+                    [
+                        -111.083219,
+                        32.320979
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Tucson, AZ",
+        "id": "013379ee5729a5e6",
+        "name": "Tucson",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/013379ee5729a5e6.json"
+    },
+    "possibly_sensitive": false,
+    "quoted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Wed Dec 02 12:29:08 +0000 2015",
+        "entities": {
+            "hashtags": [
+                {
+                    "indices": [
+                        104,
+                        110
+                    ],
+                    "text": "abc15"
+                }
+            ],
+            "media": [
+                {
+                    "display_url": "pic.twitter.com/zKkMeHljue",
+                    "expanded_url": "http://twitter.com/abc15/status/672029734046408704/photo/1",
+                    "id": 672029616152952833,
+                    "id_str": "672029616152952833",
+                    "indices": [
+                        111,
+                        134
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/CVOHYBVWwAEwoTM.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/CVOHYBVWwAEwoTM.jpg",
+                    "sizes": {
+                        "large": {
+                            "h": 480,
+                            "resize": "fit",
+                            "w": 640
+                        },
+                        "medium": {
+                            "h": 450,
+                            "resize": "fit",
+                            "w": 600
+                        },
+                        "small": {
+                            "h": 255,
+                            "resize": "fit",
+                            "w": 340
+                        },
+                        "thumb": {
+                            "h": 150,
+                            "resize": "crop",
+                            "w": 150
+                        }
+                    },
+                    "type": "photo",
+                    "url": "https://t.co/zKkMeHljue"
+                }
+            ],
+            "symbols": [],
+            "urls": [
+                {
+                    "display_url": "on.abc15.com/1XGETO7",
+                    "expanded_url": "http://on.abc15.com/1XGETO7",
+                    "indices": [
+                        80,
+                        103
+                    ],
+                    "url": "https://t.co/Mgdb1b1Rkk"
+                }
+            ],
+            "user_mentions": []
+        },
+        "favorite_count": 1,
+        "favorited": false,
+        "geo": null,
+        "id": 672029734046408704,
+        "id_str": "672029734046408704",
+        "in_reply_to_screen_name": null,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "is_quote_status": false,
+        "lang": "en",
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "place": null,
+        "possibly_sensitive": false,
+        "retweet_count": 1,
+        "retweeted": false,
+        "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+        "text": "Thoughts? Should Starbucks be allowed to sell alcohol? Phoenix PD is not a fan. https://t.co/Mgdb1b1Rkk #abc15 https://t.co/zKkMeHljue",
+        "truncated": false,
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Fri Oct 26 21:32:38 +0000 2007",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "Your #1 source for #breaking news in Arizona. Join our conversation with #abc15. News tip?  share@abc15.com or call 602-685-6351",
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "abc15.com",
+                            "expanded_url": "http://www.abc15.com",
+                            "indices": [
+                                0,
+                                22
+                            ],
+                            "url": "http://t.co/WsSXtWD6Ui"
+                        }
+                    ]
+                }
+            },
+            "favourites_count": 2524,
+            "follow_request_sent": false,
+            "followers_count": 146727,
+            "following": false,
+            "friends_count": 62290,
+            "geo_enabled": true,
+            "has_extended_profile": false,
+            "id": 9721292,
+            "id_str": "9721292",
+            "is_translation_enabled": false,
+            "is_translator": false,
+            "lang": "en",
+            "listed_count": 1826,
+            "location": "Phoenix, AZ",
+            "name": "ABC15 Arizona",
+            "notifications": false,
+            "profile_background_color": "1C1B19",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000082846431/844b51eccaeaa0a711bf6c6bffa56b62.jpeg",
+            "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000082846431/844b51eccaeaa0a711bf6c6bffa56b62.jpeg",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/9721292/1398200929",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/550984712378806273/GQhFtyB8_normal.jpeg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/550984712378806273/GQhFtyB8_normal.jpeg",
+            "profile_link_color": "D8920C",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "F2F0ED",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "abc15",
+            "statuses_count": 128186,
+            "time_zone": "Arizona",
+            "url": "http://t.co/WsSXtWD6Ui",
+            "utc_offset": -25200,
+            "verified": true
+        }
+    },
+    "quoted_status_id": 672029734046408704,
+    "quoted_status_id_str": "672029734046408704",
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@Starbucks wants to sell alcohol, but @phoenixpolice isn't on board. More info via @kgun9 sister station @abc15  https://t.co/ZH3LohedTE",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Aug 22 23:35:58 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Morning Reporter @kgun9 in #Tucson, AZ. Alumna/Class of 2015 @cronkite_asu & @CCJ_ASU. 22. Story idea?: megan.thompson@kgun9.com",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "kgun9.com",
+                        "expanded_url": "http://kgun9.com",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/bSyO5GkcGQ"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 732,
+        "follow_request_sent": false,
+        "followers_count": 1251,
+        "following": false,
+        "friends_count": 937,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 360271617,
+        "id_str": "360271617",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 46,
+        "location": "Tucson, AZ",
+        "name": "Megan Thompson",
+        "notifications": false,
+        "profile_background_color": "8B542B",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/360271617/1446040381",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/653991712423985152/JZaYeycy_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/653991712423985152/JZaYeycy_normal.jpg",
+        "profile_link_color": "9D582E",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "MeganKGUN9",
+        "statuses_count": 3405,
+        "time_zone": "Arizona",
+        "url": "https://t.co/bSyO5GkcGQ",
+        "utc_offset": -25200,
+        "verified": false
+    }
+}

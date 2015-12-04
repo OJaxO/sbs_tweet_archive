@@ -1,0 +1,199 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Dec 03 16:04:26 +0000 2015",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    59,
+                    64
+                ],
+                "text": "fail"
+            },
+            {
+                "indices": [
+                    65,
+                    72
+                ],
+                "text": "donuts"
+            },
+            {
+                "indices": [
+                    73,
+                    81
+                ],
+                "text": "snowman"
+            },
+            {
+                "indices": [
+                    82,
+                    92
+                ],
+                "text": "starbucks"
+            },
+            {
+                "indices": [
+                    93,
+                    97
+                ],
+                "text": "dry"
+            }
+        ],
+        "media": [
+            {
+                "display_url": "pic.twitter.com/fAKLr3dSfV",
+                "expanded_url": "http://twitter.com/SummerRunner7/status/672446301322088448/photo/1",
+                "id": 672446296314089472,
+                "id_str": "672446296314089472",
+                "indices": [
+                    98,
+                    121
+                ],
+                "media_url": "http://pbs.twimg.com/media/CVUCV_5UEAA8DPt.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/CVUCV_5UEAA8DPt.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 1024,
+                        "resize": "fit",
+                        "w": 768
+                    },
+                    "medium": {
+                        "h": 800,
+                        "resize": "fit",
+                        "w": 600
+                    },
+                    "small": {
+                        "h": 453,
+                        "resize": "fit",
+                        "w": 340
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/fAKLr3dSfV"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 30973,
+                "id_str": "30973",
+                "indices": [
+                    0,
+                    10
+                ],
+                "name": "Starbucks Coffee",
+                "screen_name": "Starbucks"
+            }
+        ]
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": null,
+    "id": 672446301322088448,
+    "id_str": "672446301322088448",
+    "in_reply_to_screen_name": "Starbucks",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 30973,
+    "in_reply_to_user_id_str": "30973",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -95.823268,
+                        29.522325
+                    ],
+                    [
+                        -95.069705,
+                        29.522325
+                    ],
+                    [
+                        -95.069705,
+                        30.1546646
+                    ],
+                    [
+                        -95.823268,
+                        30.1546646
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Houston, TX",
+        "id": "1c69a67ad480e1b1",
+        "name": "Houston",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/1c69a67ad480e1b1.json"
+    },
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@Starbucks my snowman donuts are dry and not yummy at all. #fail #donuts #snowman #starbucks #dry https://t.co/fAKLr3dSfV",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Nov 11 16:28:31 +0000 2013",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 148,
+        "follow_request_sent": false,
+        "followers_count": 57,
+        "following": false,
+        "friends_count": 154,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 2188662422,
+        "id_str": "2188662422",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 3,
+        "location": "Houston,TX",
+        "name": "SummerRunner",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2188662422/1390457349",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/378800000726747865/3748f637c96ad61921af34f03dcdab38_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000726747865/3748f637c96ad61921af34f03dcdab38_normal.jpeg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "SummerRunner7",
+        "statuses_count": 362,
+        "time_zone": null,
+        "url": null,
+        "utc_offset": null,
+        "verified": false
+    }
+}

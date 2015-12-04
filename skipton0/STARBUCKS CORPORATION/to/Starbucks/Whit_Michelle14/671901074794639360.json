@@ -1,0 +1,147 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Dec 02 03:57:54 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 30973,
+                "id_str": "30973",
+                "indices": [
+                    0,
+                    10
+                ],
+                "name": "Starbucks Coffee",
+                "screen_name": "Starbucks"
+            },
+            {
+                "id": 38873847,
+                "id_str": "38873847",
+                "indices": [
+                    11,
+                    25
+                ],
+                "name": "Jessica Grace White",
+                "screen_name": "JessicaGraceW"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 671901074794639360,
+    "id_str": "671901074794639360",
+    "in_reply_to_screen_name": "Starbucks",
+    "in_reply_to_status_id": 671697791010258944,
+    "in_reply_to_status_id_str": "671697791010258944",
+    "in_reply_to_user_id": 30973,
+    "in_reply_to_user_id_str": "30973",
+    "is_quote_status": false,
+    "lang": "und",
+    "metadata": {
+        "iso_language_code": "und",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -90.135782,
+                        34.994192
+                    ],
+                    [
+                        -89.708276,
+                        34.994192
+                    ],
+                    [
+                        -89.708276,
+                        35.2728491
+                    ],
+                    [
+                        -90.135782,
+                        35.2728491
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Memphis, TN",
+        "id": "f995a9bd45d4a867",
+        "name": "Memphis",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/f995a9bd45d4a867.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@Starbucks @JessicaGraceW",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu May 29 13:12:20 +0000 2014",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Faith believer of Jesus Christ, motivator, mentor, and entrepreneur!!! I look forward to encouraging, learning, and doing business with everyone on twitter!!!!",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "whitmichelleboutique.com",
+                        "expanded_url": "http://www.whitmichelleboutique.com",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/fydd5TS6Ow"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 1622,
+        "follow_request_sent": false,
+        "followers_count": 119,
+        "following": false,
+        "friends_count": 349,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 2570419191,
+        "id_str": "2570419191",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 12,
+        "location": "",
+        "name": "Whitney Smith",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2570419191/1401369587",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/625464680782368768/_6pBSHw__normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/625464680782368768/_6pBSHw__normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Whit_Michelle14",
+        "statuses_count": 845,
+        "time_zone": null,
+        "url": "http://t.co/fydd5TS6Ow",
+        "utc_offset": null,
+        "verified": false
+    }
+}

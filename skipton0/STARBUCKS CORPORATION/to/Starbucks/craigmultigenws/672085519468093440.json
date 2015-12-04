@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Dec 02 16:10:49 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 30973,
+                "id_str": "30973",
+                "indices": [
+                    0,
+                    10
+                ],
+                "name": "Starbucks Coffee",
+                "screen_name": "Starbucks"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 672085519468093440,
+    "id_str": "672085519468093440",
+    "in_reply_to_screen_name": "Starbucks",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 30973,
+    "in_reply_to_user_id_str": "30973",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -122.546166,
+                        48.689345
+                    ],
+                    [
+                        -122.314388,
+                        48.689345
+                    ],
+                    [
+                        -122.314388,
+                        48.81736
+                    ],
+                    [
+                        -122.546166,
+                        48.81736
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Bellingham, WA",
+        "id": "83615874f73de6c7",
+        "name": "Bellingham",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/83615874f73de6c7.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@Starbucks I want to let you know that your policy of earning goods via stars, then taking away if not used quickly is a terrible policy.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Apr 02 21:32:09 +0000 2010",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "The need for Objective, Independent Advice has never been greater.\r\n\r\nSecurites offered through LPL Financial, Member FINRA/SIPC",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "multigenws.com",
+                        "expanded_url": "http://www.multigenws.com",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/LX7lOJrW63"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 686,
+        "follow_request_sent": false,
+        "followers_count": 219,
+        "following": false,
+        "friends_count": 628,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 128995975,
+        "id_str": "128995975",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 17,
+        "location": "Bellingham, Washington USA",
+        "name": "Craig Brown",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/128995975/1404339252",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/484459616634273792/Gifrj7tb_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/484459616634273792/Gifrj7tb_normal.jpeg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "craigmultigenws",
+        "statuses_count": 1865,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "http://t.co/LX7lOJrW63",
+        "utc_offset": -28800,
+        "verified": false
+    }
+}

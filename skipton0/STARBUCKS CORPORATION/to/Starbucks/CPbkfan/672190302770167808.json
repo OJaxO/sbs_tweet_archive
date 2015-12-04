@@ -1,0 +1,163 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Dec 02 23:07:11 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "media": [
+            {
+                "display_url": "pic.twitter.com/nMZvg74Nck",
+                "expanded_url": "http://twitter.com/CPbkfan/status/672190302770167808/photo/1",
+                "id": 672190291894517760,
+                "id_str": "672190291894517760",
+                "indices": [
+                    117,
+                    140
+                ],
+                "media_url": "http://pbs.twimg.com/media/CVQZglHWwAAFhtJ.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/CVQZglHWwAAFhtJ.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 1024,
+                        "resize": "fit",
+                        "w": 768
+                    },
+                    "medium": {
+                        "h": 800,
+                        "resize": "fit",
+                        "w": 600
+                    },
+                    "small": {
+                        "h": 453,
+                        "resize": "fit",
+                        "w": 340
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/nMZvg74Nck"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 30973,
+                "id_str": "30973",
+                "indices": [
+                    0,
+                    10
+                ],
+                "name": "Starbucks Coffee",
+                "screen_name": "Starbucks"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 672190302770167808,
+    "id_str": "672190302770167808",
+    "in_reply_to_screen_name": "Starbucks",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 30973,
+    "in_reply_to_user_id_str": "30973",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -76.505543,
+                        45.091867
+                    ],
+                    [
+                        -76.075002,
+                        45.091867
+                    ],
+                    [
+                        -76.075002,
+                        45.410522
+                    ],
+                    [
+                        -76.505543,
+                        45.410522
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "Canada",
+        "country_code": "CA",
+        "full_name": "Mississippi Mills, Ontario",
+        "id": "6272bcf0d50dfbb1",
+        "name": "Mississippi Mills",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/6272bcf0d50dfbb1.json"
+    },
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@Starbucks Carleton Place Starbucks really knows how to sell the customer ice with their lemonade, true value for $4 https://t.co/nMZvg74Nck",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Aug 25 17:08:43 +0000 2014",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Nascar Fan and Master of Vintage Audio Restoration- welcome to my world of loud v8's , tubes and solid state goodness. Huge supporter of the #2. Also a BK.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 96,
+        "follow_request_sent": false,
+        "followers_count": 62,
+        "following": false,
+        "friends_count": 66,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 2767058804,
+        "id_str": "2767058804",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 2,
+        "location": "Up North Eh?",
+        "name": "BKFAN",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2767058804/1408986926",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/656591581982650368/BY8ktwnv_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/656591581982650368/BY8ktwnv_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "CPbkfan",
+        "statuses_count": 1646,
+        "time_zone": null,
+        "url": null,
+        "utc_offset": null,
+        "verified": false
+    }
+}
