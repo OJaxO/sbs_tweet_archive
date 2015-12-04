@@ -1,0 +1,155 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Dec 02 21:41:17 +0000 2015",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    123,
+                    126
+                ],
+                "text": "VW"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 247026381,
+                "id_str": "247026381",
+                "indices": [
+                    0,
+                    11
+                ],
+                "name": "Volkswagen",
+                "screen_name": "Volkswagen"
+            },
+            {
+                "id": 125266275,
+                "id_str": "125266275",
+                "indices": [
+                    12,
+                    28
+                ],
+                "name": "Volkswagen India",
+                "screen_name": "volkswagenindia"
+            }
+        ]
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": null,
+    "id": 672168683364478976,
+    "id_str": "672168683364478976",
+    "in_reply_to_screen_name": "Volkswagen",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 247026381,
+    "in_reply_to_user_id_str": "247026381",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        72.7458022,
+                        18.8453429
+                    ],
+                    [
+                        73.0036476,
+                        18.8453429
+                    ],
+                    [
+                        73.0036476,
+                        19.5029372
+                    ],
+                    [
+                        72.7458022,
+                        19.5029372
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "India",
+        "country_code": "IN",
+        "full_name": "Mumbai, Maharashtra",
+        "id": "7929cea6bd5b32bd",
+        "name": "Mumbai",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/7929cea6bd5b32bd.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@Volkswagen @volkswagenindia Is New Polo 1.5 TDI is also fitted with the Cheat device I just booked one, loyal customer of #VW owns a 1.2TDI",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Jul 04 13:55:09 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "There's a purpose for every living Soul,\nTo find them is One!.\nLt Blak is the Journey of a Soul.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "about.me/LtBlak",
+                        "expanded_url": "http://about.me/LtBlak",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/kAaweGT2uw"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 910,
+        "follow_request_sent": false,
+        "followers_count": 676,
+        "following": false,
+        "friends_count": 1662,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 329065966,
+        "id_str": "329065966",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 21,
+        "location": "Mumbai",
+        "name": "Lt Blak",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/816227999/709b3ca3af8a0d18582645b234a3438b.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/816227999/709b3ca3af8a0d18582645b234a3438b.jpeg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/329065966/1363455202",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/452108990185345025/Kb6Nn7Xo_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/452108990185345025/Kb6Nn7Xo_normal.png",
+        "profile_link_color": "2FC2EF",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "666666",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "LtBlak",
+        "statuses_count": 4123,
+        "time_zone": "Mumbai",
+        "url": "https://t.co/kAaweGT2uw",
+        "utc_offset": 19800,
+        "verified": false
+    }
+}
