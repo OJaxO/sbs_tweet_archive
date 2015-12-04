@@ -1,0 +1,147 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Dec 02 05:21:15 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 21021891,
+                "id_str": "21021891",
+                "indices": [
+                    0,
+                    8
+                ],
+                "name": "Chevron",
+                "screen_name": "Chevron"
+            },
+            {
+                "id": 2873886062,
+                "id_str": "2873886062",
+                "indices": [
+                    9,
+                    22
+                ],
+                "name": "Dr. Huma Abbasi",
+                "screen_name": "DrHumaAbbasi"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 671922050584477696,
+    "id_str": "671922050584477696",
+    "in_reply_to_screen_name": "Chevron",
+    "in_reply_to_status_id": 671737008012656640,
+    "in_reply_to_status_id_str": "671737008012656640",
+    "in_reply_to_user_id": 21021891,
+    "in_reply_to_user_id_str": "21021891",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -74.026675,
+                        40.683935
+                    ],
+                    [
+                        -73.910408,
+                        40.683935
+                    ],
+                    [
+                        -73.910408,
+                        40.877483
+                    ],
+                    [
+                        -74.026675,
+                        40.877483
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Manhattan, NY",
+        "id": "01a9a39529b27f36",
+        "name": "Manhattan",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/01a9a39529b27f36.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@Chevron @DrHumaAbbasi Did Twitter seriously just suggest Chevron to me? You send paramilitaries to murder pro-people activists. Fuck off.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Mar 27 22:39:53 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "To get these 'Life Span' ideas going for young adults who've got my Spasticity (Muscle-Tightness) Cerebral Palsy, we gotta do it ourselves and abandon charity.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "rhizotomyfilm.com",
+                        "expanded_url": "http://www.rhizotomyfilm.com",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/ulMPCZpaoZ"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 99,
+        "follow_request_sent": false,
+        "followers_count": 370,
+        "following": false,
+        "friends_count": 783,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 127057663,
+        "id_str": "127057663",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 35,
+        "location": "London W2",
+        "name": "nico phillips",
+        "notifications": false,
+        "profile_background_color": "1A1B1F",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/92857125/Screen_shot_2010-04-16_at_9.25.14_PM.png",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/92857125/Screen_shot_2010-04-16_at_9.25.14_PM.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/127057663/1355097264",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/3303812326/6821f1713f77abf0135385cb16bcb040_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/3303812326/6821f1713f77abf0135385cb16bcb040_normal.jpeg",
+        "profile_link_color": "E80E0E",
+        "profile_sidebar_border_color": "181A1E",
+        "profile_sidebar_fill_color": "252429",
+        "profile_text_color": "666666",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "nicosuavehh",
+        "statuses_count": 23546,
+        "time_zone": "London",
+        "url": "http://t.co/ulMPCZpaoZ",
+        "utc_offset": 0,
+        "verified": false
+    }
+}
