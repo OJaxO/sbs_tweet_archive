@@ -1,0 +1,147 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Dec 02 16:55:41 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 252792134,
+                "id_str": "252792134",
+                "indices": [
+                    0,
+                    13
+                ],
+                "name": "LinkedIn Help",
+                "screen_name": "LinkedInHelp"
+            },
+            {
+                "id": 13058772,
+                "id_str": "13058772",
+                "indices": [
+                    72,
+                    81
+                ],
+                "name": "LinkedIn",
+                "screen_name": "LinkedIn"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 672096809708331008,
+    "id_str": "672096809708331008",
+    "in_reply_to_screen_name": "LinkedInHelp",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 252792134,
+    "in_reply_to_user_id_str": "252792134",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        2.0524766,
+                        41.3199988
+                    ],
+                    [
+                        2.2261223,
+                        41.3199988
+                    ],
+                    [
+                        2.2261223,
+                        41.4682658
+                    ],
+                    [
+                        2.0524766,
+                        41.4682658
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "Espa\u00f1a",
+        "country_code": "ES",
+        "full_name": "Barcelona, Catalonia",
+        "id": "1a27537478dd8e38",
+        "name": "Barcelona",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/1a27537478dd8e38.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@LinkedInHelp LinkedIn is now working :/\nWe hope you will fix that soon @LinkedIn",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Feb 15 15:08:52 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "#SAPjobs by NBS is #SAP #consultants in SAP #recruitment rather than recruiters in SAP.  #SAPtd, #IoT #cloud #BigData, #analytics",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "nbssap.com",
+                        "expanded_url": "http://www.nbssap.com",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/j7YBkOnyIZ"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 2025,
+        "follow_request_sent": false,
+        "followers_count": 1036,
+        "following": false,
+        "friends_count": 1429,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 20914367,
+        "id_str": "20914367",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 127,
+        "location": "UK and EMEA",
+        "name": "SAPJobs by NBS",
+        "notifications": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/20914367/1399288504",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/463263452048289792/GLMkt6pR_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/463263452048289792/GLMkt6pR_normal.png",
+        "profile_link_color": "00AAC9",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "SAPjobsNBS",
+        "statuses_count": 9602,
+        "time_zone": "Madrid",
+        "url": "http://t.co/j7YBkOnyIZ",
+        "utc_offset": 3600,
+        "verified": false
+    }
+}

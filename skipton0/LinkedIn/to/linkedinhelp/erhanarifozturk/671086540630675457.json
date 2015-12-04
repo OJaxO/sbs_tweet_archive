@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Nov 29 22:01:14 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 252792134,
+                "id_str": "252792134",
+                "indices": [
+                    0,
+                    13
+                ],
+                "name": "LinkedIn Help",
+                "screen_name": "LinkedInHelp"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 671086540630675457,
+    "id_str": "671086540630675457",
+    "in_reply_to_screen_name": "LinkedInHelp",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 252792134,
+    "in_reply_to_user_id_str": "252792134",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        32.7288976,
+                        39.9450397
+                    ],
+                    [
+                        32.7558368,
+                        39.9450397
+                    ],
+                    [
+                        32.7558368,
+                        39.9697793
+                    ],
+                    [
+                        32.7288976,
+                        39.9697793
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "T\u00fcrkiye",
+        "country_code": "TR",
+        "full_name": "U\u011fur Mumcu, Yenimahalle",
+        "id": "156d416a9290568c",
+        "name": "U\u011fur Mumcu",
+        "place_type": "neighborhood",
+        "url": "https://api.twitter.com/1.1/geo/id/156d416a9290568c.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for i\u039fS</a>",
+    "text": "@LinkedInHelp (2/2) There was an unexpected problem that prevented us from completing your request. what can i do?",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon May 09 16:58:48 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "1989'dan itibaren Ankara'day\u0131m. Doksanl\u0131 y\u0131llar\u0131n ba\u015flar\u0131ndaki Ankara'ya hayran olanlardan\u0131m.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "eaozturk.wordpress.com",
+                        "expanded_url": "https://eaozturk.wordpress.com/",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/lFx6UDBdza"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 41,
+        "follow_request_sent": false,
+        "followers_count": 24,
+        "following": false,
+        "friends_count": 125,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 295774310,
+        "id_str": "295774310",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 2,
+        "location": "Ankara",
+        "name": "Erhan A. \u00d6zt\u00fcrk",
+        "notifications": false,
+        "profile_background_color": "352726",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/295774310/1367087302",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/619223818624724992/lYo2o8CI_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/619223818624724992/lYo2o8CI_normal.jpg",
+        "profile_link_color": "D02B55",
+        "profile_sidebar_border_color": "829D5E",
+        "profile_sidebar_fill_color": "99CC33",
+        "profile_text_color": "3E4415",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "erhanarifozturk",
+        "statuses_count": 199,
+        "time_zone": "Istanbul",
+        "url": "https://t.co/lFx6UDBdza",
+        "utc_offset": 7200,
+        "verified": false
+    }
+}

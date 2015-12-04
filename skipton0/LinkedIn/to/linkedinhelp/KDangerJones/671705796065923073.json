@@ -1,0 +1,147 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 01 15:01:56 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 252792134,
+                "id_str": "252792134",
+                "indices": [
+                    0,
+                    13
+                ],
+                "name": "LinkedIn Help",
+                "screen_name": "LinkedInHelp"
+            },
+            {
+                "id": 605805760,
+                "id_str": "605805760",
+                "indices": [
+                    92,
+                    100
+                ],
+                "name": "Outlook",
+                "screen_name": "Outlook"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 671705796065923073,
+    "id_str": "671705796065923073",
+    "in_reply_to_screen_name": "LinkedInHelp",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 252792134,
+    "in_reply_to_user_id_str": "252792134",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -123.224273,
+                        49.1985402
+                    ],
+                    [
+                        -123.022947,
+                        49.1985402
+                    ],
+                    [
+                        -123.022947,
+                        49.316738
+                    ],
+                    [
+                        -123.224273,
+                        49.316738
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "Canada",
+        "country_code": "CA",
+        "full_name": "Vancouver, British Columbia",
+        "id": "1e5cb4d0509db554",
+        "name": "Vancouver",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/1e5cb4d0509db554.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@LinkedInHelp please stop spamming my contacts!\nHow do I withdraw the contact request of my @Outlook contacts? People are not happy with me",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Apr 04 04:06:52 +0000 2012",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "teach, preach & beach",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "kevindeynajones.wordpress.com",
+                        "expanded_url": "http://www.kevindeynajones.wordpress.com",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/5az0lDQiuU"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 604,
+        "follow_request_sent": false,
+        "followers_count": 331,
+        "following": false,
+        "friends_count": 1856,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 544825048,
+        "id_str": "544825048",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 4,
+        "location": "from Soho to Singapore",
+        "name": "Kev Indiana",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/544825048/1401737594",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/2982400272/3efed3fbf7c6546309005ebf1ef43df6_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/2982400272/3efed3fbf7c6546309005ebf1ef43df6_normal.jpeg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "KDangerJones",
+        "statuses_count": 620,
+        "time_zone": null,
+        "url": "http://t.co/5az0lDQiuU",
+        "utc_offset": null,
+        "verified": false
+    }
+}
