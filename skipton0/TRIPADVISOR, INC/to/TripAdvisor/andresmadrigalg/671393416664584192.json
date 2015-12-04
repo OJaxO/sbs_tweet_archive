@@ -1,0 +1,173 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Nov 30 18:20:39 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "media": [
+            {
+                "display_url": "pic.twitter.com/td9NKNgbZR",
+                "expanded_url": "http://twitter.com/andresmadrigalg/status/671393416664584192/photo/1",
+                "id": 671393343260127232,
+                "id_str": "671393343260127232",
+                "indices": [
+                    95,
+                    118
+                ],
+                "media_url": "http://pbs.twimg.com/media/CVFEsEGU8AAEfXE.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/CVFEsEGU8AAEfXE.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 1024,
+                        "resize": "fit",
+                        "w": 575
+                    },
+                    "medium": {
+                        "h": 1024,
+                        "resize": "fit",
+                        "w": 575
+                    },
+                    "small": {
+                        "h": 605,
+                        "resize": "fit",
+                        "w": 340
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/td9NKNgbZR"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 16365636,
+                "id_str": "16365636",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "TripAdvisor",
+                "screen_name": "TripAdvisor"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 671393416664584192,
+    "id_str": "671393416664584192",
+    "in_reply_to_screen_name": "TripAdvisor",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 16365636,
+    "in_reply_to_user_id_str": "16365636",
+    "is_quote_status": false,
+    "lang": "es",
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -83.051445,
+                        7.20386
+                    ],
+                    [
+                        -77.1741104,
+                        7.20386
+                    ],
+                    [
+                        -77.1741104,
+                        9.6394858
+                    ],
+                    [
+                        -83.051445,
+                        9.6394858
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "Panama",
+        "country_code": "PA",
+        "full_name": "Panama",
+        "id": "9d8ae4b0fac2036a",
+        "name": "Panama",
+        "place_type": "country",
+        "url": "https://api.twitter.com/1.1/geo/id/9d8ae4b0fac2036a.json"
+    },
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@TripAdvisor pensaba que ustedes  eran serios, pero veo que todo vale incluso los que no comen https://t.co/td9NKNgbZR",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Apr 28 11:33:24 +0000 2011",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "http://t.co/zNJEkqhRm9",
+        "entities": {
+            "description": {
+                "urls": [
+                    {
+                        "display_url": "andresmadrigal.com",
+                        "expanded_url": "http://www.andresmadrigal.com",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/zNJEkqhRm9"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 48,
+        "follow_request_sent": false,
+        "followers_count": 4308,
+        "following": false,
+        "friends_count": 187,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 289292606,
+        "id_str": "289292606",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "es",
+        "listed_count": 137,
+        "location": "",
+        "name": "andres madrigal",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/289292606/1441815933",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/638402774649077760/OETC19-g_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/638402774649077760/OETC19-g_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "andresmadrigalg",
+        "statuses_count": 27291,
+        "time_zone": null,
+        "url": null,
+        "utc_offset": null,
+        "verified": false
+    }
+}

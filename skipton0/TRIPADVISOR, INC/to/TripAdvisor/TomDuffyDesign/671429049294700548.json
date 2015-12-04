@@ -1,0 +1,188 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Nov 30 20:42:14 +0000 2015",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    13,
+                    22
+                ],
+                "text": "discover"
+            },
+            {
+                "indices": [
+                    23,
+                    27
+                ],
+                "text": "Eco"
+            },
+            {
+                "indices": [
+                    28,
+                    35
+                ],
+                "text": "Artist"
+            },
+            {
+                "indices": [
+                    49,
+                    55
+                ],
+                "text": "vegan"
+            },
+            {
+                "indices": [
+                    56,
+                    64
+                ],
+                "text": "oddessy"
+            },
+            {
+                "indices": [
+                    65,
+                    72
+                ],
+                "text": "Sweden"
+            },
+            {
+                "indices": [
+                    76,
+                    84
+                ],
+                "text": "ireland"
+            },
+            {
+                "indices": [
+                    107,
+                    111
+                ],
+                "text": "art"
+            },
+            {
+                "indices": [
+                    128,
+                    134
+                ],
+                "text": "cop21"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 16365636,
+                "id_str": "16365636",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "TripAdvisor",
+                "screen_name": "TripAdvisor"
+            }
+        ]
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": null,
+    "id": 671429049294700548,
+    "id_str": "671429049294700548",
+    "in_reply_to_screen_name": "TripAdvisor",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 16365636,
+    "in_reply_to_user_id_str": "16365636",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -6.3873911,
+                        53.2987449
+                    ],
+                    [
+                        -6.1078047,
+                        53.2987449
+                    ],
+                    [
+                        -6.1078047,
+                        53.4110598
+                    ],
+                    [
+                        -6.3873911,
+                        53.4110598
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "Ireland",
+        "country_code": "IE",
+        "full_name": "Dublin City, Ireland",
+        "id": "7dde0febc9ef245b",
+        "name": "Dublin City",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/7dde0febc9ef245b.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@TripAdvisor #discover #Eco #Artist Imelda Dalys #vegan #oddessy #Sweden to #ireland overland bringing her #art home 0834521931 #cop21",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Nov 15 12:07:12 +0000 2013",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Architects - Green Design Builders -Environmental Construction Shop Office Art Gallery  - 142 Upper Leeson Street Dublin 4 .",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 618,
+        "follow_request_sent": false,
+        "followers_count": 710,
+        "following": false,
+        "friends_count": 2015,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 2181883785,
+        "id_str": "2181883785",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 34,
+        "location": "Dublin",
+        "name": "GreenDesignBuild",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2181883785/1439555681",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/568712910273126400/SUWec5y3_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/568712910273126400/SUWec5y3_normal.jpeg",
+        "profile_link_color": "4A913C",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "TomDuffyDesign",
+        "statuses_count": 2476,
+        "time_zone": "Amsterdam",
+        "url": null,
+        "utc_offset": 3600,
+        "verified": false
+    }
+}

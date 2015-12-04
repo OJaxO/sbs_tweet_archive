@@ -1,0 +1,124 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Nov 30 00:01:18 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 16365636,
+                "id_str": "16365636",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "TripAdvisor",
+                "screen_name": "TripAdvisor"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 671116759592599552,
+    "id_str": "671116759592599552",
+    "in_reply_to_screen_name": "TripAdvisor",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 16365636,
+    "in_reply_to_user_id_str": "16365636",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        98.940362,
+                        18.7406115
+                    ],
+                    [
+                        98.9974603,
+                        18.7406115
+                    ],
+                    [
+                        98.9974603,
+                        18.8428276
+                    ],
+                    [
+                        98.940362,
+                        18.8428276
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "\u0e1b\u0e23\u0e30\u0e40\u0e17\u0e28\u0e44\u0e17\u0e22",
+        "country_code": "TH",
+        "full_name": "Chiang Mai, Thailand",
+        "id": "00a490340cc406c5",
+        "name": "Chiang Mai",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/00a490340cc406c5.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@TripAdvisor is my life at the moment",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Feb 02 14:32:55 +0000 2014",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "West Sussex. England",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 1901,
+        "follow_request_sent": false,
+        "followers_count": 178,
+        "following": false,
+        "friends_count": 252,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 2320089778,
+        "id_str": "2320089778",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en-gb",
+        "listed_count": 1,
+        "location": "",
+        "name": "Ryan Stevens",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2320089778/1448950920",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/652400999013986304/nq6rxAeK_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/652400999013986304/nq6rxAeK_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "stevens2691",
+        "statuses_count": 3220,
+        "time_zone": null,
+        "url": null,
+        "utc_offset": null,
+        "verified": false
+    }
+}
