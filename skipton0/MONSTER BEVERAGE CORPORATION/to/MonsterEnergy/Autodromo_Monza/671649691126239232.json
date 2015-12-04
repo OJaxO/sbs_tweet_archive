@@ -1,0 +1,182 @@
+{
+    "contributors": null,
+    "coordinates": {
+        "coordinates": [
+            9.28187037,
+            45.61764384
+        ],
+        "type": "Point"
+    },
+    "created_at": "Tue Dec 01 11:18:59 +0000 2015",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    49,
+                    64
+                ],
+                "text": "MonzaRallyShow"
+            },
+            {
+                "indices": [
+                    67,
+                    80
+                ],
+                "text": "monstergirls"
+            },
+            {
+                "indices": [
+                    81,
+                    95
+                ],
+                "text": "monsterenergy"
+            }
+        ],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "instagram.com/p/-v0xu4RnyR/",
+                "expanded_url": "https://www.instagram.com/p/-v0xu4RnyR/",
+                "indices": [
+                    97,
+                    120
+                ],
+                "url": "https://t.co/7kwzGB2oC5"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 63253045,
+                "id_str": "63253045",
+                "indices": [
+                    0,
+                    14
+                ],
+                "name": "Monster Energy",
+                "screen_name": "MonsterEnergy"
+            }
+        ]
+    },
+    "favorite_count": 2,
+    "favorited": false,
+    "geo": {
+        "coordinates": [
+            45.61764384,
+            9.28187037
+        ],
+        "type": "Point"
+    },
+    "id": 671649691126239232,
+    "id_str": "671649691126239232",
+    "in_reply_to_screen_name": "MonsterEnergy",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 63253045,
+    "in_reply_to_user_id_str": "63253045",
+    "is_quote_status": false,
+    "lang": "es",
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        9.227141,
+                        45.5533685
+                    ],
+                    [
+                        9.3244191,
+                        45.5533685
+                    ],
+                    [
+                        9.3244191,
+                        45.6322225
+                    ],
+                    [
+                        9.227141,
+                        45.6322225
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "Italia",
+        "country_code": "IT",
+        "full_name": "Monza, Lombardia",
+        "id": "7067a1473fe90df3",
+        "name": "Monza",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/7067a1473fe90df3.json"
+    },
+    "possibly_sensitive": false,
+    "retweet_count": 1,
+    "retweeted": false,
+    "source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+    "text": "@monsterenergy girls sul podio dell'autodromo al #MonzaRallyShow \n\n#monstergirls #monsterenergy\u2026 https://t.co/7kwzGB2oC5",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Oct 29 13:27:36 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Formula 1 Italian Gran Prix 2015 and #MonzaRallyShow",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "monzanet.it",
+                        "expanded_url": "http://www.monzanet.it/",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/ptybgj8kqS"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 3154,
+        "follow_request_sent": false,
+        "followers_count": 15109,
+        "following": false,
+        "friends_count": 573,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 209580428,
+        "id_str": "209580428",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "it",
+        "listed_count": 378,
+        "location": "Monza, Lombardia",
+        "name": "Autodromo Naz Monza",
+        "notifications": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/795024153/cfe347c8d2683ebb73fce8be29287c59.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/795024153/cfe347c8d2683ebb73fce8be29287c59.jpeg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/209580428/1448875669",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/667815140599996416/YWQlLTGQ_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/667815140599996416/YWQlLTGQ_normal.png",
+        "profile_link_color": "3B94D9",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Autodromo_Monza",
+        "statuses_count": 4326,
+        "time_zone": "Rome",
+        "url": "http://t.co/ptybgj8kqS",
+        "utc_offset": 3600,
+        "verified": false
+    }
+}
