@@ -1,0 +1,147 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 01 18:16:31 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 74286565,
+                "id_str": "74286565",
+                "indices": [
+                    0,
+                    10
+                ],
+                "name": "Microsoft",
+                "screen_name": "Microsoft"
+            },
+            {
+                "id": 75691804,
+                "id_str": "75691804",
+                "indices": [
+                    11,
+                    26
+                ],
+                "name": "Microsoft Support",
+                "screen_name": "MicrosoftHelps"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 671754767908003840,
+    "id_str": "671754767908003840",
+    "in_reply_to_screen_name": "Microsoft",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 74286565,
+    "in_reply_to_user_id_str": "74286565",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -118.082615,
+                        33.6289907
+                    ],
+                    [
+                        -117.91485,
+                        33.6289907
+                    ],
+                    [
+                        -117.91485,
+                        33.756093
+                    ],
+                    [
+                        -118.082615,
+                        33.756093
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Huntington Beach, CA",
+        "id": "80eb17ffe368fc9a",
+        "name": "Huntington Beach",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/80eb17ffe368fc9a.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@Microsoft @MicrosoftHelps Swiftly Update 10 to Run Gadgets Safely Again + a Pro for Pro Update Offer= Expand new clients by billion$!!  ;))",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Oct 30 05:11:00 +0000 2014",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Game Industry Entrepreneur, Artist,Designer,Musician,Walking Think Tank,Comic,Promos and Reviews, Live Streamer",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "twitch.tv/Demolordz",
+                        "expanded_url": "http://www.twitch.tv/Demolordz",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/PkM32GuXHs"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 638,
+        "follow_request_sent": false,
+        "followers_count": 309,
+        "following": false,
+        "friends_count": 2063,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 2882929682,
+        "id_str": "2882929682",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 11,
+        "location": "SoCal",
+        "name": "John Schwabl",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2882929682/1448752130",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/670741166954975232/k4nDSp93_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/670741166954975232/k4nDSp93_normal.jpg",
+        "profile_link_color": "DD2E44",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "JohnSchwabl",
+        "statuses_count": 614,
+        "time_zone": null,
+        "url": "http://t.co/PkM32GuXHs",
+        "utc_offset": null,
+        "verified": false
+    }
+}
