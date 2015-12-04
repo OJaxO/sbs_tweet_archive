@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Dec 04 01:29:01 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 271516607,
+                "id_str": "271516607",
+                "indices": [
+                    0,
+                    8
+                ],
+                "name": "UPS Customer Support",
+                "screen_name": "UPSHelp"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 672588382816481281,
+    "id_str": "672588382816481281",
+    "in_reply_to_screen_name": "UPSHelp",
+    "in_reply_to_status_id": 672587127037796354,
+    "in_reply_to_status_id_str": "672587127037796354",
+    "in_reply_to_user_id": 271516607,
+    "in_reply_to_user_id_str": "271516607",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -98.2149552,
+                        29.6454403
+                    ],
+                    [
+                        -98.0315444,
+                        29.6454403
+                    ],
+                    [
+                        -98.0315444,
+                        29.765788
+                    ],
+                    [
+                        -98.2149552,
+                        29.765788
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "New Braunfels, TX",
+        "id": "c807df9bb77ea0b3",
+        "name": "New Braunfels",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/c807df9bb77ea0b3.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@UPSHelp sent",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Apr 12 01:40:51 +0000 2013",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "\u03a3\u03a3\u03a3. I float like a butterfly and sting like a bee. Get at me.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "meluvsyoutoo.tumblr.com",
+                        "expanded_url": "http://meluvsyoutoo.tumblr.com",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/fHN8Z6469r"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 1851,
+        "follow_request_sent": false,
+        "followers_count": 90,
+        "following": false,
+        "friends_count": 153,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 1345721264,
+        "id_str": "1345721264",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 1,
+        "location": "San Antonio, Texas",
+        "name": "Gabby De La Paz",
+        "notifications": false,
+        "profile_background_color": "EBEBEB",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/449087567984476160/jma2jlGU.png",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/449087567984476160/jma2jlGU.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1345721264/1411594221",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/649068704517349377/eRi_0iIG_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/649068704517349377/eRi_0iIG_normal.jpg",
+        "profile_link_color": "0C71C9",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "GabbyDLP",
+        "statuses_count": 2942,
+        "time_zone": "Central Time (US & Canada)",
+        "url": "https://t.co/fHN8Z6469r",
+        "utc_offset": -21600,
+        "verified": false
+    }
+}
