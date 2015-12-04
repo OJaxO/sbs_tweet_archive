@@ -1,0 +1,302 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Dec 02 16:43:31 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/bbcturkce/stat\u2026",
+                "expanded_url": "https://twitter.com/bbcturkce/status/672087588518391808",
+                "indices": [
+                    115,
+                    138
+                ],
+                "url": "https://t.co/fnbuoYiK1Q"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 20536157,
+                "id_str": "20536157",
+                "indices": [
+                    0,
+                    7
+                ],
+                "name": "Google",
+                "screen_name": "google"
+            },
+            {
+                "id": 254218142,
+                "id_str": "254218142",
+                "indices": [
+                    44,
+                    57
+                ],
+                "name": "Google For Education",
+                "screen_name": "GoogleForEdu"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 672093751460945921,
+    "id_str": "672093751460945921",
+    "in_reply_to_screen_name": "google",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 20536157,
+    "in_reply_to_user_id_str": "20536157",
+    "is_quote_status": true,
+    "lang": "tr",
+    "metadata": {
+        "iso_language_code": "tr",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        35.2353667,
+                        36.9397435
+                    ],
+                    [
+                        35.334393,
+                        36.9397435
+                    ],
+                    [
+                        35.334393,
+                        37.065909
+                    ],
+                    [
+                        35.2353667,
+                        37.065909
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "T\u00fcrkiye",
+        "country_code": "TR",
+        "full_name": "Adana, T\u00fcrkiye",
+        "id": "30a17644861c68d7",
+        "name": "Adana",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/30a17644861c68d7.json"
+    },
+    "possibly_sensitive": false,
+    "quoted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Wed Dec 02 16:19:02 +0000 2015",
+        "entities": {
+            "hashtags": [],
+            "media": [
+                {
+                    "display_url": "pic.twitter.com/DUsA4LoO20",
+                    "expanded_url": "http://twitter.com/bbcturkce/status/672087588518391808/photo/1",
+                    "id": 672087587734073344,
+                    "id_str": "672087587734073344",
+                    "indices": [
+                        67,
+                        90
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/CVO8GaTWsAAOs_z.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/CVO8GaTWsAAOs_z.jpg",
+                    "sizes": {
+                        "large": {
+                            "h": 371,
+                            "resize": "fit",
+                            "w": 660
+                        },
+                        "medium": {
+                            "h": 337,
+                            "resize": "fit",
+                            "w": 600
+                        },
+                        "small": {
+                            "h": 191,
+                            "resize": "fit",
+                            "w": 340
+                        },
+                        "thumb": {
+                            "h": 150,
+                            "resize": "crop",
+                            "w": 150
+                        }
+                    },
+                    "type": "photo",
+                    "url": "https://t.co/DUsA4LoO20"
+                }
+            ],
+            "symbols": [],
+            "urls": [
+                {
+                    "display_url": "bbc.in/1XyCTNa",
+                    "expanded_url": "http://bbc.in/1XyCTNa",
+                    "indices": [
+                        43,
+                        66
+                    ],
+                    "url": "https://t.co/Ty8mRwW48I"
+                }
+            ],
+            "user_mentions": []
+        },
+        "favorite_count": 10,
+        "favorited": false,
+        "geo": null,
+        "id": 672087588518391808,
+        "id_str": "672087588518391808",
+        "in_reply_to_screen_name": null,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "is_quote_status": false,
+        "lang": "tr",
+        "metadata": {
+            "iso_language_code": "tr",
+            "result_type": "recent"
+        },
+        "place": null,
+        "possibly_sensitive": false,
+        "retweet_count": 8,
+        "retweeted": false,
+        "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+        "text": "'Google, \u00f6\u011frencilerin verilerini topluyor' https://t.co/Ty8mRwW48I https://t.co/DUsA4LoO20",
+        "truncated": false,
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Mon Mar 02 11:18:25 +0000 2009",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "BBC D\u00fcnya Servisi T\u00fcrk\u00e7e Yay\u0131nlar\u0131'n\u0131n haber hesab\u0131. Sosyal Meydan tart\u0131\u015fmalar\u0131na kat\u0131labilece\u011finiz interaktif hesab\u0131m\u0131z: @canli_bbcturkce",
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "bbcturkce.com",
+                            "expanded_url": "http://bbcturkce.com",
+                            "indices": [
+                                0,
+                                22
+                            ],
+                            "url": "http://t.co/GNGmTbUE5T"
+                        }
+                    ]
+                }
+            },
+            "favourites_count": 94,
+            "follow_request_sent": false,
+            "followers_count": 1610387,
+            "following": false,
+            "friends_count": 29,
+            "geo_enabled": true,
+            "has_extended_profile": false,
+            "id": 22475139,
+            "id_str": "22475139",
+            "is_translation_enabled": false,
+            "is_translator": false,
+            "lang": "en",
+            "listed_count": 3059,
+            "location": "Londra",
+            "name": "BBC T\u00fcrk\u00e7e",
+            "notifications": false,
+            "profile_background_color": "F7F7F7",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/382491406/twitter_final_bg.jpg",
+            "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/382491406/twitter_final_bg.jpg",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/22475139/1447154239",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/2135291160/turkish_fb_icon_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/2135291160/turkish_fb_icon_normal.jpg",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "bbcturkce",
+            "statuses_count": 67776,
+            "time_zone": "London",
+            "url": "http://t.co/GNGmTbUE5T",
+            "utc_offset": 0,
+            "verified": true
+        }
+    },
+    "quoted_status_id": 672087588518391808,
+    "quoted_status_id_str": "672087588518391808",
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@google bunu yapmaya gerek duymaz ki. Zaten @GoogleForEdu kullanan \u00f6\u011frenciler ileride google \u0131n do\u011fal kullan\u0131c\u0131s\u0131  https://t.co/fnbuoYiK1Q",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Feb 13 22:05:10 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "'Ne kadar az ben, o kadar \u00e7ok B\u0130Z' - E\u011fitim Y\u00f6neticisi - \u00d6\u011fretmen - Master E\u011fitmen Ko\u00e7 - @TEDxGundogdu Organizat\u00f6r\u00fc - #EGT #EDU #edtech #Bizim\u0130\u015fimizE\u011fitim",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "iskaraman.wordpress.com",
+                        "expanded_url": "https://iskaraman.wordpress.com/",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/0HzIdOou9U"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 20254,
+        "follow_request_sent": false,
+        "followers_count": 2642,
+        "following": false,
+        "friends_count": 2501,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 114035789,
+        "id_str": "114035789",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "tr",
+        "listed_count": 105,
+        "location": "Adana-T\u00fcrkiye",
+        "name": "Serdar Karaman",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/448869601493778432/g2MF1oAk.png",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/448869601493778432/g2MF1oAk.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/114035789/1400443896",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/642781808862601216/Ucz8j9dy_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/642781808862601216/Ucz8j9dy_normal.png",
+        "profile_link_color": "1929E0",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "iskaraman",
+        "statuses_count": 29322,
+        "time_zone": "Istanbul",
+        "url": "https://t.co/0HzIdOou9U",
+        "utc_offset": 7200,
+        "verified": false
+    }
+}

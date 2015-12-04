@@ -1,0 +1,145 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Dec 02 16:18:59 +0000 2015",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    21,
+                    28
+                ],
+                "text": "PixelC"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 20536157,
+                "id_str": "20536157",
+                "indices": [
+                    0,
+                    7
+                ],
+                "name": "Google",
+                "screen_name": "google"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 672087576560308224,
+    "id_str": "672087576560308224",
+    "in_reply_to_screen_name": "google",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 20536157,
+    "in_reply_to_user_id_str": "20536157",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -95.8463667,
+                        29.676113
+                    ],
+                    [
+                        -95.711056,
+                        29.676113
+                    ],
+                    [
+                        -95.711056,
+                        29.7678652
+                    ],
+                    [
+                        -95.8463667,
+                        29.7678652
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Cinco Ranch, TX",
+        "id": "01e74c422dab6107",
+        "name": "Cinco Ranch",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/01e74c422dab6107.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@google Will the new #PixelC be WiFi only or will we be able to get one 4G capable?",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Jan 04 18:51:45 +0000 2012",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Truck driver for Elliott Electric Supply and a Death Knight, Plagueudder, in the WoW Guild Seraph on Mal'Ganis US",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "twitch.tv/plagueudder",
+                        "expanded_url": "http://twitch.tv/plagueudder",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/JEWNyfLKAR"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 967,
+        "follow_request_sent": false,
+        "followers_count": 41,
+        "following": false,
+        "friends_count": 130,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 455102591,
+        "id_str": "455102591",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 2,
+        "location": "Huffman, TX",
+        "name": "Kyle Michot",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/455102591/1435483703",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/625513413989404672/ktDvsWuS_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/625513413989404672/ktDvsWuS_normal.jpg",
+        "profile_link_color": "00B31B",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Plagueudder",
+        "statuses_count": 1117,
+        "time_zone": "Central Time (US & Canada)",
+        "url": "http://t.co/JEWNyfLKAR",
+        "utc_offset": -21600,
+        "verified": false
+    }
+}

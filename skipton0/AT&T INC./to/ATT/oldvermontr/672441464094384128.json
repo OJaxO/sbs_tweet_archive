@@ -1,0 +1,171 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Dec 03 15:45:13 +0000 2015",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    5,
+                    11
+                ],
+                "text": "montp"
+            }
+        ],
+        "media": [
+            {
+                "display_url": "pic.twitter.com/ksz33HE1Zs",
+                "expanded_url": "http://twitter.com/oldvermontr/status/672441464094384128/photo/1",
+                "id": 672441461967843328,
+                "id_str": "672441461967843328",
+                "indices": [
+                    23,
+                    46
+                ],
+                "media_url": "http://pbs.twimg.com/media/CVT98mjWcAAYTq3.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/CVT98mjWcAAYTq3.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 1042,
+                        "resize": "fit",
+                        "w": 768
+                    },
+                    "medium": {
+                        "h": 814,
+                        "resize": "fit",
+                        "w": 600
+                    },
+                    "small": {
+                        "h": 461,
+                        "resize": "fit",
+                        "w": 340
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/ksz33HE1Zs"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 14620190,
+                "id_str": "14620190",
+                "indices": [
+                    0,
+                    4
+                ],
+                "name": "AT&T",
+                "screen_name": "ATT"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 672441464094384128,
+    "id_str": "672441464094384128",
+    "in_reply_to_screen_name": "ATT",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 14620190,
+    "in_reply_to_user_id_str": "14620190",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -72.6255728,
+                        44.2348719
+                    ],
+                    [
+                        -72.544556,
+                        44.2348719
+                    ],
+                    [
+                        -72.544556,
+                        44.3127017
+                    ],
+                    [
+                        -72.6255728,
+                        44.3127017
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Montpelier, VT",
+        "id": "495a55057ac886b9",
+        "name": "Montpelier",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/495a55057ac886b9.json"
+    },
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@att #montp speed test https://t.co/ksz33HE1Zs",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Nov 22 00:05:02 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Look in their eyes, Ma, and you'll see me.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 284,
+        "follow_request_sent": false,
+        "followers_count": 189,
+        "following": false,
+        "friends_count": 268,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 218305146,
+        "id_str": "218305146",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 11,
+        "location": "South Burlington, VT",
+        "name": "Brian Driscoll",
+        "notifications": false,
+        "profile_background_color": "303143",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/492070418384044032/B4-_fHd4.png",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/492070418384044032/B4-_fHd4.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/218305146/1443890638",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/650345150300860416/pLjh1dyC_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/650345150300860416/pLjh1dyC_normal.jpg",
+        "profile_link_color": "4A913C",
+        "profile_sidebar_border_color": "FCFBF5",
+        "profile_sidebar_fill_color": "9EB26A",
+        "profile_text_color": "70A790",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "oldvermontr",
+        "statuses_count": 4344,
+        "time_zone": "Eastern Time (US & Canada)",
+        "url": null,
+        "utc_offset": -18000,
+        "verified": false
+    }
+}

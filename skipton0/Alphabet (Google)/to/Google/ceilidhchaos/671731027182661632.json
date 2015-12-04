@@ -1,0 +1,170 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 01 16:42:11 +0000 2015",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    58,
+                    72
+                ],
+                "text": "GivingTuesday"
+            },
+            {
+                "indices": [
+                    86,
+                    99
+                ],
+                "text": "makeithappen"
+            }
+        ],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "donorschoose.org/project/moving\u2026",
+                "expanded_url": "http://www.donorschoose.org/project/moving-towards-knowledge-ball-chairs-he/1795661",
+                "indices": [
+                    102,
+                    125
+                ],
+                "url": "https://t.co/xnu35aQapy"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 20536157,
+                "id_str": "20536157",
+                "indices": [
+                    0,
+                    7
+                ],
+                "name": "Google",
+                "screen_name": "google"
+            },
+            {
+                "id": 17232815,
+                "id_str": "17232815",
+                "indices": [
+                    23,
+                    36
+                ],
+                "name": "DonorsChoose",
+                "screen_name": "DonorsChoose"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 671731027182661632,
+    "id_str": "671731027182661632",
+    "in_reply_to_screen_name": "google",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 20536157,
+    "in_reply_to_user_id_str": "20536157",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -121.69197,
+                        36.643802
+                    ],
+                    [
+                        -121.5905572,
+                        36.643802
+                    ],
+                    [
+                        -121.5905572,
+                        36.7344846
+                    ],
+                    [
+                        -121.69197,
+                        36.7344846
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Salinas, CA",
+        "id": "fa37e818b629e4ea",
+        "name": "Salinas",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/fa37e818b629e4ea.json"
+    },
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@google is matching my @DonorsChoose project funding this #GivingTuesday can you help #makeithappen ? https://t.co/xnu35aQapy",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Nov 24 17:40:51 +0000 2008",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "faerie princess in disguise, President of the Pagan Alliance http://t.co/tEfJNL3mRT, Special Ed Teacher",
+        "entities": {
+            "description": {
+                "urls": [
+                    {
+                        "display_url": "thepaganalliance.org",
+                        "expanded_url": "http://www.thepaganalliance.org",
+                        "indices": [
+                            61,
+                            83
+                        ],
+                        "url": "http://t.co/tEfJNL3mRT"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 323,
+        "follow_request_sent": false,
+        "followers_count": 322,
+        "following": false,
+        "friends_count": 333,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 17596473,
+        "id_str": "17596473",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 17,
+        "location": "Bay Area",
+        "name": "JoHanna White",
+        "notifications": false,
+        "profile_background_color": "EDECE9",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/3435968/_45096576_78402a3e-131e-4aae-a5c8-a7e7517f3715.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/3435968/_45096576_78402a3e-131e-4aae-a5c8-a7e7517f3715.jpg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/17596473/1414078345",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1247600555/76282_445850111735_636701735_5843047_2116504_n__1__normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1247600555/76282_445850111735_636701735_5843047_2116504_n__1__normal.jpg",
+        "profile_link_color": "3B94D9",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "E3E2DE",
+        "profile_text_color": "634047",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "ceilidhchaos",
+        "statuses_count": 3435,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": null,
+        "utc_offset": -28800,
+        "verified": false
+    }
+}

@@ -1,0 +1,159 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 01 21:32:12 +0000 2015",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    10,
+                    14
+                ],
+                "text": "SEO"
+            },
+            {
+                "indices": [
+                    120,
+                    130
+                ],
+                "text": "marketing"
+            },
+            {
+                "indices": [
+                    131,
+                    139
+                ],
+                "text": "content"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 20536157,
+                "id_str": "20536157",
+                "indices": [
+                    0,
+                    7
+                ],
+                "name": "Google",
+                "screen_name": "google"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 671804011172003844,
+    "id_str": "671804011172003844",
+    "in_reply_to_screen_name": "google",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 20536157,
+    "in_reply_to_user_id_str": "20536157",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -74.026675,
+                        40.683935
+                    ],
+                    [
+                        -73.910408,
+                        40.683935
+                    ],
+                    [
+                        -73.910408,
+                        40.877483
+                    ],
+                    [
+                        -74.026675,
+                        40.877483
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Manhattan, NY",
+        "id": "01a9a39529b27f36",
+        "name": "Manhattan",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/01a9a39529b27f36.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@google I #SEO all day long and still struggle to get on that first page, any suggestions on what I may be doing wrong? #marketing #content",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Dec 03 18:01:54 +0000 2014",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Author, Marketer, Content Strategist, and SEO Specialist at CFO Publishing.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "cfo.com",
+                        "expanded_url": "http://cfo.com",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/dpaK5C23x2"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 141,
+        "follow_request_sent": false,
+        "followers_count": 90,
+        "following": false,
+        "friends_count": 153,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 2917883047,
+        "id_str": "2917883047",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 28,
+        "location": "New York",
+        "name": "Kerry Maruna",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2917883047/1447873466",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/662523329081958400/9xv43Zb8_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/662523329081958400/9xv43Zb8_normal.jpg",
+        "profile_link_color": "3B94D9",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "KerryMaruna",
+        "statuses_count": 800,
+        "time_zone": null,
+        "url": "https://t.co/dpaK5C23x2",
+        "utc_offset": null,
+        "verified": false
+    }
+}

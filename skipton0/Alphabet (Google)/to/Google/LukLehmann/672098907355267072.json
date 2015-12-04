@@ -1,0 +1,139 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Dec 02 17:04:01 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "media": [
+            {
+                "display_url": "pic.twitter.com/BKZlwwLYQb",
+                "expanded_url": "http://twitter.com/LukLehmann/status/672098907355267072/photo/1",
+                "id": 672098903437778945,
+                "id_str": "672098903437778945",
+                "indices": [
+                    93,
+                    116
+                ],
+                "media_url": "http://pbs.twimg.com/media/CVPGZElWoAE3jRk.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/CVPGZElWoAE3jRk.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 768,
+                        "resize": "fit",
+                        "w": 1024
+                    },
+                    "medium": {
+                        "h": 450,
+                        "resize": "fit",
+                        "w": 600
+                    },
+                    "small": {
+                        "h": 255,
+                        "resize": "fit",
+                        "w": 340
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/BKZlwwLYQb"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 20536157,
+                "id_str": "20536157",
+                "indices": [
+                    0,
+                    7
+                ],
+                "name": "Google",
+                "screen_name": "google"
+            },
+            {
+                "id": 2813398537,
+                "id_str": "2813398537",
+                "indices": [
+                    21,
+                    34
+                ],
+                "name": "Kubernetes",
+                "screen_name": "kubernetesio"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 672098907355267072,
+    "id_str": "672098907355267072",
+    "in_reply_to_screen_name": "google",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 20536157,
+    "in_reply_to_user_id_str": "20536157",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@google journey with @kubernetesio isn't over yet. Looking forward to the next game changer! https://t.co/BKZlwwLYQb",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Aug 05 18:00:28 +0000 2013",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Cloud native",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 224,
+        "follow_request_sent": false,
+        "followers_count": 128,
+        "following": false,
+        "friends_count": 309,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 1648343582,
+        "id_str": "1648343582",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "de",
+        "listed_count": 17,
+        "location": "Switzerland",
+        "name": "Lukas Lehmann",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/506056111167111168/BwR2yI8I_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/506056111167111168/BwR2yI8I_normal.jpeg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "LukLehmann",
+        "statuses_count": 160,
+        "time_zone": null,
+        "url": null,
+        "utc_offset": null,
+        "verified": false
+    }
+}
