@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Nov 27 08:46:47 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/jamesjroden/st\u2026",
+                "expanded_url": "https://twitter.com/jamesjroden/status/670159665746063360",
+                "indices": [
+                    10,
+                    33
+                ],
+                "url": "https://t.co/K6UPVZFgCA"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 2922732233,
+                "id_str": "2922732233",
+                "indices": [
+                    0,
+                    8
+                ],
+                "name": "HSBC UK",
+                "screen_name": "HSBC_UK"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 670161838160650240,
+    "id_str": "670161838160650240",
+    "in_reply_to_screen_name": "HSBC_UK",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 2922732233,
+    "in_reply_to_user_id_str": "2922732233",
+    "is_quote_status": true,
+    "lang": "und",
+    "metadata": {
+        "iso_language_code": "und",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -1.8519024,
+                        51.535198
+                    ],
+                    [
+                        -1.719477,
+                        51.535198
+                    ],
+                    [
+                        -1.719477,
+                        51.6108189
+                    ],
+                    [
+                        -1.8519024,
+                        51.6108189
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United Kingdom",
+        "country_code": "GB",
+        "full_name": "Swindon, England",
+        "id": "381b5744987ae0bd",
+        "name": "Swindon",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/381b5744987ae0bd.json"
+    },
+    "possibly_sensitive": false,
+    "quoted_status_id": 670159665746063360,
+    "quoted_status_id_str": "670159665746063360",
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@HSBC_UK  https://t.co/K6UPVZFgCA",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Jan 01 14:08:06 +0000 2011",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Work in @fieldmarketing Won a couple of @fmbeawards for what i do too. Ran #LondonMarathon2015 and running - #ParisMarathon2016",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 491,
+        "follow_request_sent": false,
+        "followers_count": 483,
+        "following": false,
+        "friends_count": 676,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 232847843,
+        "id_str": "232847843",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 14,
+        "location": "Swindon & Reading",
+        "name": "Dave Farnhill",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/232847843/1428107212",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/632997310121779200/Vmh4IWgz_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/632997310121779200/Vmh4IWgz_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "lolzamapop",
+        "statuses_count": 9723,
+        "time_zone": null,
+        "url": null,
+        "utc_offset": null,
+        "verified": false
+    }
+}
