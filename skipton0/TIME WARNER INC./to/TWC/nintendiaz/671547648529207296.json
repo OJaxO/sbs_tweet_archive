@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 01 04:33:30 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 127975950,
+                "id_str": "127975950",
+                "indices": [
+                    0,
+                    4
+                ],
+                "name": "Time Warner Cable",
+                "screen_name": "TWC"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 671547648529207296,
+    "id_str": "671547648529207296",
+    "in_reply_to_screen_name": "TWC",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 127975950,
+    "in_reply_to_user_id_str": "127975950",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -84.820272,
+                        38.403186
+                    ],
+                    [
+                        -80.518626,
+                        38.403186
+                    ],
+                    [
+                        -80.518626,
+                        42.327133
+                    ],
+                    [
+                        -84.820272,
+                        42.327133
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Ohio, USA",
+        "id": "de599025180e2ee7",
+        "name": "Ohio",
+        "place_type": "admin",
+        "url": "https://api.twitter.com/1.1/geo/id/de599025180e2ee7.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@TWC internet outage added two hours to my homework. Ugh what a waste.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Sep 03 18:27:07 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "indie game advocate & shitposter extraordinaire. i'm a pretty funny person once you're used to me.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "nintendiaz.tumblr.com",
+                        "expanded_url": "http://nintendiaz.tumblr.com",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/juecz2JyU5"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 2099,
+        "follow_request_sent": false,
+        "followers_count": 77,
+        "following": false,
+        "friends_count": 343,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 186534330,
+        "id_str": "186534330",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 3,
+        "location": "Ohio",
+        "name": "Jos\u00e9 NintenDiaz",
+        "notifications": false,
+        "profile_background_color": "FF6699",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/647715639/6fab1ofz1jhq309ekv21.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/647715639/6fab1ofz1jhq309ekv21.jpeg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/186534330/1426433974",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/665520064456605696/D5jZgTb6_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/665520064456605696/D5jZgTb6_normal.png",
+        "profile_link_color": "F5ABB5",
+        "profile_sidebar_border_color": "CC3366",
+        "profile_sidebar_fill_color": "E5507E",
+        "profile_text_color": "362720",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "nintendiaz",
+        "statuses_count": 6258,
+        "time_zone": "Eastern Time (US & Canada)",
+        "url": "http://t.co/juecz2JyU5",
+        "utc_offset": -18000,
+        "verified": false
+    }
+}

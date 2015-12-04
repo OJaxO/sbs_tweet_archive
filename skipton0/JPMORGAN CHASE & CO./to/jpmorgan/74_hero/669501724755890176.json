@@ -1,0 +1,292 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Nov 25 13:03:44 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/fortunaweb/sta\u2026",
+                "expanded_url": "https://twitter.com/fortunaweb/status/669499585648328704",
+                "indices": [
+                    99,
+                    122
+                ],
+                "url": "https://t.co/7YciW6k6QL"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 1155522630,
+                "id_str": "1155522630",
+                "indices": [
+                    0,
+                    9
+                ],
+                "name": "J.P. Morgan",
+                "screen_name": "jpmorgan"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 669501724755890176,
+    "id_str": "669501724755890176",
+    "in_reply_to_screen_name": "jpmorgan",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 1155522630,
+    "in_reply_to_user_id_str": "1155522630",
+    "is_quote_status": true,
+    "lang": "es",
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -60.781306,
+                        -33.033993
+                    ],
+                    [
+                        -60.6135057,
+                        -33.033993
+                    ],
+                    [
+                        -60.6135057,
+                        -32.8692378
+                    ],
+                    [
+                        -60.781306,
+                        -32.8692378
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "Argentina",
+        "country_code": "AR",
+        "full_name": "Rosario, Argentina",
+        "id": "0079bbc151fa56d2",
+        "name": "Rosario",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/0079bbc151fa56d2.json"
+    },
+    "possibly_sensitive": false,
+    "quoted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Wed Nov 25 12:55:14 +0000 2015",
+        "entities": {
+            "hashtags": [],
+            "media": [
+                {
+                    "display_url": "pic.twitter.com/1ROxrLSYME",
+                    "expanded_url": "http://twitter.com/fortunaweb/status/669499585648328704/photo/1",
+                    "id": 669499584624893952,
+                    "id_str": "669499584624893952",
+                    "indices": [
+                        77,
+                        100
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/CUqKUzbWoAAkP5u.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/CUqKUzbWoAAkP5u.jpg",
+                    "sizes": {
+                        "large": {
+                            "h": 500,
+                            "resize": "fit",
+                            "w": 728
+                        },
+                        "medium": {
+                            "h": 412,
+                            "resize": "fit",
+                            "w": 600
+                        },
+                        "small": {
+                            "h": 233,
+                            "resize": "fit",
+                            "w": 340
+                        },
+                        "thumb": {
+                            "h": 150,
+                            "resize": "crop",
+                            "w": 150
+                        }
+                    },
+                    "type": "photo",
+                    "url": "https://t.co/1ROxrLSYME"
+                }
+            ],
+            "symbols": [],
+            "urls": [
+                {
+                    "display_url": "fortunaweb.com.ar/2015-11-25-170\u2026",
+                    "expanded_url": "http://fortunaweb.com.ar/2015-11-25-170237-confirman-a-prat-gay-como-nuevo-ministro-de-economia/",
+                    "indices": [
+                        53,
+                        76
+                    ],
+                    "url": "https://t.co/tV2dgwupHL"
+                }
+            ],
+            "user_mentions": []
+        },
+        "favorite_count": 112,
+        "favorited": false,
+        "geo": null,
+        "id": 669499585648328704,
+        "id_str": "669499585648328704",
+        "in_reply_to_screen_name": null,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "is_quote_status": false,
+        "lang": "es",
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "place": null,
+        "possibly_sensitive": false,
+        "retweet_count": 91,
+        "retweeted": false,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": "Confirman a Prat Gay como nuevo ministro de Econom\u00eda https://t.co/tV2dgwupHL https://t.co/1ROxrLSYME",
+        "truncated": false,
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Tue Aug 18 15:25:53 +0000 2009",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "Sitio con informaci\u00f3n de econom\u00eda, negocios, mercados y tecnolog\u00eda de la Argentina y el mundo de Editorial Perfil.",
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "fortunaweb.com.ar",
+                            "expanded_url": "http://www.fortunaweb.com.ar",
+                            "indices": [
+                                0,
+                                22
+                            ],
+                            "url": "http://t.co/zQbSlXlZpj"
+                        }
+                    ]
+                }
+            },
+            "favourites_count": 8,
+            "follow_request_sent": false,
+            "followers_count": 12980,
+            "following": false,
+            "friends_count": 214,
+            "geo_enabled": false,
+            "has_extended_profile": false,
+            "id": 66708110,
+            "id_str": "66708110",
+            "is_translation_enabled": false,
+            "is_translator": false,
+            "lang": "es",
+            "listed_count": 473,
+            "location": "Buenos Aires, Argentina",
+            "name": "FortunaWeb",
+            "notifications": false,
+            "profile_background_color": "F0F0F0",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/82347216/fortunaweb_fondo.jpg",
+            "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/82347216/fortunaweb_fondo.jpg",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/66708110/1409174031",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/504738657748516866/Xdx0mURo_normal.jpeg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/504738657748516866/Xdx0mURo_normal.jpeg",
+            "profile_link_color": "0054B3",
+            "profile_sidebar_border_color": "D98282",
+            "profile_sidebar_fill_color": "FFDBDB",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "fortunaweb",
+            "statuses_count": 12077,
+            "time_zone": "Buenos Aires",
+            "url": "http://t.co/zQbSlXlZpj",
+            "utc_offset": -10800,
+            "verified": false
+        }
+    },
+    "quoted_status_id": 669499585648328704,
+    "quoted_status_id_str": "669499585648328704",
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@jpmorgan  en el control de nuestra econom\u00eda argentina. No tendremos un presidente sino un CEO.    https://t.co/7YciW6k6QL",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Jan 20 19:04:10 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Dise\u00f1ador Industrial . Tengo mis convicciones pol\u00edticas claras y las defiendo con vehemencia. Amo Rosario. Canallon. De ideolog\u00eda Progresista.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "about.me/elioguida",
+                        "expanded_url": "http://about.me/elioguida",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/OyFbbNoBx7"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 2311,
+        "follow_request_sent": false,
+        "followers_count": 2427,
+        "following": false,
+        "friends_count": 1795,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 19251035,
+        "id_str": "19251035",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "es",
+        "listed_count": 15,
+        "location": "Rosario Argentina",
+        "name": "Elio Guida",
+        "notifications": false,
+        "profile_background_color": "0099B9",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/357555845/b7929b4e6a3a.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/357555845/b7929b4e6a3a.jpg",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/19251035/1446832200",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/459302907125313536/eh2F6WPg_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/459302907125313536/eh2F6WPg_normal.jpeg",
+        "profile_link_color": "0099B9",
+        "profile_sidebar_border_color": "5ED4DC",
+        "profile_sidebar_fill_color": "95E8EC",
+        "profile_text_color": "3C3940",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "74_hero",
+        "statuses_count": 7733,
+        "time_zone": "Buenos Aires",
+        "url": "https://t.co/OyFbbNoBx7",
+        "utc_offset": -10800,
+        "verified": false
+    }
+}

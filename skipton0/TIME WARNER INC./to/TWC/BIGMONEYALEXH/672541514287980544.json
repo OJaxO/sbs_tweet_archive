@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Dec 03 22:22:46 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 127975950,
+                "id_str": "127975950",
+                "indices": [
+                    0,
+                    4
+                ],
+                "name": "Time Warner Cable",
+                "screen_name": "TWC"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 672541514287980544,
+    "id_str": "672541514287980544",
+    "in_reply_to_screen_name": "TWC",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 127975950,
+    "in_reply_to_user_id_str": "127975950",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -80.239991,
+                        42.018414
+                    ],
+                    [
+                        -79.934073,
+                        42.018414
+                    ],
+                    [
+                        -79.934073,
+                        42.202992
+                    ],
+                    [
+                        -80.239991,
+                        42.202992
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Erie, PA",
+        "id": "29aaa88d9fe74b50",
+        "name": "Erie",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/29aaa88d9fe74b50.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@TWC why did my bill go up $10 dollars for no reason?",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Jan 24 21:36:27 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "snapchat:Bigmoneyalexh                                        \n\n\ncheck my sound cloud",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "soundcloud.com/alexheitzenrat\u2026",
+                        "expanded_url": "https://soundcloud.com/alexheitzenrater",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/NLvwTadguU"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 312,
+        "follow_request_sent": false,
+        "followers_count": 11206,
+        "following": false,
+        "friends_count": 9321,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 108104525,
+        "id_str": "108104525",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 21,
+        "location": "Erie, PA",
+        "name": "Alex and er",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000017667049/782f159445fd08b5c092d452b171056f.png",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000017667049/782f159445fd08b5c092d452b171056f.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/108104525/1411767413",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/669366524684046336/93yFq7Po_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/669366524684046336/93yFq7Po_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "BIGMONEYALEXH",
+        "statuses_count": 8437,
+        "time_zone": "Eastern Time (US & Canada)",
+        "url": "https://t.co/NLvwTadguU",
+        "utc_offset": -18000,
+        "verified": false
+    }
+}

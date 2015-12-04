@@ -1,0 +1,136 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Dec 02 01:26:07 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 127975950,
+                "id_str": "127975950",
+                "indices": [
+                    0,
+                    4
+                ],
+                "name": "Time Warner Cable",
+                "screen_name": "TWC"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 671862876685094912,
+    "id_str": "671862876685094912",
+    "in_reply_to_screen_name": "TWC",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 127975950,
+    "in_reply_to_user_id_str": "127975950",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -79.0831529,
+                        35.869376
+                    ],
+                    [
+                        -78.968887,
+                        35.869376
+                    ],
+                    [
+                        -78.968887,
+                        35.969507
+                    ],
+                    [
+                        -79.0831529,
+                        35.969507
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Chapel Hill, NC",
+        "id": "23ebe811ea93fd41",
+        "name": "Chapel Hill",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/23ebe811ea93fd41.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@TWC if I could get 15 down and 5 up as my internet service. You'd have me as customer for a long time.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Jan 14 20:06:09 +0000 2012",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Send me some love in a goodie bag. yea...I'm a gamer!",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "youtube.com/user/UnleashTh\u2026",
+                        "expanded_url": "http://youtube.com/user/UnleashThePower1",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/UMmukh1PXY"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 12,
+        "follow_request_sent": false,
+        "followers_count": 33,
+        "following": false,
+        "friends_count": 24,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 464062847,
+        "id_str": "464062847",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 0,
+        "location": "Carrboro, NC",
+        "name": "Diego Araiza",
+        "notifications": false,
+        "profile_background_color": "B6D5DE",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/401112723/x206f3f5554f550a504c470566994d13.png",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/401112723/x206f3f5554f550a504c470566994d13.png",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1755038956/25a2143_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1755038956/25a2143_normal.jpg",
+        "profile_link_color": "E87E0F",
+        "profile_sidebar_border_color": "1A0E05",
+        "profile_sidebar_fill_color": "BD1F00",
+        "profile_text_color": "FFE7B3",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "idonthasatwit",
+        "statuses_count": 823,
+        "time_zone": null,
+        "url": "http://t.co/UMmukh1PXY",
+        "utc_offset": null,
+        "verified": false
+    }
+}
