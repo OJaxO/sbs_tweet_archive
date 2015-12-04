@@ -1,0 +1,152 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Dec 02 10:43:10 +0000 2015",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    94,
+                    107
+                ],
+                "text": "professional"
+            },
+            {
+                "indices": [
+                    108,
+                    119
+                ],
+                "text": "networking"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 13058772,
+                "id_str": "13058772",
+                "indices": [
+                    0,
+                    9
+                ],
+                "name": "LinkedIn",
+                "screen_name": "LinkedIn"
+            }
+        ]
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": null,
+    "id": 672003064526671872,
+    "id_str": "672003064526671872",
+    "in_reply_to_screen_name": "LinkedIn",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 13058772,
+    "in_reply_to_user_id_str": "13058772",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -3.278624,
+                        51.447362
+                    ],
+                    [
+                        -3.0809756,
+                        51.447362
+                    ],
+                    [
+                        -3.0809756,
+                        51.5466412
+                    ],
+                    [
+                        -3.278624,
+                        51.5466412
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United Kingdom",
+        "country_code": "GB",
+        "full_name": "Cardiff, Wales",
+        "id": "68f3012fe4848e35",
+        "name": "Cardiff",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/68f3012fe4848e35.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@LinkedIn love the look of the new app - much improved visually, simplistic &amp; interactive #professional #networking",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Oct 14 20:48:22 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Propositions Consultant @landg_group | ENFP Adventurous, ambitious, imaginative | Marketer | Views are my own",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "davidcuddihy.wordpress.com",
+                        "expanded_url": "http://davidcuddihy.wordpress.com/",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/Oxj71lJxxY"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 1396,
+        "follow_request_sent": false,
+        "followers_count": 613,
+        "following": false,
+        "friends_count": 604,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 390967299,
+        "id_str": "390967299",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 34,
+        "location": "Cardiff",
+        "name": "David Cuddihy",
+        "notifications": false,
+        "profile_background_color": "24211E",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/390967299/1433237962",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/605349322155290624/RZPmRp-9_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/605349322155290624/RZPmRp-9_normal.jpg",
+        "profile_link_color": "4A913C",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "A0C5C7",
+        "profile_text_color": "333333",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "DavidCuddihy",
+        "statuses_count": 2636,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "https://t.co/Oxj71lJxxY",
+        "utc_offset": -28800,
+        "verified": false
+    }
+}

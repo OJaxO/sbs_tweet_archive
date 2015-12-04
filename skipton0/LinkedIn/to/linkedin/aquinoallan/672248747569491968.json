@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Dec 03 02:59:25 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 13058772,
+                "id_str": "13058772",
+                "indices": [
+                    0,
+                    9
+                ],
+                "name": "LinkedIn",
+                "screen_name": "LinkedIn"
+            }
+        ]
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": null,
+    "id": 672248747569491968,
+    "id_str": "672248747569491968",
+    "in_reply_to_screen_name": "LinkedIn",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 13058772,
+    "in_reply_to_user_id_str": "13058772",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -123.224273,
+                        49.1985402
+                    ],
+                    [
+                        -123.022947,
+                        49.1985402
+                    ],
+                    [
+                        -123.022947,
+                        49.316738
+                    ],
+                    [
+                        -123.224273,
+                        49.316738
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "Canada",
+        "country_code": "CA",
+        "full_name": "Vancouver, British Columbia",
+        "id": "1e5cb4d0509db554",
+        "name": "Vancouver",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/1e5cb4d0509db554.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@LinkedIn new app for iPhone just got perfect! Good job!",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Oct 02 00:13:44 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Instagram: allan_aquino Key-Account Manager in Mobile Service / Post Graduation, IT Management in Business",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "facebook.com/profile.php?id\u2026",
+                        "expanded_url": "https://www.facebook.com/profile.php?id=100000603224901",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/4GOFEBcK1A"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 12,
+        "follow_request_sent": false,
+        "followers_count": 268,
+        "following": false,
+        "friends_count": 357,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 79044145,
+        "id_str": "79044145",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 15,
+        "location": "Vancouver, CA",
+        "name": "Allan Aquino",
+        "notifications": false,
+        "profile_background_color": "CDD408",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/199389983/dibosdownload.blogspot.com_033.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/199389983/dibosdownload.blogspot.com_033.jpg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/79044145/1444983318",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/654933620415688704/BgCmuuv5_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/654933620415688704/BgCmuuv5_normal.jpg",
+        "profile_link_color": "230291",
+        "profile_sidebar_border_color": "A89C8D",
+        "profile_sidebar_fill_color": "7A7AC7",
+        "profile_text_color": "170817",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "aquinoallan",
+        "statuses_count": 2275,
+        "time_zone": "Brasilia",
+        "url": "https://t.co/4GOFEBcK1A",
+        "utc_offset": -7200,
+        "verified": false
+    }
+}

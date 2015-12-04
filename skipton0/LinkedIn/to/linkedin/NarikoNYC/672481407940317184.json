@@ -1,0 +1,145 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Dec 03 18:23:56 +0000 2015",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    101,
+                    106
+                ],
+                "text": "Help"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 13058772,
+                "id_str": "13058772",
+                "indices": [
+                    0,
+                    9
+                ],
+                "name": "LinkedIn",
+                "screen_name": "LinkedIn"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 672481407940317184,
+    "id_str": "672481407940317184",
+    "in_reply_to_screen_name": "LinkedIn",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 13058772,
+    "in_reply_to_user_id_str": "13058772",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -74.255641,
+                        40.495865
+                    ],
+                    [
+                        -73.699793,
+                        40.495865
+                    ],
+                    [
+                        -73.699793,
+                        40.91533
+                    ],
+                    [
+                        -74.255641,
+                        40.91533
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "New York, NY",
+        "id": "27485069891a7938",
+        "name": "New York",
+        "place_type": "admin",
+        "url": "https://api.twitter.com/1.1/geo/id/27485069891a7938.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@LinkedIn I can't access my account since the email was associated with my former firm Skadden Arps. #Help",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Jan 06 19:14:00 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "I shot the Sheriff. Founder, @WeOwnTheNiteNYC. In pursuit of Law. \u2764\ufe0fr of music, shoes & home cooked food. Traveler & nomad at heart. 8 tattoos & a closet gamer.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "blog.cinderellasclosetnyc.com",
+                        "expanded_url": "http://blog.cinderellasclosetnyc.com/",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/tJxuYwJ32i"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 2918,
+        "follow_request_sent": false,
+        "followers_count": 1454,
+        "following": false,
+        "friends_count": 2025,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 234860878,
+        "id_str": "234860878",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 80,
+        "location": "New York City",
+        "name": "Pamela Zhuklevich",
+        "notifications": false,
+        "profile_background_color": "9AE4E8",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/649703002119512064/F7FlmUP8.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/649703002119512064/F7FlmUP8.jpg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/234860878/1443729986",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/656961571827109888/reuH5Lt4_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/656961571827109888/reuH5Lt4_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDFFCC",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "NarikoNYC",
+        "statuses_count": 11834,
+        "time_zone": "Eastern Time (US & Canada)",
+        "url": "https://t.co/tJxuYwJ32i",
+        "utc_offset": -18000,
+        "verified": false
+    }
+}

@@ -1,0 +1,147 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Dec 02 15:35:48 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 13058772,
+                "id_str": "13058772",
+                "indices": [
+                    0,
+                    9
+                ],
+                "name": "LinkedIn",
+                "screen_name": "LinkedIn"
+            },
+            {
+                "id": 2425151,
+                "id_str": "2425151",
+                "indices": [
+                    29,
+                    38
+                ],
+                "name": "Facebook",
+                "screen_name": "facebook"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 672076707013070848,
+    "id_str": "672076707013070848",
+    "in_reply_to_screen_name": "LinkedIn",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 13058772,
+    "in_reply_to_user_id_str": "13058772",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -122.248238,
+                        47.732453
+                    ],
+                    [
+                        -122.163654,
+                        47.732453
+                    ],
+                    [
+                        -122.163654,
+                        47.814554
+                    ],
+                    [
+                        -122.248238,
+                        47.814554
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Bothell, WA",
+        "id": "a285b156487ecf55",
+        "name": "Bothell",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/a285b156487ecf55.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@Linkedin looking a lot like @Facebook this morning. Like the new app upgrades:-)",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Oct 31 20:06:40 +0000 2007",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Wife/mom/founder of Excy @excyfit. Changing How Families Exercise At Home, Work, and On The Go to Build a Healthier Society. #Excy #lifehacker #Seattle #startup",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "excy.com",
+                        "expanded_url": "http://www.excy.com",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/33FtrdoyNR"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 751,
+        "follow_request_sent": false,
+        "followers_count": 16523,
+        "following": false,
+        "friends_count": 15562,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 9834692,
+        "id_str": "9834692",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 372,
+        "location": "Seattle",
+        "name": "Michele Mehl",
+        "notifications": false,
+        "profile_background_color": "59BEE4",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000153685417/CJXOJbzl.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000153685417/CJXOJbzl.jpeg",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/9834692/1446208406",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/580478452186374145/nUyMNQ5A_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/580478452186374145/nUyMNQ5A_normal.jpg",
+        "profile_link_color": "8FCAE0",
+        "profile_sidebar_border_color": "4BB7DF",
+        "profile_sidebar_fill_color": "191F22",
+        "profile_text_color": "4BB7DF",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "michelecmehl",
+        "statuses_count": 3450,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "https://t.co/33FtrdoyNR",
+        "utc_offset": -28800,
+        "verified": false
+    }
+}

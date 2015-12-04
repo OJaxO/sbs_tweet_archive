@@ -1,0 +1,124 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Dec 02 19:23:07 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 13058772,
+                "id_str": "13058772",
+                "indices": [
+                    0,
+                    9
+                ],
+                "name": "LinkedIn",
+                "screen_name": "LinkedIn"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 672133914039832577,
+    "id_str": "672133914039832577",
+    "in_reply_to_screen_name": "LinkedIn",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 13058772,
+    "in_reply_to_user_id_str": "13058772",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -77.730299,
+                        43.017206
+                    ],
+                    [
+                        -77.553575,
+                        43.017206
+                    ],
+                    [
+                        -77.553575,
+                        43.096872
+                    ],
+                    [
+                        -77.730299,
+                        43.096872
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Henrietta, NY",
+        "id": "00c60988621e2c71",
+        "name": "Henrietta",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/00c60988621e2c71.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@LinkedIn changed its entire mobile layout \ud83d\ude33",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Sep 28 21:35:38 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "| RIT '16 Advertising & Public Relations Student @RIT_SOC | Intern @DixonSchwabl | Aspiring Storyteller | Star Wars Enthusiast | Probably Eating Pizza |",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 2514,
+        "follow_request_sent": false,
+        "followers_count": 284,
+        "following": false,
+        "friends_count": 287,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 381748923,
+        "id_str": "381748923",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 10,
+        "location": "Rochester, NY ",
+        "name": "Jackie Bergin",
+        "notifications": false,
+        "profile_background_color": "ACDED6",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/395656316/the-smiths-the-smiths-cover-2293.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/395656316/the-smiths-the-smiths-cover-2293.jpeg",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/381748923/1434316306",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/669177185056460800/PXf16CMz_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/669177185056460800/PXf16CMz_normal.jpg",
+        "profile_link_color": "F5ABB5",
+        "profile_sidebar_border_color": "EEEEEE",
+        "profile_sidebar_fill_color": "F6F6F6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "JackieBergin",
+        "statuses_count": 3549,
+        "time_zone": "Eastern Time (US & Canada)",
+        "url": null,
+        "utc_offset": -18000,
+        "verified": false
+    }
+}
