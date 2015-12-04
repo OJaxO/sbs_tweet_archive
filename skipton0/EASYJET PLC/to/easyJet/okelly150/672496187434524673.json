@@ -1,0 +1,132 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Dec 03 19:22:40 +0000 2015",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    89,
+                    112
+                ],
+                "text": "stillhateeasyjetthough"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 38676903,
+                "id_str": "38676903",
+                "indices": [
+                    0,
+                    8
+                ],
+                "name": "easyJet",
+                "screen_name": "easyJet"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 672496187434524673,
+    "id_str": "672496187434524673",
+    "in_reply_to_screen_name": "easyJet",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 38676903,
+    "in_reply_to_user_id_str": "38676903",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -7.66085699743185,
+                        54.6336309570711
+                    ],
+                    [
+                        -0.740025000483186,
+                        54.6336309570711
+                    ],
+                    [
+                        -0.740025000483186,
+                        60.8452769694519
+                    ],
+                    [
+                        -7.66085699743185,
+                        60.8452769694519
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United Kingdom",
+        "country_code": "GB",
+        "full_name": "Scotland, United Kingdom",
+        "id": "0af014accd6f6e99",
+        "name": "Scotland",
+        "place_type": "admin",
+        "url": "https://api.twitter.com/1.1/geo/id/0af014accd6f6e99.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@easyJet delaying my flight again isn't even going to put me in a bad mood this evening  #stillhateeasyjetthough \ud83d\udc4a",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Feb 25 20:35:38 +0000 2012",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Sure why not?",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 1759,
+        "follow_request_sent": false,
+        "followers_count": 331,
+        "following": false,
+        "friends_count": 440,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 503515880,
+        "id_str": "503515880",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 0,
+        "location": "Ireland/In an airport",
+        "name": "Orlaith N\u00edCheallaigh",
+        "notifications": false,
+        "profile_background_color": "E1E9FA",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000151348337/fPnyAnY1.png",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000151348337/fPnyAnY1.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/503515880/1379118585",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/619627441808609280/DbrmDld3_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/619627441808609280/DbrmDld3_normal.jpg",
+        "profile_link_color": "546FA1",
+        "profile_sidebar_border_color": "141938",
+        "profile_sidebar_fill_color": "293359",
+        "profile_text_color": "3A4D78",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "okelly150",
+        "statuses_count": 3081,
+        "time_zone": "Casablanca",
+        "url": null,
+        "utc_offset": 0,
+        "verified": false
+    }
+}

@@ -1,0 +1,132 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Nov 30 17:22:26 +0000 2015",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    128,
+                    140
+                ],
+                "text": "sortshitout"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 38676903,
+                "id_str": "38676903",
+                "indices": [
+                    0,
+                    8
+                ],
+                "name": "easyJet",
+                "screen_name": "easyJet"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 671378767361785856,
+    "id_str": "671378767361785856",
+    "in_reply_to_screen_name": "easyJet",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 38676903,
+    "in_reply_to_user_id_str": "38676903",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        16.4327106,
+                        48.088982
+                    ],
+                    [
+                        16.576842,
+                        48.088982
+                    ],
+                    [
+                        16.576842,
+                        48.159012
+                    ],
+                    [
+                        16.4327106,
+                        48.159012
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "\u00d6sterreich",
+        "country_code": "AT",
+        "full_name": "Schwechat, \u00d6sterreich",
+        "id": "d62d58de815998db",
+        "name": "Schwechat",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/d62d58de815998db.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@easyJet open the stinking bag drop off. I've been here for over 20 mins. Sort out this banter. I'd like to get a last min beer #sortshitout",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Nov 10 07:39:40 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 1671,
+        "follow_request_sent": false,
+        "followers_count": 246,
+        "following": false,
+        "friends_count": 812,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 409073774,
+        "id_str": "409073774",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 0,
+        "location": "Surrey ",
+        "name": "George Stephens",
+        "notifications": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/409073774/1414878589",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/672031112856780800/fJJzyQ-Q_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/672031112856780800/fJJzyQ-Q_normal.jpg",
+        "profile_link_color": "009900",
+        "profile_sidebar_border_color": "EEEEEE",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "0000F7",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Geo_Stephens",
+        "statuses_count": 6049,
+        "time_zone": "Dublin",
+        "url": null,
+        "utc_offset": 0,
+        "verified": false
+    }
+}

@@ -1,0 +1,124 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Nov 30 15:04:33 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 38676903,
+                "id_str": "38676903",
+                "indices": [
+                    0,
+                    8
+                ],
+                "name": "easyJet",
+                "screen_name": "easyJet"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 671344068966924289,
+    "id_str": "671344068966924289",
+    "in_reply_to_screen_name": "easyJet",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 38676903,
+    "in_reply_to_user_id_str": "38676903",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        12.453064,
+                        55.613717
+                    ],
+                    [
+                        12.6511441,
+                        55.613717
+                    ],
+                    [
+                        12.6511441,
+                        55.731834
+                    ],
+                    [
+                        12.453064,
+                        55.731834
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "Danmark",
+        "country_code": "DK",
+        "full_name": "Copenhagen, Capital Region of Denmark",
+        "id": "936b83f20956cd4c",
+        "name": "Copenhagen",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/936b83f20956cd4c.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@easyJet Where do I cancel a booking? Please send me link. Need to change flights.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Jul 19 21:31:24 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Young guy working in the EDM industry I Partner/Artist Manager at Insurgo Agency I Tour Manager of Adrenalize | Co-founder of SUBSONIC I Ambitious & dedicated.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 554,
+        "follow_request_sent": false,
+        "followers_count": 189,
+        "following": false,
+        "friends_count": 288,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 58299564,
+        "id_str": "58299564",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 13,
+        "location": "Copenhagen, Denmark",
+        "name": "Theis Sch\u00e6fer Hansen",
+        "notifications": false,
+        "profile_background_color": "022330",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000116567395/53ef42e0a893f3dd99feb32ceae355e9.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000116567395/53ef42e0a893f3dd99feb32ceae355e9.jpeg",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/58299564/1407437271",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/656436411160252416/ZG6_3oQN_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/656436411160252416/ZG6_3oQN_normal.jpg",
+        "profile_link_color": "3B94D9",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "C0DFEC",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "theis_schaefer",
+        "statuses_count": 1052,
+        "time_zone": "Copenhagen",
+        "url": null,
+        "utc_offset": 3600,
+        "verified": false
+    }
+}

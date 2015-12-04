@@ -1,0 +1,124 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Dec 03 12:15:04 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 38676903,
+                "id_str": "38676903",
+                "indices": [
+                    0,
+                    8
+                ],
+                "name": "easyJet",
+                "screen_name": "easyJet"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 672388579511914496,
+    "id_str": "672388579511914496",
+    "in_reply_to_screen_name": "easyJet",
+    "in_reply_to_status_id": 672388500973625344,
+    "in_reply_to_status_id_str": "672388500973625344",
+    "in_reply_to_user_id": 38676903,
+    "in_reply_to_user_id_str": "38676903",
+    "is_quote_status": false,
+    "lang": "und",
+    "metadata": {
+        "iso_language_code": "und",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -4.1952232,
+                        51.665338
+                    ],
+                    [
+                        -4.0863,
+                        51.665338
+                    ],
+                    [
+                        -4.0863,
+                        51.708405
+                    ],
+                    [
+                        -4.1952232,
+                        51.708405
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United Kingdom",
+        "country_code": "GB",
+        "full_name": "Llanelli, Wales",
+        "id": "20ce43807b0a891e",
+        "name": "Llanelli",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/20ce43807b0a891e.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@easyJet \ud83d\udc4d",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Apr 03 17:06:41 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Fun Loving Dad, Swansea City ST holder. Partner in crime to Jayne xxx",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 1397,
+        "follow_request_sent": false,
+        "followers_count": 1152,
+        "following": false,
+        "friends_count": 996,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 276579305,
+        "id_str": "276579305",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 26,
+        "location": "Swansea",
+        "name": "Simon Will \u00ae",
+        "notifications": false,
+        "profile_background_color": "EBC1C1",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000073445929/65d2ce1a2695c7b4cf03b33b0a9d7bc7.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000073445929/65d2ce1a2695c7b4cf03b33b0a9d7bc7.jpeg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/276579305/1411541692",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/666785775191740417/cVPJP0Pc_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/666785775191740417/cVPJP0Pc_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "SwanxWill",
+        "statuses_count": 14207,
+        "time_zone": "Casablanca",
+        "url": null,
+        "utc_offset": 0,
+        "verified": false
+    }
+}

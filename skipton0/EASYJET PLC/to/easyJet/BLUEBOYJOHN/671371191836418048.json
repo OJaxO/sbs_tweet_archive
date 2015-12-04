@@ -1,0 +1,124 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Nov 30 16:52:20 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 38676903,
+                "id_str": "38676903",
+                "indices": [
+                    0,
+                    8
+                ],
+                "name": "easyJet",
+                "screen_name": "easyJet"
+            }
+        ]
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": null,
+    "id": 671371191836418048,
+    "id_str": "671371191836418048",
+    "in_reply_to_screen_name": "easyJet",
+    "in_reply_to_status_id": 671364583681073152,
+    "in_reply_to_status_id_str": "671364583681073152",
+    "in_reply_to_user_id": 38676903,
+    "in_reply_to_user_id_str": "38676903",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -0.8177038,
+                        38.0427157
+                    ],
+                    [
+                        -0.7357091,
+                        38.0427157
+                    ],
+                    [
+                        -0.7357091,
+                        38.0938526
+                    ],
+                    [
+                        -0.8177038,
+                        38.0938526
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "Espa\u00f1a",
+        "country_code": "ES",
+        "full_name": "Algorfa, Comunidad Valenciana",
+        "id": "e79b02f8b6439166",
+        "name": "Algorfa",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/e79b02f8b6439166.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@easyJet thank you",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Oct 30 20:00:24 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Mad Evertonian who loves the sun and spends as much time as possible in Spain.Married to Maria with 3 sons",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 33,
+        "follow_request_sent": false,
+        "followers_count": 38,
+        "following": false,
+        "friends_count": 120,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 86385368,
+        "id_str": "86385368",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 1,
+        "location": "Prescot",
+        "name": "JOHN GRAY",
+        "notifications": false,
+        "profile_background_color": "642D8B",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/672580490/8c2d11d5b3d8c1ddf98634d6c081e65e.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/672580490/8c2d11d5b3d8c1ddf98634d6c081e65e.jpeg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/86385368/1348940257",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/606882376191516672/xG-6JbsU_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/606882376191516672/xG-6JbsU_normal.jpg",
+        "profile_link_color": "FF0000",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "7AC3EE",
+        "profile_text_color": "3D1957",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "BLUEBOYJOHN",
+        "statuses_count": 265,
+        "time_zone": "London",
+        "url": null,
+        "utc_offset": 0,
+        "verified": false
+    }
+}

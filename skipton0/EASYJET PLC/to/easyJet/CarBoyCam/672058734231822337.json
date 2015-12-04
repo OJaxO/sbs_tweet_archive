@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Dec 02 14:24:23 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 38676903,
+                "id_str": "38676903",
+                "indices": [
+                    0,
+                    8
+                ],
+                "name": "easyJet",
+                "screen_name": "easyJet"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 672058734231822337,
+    "id_str": "672058734231822337",
+    "in_reply_to_screen_name": "easyJet",
+    "in_reply_to_status_id": 672057933639872512,
+    "in_reply_to_status_id_str": "672057933639872512",
+    "in_reply_to_user_id": 38676903,
+    "in_reply_to_user_id_str": "38676903",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        0.9533861,
+                        52.1952346
+                    ],
+                    [
+                        0.965128,
+                        52.1952346
+                    ],
+                    [
+                        0.965128,
+                        52.200447
+                    ],
+                    [
+                        0.9533861,
+                        52.200447
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United Kingdom",
+        "country_code": "GB",
+        "full_name": "Onehouse, England",
+        "id": "66bc1483a35dc445",
+        "name": "Onehouse",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/66bc1483a35dc445.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for i\u039fS</a>",
+    "text": "@easyJet It\u2019s only 6s, not 6, but hey-ho!",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Feb 20 19:02:40 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Computer Science (BSc) graduate, IT Technician, part-time iOS developer, gamer, sim racer and owner of @TSARacingTeam.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "cameronbrewster.com",
+                        "expanded_url": "http://www.cameronbrewster.com",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/38t2ni15EN"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 1159,
+        "follow_request_sent": false,
+        "followers_count": 664,
+        "following": false,
+        "friends_count": 1720,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 21422691,
+        "id_str": "21422691",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 24,
+        "location": "Stowmarket, UK",
+        "name": "Cameron Brewster",
+        "notifications": false,
+        "profile_background_color": "101010",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/21422691/1442960891",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/643401988609323009/nJOYNv3c_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/643401988609323009/nJOYNv3c_normal.jpg",
+        "profile_link_color": "006999",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "CarBoyCam",
+        "statuses_count": 35360,
+        "time_zone": "London",
+        "url": "http://t.co/38t2ni15EN",
+        "utc_offset": 0,
+        "verified": false
+    }
+}

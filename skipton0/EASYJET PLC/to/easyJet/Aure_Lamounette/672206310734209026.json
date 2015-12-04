@@ -1,0 +1,124 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Dec 03 00:10:48 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 38676903,
+                "id_str": "38676903",
+                "indices": [
+                    0,
+                    8
+                ],
+                "name": "easyJet",
+                "screen_name": "easyJet"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 672206310734209026,
+    "id_str": "672206310734209026",
+    "in_reply_to_screen_name": "easyJet",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 38676903,
+    "in_reply_to_user_id_str": "38676903",
+    "is_quote_status": false,
+    "lang": "fr",
+    "metadata": {
+        "iso_language_code": "fr",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        7.467132,
+                        43.765188
+                    ],
+                    [
+                        7.5300325,
+                        43.765188
+                    ],
+                    [
+                        7.5300325,
+                        43.8269642
+                    ],
+                    [
+                        7.467132,
+                        43.8269642
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "France",
+        "country_code": "FR",
+        "full_name": "Menton, Provence-Alpes-C\u00f4te d'Azur",
+        "id": "394d552551ff111e",
+        "name": "Menton",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/394d552551ff111e.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@easyJet bonsoir, est-ce qu'on peut prendre un petit sac ET un sac a dos en bagage cabine ? Merci",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Jan 12 11:22:19 +0000 2012",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "#TeamLacDesReves #SectionLongueDistance",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 2315,
+        "follow_request_sent": false,
+        "followers_count": 303,
+        "following": false,
+        "friends_count": 423,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 461941857,
+        "id_str": "461941857",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "fr",
+        "listed_count": 9,
+        "location": "Menton - Nice ",
+        "name": "A\u0432\u0440\u0435\u043b\u0438\u0430\u043d",
+        "notifications": false,
+        "profile_background_color": "1A1B1F",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/830943957/d65cbde8fb4ff2e7fe265f8a707498bf.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/830943957/d65cbde8fb4ff2e7fe265f8a707498bf.jpeg",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/461941857/1439841907",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/534040990156615681/Zx4KWTCN_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/534040990156615681/Zx4KWTCN_normal.jpeg",
+        "profile_link_color": "2FBFEB",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "252429",
+        "profile_text_color": "666666",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "Aure_Lamounette",
+        "statuses_count": 20467,
+        "time_zone": "Paris",
+        "url": null,
+        "utc_offset": 3600,
+        "verified": false
+    }
+}

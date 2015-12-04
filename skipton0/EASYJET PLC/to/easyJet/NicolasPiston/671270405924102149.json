@@ -1,0 +1,166 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Nov 30 10:11:51 +0000 2015",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    17,
+                    25
+                ],
+                "text": "EasyJet"
+            },
+            {
+                "indices": [
+                    78,
+                    87
+                ],
+                "text": "Problems"
+            },
+            {
+                "indices": [
+                    88,
+                    95
+                ],
+                "text": "issues"
+            },
+            {
+                "indices": [
+                    96,
+                    101
+                ],
+                "text": "Dumb"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 38676903,
+                "id_str": "38676903",
+                "indices": [
+                    0,
+                    8
+                ],
+                "name": "easyJet",
+                "screen_name": "easyJet"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 671270405924102149,
+    "id_str": "671270405924102149",
+    "in_reply_to_screen_name": "easyJet",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 38676903,
+    "in_reply_to_user_id_str": "38676903",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        2.0524766,
+                        41.3199988
+                    ],
+                    [
+                        2.2261223,
+                        41.3199988
+                    ],
+                    [
+                        2.2261223,
+                        41.4682658
+                    ],
+                    [
+                        2.0524766,
+                        41.4682658
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "Espa\u00f1a",
+        "country_code": "ES",
+        "full_name": "Barcelona, Catalonia",
+        "id": "1a27537478dd8e38",
+        "name": "Barcelona",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/1a27537478dd8e38.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@easyJet sucks.\n\n#EasyJet aren't fixing issues, just referring to some rules. #Problems #issues #Dumb",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri May 20 07:02:27 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Second job at #Google in #Barcelona. Just graduated from #ESCSaintEtienne & #WKU. Life's good! \u2600\ufe0f",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "Instagram.com/nicolaspiston",
+                        "expanded_url": "http://Instagram.com/nicolaspiston",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/pd5O88MxdD"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 34,
+        "follow_request_sent": false,
+        "followers_count": 285,
+        "following": false,
+        "friends_count": 987,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 301881585,
+        "id_str": "301881585",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 16,
+        "location": "Saint-Etienne, France.",
+        "name": "Nicolas Piston",
+        "notifications": false,
+        "profile_background_color": "424445",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/819159515/9cc2e6daf895dd8f69ea2486fec633a4.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/819159515/9cc2e6daf895dd8f69ea2486fec633a4.jpeg",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/301881585/1427467444",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/506848675919052800/s3muejiy_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/506848675919052800/s3muejiy_normal.jpeg",
+        "profile_link_color": "6F6963",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "NicolasPiston",
+        "statuses_count": 3133,
+        "time_zone": "Paris",
+        "url": "http://t.co/pd5O88MxdD",
+        "utc_offset": 3600,
+        "verified": false
+    }
+}

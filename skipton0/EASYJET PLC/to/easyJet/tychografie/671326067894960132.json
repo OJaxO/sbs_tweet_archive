@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Nov 30 13:53:01 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 38676903,
+                "id_str": "38676903",
+                "indices": [
+                    0,
+                    8
+                ],
+                "name": "easyJet",
+                "screen_name": "easyJet"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 671326067894960132,
+    "id_str": "671326067894960132",
+    "in_reply_to_screen_name": "easyJet",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 38676903,
+    "in_reply_to_user_id_str": "38676903",
+    "is_quote_status": false,
+    "lang": "und",
+    "metadata": {
+        "iso_language_code": "und",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        4.89245095747766,
+                        52.3672590847427
+                    ],
+                    [
+                        4.90315718650438,
+                        52.3672590847427
+                    ],
+                    [
+                        4.90315718650438,
+                        52.3772923258214
+                    ],
+                    [
+                        4.89245095747766,
+                        52.3772923258214
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "Nederland",
+        "country_code": "NL",
+        "full_name": "Burgwallen-Oude Zijde, Amsterdam",
+        "id": "21b2103bdb76e160",
+        "name": "Burgwallen-Oude Zijde",
+        "place_type": "neighborhood",
+        "url": "https://api.twitter.com/1.1/geo/id/21b2103bdb76e160.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "text": "@easyJet DM",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Nov 05 18:43:02 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Als niemand kijkt luister ik Taylor Swift. Digital designer & impulsieve reisjes.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "tychografie.nl",
+                        "expanded_url": "http://www.tychografie.nl",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/V1lJnQiTBt"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 2833,
+        "follow_request_sent": false,
+        "followers_count": 3476,
+        "following": false,
+        "friends_count": 467,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 87753078,
+        "id_str": "87753078",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en-gb",
+        "listed_count": 55,
+        "location": "amsterdam",
+        "name": "Tycho Litjens",
+        "notifications": false,
+        "profile_background_color": "69D2E7",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000106924001/d34259b563abadc03084a224022a47fb.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000106924001/d34259b563abadc03084a224022a47fb.jpeg",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/87753078/1445605608",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/657542943721525249/gUnsyWvn_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/657542943721525249/gUnsyWvn_normal.jpg",
+        "profile_link_color": "C0392B",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "F38630",
+        "profile_text_color": "001413",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "tychografie",
+        "statuses_count": 100610,
+        "time_zone": "Amsterdam",
+        "url": "https://t.co/V1lJnQiTBt",
+        "utc_offset": 3600,
+        "verified": false
+    }
+}
