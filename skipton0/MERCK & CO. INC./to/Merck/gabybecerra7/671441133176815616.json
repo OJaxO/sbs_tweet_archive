@@ -1,0 +1,124 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Nov 30 21:30:15 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 35961145,
+                "id_str": "35961145",
+                "indices": [
+                    0,
+                    6
+                ],
+                "name": "Merck",
+                "screen_name": "Merck"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 671441133176815616,
+    "id_str": "671441133176815616",
+    "in_reply_to_screen_name": "Merck",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 35961145,
+    "in_reply_to_user_id_str": "35961145",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -66.869142,
+                        10.5964235
+                    ],
+                    [
+                        -66.819105,
+                        10.5964235
+                    ],
+                    [
+                        -66.819105,
+                        10.6203085
+                    ],
+                    [
+                        -66.869142,
+                        10.6203085
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "Venezuela",
+        "country_code": "VE",
+        "full_name": "Caraballeda, Vargas",
+        "id": "014950ed1900452e",
+        "name": "Caraballeda",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/014950ed1900452e.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@Merck do not get in Venezuela as the Singulair can help buy \u00bf?",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Jul 26 01:59:27 +0000 2012",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "40 a\u00f1os, Guaire\u00f1a, Venezolana, Usebista Turistologa, Administradora, Gestora Social, CRPeana",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 2870,
+        "follow_request_sent": false,
+        "followers_count": 184,
+        "following": false,
+        "friends_count": 454,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 717179304,
+        "id_str": "717179304",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "es",
+        "listed_count": 2,
+        "location": "Venezuela",
+        "name": "Ma. Gabriela Becerra",
+        "notifications": false,
+        "profile_background_color": "FCEBB6",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/831465613/4b810bb1933b4993f8ca6e003836b8ba.png",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/831465613/4b810bb1933b4993f8ca6e003836b8ba.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/717179304/1391537993",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/430766238789160960/CQwrzi9x_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/430766238789160960/CQwrzi9x_normal.jpeg",
+        "profile_link_color": "CE7834",
+        "profile_sidebar_border_color": "F0A830",
+        "profile_sidebar_fill_color": "78C0A8",
+        "profile_text_color": "5E412F",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "gabybecerra7",
+        "statuses_count": 2042,
+        "time_zone": "Caracas",
+        "url": null,
+        "utc_offset": -16200,
+        "verified": false
+    }
+}
