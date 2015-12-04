@@ -1,0 +1,132 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Dec 02 19:09:38 +0000 2015",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    35,
+                    51
+                ],
+                "text": "MoreThisHoliday"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 78613092,
+                "id_str": "78613092",
+                "indices": [
+                    0,
+                    8
+                ],
+                "name": "Staples US",
+                "screen_name": "Staples"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 672130519790841856,
+    "id_str": "672130519790841856",
+    "in_reply_to_screen_name": "Staples",
+    "in_reply_to_status_id": 672130231344435200,
+    "in_reply_to_status_id_str": "672130231344435200",
+    "in_reply_to_user_id": 78613092,
+    "in_reply_to_user_id_str": "78613092",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -95.774704,
+                        35.995476
+                    ],
+                    [
+                        -89.098843,
+                        35.995476
+                    ],
+                    [
+                        -89.098843,
+                        40.613641
+                    ],
+                    [
+                        -95.774704,
+                        40.613641
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Missouri, USA",
+        "id": "2526edd24c06e60c",
+        "name": "Missouri",
+        "place_type": "admin",
+        "url": "https://api.twitter.com/1.1/geo/id/2526edd24c06e60c.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@Staples Thanks, Happy to be here! #MoreThisHoliday",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Dec 21 15:12:14 +0000 2013",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Things I Love,The Lord and Each New Day He Brings, my Family,Grands, my Dogs, Twitter,Contests, Making New Friends\r\nSubstitute account for Dargar7",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 4556,
+        "follow_request_sent": false,
+        "followers_count": 736,
+        "following": false,
+        "friends_count": 2967,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 2256590288,
+        "id_str": "2256590288",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 36,
+        "location": "",
+        "name": "D.R. O'Brien",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/440596055105601537/TNmJQyy9.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/440596055105601537/TNmJQyy9.jpeg",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2256590288/1393881435",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/473793580704604161/fccCeFgc_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/473793580704604161/fccCeFgc_normal.jpeg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "DROBrien77",
+        "statuses_count": 34777,
+        "time_zone": null,
+        "url": null,
+        "utc_offset": null,
+        "verified": false
+    }
+}

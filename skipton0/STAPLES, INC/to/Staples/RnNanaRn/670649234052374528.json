@@ -1,0 +1,155 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Nov 28 17:03:32 +0000 2015",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    22,
+                    44
+                ],
+                "text": "SmallBusinessSaturday"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 78613092,
+                "id_str": "78613092",
+                "indices": [
+                    0,
+                    8
+                ],
+                "name": "Staples US",
+                "screen_name": "Staples"
+            },
+            {
+                "id": 113509424,
+                "id_str": "113509424",
+                "indices": [
+                    9,
+                    21
+                ],
+                "name": "SB Running",
+                "screen_name": "SBRunningCo"
+            }
+        ]
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": null,
+    "id": 670649234052374528,
+    "id_str": "670649234052374528",
+    "in_reply_to_screen_name": "Staples",
+    "in_reply_to_status_id": 670648413864615937,
+    "in_reply_to_status_id_str": "670648413864615937",
+    "in_reply_to_user_id": 78613092,
+    "in_reply_to_user_id_str": "78613092",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -119.763341,
+                        34.395525
+                    ],
+                    [
+                        -119.639931,
+                        34.395525
+                    ],
+                    [
+                        -119.639931,
+                        34.464245
+                    ],
+                    [
+                        -119.763341,
+                        34.464245
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Santa Barbara, CA",
+        "id": "f6ebc676e5cde864",
+        "name": "Santa Barbara",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/f6ebc676e5cde864.json"
+    },
+    "retweet_count": 1,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@Staples @SBRunningCo #SmallBusinessSaturday keeping Santa Fit, stylish and having fun while doing it!",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Apr 18 00:15:31 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Purveyor of Nana's Fine Things,  Premier Designs Jewelry, Writer, Runner, Lover of Wine, Food, Chocolate, & Fun Living, Contests, sweepstakes!",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "26pt2nana.wordpress.com",
+                        "expanded_url": "http://26pt2nana.wordpress.com/",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/UGPn5wk9Ou"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 5568,
+        "follow_request_sent": false,
+        "followers_count": 894,
+        "following": false,
+        "friends_count": 1952,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 32678883,
+        "id_str": "32678883",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 42,
+        "location": "342607N 119434W",
+        "name": "Stephanie N Torres",
+        "notifications": false,
+        "profile_background_color": "EBEBEB",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/32678883/1421870288",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/655038048317472768/yUJJFG3P_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/655038048317472768/yUJJFG3P_normal.png",
+        "profile_link_color": "990000",
+        "profile_sidebar_border_color": "DFDFDF",
+        "profile_sidebar_fill_color": "F3F3F3",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "RnNanaRn",
+        "statuses_count": 21243,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "http://t.co/UGPn5wk9Ou",
+        "utc_offset": -28800,
+        "verified": false
+    }
+}

@@ -1,0 +1,148 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Nov 25 17:56:30 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "goo.gl/B3svsR",
+                "expanded_url": "http://goo.gl/B3svsR",
+                "indices": [
+                    91,
+                    114
+                ],
+                "url": "https://t.co/CarTFDTlZ2"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 78613092,
+                "id_str": "78613092",
+                "indices": [
+                    0,
+                    8
+                ],
+                "name": "Staples US",
+                "screen_name": "Staples"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 669575402931769344,
+    "id_str": "669575402931769344",
+    "in_reply_to_screen_name": "Staples",
+    "in_reply_to_status_id": 669551645819191297,
+    "in_reply_to_status_id_str": "669551645819191297",
+    "in_reply_to_user_id": 78613092,
+    "in_reply_to_user_id_str": "78613092",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -74.026675,
+                        40.683935
+                    ],
+                    [
+                        -73.910408,
+                        40.683935
+                    ],
+                    [
+                        -73.910408,
+                        40.877483
+                    ],
+                    [
+                        -74.026675,
+                        40.877483
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Manhattan, NY",
+        "id": "01a9a39529b27f36",
+        "name": "Manhattan",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/01a9a39529b27f36.json"
+    },
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@Staples Hello, we featured you in our Black Friday Article, LOVE your deals! Check it out https://t.co/CarTFDTlZ2",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Oct 20 20:51:39 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Your source for the best things to do in NYC! Launching late 2015!",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "freesocialevents.com",
+                        "expanded_url": "http://www.freesocialevents.com",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/4RbVFMmFci"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 8,
+        "follow_request_sent": false,
+        "followers_count": 120,
+        "following": false,
+        "friends_count": 334,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 205416925,
+        "id_str": "205416925",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 2,
+        "location": "New York City Area",
+        "name": "Free Social Events",
+        "notifications": false,
+        "profile_background_color": "EBE5A2",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/166008268/TwitterPg_LOGO_Final_FSE.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/166008268/TwitterPg_LOGO_Final_FSE.jpg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/205416925/1448833087",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/529703752735809536/vgQ1FajZ_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/529703752735809536/vgQ1FajZ_normal.jpeg",
+        "profile_link_color": "F00C18",
+        "profile_sidebar_border_color": "F00C2B",
+        "profile_sidebar_fill_color": "E69E0E",
+        "profile_text_color": "291503",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "freesocialevent",
+        "statuses_count": 395,
+        "time_zone": "Central Time (US & Canada)",
+        "url": "http://t.co/4RbVFMmFci",
+        "utc_offset": -21600,
+        "verified": false
+    }
+}
