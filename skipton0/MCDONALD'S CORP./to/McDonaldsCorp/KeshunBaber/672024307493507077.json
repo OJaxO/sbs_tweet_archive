@@ -1,0 +1,260 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Dec 02 12:07:35 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/troytheblackgu\u2026",
+                "expanded_url": "https://twitter.com/troytheblackguy/status/671026258201976832",
+                "indices": [
+                    54,
+                    77
+                ],
+                "url": "https://t.co/OzRYOzcaxJ"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 111679943,
+                "id_str": "111679943",
+                "indices": [
+                    0,
+                    14
+                ],
+                "name": "McDonald's",
+                "screen_name": "McDonaldsCorp"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 672024307493507077,
+    "id_str": "672024307493507077",
+    "in_reply_to_screen_name": "McDonaldsCorp",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 111679943,
+    "in_reply_to_user_id_str": "111679943",
+    "is_quote_status": true,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -122.218185,
+                        47.383184
+                    ],
+                    [
+                        -122.13336,
+                        47.383184
+                    ],
+                    [
+                        -122.13336,
+                        47.430697
+                    ],
+                    [
+                        -122.218185,
+                        47.430697
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "East Hill-Meridian, WA",
+        "id": "7f39273b739196ab",
+        "name": "East Hill-Meridian",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/7f39273b739196ab.json"
+    },
+    "possibly_sensitive": false,
+    "quoted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Sun Nov 29 18:01:41 +0000 2015",
+        "entities": {
+            "hashtags": [],
+            "media": [
+                {
+                    "display_url": "pic.twitter.com/huhCIbNCLu",
+                    "expanded_url": "http://twitter.com/Steveyy5/status/665971859427631104/video/1",
+                    "id": 665971562533797890,
+                    "id_str": "665971562533797890",
+                    "indices": [
+                        34,
+                        57
+                    ],
+                    "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/665971562533797890/pu/img/kxPxTT_JBR3EX1k4.jpg",
+                    "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/665971562533797890/pu/img/kxPxTT_JBR3EX1k4.jpg",
+                    "sizes": {
+                        "large": {
+                            "h": 426,
+                            "resize": "fit",
+                            "w": 236
+                        },
+                        "medium": {
+                            "h": 426,
+                            "resize": "fit",
+                            "w": 236
+                        },
+                        "small": {
+                            "h": 426,
+                            "resize": "fit",
+                            "w": 236
+                        },
+                        "thumb": {
+                            "h": 150,
+                            "resize": "crop",
+                            "w": 150
+                        }
+                    },
+                    "source_status_id": 665971859427631104,
+                    "source_status_id_str": "665971859427631104",
+                    "source_user_id": 381931853,
+                    "source_user_id_str": "381931853",
+                    "type": "photo",
+                    "url": "https://t.co/huhCIbNCLu"
+                }
+            ],
+            "symbols": [],
+            "urls": [],
+            "user_mentions": []
+        },
+        "favorite_count": 5349,
+        "favorited": false,
+        "geo": null,
+        "id": 671026258201976832,
+        "id_str": "671026258201976832",
+        "in_reply_to_screen_name": null,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "is_quote_status": false,
+        "lang": "en",
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "place": null,
+        "possibly_sensitive": false,
+        "retweet_count": 5879,
+        "retweeted": false,
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "text": "\"Yall don shorted me 7 grams man\" https://t.co/huhCIbNCLu",
+        "truncated": false,
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Sun Feb 02 02:55:26 +0000 2014",
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "A girl told me I'm funny and I should make a twitter | If you a sensitive lil girl don't mention me | I'm ugly and proud | Satire",
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "favourites_count": 9171,
+            "follow_request_sent": false,
+            "followers_count": 46352,
+            "following": false,
+            "friends_count": 356,
+            "geo_enabled": true,
+            "has_extended_profile": false,
+            "id": 2319233385,
+            "id_str": "2319233385",
+            "is_translation_enabled": false,
+            "is_translator": false,
+            "lang": "en",
+            "listed_count": 85,
+            "location": "Tampa",
+            "name": "B R O C K \u2122",
+            "notifications": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/2319233385/1446728709",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/672590108227407873/IuZCBAcY_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/672590108227407873/IuZCBAcY_normal.jpg",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "troytheblackguy",
+            "statuses_count": 11794,
+            "time_zone": "Mountain Time (US & Canada)",
+            "url": null,
+            "utc_offset": -25200,
+            "verified": false
+        }
+    },
+    "quoted_status_id": 671026258201976832,
+    "quoted_status_id_str": "671026258201976832",
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@McDonaldsCorp why y'all shortening this mans food?!  https://t.co/OzRYOzcaxJ",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Feb 22 06:06:54 +0000 2013",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "rugby player, producer, model and Dj. #NoChasers #SchemingHours",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 56260,
+        "follow_request_sent": false,
+        "followers_count": 2113,
+        "following": false,
+        "friends_count": 2139,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 1206972936,
+        "id_str": "1206972936",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 5,
+        "location": "Kent, Wa",
+        "name": "Vitamin K",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1206972936/1449083045",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/669948713339518976/JH7MoTsH_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/669948713339518976/JH7MoTsH_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "KeshunBaber",
+        "statuses_count": 34309,
+        "time_zone": "Tijuana",
+        "url": null,
+        "utc_offset": -28800,
+        "verified": false
+    }
+}

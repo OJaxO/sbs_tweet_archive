@@ -1,0 +1,124 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Dec 03 17:13:40 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 111679943,
+                "id_str": "111679943",
+                "indices": [
+                    0,
+                    14
+                ],
+                "name": "McDonald's",
+                "screen_name": "McDonaldsCorp"
+            }
+        ]
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": null,
+    "id": 672463725832474624,
+    "id_str": "672463725832474624",
+    "in_reply_to_screen_name": "McDonaldsCorp",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 111679943,
+    "in_reply_to_user_id_str": "111679943",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -121.576613,
+                        38.43792
+                    ],
+                    [
+                        -121.362715,
+                        38.43792
+                    ],
+                    [
+                        -121.362715,
+                        38.685512
+                    ],
+                    [
+                        -121.576613,
+                        38.685512
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Sacramento, CA",
+        "id": "b71fac2ee9792cbe",
+        "name": "Sacramento",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/b71fac2ee9792cbe.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@McDonaldsCorp petition to call french fries \"friend fries\" bc they're a source of warmth and comfort...thoughts?",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Jun 27 03:38:43 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Knope or Nope? Probably both",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 12348,
+        "follow_request_sent": false,
+        "followers_count": 683,
+        "following": false,
+        "friends_count": 415,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 324728814,
+        "id_str": "324728814",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 1,
+        "location": "sacramento",
+        "name": "\u00dc tony \u00dc",
+        "notifications": false,
+        "profile_background_color": "352726",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/707383462/6e1c78c66c178c9137c01ab07e58d135.png",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/707383462/6e1c78c66c178c9137c01ab07e58d135.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/324728814/1446505659",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/672188826119356416/W9UrM2Au_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/672188826119356416/W9UrM2Au_normal.jpg",
+        "profile_link_color": "D02B55",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "h4ckysack",
+        "statuses_count": 476,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": null,
+        "utc_offset": -28800,
+        "verified": false
+    }
+}

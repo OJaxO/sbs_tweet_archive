@@ -1,0 +1,124 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Dec 03 15:28:35 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 111679943,
+                "id_str": "111679943",
+                "indices": [
+                    0,
+                    14
+                ],
+                "name": "McDonald's",
+                "screen_name": "McDonaldsCorp"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 672437278925426688,
+    "id_str": "672437278925426688",
+    "in_reply_to_screen_name": "McDonaldsCorp",
+    "in_reply_to_status_id": 672436008160505858,
+    "in_reply_to_status_id_str": "672436008160505858",
+    "in_reply_to_user_id": 111679943,
+    "in_reply_to_user_id_str": "111679943",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -76.353876,
+                        44.961937
+                    ],
+                    [
+                        -75.246407,
+                        44.961937
+                    ],
+                    [
+                        -75.246407,
+                        45.534511
+                    ],
+                    [
+                        -76.353876,
+                        45.534511
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "Canada",
+        "country_code": "CA",
+        "full_name": "Ottawa, Ontario",
+        "id": "38d5974e82ed1a6c",
+        "name": "Ottawa",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/38d5974e82ed1a6c.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@McDonaldsCorp \ud83d\udc4d kind server last night at Walmart South Keys location.\nKudos!",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Jul 25 18:13:33 +0000 2012",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Proud mum\u263c multi-subjects tweeter \u266b singing bird | Motto: Live, Love, Laugh| Pls don't expect follow-back|\u26d4if bot/closed acct/eggie \u2b05pls don't follow me",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 46161,
+        "follow_request_sent": false,
+        "followers_count": 896,
+        "following": false,
+        "friends_count": 101,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 716501756,
+        "id_str": "716501756",
+        "is_translation_enabled": true,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 65,
+        "location": "Ottawa, ON, Canada",
+        "name": "\u263c Myl\u00e8ne \u2600",
+        "notifications": false,
+        "profile_background_color": "FF0033",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/625191208994930688/HEeHrkgH.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/625191208994930688/HEeHrkgH.jpg",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/716501756/1449157485",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/672636693757972485/q6tNtiEq_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/672636693757972485/q6tNtiEq_normal.jpg",
+        "profile_link_color": "6699FF",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "95E8EC",
+        "profile_text_color": "3C3940",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "CopperBronzed",
+        "statuses_count": 103962,
+        "time_zone": "Eastern Time (US & Canada)",
+        "url": null,
+        "utc_offset": -18000,
+        "verified": false
+    }
+}

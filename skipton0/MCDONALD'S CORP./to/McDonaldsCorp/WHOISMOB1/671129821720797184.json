@@ -1,0 +1,184 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Nov 30 00:53:13 +0000 2015",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    15,
+                    24
+                ],
+                "text": "Franklin"
+            }
+        ],
+        "media": [
+            {
+                "display_url": "pic.twitter.com/FY8Q05Oj3p",
+                "expanded_url": "http://twitter.com/WHOISMOB1/status/671129821720797184/photo/1",
+                "id": 671129821166985216,
+                "id_str": "671129821166985216",
+                "indices": [
+                    50,
+                    73
+                ],
+                "media_url": "http://pbs.twimg.com/media/CVBVBDzUYAA6-dN.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/CVBVBDzUYAA6-dN.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 756,
+                        "resize": "fit",
+                        "w": 473
+                    },
+                    "medium": {
+                        "h": 756,
+                        "resize": "fit",
+                        "w": 473
+                    },
+                    "small": {
+                        "h": 543,
+                        "resize": "fit",
+                        "w": 340
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/FY8Q05Oj3p"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 111679943,
+                "id_str": "111679943",
+                "indices": [
+                    0,
+                    14
+                ],
+                "name": "McDonald's",
+                "screen_name": "McDonaldsCorp"
+            }
+        ]
+    },
+    "favorite_count": 2,
+    "favorited": false,
+    "geo": null,
+    "id": 671129821720797184,
+    "id_str": "671129821720797184",
+    "in_reply_to_screen_name": "McDonaldsCorp",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 111679943,
+    "in_reply_to_user_id_str": "111679943",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -122.514926,
+                        37.708075
+                    ],
+                    [
+                        -122.357031,
+                        37.708075
+                    ],
+                    [
+                        -122.357031,
+                        37.833238
+                    ],
+                    [
+                        -122.514926,
+                        37.833238
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "San Francisco, CA",
+        "id": "5a110d312052166f",
+        "name": "San Francisco",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/5a110d312052166f.json"
+    },
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@McDonaldsCorp #Franklin Where's the Franklin toy https://t.co/FY8Q05Oj3p",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Jan 15 02:10:22 +0000 2014",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Men of Bronze Revealed",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "whoismob.wix.com",
+                        "expanded_url": "http://www.whoismob.wix.com",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/1Djzx138S5"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 20,
+        "follow_request_sent": false,
+        "followers_count": 112,
+        "following": false,
+        "friends_count": 378,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 2291997738,
+        "id_str": "2291997738",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 2,
+        "location": "San Francisco, CA",
+        "name": "Men Of Bronze",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2291997738/1403214656",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/479743832968294401/paPTv9AW_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/479743832968294401/paPTv9AW_normal.png",
+        "profile_link_color": "BFB60B",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "WHOISMOB1",
+        "statuses_count": 150,
+        "time_zone": null,
+        "url": "http://t.co/1Djzx138S5",
+        "utc_offset": null,
+        "verified": false
+    }
+}
