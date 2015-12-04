@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Dec 02 23:22:02 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 19380829,
+                "id_str": "19380829",
+                "indices": [
+                    0,
+                    6
+                ],
+                "name": "Yahoo",
+                "screen_name": "Yahoo"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 672194040599744513,
+    "id_str": "672194040599744513",
+    "in_reply_to_screen_name": "Yahoo",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 19380829,
+    "in_reply_to_user_id_str": "19380829",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        153.186551712,
+                        -28.2003171475
+                    ],
+                    [
+                        153.552171232,
+                        -28.2003171475
+                    ],
+                    [
+                        153.552171232,
+                        -27.708126368
+                    ],
+                    [
+                        153.186551712,
+                        -27.708126368
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "Australia",
+        "country_code": "AU",
+        "full_name": "Gold Coast, Queensland",
+        "id": "017453ae077eafd3",
+        "name": "Gold Coast",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/017453ae077eafd3.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@Yahoo soared 5.8% on news of potential sale of its core internet business, while Qualcomm surged 5.2%",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Nov 05 07:56:47 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "WPP has a team of finanacial advisers helping clients Australia-wide with 'The WPP Way' to Secure. Build. Succeed. \nFPA. AFA. MDRT. SMSFA.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "wealthplanningpartners.com.au",
+                        "expanded_url": "http://www.wealthplanningpartners.com.au",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/2W4iYWFzSP"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 1098,
+        "follow_request_sent": false,
+        "followers_count": 1681,
+        "following": false,
+        "friends_count": 1621,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 212144583,
+        "id_str": "212144583",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 52,
+        "location": "Australia",
+        "name": "Wealth Planning Ptrs",
+        "notifications": false,
+        "profile_background_color": "DADDC0",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/506959092099715072/4kAtgpAV.png",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/506959092099715072/4kAtgpAV.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/212144583/1377295067",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/479561309986361344/uEVx9S6h_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/479561309986361344/uEVx9S6h_normal.jpeg",
+        "profile_link_color": "877F63",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "E2EAEF",
+        "profile_text_color": "6C961C",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "WealthPP",
+        "statuses_count": 12661,
+        "time_zone": "Brisbane",
+        "url": "http://t.co/2W4iYWFzSP",
+        "utc_offset": 36000,
+        "verified": false
+    }
+}

@@ -1,0 +1,343 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Nov 26 21:10:01 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "media": [
+            {
+                "display_url": "pic.twitter.com/oOmuoCMyOK",
+                "expanded_url": "http://twitter.com/amom4u/status/669952208750948352/photo/1",
+                "id": 669952201566068736,
+                "id_str": "669952201566068736",
+                "indices": [
+                    139,
+                    140
+                ],
+                "media_url": "http://pbs.twimg.com/media/CUwl-k7WIAAiz9x.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/CUwl-k7WIAAiz9x.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 768,
+                        "resize": "fit",
+                        "w": 1024
+                    },
+                    "medium": {
+                        "h": 450,
+                        "resize": "fit",
+                        "w": 600
+                    },
+                    "small": {
+                        "h": 255,
+                        "resize": "fit",
+                        "w": 340
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "source_status_id": 669952208750948352,
+                "source_status_id_str": "669952208750948352",
+                "source_user_id": 36124865,
+                "source_user_id_str": "36124865",
+                "type": "photo",
+                "url": "https://t.co/oOmuoCMyOK"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 36124865,
+                "id_str": "36124865",
+                "indices": [
+                    3,
+                    10
+                ],
+                "name": "Becky Beall",
+                "screen_name": "amom4u"
+            },
+            {
+                "id": 27650674,
+                "id_str": "27650674",
+                "indices": [
+                    69,
+                    74
+                ],
+                "name": "Audi",
+                "screen_name": "Audi"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 669986491200737280,
+    "id_str": "669986491200737280",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 59,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Thu Nov 26 18:53:48 +0000 2015",
+        "entities": {
+            "hashtags": [],
+            "media": [
+                {
+                    "display_url": "pic.twitter.com/oOmuoCMyOK",
+                    "expanded_url": "http://twitter.com/amom4u/status/669952208750948352/photo/1",
+                    "id": 669952201566068736,
+                    "id_str": "669952201566068736",
+                    "indices": [
+                        116,
+                        139
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/CUwl-k7WIAAiz9x.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/CUwl-k7WIAAiz9x.jpg",
+                    "sizes": {
+                        "large": {
+                            "h": 768,
+                            "resize": "fit",
+                            "w": 1024
+                        },
+                        "medium": {
+                            "h": 450,
+                            "resize": "fit",
+                            "w": 600
+                        },
+                        "small": {
+                            "h": 255,
+                            "resize": "fit",
+                            "w": 340
+                        },
+                        "thumb": {
+                            "h": 150,
+                            "resize": "crop",
+                            "w": 150
+                        }
+                    },
+                    "type": "photo",
+                    "url": "https://t.co/oOmuoCMyOK"
+                }
+            ],
+            "symbols": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "id": 27650674,
+                    "id_str": "27650674",
+                    "indices": [
+                        57,
+                        62
+                    ],
+                    "name": "Audi",
+                    "screen_name": "Audi"
+                }
+            ]
+        },
+        "favorite_count": 205,
+        "favorited": false,
+        "geo": null,
+        "id": 669952208750948352,
+        "id_str": "669952208750948352",
+        "in_reply_to_screen_name": null,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "is_quote_status": false,
+        "lang": "en",
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "place": {
+            "attributes": {},
+            "bounding_box": {
+                "coordinates": [
+                    [
+                        [
+                            -86.713173,
+                            33.417914
+                        ],
+                        [
+                            -86.6619267,
+                            33.417914
+                        ],
+                        [
+                            -86.6619267,
+                            33.453999
+                        ],
+                        [
+                            -86.713173,
+                            33.453999
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "contained_within": [],
+            "country": "United States",
+            "country_code": "US",
+            "full_name": "Brook Highland, AL",
+            "id": "01575afa542018aa",
+            "name": "Brook Highland",
+            "place_type": "city",
+            "url": "https://api.twitter.com/1.1/geo/id/01575afa542018aa.json"
+        },
+        "possibly_sensitive": false,
+        "retweet_count": 59,
+        "retweeted": false,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "Isn't she lovely? Room to haul Thanksgiving Day goodies! @Audi TT quattro coupe is fun! Color? Tango Red of course! https://t.co/oOmuoCMyOK",
+        "truncated": false,
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Tue Apr 28 17:29:19 +0000 2009",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "Becky is a travel & automotive journalist also known as The Travel Voice by Becky. Follow her whereabouts at http://t.co/ZRLHI5AtbQ!",
+            "entities": {
+                "description": {
+                    "urls": [
+                        {
+                            "display_url": "facebook.com/thetravelvoice\u2026",
+                            "expanded_url": "http://www.facebook.com/thetravelvoicebybecky",
+                            "indices": [
+                                109,
+                                131
+                            ],
+                            "url": "http://t.co/ZRLHI5AtbQ"
+                        }
+                    ]
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "thetravelvoicebybecky.com",
+                            "expanded_url": "http://www.thetravelvoicebybecky.com",
+                            "indices": [
+                                0,
+                                22
+                            ],
+                            "url": "http://t.co/riKXFddjLL"
+                        }
+                    ]
+                }
+            },
+            "favourites_count": 1944,
+            "follow_request_sent": false,
+            "followers_count": 1389,
+            "following": false,
+            "friends_count": 1959,
+            "geo_enabled": true,
+            "has_extended_profile": false,
+            "id": 36124865,
+            "id_str": "36124865",
+            "is_translation_enabled": false,
+            "is_translator": false,
+            "lang": "en",
+            "listed_count": 55,
+            "location": "Birmingham, AL",
+            "name": "Becky Beall",
+            "notifications": false,
+            "profile_background_color": "9AE4E8",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/36124865/1404487028",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/188693009/BeckyBeall_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/188693009/BeckyBeall_normal.jpg",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "BDDCAD",
+            "profile_sidebar_fill_color": "DDFFCC",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "amom4u",
+            "statuses_count": 7081,
+            "time_zone": "Central Time (US & Canada)",
+            "url": "http://t.co/riKXFddjLL",
+            "utc_offset": -21600,
+            "verified": false
+        }
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "RT @amom4u: Isn't she lovely? Room to haul Thanksgiving Day goodies! @Audi TT quattro coupe is fun! Color? Tango Red of course! https://t.c\u2026",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Mar 30 14:54:50 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Audi of America.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "audi.us/homepage",
+                        "expanded_url": "http://audi.us/homepage",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/UXQe4RAF1S"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 7487,
+        "follow_request_sent": false,
+        "followers_count": 1399103,
+        "following": false,
+        "friends_count": 13140,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 27650674,
+        "id_str": "27650674",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 5064,
+        "location": "Herndon, VA",
+        "name": "Audi",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/556864753667031040/WuTKzBXR.png",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/556864753667031040/WuTKzBXR.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/27650674/1449086518",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/372278038/Rings_RGB_025_Audi_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/372278038/Rings_RGB_025_Audi_normal.jpg",
+        "profile_link_color": "E21435",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "252429",
+        "profile_text_color": "666666",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "Audi",
+        "statuses_count": 17271,
+        "time_zone": "Eastern Time (US & Canada)",
+        "url": "http://t.co/UXQe4RAF1S",
+        "utc_offset": -18000,
+        "verified": true
+    }
+}

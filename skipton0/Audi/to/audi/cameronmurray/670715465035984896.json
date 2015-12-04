@@ -1,0 +1,124 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Nov 28 21:26:42 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 27650674,
+                "id_str": "27650674",
+                "indices": [
+                    0,
+                    5
+                ],
+                "name": "Audi",
+                "screen_name": "Audi"
+            }
+        ]
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": null,
+    "id": 670715465035984896,
+    "id_str": "670715465035984896",
+    "in_reply_to_screen_name": "Audi",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 27650674,
+    "in_reply_to_user_id_str": "27650674",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -115.180905,
+                        36.0710474
+                    ],
+                    [
+                        -115.154826,
+                        36.0710474
+                    ],
+                    [
+                        -115.154826,
+                        36.144072
+                    ],
+                    [
+                        -115.180905,
+                        36.144072
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "The Las Vegas Strip, Paradise",
+        "id": "6e7f325c295c0e98",
+        "name": "The Las Vegas Strip",
+        "place_type": "neighborhood",
+        "url": "https://api.twitter.com/1.1/geo/id/6e7f325c295c0e98.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://www.echofon.com/\" rel=\"nofollow\">Echofon</a>",
+    "text": "@Audi Why doesn't Audi Newport Beach ever answer or update their account?! It annoys me greatly. \ud83d\ude15",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Apr 24 02:13:53 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "I specialize in POINTLESS tweets, YouTube and 80s music are always a plus @USC Grad",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 199,
+        "follow_request_sent": false,
+        "followers_count": 631,
+        "following": false,
+        "friends_count": 489,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 136479766,
+        "id_str": "136479766",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 4,
+        "location": "Orange County Ca",
+        "name": "CameronTurner",
+        "notifications": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000019956844/a8a7b4d2b1df32ab0bc30eab44769d2e.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000019956844/a8a7b4d2b1df32ab0bc30eab44769d2e.jpeg",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/136479766/1430332364",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/655144696855990272/nfylpIvk_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/655144696855990272/nfylpIvk_normal.jpg",
+        "profile_link_color": "009999",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "cameronmurray",
+        "statuses_count": 13559,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": null,
+        "utc_offset": -28800,
+        "verified": false
+    }
+}

@@ -1,0 +1,155 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Nov 26 21:15:21 +0000 2015",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    18,
+                    27
+                ],
+                "text": "AutoDiva"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 27650674,
+                "id_str": "27650674",
+                "indices": [
+                    0,
+                    5
+                ],
+                "name": "Audi",
+                "screen_name": "Audi"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 669987833122267136,
+    "id_str": "669987833122267136",
+    "in_reply_to_screen_name": "Audi",
+    "in_reply_to_status_id": 669986535702294528,
+    "in_reply_to_status_id_str": "669986535702294528",
+    "in_reply_to_user_id": 27650674,
+    "in_reply_to_user_id_str": "27650674",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -86.832342,
+                        33.243319
+                    ],
+                    [
+                        -86.72688,
+                        33.243319
+                    ],
+                    [
+                        -86.72688,
+                        33.352736
+                    ],
+                    [
+                        -86.832342,
+                        33.352736
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Pelham, AL",
+        "id": "01e806152ed977eb",
+        "name": "Pelham",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/01e806152ed977eb.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@Audi Back atcha! #AutoDiva",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Apr 28 17:29:19 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Becky is a travel & automotive journalist also known as The Travel Voice by Becky. Follow her whereabouts at http://t.co/ZRLHI5AtbQ!",
+        "entities": {
+            "description": {
+                "urls": [
+                    {
+                        "display_url": "facebook.com/thetravelvoice\u2026",
+                        "expanded_url": "http://www.facebook.com/thetravelvoicebybecky",
+                        "indices": [
+                            109,
+                            131
+                        ],
+                        "url": "http://t.co/ZRLHI5AtbQ"
+                    }
+                ]
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "thetravelvoicebybecky.com",
+                        "expanded_url": "http://www.thetravelvoicebybecky.com",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/riKXFddjLL"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 1944,
+        "follow_request_sent": false,
+        "followers_count": 1389,
+        "following": false,
+        "friends_count": 1959,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 36124865,
+        "id_str": "36124865",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 55,
+        "location": "Birmingham, AL",
+        "name": "Becky Beall",
+        "notifications": false,
+        "profile_background_color": "9AE4E8",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/36124865/1404487028",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/188693009/BeckyBeall_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/188693009/BeckyBeall_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "BDDCAD",
+        "profile_sidebar_fill_color": "DDFFCC",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "amom4u",
+        "statuses_count": 7081,
+        "time_zone": "Central Time (US & Canada)",
+        "url": "http://t.co/riKXFddjLL",
+        "utc_offset": -21600,
+        "verified": false
+    }
+}

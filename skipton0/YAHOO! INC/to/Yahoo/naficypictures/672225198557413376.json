@@ -1,0 +1,147 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Dec 03 01:25:51 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 19380829,
+                "id_str": "19380829",
+                "indices": [
+                    0,
+                    6
+                ],
+                "name": "Yahoo",
+                "screen_name": "Yahoo"
+            },
+            {
+                "id": 586032653,
+                "id_str": "586032653",
+                "indices": [
+                    127,
+                    136
+                ],
+                "name": "Deadline Hollywood",
+                "screen_name": "Deadline"
+            }
+        ]
+    },
+    "favorite_count": 2,
+    "favorited": false,
+    "geo": null,
+    "id": 672225198557413376,
+    "id_str": "672225198557413376",
+    "in_reply_to_screen_name": "Yahoo",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 19380829,
+    "in_reply_to_user_id_str": "19380829",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -118.5173575,
+                        33.9951771
+                    ],
+                    [
+                        -118.443482,
+                        33.9951771
+                    ],
+                    [
+                        -118.443482,
+                        34.050199
+                    ],
+                    [
+                        -118.5173575,
+                        34.050199
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Santa Monica, CA",
+        "id": "59612bd882018c51",
+        "name": "Santa Monica",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/59612bd882018c51.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@Yahoo \"..didn\u2019t have a big enough edge as just about every digital media company rushed to take advantage of the video boom\", @Deadline.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Sep 28 10:41:51 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Naficy Pictures LLC is a media company based in New York. Our business comprises two distinct divisions: online video production and industry conferences.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "naficypictures.com",
+                        "expanded_url": "http://www.naficypictures.com",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/L7wr34pvua"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 19,
+        "follow_request_sent": false,
+        "followers_count": 444,
+        "following": false,
+        "friends_count": 2225,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 77981959,
+        "id_str": "77981959",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 9,
+        "location": "Los Angeles & New York",
+        "name": "Naficy Pictures",
+        "notifications": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/77981959/1436567542",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/477107562022965248/WBmY1KZL_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/477107562022965248/WBmY1KZL_normal.jpeg",
+        "profile_link_color": "009999",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "naficypictures",
+        "statuses_count": 395,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "http://t.co/L7wr34pvua",
+        "utc_offset": -28800,
+        "verified": false
+    }
+}
