@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Dec 02 22:49:20 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 62601419,
+                "id_str": "62601419",
+                "indices": [
+                    0,
+                    11
+                ],
+                "name": "Verizon Wireless CS",
+                "screen_name": "VZWSupport"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 672185810788229121,
+    "id_str": "672185810788229121",
+    "in_reply_to_screen_name": "VZWSupport",
+    "in_reply_to_status_id": 672185593430999041,
+    "in_reply_to_status_id_str": "672185593430999041",
+    "in_reply_to_user_id": 62601419,
+    "in_reply_to_user_id_str": "62601419",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -74.483288999243,
+                        3.71743200175304
+                    ],
+                    [
+                        -74.0040529979154,
+                        3.71743200175304
+                    ],
+                    [
+                        -74.0040529979154,
+                        4.80713500387127
+                    ],
+                    [
+                        -74.483288999243,
+                        4.80713500387127
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "Colombia",
+        "country_code": "CO",
+        "full_name": "Bogot\u00e1, Colombia",
+        "id": "0161be1b3f98d6c3",
+        "name": "Bogot\u00e1",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/0161be1b3f98d6c3.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@VZWSupport prepaid service. I bought that in Chicago, IL.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Sep 24 00:59:13 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "I am not cool. Resilience.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "Instragram.com/LauraPardoV",
+                        "expanded_url": "http://Instragram.com/LauraPardoV",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/OL1ZnlEznv"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 2031,
+        "follow_request_sent": false,
+        "followers_count": 646,
+        "following": false,
+        "friends_count": 878,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 194394252,
+        "id_str": "194394252",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "es",
+        "listed_count": 7,
+        "location": "Chicago, IL.",
+        "name": "Laura.",
+        "notifications": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000059689456/5d623a86705eefe3f3238c6cf50d42cf.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000059689456/5d623a86705eefe3f3238c6cf50d42cf.jpeg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/194394252/1426716488",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/669364689692938240/3A4lHpfA_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/669364689692938240/3A4lHpfA_normal.jpg",
+        "profile_link_color": "C24B81",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "E60EE6",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "LauritoPardo",
+        "statuses_count": 16648,
+        "time_zone": "Central Time (US & Canada)",
+        "url": "http://t.co/OL1ZnlEznv",
+        "utc_offset": -21600,
+        "verified": false
+    }
+}

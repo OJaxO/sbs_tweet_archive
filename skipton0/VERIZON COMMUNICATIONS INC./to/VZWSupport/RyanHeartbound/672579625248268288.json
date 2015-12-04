@@ -1,0 +1,173 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Dec 04 00:54:13 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "media": [
+            {
+                "display_url": "pic.twitter.com/TUSgsxvq87",
+                "expanded_url": "http://twitter.com/RyanHeartbound/status/672579625248268288/photo/1",
+                "id": 672579620223324160,
+                "id_str": "672579620223324160",
+                "indices": [
+                    111,
+                    134
+                ],
+                "media_url": "http://pbs.twimg.com/media/CVV7meKUEAASICz.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/CVV7meKUEAASICz.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 365,
+                        "resize": "fit",
+                        "w": 750
+                    },
+                    "medium": {
+                        "h": 292,
+                        "resize": "fit",
+                        "w": 600
+                    },
+                    "small": {
+                        "h": 165,
+                        "resize": "fit",
+                        "w": 340
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/TUSgsxvq87"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 62601419,
+                "id_str": "62601419",
+                "indices": [
+                    0,
+                    11
+                ],
+                "name": "Verizon Wireless CS",
+                "screen_name": "VZWSupport"
+            },
+            {
+                "id": 59889953,
+                "id_str": "59889953",
+                "indices": [
+                    12,
+                    20
+                ],
+                "name": "Verizon",
+                "screen_name": "verizon"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 672579625248268288,
+    "id_str": "672579625248268288",
+    "in_reply_to_screen_name": "VZWSupport",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 62601419,
+    "in_reply_to_user_id_str": "62601419",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -81.984231,
+                        34.938574
+                    ],
+                    [
+                        -81.941802,
+                        34.938574
+                    ],
+                    [
+                        -81.941802,
+                        34.995439
+                    ],
+                    [
+                        -81.984231,
+                        34.995439
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Saxon, SC",
+        "id": "727fa24de7b5dd56",
+        "name": "Saxon",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/727fa24de7b5dd56.json"
+    },
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@VZWSupport @verizon Last time I checked .195 GB of usage this period, doesn't equal the .774 GB that you say. https://t.co/TUSgsxvq87",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Nov 04 04:47:36 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "#LN4L Merch Overlord @heartist Orca Enthusist. 8th MS Team.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 3906,
+        "follow_request_sent": false,
+        "followers_count": 458,
+        "following": false,
+        "friends_count": 224,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 211758320,
+        "id_str": "211758320",
+        "is_translation_enabled": true,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 3,
+        "location": "Salt Lake City",
+        "name": "\u26b0OG SPOOKYDAD\u2122\u26b0",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/398352438/tottoos.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/398352438/tottoos.jpg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/211758320/1441769411",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/644281438137769985/6VQ8n8lG_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/644281438137769985/6VQ8n8lG_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "RyanHeartbound",
+        "statuses_count": 2575,
+        "time_zone": "Mountain Time (US & Canada)",
+        "url": null,
+        "utc_offset": -25200,
+        "verified": false
+    }
+}

@@ -1,0 +1,147 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Dec 02 21:16:06 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 62601419,
+                "id_str": "62601419",
+                "indices": [
+                    0,
+                    11
+                ],
+                "name": "Verizon Wireless CS",
+                "screen_name": "VZWSupport"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 672162349588029440,
+    "id_str": "672162349588029440",
+    "in_reply_to_screen_name": "VZWSupport",
+    "in_reply_to_status_id": 672158901220073472,
+    "in_reply_to_status_id_str": "672158901220073472",
+    "in_reply_to_user_id": 62601419,
+    "in_reply_to_user_id_str": "62601419",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -74.25136,
+                        40.679997
+                    ],
+                    [
+                        -74.118336,
+                        40.679997
+                    ],
+                    [
+                        -74.118336,
+                        40.788991
+                    ],
+                    [
+                        -74.25136,
+                        40.788991
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Newark, NJ",
+        "id": "fa3435044b52ecc7",
+        "name": "Newark",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/fa3435044b52ecc7.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@VZWSupport we were told no change from 12gb to 10gb due to one phone not on payment plan- our bill has increased 25.00",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Nov 25 05:38:12 +0000 2008",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Wife and mom. Photographer. Non-traditional student. Bibliophile. Writer. Advocate. Devoted coffee enthusiast. Wannabe travel nerd. http://t.co/9OlZrKhLE9",
+        "entities": {
+            "description": {
+                "urls": [
+                    {
+                        "display_url": "dofandotherperspectives.blogspot.com",
+                        "expanded_url": "http://dofandotherperspectives.blogspot.com/",
+                        "indices": [
+                            132,
+                            154
+                        ],
+                        "url": "http://t.co/9OlZrKhLE9"
+                    }
+                ]
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "tonyavander.blogspot.com",
+                        "expanded_url": "http://tonyavander.blogspot.com/",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/L66j45keJE"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 12,
+        "follow_request_sent": false,
+        "followers_count": 212,
+        "following": false,
+        "friends_count": 199,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 17613428,
+        "id_str": "17613428",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 5,
+        "location": "NYC area",
+        "name": "TonyaVander",
+        "notifications": false,
+        "profile_background_color": "709397",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/17613428/1436641136",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/619944388374872065/DSl_zjKL_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/619944388374872065/DSl_zjKL_normal.jpg",
+        "profile_link_color": "ABB8C2",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "TonyaVander",
+        "statuses_count": 969,
+        "time_zone": "Mountain Time (US & Canada)",
+        "url": "http://t.co/L66j45keJE",
+        "utc_offset": -25200,
+        "verified": false
+    }
+}

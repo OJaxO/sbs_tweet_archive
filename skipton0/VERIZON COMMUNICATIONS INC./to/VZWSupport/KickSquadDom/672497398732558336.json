@@ -1,0 +1,124 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Dec 03 19:27:28 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 62601419,
+                "id_str": "62601419",
+                "indices": [
+                    0,
+                    11
+                ],
+                "name": "Verizon Wireless CS",
+                "screen_name": "VZWSupport"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 672497398732558336,
+    "id_str": "672497398732558336",
+    "in_reply_to_screen_name": "VZWSupport",
+    "in_reply_to_status_id": 672486576283365376,
+    "in_reply_to_status_id_str": "672486576283365376",
+    "in_reply_to_user_id": 62601419,
+    "in_reply_to_user_id_str": "62601419",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -118.198346,
+                        34.117025
+                    ],
+                    [
+                        -118.065582,
+                        34.117025
+                    ],
+                    [
+                        -118.065582,
+                        34.237595
+                    ],
+                    [
+                        -118.198346,
+                        34.237595
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Pasadena, CA",
+        "id": "10de09f288b1665c",
+        "name": "Pasadena",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/10de09f288b1665c.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@VZWSupport started within the last week....91030 zip",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Mar 29 03:22:46 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "South Pasadena, CA #KickSquadMonopoly #RIPJermane The Real Machine Leg Kelly",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 4518,
+        "follow_request_sent": false,
+        "followers_count": 497,
+        "following": false,
+        "friends_count": 437,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 273760624,
+        "id_str": "273760624",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 2,
+        "location": "",
+        "name": "Coach Dom",
+        "notifications": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/557667616/not_a_donk.PNG",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/557667616/not_a_donk.PNG",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/273760624/1423163414",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/631165978479599616/0v8evwYz_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/631165978479599616/0v8evwYz_normal.jpg",
+        "profile_link_color": "009999",
+        "profile_sidebar_border_color": "EEEEEE",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "KickSquadDom",
+        "statuses_count": 17580,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": null,
+        "utc_offset": -28800,
+        "verified": false
+    }
+}
