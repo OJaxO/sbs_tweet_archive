@@ -1,0 +1,134 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Nov 25 21:30:25 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 15749983,
+                "id_str": "15749983",
+                "indices": [
+                    0,
+                    6
+                ],
+                "name": "Cisco",
+                "screen_name": "Cisco"
+            },
+            {
+                "id": 8633582,
+                "id_str": "8633582",
+                "indices": [
+                    47,
+                    53
+                ],
+                "name": "Linux",
+                "screen_name": "Linux"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 669629233568743424,
+    "id_str": "669629233568743424",
+    "in_reply_to_screen_name": "Cisco",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 15749983,
+    "in_reply_to_user_id_str": "15749983",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -89.57151,
+                        36.497129
+                    ],
+                    [
+                        -81.964971,
+                        36.497129
+                    ],
+                    [
+                        -81.964971,
+                        39.147359
+                    ],
+                    [
+                        -89.57151,
+                        39.147359
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Kentucky, USA",
+        "id": "6ffcf3b0b904bbcb",
+        "name": "Kentucky",
+        "place_type": "admin",
+        "url": "https://api.twitter.com/1.1/geo/id/6ffcf3b0b904bbcb.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@cisco ISR routers are freaking sweet. And the @Linux based OS makes me all warm and fuzzy inside. Like a good bourbon. \ud83d\ude0e",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Oct 13 02:19:52 +0000 2012",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Dad, husband, professional bit wrangler, amateur mechanic, mediocre guitarist",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 6,
+        "follow_request_sent": false,
+        "followers_count": 16,
+        "following": false,
+        "friends_count": 112,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 876882254,
+        "id_str": "876882254",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 0,
+        "location": "Lex KY",
+        "name": "Doug Arnett",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/876882254/1447554888",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/665720449918066688/j-U7JuN__normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/665720449918066688/j-U7JuN__normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "duggiesworld",
+        "statuses_count": 70,
+        "time_zone": "Eastern Time (US & Canada)",
+        "url": null,
+        "utc_offset": -18000,
+        "verified": false
+    }
+}

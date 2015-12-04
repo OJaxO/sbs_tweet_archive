@@ -1,0 +1,134 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Dec 03 21:19:38 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 20123366,
+                "id_str": "20123366",
+                "indices": [
+                    0,
+                    5
+                ],
+                "name": "Asda",
+                "screen_name": "asda"
+            },
+            {
+                "id": 216832330,
+                "id_str": "216832330",
+                "indices": [
+                    17,
+                    25
+                ],
+                "name": "Yakhunt",
+                "screen_name": "yakhunt"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 672525623693320192,
+    "id_str": "672525623693320192",
+    "in_reply_to_screen_name": "asda",
+    "in_reply_to_status_id": 672368510249648128,
+    "in_reply_to_status_id_str": "672368510249648128",
+    "in_reply_to_user_id": 20123366,
+    "in_reply_to_user_id_str": "20123366",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -95.38203,
+                        30.307745
+                    ],
+                    [
+                        -95.275916,
+                        30.307745
+                    ],
+                    [
+                        -95.275916,
+                        30.370479
+                    ],
+                    [
+                        -95.38203,
+                        30.370479
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Cut and Shoot, TX",
+        "id": "008ad3c945275d77",
+        "name": "Cut and Shoot",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/008ad3c945275d77.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@asda New career @yakhunt ?",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Oct 03 12:24:40 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "The reports of my demise have been greatly exaggerated.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 55415,
+        "follow_request_sent": false,
+        "followers_count": 3035,
+        "following": false,
+        "friends_count": 1483,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 198123914,
+        "id_str": "198123914",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 30,
+        "location": "",
+        "name": "D",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/864086049/5d06e837fff8cb6170584a6f6843bf49.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/864086049/5d06e837fff8cb6170584a6f6843bf49.jpeg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/198123914/1448235359",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/669144080023179268/62K4miUN_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/669144080023179268/62K4miUN_normal.png",
+        "profile_link_color": "3B94D9",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "vocnorth",
+        "statuses_count": 98784,
+        "time_zone": "Amsterdam",
+        "url": null,
+        "utc_offset": 3600,
+        "verified": false
+    }
+}

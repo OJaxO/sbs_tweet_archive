@@ -1,0 +1,147 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Dec 03 12:36:15 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 20123366,
+                "id_str": "20123366",
+                "indices": [
+                    0,
+                    5
+                ],
+                "name": "Asda",
+                "screen_name": "asda"
+            }
+        ]
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": null,
+    "id": 672393911483150337,
+    "id_str": "672393911483150337",
+    "in_reply_to_screen_name": "asda",
+    "in_reply_to_status_id": 672392375675674625,
+    "in_reply_to_status_id_str": "672392375675674625",
+    "in_reply_to_user_id": 20123366,
+    "in_reply_to_user_id_str": "20123366",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -2.5897599,
+                        51.498835
+                    ],
+                    [
+                        -2.5402847,
+                        51.498835
+                    ],
+                    [
+                        -2.5402847,
+                        51.5500656
+                    ],
+                    [
+                        -2.5897599,
+                        51.5500656
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United Kingdom",
+        "country_code": "GB",
+        "full_name": "Filton, England",
+        "id": "1568b34e3e6dcc47",
+        "name": "Filton",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/1568b34e3e6dcc47.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@asda Xbox One pls Just Cause they are bloody good games \ud83d\ude0a",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Apr 18 17:00:28 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Loving life and very happy Clan Leader on Destiny, The Taken Kings Uk https://t.co/VZaoEbhcs6",
+        "entities": {
+            "description": {
+                "urls": [
+                    {
+                        "display_url": "bungie.net/en/Clan/Detail\u2026",
+                        "expanded_url": "https://www.bungie.net/en/Clan/Detail/1065632",
+                        "indices": [
+                            70,
+                            93
+                        ],
+                        "url": "https://t.co/VZaoEbhcs6"
+                    }
+                ]
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "tumblr.com/blog/darealwor\u2026",
+                        "expanded_url": "https://www.tumblr.com/blog/darealworldbristol",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/7s1ehtJc1d"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 135,
+        "follow_request_sent": false,
+        "followers_count": 73,
+        "following": false,
+        "friends_count": 188,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 32941773,
+        "id_str": "32941773",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 2,
+        "location": "Bristol,Avon",
+        "name": "Carl Julien",
+        "notifications": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/47348483/London_town_015.JPG",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/47348483/London_town_015.JPG",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/32941773/1355377152",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/3513109688/b57f1e9d9d3c0c2f6c7ecd2eb930ad25_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/3513109688/b57f1e9d9d3c0c2f6c7ecd2eb930ad25_normal.jpeg",
+        "profile_link_color": "030099",
+        "profile_sidebar_border_color": "EEEEEE",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "djcj1972",
+        "statuses_count": 3128,
+        "time_zone": "London",
+        "url": "https://t.co/7s1ehtJc1d",
+        "utc_offset": 0,
+        "verified": false
+    }
+}
