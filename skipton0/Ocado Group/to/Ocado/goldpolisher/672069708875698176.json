@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Dec 02 15:07:59 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 20155502,
+                "id_str": "20155502",
+                "indices": [
+                    0,
+                    6
+                ],
+                "name": "Ocado",
+                "screen_name": "Ocado"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 672069708875698176,
+    "id_str": "672069708875698176",
+    "in_reply_to_screen_name": "Ocado",
+    "in_reply_to_status_id": 672063893758468096,
+    "in_reply_to_status_id_str": "672063893758468096",
+    "in_reply_to_user_id": 20155502,
+    "in_reply_to_user_id_str": "20155502",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        0.699679,
+                        51.320455
+                    ],
+                    [
+                        0.764836,
+                        51.320455
+                    ],
+                    [
+                        0.764836,
+                        51.366259
+                    ],
+                    [
+                        0.699679,
+                        51.366259
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United Kingdom",
+        "country_code": "GB",
+        "full_name": "Sittingbourne, England",
+        "id": "74119510a9afc496",
+        "name": "Sittingbourne",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/74119510a9afc496.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@Ocado ME10 2HH",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Oct 04 12:58:03 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "The Gold polishing Guru Tutor, Bespoke polisher for Society Jeweller @Theo_Fennell  Loves his #Pugs #Cooking  #Travel in that order! All views are my own!",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "goldpolishing.co.uk/Articles.htm",
+                        "expanded_url": "http://www.goldpolishing.co.uk/Articles.htm",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/qruAyYcHQQ"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 3581,
+        "follow_request_sent": false,
+        "followers_count": 1282,
+        "following": false,
+        "friends_count": 1236,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 79724827,
+        "id_str": "79724827",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 70,
+        "location": "London",
+        "name": "Stephen M Goldsmith",
+        "notifications": false,
+        "profile_background_color": "FFFFFF",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000167138416/U0de8pUV.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000167138416/U0de8pUV.jpeg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/79724827/1407276057",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/3764792651/6108d02f323bbf44882e60309feaa777_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/3764792651/6108d02f323bbf44882e60309feaa777_normal.jpeg",
+        "profile_link_color": "404040",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "999999",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "goldpolisher",
+        "statuses_count": 11622,
+        "time_zone": null,
+        "url": "https://t.co/qruAyYcHQQ",
+        "utc_offset": null,
+        "verified": false
+    }
+}
