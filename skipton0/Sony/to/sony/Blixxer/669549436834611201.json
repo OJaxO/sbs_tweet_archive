@@ -1,0 +1,136 @@
+{
+    "contributors": null,
+    "coordinates": {
+        "coordinates": [
+            -80.33798827,
+            25.79051902
+        ],
+        "type": "Point"
+    },
+    "created_at": "Wed Nov 25 16:13:20 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 34442404,
+                "id_str": "34442404",
+                "indices": [
+                    0,
+                    5
+                ],
+                "name": "Sony",
+                "screen_name": "Sony"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": {
+        "coordinates": [
+            25.79051902,
+            -80.33798827
+        ],
+        "type": "Point"
+    },
+    "id": 669549436834611201,
+    "id_str": "669549436834611201",
+    "in_reply_to_screen_name": "Sony",
+    "in_reply_to_status_id": 669542487116095488,
+    "in_reply_to_status_id_str": "669542487116095488",
+    "in_reply_to_user_id": 34442404,
+    "in_reply_to_user_id_str": "34442404",
+    "is_quote_status": false,
+    "lang": "und",
+    "metadata": {
+        "iso_language_code": "und",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -80.41729,
+                        25.780974
+                    ],
+                    [
+                        -80.3210162,
+                        25.780974
+                    ],
+                    [
+                        -80.3210162,
+                        25.870313
+                    ],
+                    [
+                        -80.41729,
+                        25.870313
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Doral, FL",
+        "id": "053ab8e6678199ed",
+        "name": "Doral",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/053ab8e6678199ed.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for i\u039fS</a>",
+    "text": "@Sony Si",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Jul 05 17:53:57 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Give them great meals of beef and iron and steel, they will eat like wolves and fight like devils - Henry V, Iii, 7",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 142,
+        "follow_request_sent": false,
+        "followers_count": 32,
+        "following": false,
+        "friends_count": 166,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 329832666,
+        "id_str": "329832666",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 1,
+        "location": "",
+        "name": "Miguel Perez",
+        "notifications": false,
+        "profile_background_color": "352726",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/329832666/1399408495",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/671123860419428352/f502j_EH_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/671123860419428352/f502j_EH_normal.jpg",
+        "profile_link_color": "D02B55",
+        "profile_sidebar_border_color": "829D5E",
+        "profile_sidebar_fill_color": "99CC33",
+        "profile_text_color": "3E4415",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Blixxer",
+        "statuses_count": 641,
+        "time_zone": "Eastern Time (US & Canada)",
+        "url": null,
+        "utc_offset": -18000,
+        "verified": false
+    }
+}

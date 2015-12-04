@@ -1,0 +1,124 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Nov 25 16:24:38 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 34442404,
+                "id_str": "34442404",
+                "indices": [
+                    85,
+                    90
+                ],
+                "name": "Sony",
+                "screen_name": "Sony"
+            }
+        ]
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": null,
+    "id": 669552280815865856,
+    "id_str": "669552280815865856",
+    "in_reply_to_screen_name": "Sony",
+    "in_reply_to_status_id": 669542487116095488,
+    "in_reply_to_status_id_str": "669542487116095488",
+    "in_reply_to_user_id": 34442404,
+    "in_reply_to_user_id_str": "34442404",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -124.482003,
+                        32.528832
+                    ],
+                    [
+                        -114.131212,
+                        32.528832
+                    ],
+                    [
+                        -114.131212,
+                        42.009519
+                    ],
+                    [
+                        -124.482003,
+                        42.009519
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "California, USA",
+        "id": "fbd6d2f5a4e4a15e",
+        "name": "California",
+        "place_type": "admin",
+        "url": "https://api.twitter.com/1.1/geo/id/fbd6d2f5a4e4a15e.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "Can I play Tomb Raider on that right now?\n30 million wanna know...\nLOOOOOOOOOOOOOOOL\n@Sony",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Apr 25 14:41:49 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Mets, Steelers, MondayNight Raw, VanHalen, MartinaMcBride,                   PatBenatar,Jogging, Horror Films, RetroSega/Atari, XBoxOne.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 1552,
+        "follow_request_sent": false,
+        "followers_count": 1523,
+        "following": false,
+        "friends_count": 1317,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 137012096,
+        "id_str": "137012096",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 38,
+        "location": "California, USA",
+        "name": "Sling",
+        "notifications": false,
+        "profile_background_color": "ABB8C2",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/634356808933478400/4V8iVure.png",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/634356808933478400/4V8iVure.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/137012096/1437729371",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/668174380409602048/laYN3Fta_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/668174380409602048/laYN3Fta_normal.jpg",
+        "profile_link_color": "827839",
+        "profile_sidebar_border_color": "EEEEEE",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Markis5150",
+        "statuses_count": 35124,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": null,
+        "utc_offset": -28800,
+        "verified": false
+    }
+}

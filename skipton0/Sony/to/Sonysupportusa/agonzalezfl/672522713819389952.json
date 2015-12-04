@@ -1,0 +1,123 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Dec 03 21:08:04 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 113451256,
+                "id_str": "113451256",
+                "indices": [
+                    0,
+                    15
+                ],
+                "name": "Sony Support USA",
+                "screen_name": "SonySupportUSA"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 672522713819389952,
+    "id_str": "672522713819389952",
+    "in_reply_to_screen_name": "SonySupportUSA",
+    "in_reply_to_status_id": 672156722899779584,
+    "in_reply_to_status_id_str": "672156722899779584",
+    "in_reply_to_user_id": 113451256,
+    "in_reply_to_user_id_str": "113451256",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -80.41729,
+                        25.780974
+                    ],
+                    [
+                        -80.3210162,
+                        25.780974
+                    ],
+                    [
+                        -80.3210162,
+                        25.870313
+                    ],
+                    [
+                        -80.41729,
+                        25.870313
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Doral, FL",
+        "id": "053ab8e6678199ed",
+        "name": "Doral",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/053ab8e6678199ed.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@SonySupportUSA you can call me 3065916449 / 3057206994 or night 3068161098",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Sep 25 20:29:23 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 3,
+        "follow_request_sent": false,
+        "followers_count": 410,
+        "following": false,
+        "friends_count": 1054,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 77303429,
+        "id_str": "77303429",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 9,
+        "location": "Miami, Florida, USA",
+        "name": "Anabel Gonzalez",
+        "notifications": false,
+        "profile_background_color": "642D8B",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/2168870713/Anabel_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/2168870713/Anabel_normal.jpg",
+        "profile_link_color": "FF0000",
+        "profile_sidebar_border_color": "65B0DA",
+        "profile_sidebar_fill_color": "7AC3EE",
+        "profile_text_color": "3D1957",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "agonzalezfl",
+        "statuses_count": 3605,
+        "time_zone": "Eastern Time (US & Canada)",
+        "url": null,
+        "utc_offset": -18000,
+        "verified": false
+    }
+}

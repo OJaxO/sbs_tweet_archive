@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Nov 26 09:51:07 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 34442404,
+                "id_str": "34442404",
+                "indices": [
+                    0,
+                    5
+                ],
+                "name": "Sony",
+                "screen_name": "Sony"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 669815639381528577,
+    "id_str": "669815639381528577",
+    "in_reply_to_screen_name": "Sony",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 34442404,
+    "in_reply_to_user_id_str": "34442404",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        7.947483,
+                        46.774902
+                    ],
+                    [
+                        8.071678,
+                        46.774902
+                    ],
+                    [
+                        8.071678,
+                        46.919155
+                    ],
+                    [
+                        7.947483,
+                        46.919155
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "Schweiz",
+        "country_code": "CH",
+        "full_name": "Fl\u00fchli, Luzern",
+        "id": "0f575c29ba8d096c",
+        "name": "Fl\u00fchli",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/0f575c29ba8d096c.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+    "text": "@Sony Is there a official information/link about IMX298 image sensor?",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Jan 06 10:23:30 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Est.94 | Sagittarius, Super & Luxury Cars Addiction | My Soundtrack Of Life | One Man - One Engine",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "instagram.com/jackson_masera\u2026",
+                        "expanded_url": "http://instagram.com/jackson_maserati",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/PyTgnV9u7i"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 1718,
+        "follow_request_sent": false,
+        "followers_count": 285,
+        "following": false,
+        "friends_count": 1257,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 102333511,
+        "id_str": "102333511",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 18,
+        "location": "Malaysia ",
+        "name": "\u2660 Jackson KaeLuen \u2660",
+        "notifications": false,
+        "profile_background_color": "022330",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/671053513246375936/7VXRMn4V.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/671053513246375936/7VXRMn4V.jpg",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/102333511/1448826509",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/668074818600869888/H87iFlrp_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/668074818600869888/H87iFlrp_normal.jpg",
+        "profile_link_color": "FFCC4D",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "C60A3A",
+        "profile_text_color": "F74B41",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "JacksonMaserati",
+        "statuses_count": 20344,
+        "time_zone": "Kuala Lumpur",
+        "url": "http://t.co/PyTgnV9u7i",
+        "utc_offset": 28800,
+        "verified": false
+    }
+}
