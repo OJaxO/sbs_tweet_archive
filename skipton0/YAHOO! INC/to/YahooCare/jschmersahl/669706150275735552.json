@@ -1,0 +1,123 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Nov 26 02:36:03 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 26265894,
+                "id_str": "26265894",
+                "indices": [
+                    0,
+                    10
+                ],
+                "name": "Yahoo Customer Care",
+                "screen_name": "YahooCare"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 669706150275735552,
+    "id_str": "669706150275735552",
+    "in_reply_to_screen_name": "YahooCare",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 26265894,
+    "in_reply_to_user_id_str": "26265894",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -88.473228,
+                        30.144425
+                    ],
+                    [
+                        -84.888247,
+                        30.144425
+                    ],
+                    [
+                        -84.888247,
+                        35.008029
+                    ],
+                    [
+                        -88.473228,
+                        35.008029
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Alabama, USA",
+        "id": "288de3df481163e8",
+        "name": "Alabama",
+        "place_type": "admin",
+        "url": "https://api.twitter.com/1.1/geo/id/288de3df481163e8.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@YahooCare Jose Calderon getting credit for Kristaps Porzingis 2 ft with 2:20 left in game. Please fix. Thanks.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Jun 03 21:03:29 +0000 2011",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 17,
+        "follow_request_sent": false,
+        "followers_count": 30,
+        "following": false,
+        "friends_count": 301,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 310492899,
+        "id_str": "310492899",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 0,
+        "location": "McCalla, AL",
+        "name": "Jason Schmersahl",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1380679385/2642_1038705216387_1488233093_30232860_4015349_n_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1380679385/2642_1038705216387_1488233093_30232860_4015349_n_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "jschmersahl",
+        "statuses_count": 434,
+        "time_zone": null,
+        "url": null,
+        "utc_offset": null,
+        "verified": false
+    }
+}

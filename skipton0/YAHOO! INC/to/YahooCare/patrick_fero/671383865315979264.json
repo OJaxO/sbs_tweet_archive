@@ -1,0 +1,124 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Nov 30 17:42:41 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 26265894,
+                "id_str": "26265894",
+                "indices": [
+                    0,
+                    10
+                ],
+                "name": "Yahoo Customer Care",
+                "screen_name": "YahooCare"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 671383865315979264,
+    "id_str": "671383865315979264",
+    "in_reply_to_screen_name": "YahooCare",
+    "in_reply_to_status_id": 671383433688432640,
+    "in_reply_to_status_id_str": "671383433688432640",
+    "in_reply_to_user_id": 26265894,
+    "in_reply_to_user_id_str": "26265894",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -77.996912,
+                        43.192641
+                    ],
+                    [
+                        -77.89015,
+                        43.192641
+                    ],
+                    [
+                        -77.89015,
+                        43.226323
+                    ],
+                    [
+                        -77.996912,
+                        43.226323
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Brockport, NY",
+        "id": "01fbdc902515ef96",
+        "name": "Brockport",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/01fbdc902515ef96.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@YahooCare hi thank you, ID#: 19499",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Jun 25 15:52:05 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 5924,
+        "follow_request_sent": false,
+        "followers_count": 378,
+        "following": false,
+        "friends_count": 243,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 50682203,
+        "id_str": "50682203",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 2,
+        "location": "Brockport, NY",
+        "name": "Patrick Fero",
+        "notifications": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/50682203/1445746886",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/636155267286179840/3FnMh-so_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/636155267286179840/3FnMh-so_normal.jpg",
+        "profile_link_color": "009999",
+        "profile_sidebar_border_color": "EEEEEE",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "patrick_fero",
+        "statuses_count": 10980,
+        "time_zone": "Eastern Time (US & Canada)",
+        "url": null,
+        "utc_offset": -18000,
+        "verified": false
+    }
+}
