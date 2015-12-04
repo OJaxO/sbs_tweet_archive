@@ -1,0 +1,173 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Dec 04 07:04:07 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "media": [
+            {
+                "display_url": "pic.twitter.com/HyjL2CIwts",
+                "expanded_url": "http://twitter.com/CamScott15/status/672672714025336832/photo/1",
+                "id": 672672707780022275,
+                "id_str": "672672707780022275",
+                "indices": [
+                    110,
+                    133
+                ],
+                "media_url": "http://pbs.twimg.com/media/CVXQQ4VUEAMC4Xy.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/CVXQQ4VUEAMC4Xy.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 1024,
+                        "resize": "fit",
+                        "w": 575
+                    },
+                    "medium": {
+                        "h": 1024,
+                        "resize": "fit",
+                        "w": 575
+                    },
+                    "small": {
+                        "h": 605,
+                        "resize": "fit",
+                        "w": 340
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/HyjL2CIwts"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 783214,
+                "id_str": "783214",
+                "indices": [
+                    0,
+                    8
+                ],
+                "name": "Twitter",
+                "screen_name": "twitter"
+            },
+            {
+                "id": 4364565554,
+                "id_str": "4364565554",
+                "indices": [
+                    69,
+                    78
+                ],
+                "name": "Jessica Baker",
+                "screen_name": "_jtbakes"
+            }
+        ]
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": null,
+    "id": 672672714025336832,
+    "id_str": "672672714025336832",
+    "in_reply_to_screen_name": "twitter",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 783214,
+    "in_reply_to_user_id_str": "783214",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        144.593741856,
+                        -38.433859306
+                    ],
+                    [
+                        145.512528832,
+                        -38.433859306
+                    ],
+                    [
+                        145.512528832,
+                        -37.5112737225
+                    ],
+                    [
+                        144.593741856,
+                        -37.5112737225
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "Australia",
+        "country_code": "AU",
+        "full_name": "Melbourne, Victoria",
+        "id": "01864a8a64df9dc4",
+        "name": "Melbourne",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/01864a8a64df9dc4.json"
+    },
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@Twitter shares finish higher on the back of big news this week that @_jtbakes has arrived. Give her a follow https://t.co/HyjL2CIwts",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Jan 22 02:20:57 +0000 2010",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Former journo + Govt press sec, now at Maurice Blackburn Lawyers. Politics, sport, media, music, property - Sydney Swans fan.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 832,
+        "follow_request_sent": false,
+        "followers_count": 584,
+        "following": false,
+        "friends_count": 1338,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 107281276,
+        "id_str": "107281276",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 12,
+        "location": "Aus",
+        "name": "Cam",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/107281276/1356517903",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/3023164829/30f8b7fdc2c10200d47210ffee79d885_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/3023164829/30f8b7fdc2c10200d47210ffee79d885_normal.jpeg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "CamScott15",
+        "statuses_count": 2571,
+        "time_zone": null,
+        "url": null,
+        "utc_offset": null,
+        "verified": false
+    }
+}

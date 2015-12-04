@@ -1,0 +1,279 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Dec 03 23:07:00 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/dailydot/statu\u2026",
+                "expanded_url": "https://twitter.com/dailydot/status/672513906259161090",
+                "indices": [
+                    72,
+                    95
+                ],
+                "url": "https://t.co/GSFN6QZl35"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 783214,
+                "id_str": "783214",
+                "indices": [
+                    0,
+                    8
+                ],
+                "name": "Twitter",
+                "screen_name": "twitter"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 672552645207449600,
+    "id_str": "672552645207449600",
+    "in_reply_to_screen_name": "twitter",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 783214,
+    "in_reply_to_user_id_str": "783214",
+    "is_quote_status": true,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -78.818343,
+                        35.7158045
+                    ],
+                    [
+                        -78.497331,
+                        35.7158045
+                    ],
+                    [
+                        -78.497331,
+                        35.9718611
+                    ],
+                    [
+                        -78.818343,
+                        35.9718611
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Raleigh, NC",
+        "id": "161d2f18e3a0445a",
+        "name": "Raleigh",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/161d2f18e3a0445a.json"
+    },
+    "possibly_sensitive": false,
+    "quoted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Thu Dec 03 20:33:04 +0000 2015",
+        "entities": {
+            "hashtags": [],
+            "media": [
+                {
+                    "display_url": "pic.twitter.com/M94V4ZrSON",
+                    "expanded_url": "http://twitter.com/dailydot/status/672513906259161090/photo/1",
+                    "id": 672513905751629824,
+                    "id_str": "672513905751629824",
+                    "indices": [
+                        98,
+                        121
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/CVU_1YrWIAAn5Uv.png",
+                    "media_url_https": "https://pbs.twimg.com/media/CVU_1YrWIAAn5Uv.png",
+                    "sizes": {
+                        "large": {
+                            "h": 835,
+                            "resize": "fit",
+                            "w": 631
+                        },
+                        "medium": {
+                            "h": 793,
+                            "resize": "fit",
+                            "w": 600
+                        },
+                        "small": {
+                            "h": 449,
+                            "resize": "fit",
+                            "w": 340
+                        },
+                        "thumb": {
+                            "h": 150,
+                            "resize": "crop",
+                            "w": 150
+                        }
+                    },
+                    "type": "photo",
+                    "url": "https://t.co/M94V4ZrSON"
+                }
+            ],
+            "symbols": [],
+            "urls": [
+                {
+                    "display_url": "trib.al/eFm5nUW",
+                    "expanded_url": "http://trib.al/eFm5nUW",
+                    "indices": [
+                        74,
+                        97
+                    ],
+                    "url": "https://t.co/Xzw5cXZnsn"
+                }
+            ],
+            "user_mentions": []
+        },
+        "favorite_count": 274,
+        "favorited": false,
+        "geo": null,
+        "id": 672513906259161090,
+        "id_str": "672513906259161090",
+        "in_reply_to_screen_name": null,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "is_quote_status": false,
+        "lang": "en",
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "place": null,
+        "possibly_sensitive": false,
+        "retweet_count": 588,
+        "retweeted": false,
+        "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+        "text": "George Zimmerman suspended from Twitter after posting alleged ex's nudes: https://t.co/Xzw5cXZnsn https://t.co/M94V4ZrSON",
+        "truncated": false,
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Wed Nov 03 19:41:32 +0000 2010",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "Telling the story of the Internet since 2011. Also, send us tacos.\n\nTweets by @dailydot editors and Realtime Social Editor @alykeves.",
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "dailydot.com",
+                            "expanded_url": "http://dailydot.com/",
+                            "indices": [
+                                0,
+                                22
+                            ],
+                            "url": "http://t.co/7sRrlbhNPT"
+                        }
+                    ]
+                }
+            },
+            "favourites_count": 16562,
+            "follow_request_sent": false,
+            "followers_count": 216891,
+            "following": false,
+            "friends_count": 18685,
+            "geo_enabled": false,
+            "has_extended_profile": false,
+            "id": 211620426,
+            "id_str": "211620426",
+            "is_translation_enabled": false,
+            "is_translator": false,
+            "lang": "en",
+            "listed_count": 3117,
+            "location": "Online/IRL",
+            "name": "The Daily Dot",
+            "notifications": false,
+            "profile_background_color": "FBFBFB",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/454369259473219584/WEz1Vrh3.jpeg",
+            "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/454369259473219584/WEz1Vrh3.jpeg",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/211620426/1428953422",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/655034401009459200/Sww5y38q_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/655034401009459200/Sww5y38q_normal.png",
+            "profile_link_color": "1EBCC2",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "EFEFEF",
+            "profile_text_color": "333333",
+            "profile_use_background_image": false,
+            "protected": false,
+            "screen_name": "dailydot",
+            "statuses_count": 140275,
+            "time_zone": "Central Time (US & Canada)",
+            "url": "http://t.co/7sRrlbhNPT",
+            "utc_offset": -21600,
+            "verified": true
+        }
+    },
+    "quoted_status_id": 672513906259161090,
+    "quoted_status_id_str": "672513906259161090",
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@twitter so a white woman's body is more important than a dead child..? https://t.co/GSFN6QZl35",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Sep 05 18:06:49 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "a real down to Mars girl. #ncsu16 #OverdoseOfSauce #quixotic #writer #\u2653\ufe0f",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 6527,
+        "follow_request_sent": false,
+        "followers_count": 828,
+        "following": false,
+        "friends_count": 536,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 368474939,
+        "id_str": "368474939",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 5,
+        "location": "heaven only knows ",
+        "name": "cha cha",
+        "notifications": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/368474939/1448427022",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/668408563451170816/5fGGnuAf_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/668408563451170816/5fGGnuAf_normal.jpg",
+        "profile_link_color": "009999",
+        "profile_sidebar_border_color": "EEEEEE",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "LoisLame_",
+        "statuses_count": 11375,
+        "time_zone": "Atlantic Time (Canada)",
+        "url": null,
+        "utc_offset": -14400,
+        "verified": false
+    }
+}

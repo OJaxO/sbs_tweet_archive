@@ -1,0 +1,124 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Dec 04 02:37:44 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 783214,
+                "id_str": "783214",
+                "indices": [
+                    0,
+                    8
+                ],
+                "name": "Twitter",
+                "screen_name": "twitter"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 672605677530009601,
+    "id_str": "672605677530009601",
+    "in_reply_to_screen_name": "twitter",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 783214,
+    "in_reply_to_user_id_str": "783214",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -102.051769,
+                        36.9931101
+                    ],
+                    [
+                        -94.588081,
+                        36.9931101
+                    ],
+                    [
+                        -94.588081,
+                        40.003282
+                    ],
+                    [
+                        -102.051769,
+                        40.003282
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Kansas, USA",
+        "id": "27c45d804c777999",
+        "name": "Kansas",
+        "place_type": "admin",
+        "url": "https://api.twitter.com/1.1/geo/id/27c45d804c777999.json"
+    },
+    "retweet_count": 1,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@twitter there was just bestiality on my timeline AGAIN not even marked as possibly offensive AGAIN",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Jun 21 01:44:05 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Trenchcoat Juggernaut",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 30034,
+        "follow_request_sent": false,
+        "followers_count": 413,
+        "following": false,
+        "friends_count": 347,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 321113566,
+        "id_str": "321113566",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 21,
+        "location": "LFK",
+        "name": "ICY FOX",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/321113566/1443678389",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/666750107547795456/qYQ1uSs0_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/666750107547795456/qYQ1uSs0_normal.jpg",
+        "profile_link_color": "B31409",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "NoChillJanelle",
+        "statuses_count": 43231,
+        "time_zone": "Central Time (US & Canada)",
+        "url": null,
+        "utc_offset": -21600,
+        "verified": false
+    }
+}

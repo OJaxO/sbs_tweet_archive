@@ -1,0 +1,287 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Dec 04 03:12:19 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/DEVONTHESAV/st\u2026",
+                "expanded_url": "https://twitter.com/DEVONTHESAV/status/672614061025058816",
+                "indices": [
+                    35,
+                    58
+                ],
+                "url": "https://t.co/JVqnOW7XYE"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 783214,
+                "id_str": "783214",
+                "indices": [
+                    0,
+                    8
+                ],
+                "name": "Twitter",
+                "screen_name": "twitter"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 672614381390270464,
+    "id_str": "672614381390270464",
+    "in_reply_to_screen_name": "twitter",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 783214,
+    "in_reply_to_user_id_str": "783214",
+    "is_quote_status": true,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -73.933612,
+                        40.785365
+                    ],
+                    [
+                        -73.765271,
+                        40.785365
+                    ],
+                    [
+                        -73.765271,
+                        40.91533
+                    ],
+                    [
+                        -73.933612,
+                        40.91533
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Bronx, NY",
+        "id": "002e24c6736f069d",
+        "name": "Bronx",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/002e24c6736f069d.json"
+    },
+    "possibly_sensitive": false,
+    "quoted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Fri Dec 04 03:11:03 +0000 2015",
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "urls": [
+                {
+                    "display_url": "twitter.com/DEVONTHESAV/st\u2026",
+                    "expanded_url": "https://twitter.com/DEVONTHESAV/status/672611904880119808",
+                    "indices": [
+                        86,
+                        109
+                    ],
+                    "url": "https://t.co/bGgQ8RqQf5"
+                }
+            ],
+            "user_mentions": [
+                {
+                    "id": 2507041725,
+                    "id_str": "2507041725",
+                    "indices": [
+                        60,
+                        70
+                    ],
+                    "name": "8th grader",
+                    "screen_name": "rayyyyyxo"
+                }
+            ]
+        },
+        "favorite_count": 2,
+        "favorited": false,
+        "geo": null,
+        "id": 672614061025058816,
+        "id_str": "672614061025058816",
+        "in_reply_to_screen_name": "rayyyyyxo",
+        "in_reply_to_status_id": 672613790383480832,
+        "in_reply_to_status_id_str": "672613790383480832",
+        "in_reply_to_user_id": 2507041725,
+        "in_reply_to_user_id_str": "2507041725",
+        "is_quote_status": true,
+        "lang": "en",
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "place": {
+            "attributes": {},
+            "bounding_box": {
+                "coordinates": [
+                    [
+                        [
+                            -120.00574,
+                            35.002086
+                        ],
+                        [
+                            -114.039649,
+                            35.002086
+                        ],
+                        [
+                            -114.039649,
+                            42.002208
+                        ],
+                        [
+                            -120.00574,
+                            42.002208
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "contained_within": [],
+            "country": "United States",
+            "country_code": "US",
+            "full_name": "Nevada, USA",
+            "id": "d374fb61a20fb74f",
+            "name": "Nevada",
+            "place_type": "admin",
+            "url": "https://api.twitter.com/1.1/geo/id/d374fb61a20fb74f.json"
+        },
+        "possibly_sensitive": true,
+        "quoted_status_id": 672611904880119808,
+        "quoted_status_id_str": "672611904880119808",
+        "retweet_count": 0,
+        "retweeted": false,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "I didn't know intelligence and music opinions correlated RT @rayyyyyxo: R u stupid ?? https://t.co/bGgQ8RqQf5",
+        "truncated": false,
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Wed Nov 23 22:55:03 +0000 2011",
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "dont @ me",
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "twitter.com/devonthesav/fa\u2026",
+                            "expanded_url": "https://twitter.com/devonthesav/favorites",
+                            "indices": [
+                                0,
+                                23
+                            ],
+                            "url": "https://t.co/yHizpplPMn"
+                        }
+                    ]
+                }
+            },
+            "favourites_count": 1289,
+            "follow_request_sent": false,
+            "followers_count": 3782,
+            "following": false,
+            "friends_count": 435,
+            "geo_enabled": true,
+            "has_extended_profile": false,
+            "id": 419898105,
+            "id_str": "419898105",
+            "is_translation_enabled": false,
+            "is_translator": false,
+            "lang": "en",
+            "listed_count": 37,
+            "location": "booking info:",
+            "name": "KING",
+            "notifications": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/419898105/1448450101",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/671807335661101056/mexZJq2o_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/671807335661101056/mexZJq2o_normal.jpg",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "DEVONTHESAV",
+            "statuses_count": 96028,
+            "time_zone": "Arizona",
+            "url": "https://t.co/yHizpplPMn",
+            "utc_offset": -25200,
+            "verified": false
+        }
+    },
+    "quoted_status_id": 672614061025058816,
+    "quoted_status_id_str": "672614061025058816",
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@twitter please delete his account https://t.co/JVqnOW7XYE",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Apr 24 21:57:41 +0000 2014",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 1841,
+        "follow_request_sent": false,
+        "followers_count": 380,
+        "following": false,
+        "friends_count": 146,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 2507041725,
+        "id_str": "2507041725",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 3,
+        "location": "",
+        "name": "8th grader",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2507041725/1441263608",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/670858471563239424/vPvIQoVg_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/670858471563239424/vPvIQoVg_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "rayyyyyxo",
+        "statuses_count": 15171,
+        "time_zone": "Eastern Time (US & Canada)",
+        "url": null,
+        "utc_offset": -18000,
+        "verified": false
+    }
+}

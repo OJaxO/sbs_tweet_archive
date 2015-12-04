@@ -1,0 +1,243 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Dec 04 05:36:05 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/woods_noah/sta\u2026",
+                "expanded_url": "https://twitter.com/woods_noah/status/672650460705251330",
+                "indices": [
+                    10,
+                    33
+                ],
+                "url": "https://t.co/rpAbscUL9b"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 783214,
+                "id_str": "783214",
+                "indices": [
+                    0,
+                    8
+                ],
+                "name": "Twitter",
+                "screen_name": "twitter"
+            }
+        ]
+    },
+    "favorite_count": 3,
+    "favorited": false,
+    "geo": null,
+    "id": 672650558533066752,
+    "id_str": "672650558533066752",
+    "in_reply_to_screen_name": "twitter",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 783214,
+    "in_reply_to_user_id_str": "783214",
+    "is_quote_status": true,
+    "lang": "und",
+    "metadata": {
+        "iso_language_code": "und",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -115.116116,
+                        36.1075816
+                    ],
+                    [
+                        -115.006139,
+                        36.1075816
+                    ],
+                    [
+                        -115.006139,
+                        36.2619262
+                    ],
+                    [
+                        -115.116116,
+                        36.2619262
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Sunrise Manor, NV",
+        "id": "a1839e9c3b5abff6",
+        "name": "Sunrise Manor",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/a1839e9c3b5abff6.json"
+    },
+    "possibly_sensitive": false,
+    "quoted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Fri Dec 04 05:35:41 +0000 2015",
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "urls": [],
+            "user_mentions": []
+        },
+        "favorite_count": 16,
+        "favorited": false,
+        "geo": null,
+        "id": 672650460705251330,
+        "id_str": "672650460705251330",
+        "in_reply_to_screen_name": null,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "is_quote_status": false,
+        "lang": "en",
+        "metadata": {
+            "iso_language_code": "und",
+            "result_type": "recent"
+        },
+        "place": null,
+        "retweet_count": 8,
+        "retweeted": false,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "I should be verified",
+        "truncated": false,
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Fri Dec 30 21:30:56 +0000 2011",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "Private Club | Members only |privateclubrecords@gmail.com",
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "youtu.be/yNsXKIP9tHM",
+                            "expanded_url": "http://youtu.be/yNsXKIP9tHM",
+                            "indices": [
+                                0,
+                                23
+                            ],
+                            "url": "https://t.co/8lbUvUt0uf"
+                        }
+                    ]
+                }
+            },
+            "favourites_count": 9324,
+            "follow_request_sent": false,
+            "followers_count": 3450,
+            "following": false,
+            "friends_count": 1809,
+            "geo_enabled": true,
+            "has_extended_profile": false,
+            "id": 450955272,
+            "id_str": "450955272",
+            "is_translation_enabled": false,
+            "is_translator": false,
+            "lang": "en",
+            "listed_count": 11,
+            "location": "sherice is queen",
+            "name": "Noah Wood$",
+            "notifications": false,
+            "profile_background_color": "FFFFFF",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/496350156/threadlessbewareunicorn_652_151243.jpg",
+            "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/496350156/threadlessbewareunicorn_652_151243.jpg",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/450955272/1446139374",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/668201650239111168/ezbh1FNU_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/668201650239111168/ezbh1FNU_normal.jpg",
+            "profile_link_color": "76306C",
+            "profile_sidebar_border_color": "C9C9C9",
+            "profile_sidebar_fill_color": "E6E6E6",
+            "profile_text_color": "595959",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "woods_noah",
+            "statuses_count": 32918,
+            "time_zone": "Eastern Time (US & Canada)",
+            "url": "https://t.co/8lbUvUt0uf",
+            "utc_offset": -18000,
+            "verified": false
+        }
+    },
+    "quoted_status_id": 672650460705251330,
+    "quoted_status_id_str": "672650460705251330",
+    "retweet_count": 1,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@twitter  https://t.co/rpAbscUL9b",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Jul 15 08:18:58 +0000 2012",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "@theweeknd follows \u2022 \u0926\u0947\u0935\u0940 \u091f\u093f\u0902\u0917",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "theweeknd.com",
+                        "expanded_url": "http://theweeknd.com",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/J3JpRJVy85"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 8973,
+        "follow_request_sent": false,
+        "followers_count": 1418,
+        "following": false,
+        "friends_count": 552,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 636096528,
+        "id_str": "636096528",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 7,
+        "location": "",
+        "name": "UNKNXOWN",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000055294458/70b1f207b39f57fafdb09fe892fc0ecf.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000055294458/70b1f207b39f57fafdb09fe892fc0ecf.jpeg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/636096528/1448044057",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/658048130068250624/HPFrH_im_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/658048130068250624/HPFrH_im_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "xoacidd",
+        "statuses_count": 44184,
+        "time_zone": "Arizona",
+        "url": "https://t.co/J3JpRJVy85",
+        "utc_offset": -25200,
+        "verified": false
+    }
+}

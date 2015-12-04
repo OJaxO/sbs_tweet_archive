@@ -1,0 +1,134 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Dec 04 04:06:26 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 783214,
+                "id_str": "783214",
+                "indices": [
+                    0,
+                    8
+                ],
+                "name": "Twitter",
+                "screen_name": "twitter"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 672628000228249601,
+    "id_str": "672628000228249601",
+    "in_reply_to_screen_name": "twitter",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 783214,
+    "in_reply_to_user_id_str": "783214",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -80.519851,
+                        39.719801
+                    ],
+                    [
+                        -74.689517,
+                        39.719801
+                    ],
+                    [
+                        -74.689517,
+                        42.516072
+                    ],
+                    [
+                        -80.519851,
+                        42.516072
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Pennsylvania, USA",
+        "id": "dd9c503d6c35364b",
+        "name": "Pennsylvania",
+        "place_type": "admin",
+        "url": "https://api.twitter.com/1.1/geo/id/dd9c503d6c35364b.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@twitter You guys need to get rid of this 140 character cap to compete with facebook. $25 a share is not a good thing.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Jun 08 00:04:51 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "If a mime tweets does it count?  Qwitter Equipped \u263a\u263ahttps://t.co/5apPdmY97m \u278f\uf87f\u2790\uf87f\u278f\uf87f\u2790\uf87f  My tweets are original unless otherwise noted. Pennsylvania",
+        "entities": {
+            "description": {
+                "urls": [
+                    {
+                        "display_url": "youtube.com/user/badanawitz",
+                        "expanded_url": "http://youtube.com/user/badanawitz",
+                        "indices": [
+                            52,
+                            75
+                        ],
+                        "url": "https://t.co/5apPdmY97m"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 123,
+        "follow_request_sent": false,
+        "followers_count": 1275,
+        "following": false,
+        "friends_count": 1145,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 153213891,
+        "id_str": "153213891",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 9,
+        "location": "Astoria New York",
+        "name": "MisterVanBuilderAss",
+        "notifications": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/845243514/2c8653346c0e12ed20f35fa1192ade04.png",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/845243514/2c8653346c0e12ed20f35fa1192ade04.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/153213891/1423943018",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/566679761389232128/bMC5QovK_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/566679761389232128/bMC5QovK_normal.png",
+        "profile_link_color": "4A913C",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "RJacobT67",
+        "statuses_count": 14760,
+        "time_zone": "Eastern Time (US & Canada)",
+        "url": null,
+        "utc_offset": -18000,
+        "verified": false
+    }
+}

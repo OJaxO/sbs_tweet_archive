@@ -1,0 +1,134 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Dec 04 05:56:37 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 783214,
+                "id_str": "783214",
+                "indices": [
+                    0,
+                    8
+                ],
+                "name": "Twitter",
+                "screen_name": "twitter"
+            },
+            {
+                "id": 103770785,
+                "id_str": "103770785",
+                "indices": [
+                    9,
+                    22
+                ],
+                "name": "Twitter India",
+                "screen_name": "TwitterIndia"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 672655726364463104,
+    "id_str": "672655726364463104",
+    "in_reply_to_screen_name": "twitter",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 783214,
+    "in_reply_to_user_id_str": "783214",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        73.6246953,
+                        18.2801029
+                    ],
+                    [
+                        74.1954594,
+                        18.2801029
+                    ],
+                    [
+                        74.1954594,
+                        18.7362196
+                    ],
+                    [
+                        73.6246953,
+                        18.7362196
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "India",
+        "country_code": "IN",
+        "full_name": "Haveli, Maharashtra",
+        "id": "0a063651d547b2b9",
+        "name": "Haveli",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/0a063651d547b2b9.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@twitter @TwitterIndia Thanks :)\nglad to see these birthdaywishes balloons on my TL  :)",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Sep 27 18:39:27 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Software Eng,True Indian,Patriotically political.on d way to achieve something worth.\nIn love - Politics,Startups,Social Services,Cricket,Chess,movies,etc.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 842,
+        "follow_request_sent": false,
+        "followers_count": 668,
+        "following": false,
+        "friends_count": 609,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 77800656,
+        "id_str": "77800656",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 7,
+        "location": "Pune, Maharashtra",
+        "name": "Vivek S. Bhadouria",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/77800656/1434127715",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/672495557982597120/81DE5LIM_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/672495557982597120/81DE5LIM_normal.jpg",
+        "profile_link_color": "FA743E",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "vivek0728",
+        "statuses_count": 3047,
+        "time_zone": null,
+        "url": null,
+        "utc_offset": null,
+        "verified": false
+    }
+}

@@ -1,0 +1,147 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Dec 04 04:44:14 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 783214,
+                "id_str": "783214",
+                "indices": [
+                    0,
+                    8
+                ],
+                "name": "Twitter",
+                "screen_name": "twitter"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 672637513400471552,
+    "id_str": "672637513400471552",
+    "in_reply_to_screen_name": "twitter",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 783214,
+    "in_reply_to_user_id_str": "783214",
+    "is_quote_status": false,
+    "lang": "es",
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -57.6743043,
+                        -25.3479296
+                    ],
+                    [
+                        -57.5377312,
+                        -25.3479296
+                    ],
+                    [
+                        -57.5377312,
+                        -25.2525978
+                    ],
+                    [
+                        -57.6743043,
+                        -25.2525978
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "Paraguay",
+        "country_code": "PY",
+        "full_name": "Asuncion, Paraguay",
+        "id": "01f2931e2c7f48a8",
+        "name": "Asuncion",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/01f2931e2c7f48a8.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@twitter no me quiere hoy \ud83d\ude29",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu May 20 03:32:00 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "::Princesita Paraguaya:: Enemiga de la Realidad y amiga de la Suerte.Inocente,Insolente,Insolvente Loca,Inestable,y Caprichosa:: https://t.co/dTE8nz9Mjh",
+        "entities": {
+            "description": {
+                "urls": [
+                    {
+                        "display_url": "tanbionica.com",
+                        "expanded_url": "http://tanbionica.com",
+                        "indices": [
+                            129,
+                            152
+                        ],
+                        "url": "https://t.co/dTE8nz9Mjh"
+                    }
+                ]
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "twitter.com/TanBionicaPY_",
+                        "expanded_url": "https://twitter.com/TanBionicaPY_",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/hrqdqCFeQg"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 10045,
+        "follow_request_sent": false,
+        "followers_count": 3882,
+        "following": false,
+        "friends_count": 4084,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 145887948,
+        "id_str": "145887948",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "es",
+        "listed_count": 3,
+        "location": "Asuncion, PARAGUAY",
+        "name": "LoreZarate",
+        "notifications": false,
+        "profile_background_color": "050505",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/490570572456157184/A5ibsPjB.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/490570572456157184/A5ibsPjB.jpeg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/145887948/1444276550",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/654140813212053504/L-hOaCp0_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/654140813212053504/L-hOaCp0_normal.jpg",
+        "profile_link_color": "F50A68",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "050505",
+        "profile_text_color": "FF00FF",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "LorenitaZarate",
+        "statuses_count": 6214,
+        "time_zone": "Brasilia",
+        "url": "https://t.co/hrqdqCFeQg",
+        "utc_offset": -7200,
+        "verified": false
+    }
+}
