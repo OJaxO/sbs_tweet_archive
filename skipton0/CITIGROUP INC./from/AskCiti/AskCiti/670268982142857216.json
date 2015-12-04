@@ -1,0 +1,266 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Nov 27 15:52:32 +0000 2015",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    128,
+                    142
+                ],
+                "text": "HappyHolidays"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 24061453,
+                "id_str": "24061453",
+                "indices": [
+                    3,
+                    15
+                ],
+                "name": "Splash Magazines",
+                "screen_name": "SplashMagWW"
+            },
+            {
+                "id": 80374332,
+                "id_str": "80374332",
+                "indices": [
+                    17,
+                    26
+                ],
+                "name": "Citibank",
+                "screen_name": "Citibank"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 670268982142857216,
+    "id_str": "670268982142857216",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": null,
+    "retweet_count": 1,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Fri Nov 27 14:55:47 +0000 2015",
+        "entities": {
+            "hashtags": [
+                {
+                    "indices": [
+                        111,
+                        125
+                    ],
+                    "text": "HappyHolidays"
+                }
+            ],
+            "symbols": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "id": 80374332,
+                    "id_str": "80374332",
+                    "indices": [
+                        0,
+                        9
+                    ],
+                    "name": "Citibank",
+                    "screen_name": "Citibank"
+                }
+            ]
+        },
+        "favorite_count": 2,
+        "favorited": false,
+        "geo": null,
+        "id": 670254697333133312,
+        "id_str": "670254697333133312",
+        "in_reply_to_screen_name": "Citibank",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": 80374332,
+        "in_reply_to_user_id_str": "80374332",
+        "is_quote_status": false,
+        "lang": "en",
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "place": {
+            "attributes": {},
+            "bounding_box": {
+                "coordinates": [
+                    [
+                        [
+                            -118.668404,
+                            33.704538
+                        ],
+                        [
+                            -118.155409,
+                            33.704538
+                        ],
+                        [
+                            -118.155409,
+                            34.337041
+                        ],
+                        [
+                            -118.668404,
+                            34.337041
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "contained_within": [],
+            "country": "United States",
+            "country_code": "US",
+            "full_name": "Los Angeles, CA",
+            "id": "3b77caf94bfc81fe",
+            "name": "Los Angeles",
+            "place_type": "city",
+            "url": "https://api.twitter.com/1.1/geo/id/3b77caf94bfc81fe.json"
+        },
+        "retweet_count": 1,
+        "retweeted": false,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": "@Citibank amazing job w/ customer service &amp; support resolving an issue with a fraudulent charge! Thanks!!! #HappyHolidays",
+        "truncated": false,
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Thu Mar 12 23:03:33 +0000 2009",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "Splash Magazines Worldwide - Adding Style to Your Life since 2002 is 21 online city Lifestyle/Entertainment magazines. Editorials, Interviews, Gift Guides, etc.",
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "splashmagazines.com",
+                            "expanded_url": "http://www.splashmagazines.com",
+                            "indices": [
+                                0,
+                                22
+                            ],
+                            "url": "http://t.co/rvhwH3yURk"
+                        }
+                    ]
+                }
+            },
+            "favourites_count": 1518,
+            "follow_request_sent": false,
+            "followers_count": 6888,
+            "following": false,
+            "friends_count": 4378,
+            "geo_enabled": true,
+            "has_extended_profile": false,
+            "id": 24061453,
+            "id_str": "24061453",
+            "is_translation_enabled": false,
+            "is_translator": false,
+            "lang": "en",
+            "listed_count": 144,
+            "location": "Everywhere",
+            "name": "Splash Magazines",
+            "notifications": false,
+            "profile_background_color": "140E0E",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/170016573/front_new_card_cropped-40.jpg",
+            "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/170016573/front_new_card_cropped-40.jpg",
+            "profile_background_tile": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/554769279703191552/kD80UC5z_normal.jpeg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/554769279703191552/kD80UC5z_normal.jpeg",
+            "profile_link_color": "FF9933",
+            "profile_sidebar_border_color": "0620A3",
+            "profile_sidebar_fill_color": "CCEEEE",
+            "profile_text_color": "556666",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "SplashMagWW",
+            "statuses_count": 13053,
+            "time_zone": "Pacific Time (US & Canada)",
+            "url": "http://t.co/rvhwH3yURk",
+            "utc_offset": -28800,
+            "verified": false
+        }
+    },
+    "source": "<a href=\"http://www.sprinklr.com\" rel=\"nofollow\">Sprinklr</a>",
+    "text": "RT @SplashMagWW: @Citibank amazing job w/ customer service &amp; support resolving an issue with a fraudulent charge! Thanks!!! #HappyHolidays",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Oct 13 17:59:32 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "The Official Citi Customer Service. We're here Mon-Sun 9am-10pm ET. Pls don't tweet Acct# or PINs. We never ask for account info in a public or private tweet.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "citi.com",
+                        "expanded_url": "http://citi.com",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/5IAy4F3159"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 15,
+        "follow_request_sent": false,
+        "followers_count": 21595,
+        "following": false,
+        "friends_count": 23531,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 82151473,
+        "id_str": "82151473",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 332,
+        "location": "",
+        "name": "Citi",
+        "notifications": false,
+        "profile_background_color": "004785",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/474182120777056257/G1c0yRlh.png",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/474182120777056257/G1c0yRlh.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/82151473/1401888848",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/2737095187/6e98075ff1575965ff5586067d6af06d_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/2737095187/6e98075ff1575965ff5586067d6af06d_normal.png",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "AskCiti",
+        "statuses_count": 85304,
+        "time_zone": "Eastern Time (US & Canada)",
+        "url": "http://t.co/5IAy4F3159",
+        "utc_offset": -18000,
+        "verified": true
+    }
+}

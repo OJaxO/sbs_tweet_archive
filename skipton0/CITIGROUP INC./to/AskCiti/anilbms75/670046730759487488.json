@@ -1,0 +1,148 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Nov 27 01:09:24 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "goo.gl/qCI1HG",
+                "expanded_url": "https://goo.gl/qCI1HG",
+                "indices": [
+                    111,
+                    134
+                ],
+                "url": "https://t.co/fnnj1faL8r"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 82151473,
+                "id_str": "82151473",
+                "indices": [
+                    0,
+                    8
+                ],
+                "name": "Citi",
+                "screen_name": "AskCiti"
+            }
+        ]
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": null,
+    "id": 670046730759487488,
+    "id_str": "670046730759487488",
+    "in_reply_to_screen_name": "AskCiti",
+    "in_reply_to_status_id": 669951903732801536,
+    "in_reply_to_status_id_str": "669951903732801536",
+    "in_reply_to_user_id": 82151473,
+    "in_reply_to_user_id_str": "82151473",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        76.4551434,
+                        12.1175892
+                    ],
+                    [
+                        76.8361765,
+                        12.1175892
+                    ],
+                    [
+                        76.8361765,
+                        12.4512955
+                    ],
+                    [
+                        76.4551434,
+                        12.4512955
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "India",
+        "country_code": "IN",
+        "full_name": "Mysore, Karnataka",
+        "id": "71faf476216399e5",
+        "name": "Mysore",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/71faf476216399e5.json"
+    },
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@AskCiti  it's a url link ellipsis, it still works on clicking the link, anyways here is short form of the url https://t.co/fnnj1faL8r",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Apr 09 19:21:39 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Javascript Developer @canto, #UX #prototyping",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "anilk.strikingly.com",
+                        "expanded_url": "http://anilk.strikingly.com/",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/gtw8XqzAH0"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 1346,
+        "follow_request_sent": false,
+        "followers_count": 235,
+        "following": false,
+        "friends_count": 266,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 131262069,
+        "id_str": "131262069",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 37,
+        "location": "Berlin, Germany",
+        "name": "ANIL KUMAR",
+        "notifications": false,
+        "profile_background_color": "89C9FA",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/131262069/1438540068",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/608906049089843200/4P3pzLyr_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/608906049089843200/4P3pzLyr_normal.jpg",
+        "profile_link_color": "3B94D9",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "anilbms75",
+        "statuses_count": 1748,
+        "time_zone": "Chennai",
+        "url": "http://t.co/gtw8XqzAH0",
+        "utc_offset": 19800,
+        "verified": false
+    }
+}
