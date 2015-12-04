@@ -1,0 +1,337 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Dec 04 11:32:25 +0000 2015",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    37,
+                    45
+                ],
+                "text": "Ireland"
+            },
+            {
+                "indices": [
+                    90,
+                    95
+                ],
+                "text": "Tech"
+            }
+        ],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/idaireland/sta\u2026",
+                "expanded_url": "https://twitter.com/idaireland/status/672727223481274368",
+                "indices": [
+                    114,
+                    137
+                ],
+                "url": "https://t.co/0SvM2qDs8I"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 13058772,
+                "id_str": "13058772",
+                "indices": [
+                    0,
+                    9
+                ],
+                "name": "LinkedIn",
+                "screen_name": "LinkedIn"
+            },
+            {
+                "id": 44889752,
+                "id_str": "44889752",
+                "indices": [
+                    66,
+                    77
+                ],
+                "name": "IDA Ireland",
+                "screen_name": "IDAIRELAND"
+            },
+            {
+                "id": 280918661,
+                "id_str": "280918661",
+                "indices": [
+                    78,
+                    89
+                ],
+                "name": "PwC Ireland",
+                "screen_name": "pwcireland"
+            },
+            {
+                "id": 237376611,
+                "id_str": "237376611",
+                "indices": [
+                    96,
+                    112
+                ],
+                "name": "Richard Bruton",
+                "screen_name": "RichardbrutonTD"
+            }
+        ]
+    },
+    "favorite_count": 3,
+    "favorited": false,
+    "geo": null,
+    "id": 672740233700638720,
+    "id_str": "672740233700638720",
+    "in_reply_to_screen_name": "LinkedIn",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 13058772,
+    "in_reply_to_user_id_str": "13058772",
+    "is_quote_status": true,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -6.3873911,
+                        53.2987449
+                    ],
+                    [
+                        -6.1078047,
+                        53.2987449
+                    ],
+                    [
+                        -6.1078047,
+                        53.4110598
+                    ],
+                    [
+                        -6.3873911,
+                        53.4110598
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "Ireland",
+        "country_code": "IE",
+        "full_name": "Dublin City, Ireland",
+        "id": "7dde0febc9ef245b",
+        "name": "Dublin City",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/7dde0febc9ef245b.json"
+    },
+    "possibly_sensitive": false,
+    "quoted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Fri Dec 04 10:40:43 +0000 2015",
+        "entities": {
+            "hashtags": [],
+            "media": [
+                {
+                    "display_url": "pic.twitter.com/ljHoXvJpEF",
+                    "expanded_url": "http://twitter.com/IDAIRELAND/status/672727223481274368/photo/1",
+                    "id": 672727215633768448,
+                    "id_str": "672727215633768448",
+                    "indices": [
+                        119,
+                        142
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/CVYB1p6WoAABBGo.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/CVYB1p6WoAABBGo.jpg",
+                    "sizes": {
+                        "large": {
+                            "h": 768,
+                            "resize": "fit",
+                            "w": 1024
+                        },
+                        "medium": {
+                            "h": 450,
+                            "resize": "fit",
+                            "w": 600
+                        },
+                        "small": {
+                            "h": 255,
+                            "resize": "fit",
+                            "w": 340
+                        },
+                        "thumb": {
+                            "h": 150,
+                            "resize": "crop",
+                            "w": 150
+                        }
+                    },
+                    "type": "photo",
+                    "url": "https://t.co/ljHoXvJpEF"
+                }
+            ],
+            "symbols": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "id": 13058772,
+                    "id_str": "13058772",
+                    "indices": [
+                        48,
+                        57
+                    ],
+                    "name": "LinkedIn",
+                    "screen_name": "LinkedIn"
+                }
+            ]
+        },
+        "favorite_count": 9,
+        "favorited": false,
+        "geo": null,
+        "id": 672727223481274368,
+        "id_str": "672727223481274368",
+        "in_reply_to_screen_name": null,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "is_quote_status": false,
+        "lang": "en",
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "place": null,
+        "possibly_sensitive": false,
+        "retweet_count": 8,
+        "retweeted": false,
+        "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+        "text": "An Taoiseach, John Herlihy &amp; Sharon McCooey @LinkedIn with our own Mary Buckley - co will soon pass 1000 employees https://t.co/ljHoXvJpEF",
+        "truncated": false,
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Fri Jun 05 13:20:46 +0000 2009",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "Ireland's Investment Promotion Agency partners with foreign investors to set up in Ireland. #WhyIreland Caitriona, Marie and Emmet are our Twitter team",
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "idaireland.com",
+                            "expanded_url": "http://www.idaireland.com",
+                            "indices": [
+                                0,
+                                22
+                            ],
+                            "url": "http://t.co/lVJzNbrmQh"
+                        }
+                    ]
+                }
+            },
+            "favourites_count": 1764,
+            "follow_request_sent": false,
+            "followers_count": 38060,
+            "following": false,
+            "friends_count": 2485,
+            "geo_enabled": true,
+            "has_extended_profile": false,
+            "id": 44889752,
+            "id_str": "44889752",
+            "is_translation_enabled": false,
+            "is_translator": false,
+            "lang": "en",
+            "listed_count": 561,
+            "location": "Ireland",
+            "name": "IDA Ireland",
+            "notifications": false,
+            "profile_background_color": "FFFFFF",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/18491494/background_top.jpg",
+            "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/18491494/background_top.jpg",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/44889752/1398251837",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/2755149796/b94b183436c398b3172737d36fdcbde5_normal.jpeg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/2755149796/b94b183436c398b3172737d36fdcbde5_normal.jpeg",
+            "profile_link_color": "00A94F",
+            "profile_sidebar_border_color": "CC0000",
+            "profile_sidebar_fill_color": "FFFFFF",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "IDAIRELAND",
+            "statuses_count": 3743,
+            "time_zone": "Dublin",
+            "url": "http://t.co/lVJzNbrmQh",
+            "utc_offset": 0,
+            "verified": true
+        }
+    },
+    "quoted_status_id": 672727223481274368,
+    "quoted_status_id_str": "672727223481274368",
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@LinkedIn to grow to 1,000 people in #Ireland - congrats to all!! @IDAIRELAND @pwcireland #Tech @RichardbrutonTD  https://t.co/0SvM2qDs8I",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Jul 25 15:06:13 +0000 2011",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "#PwC Asset Management, Private Equity & Real Estate leader - EMEA | #PwCAM #Tech #Digital #FDI #Sustain | #UCD alum | all views my own",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "expanded_url": null,
+                        "indices": [
+                            0,
+                            17
+                        ],
+                        "url": "http://pwc.com/ie"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 20782,
+        "follow_request_sent": false,
+        "followers_count": 3702,
+        "following": false,
+        "friends_count": 2813,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 342138494,
+        "id_str": "342138494",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 159,
+        "location": "Ireland | Europe | US | Asia",
+        "name": "Andrew O'Callaghan",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/342138494/1447107813",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/378800000757884582/4485bb32a224bad54de6b9eaa942a0de_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000757884582/4485bb32a224bad54de6b9eaa942a0de_normal.jpeg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "AndyOCallagha",
+        "statuses_count": 2277,
+        "time_zone": null,
+        "url": "http://pwc.com/ie",
+        "utc_offset": null,
+        "verified": false
+    }
+}
