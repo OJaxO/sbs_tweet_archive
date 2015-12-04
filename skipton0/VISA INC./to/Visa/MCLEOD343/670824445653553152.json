@@ -1,0 +1,124 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Nov 29 04:39:45 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 551373363,
+                "id_str": "551373363",
+                "indices": [
+                    0,
+                    5
+                ],
+                "name": "Visa",
+                "screen_name": "Visa"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 670824445653553152,
+    "id_str": "670824445653553152",
+    "in_reply_to_screen_name": "Visa",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 551373363,
+    "in_reply_to_user_id_str": "551373363",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -97.453842,
+                        49.805581
+                    ],
+                    [
+                        -97.3187532,
+                        49.805581
+                    ],
+                    [
+                        -97.3187532,
+                        49.9286043
+                    ],
+                    [
+                        -97.453842,
+                        49.9286043
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "Canada",
+        "country_code": "CA",
+        "full_name": "Headingley, Manitoba",
+        "id": "4e2200ca4fd000db",
+        "name": "Headingley",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/4e2200ca4fd000db.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@Visa I have a virtual Visa card. How can I add to the balance to make a purchase ?",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Jun 23 02:00:01 +0000 2009",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 6315,
+        "follow_request_sent": false,
+        "followers_count": 306,
+        "following": false,
+        "friends_count": 1685,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 49848702,
+        "id_str": "49848702",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 3,
+        "location": "edmonton",
+        "name": "NEIL MCLEOD",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/49848702/1354931036",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/503009835445547008/BVln7TR__normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/503009835445547008/BVln7TR__normal.jpeg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "MCLEOD343",
+        "statuses_count": 3005,
+        "time_zone": null,
+        "url": null,
+        "utc_offset": null,
+        "verified": false
+    }
+}
