@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Nov 30 08:38:19 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 38676903,
+                "id_str": "38676903",
+                "indices": [
+                    0,
+                    8
+                ],
+                "name": "easyJet",
+                "screen_name": "easyJet"
+            }
+        ]
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": null,
+    "id": 671246868068847616,
+    "id_str": "671246868068847616",
+    "in_reply_to_screen_name": "easyJet",
+    "in_reply_to_status_id": 671090568445960193,
+    "in_reply_to_status_id_str": "671090568445960193",
+    "in_reply_to_user_id": 38676903,
+    "in_reply_to_user_id_str": "38676903",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        12.453064,
+                        55.613717
+                    ],
+                    [
+                        12.6511441,
+                        55.613717
+                    ],
+                    [
+                        12.6511441,
+                        55.731834
+                    ],
+                    [
+                        12.453064,
+                        55.731834
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "Danmark",
+        "country_code": "DK",
+        "full_name": "Copenhagen, Capital Region of Denmark",
+        "id": "936b83f20956cd4c",
+        "name": "Copenhagen",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/936b83f20956cd4c.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@easyJet I wasn't complaining, genuinely impressed the pilots managed to land",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Sep 15 11:02:13 +0000 2008",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "#SaaS, #cloud, #startups, travel, music, film, literature, sport. Kitesurfer, snowboarder and speaker of own version of Spanish! #CMO @Planday",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "linkedin.com/in/johncoldicu\u2026",
+                        "expanded_url": "http://www.linkedin.com/in/johncoldicutt",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/RXvAiOSDTP"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 193,
+        "follow_request_sent": false,
+        "followers_count": 867,
+        "following": false,
+        "friends_count": 727,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 16294228,
+        "id_str": "16294228",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 77,
+        "location": "London, UK",
+        "name": "John Coldicutt",
+        "notifications": false,
+        "profile_background_color": "050505",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/16294228/1372326496",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/445552970680111104/CZGfHB92_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/445552970680111104/CZGfHB92_normal.png",
+        "profile_link_color": "123456",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "John_Coldicutt",
+        "statuses_count": 1959,
+        "time_zone": "London",
+        "url": "http://t.co/RXvAiOSDTP",
+        "utc_offset": 0,
+        "verified": false
+    }
+}

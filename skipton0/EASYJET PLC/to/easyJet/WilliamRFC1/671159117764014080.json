@@ -1,0 +1,124 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Nov 30 02:49:37 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 38676903,
+                "id_str": "38676903",
+                "indices": [
+                    0,
+                    8
+                ],
+                "name": "easyJet",
+                "screen_name": "easyJet"
+            }
+        ]
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": null,
+    "id": 671159117764014080,
+    "id_str": "671159117764014080",
+    "in_reply_to_screen_name": "easyJet",
+    "in_reply_to_status_id": 670240848500629510,
+    "in_reply_to_status_id_str": "670240848500629510",
+    "in_reply_to_user_id": 38676903,
+    "in_reply_to_user_id_str": "38676903",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -4.7619211,
+                        55.9935312
+                    ],
+                    [
+                        -4.698213,
+                        55.9935312
+                    ],
+                    [
+                        -4.698213,
+                        56.0193508
+                    ],
+                    [
+                        -4.7619211,
+                        56.0193508
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United Kingdom",
+        "country_code": "GB",
+        "full_name": "Helensburgh, Scotland",
+        "id": "23c1f81ce1277e45",
+        "name": "Helensburgh",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/23c1f81ce1277e45.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@easyJet destination off the week? Going there on Sunday :)",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Apr 16 20:29:37 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Prague - December, Feurteventura - February! \u2600",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 320,
+        "follow_request_sent": false,
+        "followers_count": 245,
+        "following": false,
+        "friends_count": 1358,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 133855528,
+        "id_str": "133855528",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 2,
+        "location": "Rhu",
+        "name": "William McBride",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/675564921/28744d5501625c825fb11558078014ba.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/675564921/28744d5501625c825fb11558078014ba.jpeg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/133855528/1440349601",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/558751939412754432/7VEyydZL_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/558751939412754432/7VEyydZL_normal.jpeg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "WilliamRFC1",
+        "statuses_count": 11781,
+        "time_zone": "Casablanca",
+        "url": null,
+        "utc_offset": 0,
+        "verified": false
+    }
+}
