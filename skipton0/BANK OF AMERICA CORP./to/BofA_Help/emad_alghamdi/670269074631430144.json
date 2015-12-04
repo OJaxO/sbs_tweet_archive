@@ -1,0 +1,146 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Nov 27 15:52:55 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 18735040,
+                "id_str": "18735040",
+                "indices": [
+                    0,
+                    10
+                ],
+                "name": "Bank of America Help",
+                "screen_name": "BofA_Help"
+            },
+            {
+                "id": 68088073,
+                "id_str": "68088073",
+                "indices": [
+                    11,
+                    21
+                ],
+                "name": "Ahmad Aljuryyed",
+                "screen_name": "Aljuryyed"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 670269074631430144,
+    "id_str": "670269074631430144",
+    "in_reply_to_screen_name": "BofA_Help",
+    "in_reply_to_status_id": 670260706105761792,
+    "in_reply_to_status_id_str": "670260706105761792",
+    "in_reply_to_user_id": 18735040,
+    "in_reply_to_user_id_str": "18735040",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        50.1651821,
+                        26.2144664
+                    ],
+                    [
+                        50.2383395,
+                        26.2144664
+                    ],
+                    [
+                        50.2383395,
+                        26.4011618
+                    ],
+                    [
+                        50.1651821,
+                        26.4011618
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "\u0627\u0644\u0645\u0645\u0644\u0643\u0629 \u0627\u0644\u0639\u0631\u0628\u064a\u0629 \u0627\u0644\u0633\u0639\u0648\u062f\u064a\u0629",
+        "country_code": "SA",
+        "full_name": "Al Khobar, Eastern",
+        "id": "01b9bce9425c3081",
+        "name": "Al Khobar",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/01b9bce9425c3081.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for i\u039fS</a>",
+    "text": "@BofA_Help @Aljuryyed you could call their intl. collection phone number for free :) it\u2019s at the back of the card.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Oct 01 22:50:04 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "SAP Financial Systems Analyst & Developer @Saudi_Aramco @Mawaqeet | Love Future Beats!",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "eg.sa",
+                        "expanded_url": "http://eg.sa",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/ac1tPLfnzd"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 51,
+        "follow_request_sent": false,
+        "followers_count": 285,
+        "following": false,
+        "friends_count": 148,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 383461602,
+        "id_str": "383461602",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 5,
+        "location": "Dhahran, SA | Riyadh, SA",
+        "name": "Emad Alghamdi",
+        "notifications": false,
+        "profile_background_color": "303030",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/458986537183485952/PL2H-5lw.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/458986537183485952/PL2H-5lw.jpeg",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/617001895173881856/XWjfrXAz_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/617001895173881856/XWjfrXAz_normal.jpg",
+        "profile_link_color": "8A1741",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "CFCFCF",
+        "profile_text_color": "3E4415",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "emad_alghamdi",
+        "statuses_count": 2498,
+        "time_zone": "Riyadh",
+        "url": "https://t.co/ac1tPLfnzd",
+        "utc_offset": 10800,
+        "verified": false
+    }
+}

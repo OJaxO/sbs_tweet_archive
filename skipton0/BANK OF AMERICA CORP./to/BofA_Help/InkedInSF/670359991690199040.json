@@ -1,0 +1,135 @@
+{
+    "contributors": null,
+    "coordinates": {
+        "coordinates": [
+            -122.03488738,
+            37.97626257
+        ],
+        "type": "Point"
+    },
+    "created_at": "Fri Nov 27 21:54:11 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 18735040,
+                "id_str": "18735040",
+                "indices": [
+                    0,
+                    10
+                ],
+                "name": "Bank of America Help",
+                "screen_name": "BofA_Help"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": {
+        "coordinates": [
+            37.97626257,
+            -122.03488738
+        ],
+        "type": "Point"
+    },
+    "id": 670359991690199040,
+    "id_str": "670359991690199040",
+    "in_reply_to_screen_name": "BofA_Help",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 18735040,
+    "in_reply_to_user_id_str": "18735040",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -122.066245,
+                        37.924231
+                    ],
+                    [
+                        -121.931044,
+                        37.924231
+                    ],
+                    [
+                        -121.931044,
+                        38.022423
+                    ],
+                    [
+                        -122.066245,
+                        38.022423
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Concord, CA",
+        "id": "8004d2bebcc13e8c",
+        "name": "Concord",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/8004d2bebcc13e8c.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://www.twitter.com\" rel=\"nofollow\">Twitter for Windows Phone</a>",
+    "text": "@BofA_Help I'm not an account holder, just here to make a deposit.  You should see the line.  15 people.  Must have picked a bad time.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Mar 20 14:58:57 +0000 2011",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 403,
+        "follow_request_sent": false,
+        "followers_count": 147,
+        "following": false,
+        "friends_count": 430,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 269323792,
+        "id_str": "269323792",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 7,
+        "location": "Concord, CA (SF Bay Area) ",
+        "name": "Jose A Leal",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/506687503743459328/U-bfbPDU_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/506687503743459328/U-bfbPDU_normal.jpeg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "InkedInSF",
+        "statuses_count": 8363,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": null,
+        "utc_offset": -28800,
+        "verified": false
+    }
+}

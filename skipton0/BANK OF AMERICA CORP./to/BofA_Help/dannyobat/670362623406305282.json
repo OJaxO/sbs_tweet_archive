@@ -1,0 +1,124 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Nov 27 22:04:38 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 18735040,
+                "id_str": "18735040",
+                "indices": [
+                    0,
+                    10
+                ],
+                "name": "Bank of America Help",
+                "screen_name": "BofA_Help"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 670362623406305282,
+    "id_str": "670362623406305282",
+    "in_reply_to_screen_name": "BofA_Help",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 18735040,
+    "in_reply_to_user_id_str": "18735040",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -121.919174,
+                        39.676071
+                    ],
+                    [
+                        -121.748286,
+                        39.676071
+                    ],
+                    [
+                        -121.748286,
+                        39.818003
+                    ],
+                    [
+                        -121.919174,
+                        39.818003
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Chico, CA",
+        "id": "9b381228ebd9a499",
+        "name": "Chico",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/9b381228ebd9a499.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@BofA_Help To whom it may concern reading this this applies to cooperate not you as I understand you are doing your job.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Apr 21 07:13:18 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "22 Nigerian Chico Drummer Love Peace Passion Altruism. I give hugs. No Narcissist non-sense, bullies and insecurity projectors allowed!",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 363,
+        "follow_request_sent": false,
+        "followers_count": 147,
+        "following": false,
+        "friends_count": 216,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 33840384,
+        "id_str": "33840384",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 0,
+        "location": "Chico C.A",
+        "name": "hah_diola",
+        "notifications": false,
+        "profile_background_color": "A8C2CF",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/851838553/315dc8b65bb1b0d1e1af1142b6995129.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/851838553/315dc8b65bb1b0d1e1af1142b6995129.jpeg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/33840384/1397235942",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/573309968029384704/k7gy_dMA_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/573309968029384704/k7gy_dMA_normal.jpeg",
+        "profile_link_color": "003A91",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "dannyobat",
+        "statuses_count": 4068,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": null,
+        "utc_offset": -28800,
+        "verified": false
+    }
+}
