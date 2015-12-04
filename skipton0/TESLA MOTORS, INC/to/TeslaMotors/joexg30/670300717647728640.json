@@ -1,0 +1,133 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Nov 27 17:58:39 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 13298072,
+                "id_str": "13298072",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "Tesla Motors",
+                "screen_name": "TeslaMotors"
+            },
+            {
+                "id": 1187505739,
+                "id_str": "1187505739",
+                "indices": [
+                    13,
+                    21
+                ],
+                "name": "Joe Guillen",
+                "screen_name": "joexg30"
+            }
+        ]
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": null,
+    "id": 670300717647728640,
+    "id_str": "670300717647728640",
+    "in_reply_to_screen_name": "TeslaMotors",
+    "in_reply_to_status_id": 670297334350274561,
+    "in_reply_to_status_id_str": "670297334350274561",
+    "in_reply_to_user_id": 13298072,
+    "in_reply_to_user_id_str": "13298072",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -121.69197,
+                        36.643802
+                    ],
+                    [
+                        -121.5905572,
+                        36.643802
+                    ],
+                    [
+                        -121.5905572,
+                        36.7344846
+                    ],
+                    [
+                        -121.69197,
+                        36.7344846
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Salinas, CA",
+        "id": "fa37e818b629e4ea",
+        "name": "Salinas",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/fa37e818b629e4ea.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@TeslaMotors @joexg30  What A beauty !!",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Feb 16 21:18:48 +0000 2013",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "joexg30@gmail.com",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 170,
+        "follow_request_sent": false,
+        "followers_count": 26,
+        "following": false,
+        "friends_count": 54,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 1187505739,
+        "id_str": "1187505739",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 0,
+        "location": "",
+        "name": "Joe Guillen",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/670142370831142912/7PhtWpfW_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/670142370831142912/7PhtWpfW_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "joexg30",
+        "statuses_count": 383,
+        "time_zone": null,
+        "url": null,
+        "utc_offset": null,
+        "verified": false
+    }
+}

@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 01 14:53:12 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 2917968139,
+                "id_str": "2917968139",
+                "indices": [
+                    0,
+                    14
+                ],
+                "name": "Starbucks Help",
+                "screen_name": "starbuckshelp"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 671703599638908928,
+    "id_str": "671703599638908928",
+    "in_reply_to_screen_name": "starbuckshelp",
+    "in_reply_to_status_id": 671485053768237056,
+    "in_reply_to_status_id_str": "671485053768237056",
+    "in_reply_to_user_id": 2917968139,
+    "in_reply_to_user_id_str": "2917968139",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -87.940033,
+                        41.644102
+                    ],
+                    [
+                        -87.523993,
+                        41.644102
+                    ],
+                    [
+                        -87.523993,
+                        42.0230669
+                    ],
+                    [
+                        -87.940033,
+                        42.0230669
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Chicago, IL",
+        "id": "1d9a5370a355ab0c",
+        "name": "Chicago",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/1d9a5370a355ab0c.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@starbuckshelp the only help I want at this point is all my money back and close my account, your accounts and password systems suck royally",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon May 25 16:04:46 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Bikini Model\u00b0Actor\u00b0Writer\u00b0Director\u00b0Building lover\u00b0Tree lover\u00b0Water lover\u00b0Photographer",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "ashlandthomas.com",
+                        "expanded_url": "http://www.ashlandthomas.com",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/5UgwEmuYqk"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 433,
+        "follow_request_sent": false,
+        "followers_count": 549,
+        "following": false,
+        "friends_count": 1982,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 42431012,
+        "id_str": "42431012",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 21,
+        "location": "Chicago, IL",
+        "name": "Ashland Thomas Photo",
+        "notifications": false,
+        "profile_background_color": "022330",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/851689852/a666d1d613da2adba50d6d19cb67f932.png",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/851689852/a666d1d613da2adba50d6d19cb67f932.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/42431012/1366850618",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/490876788676255744/zs_mGfxq_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/490876788676255744/zs_mGfxq_normal.jpeg",
+        "profile_link_color": "333333",
+        "profile_sidebar_border_color": "A8C7F7",
+        "profile_sidebar_fill_color": "C0DFEC",
+        "profile_text_color": "0084B4",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "ashlandt",
+        "statuses_count": 3926,
+        "time_zone": "Central Time (US & Canada)",
+        "url": "http://t.co/5UgwEmuYqk",
+        "utc_offset": -21600,
+        "verified": false
+    }
+}

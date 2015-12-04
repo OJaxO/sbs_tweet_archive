@@ -1,0 +1,138 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Nov 28 02:22:05 +0000 2015",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    13,
+                    25
+                ],
+                "text": "MyFutureCar"
+            }
+        ],
+        "media": [
+            {
+                "display_url": "pic.twitter.com/l63dJjeyrG",
+                "expanded_url": "http://twitter.com/JayMock_/status/670427409800368128/photo/1",
+                "id": 670427401567010816,
+                "id_str": "670427401567010816",
+                "indices": [
+                    26,
+                    49
+                ],
+                "media_url": "http://pbs.twimg.com/media/CU3WK24XAAAZ75A.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/CU3WK24XAAAZ75A.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 768,
+                        "resize": "fit",
+                        "w": 1024
+                    },
+                    "medium": {
+                        "h": 450,
+                        "resize": "fit",
+                        "w": 600
+                    },
+                    "small": {
+                        "h": 255,
+                        "resize": "fit",
+                        "w": 340
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/l63dJjeyrG"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 13298072,
+                "id_str": "13298072",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "Tesla Motors",
+                "screen_name": "TeslaMotors"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 670427409800368128,
+    "id_str": "670427409800368128",
+    "in_reply_to_screen_name": "TeslaMotors",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 13298072,
+    "in_reply_to_user_id_str": "13298072",
+    "is_quote_status": false,
+    "lang": "und",
+    "metadata": {
+        "iso_language_code": "und",
+        "result_type": "recent"
+    },
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@TeslaMotors #MyFutureCar https://t.co/l63dJjeyrG",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Apr 04 15:57:44 +0000 2014",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 5694,
+        "follow_request_sent": false,
+        "followers_count": 515,
+        "following": false,
+        "friends_count": 263,
+        "geo_enabled": false,
+        "has_extended_profile": true,
+        "id": 2427500545,
+        "id_str": "2427500545",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 3,
+        "location": "Earth",
+        "name": "\u30b8\u30e3\u30a2\u30fc\u30df \u30e2\u30c3\u30af",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2427500545/1448499823",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/669637776820703232/qGn_lPSN_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/669637776820703232/qGn_lPSN_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "JayMock_",
+        "statuses_count": 2607,
+        "time_zone": null,
+        "url": null,
+        "utc_offset": null,
+        "verified": false
+    }
+}

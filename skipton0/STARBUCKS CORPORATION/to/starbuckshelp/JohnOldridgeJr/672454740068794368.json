@@ -1,0 +1,124 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Dec 03 16:37:58 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 2917968139,
+                "id_str": "2917968139",
+                "indices": [
+                    0,
+                    14
+                ],
+                "name": "Starbucks Help",
+                "screen_name": "starbuckshelp"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 672454740068794368,
+    "id_str": "672454740068794368",
+    "in_reply_to_screen_name": "starbuckshelp",
+    "in_reply_to_status_id": 672433650059882497,
+    "in_reply_to_status_id_str": "672433650059882497",
+    "in_reply_to_user_id": 2917968139,
+    "in_reply_to_user_id_str": "2917968139",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -117.9906137,
+                        34.1182559
+                    ],
+                    [
+                        -117.9297178,
+                        34.1182559
+                    ],
+                    [
+                        -117.9297178,
+                        34.165263
+                    ],
+                    [
+                        -117.9906137,
+                        34.165263
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Duarte, CA",
+        "id": "ddf8317a51899bd8",
+        "name": "Duarte",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/ddf8317a51899bd8.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@starbuckshelp ...Thanks but no thanks. If this can't get fixed on its own then obviously these apps for dedicated customers are worthless.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Sep 12 17:01:33 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 300,
+        "follow_request_sent": false,
+        "followers_count": 112,
+        "following": false,
+        "friends_count": 593,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 189937960,
+        "id_str": "189937960",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 2,
+        "location": "Monrovia, CA",
+        "name": "Monrovia Scanner",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000099168374/8969288f4245120e7c3870287cce0ff3.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000099168374/8969288f4245120e7c3870287cce0ff3.jpeg",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/189937960/1448858670",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/671188032448389120/iJCfey3V_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/671188032448389120/iJCfey3V_normal.jpg",
+        "profile_link_color": "999999",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "FFFFFF",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "JohnOldridgeJr",
+        "statuses_count": 4513,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": null,
+        "utc_offset": -28800,
+        "verified": false
+    }
+}
