@@ -1,0 +1,124 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Dec 04 00:57:53 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 17137891,
+                "id_str": "17137891",
+                "indices": [
+                    0,
+                    8
+                ],
+                "name": "Walmart",
+                "screen_name": "Walmart"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 672580549425385472,
+    "id_str": "672580549425385472",
+    "in_reply_to_screen_name": "Walmart",
+    "in_reply_to_status_id": 672462972032311296,
+    "in_reply_to_status_id_str": "672462972032311296",
+    "in_reply_to_user_id": 17137891,
+    "in_reply_to_user_id_str": "17137891",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -82.938339,
+                        36.074756
+                    ],
+                    [
+                        -82.758263,
+                        36.074756
+                    ],
+                    [
+                        -82.758263,
+                        36.207564
+                    ],
+                    [
+                        -82.938339,
+                        36.207564
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Greeneville, TN",
+        "id": "a46b4fbafe0dd5af",
+        "name": "Greeneville",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/a46b4fbafe0dd5af.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@Walmart I told some other workers who were chatting. \"It's not my department\". So they did nothing",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Apr 14 21:56:47 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 1235,
+        "follow_request_sent": false,
+        "followers_count": 36,
+        "following": false,
+        "friends_count": 99,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 31239611,
+        "id_str": "31239611",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 1,
+        "location": "Greeneville, TN",
+        "name": "\u24d2\u24d0\u24e2\u24d4\u24e8",
+        "notifications": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/31239611/1447116773",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/666750972136329216/lzbcxgzL_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/666750972136329216/lzbcxgzL_normal.jpg",
+        "profile_link_color": "009999",
+        "profile_sidebar_border_color": "EEEEEE",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "caseyb85",
+        "statuses_count": 3461,
+        "time_zone": "Eastern Time (US & Canada)",
+        "url": null,
+        "utc_offset": -18000,
+        "verified": false
+    }
+}

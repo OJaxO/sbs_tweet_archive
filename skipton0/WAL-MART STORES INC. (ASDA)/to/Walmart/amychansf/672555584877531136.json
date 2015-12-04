@@ -1,0 +1,136 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Dec 03 23:18:41 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 17137891,
+                "id_str": "17137891",
+                "indices": [
+                    0,
+                    8
+                ],
+                "name": "Walmart",
+                "screen_name": "Walmart"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 672555584877531136,
+    "id_str": "672555584877531136",
+    "in_reply_to_screen_name": "Walmart",
+    "in_reply_to_status_id": 672554839302344704,
+    "in_reply_to_status_id_str": "672554839302344704",
+    "in_reply_to_user_id": 17137891,
+    "in_reply_to_user_id_str": "17137891",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -122.514926,
+                        37.708075
+                    ],
+                    [
+                        -122.357031,
+                        37.708075
+                    ],
+                    [
+                        -122.357031,
+                        37.833238
+                    ],
+                    [
+                        -122.514926,
+                        37.833238
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "San Francisco, CA",
+        "id": "5a110d312052166f",
+        "name": "San Francisco",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/5a110d312052166f.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@Walmart called in 3-4 times.  Escalated to manager.  He says system did not allow for price adjustment &amp; Monday your price adjust was down.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Apr 05 22:54:40 +0000 2010",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "CONDUIT:  Strategic Business Development/ Investment",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "linkedin.com/in/amychansf",
+                        "expanded_url": "http://www.linkedin.com/in/amychansf",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/9THNbgkKRp"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 16,
+        "follow_request_sent": false,
+        "followers_count": 149,
+        "following": false,
+        "friends_count": 109,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 129962131,
+        "id_str": "129962131",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 9,
+        "location": "San Francisco",
+        "name": "Amy Chan",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1089284095/photo-cropped-2_normal.JPG",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1089284095/photo-cropped-2_normal.JPG",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "amychansf",
+        "statuses_count": 1730,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "http://t.co/9THNbgkKRp",
+        "utc_offset": -28800,
+        "verified": false
+    }
+}
