@@ -1,0 +1,176 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Dec 02 18:39:00 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "media": [
+            {
+                "display_url": "pic.twitter.com/HaZkh3b5Yn",
+                "expanded_url": "http://twitter.com/kaimci/status/672122812723798017/photo/1",
+                "id": 672122804985286656,
+                "id_str": "672122804985286656",
+                "indices": [
+                    64,
+                    87
+                ],
+                "media_url": "http://pbs.twimg.com/media/CVPcIUyWUAAJqZj.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/CVPcIUyWUAAJqZj.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 1024,
+                        "resize": "fit",
+                        "w": 576
+                    },
+                    "medium": {
+                        "h": 1024,
+                        "resize": "fit",
+                        "w": 576
+                    },
+                    "small": {
+                        "h": 604,
+                        "resize": "fit",
+                        "w": 340
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/HaZkh3b5Yn"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 18735040,
+                "id_str": "18735040",
+                "indices": [
+                    0,
+                    10
+                ],
+                "name": "Bank of America Help",
+                "screen_name": "BofA_Help"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 672122812723798017,
+    "id_str": "672122812723798017",
+    "in_reply_to_screen_name": "BofA_Help",
+    "in_reply_to_status_id": 672114881676595200,
+    "in_reply_to_status_id_str": "672114881676595200",
+    "in_reply_to_user_id": 18735040,
+    "in_reply_to_user_id_str": "18735040",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -71.053569,
+                        42.429752
+                    ],
+                    [
+                        -70.972136,
+                        42.429752
+                    ],
+                    [
+                        -70.972136,
+                        42.505195
+                    ],
+                    [
+                        -71.053569,
+                        42.505195
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Saugus, MA",
+        "id": "48ef19debe0f30ca",
+        "name": "Saugus",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/48ef19debe0f30ca.json"
+    },
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@BofA_Help no one answered, I got stuck on the automated system https://t.co/HaZkh3b5Yn",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Feb 20 02:52:35 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "boston bruins & music || 0108214",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "kmcisaac.myrandf.com",
+                        "expanded_url": "http://www.kmcisaac.myrandf.com",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/KUd9krOfcU"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 9087,
+        "follow_request_sent": false,
+        "followers_count": 459,
+        "following": false,
+        "friends_count": 259,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 254825950,
+        "id_str": "254825950",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 5,
+        "location": "Boston & NYC",
+        "name": "Kailyn \u26a1\ufe0f",
+        "notifications": false,
+        "profile_background_color": "FFFFFF",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000078877645/0013304eb3d651956c8d3a5b7f32321f.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000078877645/0013304eb3d651956c8d3a5b7f32321f.jpeg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/254825950/1448698410",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/670079535505924096/sryefP_Y_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/670079535505924096/sryefP_Y_normal.jpg",
+        "profile_link_color": "000000",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "C2C2C2",
+        "profile_text_color": "1C1A1C",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "kaimci",
+        "statuses_count": 21250,
+        "time_zone": "Eastern Time (US & Canada)",
+        "url": "https://t.co/KUd9krOfcU",
+        "utc_offset": -18000,
+        "verified": false
+    }
+}

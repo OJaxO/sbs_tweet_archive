@@ -1,0 +1,124 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Dec 03 07:07:45 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 18735040,
+                "id_str": "18735040",
+                "indices": [
+                    0,
+                    10
+                ],
+                "name": "Bank of America Help",
+                "screen_name": "BofA_Help"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 672311240752959488,
+    "id_str": "672311240752959488",
+    "in_reply_to_screen_name": "BofA_Help",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 18735040,
+    "in_reply_to_user_id_str": "18735040",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -122.218185,
+                        47.383184
+                    ],
+                    [
+                        -122.13336,
+                        47.383184
+                    ],
+                    [
+                        -122.13336,
+                        47.430697
+                    ],
+                    [
+                        -122.218185,
+                        47.430697
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "East Hill-Meridian, WA",
+        "id": "7f39273b739196ab",
+        "name": "East Hill-Meridian",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/7f39273b739196ab.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@BofA_Help have I mentioned how horrible the BofA app is? Seriously, a three old can come up with a better user interface.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Oct 26 03:28:58 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "The unflitered unadulterated thoughts of a University of Washington Graduate | Entrepreneur | Photographer| Foodie| #12thMan",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 549,
+        "follow_request_sent": false,
+        "followers_count": 204,
+        "following": false,
+        "friends_count": 797,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 398476684,
+        "id_str": "398476684",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 10,
+        "location": "Seattle, WA",
+        "name": "Alex Hoang\u2122",
+        "notifications": false,
+        "profile_background_color": "083E4F",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/398476684/1391732000",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/516755190289285120/t3GsG9fU_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/516755190289285120/t3GsG9fU_normal.jpeg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "HuskyGeek",
+        "statuses_count": 3095,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": null,
+        "utc_offset": -28800,
+        "verified": false
+    }
+}

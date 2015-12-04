@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Dec 02 21:40:41 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 18735040,
+                "id_str": "18735040",
+                "indices": [
+                    0,
+                    10
+                ],
+                "name": "Bank of America Help",
+                "screen_name": "BofA_Help"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 672168534504570880,
+    "id_str": "672168534504570880",
+    "in_reply_to_screen_name": "BofA_Help",
+    "in_reply_to_status_id": 672167447454220288,
+    "in_reply_to_status_id_str": "672167447454220288",
+    "in_reply_to_user_id": 18735040,
+    "in_reply_to_user_id_str": "18735040",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -74.519959,
+                        40.091951
+                    ],
+                    [
+                        -74.470995,
+                        40.091951
+                    ],
+                    [
+                        -74.470995,
+                        40.113362
+                    ],
+                    [
+                        -74.519959,
+                        40.113362
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Hornerstown, NJ",
+        "id": "011409635b43bb41",
+        "name": "Hornerstown",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/011409635b43bb41.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@BofA_Help I fixed it myself, thank you though",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Mar 25 16:17:20 +0000 2015",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "| I write things and sing things in @firedriveband | croc star | got a spooky ass connection with @thisisMILKY |",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "firedriveband.bandcamp.com/album/the-high\u2026",
+                        "expanded_url": "https://firedriveband.bandcamp.com/album/the-high-you-want-to-keep",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/W7CtK4Wnr2"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 390,
+        "follow_request_sent": false,
+        "followers_count": 233,
+        "following": false,
+        "friends_count": 152,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 3115217735,
+        "id_str": "3115217735",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 2,
+        "location": "",
+        "name": ".",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3115217735/1448142085",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/666080635359010816/CSMR8CF3_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/666080635359010816/CSMR8CF3_normal.jpg",
+        "profile_link_color": "881100",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "deIvney",
+        "statuses_count": 5072,
+        "time_zone": null,
+        "url": "https://t.co/W7CtK4Wnr2",
+        "utc_offset": null,
+        "verified": false
+    }
+}

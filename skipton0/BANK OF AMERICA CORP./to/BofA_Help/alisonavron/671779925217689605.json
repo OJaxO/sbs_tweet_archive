@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 01 19:56:29 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 18735040,
+                "id_str": "18735040",
+                "indices": [
+                    0,
+                    10
+                ],
+                "name": "Bank of America Help",
+                "screen_name": "BofA_Help"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 671779925217689605,
+    "id_str": "671779925217689605",
+    "in_reply_to_screen_name": "BofA_Help",
+    "in_reply_to_status_id": 671776633351720960,
+    "in_reply_to_status_id_str": "671776633351720960",
+    "in_reply_to_user_id": 18735040,
+    "in_reply_to_user_id_str": "18735040",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -73.451498,
+                        40.856283
+                    ],
+                    [
+                        -73.368152,
+                        40.856283
+                    ],
+                    [
+                        -73.368152,
+                        40.90724
+                    ],
+                    [
+                        -73.451498,
+                        40.90724
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Huntington, NY",
+        "id": "263ef7a73ddddb11",
+        "name": "Huntington",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/263ef7a73ddddb11.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@BofA_Help ok just done that now",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Mar 17 15:58:54 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "I write melodies for my feelings and sell performances (not pens) at The Newsagency in Sydney. Become my patron on Patreon! \u2199",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "patreon.com/alisonavron",
+                        "expanded_url": "http://www.patreon.com/alisonavron",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/OepK7GHcrm"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 928,
+        "follow_request_sent": false,
+        "followers_count": 689,
+        "following": false,
+        "friends_count": 594,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 24902699,
+        "id_str": "24902699",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 23,
+        "location": "Sydney, Australia",
+        "name": "Alison Avron",
+        "notifications": false,
+        "profile_background_color": "B2DFDA",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/24902699/1354105955",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/583943238362365953/mbl2RQ3G_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/583943238362365953/mbl2RQ3G_normal.jpg",
+        "profile_link_color": "93A644",
+        "profile_sidebar_border_color": "EEEEEE",
+        "profile_sidebar_fill_color": "FFFFFF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "alisonavron",
+        "statuses_count": 19259,
+        "time_zone": "Hawaii",
+        "url": "http://t.co/OepK7GHcrm",
+        "utc_offset": -36000,
+        "verified": false
+    }
+}
