@@ -1,0 +1,163 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Dec 03 02:10:45 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "media": [
+            {
+                "display_url": "pic.twitter.com/rpCNmXsKBn",
+                "expanded_url": "http://twitter.com/eraaay__/status/672236496892641280/photo/1",
+                "id": 672236494472486912,
+                "id_str": "672236494472486912",
+                "indices": [
+                    50,
+                    73
+                ],
+                "media_url": "http://pbs.twimg.com/media/CVRDh7IWIAAhq4v.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/CVRDh7IWIAAhq4v.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 1024,
+                        "resize": "fit",
+                        "w": 768
+                    },
+                    "medium": {
+                        "h": 800,
+                        "resize": "fit",
+                        "w": 600
+                    },
+                    "small": {
+                        "h": 453,
+                        "resize": "fit",
+                        "w": 340
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/rpCNmXsKBn"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 21454307,
+                "id_str": "21454307",
+                "indices": [
+                    0,
+                    13
+                ],
+                "name": "Netflix CS",
+                "screen_name": "Netflixhelps"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 672236496892641280,
+    "id_str": "672236496892641280",
+    "in_reply_to_screen_name": "Netflixhelps",
+    "in_reply_to_status_id": 672236239760793600,
+    "in_reply_to_status_id_str": "672236239760793600",
+    "in_reply_to_user_id": 21454307,
+    "in_reply_to_user_id_str": "21454307",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -88.097892,
+                        37.771743
+                    ],
+                    [
+                        -84.78458,
+                        37.771743
+                    ],
+                    [
+                        -84.78458,
+                        41.761368
+                    ],
+                    [
+                        -88.097892,
+                        41.761368
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Indiana, USA",
+        "id": "1010ecfa7d3a40f8",
+        "name": "Indiana",
+        "place_type": "admin",
+        "url": "https://api.twitter.com/1.1/geo/id/1010ecfa7d3a40f8.json"
+    },
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@Netflixhelps this has been popping up for months https://t.co/rpCNmXsKBn",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Apr 30 03:18:11 +0000 2014",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "a nocturnal, spastic, out-spoken, dreamy, free-spirited young lady",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 5470,
+        "follow_request_sent": false,
+        "followers_count": 733,
+        "following": false,
+        "friends_count": 507,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 2518171557,
+        "id_str": "2518171557",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 0,
+        "location": "Bloomington, USA",
+        "name": "ER",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2518171557/1447141156",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/672848685848535040/yZgzYTeG_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/672848685848535040/yZgzYTeG_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "eraaay__",
+        "statuses_count": 14941,
+        "time_zone": null,
+        "url": null,
+        "utc_offset": null,
+        "verified": false
+    }
+}

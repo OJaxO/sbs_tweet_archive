@@ -1,0 +1,132 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Dec 03 09:26:38 +0000 2015",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    43,
+                    50
+                ],
+                "text": "handig"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 21454307,
+                "id_str": "21454307",
+                "indices": [
+                    0,
+                    13
+                ],
+                "name": "Netflix CS",
+                "screen_name": "Netflixhelps"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 672346191686930432,
+    "id_str": "672346191686930432",
+    "in_reply_to_screen_name": "Netflixhelps",
+    "in_reply_to_status_id": 672342188127363072,
+    "in_reply_to_status_id_str": "672342188127363072",
+    "in_reply_to_user_id": 21454307,
+    "in_reply_to_user_id_str": "21454307",
+    "is_quote_status": false,
+    "lang": "nl",
+    "metadata": {
+        "iso_language_code": "nl",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        5.29827340905426,
+                        52.3034503062821
+                    ],
+                    [
+                        5.33266597652246,
+                        52.3034503062821
+                    ],
+                    [
+                        5.33266597652246,
+                        52.3230740724432
+                    ],
+                    [
+                        5.29827340905426,
+                        52.3230740724432
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "Nederland",
+        "country_code": "NL",
+        "full_name": "Stichtsekant, Almere",
+        "id": "034cb4ce4232db0e",
+        "name": "Stichtsekant",
+        "place_type": "neighborhood",
+        "url": "https://api.twitter.com/1.1/geo/id/034cb4ce4232db0e.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for i\u039fS</a>",
+    "text": "@Netflixhelps bedankt! Ik ben er blij mee! #handig",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Jan 13 14:51:10 +0000 2009",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Stranglers | Homey | Domotica |",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 23,
+        "follow_request_sent": false,
+        "followers_count": 116,
+        "following": false,
+        "friends_count": 138,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 18939799,
+        "id_str": "18939799",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 3,
+        "location": "Hillegom, Nederland",
+        "name": "Jeroen Daudeij",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/18939799/1421276212",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/2798361392/2a1c50aa82a7da43b2154eb94c2de9c4_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/2798361392/2a1c50aa82a7da43b2154eb94c2de9c4_normal.png",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "jovink",
+        "statuses_count": 4710,
+        "time_zone": "Amsterdam",
+        "url": null,
+        "utc_offset": 3600,
+        "verified": false
+    }
+}
