@@ -1,0 +1,134 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Dec 04 15:16:08 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 783214,
+                "id_str": "783214",
+                "indices": [
+                    0,
+                    8
+                ],
+                "name": "Twitter",
+                "screen_name": "twitter"
+            },
+            {
+                "id": 17874544,
+                "id_str": "17874544",
+                "indices": [
+                    9,
+                    17
+                ],
+                "name": "Twitter Support",
+                "screen_name": "Support"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 672796533524471809,
+    "id_str": "672796533524471809",
+    "in_reply_to_screen_name": "twitter",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 783214,
+    "in_reply_to_user_id_str": "783214",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -82.620093,
+                        27.821353
+                    ],
+                    [
+                        -82.2652945,
+                        27.821353
+                    ],
+                    [
+                        -82.2652945,
+                        28.171836
+                    ],
+                    [
+                        -82.620093,
+                        28.171836
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Tampa, FL",
+        "id": "dc62519fda13b4ec",
+        "name": "Tampa",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/dc62519fda13b4ec.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@twitter @Support not only is the \"tweet\" button missing, but so is the \"follow/unfollow\" button - what gives?",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Apr 30 02:20:10 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Redhead. Realist. Rocker. Ridiculous. Shenanigator. Wholocked. Dedicated follower of fashion. Rants, raves, and rebel yells...from the Right",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 11767,
+        "follow_request_sent": false,
+        "followers_count": 183,
+        "following": false,
+        "friends_count": 254,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 36565815,
+        "id_str": "36565815",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 6,
+        "location": "HOTTERNHADES TX",
+        "name": "RedsWhinez",
+        "notifications": false,
+        "profile_background_color": "FFFFFF",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/311589370/322656932_6b15968a04_o.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/311589370/322656932_6b15968a04_o.jpg",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/36565815/1399216815",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/527852583667245056/1lmmy9XV_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/527852583667245056/1lmmy9XV_normal.jpeg",
+        "profile_link_color": "0011FF",
+        "profile_sidebar_border_color": "F5390A",
+        "profile_sidebar_fill_color": "AFDCE0",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "redswhinez",
+        "statuses_count": 12074,
+        "time_zone": "Central Time (US & Canada)",
+        "url": null,
+        "utc_offset": -21600,
+        "verified": false
+    }
+}

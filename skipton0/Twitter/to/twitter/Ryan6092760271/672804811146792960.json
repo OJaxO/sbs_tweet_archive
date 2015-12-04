@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Dec 04 15:49:01 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 783214,
+                "id_str": "783214",
+                "indices": [
+                    0,
+                    8
+                ],
+                "name": "Twitter",
+                "screen_name": "twitter"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 672804811146792960,
+    "id_str": "672804811146792960",
+    "in_reply_to_screen_name": "twitter",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 783214,
+    "in_reply_to_user_id_str": "783214",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -74.223558,
+                        39.809802
+                    ],
+                    [
+                        -74.143,
+                        39.809802
+                    ],
+                    [
+                        -74.143,
+                        39.879125
+                    ],
+                    [
+                        -74.223558,
+                        39.879125
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Forked River, NJ",
+        "id": "00d88eb470b73bd2",
+        "name": "Forked River",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/00d88eb470b73bd2.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@twitter any way I can change my Twitter handle?",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Mar 31 05:06:32 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "NJ CPS worker. Borgata regular live/online poker player- AcPoker0271 attempting win at Draftkings. offers advice on above",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "pocketfives.com/articles/heads\u2026",
+                        "expanded_url": "http://www.pocketfives.com/articles/heads-up-new-jersey-poker-player-ryan-lee-acpoker0271-591118/",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/qDZuAAevSp"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 413,
+        "follow_request_sent": false,
+        "followers_count": 172,
+        "following": false,
+        "friends_count": 232,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 27818644,
+        "id_str": "27818644",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 7,
+        "location": "Lanoka Harbor, NJ",
+        "name": "Ryan lee",
+        "notifications": false,
+        "profile_background_color": "FFFFFF",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/241196151/Pokerr.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/241196151/Pokerr.jpg",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/27818644/1426600398",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/576593823393943553/C-DGyg9Z_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/576593823393943553/C-DGyg9Z_normal.jpeg",
+        "profile_link_color": "89C9FA",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Ryan6092760271",
+        "statuses_count": 3172,
+        "time_zone": "Eastern Time (US & Canada)",
+        "url": "https://t.co/qDZuAAevSp",
+        "utc_offset": -18000,
+        "verified": false
+    }
+}

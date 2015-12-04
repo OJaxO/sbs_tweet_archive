@@ -1,0 +1,304 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Dec 04 15:26:14 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/Xerox/status/6\u2026",
+                "expanded_url": "https://twitter.com/Xerox/status/656531480823246848",
+                "indices": [
+                    83,
+                    106
+                ],
+                "url": "https://t.co/RTQ9O9BP6m"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 783214,
+                "id_str": "783214",
+                "indices": [
+                    0,
+                    8
+                ],
+                "name": "Twitter",
+                "screen_name": "twitter"
+            },
+            {
+                "id": 58511926,
+                "id_str": "58511926",
+                "indices": [
+                    53,
+                    67
+                ],
+                "name": "NYU Game Center",
+                "screen_name": "NYUGameCenter"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 672799077910896640,
+    "id_str": "672799077910896640",
+    "in_reply_to_screen_name": "twitter",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 783214,
+    "in_reply_to_user_id_str": "783214",
+    "is_quote_status": true,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -74.026675,
+                        40.683935
+                    ],
+                    [
+                        -73.910408,
+                        40.683935
+                    ],
+                    [
+                        -73.910408,
+                        40.877483
+                    ],
+                    [
+                        -74.026675,
+                        40.877483
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Manhattan, NY",
+        "id": "01a9a39529b27f36",
+        "name": "Manhattan",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/01a9a39529b27f36.json"
+    },
+    "possibly_sensitive": false,
+    "quoted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Tue Oct 20 18:04:37 +0000 2015",
+        "entities": {
+            "hashtags": [],
+            "media": [
+                {
+                    "display_url": "pic.twitter.com/6p0XJ8IY5m",
+                    "expanded_url": "http://twitter.com/Xerox/status/656531480823246848/photo/1",
+                    "id": 656531455019843584,
+                    "id_str": "656531455019843584",
+                    "indices": [
+                        84,
+                        107
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/CRx34UBUAAAxjIh.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/CRx34UBUAAAxjIh.jpg",
+                    "sizes": {
+                        "large": {
+                            "h": 512,
+                            "resize": "fit",
+                            "w": 1024
+                        },
+                        "medium": {
+                            "h": 300,
+                            "resize": "fit",
+                            "w": 600
+                        },
+                        "small": {
+                            "h": 170,
+                            "resize": "fit",
+                            "w": 340
+                        },
+                        "thumb": {
+                            "h": 150,
+                            "resize": "crop",
+                            "w": 150
+                        }
+                    },
+                    "type": "photo",
+                    "url": "https://t.co/6p0XJ8IY5m"
+                }
+            ],
+            "symbols": [],
+            "urls": [
+                {
+                    "display_url": "xerox.bz/1Qbvhc2",
+                    "expanded_url": "http://xerox.bz/1Qbvhc2",
+                    "indices": [
+                        60,
+                        83
+                    ],
+                    "url": "https://t.co/jGebvfKumH"
+                }
+            ],
+            "user_mentions": []
+        },
+        "favorite_count": 421,
+        "favorited": false,
+        "geo": null,
+        "id": 656531480823246848,
+        "id_str": "656531480823246848",
+        "in_reply_to_screen_name": null,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "is_quote_status": false,
+        "lang": "en",
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "place": null,
+        "possibly_sensitive": false,
+        "retweet_count": 315,
+        "retweeted": false,
+        "scopes": {
+            "followers": false
+        },
+        "source": "<a href=\"https://ads.twitter.com\" rel=\"nofollow\">Twitter Ads</a>",
+        "text": "These 50 posters rocked the world - which is your favorite? https://t.co/jGebvfKumH https://t.co/6p0XJ8IY5m",
+        "truncated": false,
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Tue Aug 26 02:33:30 +0000 2008",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "We help organizations of all sizes work better. Join the conversation at #WorkingBetter.",
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "xerox.com",
+                            "expanded_url": "http://www.xerox.com",
+                            "indices": [
+                                0,
+                                22
+                            ],
+                            "url": "http://t.co/lvSrfHhpbE"
+                        }
+                    ]
+                }
+            },
+            "favourites_count": 1012,
+            "follow_request_sent": false,
+            "followers_count": 198333,
+            "following": false,
+            "friends_count": 1579,
+            "geo_enabled": true,
+            "has_extended_profile": false,
+            "id": 15991258,
+            "id_str": "15991258",
+            "is_translation_enabled": false,
+            "is_translator": false,
+            "lang": "en",
+            "listed_count": 1258,
+            "location": "Norwalk, CT",
+            "name": "Xerox",
+            "notifications": false,
+            "profile_background_color": "E89C23",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000124170864/4c0d8a898128ecaf1c46e334a6e2944d.jpeg",
+            "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000124170864/4c0d8a898128ecaf1c46e334a6e2944d.jpeg",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/15991258/1396964122",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/637004462930792448/6Ft__ds4_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/637004462930792448/6Ft__ds4_normal.jpg",
+            "profile_link_color": "D9232F",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "FFFFFF",
+            "profile_text_color": "000000",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "Xerox",
+            "statuses_count": 18528,
+            "time_zone": "Eastern Time (US & Canada)",
+            "url": "http://t.co/lvSrfHhpbE",
+            "utc_offset": -18000,
+            "verified": true
+        }
+    },
+    "quoted_status_id": 656531480823246848,
+    "quoted_status_id_str": "656531480823246848",
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@twitter am I seeing this promotion because I follow @NYUGameCenter by any chance? https://t.co/RTQ9O9BP6m",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri May 28 20:04:16 +0000 2010",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Identification Code: Unidentified\r\n7XL: Not yet invented",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "youtube.com/watch?v=tjKHQe\u2026",
+                        "expanded_url": "http://www.youtube.com/watch?v=tjKHQeRSvjk",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/QDmdyvilSr"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 118,
+        "follow_request_sent": false,
+        "followers_count": 57,
+        "following": false,
+        "friends_count": 56,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 149243840,
+        "id_str": "149243840",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 2,
+        "location": "New York & California",
+        "name": "Jonathan Ogilvy",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1299671180/photo_normal.JPG",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1299671180/photo_normal.JPG",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "KapoStrano",
+        "statuses_count": 461,
+        "time_zone": null,
+        "url": "http://t.co/QDmdyvilSr",
+        "utc_offset": null,
+        "verified": false
+    }
+}

@@ -1,0 +1,145 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Dec 04 14:34:01 +0000 2015",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    73,
+                    85
+                ],
+                "text": "twitterhelp"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 783214,
+                "id_str": "783214",
+                "indices": [
+                    0,
+                    8
+                ],
+                "name": "Twitter",
+                "screen_name": "twitter"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 672785937567387650,
+    "id_str": "672785937567387650",
+    "in_reply_to_screen_name": "twitter",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 783214,
+    "in_reply_to_user_id_str": "783214",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -106.645646,
+                        25.837092
+                    ],
+                    [
+                        -93.508131,
+                        25.837092
+                    ],
+                    [
+                        -93.508131,
+                        36.500695
+                    ],
+                    [
+                        -106.645646,
+                        36.500695
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Texas, USA",
+        "id": "e0060cda70f5f341",
+        "name": "Texas",
+        "place_type": "admin",
+        "url": "https://api.twitter.com/1.1/geo/id/e0060cda70f5f341.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@twitter How do you get off a list someone you don't know added you to?  #twitterhelp",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Jun 08 02:22:55 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Technical Stock Chart Trader.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "Tradingwiththeaveragejay.blogspot.com",
+                        "expanded_url": "http://Tradingwiththeaveragejay.blogspot.com/",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/pLOTnUBMP1"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 2525,
+        "follow_request_sent": false,
+        "followers_count": 261,
+        "following": false,
+        "friends_count": 112,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 153253704,
+        "id_str": "153253704",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 12,
+        "location": "Texas",
+        "name": "JayTheTrader",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000168006309/Jp4yNBG7.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000168006309/Jp4yNBG7.jpeg",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/153253704/1447693068",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/666299137755746304/MI1baGcg_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/666299137755746304/MI1baGcg_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "FFFFFF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "JaytheTrader",
+        "statuses_count": 4380,
+        "time_zone": "Central Time (US & Canada)",
+        "url": "https://t.co/pLOTnUBMP1",
+        "utc_offset": -21600,
+        "verified": false
+    }
+}

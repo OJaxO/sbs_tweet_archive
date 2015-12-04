@@ -1,0 +1,217 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Dec 04 14:17:12 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/benevolent_lio\u2026",
+                "expanded_url": "https://twitter.com/benevolent_lion/status/672764034081529857",
+                "indices": [
+                    19,
+                    42
+                ],
+                "url": "https://t.co/9nbvHmk3iE"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 783214,
+                "id_str": "783214",
+                "indices": [
+                    0,
+                    8
+                ],
+                "name": "Twitter",
+                "screen_name": "twitter"
+            }
+        ]
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": null,
+    "id": 672781704868794369,
+    "id_str": "672781704868794369",
+    "in_reply_to_screen_name": "twitter",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 783214,
+    "in_reply_to_user_id_str": "783214",
+    "is_quote_status": true,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": null,
+    "possibly_sensitive": false,
+    "quoted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Fri Dec 04 13:06:59 +0000 2015",
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "urls": [],
+            "user_mentions": []
+        },
+        "favorite_count": 1,
+        "favorited": false,
+        "geo": null,
+        "id": 672764034081529857,
+        "id_str": "672764034081529857",
+        "in_reply_to_screen_name": null,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "is_quote_status": false,
+        "lang": "en",
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "place": {
+            "attributes": {},
+            "bounding_box": {
+                "coordinates": [
+                    [
+                        [
+                            -82.971635,
+                            40.0804313
+                        ],
+                        [
+                            -82.857441,
+                            40.0804313
+                        ],
+                        [
+                            -82.857441,
+                            40.217545
+                        ],
+                        [
+                            -82.971635,
+                            40.217545
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "contained_within": [],
+            "country": "United States",
+            "country_code": "US",
+            "full_name": "Westerville, OH",
+            "id": "00ebe84c07a75e81",
+            "name": "Westerville",
+            "place_type": "city",
+            "url": "https://api.twitter.com/1.1/geo/id/00ebe84c07a75e81.json"
+        },
+        "retweet_count": 2,
+        "retweeted": false,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "Dear Twitter let me save gifs.",
+        "truncated": false,
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Sun Dec 15 16:00:16 +0000 2013",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "Co17. Actor, Pianist. Ima build my own Ship someday.- Me.",
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "favourites_count": 11413,
+            "follow_request_sent": false,
+            "followers_count": 630,
+            "following": false,
+            "friends_count": 582,
+            "geo_enabled": true,
+            "has_extended_profile": false,
+            "id": 2247415747,
+            "id_str": "2247415747",
+            "is_translation_enabled": false,
+            "is_translator": false,
+            "lang": "en",
+            "listed_count": 3,
+            "location": "Gotham City",
+            "name": "Sosa Ray Charles",
+            "notifications": false,
+            "profile_background_color": "131516",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/2247415747/1446229207",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/668249365014802432/hICRPqgX_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/668249365014802432/hICRPqgX_normal.jpg",
+            "profile_link_color": "009999",
+            "profile_sidebar_border_color": "EEEEEE",
+            "profile_sidebar_fill_color": "EFEFEF",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "Benevolent_Lion",
+            "statuses_count": 12558,
+            "time_zone": "Pacific Time (US & Canada)",
+            "url": null,
+            "utc_offset": -28800,
+            "verified": false
+        }
+    },
+    "quoted_status_id": 672764034081529857,
+    "quoted_status_id_str": "672764034081529857",
+    "retweet_count": 1,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@twitter yeah bruh https://t.co/9nbvHmk3iE",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Jan 24 02:32:50 +0000 2012",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "I want to do hoodrat stuff with my friends",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 22497,
+        "follow_request_sent": false,
+        "followers_count": 1805,
+        "following": false,
+        "friends_count": 790,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 472564587,
+        "id_str": "472564587",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 14,
+        "location": "riding the moon",
+        "name": "i need $$$",
+        "notifications": false,
+        "profile_background_color": "080808",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/486614294545432576/UfswNlyW.png",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/486614294545432576/UfswNlyW.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/472564587/1443061522",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/669027846539583488/oHxLy035_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/669027846539583488/oHxLy035_normal.jpg",
+        "profile_link_color": "0A0801",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "6AAACC",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "kayydiggs_",
+        "statuses_count": 92995,
+        "time_zone": "Eastern Time (US & Canada)",
+        "url": null,
+        "utc_offset": -18000,
+        "verified": false
+    }
+}

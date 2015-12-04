@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Dec 04 14:25:12 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 783214,
+                "id_str": "783214",
+                "indices": [
+                    0,
+                    8
+                ],
+                "name": "Twitter",
+                "screen_name": "twitter"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 672783717727936513,
+    "id_str": "672783717727936513",
+    "in_reply_to_screen_name": "twitter",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 783214,
+    "in_reply_to_user_id_str": "783214",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -75.168425,
+                        39.679348
+                    ],
+                    [
+                        -75.081224,
+                        39.679348
+                    ],
+                    [
+                        -75.081224,
+                        39.73751
+                    ],
+                    [
+                        -75.168425,
+                        39.73751
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Glassboro, NJ",
+        "id": "55352b8c5e28010f",
+        "name": "Glassboro",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/55352b8c5e28010f.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@Twitter we need an edit button ASAP",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Sep 26 04:46:10 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "#BoltUp #OKC",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "BornDifferentClothing.bigcartel.com",
+                        "expanded_url": "http://www.BornDifferentClothing.bigcartel.com",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/wEdwmc8arV"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 537,
+        "follow_request_sent": false,
+        "followers_count": 452,
+        "following": false,
+        "friends_count": 253,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 380150308,
+        "id_str": "380150308",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 1,
+        "location": "Rowan University",
+        "name": "Izzy",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/464570248763432960/b7Ux-cql.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/464570248763432960/b7Ux-cql.jpeg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/380150308/1421932453",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/655895510411313152/LUgpFtDG_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/655895510411313152/LUgpFtDG_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "IzayahDoubleYou",
+        "statuses_count": 20345,
+        "time_zone": "Eastern Time (US & Canada)",
+        "url": "https://t.co/wEdwmc8arV",
+        "utc_offset": -18000,
+        "verified": false
+    }
+}

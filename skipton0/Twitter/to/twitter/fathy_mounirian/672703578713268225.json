@@ -1,0 +1,241 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Dec 04 09:06:46 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/Oum_Kulthum/st\u2026",
+                "expanded_url": "https://twitter.com/Oum_Kulthum/status/672703220683309056",
+                "indices": [
+                    50,
+                    73
+                ],
+                "url": "https://t.co/Bh3bJpVmEe"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 783214,
+                "id_str": "783214",
+                "indices": [
+                    0,
+                    8
+                ],
+                "name": "Twitter",
+                "screen_name": "twitter"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 672703578713268225,
+    "id_str": "672703578713268225",
+    "in_reply_to_screen_name": "twitter",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 783214,
+    "in_reply_to_user_id_str": "783214",
+    "is_quote_status": true,
+    "lang": "ar",
+    "metadata": {
+        "iso_language_code": "ar",
+        "result_type": "recent"
+    },
+    "place": null,
+    "possibly_sensitive": false,
+    "quoted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Fri Dec 04 09:05:20 +0000 2015",
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "id": 783214,
+                    "id_str": "783214",
+                    "indices": [
+                        13,
+                        21
+                    ],
+                    "name": "Twitter",
+                    "screen_name": "twitter"
+                }
+            ]
+        },
+        "favorite_count": 160,
+        "favorited": false,
+        "geo": null,
+        "id": 672703220683309056,
+        "id_str": "672703220683309056",
+        "in_reply_to_screen_name": null,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "is_quote_status": false,
+        "lang": "ar",
+        "metadata": {
+            "iso_language_code": "ar",
+            "result_type": "recent"
+        },
+        "place": {
+            "attributes": {},
+            "bounding_box": {
+                "coordinates": [
+                    [
+                        [
+                            32.6090927,
+                            27.723538
+                        ],
+                        [
+                            34.9036168,
+                            27.723538
+                        ],
+                        [
+                            34.9036168,
+                            29.9494465
+                        ],
+                        [
+                            32.6090927,
+                            29.9494465
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "contained_within": [],
+            "country": "\u0645\u0635\u0631",
+            "country_code": "EG",
+            "full_name": "South Sinai, Egypt",
+            "id": "0059d5d735b78b94",
+            "name": "South Sinai",
+            "place_type": "admin",
+            "url": "https://api.twitter.com/1.1/geo/id/0059d5d735b78b94.json"
+        },
+        "retweet_count": 173,
+        "retweeted": false,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "\u0627\u0646\u0627 \u0628\u0637\u0627\u0644\u0628 \u0627\u0646 @twitter \u064a\u0639\u0645\u0644 Edit tweet \u0628\u0642\u064a \u0639\u0634\u0627\u0646 \u0644\u0645\u0627 \u0646\u0643\u062a\u0628 \u062d\u0631\u0641 \u063a\u0644\u0637 \u0646\u0635\u0644\u062d\u0647 \u0628\u062f\u0644 \u0627\u0644\u0627\u062d\u0628\u0627\u0637 \u062f\u0647 !",
+        "truncated": false,
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Mon Mar 30 16:50:25 +0000 2015",
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "We have no other branches, Check my likes if you wanna laugh.",
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "OumKulthoum.com",
+                            "expanded_url": "http://Www.OumKulthoum.com",
+                            "indices": [
+                                0,
+                                23
+                            ],
+                            "url": "https://t.co/vdzU3maRQs"
+                        }
+                    ]
+                }
+            },
+            "favourites_count": 156,
+            "follow_request_sent": false,
+            "followers_count": 34040,
+            "following": false,
+            "friends_count": 0,
+            "geo_enabled": true,
+            "has_extended_profile": true,
+            "id": 3129408047,
+            "id_str": "3129408047",
+            "is_translation_enabled": false,
+            "is_translator": false,
+            "lang": "en",
+            "listed_count": 49,
+            "location": "Egypt",
+            "name": "\u0623\u064f\u0645 \u0643\u064e\u0644\u062b\u0648\u0645",
+            "notifications": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/3129408047/1447044802",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/672046488609038336/ym0VfiMM_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/672046488609038336/ym0VfiMM_normal.jpg",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "Oum_Kulthum",
+            "statuses_count": 4092,
+            "time_zone": null,
+            "url": "https://t.co/vdzU3maRQs",
+            "utc_offset": null,
+            "verified": false
+        }
+    },
+    "quoted_status_id": 672703220683309056,
+    "quoted_status_id_str": "672703220683309056",
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@twitter  \u0644\u0627\u0632\u0645 \u064a\u0633\u062a\u062c\u064a\u0628 \u0644\u0631\u063a\u0628\u0629 \u0648\u0645\u0637\u0627\u0644\u0628 \u0643\u0648\u0643\u0628 \u0627\u0644\u0634\u0631\u0642 \u270b\ud83d\ude02\ud83d\ude02 https://t.co/Bh3bJpVmEe",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Dec 01 11:09:00 +0000 2011",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "\u0647\u0646\u062f\u0633\u0629 \u0648\u0631\u0628\u0646\u0627 \u064a\u0633\u062a\u0631 \u0628\u0642\u0649 :( \n\n\u062e\u0634 \u0628\u0631\u062c\u0644\u0643 \u0627\u0644\u064a\u0645\u064a\u0646 \u0648\u0635\u0644\u064a \u0639\u0644\u064a \u0627\u0644\u0646\u0628\u064a \u2764 \n\u0641\u0648\u0644\u0648 \u0628\u0627\u0643 ... \u0644\u0627\u064a\u0641 \u0627\u0633\u062a\u0627\u064a\u0644 \u270b",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 34,
+        "follow_request_sent": false,
+        "followers_count": 109,
+        "following": false,
+        "friends_count": 162,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 425738838,
+        "id_str": "425738838",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 0,
+        "location": "tanta",
+        "name": "\u0627\u0644\u0645\u0634 \u0645\u0647\u0646\u062f\u0633",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/425738838/1448277912",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/663447629045612544/pyy-A43Q_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/663447629045612544/pyy-A43Q_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "fathy_mounirian",
+        "statuses_count": 695,
+        "time_zone": "Cairo",
+        "url": null,
+        "utc_offset": 7200,
+        "verified": false
+    }
+}

@@ -1,0 +1,147 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Dec 04 08:34:03 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 783214,
+                "id_str": "783214",
+                "indices": [
+                    0,
+                    8
+                ],
+                "name": "Twitter",
+                "screen_name": "twitter"
+            },
+            {
+                "id": 25215429,
+                "id_str": "25215429",
+                "indices": [
+                    33,
+                    40
+                ],
+                "name": "Renzo Dessanti",
+                "screen_name": "RenzoD"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 672695346242256896,
+    "id_str": "672695346242256896",
+    "in_reply_to_screen_name": "twitter",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 783214,
+    "in_reply_to_user_id_str": "783214",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -111.759345,
+                        40.2563345
+                    ],
+                    [
+                        -111.633592,
+                        40.2563345
+                    ],
+                    [
+                        -111.633592,
+                        40.333892
+                    ],
+                    [
+                        -111.759345,
+                        40.333892
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Orem, UT",
+        "id": "2b7c3f70fbcee536",
+        "name": "Orem",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/2b7c3f70fbcee536.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@Twitter please kill the account @RenzoD so I can take over the name. Hasn't been used in years. Please!",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Apr 04 20:42:02 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "#Mma #mediocreshow #punchdrunksports",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "punchdrunksports.com",
+                        "expanded_url": "http://punchdrunksports.com",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/I4FaAzaPmC"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 3601,
+        "follow_request_sent": false,
+        "followers_count": 330,
+        "following": false,
+        "friends_count": 779,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 28866452,
+        "id_str": "28866452",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 10,
+        "location": "Utah ",
+        "name": "Zo D",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/431909489696976896/NqHiuMAP.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/431909489696976896/NqHiuMAP.jpeg",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/28866452/1449223973",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/672720035706638337/zRH68_8A_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/672720035706638337/zRH68_8A_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "renzo_d",
+        "statuses_count": 13164,
+        "time_zone": "Mountain Time (US & Canada)",
+        "url": "http://t.co/I4FaAzaPmC",
+        "utc_offset": -25200,
+        "verified": false
+    }
+}

@@ -1,0 +1,123 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Dec 04 15:54:24 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 783214,
+                "id_str": "783214",
+                "indices": [
+                    0,
+                    8
+                ],
+                "name": "Twitter",
+                "screen_name": "twitter"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 672806163004579840,
+    "id_str": "672806163004579840",
+    "in_reply_to_screen_name": "twitter",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 783214,
+    "in_reply_to_user_id_str": "783214",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -96.495323,
+                        32.864021
+                    ],
+                    [
+                        -96.35829,
+                        32.864021
+                    ],
+                    [
+                        -96.35829,
+                        32.977061
+                    ],
+                    [
+                        -96.495323,
+                        32.977061
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Rockwall, TX",
+        "id": "14b7e6a78837521a",
+        "name": "Rockwall",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/14b7e6a78837521a.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@twitter How do I update my account? Change PW if desired also?",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Mar 24 23:34:53 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Married 31yrs Devoted Christian, Proud TxTech Red Raider Cons, Tea Party, & Socially. Coach, Teacher 12yr & Bus Owner 20yrs Creationist, 1 BS & 2 Masters Honors",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 1113,
+        "follow_request_sent": false,
+        "followers_count": 771,
+        "following": false,
+        "friends_count": 1995,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 26357999,
+        "id_str": "26357999",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 41,
+        "location": "Rockwall, TX",
+        "name": "@ttechsan",
+        "notifications": false,
+        "profile_background_color": "0099B9",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/3175639111/4d6a4ea028931e84b54db15661de7441_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/3175639111/4d6a4ea028931e84b54db15661de7441_normal.jpeg",
+        "profile_link_color": "0099B9",
+        "profile_sidebar_border_color": "5ED4DC",
+        "profile_sidebar_fill_color": "95E8EC",
+        "profile_text_color": "3C3940",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "ttechsan",
+        "statuses_count": 32418,
+        "time_zone": "America/Chicago",
+        "url": null,
+        "utc_offset": -21600,
+        "verified": false
+    }
+}
