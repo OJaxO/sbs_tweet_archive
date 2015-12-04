@@ -1,0 +1,134 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 01 21:11:02 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 17043413,
+                "id_str": "17043413",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "TalkTalk",
+                "screen_name": "TalkTalk_UK"
+            },
+            {
+                "id": 258719649,
+                "id_str": "258719649",
+                "indices": [
+                    13,
+                    26
+                ],
+                "name": "TalkTalk",
+                "screen_name": "TalkTalkCare"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 671798683780952065,
+    "id_str": "671798683780952065",
+    "in_reply_to_screen_name": "TalkTalk_UK",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 17043413,
+    "in_reply_to_user_id_str": "17043413",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -0.457966,
+                        51.420633
+                    ],
+                    [
+                        -0.243419,
+                        51.420633
+                    ],
+                    [
+                        -0.243419,
+                        51.502851
+                    ],
+                    [
+                        -0.457966,
+                        51.502851
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United Kingdom",
+        "country_code": "GB",
+        "full_name": "Hounslow, London",
+        "id": "0b30aadf406d13cc",
+        "name": "Hounslow",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/0b30aadf406d13cc.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@TalkTalk_UK @TalkTalkCare, Spoke with a senior manager at fault department for half an hour, she doesn't have any engineer till next Monday",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Mar 30 10:43:12 +0000 2012",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "SYN-PAY/SYNROLE; Accounts Manager in Synergy Accountancy; Accounts Manager in Harley Street Accountants.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 3,
+        "follow_request_sent": false,
+        "followers_count": 59,
+        "following": false,
+        "friends_count": 187,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 540799401,
+        "id_str": "540799401",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 1,
+        "location": "Mayfair, London",
+        "name": "Bishesh Guragain",
+        "notifications": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/540799401/1441198428",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/600419550849564673/ah18YCRu_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/600419550849564673/ah18YCRu_normal.jpg",
+        "profile_link_color": "009999",
+        "profile_sidebar_border_color": "EEEEEE",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "bisheshg",
+        "statuses_count": 93,
+        "time_zone": "London",
+        "url": null,
+        "utc_offset": 0,
+        "verified": false
+    }
+}

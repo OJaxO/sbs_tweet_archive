@@ -1,0 +1,155 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Dec 04 00:38:55 +0000 2015",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    118,
+                    126
+                ],
+                "text": "NotCool"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 17043413,
+                "id_str": "17043413",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "TalkTalk",
+                "screen_name": "TalkTalk_UK"
+            },
+            {
+                "id": 258719649,
+                "id_str": "258719649",
+                "indices": [
+                    13,
+                    26
+                ],
+                "name": "TalkTalk",
+                "screen_name": "TalkTalkCare"
+            }
+        ]
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": null,
+    "id": 672575776064188417,
+    "id_str": "672575776064188417",
+    "in_reply_to_screen_name": "TalkTalk_UK",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 17043413,
+    "in_reply_to_user_id_str": "17043413",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -4.694579,
+                        55.590869
+                    ],
+                    [
+                        -4.607557,
+                        55.590869
+                    ],
+                    [
+                        -4.607557,
+                        55.639361
+                    ],
+                    [
+                        -4.694579,
+                        55.639361
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United Kingdom",
+        "country_code": "GB",
+        "full_name": "Irvine, Scotland",
+        "id": "07dc23aab2d02f8b",
+        "name": "Irvine",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/07dc23aab2d02f8b.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@TalkTalk_UK @TalkTalkCare Why is you're network not responding to Facebook? I don't want to use my data in the house #NotCool",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Jun 26 15:48:15 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "#CelticFamily",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "facebook.com/hammycfc",
+                        "expanded_url": "https://www.facebook.com/hammycfc",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/mnFIclheXf"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 703,
+        "follow_request_sent": false,
+        "followers_count": 2825,
+        "following": false,
+        "friends_count": 2725,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 51107145,
+        "id_str": "51107145",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 24,
+        "location": "Irvine ",
+        "name": "Chris Hamilton",
+        "notifications": false,
+        "profile_background_color": "7AD13D",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/568868638/5uxemp17sqiybm2kr44u.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/568868638/5uxemp17sqiybm2kr44u.jpeg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/51107145/1403811530",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/602976364623462400/Qn6O0ZMw_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/602976364623462400/Qn6O0ZMw_normal.jpg",
+        "profile_link_color": "00D142",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "95E8EC",
+        "profile_text_color": "3C3940",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "hammycfc",
+        "statuses_count": 29154,
+        "time_zone": "London",
+        "url": "https://t.co/mnFIclheXf",
+        "utc_offset": 0,
+        "verified": false
+    }
+}
