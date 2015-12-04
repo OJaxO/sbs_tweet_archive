@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 01 07:39:32 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 75691804,
+                "id_str": "75691804",
+                "indices": [
+                    0,
+                    15
+                ],
+                "name": "Microsoft Support",
+                "screen_name": "MicrosoftHelps"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 671594463739977728,
+    "id_str": "671594463739977728",
+    "in_reply_to_screen_name": "MicrosoftHelps",
+    "in_reply_to_status_id": 671529008312512512,
+    "in_reply_to_status_id_str": "671529008312512512",
+    "in_reply_to_user_id": 75691804,
+    "in_reply_to_user_id_str": "75691804",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        12.3885394,
+                        55.9759201
+                    ],
+                    [
+                        12.6244478,
+                        55.9759201
+                    ],
+                    [
+                        12.6244478,
+                        56.0965324
+                    ],
+                    [
+                        12.3885394,
+                        56.0965324
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "Danmark",
+        "country_code": "DK",
+        "full_name": "Helsing\u00f8r, Hovedstaden",
+        "id": "f0d76775837c5f61",
+        "name": "Helsing\u00f8r",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/f0d76775837c5f61.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@MicrosoftHelps more then 6 times! And I.get nothing out of this!",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Jan 24 21:31:46 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Underground gamer and computer geek.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "youtube.com/jjakajonas",
+                        "expanded_url": "http://youtube.com/jjakajonas",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/xnLF9RpNQq"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 78,
+        "follow_request_sent": false,
+        "followers_count": 53,
+        "following": false,
+        "friends_count": 384,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 242472177,
+        "id_str": "242472177",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "da",
+        "listed_count": 1,
+        "location": "Helsing\u00f8r, Denmark",
+        "name": "Jonas Carlsen",
+        "notifications": false,
+        "profile_background_color": "642D8B",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/242472177/1383127359",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/624348565331009536/iD5_9o5r_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/624348565331009536/iD5_9o5r_normal.jpg",
+        "profile_link_color": "FF0000",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "7AC3EE",
+        "profile_text_color": "3D1957",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "jjakajonas",
+        "statuses_count": 1268,
+        "time_zone": "Copenhagen",
+        "url": "http://t.co/xnLF9RpNQq",
+        "utc_offset": 3600,
+        "verified": false
+    }
+}

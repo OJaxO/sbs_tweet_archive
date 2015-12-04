@@ -1,0 +1,124 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Dec 03 05:32:18 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 75691804,
+                "id_str": "75691804",
+                "indices": [
+                    0,
+                    15
+                ],
+                "name": "Microsoft Support",
+                "screen_name": "MicrosoftHelps"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 672287220179402752,
+    "id_str": "672287220179402752",
+    "in_reply_to_screen_name": "MicrosoftHelps",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 75691804,
+    "in_reply_to_user_id_str": "75691804",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -93.329148,
+                        44.889964
+                    ],
+                    [
+                        -93.194578,
+                        44.889964
+                    ],
+                    [
+                        -93.194578,
+                        45.051257
+                    ],
+                    [
+                        -93.329148,
+                        45.051257
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Minneapolis, MN",
+        "id": "8e9665cec9370f0f",
+        "name": "Minneapolis",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/8e9665cec9370f0f.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@MicrosoftHelps it's been over a month since I installed 10. Just too much for my machine. Can you provide a link 4 me to go back to 7? Thx.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Oct 06 01:55:02 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Can I really just make up anything I want here?",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 32647,
+        "follow_request_sent": false,
+        "followers_count": 831,
+        "following": false,
+        "friends_count": 653,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 199111271,
+        "id_str": "199111271",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 22,
+        "location": "Minneapolis",
+        "name": "Ryan Smith",
+        "notifications": false,
+        "profile_background_color": "9DA4B0",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/199111271/1447641919",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/664915084334858242/Y7gAe9Nu_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/664915084334858242/Y7gAe9Nu_normal.jpg",
+        "profile_link_color": "2D4739",
+        "profile_sidebar_border_color": "EEEEEE",
+        "profile_sidebar_fill_color": "F6F6F6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "smithboyrd",
+        "statuses_count": 17837,
+        "time_zone": null,
+        "url": null,
+        "utc_offset": null,
+        "verified": false
+    }
+}

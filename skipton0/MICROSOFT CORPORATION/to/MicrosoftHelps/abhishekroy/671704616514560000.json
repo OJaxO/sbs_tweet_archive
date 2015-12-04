@@ -1,0 +1,147 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 01 14:57:14 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 75691804,
+                "id_str": "75691804",
+                "indices": [
+                    0,
+                    15
+                ],
+                "name": "Microsoft Support",
+                "screen_name": "MicrosoftHelps"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 671704616514560000,
+    "id_str": "671704616514560000",
+    "in_reply_to_screen_name": "MicrosoftHelps",
+    "in_reply_to_status_id": 671698390653255680,
+    "in_reply_to_status_id_str": "671698390653255680",
+    "in_reply_to_user_id": 75691804,
+    "in_reply_to_user_id_str": "75691804",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        72.8318641,
+                        18.9573511
+                    ],
+                    [
+                        72.8556102,
+                        18.9573511
+                    ],
+                    [
+                        72.8556102,
+                        18.9801479
+                    ],
+                    [
+                        72.8318641,
+                        18.9801479
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "India",
+        "country_code": "IN",
+        "full_name": "Mazagaon, Mumbai",
+        "id": "58011481b848db61",
+        "name": "Mazagaon",
+        "place_type": "neighborhood",
+        "url": "https://api.twitter.com/1.1/geo/id/58011481b848db61.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for i\u039fS</a>",
+    "text": "@MicrosoftHelps This method does not work for Word for iOS. I am on iOS, not on Windows 10 Mobile. Kindly send the appropriate link.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Feb 21 02:16:26 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "A #Doctor by Choice | Tech/Gadget Addict by Compulsion | Married to @jayita_roy | Believer of #nevergiveup | Portfolio :- https://t.co/WLBcadMlAt",
+        "entities": {
+            "description": {
+                "urls": [
+                    {
+                        "display_url": "about.me/abhishek.roy",
+                        "expanded_url": "https://about.me/abhishek.roy",
+                        "indices": [
+                            122,
+                            145
+                        ],
+                        "url": "https://t.co/WLBcadMlAt"
+                    }
+                ]
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "blog.abhishek.ro",
+                        "expanded_url": "http://blog.abhishek.ro",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/kPZ65Svk8Q"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 425,
+        "follow_request_sent": false,
+        "followers_count": 382,
+        "following": false,
+        "friends_count": 77,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 116072169,
+        "id_str": "116072169",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 26,
+        "location": "Mumbai, India",
+        "name": "Dr. Abhishek Roy",
+        "notifications": false,
+        "profile_background_color": "1A1B1F",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/116072169/1449136502",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/671016431765471233/iWPW6Zl7_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/671016431765471233/iWPW6Zl7_normal.jpg",
+        "profile_link_color": "2FC2EF",
+        "profile_sidebar_border_color": "181A1E",
+        "profile_sidebar_fill_color": "252429",
+        "profile_text_color": "666666",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "abhishekroy",
+        "statuses_count": 18770,
+        "time_zone": "Mumbai",
+        "url": "https://t.co/kPZ65Svk8Q",
+        "utc_offset": 19800,
+        "verified": false
+    }
+}

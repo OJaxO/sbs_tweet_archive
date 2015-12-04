@@ -1,0 +1,132 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Dec 02 17:13:16 +0000 2015",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    43,
+                    70
+                ],
+                "text": "PasswordHasBeenReset5Times"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 75691804,
+                "id_str": "75691804",
+                "indices": [
+                    0,
+                    15
+                ],
+                "name": "Microsoft Support",
+                "screen_name": "MicrosoftHelps"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 672101237379198978,
+    "id_str": "672101237379198978",
+    "in_reply_to_screen_name": "MicrosoftHelps",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 75691804,
+    "in_reply_to_user_id_str": "75691804",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -75.280284,
+                        39.871811
+                    ],
+                    [
+                        -74.955712,
+                        39.871811
+                    ],
+                    [
+                        -74.955712,
+                        40.13792
+                    ],
+                    [
+                        -75.280284,
+                        40.13792
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Philadelphia, PA",
+        "id": "e4a0d228eb6be76b",
+        "name": "Philadelphia",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/e4a0d228eb6be76b.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@MicrosoftHelps you are completely useless #PasswordHasBeenReset5Times",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Apr 09 04:32:30 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "@ChampsHoops Community Coordinator |@Georgetown and @AmericanU Alum | Lover of all things #Philly |",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 946,
+        "follow_request_sent": false,
+        "followers_count": 361,
+        "following": false,
+        "friends_count": 611,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 29921140,
+        "id_str": "29921140",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 9,
+        "location": "Philadelphia, PA",
+        "name": "Rachel Devor",
+        "notifications": false,
+        "profile_background_color": "DBE2C9",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000061486507/0d6bc1172624b082c21f220305b37fb9.png",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000061486507/0d6bc1172624b082c21f220305b37fb9.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/29921140/1405011682",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/639102444513951744/HWtkBQ4k_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/639102444513951744/HWtkBQ4k_normal.jpg",
+        "profile_link_color": "61D2EB",
+        "profile_sidebar_border_color": "70605E",
+        "profile_sidebar_fill_color": "78706E",
+        "profile_text_color": "1FEDAA",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "divmeister92",
+        "statuses_count": 2660,
+        "time_zone": "Georgetown",
+        "url": null,
+        "utc_offset": -14400,
+        "verified": false
+    }
+}
