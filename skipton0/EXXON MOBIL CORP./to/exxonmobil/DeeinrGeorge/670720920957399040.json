@@ -1,0 +1,123 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Nov 28 21:48:23 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 36665547,
+                "id_str": "36665547",
+                "indices": [
+                    0,
+                    11
+                ],
+                "name": "ExxonMobil",
+                "screen_name": "exxonmobil"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 670720920957399040,
+    "id_str": "670720920957399040",
+    "in_reply_to_screen_name": "exxonmobil",
+    "in_reply_to_status_id": 670643995287023616,
+    "in_reply_to_status_id_str": "670643995287023616",
+    "in_reply_to_user_id": 36665547,
+    "in_reply_to_user_id_str": "36665547",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -81.185749,
+                        37.95945
+                    ],
+                    [
+                        -81.1196276,
+                        37.95945
+                    ],
+                    [
+                        -81.1196276,
+                        38.013179
+                    ],
+                    [
+                        -81.185749,
+                        38.013179
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Oak Hill, WV",
+        "id": "88b3192390b30209",
+        "name": "Oak Hill",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/88b3192390b30209.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@exxonmobil you should all be in jail!!",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Dec 20 19:07:35 +0000 2012",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Never go to bed before you Count your gold.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 4,
+        "follow_request_sent": false,
+        "followers_count": 2,
+        "following": false,
+        "friends_count": 3,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 1024837256,
+        "id_str": "1024837256",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 0,
+        "location": "Silver City, Nevada",
+        "name": "meanoldman",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/378800000543960690/4306e12feb57ecda1497a1ce4824a671_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000543960690/4306e12feb57ecda1497a1ce4824a671_normal.jpeg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "DeeinrGeorge",
+        "statuses_count": 21,
+        "time_zone": null,
+        "url": null,
+        "utc_offset": null,
+        "verified": false
+    }
+}

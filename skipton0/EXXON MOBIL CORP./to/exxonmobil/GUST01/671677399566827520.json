@@ -1,0 +1,132 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 01 13:09:05 +0000 2015",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    92,
+                    115
+                ],
+                "text": "thinkFutureGenerations"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 36665547,
+                "id_str": "36665547",
+                "indices": [
+                    0,
+                    11
+                ],
+                "name": "ExxonMobil",
+                "screen_name": "exxonmobil"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 671677399566827520,
+    "id_str": "671677399566827520",
+    "in_reply_to_screen_name": "exxonmobil",
+    "in_reply_to_status_id": 669873545208459264,
+    "in_reply_to_status_id_str": "669873545208459264",
+    "in_reply_to_user_id": 36665547,
+    "in_reply_to_user_id_str": "36665547",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -82.421473,
+                        29.600496
+                    ],
+                    [
+                        -82.239066,
+                        29.600496
+                    ],
+                    [
+                        -82.239066,
+                        29.745847
+                    ],
+                    [
+                        -82.421473,
+                        29.745847
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Gainesville, FL",
+        "id": "7dda05213481260c",
+        "name": "Gainesville",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/7dda05213481260c.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@exxonmobil Is this clean energy? Will this new biofuel create an upset in our environment? #thinkFutureGenerations",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue May 12 21:00:42 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "I am Cosmic Dust floating through the Universe. I like deep conversations and sarcastic views of others. I am on my path and I hope yours intercepts with mine.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 129,
+        "follow_request_sent": false,
+        "followers_count": 36,
+        "following": false,
+        "friends_count": 76,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 39594682,
+        "id_str": "39594682",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 3,
+        "location": "Third Planet from the SUN",
+        "name": "Gust of Wind",
+        "notifications": false,
+        "profile_background_color": "C6E2EE",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/39594682/1370026055",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/672102160335806465/xdmFOIdj_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/672102160335806465/xdmFOIdj_normal.jpg",
+        "profile_link_color": "1F98C7",
+        "profile_sidebar_border_color": "C6E2EE",
+        "profile_sidebar_fill_color": "DAECF4",
+        "profile_text_color": "663B12",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "GUST01",
+        "statuses_count": 183,
+        "time_zone": "Quito",
+        "url": null,
+        "utc_offset": -18000,
+        "verified": false
+    }
+}

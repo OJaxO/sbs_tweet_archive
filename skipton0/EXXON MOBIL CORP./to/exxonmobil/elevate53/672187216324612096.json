@@ -1,0 +1,136 @@
+{
+    "contributors": null,
+    "coordinates": {
+        "coordinates": [
+            -89.4396085,
+            43.053691
+        ],
+        "type": "Point"
+    },
+    "created_at": "Wed Dec 02 22:54:55 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 36665547,
+                "id_str": "36665547",
+                "indices": [
+                    0,
+                    11
+                ],
+                "name": "ExxonMobil",
+                "screen_name": "exxonmobil"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": {
+        "coordinates": [
+            43.053691,
+            -89.4396085
+        ],
+        "type": "Point"
+    },
+    "id": 672187216324612096,
+    "id_str": "672187216324612096",
+    "in_reply_to_screen_name": "exxonmobil",
+    "in_reply_to_status_id": 670318567544385536,
+    "in_reply_to_status_id_str": "670318567544385536",
+    "in_reply_to_user_id": 36665547,
+    "in_reply_to_user_id_str": "36665547",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -92.889433,
+                        42.491889
+                    ],
+                    [
+                        -86.24955,
+                        42.491889
+                    ],
+                    [
+                        -86.24955,
+                        47.309715
+                    ],
+                    [
+                        -92.889433,
+                        47.309715
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Wisconsin, USA",
+        "id": "7dc5c6d3bfb10ccc",
+        "name": "Wisconsin",
+        "place_type": "admin",
+        "url": "https://api.twitter.com/1.1/geo/id/7dc5c6d3bfb10ccc.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"https://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android Tablets</a>",
+    "text": "@exxonmobil and have companies that lie about climate change like Exon",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Dec 30 15:50:52 +0000 2008",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "A proud liberal in the FDR tradition.  Fiscally conservative, socially liberal. Don't like extremists from either side. Let's have some fairness!",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 36,
+        "follow_request_sent": false,
+        "followers_count": 1572,
+        "following": false,
+        "friends_count": 1978,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 18479820,
+        "id_str": "18479820",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 71,
+        "location": "Madison, Wisconsin",
+        "name": "elevate53",
+        "notifications": false,
+        "profile_background_color": "B2DFDA",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/18479820/1351166171",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/421310371857969152/b-ZImUYY_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/421310371857969152/b-ZImUYY_normal.jpeg",
+        "profile_link_color": "93A644",
+        "profile_sidebar_border_color": "EEEEEE",
+        "profile_sidebar_fill_color": "FFFFFF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "elevate53",
+        "statuses_count": 24934,
+        "time_zone": "Central Time (US & Canada)",
+        "url": null,
+        "utc_offset": -21600,
+        "verified": false
+    }
+}

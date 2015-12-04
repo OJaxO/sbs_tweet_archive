@@ -1,0 +1,143 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Dec 03 19:35:49 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 36665547,
+                "id_str": "36665547",
+                "indices": [
+                    0,
+                    11
+                ],
+                "name": "ExxonMobil",
+                "screen_name": "exxonmobil"
+            },
+            {
+                "id": 248795646,
+                "id_str": "248795646",
+                "indices": [
+                    12,
+                    21
+                ],
+                "name": "Columbia University",
+                "screen_name": "Columbia"
+            },
+            {
+                "id": 16664681,
+                "id_str": "16664681",
+                "indices": [
+                    22,
+                    30
+                ],
+                "name": "Los Angeles Times",
+                "screen_name": "latimes"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 672499496673271808,
+    "id_str": "672499496673271808",
+    "in_reply_to_screen_name": "exxonmobil",
+    "in_reply_to_status_id": 672131990917808128,
+    "in_reply_to_status_id_str": "672131990917808128",
+    "in_reply_to_user_id": 36665547,
+    "in_reply_to_user_id_str": "36665547",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -90.418136,
+                        41.696088
+                    ],
+                    [
+                        -82.122971,
+                        41.696088
+                    ],
+                    [
+                        -82.122971,
+                        48.306272
+                    ],
+                    [
+                        -90.418136,
+                        48.306272
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Michigan, USA",
+        "id": "67d92742f1ebf307",
+        "name": "Michigan",
+        "place_type": "admin",
+        "url": "https://api.twitter.com/1.1/geo/id/67d92742f1ebf307.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@exxonmobil @Columbia @latimes  If I had the choice between listening to the Columbia journalism team and Exxon, Columbia wins",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Jun 19 23:47:33 +0000 2012",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Mother/grandmother/ concerned about what is happening to our environment. Interested in social justice and policies that are best for the common good.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 25,
+        "follow_request_sent": false,
+        "followers_count": 112,
+        "following": false,
+        "friends_count": 619,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 613040457,
+        "id_str": "613040457",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 1,
+        "location": "Northern Michigan",
+        "name": "Susan Wheadon",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/564556807608074241/sDNC2UwG_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/564556807608074241/sDNC2UwG_normal.jpeg",
+        "profile_link_color": "FA743E",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "susanpankhurst",
+        "statuses_count": 971,
+        "time_zone": "Atlantic Time (Canada)",
+        "url": null,
+        "utc_offset": -14400,
+        "verified": false
+    }
+}

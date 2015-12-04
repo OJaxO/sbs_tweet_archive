@@ -1,0 +1,311 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Dec 03 17:42:42 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [
+            {
+                "indices": [
+                    107,
+                    112
+                ],
+                "text": "TWTR"
+            }
+        ],
+        "urls": [
+            {
+                "display_url": "twitter.com/exxonmobil/sta\u2026",
+                "expanded_url": "https://twitter.com/exxonmobil/status/670318567544385536",
+                "indices": [
+                    114,
+                    137
+                ],
+                "url": "https://t.co/zZGYW0OUCr"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 36665547,
+                "id_str": "36665547",
+                "indices": [
+                    0,
+                    11
+                ],
+                "name": "ExxonMobil",
+                "screen_name": "exxonmobil"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 672471030376456192,
+    "id_str": "672471030376456192",
+    "in_reply_to_screen_name": "exxonmobil",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 36665547,
+    "in_reply_to_user_id_str": "36665547",
+    "is_quote_status": true,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -105.109815,
+                        39.614151
+                    ],
+                    [
+                        -104.734372,
+                        39.614151
+                    ],
+                    [
+                        -104.734372,
+                        39.812975
+                    ],
+                    [
+                        -105.109815,
+                        39.812975
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Denver, CO",
+        "id": "b49b3053b5c25bf5",
+        "name": "Denver",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/b49b3053b5c25bf5.json"
+    },
+    "possibly_sensitive": false,
+    "quoted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Fri Nov 27 19:09:35 +0000 2015",
+        "entities": {
+            "hashtags": [
+                {
+                    "indices": [
+                        49,
+                        56
+                    ],
+                    "text": "natgas"
+                },
+                {
+                    "indices": [
+                        100,
+                        116
+                    ],
+                    "text": "EnergyLivesHere"
+                }
+            ],
+            "media": [
+                {
+                    "display_url": "pic.twitter.com/rhNXAfkBMj",
+                    "expanded_url": "http://twitter.com/exxonmobil/status/670318567544385536/photo/1",
+                    "id": 670318565635940353,
+                    "id_str": "670318565635940353",
+                    "indices": [
+                        117,
+                        140
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/CU1zLxcUYAEHnm-.png",
+                    "media_url_https": "https://pbs.twimg.com/media/CU1zLxcUYAEHnm-.png",
+                    "sizes": {
+                        "large": {
+                            "h": 845,
+                            "resize": "fit",
+                            "w": 500
+                        },
+                        "medium": {
+                            "h": 845,
+                            "resize": "fit",
+                            "w": 500
+                        },
+                        "small": {
+                            "h": 574,
+                            "resize": "fit",
+                            "w": 340
+                        },
+                        "thumb": {
+                            "h": 150,
+                            "resize": "crop",
+                            "w": 150
+                        }
+                    },
+                    "type": "photo",
+                    "url": "https://t.co/rhNXAfkBMj"
+                }
+            ],
+            "symbols": [],
+            "urls": [],
+            "user_mentions": []
+        },
+        "favorite_count": 672,
+        "favorited": false,
+        "geo": null,
+        "id": 670318567544385536,
+        "id_str": "670318567544385536",
+        "in_reply_to_screen_name": null,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "is_quote_status": false,
+        "lang": "en",
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "place": null,
+        "possibly_sensitive": false,
+        "retweet_count": 331,
+        "retweeted": false,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": "More than ever, America\u2019s electricity comes from #natgas, providing energy while reducing emissions #EnergyLivesHere https://t.co/rhNXAfkBMj",
+        "truncated": false,
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Thu Apr 30 13:49:24 +0000 2009",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "The official Twitter page of Exxon Mobil Corporation. Continue the conversation at http://t.co/slgL2JRKwY. Direct all inquiries to http://t.co/INDDcFZK8u.",
+            "entities": {
+                "description": {
+                    "urls": [
+                        {
+                            "display_url": "exxonmobilperspectives.com",
+                            "expanded_url": "http://exxonmobilperspectives.com",
+                            "indices": [
+                                83,
+                                105
+                            ],
+                            "url": "http://t.co/slgL2JRKwY"
+                        },
+                        {
+                            "display_url": "exxonmobil.com/contactus",
+                            "expanded_url": "http://exxonmobil.com/contactus",
+                            "indices": [
+                                131,
+                                153
+                            ],
+                            "url": "http://t.co/INDDcFZK8u"
+                        }
+                    ]
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "exxonmobil.com",
+                            "expanded_url": "http://www.exxonmobil.com",
+                            "indices": [
+                                0,
+                                22
+                            ],
+                            "url": "http://t.co/jdIQKZpPvi"
+                        }
+                    ]
+                }
+            },
+            "favourites_count": 2,
+            "follow_request_sent": false,
+            "followers_count": 147427,
+            "following": false,
+            "friends_count": 209,
+            "geo_enabled": false,
+            "has_extended_profile": false,
+            "id": 36665547,
+            "id_str": "36665547",
+            "is_translation_enabled": false,
+            "is_translator": false,
+            "lang": "en",
+            "listed_count": 1890,
+            "location": "",
+            "name": "ExxonMobil",
+            "notifications": false,
+            "profile_background_color": "CFCFCF",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000136832151/v9_M1285.jpeg",
+            "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000136832151/v9_M1285.jpeg",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/36665547/1414771082",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/639153408075677696/lNHqTD2H_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/639153408075677696/lNHqTD2H_normal.jpg",
+            "profile_link_color": "9DB0CF",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "CFCFCF",
+            "profile_text_color": "000000",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "exxonmobil",
+            "statuses_count": 4567,
+            "time_zone": "Central Time (US & Canada)",
+            "url": "http://t.co/jdIQKZpPvi",
+            "utc_offset": -21600,
+            "verified": true
+        }
+    },
+    "quoted_status_id": 670318567544385536,
+    "quoted_status_id_str": "670318567544385536",
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@exxonmobil \ud83d\ude0e\ud83d\udcac I've always admired Exxon for its exceptional execution through cycles. Fun to see Exxon on $TWTR  https://t.co/zZGYW0OUCr",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue May 19 23:29:51 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Arrowpoint Partners / Meridian Funds. Contributing Twitter hashtags #DigitalWorlds #DeepLearning #AutonomousDriving #HumanCapital #Millennials #ISIS & #emoji",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 31,
+        "follow_request_sent": false,
+        "followers_count": 206,
+        "following": false,
+        "friends_count": 1292,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 41240592,
+        "id_str": "41240592",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 24,
+        "location": "Denver, CO",
+        "name": "Minyoung Sohn",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/41240592/1437972322",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/550894614907867136/0B5sk2_v_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/550894614907867136/0B5sk2_v_normal.jpeg",
+        "profile_link_color": "3B94D9",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "minyoung_sohn",
+        "statuses_count": 934,
+        "time_zone": "Mountain Time (US & Canada)",
+        "url": null,
+        "utc_offset": -25200,
+        "verified": false
+    }
+}
