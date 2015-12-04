@@ -1,0 +1,167 @@
+{
+    "contributors": null,
+    "coordinates": {
+        "coordinates": [
+            -114.61855075,
+            42.56012513
+        ],
+        "type": "Point"
+    },
+    "created_at": "Mon Nov 30 04:58:48 +0000 2015",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    115,
+                    126
+                ],
+                "text": "ryanddowns"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 10850192,
+                "id_str": "10850192",
+                "indices": [
+                    0,
+                    3
+                ],
+                "name": "General Motors",
+                "screen_name": "GM"
+            },
+            {
+                "id": 3546121993,
+                "id_str": "3546121993",
+                "indices": [
+                    5,
+                    19
+                ],
+                "name": "Engines + Motors",
+                "screen_name": "enginesmotors"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": {
+        "coordinates": [
+            42.56012513,
+            -114.61855075
+        ],
+        "type": "Point"
+    },
+    "id": 671191626362974213,
+    "id_str": "671191626362974213",
+    "in_reply_to_screen_name": "GM",
+    "in_reply_to_status_id": 670264333608226816,
+    "in_reply_to_status_id_str": "670264333608226816",
+    "in_reply_to_user_id": 10850192,
+    "in_reply_to_user_id_str": "10850192",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -114.6287117,
+                        42.55658
+                    ],
+                    [
+                        -114.599775,
+                        42.55658
+                    ],
+                    [
+                        -114.599775,
+                        42.5821546
+                    ],
+                    [
+                        -114.6287117,
+                        42.5821546
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Filer, ID",
+        "id": "01d589d1640fedc6",
+        "name": "Filer",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/01d589d1640fedc6.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@GM; @enginesmotors: \nBeautiful.  \nMerry\ud83c\udf84Christmas &amp; \nSeasons\u26c4\ufe0fGreetings!  \nGod's love and peace to you all!  \n#ryanddowns",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue May 13 00:43:12 +0000 2008",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Actor\u2606Baker\u2606Candlestick-maker | Jesus Christ is my Saviour #FreeSaeed #FreeAmir #FreeJason  \nPro-Israel",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "facebook.com/ryanddowns",
+                        "expanded_url": "http://www.facebook.com/ryanddowns",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/tvJAtMV7QW"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 4899,
+        "follow_request_sent": false,
+        "followers_count": 3775,
+        "following": false,
+        "friends_count": 4187,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 14752306,
+        "id_str": "14752306",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 57,
+        "location": "Burbank, California",
+        "name": "Ryan D Downs",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/82282836/nvlastgreengrass.br.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/82282836/nvlastgreengrass.br.jpg",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/14752306/1432143818",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/669316620301434880/G-8BpLFp_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/669316620301434880/G-8BpLFp_normal.jpg",
+        "profile_link_color": "3CB904",
+        "profile_sidebar_border_color": "164700",
+        "profile_sidebar_fill_color": "255211",
+        "profile_text_color": "979595",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "RyanDDowns",
+        "statuses_count": 19894,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "http://t.co/tvJAtMV7QW",
+        "utc_offset": -28800,
+        "verified": false
+    }
+}

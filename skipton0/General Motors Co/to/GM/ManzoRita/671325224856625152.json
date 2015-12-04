@@ -1,0 +1,146 @@
+{
+    "contributors": null,
+    "coordinates": {
+        "coordinates": [
+            -75.17923109,
+            40.2423822
+        ],
+        "type": "Point"
+    },
+    "created_at": "Mon Nov 30 13:49:40 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 10850192,
+                "id_str": "10850192",
+                "indices": [
+                    0,
+                    3
+                ],
+                "name": "General Motors",
+                "screen_name": "GM"
+            },
+            {
+                "id": 28706024,
+                "id_str": "28706024",
+                "indices": [
+                    8,
+                    13
+                ],
+                "name": "P!nk",
+                "screen_name": "Pink"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": {
+        "coordinates": [
+            40.2423822,
+            -75.17923109
+        ],
+        "type": "Point"
+    },
+    "id": 671325224856625152,
+    "id_str": "671325224856625152",
+    "in_reply_to_screen_name": "GM",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 10850192,
+    "in_reply_to_user_id_str": "10850192",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -80.519851,
+                        39.719801
+                    ],
+                    [
+                        -74.689517,
+                        39.719801
+                    ],
+                    [
+                        -74.689517,
+                        42.516072
+                    ],
+                    [
+                        -80.519851,
+                        42.516072
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Pennsylvania, USA",
+        "id": "dd9c503d6c35364b",
+        "name": "Pennsylvania",
+        "place_type": "admin",
+        "url": "https://api.twitter.com/1.1/geo/id/dd9c503d6c35364b.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+    "text": "@GM Yay @Pink !! You're the best, home girl \ud83d\udc97",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Sep 22 14:51:25 +0000 2012",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "from Fildalfia, Italy to Philadelphia, U.S.A",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 4815,
+        "follow_request_sent": false,
+        "followers_count": 50,
+        "following": false,
+        "friends_count": 154,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 839895289,
+        "id_str": "839895289",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 2,
+        "location": " Philadelphia, PA. , U.S.A.   ",
+        "name": "Rita Manzo",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/839895289/1449073049",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/672087384780050432/jEw5mWSv_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/672087384780050432/jEw5mWSv_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "ManzoRita",
+        "statuses_count": 2188,
+        "time_zone": null,
+        "url": null,
+        "utc_offset": null,
+        "verified": false
+    }
+}
