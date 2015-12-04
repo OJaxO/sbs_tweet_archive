@@ -1,0 +1,124 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Dec 03 17:51:17 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 271986064,
+                "id_str": "271986064",
+                "indices": [
+                    0,
+                    6
+                ],
+                "name": "Tesco",
+                "screen_name": "Tesco"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 672473190816419840,
+    "id_str": "672473190816419840",
+    "in_reply_to_screen_name": "Tesco",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 271986064,
+    "in_reply_to_user_id_str": "271986064",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -0.259465,
+                        51.417277
+                    ],
+                    [
+                        -0.127974,
+                        51.417277
+                    ],
+                    [
+                        -0.127974,
+                        51.486036
+                    ],
+                    [
+                        -0.259465,
+                        51.486036
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United Kingdom",
+        "country_code": "GB",
+        "full_name": "Wandsworth, London",
+        "id": "460c5314e8a33c64",
+        "name": "Wandsworth",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/460c5314e8a33c64.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@Tesco staff Battersea Rise polite &amp; helpful, their London Rd Mitcham branch polar opposite",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Jun 20 21:04:47 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Irish,Paramedic, keen golfer #avgeek",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 855,
+        "follow_request_sent": false,
+        "followers_count": 768,
+        "following": false,
+        "friends_count": 753,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 49120157,
+        "id_str": "49120157",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 5,
+        "location": "Newry/London",
+        "name": "Declan Rogers",
+        "notifications": false,
+        "profile_background_color": "DBE9ED",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/631791012/rpprpa25ie9t1aziu8mb.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/631791012/rpprpa25ie9t1aziu8mb.jpeg",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/49120157/1393943926",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/671504278985510912/Q3jxwvqS_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/671504278985510912/Q3jxwvqS_normal.jpg",
+        "profile_link_color": "CC3366",
+        "profile_sidebar_border_color": "829D5E",
+        "profile_sidebar_fill_color": "99CC33",
+        "profile_text_color": "3E4415",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "reckydecky1989",
+        "statuses_count": 6758,
+        "time_zone": "Amsterdam",
+        "url": null,
+        "utc_offset": 3600,
+        "verified": false
+    }
+}

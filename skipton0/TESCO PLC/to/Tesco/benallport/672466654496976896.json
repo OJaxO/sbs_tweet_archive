@@ -1,0 +1,283 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Dec 03 17:25:18 +0000 2015",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    44,
+                    58
+                ],
+                "text": "everycanhelps"
+            }
+        ],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/HTnewsroom/sta\u2026",
+                "expanded_url": "https://twitter.com/HTnewsroom/status/672461054736252928",
+                "indices": [
+                    60,
+                    83
+                ],
+                "url": "https://t.co/aXvblzRoGj"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 271986064,
+                "id_str": "271986064",
+                "indices": [
+                    0,
+                    6
+                ],
+                "name": "Tesco",
+                "screen_name": "Tesco"
+            },
+            {
+                "id": 257833373,
+                "id_str": "257833373",
+                "indices": [
+                    7,
+                    22
+                ],
+                "name": "Dan Jones",
+                "screen_name": "danbeatlejones"
+            },
+            {
+                "id": 301128251,
+                "id_str": "301128251",
+                "indices": [
+                    23,
+                    31
+                ],
+                "name": "Paul Collingridge",
+                "screen_name": "colly75"
+            },
+            {
+                "id": 288228522,
+                "id_str": "288228522",
+                "indices": [
+                    32,
+                    43
+                ],
+                "name": "Tesco News",
+                "screen_name": "TescoMedia"
+            }
+        ]
+    },
+    "favorite_count": 2,
+    "favorited": false,
+    "geo": null,
+    "id": 672466654496976896,
+    "id_str": "672466654496976896",
+    "in_reply_to_screen_name": "Tesco",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 271986064,
+    "in_reply_to_user_id_str": "271986064",
+    "is_quote_status": true,
+    "lang": "und",
+    "metadata": {
+        "iso_language_code": "und",
+        "result_type": "recent"
+    },
+    "place": null,
+    "possibly_sensitive": false,
+    "quoted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Thu Dec 03 17:03:03 +0000 2015",
+        "entities": {
+            "hashtags": [],
+            "media": [
+                {
+                    "display_url": "pic.twitter.com/xtYcSjcBLD",
+                    "expanded_url": "http://twitter.com/HTnewsroom/status/672461054736252928/photo/1",
+                    "id": 672461053406638081,
+                    "id_str": "672461053406638081",
+                    "indices": [
+                        113,
+                        136
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/CVUPw-WWcAEDyDy.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/CVUPw-WWcAEDyDy.jpg",
+                    "sizes": {
+                        "large": {
+                            "h": 768,
+                            "resize": "fit",
+                            "w": 1024
+                        },
+                        "medium": {
+                            "h": 450,
+                            "resize": "fit",
+                            "w": 600
+                        },
+                        "small": {
+                            "h": 255,
+                            "resize": "fit",
+                            "w": 340
+                        },
+                        "thumb": {
+                            "h": 150,
+                            "resize": "crop",
+                            "w": 150
+                        }
+                    },
+                    "type": "photo",
+                    "url": "https://t.co/xtYcSjcBLD"
+                }
+            ],
+            "symbols": [],
+            "urls": [
+                {
+                    "display_url": "herefordtimes.com/news/14121443.\u2026",
+                    "expanded_url": "http://www.herefordtimes.com/news/14121443.Supermarket_staff_aim_to_collect_20_000_meals/",
+                    "indices": [
+                        89,
+                        112
+                    ],
+                    "url": "https://t.co/tlmapkiTMW"
+                }
+            ],
+            "user_mentions": []
+        },
+        "favorite_count": 5,
+        "favorited": false,
+        "geo": null,
+        "id": 672461054736252928,
+        "id_str": "672461054736252928",
+        "in_reply_to_screen_name": null,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "is_quote_status": false,
+        "lang": "en",
+        "metadata": {
+            "iso_language_code": "und",
+            "result_type": "recent"
+        },
+        "place": null,
+        "possibly_sensitive": false,
+        "retweet_count": 2,
+        "retweeted": false,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": "Supermarket staff in Hereford are aiming to collect 20,000 meals for the local food bank\nhttps://t.co/tlmapkiTMW https://t.co/xtYcSjcBLD",
+        "truncated": false,
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Wed May 11 13:38:57 +0000 2011",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "Weekly newspaper for the county of Herefordshire, UK.\r\nTweet us your news and views.",
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "herefordtimes.com",
+                            "expanded_url": "http://www.herefordtimes.com",
+                            "indices": [
+                                0,
+                                22
+                            ],
+                            "url": "http://t.co/FyB1CjjTWy"
+                        }
+                    ]
+                }
+            },
+            "favourites_count": 160,
+            "follow_request_sent": false,
+            "followers_count": 13982,
+            "following": false,
+            "friends_count": 2373,
+            "geo_enabled": true,
+            "has_extended_profile": false,
+            "id": 296831514,
+            "id_str": "296831514",
+            "is_translation_enabled": false,
+            "is_translator": false,
+            "lang": "en",
+            "listed_count": 120,
+            "location": "Hereford, UK",
+            "name": "Hereford Times",
+            "notifications": false,
+            "profile_background_color": "FFFFFF",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/252101740/HTmasthead.jpg",
+            "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/252101740/HTmasthead.jpg",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/296831514/1443530318",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1348742258/ht2_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1348742258/ht2_normal.jpg",
+            "profile_link_color": "75DAFF",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "2A3E85",
+            "profile_text_color": "FFFFFF",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "HTnewsroom",
+            "statuses_count": 27677,
+            "time_zone": "London",
+            "url": "http://t.co/FyB1CjjTWy",
+            "utc_offset": 0,
+            "verified": false
+        }
+    },
+    "quoted_status_id": 672461054736252928,
+    "quoted_status_id_str": "672461054736252928",
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@Tesco @danbeatlejones @colly75 @TescoMedia #everycanhelps  https://t.co/aXvblzRoGj",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Feb 11 19:09:17 +0000 2009",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Proud Store Manager in Hereford for Tesco. My views are entirely my own and not that of my employer.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 19,
+        "follow_request_sent": false,
+        "followers_count": 155,
+        "following": false,
+        "friends_count": 330,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 20612397,
+        "id_str": "20612397",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 1,
+        "location": "",
+        "name": "Ben Allport",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/3595214089/57f5895466156b580531d22c8c3e3b52_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/3595214089/57f5895466156b580531d22c8c3e3b52_normal.jpeg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "benallport",
+        "statuses_count": 150,
+        "time_zone": null,
+        "url": null,
+        "utc_offset": null,
+        "verified": false
+    }
+}

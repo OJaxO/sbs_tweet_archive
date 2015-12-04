@@ -1,0 +1,178 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Dec 03 20:59:02 +0000 2015",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    80,
+                    99
+                ],
+                "text": "NotSavingThePlanet"
+            },
+            {
+                "indices": [
+                    101,
+                    107
+                ],
+                "text": "Tesco"
+            }
+        ],
+        "media": [
+            {
+                "display_url": "pic.twitter.com/RezzuRtc1a",
+                "expanded_url": "http://twitter.com/Kezzabombezza/status/672520439835574272/photo/1",
+                "id": 672520433963556864,
+                "id_str": "672520433963556864",
+                "indices": [
+                    108,
+                    131
+                ],
+                "media_url": "http://pbs.twimg.com/media/CVVFxYKW4AADAZB.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/CVVFxYKW4AADAZB.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 768,
+                        "resize": "fit",
+                        "w": 1024
+                    },
+                    "medium": {
+                        "h": 450,
+                        "resize": "fit",
+                        "w": 600
+                    },
+                    "small": {
+                        "h": 255,
+                        "resize": "fit",
+                        "w": 340
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/RezzuRtc1a"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 271986064,
+                "id_str": "271986064",
+                "indices": [
+                    0,
+                    6
+                ],
+                "name": "Tesco",
+                "screen_name": "Tesco"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 672520439835574272,
+    "id_str": "672520439835574272",
+    "in_reply_to_screen_name": "Tesco",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 271986064,
+    "in_reply_to_user_id_str": "271986064",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        0.143499,
+                        51.251336
+                    ],
+                    [
+                        0.228904,
+                        51.251336
+                    ],
+                    [
+                        0.228904,
+                        51.3060958
+                    ],
+                    [
+                        0.143499,
+                        51.3060958
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United Kingdom",
+        "country_code": "GB",
+        "full_name": "Sevenoaks, England",
+        "id": "5376859fe6806d5b",
+        "name": "Sevenoaks",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/5376859fe6806d5b.json"
+    },
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@Tesco was this packaging really necessary for 1 order of 4 \u00a31.50 wine glasses? #NotSavingThePlanet! #Tesco https://t.co/RezzuRtc1a",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Mar 02 07:34:39 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "veritas filia temporis",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 262,
+        "follow_request_sent": false,
+        "followers_count": 107,
+        "following": false,
+        "friends_count": 672,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 22463279,
+        "id_str": "22463279",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 1,
+        "location": "",
+        "name": "Keirrie Bridges",
+        "notifications": false,
+        "profile_background_color": "1A1B1F",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/5043070/040.JPG",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/5043070/040.JPG",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/22463279/1350499459",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/433367990437175296/d8ZNgB3u_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/433367990437175296/d8ZNgB3u_normal.jpeg",
+        "profile_link_color": "EF2FBC",
+        "profile_sidebar_border_color": "161519",
+        "profile_sidebar_fill_color": "6F156B",
+        "profile_text_color": "DA168C",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Kezzabombezza",
+        "statuses_count": 999,
+        "time_zone": null,
+        "url": null,
+        "utc_offset": null,
+        "verified": false
+    }
+}

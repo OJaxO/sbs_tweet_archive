@@ -1,0 +1,136 @@
+{
+    "contributors": null,
+    "coordinates": {
+        "coordinates": [
+            -1.58836667,
+            54.61484833
+        ],
+        "type": "Point"
+    },
+    "created_at": "Fri Dec 04 11:12:57 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 271986064,
+                "id_str": "271986064",
+                "indices": [
+                    0,
+                    6
+                ],
+                "name": "Tesco",
+                "screen_name": "Tesco"
+            }
+        ]
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": {
+        "coordinates": [
+            54.61484833,
+            -1.58836667
+        ],
+        "type": "Point"
+    },
+    "id": 672735334178910208,
+    "id_str": "672735334178910208",
+    "in_reply_to_screen_name": "Tesco",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 271986064,
+    "in_reply_to_user_id_str": "271986064",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -1.6062021,
+                        54.594366
+                    ],
+                    [
+                        -1.553674,
+                        54.594366
+                    ],
+                    [
+                        -1.553674,
+                        54.6408299
+                    ],
+                    [
+                        -1.6062021,
+                        54.6408299
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United Kingdom",
+        "country_code": "GB",
+        "full_name": "Newton Aycliffe, England",
+        "id": "6763b218bd27c26c",
+        "name": "Newton Aycliffe",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/6763b218bd27c26c.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://www.twitter.com\" rel=\"nofollow\">Twitter for Windows Phone</a>",
+    "text": "@Tesco just spent an extra \u00a33.89 for the food drive in the Newton Aycliffe store.\rDoes the extra \u00a33.89 go2 them or in Tesco back pocket???",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Apr 14 05:31:43 +0000 2014",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Xbox gamer tag Nightwing2704 Comic nerd",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 18947,
+        "follow_request_sent": false,
+        "followers_count": 657,
+        "following": false,
+        "friends_count": 1986,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 2443373414,
+        "id_str": "2443373414",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en-gb",
+        "listed_count": 18,
+        "location": "Somewhere on this planet ",
+        "name": "Nightwing2704",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2443373414/1448736514",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/671154906615652352/l2KIkhTK_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/671154906615652352/l2KIkhTK_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "neck_that_shot",
+        "statuses_count": 18437,
+        "time_zone": "Amsterdam",
+        "url": null,
+        "utc_offset": 3600,
+        "verified": false
+    }
+}
