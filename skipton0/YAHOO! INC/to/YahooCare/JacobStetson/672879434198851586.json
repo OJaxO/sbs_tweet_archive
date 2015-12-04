@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Dec 04 20:45:33 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 26265894,
+                "id_str": "26265894",
+                "indices": [
+                    0,
+                    10
+                ],
+                "name": "Yahoo Customer Care",
+                "screen_name": "YahooCare"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 672879434198851586,
+    "id_str": "672879434198851586",
+    "in_reply_to_screen_name": "YahooCare",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 26265894,
+    "in_reply_to_user_id_str": "26265894",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -74.041878,
+                        40.570842
+                    ],
+                    [
+                        -73.855673,
+                        40.570842
+                    ],
+                    [
+                        -73.855673,
+                        40.739434
+                    ],
+                    [
+                        -74.041878,
+                        40.739434
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Brooklyn, NY",
+        "id": "011add077f4d2da3",
+        "name": "Brooklyn",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/011add077f4d2da3.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@YahooCare unable to send emails, save drafts, etc.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Feb 21 07:39:50 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Austin native whose life revolves around music, events, entertainment and marketing.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "Instagram.com/jacobgstetson",
+                        "expanded_url": "http://Instagram.com/jacobgstetson",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/AGbR6wrsLg"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 138,
+        "follow_request_sent": false,
+        "followers_count": 1698,
+        "following": false,
+        "friends_count": 516,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 255386740,
+        "id_str": "255386740",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 78,
+        "location": "New York, NY",
+        "name": "Jacob Stetson",
+        "notifications": false,
+        "profile_background_color": "101212",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/628258197/4gk00nn6j2bij4rnmsxd.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/628258197/4gk00nn6j2bij4rnmsxd.jpeg",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/255386740/1424757033",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/438548445347848192/28ceF0Bl_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/438548445347848192/28ceF0Bl_normal.jpeg",
+        "profile_link_color": "26198A",
+        "profile_sidebar_border_color": "EEEEEE",
+        "profile_sidebar_fill_color": "F6F6F6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "JacobStetson",
+        "statuses_count": 7696,
+        "time_zone": "Central Time (US & Canada)",
+        "url": "http://t.co/AGbR6wrsLg",
+        "utc_offset": -21600,
+        "verified": false
+    }
+}
