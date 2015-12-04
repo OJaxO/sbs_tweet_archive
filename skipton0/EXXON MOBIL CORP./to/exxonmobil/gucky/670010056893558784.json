@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Nov 26 22:43:40 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 36665547,
+                "id_str": "36665547",
+                "indices": [
+                    0,
+                    11
+                ],
+                "name": "ExxonMobil",
+                "screen_name": "exxonmobil"
+            }
+        ]
+    },
+    "favorite_count": 27,
+    "favorited": false,
+    "geo": null,
+    "id": 670010056893558784,
+    "id_str": "670010056893558784",
+    "in_reply_to_screen_name": "exxonmobil",
+    "in_reply_to_status_id": 669873545208459264,
+    "in_reply_to_status_id_str": "669873545208459264",
+    "in_reply_to_user_id": 36665547,
+    "in_reply_to_user_id_str": "36665547",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -122.514926,
+                        37.708075
+                    ],
+                    [
+                        -122.357031,
+                        37.708075
+                    ],
+                    [
+                        -122.357031,
+                        37.833238
+                    ],
+                    [
+                        -122.514926,
+                        37.833238
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "San Francisco, CA",
+        "id": "5a110d312052166f",
+        "name": "San Francisco",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/5a110d312052166f.json"
+    },
+    "retweet_count": 16,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@exxonmobil Better be researching how humans can survive the climate change hellscape you're creating while you're at it.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Apr 20 19:42:56 +0000 2007",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "I am a life form evolved to live off weird movies, comics, junk food and snark. Sadly, I will never be a Ghostbuster when I grow up. I am very gucky.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "gucky.tumblr.com",
+                        "expanded_url": "http://gucky.tumblr.com",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/hkmy2JW30e"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 5288,
+        "follow_request_sent": false,
+        "followers_count": 567,
+        "following": false,
+        "friends_count": 533,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 5353362,
+        "id_str": "5353362",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 45,
+        "location": "San Francisco, CA",
+        "name": "Amanda the Guck",
+        "notifications": false,
+        "profile_background_color": "70BA15",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000062001420/527ff9972c3d4cb1e63e6cefc5d30a50.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000062001420/527ff9972c3d4cb1e63e6cefc5d30a50.jpeg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/5353362/1382308559",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/652213854403821568/cOZ6B5np_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/652213854403821568/cOZ6B5np_normal.jpg",
+        "profile_link_color": "4A913C",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "8B8B8B",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "gucky",
+        "statuses_count": 10111,
+        "time_zone": null,
+        "url": "http://t.co/hkmy2JW30e",
+        "utc_offset": null,
+        "verified": false
+    }
+}

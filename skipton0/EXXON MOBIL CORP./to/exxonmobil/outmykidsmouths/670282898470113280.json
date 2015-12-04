@@ -1,0 +1,132 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Nov 27 16:47:50 +0000 2015",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    12,
+                    30
+                ],
+                "text": "keepitintheground"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 36665547,
+                "id_str": "36665547",
+                "indices": [
+                    0,
+                    11
+                ],
+                "name": "ExxonMobil",
+                "screen_name": "exxonmobil"
+            }
+        ]
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": null,
+    "id": 670282898470113280,
+    "id_str": "670282898470113280",
+    "in_reply_to_screen_name": "exxonmobil",
+    "in_reply_to_status_id": 670273279265927168,
+    "in_reply_to_status_id_str": "670273279265927168",
+    "in_reply_to_user_id": 36665547,
+    "in_reply_to_user_id_str": "36665547",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -124.482003,
+                        32.528832
+                    ],
+                    [
+                        -114.131212,
+                        32.528832
+                    ],
+                    [
+                        -114.131212,
+                        42.009519
+                    ],
+                    [
+                        -124.482003,
+                        42.009519
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "California, USA",
+        "id": "fbd6d2f5a4e4a15e",
+        "name": "California",
+        "place_type": "admin",
+        "url": "https://api.twitter.com/1.1/geo/id/fbd6d2f5a4e4a15e.json"
+    },
+    "retweet_count": 1,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@exxonmobil #keepitintheground SOLAR AND WIND NOW!!!!!!!!!!!",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat May 30 16:22:37 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "A comedy writer called my kids astutely hilarious,& asked me to share their thoughts here.*Photographer-BTS&Production*Organic Farm Owner*Politically involved.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 3596,
+        "follow_request_sent": false,
+        "followers_count": 311,
+        "following": false,
+        "friends_count": 766,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 43550862,
+        "id_str": "43550862",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 5,
+        "location": "",
+        "name": "Patricia Collins",
+        "notifications": false,
+        "profile_background_color": "B2DFDA",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/43550862/1445207590",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/645608912683601920/JVlV14GR_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/645608912683601920/JVlV14GR_normal.jpg",
+        "profile_link_color": "4448A6",
+        "profile_sidebar_border_color": "EEEEEE",
+        "profile_sidebar_fill_color": "FFFFFF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "outmykidsmouths",
+        "statuses_count": 6258,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": null,
+        "utc_offset": -28800,
+        "verified": false
+    }
+}

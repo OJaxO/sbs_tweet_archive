@@ -1,0 +1,123 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Nov 26 17:14:56 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 36665547,
+                "id_str": "36665547",
+                "indices": [
+                    0,
+                    11
+                ],
+                "name": "ExxonMobil",
+                "screen_name": "exxonmobil"
+            }
+        ]
+    },
+    "favorite_count": 2,
+    "favorited": false,
+    "geo": null,
+    "id": 669927330081611776,
+    "id_str": "669927330081611776",
+    "in_reply_to_screen_name": "exxonmobil",
+    "in_reply_to_status_id": 669878455413018624,
+    "in_reply_to_status_id_str": "669878455413018624",
+    "in_reply_to_user_id": 36665547,
+    "in_reply_to_user_id_str": "36665547",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -84.710722,
+                        39.052962
+                    ],
+                    [
+                        -84.3689026,
+                        39.052962
+                    ],
+                    [
+                        -84.3689026,
+                        39.2211137
+                    ],
+                    [
+                        -84.710722,
+                        39.2211137
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Cincinnati, OH",
+        "id": "e444ecd51bd16ff3",
+        "name": "Cincinnati",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/e444ecd51bd16ff3.json"
+    },
+    "retweet_count": 1,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@exxonmobil why do not you invest in clean fuel technology like wind &amp; solar &amp; wave?????",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Aug 15 18:02:40 +0000 2009",
+        "default_profile": true,
+        "default_profile_image": true,
+        "description": "I like working, movies, plays, music, NYC & sunny days. I hate the rain/thunder. I am so lucky that I have a very beautiful talented daughter who is an actor.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 114,
+        "follow_request_sent": false,
+        "followers_count": 221,
+        "following": false,
+        "friends_count": 853,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 65944392,
+        "id_str": "65944392",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 6,
+        "location": "Cincinnati OH",
+        "name": "Tim Meier",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_3_normal.png",
+        "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_3_normal.png",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "timeier1",
+        "statuses_count": 5861,
+        "time_zone": null,
+        "url": null,
+        "utc_offset": null,
+        "verified": false
+    }
+}
