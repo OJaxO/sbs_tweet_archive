@@ -1,0 +1,223 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Nov 30 17:26:38 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/akelss/status/\u2026",
+                "expanded_url": "https://twitter.com/akelss/status/671379094156746753",
+                "indices": [
+                    58,
+                    81
+                ],
+                "url": "https://t.co/1jDO2ahKA7"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 270533441,
+                "id_str": "270533441",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "Abercrombie & Fitch",
+                "screen_name": "Abercrombie"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 671379822690492416,
+    "id_str": "671379822690492416",
+    "in_reply_to_screen_name": "Abercrombie",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 270533441,
+    "in_reply_to_user_id_str": "270533441",
+    "is_quote_status": true,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": null,
+    "possibly_sensitive": false,
+    "quoted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Mon Nov 30 17:23:44 +0000 2015",
+        "entities": {
+            "hashtags": [],
+            "media": [
+                {
+                    "display_url": "pic.twitter.com/NM82trbe15",
+                    "expanded_url": "http://twitter.com/AKelss/status/671379094156746753/photo/1",
+                    "id": 671379088192352257,
+                    "id_str": "671379088192352257",
+                    "indices": [
+                        33,
+                        56
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/CVE3uT1UsAEsOMG.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/CVE3uT1UsAEsOMG.jpg",
+                    "sizes": {
+                        "large": {
+                            "h": 1024,
+                            "resize": "fit",
+                            "w": 575
+                        },
+                        "medium": {
+                            "h": 1024,
+                            "resize": "fit",
+                            "w": 575
+                        },
+                        "small": {
+                            "h": 605,
+                            "resize": "fit",
+                            "w": 340
+                        },
+                        "thumb": {
+                            "h": 150,
+                            "resize": "crop",
+                            "w": 150
+                        }
+                    },
+                    "type": "photo",
+                    "url": "https://t.co/NM82trbe15"
+                }
+            ],
+            "symbols": [],
+            "urls": [],
+            "user_mentions": []
+        },
+        "favorite_count": 21,
+        "favorited": false,
+        "geo": null,
+        "id": 671379094156746753,
+        "id_str": "671379094156746753",
+        "in_reply_to_screen_name": null,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "is_quote_status": false,
+        "lang": "en",
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "place": null,
+        "possibly_sensitive": false,
+        "retweet_count": 0,
+        "retweeted": false,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "Why are these pants over $50,000 https://t.co/NM82trbe15",
+        "truncated": false,
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Sun May 02 15:54:58 +0000 2010",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "My right nipple is a fairytale",
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "favourites_count": 3809,
+            "follow_request_sent": false,
+            "followers_count": 518,
+            "following": false,
+            "friends_count": 286,
+            "geo_enabled": false,
+            "has_extended_profile": false,
+            "id": 139431419,
+            "id_str": "139431419",
+            "is_translation_enabled": false,
+            "is_translator": false,
+            "lang": "en",
+            "listed_count": 1,
+            "location": "",
+            "name": "Alex Kelsey",
+            "notifications": false,
+            "profile_background_color": "ACDED6",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/97772246/free_twitter_backgrounds_freshjen.jpg",
+            "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/97772246/free_twitter_backgrounds_freshjen.jpg",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/139431419/1389922030",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/670035505753538560/7hXEZJR4_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/670035505753538560/7hXEZJR4_normal.jpg",
+            "profile_link_color": "038543",
+            "profile_sidebar_border_color": "EEEEEE",
+            "profile_sidebar_fill_color": "F6F6F6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": false,
+            "protected": false,
+            "screen_name": "AKelss",
+            "statuses_count": 5497,
+            "time_zone": "Indiana (East)",
+            "url": null,
+            "utc_offset": -18000,
+            "verified": false
+        }
+    },
+    "quoted_status_id": 671379094156746753,
+    "quoted_status_id_str": "671379094156746753",
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@Abercrombie these are a tad bit over priced I feel like  https://t.co/1jDO2ahKA7",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Aug 15 00:03:36 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Think like a proton. Always positive +",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 7725,
+        "follow_request_sent": false,
+        "followers_count": 410,
+        "following": false,
+        "friends_count": 193,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 355189719,
+        "id_str": "355189719",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 1,
+        "location": "Ohio State   ig: ryanschuck",
+        "name": "Ryan Schuck",
+        "notifications": false,
+        "profile_background_color": "001329",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000070973964/d38dab928d74dcddb0bc21eb26053bf8.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000070973964/d38dab928d74dcddb0bc21eb26053bf8.jpeg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/355189719/1448243689",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/665024171559227392/OcLLTxZ8_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/665024171559227392/OcLLTxZ8_normal.jpg",
+        "profile_link_color": "004358",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000B17",
+        "profile_text_color": "448668",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Ryan_Schuck",
+        "statuses_count": 14943,
+        "time_zone": "Eastern Time (US & Canada)",
+        "url": null,
+        "utc_offset": -18000,
+        "verified": false
+    }
+}

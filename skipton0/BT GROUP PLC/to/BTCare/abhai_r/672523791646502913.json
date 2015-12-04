@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Dec 03 21:12:21 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 35737385,
+                "id_str": "35737385",
+                "indices": [
+                    0,
+                    7
+                ],
+                "name": "BT",
+                "screen_name": "BTCare"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 672523791646502913,
+    "id_str": "672523791646502913",
+    "in_reply_to_screen_name": "BTCare",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 35737385,
+    "in_reply_to_user_id_str": "35737385",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -0.996476,
+                        52.2354109
+                    ],
+                    [
+                        -0.9833611,
+                        52.2354109
+                    ],
+                    [
+                        -0.9833611,
+                        52.2461376
+                    ],
+                    [
+                        -0.996476,
+                        52.2461376
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United Kingdom",
+        "country_code": "GB",
+        "full_name": "Harpole, England",
+        "id": "7b7aa8634bd88cf5",
+        "name": "Harpole",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/7b7aa8634bd88cf5.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@BTCare Just moving phone to you. No mention of Caller Display in fees. Is it included?",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Aug 09 22:22:19 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Who is this doing this synthetic type of alpha beta psychedelic funkin'?",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "alexanderrosse.co.uk",
+                        "expanded_url": "http://www.alexanderrosse.co.uk",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/zChsIzAytZ"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 537,
+        "follow_request_sent": false,
+        "followers_count": 177,
+        "following": false,
+        "friends_count": 277,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 351920343,
+        "id_str": "351920343",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 47,
+        "location": "",
+        "name": "Abhai Rajguru",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/351920343/1435692497",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/2245630920/AR_Photo_normal.JPG",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/2245630920/AR_Photo_normal.JPG",
+        "profile_link_color": "9266CC",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "abhai_r",
+        "statuses_count": 1526,
+        "time_zone": "Amsterdam",
+        "url": "http://t.co/zChsIzAytZ",
+        "utc_offset": 3600,
+        "verified": false
+    }
+}
