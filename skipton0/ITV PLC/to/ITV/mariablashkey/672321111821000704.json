@@ -1,0 +1,144 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Dec 03 07:46:58 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 86925202,
+                "id_str": "86925202",
+                "indices": [
+                    0,
+                    4
+                ],
+                "name": "ITV",
+                "screen_name": "ITV"
+            },
+            {
+                "id": 3207551416,
+                "id_str": "3207551416",
+                "indices": [
+                    5,
+                    20
+                ],
+                "name": "Everything ITV",
+                "screen_name": "EverythingITV1"
+            },
+            {
+                "id": 17310915,
+                "id_str": "17310915",
+                "indices": [
+                    21,
+                    34
+                ],
+                "name": "imacelebrity",
+                "screen_name": "imacelebrity"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 672321111821000704,
+    "id_str": "672321111821000704",
+    "in_reply_to_screen_name": "ITV",
+    "in_reply_to_status_id": 672188704254009344,
+    "in_reply_to_status_id_str": "672188704254009344",
+    "in_reply_to_user_id": 86925202,
+    "in_reply_to_user_id_str": "86925202",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -1.706057,
+                        53.7363694
+                    ],
+                    [
+                        -1.424923,
+                        53.7363694
+                    ],
+                    [
+                        -1.424923,
+                        53.867543
+                    ],
+                    [
+                        -1.706057,
+                        53.867543
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United Kingdom",
+        "country_code": "GB",
+        "full_name": "Leeds, England",
+        "id": "6863fd050de21120",
+        "name": "Leeds",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/6863fd050de21120.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@ITV @EverythingITV1 @imacelebrity I'm sorry to people who like this. But I can't stand this programme",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Sep 02 10:15:09 +0000 2014",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Major SCD fan. I used to dance and teach however my Arthritis now says NO. I'm a very proud mum of two successful beautiful daughters and an amazing grandson!",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 14366,
+        "follow_request_sent": false,
+        "followers_count": 271,
+        "following": false,
+        "friends_count": 782,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 2759179821,
+        "id_str": "2759179821",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 4,
+        "location": "Leeds",
+        "name": "Maria Blashkey",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2759179821/1445467549",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/656964635900428288/PrdOpMy6_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/656964635900428288/PrdOpMy6_normal.jpg",
+        "profile_link_color": "9266CC",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "mariablashkey",
+        "statuses_count": 4570,
+        "time_zone": null,
+        "url": null,
+        "utc_offset": null,
+        "verified": false
+    }
+}

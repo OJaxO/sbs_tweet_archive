@@ -1,0 +1,133 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Dec 03 15:01:30 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 86925202,
+                "id_str": "86925202",
+                "indices": [
+                    0,
+                    4
+                ],
+                "name": "ITV",
+                "screen_name": "ITV"
+            },
+            {
+                "id": 487434979,
+                "id_str": "487434979",
+                "indices": [
+                    5,
+                    16
+                ],
+                "name": "Ma\u00efa Dunphy",
+                "screen_name": "MaiaDunphy"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 672430462665695232,
+    "id_str": "672430462665695232",
+    "in_reply_to_screen_name": "ITV",
+    "in_reply_to_status_id": 672155168503439360,
+    "in_reply_to_status_id_str": "672155168503439360",
+    "in_reply_to_user_id": 86925202,
+    "in_reply_to_user_id_str": "86925202",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        2.4191854,
+                        39.4564927
+                    ],
+                    [
+                        2.5979521,
+                        39.4564927
+                    ],
+                    [
+                        2.5979521,
+                        39.6406591
+                    ],
+                    [
+                        2.4191854,
+                        39.6406591
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "Espa\u00f1a",
+        "country_code": "ES",
+        "full_name": "Calvi\u00e0, Illes Balears",
+        "id": "78242e6887d96c18",
+        "name": "Calvi\u00e0",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/78242e6887d96c18.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@ITV @MaiaDunphy she's defo a strange creation",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Mar 03 12:50:33 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "im a 53yr old english woman, originally from blackpool but living in mallorca, 2 grown up kids and 2 granddaughters",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 34,
+        "follow_request_sent": false,
+        "followers_count": 3,
+        "following": false,
+        "friends_count": 59,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 22618392,
+        "id_str": "22618392",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 1,
+        "location": "mallorca",
+        "name": "janine lopez",
+        "notifications": false,
+        "profile_background_color": "642D8B",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/665592241705066497/d6gfEuAD_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/665592241705066497/d6gfEuAD_normal.jpg",
+        "profile_link_color": "FF0000",
+        "profile_sidebar_border_color": "65B0DA",
+        "profile_sidebar_fill_color": "7AC3EE",
+        "profile_text_color": "3D1957",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "janine62",
+        "statuses_count": 17,
+        "time_zone": "Madrid",
+        "url": null,
+        "utc_offset": 3600,
+        "verified": false
+    }
+}
