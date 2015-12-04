@@ -1,0 +1,144 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Nov 27 11:35:58 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 1364185838,
+                "id_str": "1364185838",
+                "indices": [
+                    0,
+                    15
+                ],
+                "name": "Dixons Carphone plc",
+                "screen_name": "DixonsCarphone"
+            },
+            {
+                "id": 170277278,
+                "id_str": "170277278",
+                "indices": [
+                    16,
+                    30
+                ],
+                "name": "Currys & PC World",
+                "screen_name": "curryspcworld"
+            },
+            {
+                "id": 17833933,
+                "id_str": "17833933",
+                "indices": [
+                    31,
+                    41
+                ],
+                "name": "Carphone Warehouse",
+                "screen_name": "CPWTweets"
+            }
+        ]
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": null,
+    "id": 670204412086874113,
+    "id_str": "670204412086874113",
+    "in_reply_to_screen_name": "DixonsCarphone",
+    "in_reply_to_status_id": 670201135949586432,
+    "in_reply_to_status_id_str": "670201135949586432",
+    "in_reply_to_user_id": 1364185838,
+    "in_reply_to_user_id_str": "1364185838",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -10.2254601,
+                        51.4192154
+                    ],
+                    [
+                        -7.8419121,
+                        51.4192154
+                    ],
+                    [
+                        -7.8419121,
+                        52.388492
+                    ],
+                    [
+                        -10.2254601,
+                        52.388492
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "Ireland",
+        "country_code": "IE",
+        "full_name": "Cork, Ireland",
+        "id": "c500c6f8494a90ac",
+        "name": "Cork",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/c500c6f8494a90ac.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@DixonsCarphone @curryspcworld @CPWTweets if they are as helpful as their friends in Mahon Point in Cork make it your next stop",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Oct 15 15:40:28 +0000 2013",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Healthy free from foods sales including gluten free,wheat free, lactose free",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 18,
+        "follow_request_sent": false,
+        "followers_count": 79,
+        "following": false,
+        "friends_count": 165,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 1962927907,
+        "id_str": "1962927907",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en-gb",
+        "listed_count": 2,
+        "location": "midleton Co Cork",
+        "name": "Healthy free from fo",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1962927907/1432123923",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/600997411469840384/XSIVmCyQ_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/600997411469840384/XSIVmCyQ_normal.jpg",
+        "profile_link_color": "94D487",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "FoHealthy",
+        "statuses_count": 197,
+        "time_zone": null,
+        "url": null,
+        "utc_offset": null,
+        "verified": false
+    }
+}

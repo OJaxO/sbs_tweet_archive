@@ -1,0 +1,251 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Dec 02 21:29:59 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 1568765743,
+                "id_str": "1568765743",
+                "indices": [
+                    3,
+                    13
+                ],
+                "name": "Christopher Sladdin",
+                "screen_name": "SladdinCJ"
+            },
+            {
+                "id": 1364185838,
+                "id_str": "1364185838",
+                "indices": [
+                    136,
+                    140
+                ],
+                "name": "Dixons Carphone plc",
+                "screen_name": "DixonsCarphone"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 672165842075959296,
+    "id_str": "672165842075959296",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": null,
+    "retweet_count": 1,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Wed Dec 02 18:03:59 +0000 2015",
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "id": 1364185838,
+                    "id_str": "1364185838",
+                    "indices": [
+                        121,
+                        136
+                    ],
+                    "name": "Dixons Carphone plc",
+                    "screen_name": "DixonsCarphone"
+                }
+            ]
+        },
+        "favorite_count": 0,
+        "favorited": false,
+        "geo": null,
+        "id": 672114001397071872,
+        "id_str": "672114001397071872",
+        "in_reply_to_screen_name": null,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "is_quote_status": false,
+        "lang": "en",
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "place": {
+            "attributes": {},
+            "bounding_box": {
+                "coordinates": [
+                    [
+                        [
+                            -3.3285119,
+                            55.894729
+                        ],
+                        [
+                            -3.077505,
+                            55.894729
+                        ],
+                        [
+                            -3.077505,
+                            55.991662
+                        ],
+                        [
+                            -3.3285119,
+                            55.991662
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "contained_within": [],
+            "country": "United Kingdom",
+            "country_code": "GB",
+            "full_name": "Edinburgh, Scotland",
+            "id": "7ae9e2f2ff7a87cd",
+            "name": "Edinburgh",
+            "place_type": "city",
+            "url": "https://api.twitter.com/1.1/geo/id/7ae9e2f2ff7a87cd.json"
+        },
+        "retweet_count": 1,
+        "retweeted": false,
+        "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for i\u039fS</a>",
+        "text": "\u201cData analytics is a key skill, but only if it adds value to our business + improved customer experience,\u201d says Caroline @DixonsCarphone.",
+        "truncated": false,
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Thu Jul 04 18:08:39 +0000 2013",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "Incoming Consultant @PwC_Scotland, Research Manager @TheTimes, Student @EdinburghUni, Accountant @teadoughUK, Author @StartupINTW. Love Food, Music & Travel.",
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "christophersladdin.com",
+                            "expanded_url": "http://www.christophersladdin.com",
+                            "indices": [
+                                0,
+                                23
+                            ],
+                            "url": "https://t.co/MiTJAvIBZG"
+                        }
+                    ]
+                }
+            },
+            "favourites_count": 1524,
+            "follow_request_sent": false,
+            "followers_count": 467,
+            "following": false,
+            "friends_count": 71,
+            "geo_enabled": true,
+            "has_extended_profile": true,
+            "id": 1568765743,
+            "id_str": "1568765743",
+            "is_translation_enabled": false,
+            "is_translator": false,
+            "lang": "en-gb",
+            "listed_count": 64,
+            "location": "Edinburgh",
+            "name": "Christopher Sladdin",
+            "notifications": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1568765743/1448366554",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/653607162816647168/LLNftZcU_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/653607162816647168/LLNftZcU_normal.jpg",
+            "profile_link_color": "DD2E44",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "protected": false,
+            "screen_name": "SladdinCJ",
+            "statuses_count": 3205,
+            "time_zone": "London",
+            "url": "https://t.co/MiTJAvIBZG",
+            "utc_offset": 0,
+            "verified": false
+        }
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "RT @SladdinCJ: \u201cData analytics is a key skill, but only if it adds value to our business + improved customer experience,\u201d says Caroline @Di\u2026",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Apr 19 11:23:45 +0000 2013",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "News from Dixons Carphone. UK brand news follow @curryspcworld, @cpwtweets. Customer issues contact @knowhowtohelp & @cpwtweets. Career opportunities, @JobsatDC",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "dixonscarphone.com",
+                        "expanded_url": "http://dixonscarphone.com",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/iiCZbZP9u5"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 43,
+        "follow_request_sent": false,
+        "followers_count": 4380,
+        "following": false,
+        "friends_count": 407,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 1364185838,
+        "id_str": "1364185838",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 82,
+        "location": "Acton",
+        "name": "Dixons Carphone plc",
+        "notifications": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/850356356/7e522916d042a345daaf6c9c26953c00.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/850356356/7e522916d042a345daaf6c9c26953c00.jpeg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1364185838/1407393457",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/498783166895628288/QwQ_LzCd_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/498783166895628288/QwQ_LzCd_normal.png",
+        "profile_link_color": "009999",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "DixonsCarphone",
+        "statuses_count": 5952,
+        "time_zone": "London",
+        "url": "http://t.co/iiCZbZP9u5",
+        "utc_offset": 0,
+        "verified": false
+    }
+}

@@ -1,0 +1,399 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Nov 28 20:01:09 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/dixonscarphone\u2026",
+                "expanded_url": "https://twitter.com/dixonscarphone/status/670169366814695424",
+                "indices": [
+                    77,
+                    100
+                ],
+                "url": "https://t.co/2xCkSO8Zur"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 1441749978,
+                "id_str": "1441749978",
+                "indices": [
+                    3,
+                    18
+                ],
+                "name": "Lozza",
+                "screen_name": "Lauren_Shanks1"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 670693935895977984,
+    "id_str": "670693935895977984",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": true,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 1,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Sat Nov 28 19:48:47 +0000 2015",
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "urls": [
+                {
+                    "display_url": "twitter.com/dixonscarphone\u2026",
+                    "expanded_url": "https://twitter.com/dixonscarphone/status/670169366814695424",
+                    "indices": [
+                        57,
+                        80
+                    ],
+                    "url": "https://t.co/2xCkSO8Zur"
+                }
+            ],
+            "user_mentions": []
+        },
+        "favorite_count": 3,
+        "favorited": false,
+        "geo": null,
+        "id": 670690820647948289,
+        "id_str": "670690820647948289",
+        "in_reply_to_screen_name": null,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "is_quote_status": true,
+        "lang": "en",
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "place": {
+            "attributes": {},
+            "bounding_box": {
+                "coordinates": [
+                    [
+                        [
+                            0.678274,
+                            52.2258889
+                        ],
+                        [
+                            0.7572878,
+                            52.2258889
+                        ],
+                        [
+                            0.7572878,
+                            52.270442
+                        ],
+                        [
+                            0.678274,
+                            52.270442
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "contained_within": [],
+            "country": "United Kingdom",
+            "country_code": "GB",
+            "full_name": "Bury Saint Edmunds, England",
+            "id": "3d9aefed42dda147",
+            "name": "Bury Saint Edmunds",
+            "place_type": "city",
+            "url": "https://api.twitter.com/1.1/geo/id/3d9aefed42dda147.json"
+        },
+        "possibly_sensitive": false,
+        "quoted_status": {
+            "contributors": null,
+            "coordinates": null,
+            "created_at": "Fri Nov 27 09:16:42 +0000 2015",
+            "entities": {
+                "hashtags": [
+                    {
+                        "indices": [
+                            80,
+                            92
+                        ],
+                        "text": "BlackFriday"
+                    },
+                    {
+                        "indices": [
+                            93,
+                            104
+                        ],
+                        "text": "SirCharles"
+                    }
+                ],
+                "media": [
+                    {
+                        "display_url": "pic.twitter.com/SlMI08z8v1",
+                        "expanded_url": "http://twitter.com/DixonsCarphone/status/670169366814695424/photo/1",
+                        "id": 670169365397045248,
+                        "id_str": "670169365397045248",
+                        "indices": [
+                            105,
+                            128
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/CUzrfLPXAAAiqQs.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/CUzrfLPXAAAiqQs.jpg",
+                        "sizes": {
+                            "large": {
+                                "h": 1349,
+                                "resize": "fit",
+                                "w": 758
+                            },
+                            "medium": {
+                                "h": 1067,
+                                "resize": "fit",
+                                "w": 600
+                            },
+                            "small": {
+                                "h": 605,
+                                "resize": "fit",
+                                "w": 340
+                            },
+                            "thumb": {
+                                "h": 150,
+                                "resize": "crop",
+                                "w": 150
+                            }
+                        },
+                        "type": "photo",
+                        "url": "https://t.co/SlMI08z8v1"
+                    }
+                ],
+                "symbols": [],
+                "urls": [],
+                "user_mentions": [
+                    {
+                        "id": 170277278,
+                        "id_str": "170277278",
+                        "indices": [
+                            23,
+                            37
+                        ],
+                        "name": "Currys & PC World",
+                        "screen_name": "curryspcworld"
+                    }
+                ]
+            },
+            "favorite_count": 25,
+            "favorited": false,
+            "geo": null,
+            "id": 670169366814695424,
+            "id_str": "670169366814695424",
+            "in_reply_to_screen_name": null,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "is_quote_status": false,
+            "lang": "en",
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "place": null,
+            "possibly_sensitive": false,
+            "retweet_count": 18,
+            "retweeted": false,
+            "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+            "text": "A handy new recruit in @curryspcworld Bury St Edmunds. Seems to know his stuff. #BlackFriday #SirCharles https://t.co/SlMI08z8v1",
+            "truncated": false,
+            "user": {
+                "contributors_enabled": false,
+                "created_at": "Fri Apr 19 11:23:45 +0000 2013",
+                "default_profile": false,
+                "default_profile_image": false,
+                "description": "News from Dixons Carphone. UK brand news follow @curryspcworld, @cpwtweets. Customer issues contact @knowhowtohelp & @cpwtweets. Career opportunities, @JobsatDC",
+                "entities": {
+                    "description": {
+                        "urls": []
+                    },
+                    "url": {
+                        "urls": [
+                            {
+                                "display_url": "dixonscarphone.com",
+                                "expanded_url": "http://dixonscarphone.com",
+                                "indices": [
+                                    0,
+                                    22
+                                ],
+                                "url": "http://t.co/iiCZbZP9u5"
+                            }
+                        ]
+                    }
+                },
+                "favourites_count": 43,
+                "follow_request_sent": false,
+                "followers_count": 4380,
+                "following": false,
+                "friends_count": 407,
+                "geo_enabled": false,
+                "has_extended_profile": false,
+                "id": 1364185838,
+                "id_str": "1364185838",
+                "is_translation_enabled": false,
+                "is_translator": false,
+                "lang": "en",
+                "listed_count": 82,
+                "location": "Acton",
+                "name": "Dixons Carphone plc",
+                "notifications": false,
+                "profile_background_color": "131516",
+                "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/850356356/7e522916d042a345daaf6c9c26953c00.jpeg",
+                "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/850356356/7e522916d042a345daaf6c9c26953c00.jpeg",
+                "profile_background_tile": true,
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/1364185838/1407393457",
+                "profile_image_url": "http://pbs.twimg.com/profile_images/498783166895628288/QwQ_LzCd_normal.png",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/498783166895628288/QwQ_LzCd_normal.png",
+                "profile_link_color": "009999",
+                "profile_sidebar_border_color": "FFFFFF",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": false,
+                "protected": false,
+                "screen_name": "DixonsCarphone",
+                "statuses_count": 5952,
+                "time_zone": "London",
+                "url": "http://t.co/iiCZbZP9u5",
+                "utc_offset": 0,
+                "verified": false
+            }
+        },
+        "quoted_status_id": 670169366814695424,
+        "quoted_status_id_str": "670169366814695424",
+        "retweet_count": 1,
+        "retweeted": false,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "This was at our store\ud83d\udc4d\ud83c\udffd working with Sir Charles was fun https://t.co/2xCkSO8Zur",
+        "truncated": false,
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Sun May 19 17:32:49 +0000 2013",
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "",
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "favourites_count": 2291,
+            "follow_request_sent": false,
+            "followers_count": 995,
+            "following": false,
+            "friends_count": 1076,
+            "geo_enabled": true,
+            "has_extended_profile": true,
+            "id": 1441749978,
+            "id_str": "1441749978",
+            "is_translation_enabled": false,
+            "is_translator": false,
+            "lang": "en",
+            "listed_count": 1,
+            "location": "Suffolk",
+            "name": "Lozza",
+            "notifications": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1441749978/1449083370",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/672130018911342592/YM6cGy3L_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/672130018911342592/YM6cGy3L_normal.jpg",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "Lauren_Shanks1",
+            "statuses_count": 1675,
+            "time_zone": null,
+            "url": null,
+            "utc_offset": null,
+            "verified": false
+        }
+    },
+    "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+    "text": "RT @Lauren_Shanks1: This was at our store\ud83d\udc4d\ud83c\udffd working with Sir Charles was fun https://t.co/2xCkSO8Zur",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Apr 19 11:23:45 +0000 2013",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "News from Dixons Carphone. UK brand news follow @curryspcworld, @cpwtweets. Customer issues contact @knowhowtohelp & @cpwtweets. Career opportunities, @JobsatDC",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "dixonscarphone.com",
+                        "expanded_url": "http://dixonscarphone.com",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/iiCZbZP9u5"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 43,
+        "follow_request_sent": false,
+        "followers_count": 4380,
+        "following": false,
+        "friends_count": 407,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 1364185838,
+        "id_str": "1364185838",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 82,
+        "location": "Acton",
+        "name": "Dixons Carphone plc",
+        "notifications": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/850356356/7e522916d042a345daaf6c9c26953c00.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/850356356/7e522916d042a345daaf6c9c26953c00.jpeg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1364185838/1407393457",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/498783166895628288/QwQ_LzCd_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/498783166895628288/QwQ_LzCd_normal.png",
+        "profile_link_color": "009999",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "DixonsCarphone",
+        "statuses_count": 5952,
+        "time_zone": "London",
+        "url": "http://t.co/iiCZbZP9u5",
+        "utc_offset": 0,
+        "verified": false
+    }
+}
