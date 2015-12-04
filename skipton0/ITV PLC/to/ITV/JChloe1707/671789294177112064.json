@@ -1,0 +1,143 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 01 20:33:43 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 86925202,
+                "id_str": "86925202",
+                "indices": [
+                    0,
+                    4
+                ],
+                "name": "ITV",
+                "screen_name": "ITV"
+            },
+            {
+                "id": 18953259,
+                "id_str": "18953259",
+                "indices": [
+                    5,
+                    12
+                ],
+                "name": "Phillip Schofield",
+                "screen_name": "Schofe"
+            },
+            {
+                "id": 384860253,
+                "id_str": "384860253",
+                "indices": [
+                    13,
+                    26
+                ],
+                "name": "Text Santa",
+                "screen_name": "ITVTextSanta"
+            }
+        ]
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": null,
+    "id": 671789294177112064,
+    "id_str": "671789294177112064",
+    "in_reply_to_screen_name": "ITV",
+    "in_reply_to_status_id": 671787159498719233,
+    "in_reply_to_status_id_str": "671787159498719233",
+    "in_reply_to_user_id": 86925202,
+    "in_reply_to_user_id_str": "86925202",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -0.080526,
+                        51.3434174
+                    ],
+                    [
+                        0.1331237,
+                        51.3434174
+                    ],
+                    [
+                        0.1331237,
+                        51.4452233
+                    ],
+                    [
+                        -0.080526,
+                        51.4452233
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United Kingdom",
+        "country_code": "GB",
+        "full_name": "Bromley, London",
+        "id": "135989ad972a5d9d",
+        "name": "Bromley",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/135989ad972a5d9d.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@ITV @Schofe @ITVTextSanta yeah I'm a celebrity. ..brilliant",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Mar 28 03:12:22 +0000 2015",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 4,
+        "follow_request_sent": false,
+        "followers_count": 2,
+        "following": false,
+        "friends_count": 12,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 3122932078,
+        "id_str": "3122932078",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 0,
+        "location": "",
+        "name": "Jeanie Collins",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/671719719636967424/rigD5a4T_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/671719719636967424/rigD5a4T_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "JChloe1707",
+        "statuses_count": 47,
+        "time_zone": null,
+        "url": null,
+        "utc_offset": null,
+        "verified": false
+    }
+}

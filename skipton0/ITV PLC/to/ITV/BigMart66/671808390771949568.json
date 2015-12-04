@@ -1,0 +1,123 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 01 21:49:36 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 86925202,
+                "id_str": "86925202",
+                "indices": [
+                    0,
+                    4
+                ],
+                "name": "ITV",
+                "screen_name": "ITV"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 671808390771949568,
+    "id_str": "671808390771949568",
+    "in_reply_to_screen_name": "ITV",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 86925202,
+    "in_reply_to_user_id_str": "86925202",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -3.1457875,
+                        53.304078
+                    ],
+                    [
+                        -2.933067,
+                        53.304078
+                    ],
+                    [
+                        -2.933067,
+                        53.421308
+                    ],
+                    [
+                        -3.1457875,
+                        53.421308
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United Kingdom",
+        "country_code": "GB",
+        "full_name": "Birkenhead, England",
+        "id": "2f843bbfaebff6ef",
+        "name": "Birkenhead",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/2f843bbfaebff6ef.json"
+    },
+    "retweet_count": 1,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@ITV how come Chris Eubank was only on screen when evicted 2nite? Bias there I think.\ud83d\ude20\ud83d\ude20\ud83d\ude20",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri May 01 16:41:08 +0000 2009",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Just being me.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 229,
+        "follow_request_sent": false,
+        "followers_count": 46,
+        "following": false,
+        "friends_count": 127,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 36983043,
+        "id_str": "36983043",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 4,
+        "location": "Liverpool",
+        "name": "Martin Handley",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/3695102364/984590b71ff83855a553b5e931cb1ab3_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/3695102364/984590b71ff83855a553b5e931cb1ab3_normal.jpeg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "BigMart66",
+        "statuses_count": 804,
+        "time_zone": "London",
+        "url": null,
+        "utc_offset": 0,
+        "verified": false
+    }
+}
