@@ -1,0 +1,325 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Dec 04 03:59:36 +0000 2015",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    9,
+                    18
+                ],
+                "text": "Dominion"
+            },
+            {
+                "indices": [
+                    19,
+                    27
+                ],
+                "text": "Netflix"
+            }
+        ],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/ghostcatbce/st\u2026",
+                "expanded_url": "https://twitter.com/ghostcatbce/status/672617530284900352",
+                "indices": [
+                    28,
+                    51
+                ],
+                "url": "https://t.co/2rETBNSgcc"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 16573941,
+                "id_str": "16573941",
+                "indices": [
+                    0,
+                    8
+                ],
+                "name": "Netflix US",
+                "screen_name": "netflix"
+            }
+        ]
+    },
+    "favorite_count": 2,
+    "favorited": false,
+    "geo": null,
+    "id": 672626278068060160,
+    "id_str": "672626278068060160",
+    "in_reply_to_screen_name": "netflix",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 16573941,
+    "in_reply_to_user_id_str": "16573941",
+    "is_quote_status": true,
+    "lang": "und",
+    "metadata": {
+        "iso_language_code": "und",
+        "result_type": "recent"
+    },
+    "place": null,
+    "possibly_sensitive": false,
+    "quoted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Fri Dec 04 03:24:50 +0000 2015",
+        "entities": {
+            "hashtags": [
+                {
+                    "indices": [
+                        9,
+                        18
+                    ],
+                    "text": "Dominion"
+                }
+            ],
+            "media": [
+                {
+                    "display_url": "pic.twitter.com/KQ0tlYA3sA",
+                    "expanded_url": "http://twitter.com/ghostcatbce/status/672617530284900352/photo/1",
+                    "id": 672617529446039553,
+                    "id_str": "672617529446039553",
+                    "indices": [
+                        118,
+                        141
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/CVWeFFBVAAENk5B.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/CVWeFFBVAAENk5B.jpg",
+                    "sizes": {
+                        "large": {
+                            "h": 338,
+                            "resize": "fit",
+                            "w": 600
+                        },
+                        "medium": {
+                            "h": 338,
+                            "resize": "fit",
+                            "w": 600
+                        },
+                        "small": {
+                            "h": 191,
+                            "resize": "fit",
+                            "w": 340
+                        },
+                        "thumb": {
+                            "h": 150,
+                            "resize": "crop",
+                            "w": 150
+                        }
+                    },
+                    "type": "photo",
+                    "url": "https://t.co/KQ0tlYA3sA"
+                }
+            ],
+            "symbols": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "id": 1284151070,
+                    "id_str": "1284151070",
+                    "indices": [
+                        55,
+                        64
+                    ],
+                    "name": "Urmel Mal",
+                    "screen_name": "UrmelMal"
+                },
+                {
+                    "id": 347511105,
+                    "id_str": "347511105",
+                    "indices": [
+                        110,
+                        117
+                    ],
+                    "name": "MMXVDB",
+                    "screen_name": "MMXVDB"
+                }
+            ]
+        },
+        "favorite_count": 12,
+        "favorited": false,
+        "geo": null,
+        "id": 672617530284900352,
+        "id_str": "672617530284900352",
+        "in_reply_to_screen_name": null,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "is_quote_status": false,
+        "lang": "en",
+        "metadata": {
+            "iso_language_code": "und",
+            "result_type": "recent"
+        },
+        "place": {
+            "attributes": {},
+            "bounding_box": {
+                "coordinates": [
+                    [
+                        [
+                            -114.3160379,
+                            50.84278
+                        ],
+                        [
+                            -113.859664,
+                            50.84278
+                        ],
+                        [
+                            -113.859664,
+                            51.212548
+                        ],
+                        [
+                            -114.3160379,
+                            51.212548
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "contained_within": [],
+            "country": "Canada",
+            "country_code": "CA",
+            "full_name": "Calgary, Alberta",
+            "id": "53504716d445dcad",
+            "name": "Calgary",
+            "place_type": "city",
+            "url": "https://api.twitter.com/1.1/geo/id/53504716d445dcad.json"
+        },
+        "possibly_sensitive": false,
+        "retweet_count": 10,
+        "retweeted": false,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": "Finally! #Dominion fans  Grab some \"Empyrean Steel\" by @UrmelMal &amp; head for \"Mankind' Last Stronghold\" by @MMXVDB https://t.co/KQ0tlYA3sA",
+        "truncated": false,
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Tue Nov 15 23:55:13 +0000 2011",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "A humanist Pagan with a strong spiritual lean. I'm also a huge fan of Dominion.",
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "uraniabce.tumblr.com",
+                            "expanded_url": "http://uraniabce.tumblr.com/",
+                            "indices": [
+                                0,
+                                22
+                            ],
+                            "url": "http://t.co/hiPTICxvZC"
+                        }
+                    ]
+                }
+            },
+            "favourites_count": 11985,
+            "follow_request_sent": false,
+            "followers_count": 790,
+            "following": false,
+            "friends_count": 1200,
+            "geo_enabled": true,
+            "has_extended_profile": true,
+            "id": 413514250,
+            "id_str": "413514250",
+            "is_translation_enabled": false,
+            "is_translator": false,
+            "lang": "en",
+            "listed_count": 89,
+            "location": "Calgary Alberta Canada",
+            "name": "Ghost Wings Warrior",
+            "notifications": false,
+            "profile_background_color": "0099B9",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/667986798333718528/dzWN6Cot.jpg",
+            "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/667986798333718528/dzWN6Cot.jpg",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/413514250/1448095271",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/667982181134786560/qwNeXwzy_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/667982181134786560/qwNeXwzy_normal.jpg",
+            "profile_link_color": "3B94D9",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "ghostcatbce",
+            "statuses_count": 52400,
+            "time_zone": "Mountain Time (US & Canada)",
+            "url": "http://t.co/hiPTICxvZC",
+            "utc_offset": -25200,
+            "verified": false
+        }
+    },
+    "quoted_status_id": 672617530284900352,
+    "quoted_status_id_str": "672617530284900352",
+    "retweet_count": 7,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+    "text": "@netflix #Dominion #Netflix https://t.co/2rETBNSgcc",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Sep 10 01:56:25 +0000 2015",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Avantgarde Salon & Spa owner, lover of syfy, wants to spread compassion and knows love wins!",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "avantgarde-salon.com",
+                        "expanded_url": "http://www.avantgarde-salon.com",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/V18EU7C9x8"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 2798,
+        "follow_request_sent": false,
+        "followers_count": 146,
+        "following": false,
+        "friends_count": 193,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 3510399678,
+        "id_str": "3510399678",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 2,
+        "location": "Grand Rapids, MI",
+        "name": "Bonnie Moore",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/642092304228978688/NaBLUkL9_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/642092304228978688/NaBLUkL9_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "BonnieM1015",
+        "statuses_count": 6486,
+        "time_zone": null,
+        "url": "http://t.co/V18EU7C9x8",
+        "utc_offset": null,
+        "verified": false
+    }
+}

@@ -1,0 +1,282 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Dec 04 04:05:36 +0000 2015",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    9,
+                    18
+                ],
+                "text": "Dominion"
+            },
+            {
+                "indices": [
+                    19,
+                    27
+                ],
+                "text": "Netflix"
+            }
+        ],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/Kathy_Porter/s\u2026",
+                "expanded_url": "https://twitter.com/Kathy_Porter/status/672445093320765441",
+                "indices": [
+                    29,
+                    52
+                ],
+                "url": "https://t.co/Yxbv40R4mI"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 16573941,
+                "id_str": "16573941",
+                "indices": [
+                    0,
+                    8
+                ],
+                "name": "Netflix US",
+                "screen_name": "netflix"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 672627790399705090,
+    "id_str": "672627790399705090",
+    "in_reply_to_screen_name": "netflix",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 16573941,
+    "in_reply_to_user_id_str": "16573941",
+    "is_quote_status": true,
+    "lang": "und",
+    "metadata": {
+        "iso_language_code": "und",
+        "result_type": "recent"
+    },
+    "place": null,
+    "possibly_sensitive": false,
+    "quoted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Thu Dec 03 15:59:38 +0000 2015",
+        "entities": {
+            "hashtags": [],
+            "media": [
+                {
+                    "display_url": "pic.twitter.com/7XcFsLekXT",
+                    "expanded_url": "http://twitter.com/Kathy_Porter/status/672445093320765441/photo/1",
+                    "id": 672445088681824256,
+                    "id_str": "672445088681824256",
+                    "indices": [
+                        24,
+                        47
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/CVUBPtHWEAA5jxE.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/CVUBPtHWEAA5jxE.jpg",
+                    "sizes": {
+                        "large": {
+                            "h": 318,
+                            "resize": "fit",
+                            "w": 640
+                        },
+                        "medium": {
+                            "h": 298,
+                            "resize": "fit",
+                            "w": 600
+                        },
+                        "small": {
+                            "h": 168,
+                            "resize": "fit",
+                            "w": 340
+                        },
+                        "thumb": {
+                            "h": 150,
+                            "resize": "crop",
+                            "w": 150
+                        }
+                    },
+                    "type": "photo",
+                    "url": "https://t.co/7XcFsLekXT"
+                }
+            ],
+            "symbols": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "id": 1350827676,
+                    "id_str": "1350827676",
+                    "indices": [
+                        0,
+                        15
+                    ],
+                    "name": "Bill Brown",
+                    "screen_name": "billbrownmusic"
+                }
+            ]
+        },
+        "favorite_count": 8,
+        "favorited": false,
+        "geo": null,
+        "id": 672445093320765441,
+        "id_str": "672445093320765441",
+        "in_reply_to_screen_name": "billbrownmusic",
+        "in_reply_to_status_id": 672444017909469184,
+        "in_reply_to_status_id_str": "672444017909469184",
+        "in_reply_to_user_id": 1350827676,
+        "in_reply_to_user_id_str": "1350827676",
+        "is_quote_status": false,
+        "lang": "en",
+        "metadata": {
+            "iso_language_code": "und",
+            "result_type": "recent"
+        },
+        "place": {
+            "attributes": {},
+            "bounding_box": {
+                "coordinates": [
+                    [
+                        [
+                            -84.0457241,
+                            33.624919
+                        ],
+                        [
+                            -83.927994,
+                            33.624919
+                        ],
+                        [
+                            -83.927994,
+                            33.702968
+                        ],
+                        [
+                            -84.0457241,
+                            33.702968
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "contained_within": [],
+            "country": "United States",
+            "country_code": "US",
+            "full_name": "Conyers, GA",
+            "id": "32b057a29a79ad43",
+            "name": "Conyers",
+            "place_type": "city",
+            "url": "https://api.twitter.com/1.1/geo/id/32b057a29a79ad43.json"
+        },
+        "possibly_sensitive": false,
+        "retweet_count": 2,
+        "retweeted": false,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "@billbrownmusic this!\u2764\ufe0f https://t.co/7XcFsLekXT",
+        "truncated": false,
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Wed Apr 22 00:16:10 +0000 2009",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "Mom, nurse,people loving Christian. Dominion tv show fanatic Archangel Gabriel lover, Carl Beukes fan forever #gabesbabe forever",
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "favourites_count": 33252,
+            "follow_request_sent": false,
+            "followers_count": 1383,
+            "following": false,
+            "friends_count": 2076,
+            "geo_enabled": true,
+            "has_extended_profile": false,
+            "id": 34105006,
+            "id_str": "34105006",
+            "is_translation_enabled": false,
+            "is_translator": false,
+            "lang": "en",
+            "listed_count": 34,
+            "location": "Georgia",
+            "name": "Kathy Porter",
+            "notifications": false,
+            "profile_background_color": "352726",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/131950082/haven.jpg",
+            "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/131950082/haven.jpg",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/34105006/1439605996",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/653575972642529280/Fiq3zKi3_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/653575972642529280/Fiq3zKi3_normal.jpg",
+            "profile_link_color": "D02B55",
+            "profile_sidebar_border_color": "829D5E",
+            "profile_sidebar_fill_color": "99CC33",
+            "profile_text_color": "3E4415",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "Kathy_Porter",
+            "statuses_count": 35834,
+            "time_zone": "Quito",
+            "url": null,
+            "utc_offset": -18000,
+            "verified": false
+        }
+    },
+    "quoted_status_id": 672445093320765441,
+    "quoted_status_id_str": "672445093320765441",
+    "retweet_count": 1,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@netflix #Dominion #Netflix  https://t.co/Yxbv40R4mI",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Dec 04 16:56:23 +0000 2009",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "An account solely to support\n#Dominion & fight for its renewal.\nWill RT ANY/ALL & ONLY  #Dominion #SaveDominion #RenewDominion but NO OTHERS!",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 3279,
+        "follow_request_sent": false,
+        "followers_count": 323,
+        "following": false,
+        "friends_count": 653,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 94595408,
+        "id_str": "94595408",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 5,
+        "location": "Texas",
+        "name": "Angela #SaveDominion",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/94595408/1445887967",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/660563960941293568/ut0yjspQ_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/660563960941293568/ut0yjspQ_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "alovil",
+        "statuses_count": 2808,
+        "time_zone": null,
+        "url": null,
+        "utc_offset": null,
+        "verified": false
+    }
+}

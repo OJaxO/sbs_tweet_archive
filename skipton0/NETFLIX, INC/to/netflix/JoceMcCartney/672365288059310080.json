@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Dec 03 10:42:31 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 16573941,
+                "id_str": "16573941",
+                "indices": [
+                    0,
+                    8
+                ],
+                "name": "Netflix US",
+                "screen_name": "netflix"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 672365288059310080,
+    "id_str": "672365288059310080",
+    "in_reply_to_screen_name": "netflix",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 16573941,
+    "in_reply_to_user_id_str": "16573941",
+    "is_quote_status": false,
+    "lang": "es",
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -101.201992,
+                        20.8613091
+                    ],
+                    [
+                        -100.6352,
+                        20.8613091
+                    ],
+                    [
+                        -100.6352,
+                        21.3505781
+                    ],
+                    [
+                        -101.201992,
+                        21.3505781
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "M\u00e9xico",
+        "country_code": "MX",
+        "full_name": "Dolores Hidalgo Cuna de la Independencia Nacional, Guanajuato",
+        "id": "fad9c8fadf3bbb85",
+        "name": "Dolores Hidalgo Cuna de la Independencia Nacional",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/fad9c8fadf3bbb85.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@netflix \u00bfcuando suben la s\u00e9ptima temporada de two and a half men? :(",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Apr 21 04:12:22 +0000 2012",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "S\u00ed me quiero caer, me caigo. Y s\u00ed me rompo, no importa, qu\u00e9 yo sola me reparo.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "Instagram.com/jocelyn.morag",
+                        "expanded_url": "http://Instagram.com/jocelyn.morag",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/Ac2t6M3pka"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 5837,
+        "follow_request_sent": false,
+        "followers_count": 327,
+        "following": false,
+        "friends_count": 88,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 559184603,
+        "id_str": "559184603",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "es",
+        "listed_count": 3,
+        "location": "Guanajuato, M\u00e9xico",
+        "name": "Lowly Deserter.\u2601\ufe0f",
+        "notifications": false,
+        "profile_background_color": "FFF04D",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000098484783/1ddb70c8230ed19bdd4833add89cb3ec.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000098484783/1ddb70c8230ed19bdd4833add89cb3ec.jpeg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/559184603/1449105237",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/672276577263026176/YSCVrGCD_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/672276577263026176/YSCVrGCD_normal.jpg",
+        "profile_link_color": "0099CC",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "JoceMcCartney",
+        "statuses_count": 19227,
+        "time_zone": "Eastern Time (US & Canada)",
+        "url": "https://t.co/Ac2t6M3pka",
+        "utc_offset": -18000,
+        "verified": false
+    }
+}

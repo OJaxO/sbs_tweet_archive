@@ -1,0 +1,142 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Dec 03 21:08:33 +0000 2015",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    52,
+                    65
+                ],
+                "text": "PabloEscobar"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 16573941,
+                "id_str": "16573941",
+                "indices": [
+                    0,
+                    8
+                ],
+                "name": "Netflix US",
+                "screen_name": "netflix"
+            },
+            {
+                "id": 2984674484,
+                "id_str": "2984674484",
+                "indices": [
+                    23,
+                    37
+                ],
+                "name": "Narcos",
+                "screen_name": "NarcosNetflix"
+            }
+        ]
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": null,
+    "id": 672522834615230464,
+    "id_str": "672522834615230464",
+    "in_reply_to_screen_name": "netflix",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 16573941,
+    "in_reply_to_user_id_str": "16573941",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -90.354287,
+                        38.81821
+                    ],
+                    [
+                        -90.307889,
+                        38.81821
+                    ],
+                    [
+                        -90.307889,
+                        38.861594
+                    ],
+                    [
+                        -90.354287,
+                        38.861594
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Lewis and Clark, MO",
+        "id": "00ef7cb87f14fc2b",
+        "name": "Lewis and Clark",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/00ef7cb87f14fc2b.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@netflix we waiting on @NarcosNetflix Season Two!!! #PabloEscobar",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon May 27 15:01:39 +0000 2013",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "A dj in st louis MO. I love music. I play; dancehall, reggae, hiphop, top 40 for events: parties, weddings or anything, email-deejayjt005@gmail.com",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 415,
+        "follow_request_sent": false,
+        "followers_count": 331,
+        "following": false,
+        "friends_count": 306,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 1462315098,
+        "id_str": "1462315098",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 3,
+        "location": "St Louis MO. ",
+        "name": "DJJAYT314",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000171909108/mgb7uC4m.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000171909108/mgb7uC4m.jpeg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1462315098/1379451354",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/441814464791207936/sALmVNbI_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/441814464791207936/sALmVNbI_normal.jpeg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "DJJAYT314",
+        "statuses_count": 1379,
+        "time_zone": "Central Time (US & Canada)",
+        "url": null,
+        "utc_offset": -21600,
+        "verified": false
+    }
+}

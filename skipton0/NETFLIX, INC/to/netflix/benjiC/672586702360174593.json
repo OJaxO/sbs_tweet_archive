@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Dec 04 01:22:20 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 16573941,
+                "id_str": "16573941",
+                "indices": [
+                    0,
+                    8
+                ],
+                "name": "Netflix US",
+                "screen_name": "netflix"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 672586702360174593,
+    "id_str": "672586702360174593",
+    "in_reply_to_screen_name": "netflix",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 16573941,
+    "in_reply_to_user_id_str": "16573941",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -114.1203252,
+                        46.780202
+                    ],
+                    [
+                        -113.941975,
+                        46.780202
+                    ],
+                    [
+                        -113.941975,
+                        46.977998
+                    ],
+                    [
+                        -114.1203252,
+                        46.977998
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Missoula, MT",
+        "id": "00427d4a5c4a1fc3",
+        "name": "Missoula",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/00427d4a5c4a1fc3.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@netflix original content idea: reality show/documentary about Netflix general software engineering and/or devops process and culture.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Jun 06 21:49:55 +0000 2008",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Young father and husband who enjoys technology. A student at the University of Montana. I like computers and math.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "benjica.com",
+                        "expanded_url": "http://www.benjica.com",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/f0L1UR32Tm"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 507,
+        "follow_request_sent": false,
+        "followers_count": 167,
+        "following": false,
+        "friends_count": 478,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 15032863,
+        "id_str": "15032863",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 10,
+        "location": "Missoula, MT",
+        "name": "Ben Campbell",
+        "notifications": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/15032863/1426540593",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/577579234039754752/Jjqp5LNM_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/577579234039754752/Jjqp5LNM_normal.jpeg",
+        "profile_link_color": "ABB8C2",
+        "profile_sidebar_border_color": "EEEEEE",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "benjiC",
+        "statuses_count": 1541,
+        "time_zone": "Mountain Time (US & Canada)",
+        "url": "http://t.co/f0L1UR32Tm",
+        "utc_offset": -25200,
+        "verified": false
+    }
+}

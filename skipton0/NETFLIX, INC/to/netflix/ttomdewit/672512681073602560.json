@@ -1,0 +1,114 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Dec 03 20:28:12 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 16573941,
+                "id_str": "16573941",
+                "indices": [
+                    0,
+                    8
+                ],
+                "name": "Netflix US",
+                "screen_name": "netflix"
+            },
+            {
+                "id": 231239973,
+                "id_str": "231239973",
+                "indices": [
+                    107,
+                    117
+                ],
+                "name": "Netflix NL & BE",
+                "screen_name": "NetflixNL"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 672512681073602560,
+    "id_str": "672512681073602560",
+    "in_reply_to_screen_name": "netflix",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 16573941,
+    "in_reply_to_user_id_str": "16573941",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for i\u039fS</a>",
+    "text": "@netflix Getting a https-related certificate warning via Chrome tonight. Are you experiencing any issues?\n\n@NetflixNL",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Jun 13 17:58:14 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Front-end and WordPress developer @LinkUimedia.\n\nAttempting to write web-apps in Node.js and Laravel.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "tomdewit.com",
+                        "expanded_url": "http://www.tomdewit.com",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/MhYnxVqWvj"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 660,
+        "follow_request_sent": false,
+        "followers_count": 249,
+        "following": false,
+        "friends_count": 146,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 155283696,
+        "id_str": "155283696",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 13,
+        "location": "The Netherlands",
+        "name": "Tom de Wit",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/552443592/subtle_stripes.png",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/552443592/subtle_stripes.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/155283696/1413274279",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/496636456275042304/1UgTC-8Q_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/496636456275042304/1UgTC-8Q_normal.jpeg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "ttomdewit",
+        "statuses_count": 9696,
+        "time_zone": "Amsterdam",
+        "url": "https://t.co/MhYnxVqWvj",
+        "utc_offset": 3600,
+        "verified": false
+    }
+}

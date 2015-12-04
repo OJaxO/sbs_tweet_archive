@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Dec 04 06:35:21 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 16573941,
+                "id_str": "16573941",
+                "indices": [
+                    0,
+                    8
+                ],
+                "name": "Netflix US",
+                "screen_name": "netflix"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 672665476992909312,
+    "id_str": "672665476992909312",
+    "in_reply_to_screen_name": "netflix",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 16573941,
+    "in_reply_to_user_id_str": "16573941",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -118.365715,
+                        33.9827564
+                    ],
+                    [
+                        -118.331397,
+                        33.9827564
+                    ],
+                    [
+                        -118.331397,
+                        34.008397
+                    ],
+                    [
+                        -118.365715,
+                        34.008397
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "View Park-Windsor Hills, CA",
+        "id": "3f5aa7a2b7beec37",
+        "name": "View Park-Windsor Hills",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/3f5aa7a2b7beec37.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@netflix needs a shuffle button",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Mar 01 00:52:42 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "athletic.net/TrackAndField/\u2026",
+                        "expanded_url": "http://www.athletic.net/TrackAndField/Athlete.aspx?AID=6968870",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/PjRqwDN9KJ"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 12522,
+        "follow_request_sent": false,
+        "followers_count": 404,
+        "following": false,
+        "friends_count": 283,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 118540205,
+        "id_str": "118540205",
+        "is_translation_enabled": true,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 2,
+        "location": "View Park-Windsor Hills, CA",
+        "name": "dab on em folk",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/431845567480619008/zf2pYasG.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/431845567480619008/zf2pYasG.jpeg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/118540205/1438500913",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/661773287882518528/2j2YH6qD_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/661773287882518528/2j2YH6qD_normal.jpg",
+        "profile_link_color": "0040FF",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "wyler_tebb",
+        "statuses_count": 14511,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "https://t.co/PjRqwDN9KJ",
+        "utc_offset": -28800,
+        "verified": false
+    }
+}
