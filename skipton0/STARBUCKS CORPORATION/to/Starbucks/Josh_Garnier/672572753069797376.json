@@ -1,0 +1,147 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Dec 04 00:26:54 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 30973,
+                "id_str": "30973",
+                "indices": [
+                    0,
+                    10
+                ],
+                "name": "Starbucks Coffee",
+                "screen_name": "Starbucks"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 672572753069797376,
+    "id_str": "672572753069797376",
+    "in_reply_to_screen_name": "Starbucks",
+    "in_reply_to_status_id": 672571289891168256,
+    "in_reply_to_status_id_str": "672571289891168256",
+    "in_reply_to_user_id": 30973,
+    "in_reply_to_user_id_str": "30973",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -122.514926,
+                        37.708075
+                    ],
+                    [
+                        -122.357031,
+                        37.708075
+                    ],
+                    [
+                        -122.357031,
+                        37.833238
+                    ],
+                    [
+                        -122.514926,
+                        37.833238
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "San Francisco, CA",
+        "id": "5a110d312052166f",
+        "name": "San Francisco",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/5a110d312052166f.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@Starbucks it's not my job to double submit my feedback. It's yours.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Apr 16 21:16:46 +0000 2008",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Product @ RepairPal. OpenTable alum. Lifehacker. Currently musing on http://t.co/mt7qO1mLuC @ondemand_guy",
+        "entities": {
+            "description": {
+                "urls": [
+                    {
+                        "display_url": "theondemandguy.com",
+                        "expanded_url": "http://theondemandguy.com",
+                        "indices": [
+                            69,
+                            91
+                        ],
+                        "url": "http://t.co/mt7qO1mLuC"
+                    }
+                ]
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "linkedin.com/in/joshgarnier",
+                        "expanded_url": "https://www.linkedin.com/in/joshgarnier",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/Mk3NVC4D0a"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 116,
+        "follow_request_sent": false,
+        "followers_count": 125,
+        "following": false,
+        "friends_count": 88,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 14413026,
+        "id_str": "14413026",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 9,
+        "location": "San Francisco",
+        "name": "Josh Garnier",
+        "notifications": false,
+        "profile_background_color": "ABB8C2",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/587760618192510977/iPJOA3R1.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/587760618192510977/iPJOA3R1.jpg",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/14413026/1444268255",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/642102348060323840/qfv6IDcW_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/642102348060323840/qfv6IDcW_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "Josh_Garnier",
+        "statuses_count": 685,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "https://t.co/Mk3NVC4D0a",
+        "utc_offset": -28800,
+        "verified": false
+    }
+}
