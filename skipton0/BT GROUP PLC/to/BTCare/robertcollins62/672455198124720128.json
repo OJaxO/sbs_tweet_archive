@@ -1,0 +1,123 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Dec 03 16:39:47 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 35737385,
+                "id_str": "35737385",
+                "indices": [
+                    0,
+                    7
+                ],
+                "name": "BT",
+                "screen_name": "BTCare"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 672455198124720128,
+    "id_str": "672455198124720128",
+    "in_reply_to_screen_name": "BTCare",
+    "in_reply_to_status_id": 672443685188014081,
+    "in_reply_to_status_id_str": "672443685188014081",
+    "in_reply_to_user_id": 35737385,
+    "in_reply_to_user_id_str": "35737385",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -3.568747,
+                        50.693458
+                    ],
+                    [
+                        -3.461006,
+                        50.693458
+                    ],
+                    [
+                        -3.461006,
+                        50.7484216
+                    ],
+                    [
+                        -3.568747,
+                        50.7484216
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United Kingdom",
+        "country_code": "GB",
+        "full_name": "Exeter, England",
+        "id": "3a8a2c667faaf9ba",
+        "name": "Exeter",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/3a8a2c667faaf9ba.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@BTCare \nVOLO12-114288427268 report date18/11/2015 closed date 24/11/2015\nVOLO12-114817340009 report date 30/11/2015 ongoing",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Feb 16 15:32:54 +0000 2012",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 51,
+        "follow_request_sent": false,
+        "followers_count": 11,
+        "following": false,
+        "friends_count": 129,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 494142627,
+        "id_str": "494142627",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 0,
+        "location": "Exeter",
+        "name": "Robert Collins",
+        "notifications": false,
+        "profile_background_color": "0099B9",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/2504311743/oyfh0xl1ydlfmzywu06g_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/2504311743/oyfh0xl1ydlfmzywu06g_normal.jpeg",
+        "profile_link_color": "0099B9",
+        "profile_sidebar_border_color": "5ED4DC",
+        "profile_sidebar_fill_color": "95E8EC",
+        "profile_text_color": "3C3940",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "robertcollins62",
+        "statuses_count": 24,
+        "time_zone": "London",
+        "url": null,
+        "utc_offset": 0,
+        "verified": false
+    }
+}

@@ -1,0 +1,147 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Dec 03 11:23:11 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 35737385,
+                "id_str": "35737385",
+                "indices": [
+                    0,
+                    7
+                ],
+                "name": "BT",
+                "screen_name": "BTCare"
+            },
+            {
+                "id": 20139563,
+                "id_str": "20139563",
+                "indices": [
+                    24,
+                    30
+                ],
+                "name": "Sky",
+                "screen_name": "SkyUK"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 672375524585533440,
+    "id_str": "672375524585533440",
+    "in_reply_to_screen_name": "BTCare",
+    "in_reply_to_status_id": 672374967745560576,
+    "in_reply_to_status_id_str": "672374967745560576",
+    "in_reply_to_user_id": 35737385,
+    "in_reply_to_user_id_str": "35737385",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        1.4913,
+                        52.3319401
+                    ],
+                    [
+                        1.5385675,
+                        52.3319401
+                    ],
+                    [
+                        1.5385675,
+                        52.358978
+                    ],
+                    [
+                        1.4913,
+                        52.358978
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United Kingdom",
+        "country_code": "GB",
+        "full_name": "Halesworth, England",
+        "id": "63136332b20edc4a",
+        "name": "Halesworth",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/63136332b20edc4a.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+    "text": "@BTCare Hi Dee We are a @SkyUK  customer they say its a BT Open Reach Problem taken over 5 weeks now",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Nov 09 10:45:43 +0000 2011",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Owner of Edwards Halesworth number 1 eatery in Halesworth according to Trip Advisor",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "edwardshalesworth.co.uk",
+                        "expanded_url": "http://www.edwardshalesworth.co.uk",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/oazwG5ZVhq"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 299,
+        "follow_request_sent": false,
+        "followers_count": 339,
+        "following": false,
+        "friends_count": 323,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 408383413,
+        "id_str": "408383413",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 8,
+        "location": "Halesworth",
+        "name": "Edwards",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/408383413/1376415798",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/378800000289582202/7cd0ea3797740ba600225cccb847f3ff_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000289582202/7cd0ea3797740ba600225cccb847f3ff_normal.jpeg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "karen4prime",
+        "statuses_count": 3168,
+        "time_zone": null,
+        "url": "http://t.co/oazwG5ZVhq",
+        "utc_offset": null,
+        "verified": false
+    }
+}

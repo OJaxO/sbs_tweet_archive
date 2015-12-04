@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Dec 03 13:12:46 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 35737385,
+                "id_str": "35737385",
+                "indices": [
+                    0,
+                    7
+                ],
+                "name": "BT",
+                "screen_name": "BTCare"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 672403101467484164,
+    "id_str": "672403101467484164",
+    "in_reply_to_screen_name": "BTCare",
+    "in_reply_to_status_id": 672370906023526401,
+    "in_reply_to_status_id_str": "672370906023526401",
+    "in_reply_to_user_id": 35737385,
+    "in_reply_to_user_id_str": "35737385",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -1.308617,
+                        50.8365921
+                    ],
+                    [
+                        -1.230438,
+                        50.8365921
+                    ],
+                    [
+                        -1.230438,
+                        50.8965201
+                    ],
+                    [
+                        -1.308617,
+                        50.8965201
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United Kingdom",
+        "country_code": "GB",
+        "full_name": "Locks Heath, England",
+        "id": "2d49e995d9646d31",
+        "name": "Locks Heath",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/2d49e995d9646d31.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@BTCare Yes Paula I understand and people have been trying to resolve this over the phone with my wife since last Tuesday I believe.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Feb 10 14:08:14 +0000 2013",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Papa of @StephsBubble and Creator of #RTWFLAG - A flag that's making it's way around the UK and beyond with the help of the RTW runners!",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "rtwflag.wordpress.com",
+                        "expanded_url": "http://rtwflag.wordpress.com",
+                        "indices": [
+                            0,
+                            20
+                        ],
+                        "url": "http://t.co/T5NOTJ6O"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 8880,
+        "follow_request_sent": false,
+        "followers_count": 197,
+        "following": false,
+        "friends_count": 213,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 1166004948,
+        "id_str": "1166004948",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 16,
+        "location": "UK",
+        "name": "Tony Bennett",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1166004948/1376588122",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/3361676929/8a8f8e55af3a7037d876de2ae1fc5f8a_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/3361676929/8a8f8e55af3a7037d876de2ae1fc5f8a_normal.jpeg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Papa_Bubble",
+        "statuses_count": 5220,
+        "time_zone": null,
+        "url": "http://t.co/T5NOTJ6O",
+        "utc_offset": null,
+        "verified": false
+    }
+}
