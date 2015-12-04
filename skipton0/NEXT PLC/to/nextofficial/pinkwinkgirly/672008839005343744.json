@@ -1,0 +1,178 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Dec 02 11:06:07 +0000 2015",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    24,
+                    38
+                ],
+                "text": "ShoeOfTheWeek"
+            },
+            {
+                "indices": [
+                    39,
+                    44
+                ],
+                "text": "love"
+            }
+        ],
+        "media": [
+            {
+                "display_url": "pic.twitter.com/X8HeXnJesz",
+                "expanded_url": "http://twitter.com/pinkwinkgirly/status/672008839005343744/photo/1",
+                "id": 672008838078406656,
+                "id_str": "672008838078406656",
+                "indices": [
+                    45,
+                    68
+                ],
+                "media_url": "http://pbs.twimg.com/media/CVN0ek-WIAAZNNw.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/CVN0ek-WIAAZNNw.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 960,
+                        "resize": "fit",
+                        "w": 720
+                    },
+                    "medium": {
+                        "h": 800,
+                        "resize": "fit",
+                        "w": 600
+                    },
+                    "small": {
+                        "h": 453,
+                        "resize": "fit",
+                        "w": 340
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/X8HeXnJesz"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 43299388,
+                "id_str": "43299388",
+                "indices": [
+                    0,
+                    13
+                ],
+                "name": "Next",
+                "screen_name": "nextofficial"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 672008839005343744,
+    "id_str": "672008839005343744",
+    "in_reply_to_screen_name": "nextofficial",
+    "in_reply_to_status_id": 671962561110216704,
+    "in_reply_to_status_id_str": "671962561110216704",
+    "in_reply_to_user_id": 43299388,
+    "in_reply_to_user_id_str": "43299388",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -3.074852,
+                        52.838595
+                    ],
+                    [
+                        -3.028106,
+                        52.838595
+                    ],
+                    [
+                        -3.028106,
+                        52.86818
+                    ],
+                    [
+                        -3.074852,
+                        52.86818
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United Kingdom",
+        "country_code": "GB",
+        "full_name": "Oswestry, England",
+        "id": "5b756a1991aa8648",
+        "name": "Oswestry",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/5b756a1991aa8648.json"
+    },
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@nextofficial stunning  #ShoeOfTheWeek #love https://t.co/X8HeXnJesz",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Nov 10 21:11:26 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 34346,
+        "follow_request_sent": false,
+        "followers_count": 1509,
+        "following": false,
+        "friends_count": 2516,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 89022589,
+        "id_str": "89022589",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 102,
+        "location": "Oswestry",
+        "name": "lisa williams",
+        "notifications": false,
+        "profile_background_color": "642D8B",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/89022589/1421514072",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/596642498900008961/8t9taiE8_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/596642498900008961/8t9taiE8_normal.jpg",
+        "profile_link_color": "FF0000",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "7AC3EE",
+        "profile_text_color": "3D1957",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "pinkwinkgirly",
+        "statuses_count": 89988,
+        "time_zone": null,
+        "url": null,
+        "utc_offset": null,
+        "verified": false
+    }
+}

@@ -1,0 +1,124 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 01 18:09:13 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 469358921,
+                "id_str": "469358921",
+                "indices": [
+                    0,
+                    14
+                ],
+                "name": "Nationwide UK",
+                "screen_name": "AskNationwide"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 671752927359410178,
+    "id_str": "671752927359410178",
+    "in_reply_to_screen_name": "AskNationwide",
+    "in_reply_to_status_id": 671752687025823744,
+    "in_reply_to_status_id_str": "671752687025823744",
+    "in_reply_to_user_id": 469358921,
+    "in_reply_to_user_id_str": "469358921",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -3.666649,
+                        55.894081
+                    ],
+                    [
+                        -3.598801,
+                        55.894081
+                    ],
+                    [
+                        -3.598801,
+                        55.91094
+                    ],
+                    [
+                        -3.666649,
+                        55.91094
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United Kingdom",
+        "country_code": "GB",
+        "full_name": "Bathgate, Scotland",
+        "id": "2d9d89bdecbdacb0",
+        "name": "Bathgate",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/2d9d89bdecbdacb0.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@AskNationwide I've done this it keeps redirecting me",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Jun 18 16:52:46 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "then now forever",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 788,
+        "follow_request_sent": false,
+        "followers_count": 385,
+        "following": false,
+        "friends_count": 1555,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 48410823,
+        "id_str": "48410823",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 4,
+        "location": "N 55\u00b056' 0'' / W 3\u00b021' 0''",
+        "name": "hugh gillogley",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/725851530/b9000a59860c1d3b89ea5d28112d6db8.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/725851530/b9000a59860c1d3b89ea5d28112d6db8.jpeg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/48410823/1356210528",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/630026825687793664/6fyi_Z4o_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/630026825687793664/6fyi_Z4o_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "shuggy32",
+        "statuses_count": 3579,
+        "time_zone": "International Date Line West",
+        "url": null,
+        "utc_offset": -39600,
+        "verified": false
+    }
+}

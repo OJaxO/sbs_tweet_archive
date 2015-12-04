@@ -1,0 +1,159 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Dec 02 11:01:51 +0000 2015",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    20,
+                    24
+                ],
+                "text": "WIN"
+            },
+            {
+                "indices": [
+                    29,
+                    43
+                ],
+                "text": "ShoeOfTheWeek"
+            }
+        ],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "ow.ly/V203q",
+                "expanded_url": "http://ow.ly/V203q",
+                "indices": [
+                    70,
+                    93
+                ],
+                "url": "https://t.co/LGfOoN2GuE"
+            },
+            {
+                "display_url": "ow.ly/UwVQR",
+                "expanded_url": "http://ow.ly/UwVQR",
+                "indices": [
+                    108,
+                    131
+                ],
+                "url": "https://t.co/rg6IfhwsN6"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 43299388,
+                "id_str": "43299388",
+                "indices": [
+                    0,
+                    13
+                ],
+                "name": "Next",
+                "screen_name": "nextofficial"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 672007767767519232,
+    "id_str": "672007767767519232",
+    "in_reply_to_screen_name": "nextofficial",
+    "in_reply_to_status_id": 671962561110216704,
+    "in_reply_to_status_id_str": "671962561110216704",
+    "in_reply_to_user_id": 43299388,
+    "in_reply_to_user_id_str": "43299388",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -4.3932845,
+                        55.796184
+                    ],
+                    [
+                        -4.0902182,
+                        55.796184
+                    ],
+                    [
+                        -4.0902182,
+                        55.9204214
+                    ],
+                    [
+                        -4.3932845,
+                        55.9204214
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United Kingdom",
+        "country_code": "GB",
+        "full_name": "Glasgow, Scotland",
+        "id": "791e00bcadc4615f",
+        "name": "Glasgow",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/791e00bcadc4615f.json"
+    },
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@nextofficial RT to #WIN our #ShoeOfTheWeek, these Scallop Courts \u00a368 https://t.co/LGfOoN2GuE  . Ts&amp;Cs: https://t.co/rg6IfhwsN6",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Sep 12 07:54:57 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "I am a married mum i have 4 children.i love to play bingo,puzzles,and competitions. i have 3 cats and a dog and im doing volunteering work with homeless people.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 5224,
+        "follow_request_sent": false,
+        "followers_count": 487,
+        "following": false,
+        "friends_count": 2378,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 73597410,
+        "id_str": "73597410",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 42,
+        "location": "glasgow",
+        "name": "annemarie menzies",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/73597410/1447373990",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/670044267969175552/CL82mkOO_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/670044267969175552/CL82mkOO_normal.jpg",
+        "profile_link_color": "DD2E44",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "annie3999",
+        "statuses_count": 8964,
+        "time_zone": "Casablanca",
+        "url": null,
+        "utc_offset": 0,
+        "verified": false
+    }
+}
