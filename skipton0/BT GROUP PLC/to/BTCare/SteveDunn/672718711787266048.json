@@ -1,0 +1,136 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Dec 04 10:06:54 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 35737385,
+                "id_str": "35737385",
+                "indices": [
+                    0,
+                    7
+                ],
+                "name": "BT",
+                "screen_name": "BTCare"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 672718711787266048,
+    "id_str": "672718711787266048",
+    "in_reply_to_screen_name": "BTCare",
+    "in_reply_to_status_id": 672694284353708032,
+    "in_reply_to_status_id_str": "672694284353708032",
+    "in_reply_to_user_id": 35737385,
+    "in_reply_to_user_id_str": "35737385",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        0.9417934,
+                        52.0349859
+                    ],
+                    [
+                        0.9715546,
+                        52.0349859
+                    ],
+                    [
+                        0.9715546,
+                        52.055139
+                    ],
+                    [
+                        0.9417934,
+                        52.055139
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United Kingdom",
+        "country_code": "GB",
+        "full_name": "Hadleigh, England",
+        "id": "14c7f079e5894cc0",
+        "name": "Hadleigh",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/14c7f079e5894cc0.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@BTCare I called them in the end. No faults found when doing the line checks, even though the BB light is off and on like a fairy light!",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Jun 06 12:53:29 +0000 2007",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Born at a very young age.  Hobbies include reading pornography and killing squirrels.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "blog.dunnhq.com",
+                        "expanded_url": "http://blog.dunnhq.com",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/rDoD6dLzfZ"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 370,
+        "follow_request_sent": false,
+        "followers_count": 166,
+        "following": false,
+        "friends_count": 191,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 6617872,
+        "id_str": "6617872",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 6,
+        "location": "London/Cambridge UK",
+        "name": "Steve Dunn",
+        "notifications": false,
+        "profile_background_color": "9AE4E8",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/53270402/me_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/53270402/me_normal.jpg",
+        "profile_link_color": "0000FF",
+        "profile_sidebar_border_color": "87BC44",
+        "profile_sidebar_fill_color": "E0FF92",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "SteveDunn",
+        "statuses_count": 1577,
+        "time_zone": "London",
+        "url": "http://t.co/rDoD6dLzfZ",
+        "utc_offset": 0,
+        "verified": false
+    }
+}
