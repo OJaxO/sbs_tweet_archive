@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 01 02:33:56 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 127975950,
+                "id_str": "127975950",
+                "indices": [
+                    0,
+                    4
+                ],
+                "name": "Time Warner Cable",
+                "screen_name": "TWC"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 671517555169865728,
+    "id_str": "671517555169865728",
+    "in_reply_to_screen_name": "TWC",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 127975950,
+    "in_reply_to_user_id_str": "127975950",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -89.57151,
+                        36.497129
+                    ],
+                    [
+                        -81.964971,
+                        36.497129
+                    ],
+                    [
+                        -81.964971,
+                        39.147359
+                    ],
+                    [
+                        -89.57151,
+                        39.147359
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Kentucky, USA",
+        "id": "6ffcf3b0b904bbcb",
+        "name": "Kentucky",
+        "place_type": "admin",
+        "url": "https://api.twitter.com/1.1/geo/id/6ffcf3b0b904bbcb.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@TWC what is the cause of this outage?  I know I'm not alone in cursing you right now.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Oct 07 22:29:54 +0000 2007",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Software designer / developer / analyst, video gaming junkie, husband, father, UK Alumni & Fan, and Owner of MonkeyBox Technologies, LLC",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "about.me/jonathanblackb\u2026",
+                        "expanded_url": "http://about.me/jonathanblackburn",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/Pn8uHeiE9i"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 374,
+        "follow_request_sent": false,
+        "followers_count": 294,
+        "following": false,
+        "friends_count": 669,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 9299212,
+        "id_str": "9299212",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 10,
+        "location": "Kentucky, USA",
+        "name": "Jonathan Blackburn",
+        "notifications": false,
+        "profile_background_color": "1A1B1F",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/496524583571165184/iNqgYpoR.png",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/496524583571165184/iNqgYpoR.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/9299212/1420131488",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/665203166682742784/CUdBEb3L_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/665203166682742784/CUdBEb3L_normal.jpg",
+        "profile_link_color": "2FC2EF",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "252429",
+        "profile_text_color": "666666",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "condorhauck",
+        "statuses_count": 2029,
+        "time_zone": "Eastern Time (US & Canada)",
+        "url": "https://t.co/Pn8uHeiE9i",
+        "utc_offset": -18000,
+        "verified": false
+    }
+}

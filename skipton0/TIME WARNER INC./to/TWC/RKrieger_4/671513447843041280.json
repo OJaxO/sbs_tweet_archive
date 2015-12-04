@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 01 02:17:36 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 127975950,
+                "id_str": "127975950",
+                "indices": [
+                    0,
+                    4
+                ],
+                "name": "Time Warner Cable",
+                "screen_name": "TWC"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 671513447843041280,
+    "id_str": "671513447843041280",
+    "in_reply_to_screen_name": "TWC",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 127975950,
+    "in_reply_to_user_id_str": "127975950",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -84.307688,
+                        39.695193
+                    ],
+                    [
+                        -84.093044,
+                        39.695193
+                    ],
+                    [
+                        -84.093044,
+                        39.865523
+                    ],
+                    [
+                        -84.307688,
+                        39.865523
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Dayton, OH",
+        "id": "8d742fb555fbff21",
+        "name": "Dayton",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/8d742fb555fbff21.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@TWC get ur fuckin shit together",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Oct 20 14:06:47 +0000 2011",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "SCC baseball \u26be\ufe0f\nSC: rkrieger",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "soundcloud.com/ricky-krieger",
+                        "expanded_url": "http://soundcloud.com/ricky-krieger",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/r6LDaoc8XL"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 4748,
+        "follow_request_sent": false,
+        "followers_count": 668,
+        "following": false,
+        "friends_count": 685,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 394704395,
+        "id_str": "394704395",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 1,
+        "location": "Dayton, OH",
+        "name": "Ricky Krieger",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/394704395/1446157582",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/659862777062928384/8dunLXoI_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/659862777062928384/8dunLXoI_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "RKrieger_4",
+        "statuses_count": 3893,
+        "time_zone": "Eastern Time (US & Canada)",
+        "url": "http://t.co/r6LDaoc8XL",
+        "utc_offset": -18000,
+        "verified": false
+    }
+}

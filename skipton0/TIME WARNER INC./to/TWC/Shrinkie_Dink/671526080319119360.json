@@ -1,0 +1,267 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 01 03:07:48 +0000 2015",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    63,
+                    67
+                ],
+                "text": "twc"
+            },
+            {
+                "indices": [
+                    68,
+                    73
+                ],
+                "text": "ohio"
+            }
+        ],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/TWC_Help/statu\u2026",
+                "expanded_url": "https://twitter.com/TWC_Help/status/671520865167785984",
+                "indices": [
+                    78,
+                    101
+                ],
+                "url": "https://t.co/sCaKXRatpP"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 127975950,
+                "id_str": "127975950",
+                "indices": [
+                    0,
+                    4
+                ],
+                "name": "Time Warner Cable",
+                "screen_name": "TWC"
+            },
+            {
+                "id": 110782268,
+                "id_str": "110782268",
+                "indices": [
+                    5,
+                    14
+                ],
+                "name": "TWC Help",
+                "screen_name": "TWC_Help"
+            }
+        ]
+    },
+    "favorite_count": 2,
+    "favorited": false,
+    "geo": null,
+    "id": 671526080319119360,
+    "id_str": "671526080319119360",
+    "in_reply_to_screen_name": "TWC",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 127975950,
+    "in_reply_to_user_id_str": "127975950",
+    "is_quote_status": true,
+    "lang": "it",
+    "metadata": {
+        "iso_language_code": "it",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -84.710722,
+                        39.052962
+                    ],
+                    [
+                        -84.3689026,
+                        39.052962
+                    ],
+                    [
+                        -84.3689026,
+                        39.2211137
+                    ],
+                    [
+                        -84.710722,
+                        39.2211137
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Cincinnati, OH",
+        "id": "e444ecd51bd16ff3",
+        "name": "Cincinnati",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/e444ecd51bd16ff3.json"
+    },
+    "possibly_sensitive": false,
+    "quoted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Tue Dec 01 02:47:05 +0000 2015",
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "urls": [],
+            "user_mentions": []
+        },
+        "favorite_count": 79,
+        "favorited": false,
+        "geo": null,
+        "id": 671520865167785984,
+        "id_str": "671520865167785984",
+        "in_reply_to_screen_name": null,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "is_quote_status": false,
+        "lang": "en",
+        "metadata": {
+            "iso_language_code": "it",
+            "result_type": "recent"
+        },
+        "place": null,
+        "retweet_count": 110,
+        "retweeted": false,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": "We are working to resolve the internet issues in the Midwest as quickly as we can. Thank you for your patience. ^TK",
+        "truncated": false,
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Tue Feb 02 19:21:35 +0000 2010",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "TWC's support team. TWC will never ask you to post your private info publicly, please restrict private info to DM's.",
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "forums.timewarnercable.com",
+                            "expanded_url": "http://forums.timewarnercable.com/",
+                            "indices": [
+                                0,
+                                22
+                            ],
+                            "url": "http://t.co/Ir8VfbrbRW"
+                        }
+                    ]
+                }
+            },
+            "favourites_count": 1,
+            "follow_request_sent": false,
+            "followers_count": 84062,
+            "following": false,
+            "friends_count": 87119,
+            "geo_enabled": true,
+            "has_extended_profile": false,
+            "id": 110782268,
+            "id_str": "110782268",
+            "is_translation_enabled": false,
+            "is_translator": false,
+            "lang": "en",
+            "listed_count": 588,
+            "location": "",
+            "name": "TWC Help",
+            "notifications": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/3506805707/41dbdc309a3a1590fae38a05f669360a_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/3506805707/41dbdc309a3a1590fae38a05f669360a_normal.png",
+            "profile_link_color": "ABB8C2",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "protected": false,
+            "screen_name": "TWC_Help",
+            "statuses_count": 518409,
+            "time_zone": "Eastern Time (US & Canada)",
+            "url": "http://t.co/Ir8VfbrbRW",
+            "utc_offset": -18000,
+            "verified": true
+        }
+    },
+    "quoted_status_id": 671520865167785984,
+    "quoted_status_id_str": "671520865167785984",
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@TWC @TWC_Help Internet services restored in Cincinnati, Ohio. #twc #ohio \ud83d\udc4d\ud83d\udcbb\ud83d\udcf1 https://t.co/sCaKXRatpP",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Mar 27 07:08:55 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "The things that make me different, are the things that make me, me!",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "facebook.com/profile.php?id\u2026",
+                        "expanded_url": "http://www.facebook.com/profile.php?id=215903779",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/KEIL297flj"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 2763,
+        "follow_request_sent": false,
+        "followers_count": 248,
+        "following": false,
+        "friends_count": 1338,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 26966245,
+        "id_str": "26966245",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 8,
+        "location": "Cincinnati, Ohio",
+        "name": "~ Liz ~",
+        "notifications": false,
+        "profile_background_color": "0099B9",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/26966245/1448278232",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/637481251943907330/q-7M2zoJ_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/637481251943907330/q-7M2zoJ_normal.jpg",
+        "profile_link_color": "009AB9",
+        "profile_sidebar_border_color": "5ED4DC",
+        "profile_sidebar_fill_color": "95E8EC",
+        "profile_text_color": "3C3940",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Shrinkie_Dink",
+        "statuses_count": 7144,
+        "time_zone": "Eastern Time (US & Canada)",
+        "url": "http://t.co/KEIL297flj",
+        "utc_offset": -18000,
+        "verified": false
+    }
+}

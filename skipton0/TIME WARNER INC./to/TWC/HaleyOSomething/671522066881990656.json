@@ -1,0 +1,308 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 01 02:51:51 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/aaronellis01/s\u2026",
+                "expanded_url": "https://twitter.com/aaronellis01/status/671518788148314112",
+                "indices": [
+                    55,
+                    78
+                ],
+                "url": "https://t.co/8LaxtDsX3L"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 127975950,
+                "id_str": "127975950",
+                "indices": [
+                    0,
+                    4
+                ],
+                "name": "Time Warner Cable",
+                "screen_name": "TWC"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 671522066881990656,
+    "id_str": "671522066881990656",
+    "in_reply_to_screen_name": "TWC",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 127975950,
+    "in_reply_to_user_id_str": "127975950",
+    "is_quote_status": true,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": null,
+    "possibly_sensitive": false,
+    "quoted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Tue Dec 01 02:38:49 +0000 2015",
+        "entities": {
+            "hashtags": [
+                {
+                    "indices": [
+                        12,
+                        21
+                    ],
+                    "text": "internet"
+                },
+                {
+                    "indices": [
+                        33,
+                        42
+                    ],
+                    "text": "kentucky"
+                },
+                {
+                    "indices": [
+                        43,
+                        48
+                    ],
+                    "text": "ohio"
+                },
+                {
+                    "indices": [
+                        49,
+                        57
+                    ],
+                    "text": "indiana"
+                }
+            ],
+            "media": [
+                {
+                    "display_url": "pic.twitter.com/GXFBWJ01IU",
+                    "expanded_url": "http://twitter.com/aaronellis01/status/671518788148314112/photo/1",
+                    "id": 671518787166822402,
+                    "id_str": "671518787166822402",
+                    "indices": [
+                        114,
+                        137
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/CVG2x3EUYAIM1TL.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/CVG2x3EUYAIM1TL.jpg",
+                    "sizes": {
+                        "large": {
+                            "h": 436,
+                            "resize": "fit",
+                            "w": 599
+                        },
+                        "medium": {
+                            "h": 436,
+                            "resize": "fit",
+                            "w": 599
+                        },
+                        "small": {
+                            "h": 247,
+                            "resize": "fit",
+                            "w": 340
+                        },
+                        "thumb": {
+                            "h": 150,
+                            "resize": "crop",
+                            "w": 150
+                        }
+                    },
+                    "type": "photo",
+                    "url": "https://t.co/GXFBWJ01IU"
+                }
+            ],
+            "symbols": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "id": 127975950,
+                    "id_str": "127975950",
+                    "indices": [
+                        7,
+                        11
+                    ],
+                    "name": "Time Warner Cable",
+                    "screen_name": "TWC"
+                }
+            ]
+        },
+        "favorite_count": 28,
+        "favorited": false,
+        "geo": null,
+        "id": 671518788148314112,
+        "id_str": "671518788148314112",
+        "in_reply_to_screen_name": null,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "is_quote_status": false,
+        "lang": "en",
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "place": {
+            "attributes": {},
+            "bounding_box": {
+                "coordinates": [
+                    [
+                        [
+                            -85.847503,
+                            38.108678
+                        ],
+                        [
+                            -85.597188,
+                            38.108678
+                        ],
+                        [
+                            -85.597188,
+                            38.282432
+                        ],
+                        [
+                            -85.847503,
+                            38.282432
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "contained_within": [],
+            "country": "United States",
+            "country_code": "US",
+            "full_name": "Louisville, KY",
+            "id": "095534ad3107e0e6",
+            "name": "Louisville",
+            "place_type": "city",
+            "url": "https://api.twitter.com/1.1/geo/id/095534ad3107e0e6.json"
+        },
+        "possibly_sensitive": false,
+        "retweet_count": 88,
+        "retweeted": false,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": "ALERT: @TWC #internet service in #kentucky #ohio #indiana is currently down. Unknown the cause. Waiting for info. https://t.co/GXFBWJ01IU",
+        "truncated": false,
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Wed May 30 03:46:14 +0000 2012",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "I work in TV news, I love Bourbon, UK Basketball, Horses. What more can you say about a guy from Kentucky..and yes I wear shoes.",
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "wave3.com",
+                            "expanded_url": "http://www.wave3.com",
+                            "indices": [
+                                0,
+                                22
+                            ],
+                            "url": "http://t.co/xcWBNXo4z7"
+                        }
+                    ]
+                }
+            },
+            "favourites_count": 8756,
+            "follow_request_sent": false,
+            "followers_count": 2881,
+            "following": false,
+            "friends_count": 4602,
+            "geo_enabled": true,
+            "has_extended_profile": false,
+            "id": 594351447,
+            "id_str": "594351447",
+            "is_translation_enabled": false,
+            "is_translator": false,
+            "lang": "en",
+            "listed_count": 107,
+            "location": "Louisville, Kentucky",
+            "name": "Aaron Ellis",
+            "notifications": false,
+            "profile_background_color": "131516",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+            "profile_background_tile": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/378800000729320025/cf3bcb98646c4712eee16193a6850d42_normal.jpeg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000729320025/cf3bcb98646c4712eee16193a6850d42_normal.jpeg",
+            "profile_link_color": "009999",
+            "profile_sidebar_border_color": "EEEEEE",
+            "profile_sidebar_fill_color": "EFEFEF",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "aaronellis01",
+            "statuses_count": 19433,
+            "time_zone": "Eastern Time (US & Canada)",
+            "url": "http://t.co/xcWBNXo4z7",
+            "utc_offset": -18000,
+            "verified": true
+        }
+    },
+    "quoted_status_id": 671518788148314112,
+    "quoted_status_id_str": "671518788148314112",
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@TWC y'all ready to pay a lot of these data overages?  https://t.co/8LaxtDsX3L",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Aug 01 12:06:16 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "SI @CampusRush correspondent | sports enthusiast | Ravens apologist | habitual line stepper haleyoshaughnessy@gmail.com",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 6939,
+        "follow_request_sent": false,
+        "followers_count": 1242,
+        "following": false,
+        "friends_count": 787,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 346524052,
+        "id_str": "346524052",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 21,
+        "location": "in my other other benz",
+        "name": "Haley O'Shaughnessy",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/346524052/1447287006",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/648270415303974913/yvvi4vCy_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/648270415303974913/yvvi4vCy_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "HaleyOSomething",
+        "statuses_count": 17172,
+        "time_zone": "Central Time (US & Canada)",
+        "url": null,
+        "utc_offset": -21600,
+        "verified": false
+    }
+}
