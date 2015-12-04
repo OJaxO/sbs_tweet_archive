@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Nov 27 20:01:55 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 79320096,
+                "id_str": "79320096",
+                "indices": [
+                    0,
+                    5
+                ],
+                "name": "Citi",
+                "screen_name": "Citi"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 670331741173886976,
+    "id_str": "670331741173886976",
+    "in_reply_to_screen_name": "Citi",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 79320096,
+    "in_reply_to_user_id_str": "79320096",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        2.6654364,
+                        4.1974055
+                    ],
+                    [
+                        14.6777951,
+                        4.1974055
+                    ],
+                    [
+                        14.6777951,
+                        13.8881151
+                    ],
+                    [
+                        2.6654364,
+                        13.8881151
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "Nigeria",
+        "country_code": "NG",
+        "full_name": "Nigeria",
+        "id": "59b27337f38d658b",
+        "name": "Nigeria",
+        "place_type": "country",
+        "url": "https://api.twitter.com/1.1/geo/id/59b27337f38d658b.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@Citi Hello",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Mar 15 14:02:58 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "@aworldatschool Global Youth Amb| #GivingTuesdayNG |UPF Peace Amb |Computer Engineer,Global advocate for #SDGs |Co-Founder @S6startUP | LEAP Africa SIP Fellow",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "giving-garage.com",
+                        "expanded_url": "http://www.giving-garage.com",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/pBRC1VbzTX"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 5061,
+        "follow_request_sent": false,
+        "followers_count": 11254,
+        "following": false,
+        "friends_count": 9518,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 266600056,
+        "id_str": "266600056",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 97,
+        "location": "Nigeria",
+        "name": "#AfricaNeedsYou",
+        "notifications": false,
+        "profile_background_color": "FFF04D",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/631848188861771776/IEr14AsV.png",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/631848188861771776/IEr14AsV.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/266600056/1449234446",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/672764191095300096/tRptsgmY_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/672764191095300096/tRptsgmY_normal.jpg",
+        "profile_link_color": "0099CC",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "C0DFEC",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "chastecharity",
+        "statuses_count": 11186,
+        "time_zone": "Amsterdam",
+        "url": "https://t.co/pBRC1VbzTX",
+        "utc_offset": 3600,
+        "verified": false
+    }
+}

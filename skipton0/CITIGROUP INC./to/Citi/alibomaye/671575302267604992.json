@@ -1,0 +1,147 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 01 06:23:23 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 79320096,
+                "id_str": "79320096",
+                "indices": [
+                    0,
+                    5
+                ],
+                "name": "Citi",
+                "screen_name": "Citi"
+            },
+            {
+                "id": 82151473,
+                "id_str": "82151473",
+                "indices": [
+                    6,
+                    14
+                ],
+                "name": "Citi",
+                "screen_name": "AskCiti"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 671575302267604992,
+    "id_str": "671575302267604992",
+    "in_reply_to_screen_name": "Citi",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 79320096,
+    "in_reply_to_user_id_str": "79320096",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        28.6321043,
+                        40.8027337
+                    ],
+                    [
+                        29.3783413,
+                        40.8027337
+                    ],
+                    [
+                        29.3783413,
+                        41.2399073
+                    ],
+                    [
+                        28.6321043,
+                        41.2399073
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "T\u00fcrkiye",
+        "country_code": "TR",
+        "full_name": "\u0130stanbul, T\u00fcrkiye",
+        "id": "5e02a0f0d91c76d2",
+        "name": "\u0130stanbul",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/5e02a0f0d91c76d2.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@Citi @AskCiti I'm having trouble taking money out in Turkey. Will be in Turkey, Malta &amp; Greece till Dec 15. Can u fix this?",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Aug 09 06:19:34 +0000 2007",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "@LATimes journalist | Born in Kabul. Raised in Little Kabul. Found freedom in DC. Back in the new Kabul. Views are my own [but if you like 'em, \u0628\u0641\u0631\u0645\u0627\u06cc\u06cc\u062f].",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "about.me/alilat",
+                        "expanded_url": "http://about.me/alilat",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/x0qJdB5zVt"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 9987,
+        "follow_request_sent": false,
+        "followers_count": 8191,
+        "following": false,
+        "friends_count": 1001,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 8072532,
+        "id_str": "8072532",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 245,
+        "location": "Kabul",
+        "name": "Ali M Latifi",
+        "notifications": false,
+        "profile_background_color": "9AE4E8",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/772848842/79d7e93554ecd4a44bf7dfbdf7603977.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/772848842/79d7e93554ecd4a44bf7dfbdf7603977.jpeg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/8072532/1402221282",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/481539964014829569/GI8h2r8x_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/481539964014829569/GI8h2r8x_normal.jpeg",
+        "profile_link_color": "0000FF",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "E0FF92",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "alibomaye",
+        "statuses_count": 53957,
+        "time_zone": "Kabul",
+        "url": "http://t.co/x0qJdB5zVt",
+        "utc_offset": 16200,
+        "verified": false
+    }
+}
