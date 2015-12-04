@@ -1,0 +1,124 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Nov 30 14:14:18 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 37916167,
+                "id_str": "37916167",
+                "indices": [
+                    0,
+                    16
+                ],
+                "name": "M&S",
+                "screen_name": "marksandspencer"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 671331420367908864,
+    "id_str": "671331420367908864",
+    "in_reply_to_screen_name": "marksandspencer",
+    "in_reply_to_status_id": 671328526361038848,
+    "in_reply_to_status_id_str": "671328526361038848",
+    "in_reply_to_user_id": 37916167,
+    "in_reply_to_user_id_str": "37916167",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -0.2160701,
+                        51.5098789
+                    ],
+                    [
+                        -0.1301597,
+                        51.5098789
+                    ],
+                    [
+                        -0.1301597,
+                        51.5397916
+                    ],
+                    [
+                        -0.2160701,
+                        51.5397916
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United Kingdom",
+        "country_code": "GB",
+        "full_name": "Paddington, London",
+        "id": "56c45474148ca4da",
+        "name": "Paddington",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/56c45474148ca4da.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@marksandspencer Odd trio to combine together: Berries- sweet food; Prosecco- boozy and bubbly; crisps- savoury. Didn't mesh well.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Nov 11 10:40:13 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "How enchanting it is to dance between control and surrender.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 338,
+        "follow_request_sent": false,
+        "followers_count": 624,
+        "following": false,
+        "friends_count": 277,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 214414727,
+        "id_str": "214414727",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 10,
+        "location": "London, UK",
+        "name": "Lexington",
+        "notifications": false,
+        "profile_background_color": "EDECE9",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/170457122/Vieques.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/170457122/Vieques.jpg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/214414727/1444547089",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/587981130374217728/DGkBkAQD_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/587981130374217728/DGkBkAQD_normal.jpg",
+        "profile_link_color": "088253",
+        "profile_sidebar_border_color": "D3D2CF",
+        "profile_sidebar_fill_color": "E3E2DE",
+        "profile_text_color": "634047",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Lexilicious21",
+        "statuses_count": 21342,
+        "time_zone": null,
+        "url": null,
+        "utc_offset": null,
+        "verified": false
+    }
+}
