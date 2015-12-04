@@ -1,0 +1,156 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Dec 03 21:57:44 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 271516607,
+                "id_str": "271516607",
+                "indices": [
+                    1,
+                    9
+                ],
+                "name": "UPS Customer Support",
+                "screen_name": "UPSHelp"
+            },
+            {
+                "id": 386507775,
+                "id_str": "386507775",
+                "indices": [
+                    98,
+                    103
+                ],
+                "name": "U.S. Postal Service",
+                "screen_name": "USPS"
+            },
+            {
+                "id": 134887156,
+                "id_str": "134887156",
+                "indices": [
+                    108,
+                    114
+                ],
+                "name": "FedEx",
+                "screen_name": "FedEx"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 672535213461733376,
+    "id_str": "672535213461733376",
+    "in_reply_to_screen_name": "UPSHelp",
+    "in_reply_to_status_id": 672533673208643584,
+    "in_reply_to_status_id_str": "672533673208643584",
+    "in_reply_to_user_id": 271516607,
+    "in_reply_to_user_id_str": "271516607",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -106.645646,
+                        25.837092
+                    ],
+                    [
+                        -93.508131,
+                        25.837092
+                    ],
+                    [
+                        -93.508131,
+                        36.500695
+                    ],
+                    [
+                        -106.645646,
+                        36.500695
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Texas, USA",
+        "id": "e0060cda70f5f341",
+        "name": "Texas",
+        "place_type": "admin",
+        "url": "https://api.twitter.com/1.1/geo/id/e0060cda70f5f341.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": ".@UPSHelp the package has sat in your warehouse for 3 days now and \"didn't make it on the truck\". @usps and @FedEx haven't had this problem",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu May 03 13:10:25 +0000 2007",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Focused on cloud and storage. Co-host for @SpeakingInTech. Father. Office of the CTO at @BlueBox, an IBM Co. x-@Centurylink, x-@inktank, x-@joyent, x-@emc.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "breathingdata.com",
+                        "expanded_url": "http://breathingdata.com",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/DPk1iEbAZ7"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 988,
+        "follow_request_sent": false,
+        "followers_count": 5035,
+        "following": false,
+        "friends_count": 970,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 5739392,
+        "id_str": "5739392",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 403,
+        "location": "Indianapolis / Austin",
+        "name": "Ed Saipetch",
+        "notifications": false,
+        "profile_background_color": "9AE4E8",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/3474579124/86562809ba9ea970ff1a566ca9113205_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/3474579124/86562809ba9ea970ff1a566ca9113205_normal.jpeg",
+        "profile_link_color": "0000FF",
+        "profile_sidebar_border_color": "87BC44",
+        "profile_sidebar_fill_color": "E0FF92",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "edsai",
+        "statuses_count": 14507,
+        "time_zone": "Eastern Time (US & Canada)",
+        "url": "https://t.co/DPk1iEbAZ7",
+        "utc_offset": -18000,
+        "verified": false
+    }
+}

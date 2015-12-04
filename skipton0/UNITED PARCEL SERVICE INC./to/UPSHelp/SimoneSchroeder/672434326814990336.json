@@ -1,0 +1,124 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Dec 03 15:16:51 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 271516607,
+                "id_str": "271516607",
+                "indices": [
+                    0,
+                    8
+                ],
+                "name": "UPS Customer Support",
+                "screen_name": "UPSHelp"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 672434326814990336,
+    "id_str": "672434326814990336",
+    "in_reply_to_screen_name": "UPSHelp",
+    "in_reply_to_status_id": 672225272431812612,
+    "in_reply_to_status_id_str": "672225272431812612",
+    "in_reply_to_user_id": 271516607,
+    "in_reply_to_user_id_str": "271516607",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -74.026675,
+                        40.683935
+                    ],
+                    [
+                        -73.910408,
+                        40.683935
+                    ],
+                    [
+                        -73.910408,
+                        40.877483
+                    ],
+                    [
+                        -74.026675,
+                        40.877483
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Manhattan, NY",
+        "id": "01a9a39529b27f36",
+        "name": "Manhattan",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/01a9a39529b27f36.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@UPSHelp thank you! I contacted them and they were able to locate my package!",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Feb 01 03:29:29 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "I broke my vegetarianism at a Hooter's in Las Vegas",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 3129,
+        "follow_request_sent": false,
+        "followers_count": 332,
+        "following": false,
+        "friends_count": 342,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 110313477,
+        "id_str": "110313477",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 4,
+        "location": "Brooklyn, NY",
+        "name": "Simone Schroeder",
+        "notifications": false,
+        "profile_background_color": "ACDED6",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/452460176801406976/GKC9eVCz.png",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/452460176801406976/GKC9eVCz.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/110313477/1418567534",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/625865091041349632/uwfJpexq_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/625865091041349632/uwfJpexq_normal.jpg",
+        "profile_link_color": "038543",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "F6F6F6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "SimoneSchroeder",
+        "statuses_count": 5425,
+        "time_zone": "Eastern Time (US & Canada)",
+        "url": null,
+        "utc_offset": -18000,
+        "verified": false
+    }
+}

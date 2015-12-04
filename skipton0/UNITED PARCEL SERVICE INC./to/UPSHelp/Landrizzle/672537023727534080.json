@@ -1,0 +1,124 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Dec 03 22:04:56 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 271516607,
+                "id_str": "271516607",
+                "indices": [
+                    0,
+                    8
+                ],
+                "name": "UPS Customer Support",
+                "screen_name": "UPSHelp"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 672537023727534080,
+    "id_str": "672537023727534080",
+    "in_reply_to_screen_name": "UPSHelp",
+    "in_reply_to_status_id": 672533915421253636,
+    "in_reply_to_status_id_str": "672533915421253636",
+    "in_reply_to_user_id": 271516607,
+    "in_reply_to_user_id_str": "271516607",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -111.979047,
+                        33.3199453
+                    ],
+                    [
+                        -111.877237,
+                        33.3199453
+                    ],
+                    [
+                        -111.877237,
+                        33.465823
+                    ],
+                    [
+                        -111.979047,
+                        33.465823
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Tempe, AZ",
+        "id": "7cb7440bcf83d464",
+        "name": "Tempe",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/7cb7440bcf83d464.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@UPSHelp I'm being told two different delivery dates and the information on my package hasn't updated in a week, since it was shipped",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Jan 31 23:37:11 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Player of video games, lover of cinema, human adult.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 432,
+        "follow_request_sent": false,
+        "followers_count": 254,
+        "following": false,
+        "friends_count": 522,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 110266201,
+        "id_str": "110266201",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 8,
+        "location": "Crossbone Vanguard",
+        "name": "Liquid Landre",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/623910462573277184/_7Dr8-UO.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/623910462573277184/_7Dr8-UO.jpg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/110266201/1401468733",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/588478774695493632/r-0aFyS7_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/588478774695493632/r-0aFyS7_normal.jpg",
+        "profile_link_color": "FC0000",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Landrizzle",
+        "statuses_count": 64685,
+        "time_zone": "Mountain Time (US & Canada)",
+        "url": null,
+        "utc_offset": -25200,
+        "verified": false
+    }
+}

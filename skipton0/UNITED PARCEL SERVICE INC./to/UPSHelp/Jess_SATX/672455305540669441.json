@@ -1,0 +1,136 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Dec 03 16:40:13 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 271516607,
+                "id_str": "271516607",
+                "indices": [
+                    0,
+                    8
+                ],
+                "name": "UPS Customer Support",
+                "screen_name": "UPSHelp"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 672455305540669441,
+    "id_str": "672455305540669441",
+    "in_reply_to_screen_name": "UPSHelp",
+    "in_reply_to_status_id": 672251125895163904,
+    "in_reply_to_status_id_str": "672251125895163904",
+    "in_reply_to_user_id": 271516607,
+    "in_reply_to_user_id_str": "271516607",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -98.352959,
+                        29.489943
+                    ],
+                    [
+                        -98.276076,
+                        29.489943
+                    ],
+                    [
+                        -98.276076,
+                        29.538642
+                    ],
+                    [
+                        -98.352959,
+                        29.538642
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Converse, TX",
+        "id": "dcd50868e563bbed",
+        "name": "Converse",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/dcd50868e563bbed.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@UPSHelp Delivered at 10p.  They were so nice and apologetic. Give many thanks to delivery peeps - they are working hard this season!!",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon May 24 01:54:33 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Talent Development Manager @Rackspace. - Crazy about customer service and workplace learning. Happy to know you! \u263a\ufe0f",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "expanded_url": null,
+                        "indices": [
+                            0,
+                            30
+                        ],
+                        "url": "http://about.me/jecca.guajardo"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 641,
+        "follow_request_sent": false,
+        "followers_count": 529,
+        "following": false,
+        "friends_count": 464,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 147402006,
+        "id_str": "147402006",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 31,
+        "location": "SA, TX",
+        "name": "Jecca",
+        "notifications": false,
+        "profile_background_color": "9AE4E8",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/147402006/1441491182",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/640286017707200512/9cvCdkPX_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/640286017707200512/9cvCdkPX_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "BDDCAD",
+        "profile_sidebar_fill_color": "DDFFCC",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Jess_SATX",
+        "statuses_count": 6773,
+        "time_zone": "Central Time (US & Canada)",
+        "url": "http://about.me/jecca.guajardo",
+        "utc_offset": -21600,
+        "verified": false
+    }
+}

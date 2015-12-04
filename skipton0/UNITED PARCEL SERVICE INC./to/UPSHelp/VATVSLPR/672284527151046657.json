@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Dec 03 05:21:36 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 271516607,
+                "id_str": "271516607",
+                "indices": [
+                    0,
+                    8
+                ],
+                "name": "UPS Customer Support",
+                "screen_name": "UPSHelp"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 672284527151046657,
+    "id_str": "672284527151046657",
+    "in_reply_to_screen_name": "UPSHelp",
+    "in_reply_to_status_id": 672271161892409345,
+    "in_reply_to_status_id_str": "672271161892409345",
+    "in_reply_to_user_id": 271516607,
+    "in_reply_to_user_id_str": "271516607",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -118.198346,
+                        34.117025
+                    ],
+                    [
+                        -118.065582,
+                        34.117025
+                    ],
+                    [
+                        -118.065582,
+                        34.237595
+                    ],
+                    [
+                        -118.198346,
+                        34.237595
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Pasadena, CA",
+        "id": "10de09f288b1665c",
+        "name": "Pasadena",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/10de09f288b1665c.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@UPSHelp I want your drivers to make an attempt to make a delivery before giving up, or at least leave a door tag to prove they were there.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Aug 11 00:55:37 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "I'm a graduate of Caltech and an employee of City of Hope.  I'm a regular blood donor and a stem cell donor (December 2007).",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "picasaweb.google.com/roger.ethan.mo\u2026",
+                        "expanded_url": "http://picasaweb.google.com/roger.ethan.moore",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/I6iiaeIsfa"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 1,
+        "follow_request_sent": false,
+        "followers_count": 26,
+        "following": false,
+        "friends_count": 36,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 352727978,
+        "id_str": "352727978",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 0,
+        "location": "Pasadena, CA",
+        "name": "Roger Moore",
+        "notifications": false,
+        "profile_background_color": "AAAAAA",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/630883049912205312/H3dA6QFY.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/630883049912205312/H3dA6QFY.jpg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/352727978/1399906167",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1491697776/RM2_2879_normal.JPG",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1491697776/RM2_2879_normal.JPG",
+        "profile_link_color": "FF0000",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "VATVSLPR",
+        "statuses_count": 447,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "http://t.co/I6iiaeIsfa",
+        "utc_offset": -28800,
+        "verified": false
+    }
+}
