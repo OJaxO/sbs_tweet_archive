@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Dec 04 00:50:06 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 15324722,
+                "id_str": "15324722",
+                "indices": [
+                    0,
+                    7
+                ],
+                "name": "Garmin",
+                "screen_name": "Garmin"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 672578589221650432,
+    "id_str": "672578589221650432",
+    "in_reply_to_screen_name": "Garmin",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 15324722,
+    "in_reply_to_user_id_str": "15324722",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -85.800502,
+                        33.752607
+                    ],
+                    [
+                        -85.724207,
+                        33.752607
+                    ],
+                    [
+                        -85.724207,
+                        33.840282
+                    ],
+                    [
+                        -85.800502,
+                        33.840282
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Jacksonville, AL",
+        "id": "d5dbaf62e7106dc4",
+        "name": "Jacksonville",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/d5dbaf62e7106dc4.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@Garmin that garmin connect won't resize to fit smaller laptop screens drives me nuts!",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Nov 25 15:51:28 +0000 2008",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "ultramarathoner | historian of US and US South | Dept. Chair | vegan | lost 100 lbs | blue state dude born in Alabama | researching Apple and higher ed",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "thisrunninglife.net",
+                        "expanded_url": "http://thisrunninglife.net",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/qL1C7UPCGV"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 2061,
+        "follow_request_sent": false,
+        "followers_count": 3650,
+        "following": false,
+        "friends_count": 2698,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 17622211,
+        "id_str": "17622211",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 306,
+        "location": "Alabama",
+        "name": "Gordon Harvey   \uf8ff",
+        "notifications": false,
+        "profile_background_color": "1447E0",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/487787888763867136/-vPqylxJ.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/487787888763867136/-vPqylxJ.jpeg",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/17622211/1435062683",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/670287227029729280/Z7pBliIo_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/670287227029729280/Z7pBliIo_normal.jpg",
+        "profile_link_color": "FA743E",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "C0DFEC",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "ThisRunningLife",
+        "statuses_count": 45199,
+        "time_zone": "Mountain Time (US & Canada)",
+        "url": "https://t.co/qL1C7UPCGV",
+        "utc_offset": -25200,
+        "verified": false
+    }
+}
