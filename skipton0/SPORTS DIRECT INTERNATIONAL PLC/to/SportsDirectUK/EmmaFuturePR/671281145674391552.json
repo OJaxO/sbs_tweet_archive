@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Nov 30 10:54:31 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 28545204,
+                "id_str": "28545204",
+                "indices": [
+                    0,
+                    15
+                ],
+                "name": "SportsDirect.com",
+                "screen_name": "SportsDirectUK"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 671281145674391552,
+    "id_str": "671281145674391552",
+    "in_reply_to_screen_name": "SportsDirectUK",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 28545204,
+    "in_reply_to_user_id_str": "28545204",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -1.097549,
+                        52.865166
+                    ],
+                    [
+                        -1.066811,
+                        52.865166
+                    ],
+                    [
+                        -1.066811,
+                        52.883972
+                    ],
+                    [
+                        -1.097549,
+                        52.883972
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United Kingdom",
+        "country_code": "GB",
+        "full_name": "Keyworth, England",
+        "id": "6ea27990963c103d",
+        "name": "Keyworth",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/6ea27990963c103d.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@SportsDirectUK lost wallet at Thurmaston store on Saturday. Can't get through to the store by phone...can somebody contact me please?",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Aug 02 15:30:11 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Also called Mrs M! The commercially minded PR firm. We understand the bottom line and our campaigns reflect the realities of business. Founding member #fif",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "futurepr.uk.com",
+                        "expanded_url": "http://www.futurepr.uk.com",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/TPZb05bdtl"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 189,
+        "follow_request_sent": false,
+        "followers_count": 299,
+        "following": false,
+        "friends_count": 284,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 347290890,
+        "id_str": "347290890",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 8,
+        "location": "Nottingham ",
+        "name": "Emma Hayes",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/347290890/1448717949",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/671024217006153732/8t2WsS6G_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/671024217006153732/8t2WsS6G_normal.jpg",
+        "profile_link_color": "DD2E44",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "EmmaFuturePR",
+        "statuses_count": 957,
+        "time_zone": null,
+        "url": "https://t.co/TPZb05bdtl",
+        "utc_offset": null,
+        "verified": false
+    }
+}

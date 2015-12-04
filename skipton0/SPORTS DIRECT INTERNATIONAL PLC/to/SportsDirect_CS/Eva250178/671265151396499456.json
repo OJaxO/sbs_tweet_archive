@@ -1,0 +1,123 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Nov 30 09:50:58 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 1134633326,
+                "id_str": "1134633326",
+                "indices": [
+                    0,
+                    16
+                ],
+                "name": "SportsDirect.com CS",
+                "screen_name": "SportsDirect_CS"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 671265151396499456,
+    "id_str": "671265151396499456",
+    "in_reply_to_screen_name": "SportsDirect_CS",
+    "in_reply_to_status_id": 671264776069226496,
+    "in_reply_to_status_id_str": "671264776069226496",
+    "in_reply_to_user_id": 1134633326,
+    "in_reply_to_user_id_str": "1134633326",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        0.047833,
+                        50.8860199
+                    ],
+                    [
+                        0.068537,
+                        50.8860199
+                    ],
+                    [
+                        0.068537,
+                        50.901567
+                    ],
+                    [
+                        0.047833,
+                        50.901567
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United Kingdom",
+        "country_code": "GB",
+        "full_name": "Ringmer, England",
+        "id": "6e6caee44345723c",
+        "name": "Ringmer",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/6e6caee44345723c.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@SportsDirect_CS thank u for yr reply but i have just spoken to cs on the phone as waited 4 ages for my twitter email facebook replies...",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu May 05 11:09:21 +0000 2011",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 3,
+        "follow_request_sent": false,
+        "followers_count": 27,
+        "following": false,
+        "friends_count": 62,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 293447041,
+        "id_str": "293447041",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 0,
+        "location": "",
+        "name": "Eva Collins",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/419065505908285440/mMFcdPSr_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/419065505908285440/mMFcdPSr_normal.jpeg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Eva250178",
+        "statuses_count": 302,
+        "time_zone": null,
+        "url": null,
+        "utc_offset": null,
+        "verified": false
+    }
+}
