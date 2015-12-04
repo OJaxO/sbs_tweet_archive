@@ -1,0 +1,132 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Nov 28 17:15:08 +0000 2015",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    81,
+                    87
+                ],
+                "text": "rapid"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 43299388,
+                "id_str": "43299388",
+                "indices": [
+                    0,
+                    13
+                ],
+                "name": "Next",
+                "screen_name": "nextofficial"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 670652156656099330,
+    "id_str": "670652156656099330",
+    "in_reply_to_screen_name": "nextofficial",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 43299388,
+    "in_reply_to_user_id_str": "43299388",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -0.745779800818049,
+                        51.4482221321091
+                    ],
+                    [
+                        1.76893599950184,
+                        51.4482221321091
+                    ],
+                    [
+                        1.76893599950184,
+                        52.9926789576249
+                    ],
+                    [
+                        -0.745779800818049,
+                        52.9926789576249
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United Kingdom",
+        "country_code": "GB",
+        "full_name": "East, England",
+        "id": "3bc1b6cfd27ef7f6",
+        "name": "East",
+        "place_type": "admin",
+        "url": "https://api.twitter.com/1.1/geo/id/3bc1b6cfd27ef7f6.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@nextofficial wow! Quick ordering in store. Ordered at 5pm, in tomorrow after 2! #rapid",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Jun 07 13:10:08 +0000 2011",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "39 year old father of three. Married to my beautiful Donna, and a student of History at UCS, coffee lover and going for marathons in 2016.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 2061,
+        "follow_request_sent": false,
+        "followers_count": 260,
+        "following": false,
+        "friends_count": 1227,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 312646919,
+        "id_str": "312646919",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 5,
+        "location": "Ipswich",
+        "name": "Carl Robert Clark",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/312646919/1382726858",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/594626462394769408/PiW7oKSn_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/594626462394769408/PiW7oKSn_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "carlclark52",
+        "statuses_count": 2522,
+        "time_zone": "UTC",
+        "url": null,
+        "utc_offset": 0,
+        "verified": false
+    }
+}

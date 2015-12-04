@@ -1,0 +1,159 @@
+{
+    "contributors": null,
+    "coordinates": {
+        "coordinates": [
+            98.66751552,
+            3.59579623
+        ],
+        "type": "Point"
+    },
+    "created_at": "Fri Nov 27 09:27:39 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 43299388,
+                "id_str": "43299388",
+                "indices": [
+                    0,
+                    13
+                ],
+                "name": "Next",
+                "screen_name": "nextofficial"
+            },
+            {
+                "id": 806180298,
+                "id_str": "806180298",
+                "indices": [
+                    14,
+                    27
+                ],
+                "name": "Teddy Bear",
+                "screen_name": "StuffedTeddy"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": {
+        "coordinates": [
+            3.59579623,
+            98.66751552
+        ],
+        "type": "Point"
+    },
+    "id": 670172121721475072,
+    "id_str": "670172121721475072",
+    "in_reply_to_screen_name": "nextofficial",
+    "in_reply_to_status_id": 670170070753087488,
+    "in_reply_to_status_id_str": "670170070753087488",
+    "in_reply_to_user_id": 43299388,
+    "in_reply_to_user_id_str": "43299388",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        98.6595043,
+                        3.5588199
+                    ],
+                    [
+                        98.6757501,
+                        3.5588199
+                    ],
+                    [
+                        98.6757501,
+                        3.6033918
+                    ],
+                    [
+                        98.6595043,
+                        3.6033918
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "Indonesia",
+        "country_code": "ID",
+        "full_name": "Medan Polonia, Sumatera Utara",
+        "id": "1d71fa993fb4fd42",
+        "name": "Medan Polonia",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/1d71fa993fb4fd42.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://www.twitter.com\" rel=\"nofollow\">Twitter for Windows Phone</a>",
+    "text": "@nextofficial @StuffedTeddy welcome :)",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Sep 24 05:37:19 +0000 2014",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "ask.fm/cantikmh_",
+                        "expanded_url": "http://ask.fm/cantikmh_",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/iqtZHY4eH4"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 5,
+        "follow_request_sent": false,
+        "followers_count": 697,
+        "following": false,
+        "friends_count": 63,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 2782145691,
+        "id_str": "2782145691",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "id",
+        "listed_count": 1,
+        "location": "Indonesia",
+        "name": "Cantik K.Miranda H",
+        "notifications": false,
+        "profile_background_color": "9266CC",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/572399177917673472/suYq0K3M.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/572399177917673472/suYq0K3M.jpeg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2782145691/1439540019",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/672049084421685248/S2DmFdMF_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/672049084421685248/S2DmFdMF_normal.jpg",
+        "profile_link_color": "9266CC",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "cantikmh2",
+        "statuses_count": 2042,
+        "time_zone": null,
+        "url": "https://t.co/iqtZHY4eH4",
+        "utc_offset": null,
+        "verified": false
+    }
+}
