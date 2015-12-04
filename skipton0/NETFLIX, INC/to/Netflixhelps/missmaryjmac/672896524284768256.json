@@ -1,0 +1,124 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Dec 04 21:53:27 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 21454307,
+                "id_str": "21454307",
+                "indices": [
+                    0,
+                    13
+                ],
+                "name": "Netflix CS",
+                "screen_name": "Netflixhelps"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 672896524284768256,
+    "id_str": "672896524284768256",
+    "in_reply_to_screen_name": "Netflixhelps",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 21454307,
+    "in_reply_to_user_id_str": "21454307",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -83.5218655,
+                        33.877554
+                    ],
+                    [
+                        -83.277693,
+                        33.877554
+                    ],
+                    [
+                        -83.277693,
+                        34.035918
+                    ],
+                    [
+                        -83.5218655,
+                        34.035918
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Athens, GA",
+        "id": "01f9c9fd7bb1aa6b",
+        "name": "Athens",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/01f9c9fd7bb1aa6b.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@Netflixhelps app on ipad will load but episodes won't play (after loading forever) \"error cannot play movie try again later\" 3 days now",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Mar 03 04:18:52 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "I'm in it for the worms. Proud Hokie now at UGA \u2022nacho princess\u2022",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 223,
+        "follow_request_sent": false,
+        "followers_count": 183,
+        "following": false,
+        "friends_count": 647,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 260072686,
+        "id_str": "260072686",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 5,
+        "location": "Athens, Georgia",
+        "name": "Mary Maclean",
+        "notifications": false,
+        "profile_background_color": "DBE9ED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/260072686/1378169320",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1885159134/image_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1885159134/image_normal.jpg",
+        "profile_link_color": "CC3366",
+        "profile_sidebar_border_color": "DBE9ED",
+        "profile_sidebar_fill_color": "E6F6F9",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "missmaryjmac",
+        "statuses_count": 2216,
+        "time_zone": "Eastern Time (US & Canada)",
+        "url": null,
+        "utc_offset": -18000,
+        "verified": false
+    }
+}
