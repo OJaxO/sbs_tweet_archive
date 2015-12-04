@@ -1,0 +1,306 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Dec 04 06:02:17 +0000 2015",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    8,
+                    15
+                ],
+                "text": "patent"
+            },
+            {
+                "indices": [
+                    24,
+                    30
+                ],
+                "text": "drone"
+            }
+        ],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/ForbesTech/sta\u2026",
+                "expanded_url": "https://twitter.com/ForbesTech/status/672641480574541824",
+                "indices": [
+                    38,
+                    61
+                ],
+                "url": "https://t.co/3cg2xHfvU9"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 20793816,
+                "id_str": "20793816",
+                "indices": [
+                    0,
+                    7
+                ],
+                "name": "Amazon",
+                "screen_name": "amazon"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 672657154277572608,
+    "id_str": "672657154277572608",
+    "in_reply_to_screen_name": "amazon",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 20793816,
+    "in_reply_to_user_id_str": "20793816",
+    "is_quote_status": true,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -71.160356,
+                        42.352429
+                    ],
+                    [
+                        -71.064398,
+                        42.352429
+                    ],
+                    [
+                        -71.064398,
+                        42.4039663
+                    ],
+                    [
+                        -71.160356,
+                        42.4039663
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Cambridge, MA",
+        "id": "8193d87541f11dfb",
+        "name": "Cambridge",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/8193d87541f11dfb.json"
+    },
+    "possibly_sensitive": false,
+    "quoted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Fri Dec 04 05:00:00 +0000 2015",
+        "entities": {
+            "hashtags": [],
+            "media": [
+                {
+                    "display_url": "pic.twitter.com/nS6cu1hDWa",
+                    "expanded_url": "http://twitter.com/ForbesTech/status/672641480574541824/photo/1",
+                    "id": 672641480473878528,
+                    "id_str": "672641480473878528",
+                    "indices": [
+                        108,
+                        131
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/CVWz3NjWoAAbQxz.png",
+                    "media_url_https": "https://pbs.twimg.com/media/CVWz3NjWoAAbQxz.png",
+                    "sizes": {
+                        "large": {
+                            "h": 547,
+                            "resize": "fit",
+                            "w": 838
+                        },
+                        "medium": {
+                            "h": 391,
+                            "resize": "fit",
+                            "w": 600
+                        },
+                        "small": {
+                            "h": 221,
+                            "resize": "fit",
+                            "w": 340
+                        },
+                        "thumb": {
+                            "h": 150,
+                            "resize": "crop",
+                            "w": 150
+                        }
+                    },
+                    "type": "photo",
+                    "url": "https://t.co/nS6cu1hDWa"
+                }
+            ],
+            "symbols": [],
+            "urls": [
+                {
+                    "display_url": "onforb.es/1Toi3d1",
+                    "expanded_url": "http://onforb.es/1Toi3d1",
+                    "indices": [
+                        84,
+                        107
+                    ],
+                    "url": "https://t.co/jKrCEuGJcp"
+                }
+            ],
+            "user_mentions": []
+        },
+        "favorite_count": 25,
+        "favorited": false,
+        "geo": null,
+        "id": 672641480574541824,
+        "id_str": "672641480574541824",
+        "in_reply_to_screen_name": null,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "is_quote_status": false,
+        "lang": "en",
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "place": null,
+        "possibly_sensitive": false,
+        "retweet_count": 41,
+        "retweeted": false,
+        "source": "<a href=\"http://www.sprinklr.com\" rel=\"nofollow\">Sprinklr</a>",
+        "text": "Wondering how the Amazon drones could actually work? Check out the patent info here https://t.co/jKrCEuGJcp https://t.co/nS6cu1hDWa",
+        "truncated": false,
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Fri May 23 19:32:37 +0000 2008",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "Tech news and insights from Forbes.",
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "forbes.com/technology/",
+                            "expanded_url": "http://www.forbes.com/technology/",
+                            "indices": [
+                                0,
+                                22
+                            ],
+                            "url": "http://t.co/BtZjDpK3en"
+                        }
+                    ]
+                }
+            },
+            "favourites_count": 18,
+            "follow_request_sent": false,
+            "followers_count": 2282393,
+            "following": false,
+            "friends_count": 15825,
+            "geo_enabled": false,
+            "has_extended_profile": false,
+            "id": 14885549,
+            "id_str": "14885549",
+            "is_translation_enabled": false,
+            "is_translator": false,
+            "lang": "en",
+            "listed_count": 27854,
+            "location": "On and off the grid.",
+            "name": "Forbes Tech News",
+            "notifications": false,
+            "profile_background_color": "FFFFFF",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/92775085/twitter-background.jpg",
+            "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/92775085/twitter-background.jpg",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/14885549/1428350682",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/828527305/technology_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/828527305/technology_normal.jpg",
+            "profile_link_color": "336699",
+            "profile_sidebar_border_color": "CCCCCC",
+            "profile_sidebar_fill_color": "F7F7F7",
+            "profile_text_color": "000000",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "ForbesTech",
+            "statuses_count": 76390,
+            "time_zone": "Quito",
+            "url": "http://t.co/BtZjDpK3en",
+            "utc_offset": -18000,
+            "verified": true
+        }
+    },
+    "quoted_status_id": 672641480574541824,
+    "quoted_status_id_str": "672641480574541824",
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@amazon #patent reveals #drone vision https://t.co/3cg2xHfvU9",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Jun 14 22:16:29 +0000 2014",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "MIT SDM Fellow. Digital mobility and travel enthusiast. Co-Creator Lufthansa Innovation Hub. Co-Founder NextB2BForum. WEF Global Shaper.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "about.me/christianumbach",
+                        "expanded_url": "http://about.me/christianumbach",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/8Jl6w7cObX"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 115,
+        "follow_request_sent": false,
+        "followers_count": 252,
+        "following": false,
+        "friends_count": 185,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 2609839949,
+        "id_str": "2609839949",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 12,
+        "location": "Cambridge, MA",
+        "name": "Christian Umbach",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/531216648641204224/WZsRE2a7_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/531216648641204224/WZsRE2a7_normal.jpeg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "ChrisUmbach",
+        "statuses_count": 186,
+        "time_zone": null,
+        "url": "http://t.co/8Jl6w7cObX",
+        "utc_offset": null,
+        "verified": false
+    }
+}

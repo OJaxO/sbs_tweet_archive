@@ -1,0 +1,124 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Dec 04 02:49:15 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 20793816,
+                "id_str": "20793816",
+                "indices": [
+                    0,
+                    7
+                ],
+                "name": "Amazon",
+                "screen_name": "amazon"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 672608574896406528,
+    "id_str": "672608574896406528",
+    "in_reply_to_screen_name": "amazon",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 20793816,
+    "in_reply_to_user_id_str": "20793816",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -77.65493,
+                        37.624458
+                    ],
+                    [
+                        -77.582259,
+                        37.624458
+                    ],
+                    [
+                        -77.582259,
+                        37.689361
+                    ],
+                    [
+                        -77.65493,
+                        37.689361
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Short Pump, VA",
+        "id": "018325d17666f4e3",
+        "name": "Short Pump",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/018325d17666f4e3.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@amazon screwed over my 13 year old son out of over $300 of his money by selling a crappy product and then won't help.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Mar 16 22:43:49 +0000 2011",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 12,
+        "follow_request_sent": false,
+        "followers_count": 31,
+        "following": false,
+        "friends_count": 545,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 267418801,
+        "id_str": "267418801",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 0,
+        "location": "",
+        "name": "michael feinmel",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/267418801/1402618221",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/463700890742837248/4RHrpAkB_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/463700890742837248/4RHrpAkB_normal.png",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "mikefeinmel",
+        "statuses_count": 66,
+        "time_zone": null,
+        "url": null,
+        "utc_offset": null,
+        "verified": false
+    }
+}

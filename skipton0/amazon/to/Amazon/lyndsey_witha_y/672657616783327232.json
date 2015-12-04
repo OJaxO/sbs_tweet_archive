@@ -1,0 +1,171 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Dec 04 06:04:07 +0000 2015",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    101,
+                    108
+                ],
+                "text": "amazon"
+            }
+        ],
+        "media": [
+            {
+                "display_url": "pic.twitter.com/QcDZqm2uU7",
+                "expanded_url": "http://twitter.com/lyndsey_witha_y/status/672657616783327232/photo/1",
+                "id": 672657611796250624,
+                "id_str": "672657611796250624",
+                "indices": [
+                    109,
+                    132
+                ],
+                "media_url": "http://pbs.twimg.com/media/CVXCiLaUAAAJc2D.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/CVXCiLaUAAAJc2D.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 1024,
+                        "resize": "fit",
+                        "w": 575
+                    },
+                    "medium": {
+                        "h": 1024,
+                        "resize": "fit",
+                        "w": 575
+                    },
+                    "small": {
+                        "h": 605,
+                        "resize": "fit",
+                        "w": 340
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/QcDZqm2uU7"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 20793816,
+                "id_str": "20793816",
+                "indices": [
+                    0,
+                    7
+                ],
+                "name": "Amazon",
+                "screen_name": "amazon"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 672657616783327232,
+    "id_str": "672657616783327232",
+    "in_reply_to_screen_name": "amazon",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 20793816,
+    "in_reply_to_user_id_str": "20793816",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -122.514926,
+                        37.708075
+                    ],
+                    [
+                        -122.357031,
+                        37.708075
+                    ],
+                    [
+                        -122.357031,
+                        37.833238
+                    ],
+                    [
+                        -122.514926,
+                        37.833238
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "San Francisco, CA",
+        "id": "5a110d312052166f",
+        "name": "San Francisco",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/5a110d312052166f.json"
+    },
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@amazon where is my TV at?! \ud83d\ude25 stayed late at work for it to show up and everything. Help a girl out. #amazon https://t.co/QcDZqm2uU7",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Mar 02 20:06:44 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 32,
+        "follow_request_sent": false,
+        "followers_count": 120,
+        "following": false,
+        "friends_count": 273,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 22527819,
+        "id_str": "22527819",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 10,
+        "location": "San Francisco, CA",
+        "name": "Lyndsey",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/22527819/1443026609",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/611489665263251457/c9yb-L3a_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/611489665263251457/c9yb-L3a_normal.jpg",
+        "profile_link_color": "FFCC4D",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "lyndsey_witha_y",
+        "statuses_count": 1550,
+        "time_zone": "Mountain Time (US & Canada)",
+        "url": null,
+        "utc_offset": -25200,
+        "verified": false
+    }
+}
