@@ -1,0 +1,147 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Nov 30 23:59:01 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 14620190,
+                "id_str": "14620190",
+                "indices": [
+                    0,
+                    4
+                ],
+                "name": "AT&T",
+                "screen_name": "ATT"
+            },
+            {
+                "id": 16960789,
+                "id_str": "16960789",
+                "indices": [
+                    5,
+                    20
+                ],
+                "name": "Columbus Crew SC",
+                "screen_name": "ColumbusCrewSC"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 671478569391038464,
+    "id_str": "671478569391038464",
+    "in_reply_to_screen_name": "ATT",
+    "in_reply_to_status_id": 671464568816836608,
+    "in_reply_to_status_id_str": "671464568816836608",
+    "in_reply_to_user_id": 14620190,
+    "in_reply_to_user_id_str": "14620190",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -83.005531,
+                        39.970419
+                    ],
+                    [
+                        -82.993072,
+                        39.970419
+                    ],
+                    [
+                        -82.993072,
+                        39.987117
+                    ],
+                    [
+                        -83.005531,
+                        39.987117
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Italian Village, Columbus",
+        "id": "7efd17a7cfb32eaf",
+        "name": "Italian Village",
+        "place_type": "neighborhood",
+        "url": "https://api.twitter.com/1.1/geo/id/7efd17a7cfb32eaf.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for i\u039fS</a>",
+    "text": "@ATT @ColumbusCrewSC for sure!",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Mar 20 18:51:48 +0000 2007",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "I'm a creative director at Spacejunk and tweet about media, culture, food, soccer/NFL (Liverpool/Crew SC and Browns), politics, CBus, and technology.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "spacejunkmedia.com",
+                        "expanded_url": "http://www.spacejunkmedia.com",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/Vy0feQqyO7"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 931,
+        "follow_request_sent": false,
+        "followers_count": 1505,
+        "following": false,
+        "friends_count": 1154,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 1658861,
+        "id_str": "1658861",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 51,
+        "location": "Columbus, OH, USA",
+        "name": "Mike Beaumont",
+        "notifications": false,
+        "profile_background_color": "BADFCD",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/440504802/SJ_WEB-BG_Desktop_small.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/440504802/SJ_WEB-BG_Desktop_small.jpg",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1658861/1356740872",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/668078432551571457/F8DhB6y2_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/668078432551571457/F8DhB6y2_normal.jpg",
+        "profile_link_color": "FF0000",
+        "profile_sidebar_border_color": "F2E195",
+        "profile_sidebar_fill_color": "FFF7CC",
+        "profile_text_color": "0C3E53",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "m_beaumont",
+        "statuses_count": 5906,
+        "time_zone": "Eastern Time (US & Canada)",
+        "url": "http://t.co/Vy0feQqyO7",
+        "utc_offset": -18000,
+        "verified": false
+    }
+}

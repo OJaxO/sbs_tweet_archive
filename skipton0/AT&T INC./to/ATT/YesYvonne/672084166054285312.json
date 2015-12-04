@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Dec 02 16:05:26 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 14620190,
+                "id_str": "14620190",
+                "indices": [
+                    0,
+                    4
+                ],
+                "name": "AT&T",
+                "screen_name": "ATT"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 672084166054285312,
+    "id_str": "672084166054285312",
+    "in_reply_to_screen_name": "ATT",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 14620190,
+    "in_reply_to_user_id_str": "14620190",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -122.10003,
+                        37.842368
+                    ],
+                    [
+                        -121.980829,
+                        37.842368
+                    ],
+                    [
+                        -121.980829,
+                        37.944965
+                    ],
+                    [
+                        -122.10003,
+                        37.944965
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Walnut Creek, CA",
+        "id": "a35b62af9d82aa08",
+        "name": "Walnut Creek",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/a35b62af9d82aa08.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@ATT New in Rossmoor Walnut Creek CA 94595, I discovered your cell signal here stinks. $$$ for no svc?! Pls fix or I'm switching providers.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Nov 10 06:16:35 +0000 2008",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Ordained Unitarian Universalist minister affirming love, justice, joy, & keeping faith with the Spirit of Life. Tiger fan, & Go Blue.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "facebook.com/yesyvonne",
+                        "expanded_url": "http://www.facebook.com/yesyvonne",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/swxELINgK4"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 938,
+        "follow_request_sent": false,
+        "followers_count": 878,
+        "following": false,
+        "friends_count": 1656,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 17282312,
+        "id_str": "17282312",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 46,
+        "location": "",
+        "name": "YesYvonne",
+        "notifications": false,
+        "profile_background_color": "0099B9",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/17282312/1413575737",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/359852596/twitterProfilePhoto_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/359852596/twitterProfilePhoto_normal.jpg",
+        "profile_link_color": "0099B9",
+        "profile_sidebar_border_color": "5ED4DC",
+        "profile_sidebar_fill_color": "95E8EC",
+        "profile_text_color": "3C3940",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "YesYvonne",
+        "statuses_count": 4402,
+        "time_zone": "Eastern Time (US & Canada)",
+        "url": "http://t.co/swxELINgK4",
+        "utc_offset": -18000,
+        "verified": false
+    }
+}

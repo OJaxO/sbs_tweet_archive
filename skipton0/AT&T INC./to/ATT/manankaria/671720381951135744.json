@@ -1,0 +1,134 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 01 15:59:53 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 14620190,
+                "id_str": "14620190",
+                "indices": [
+                    0,
+                    4
+                ],
+                "name": "AT&T",
+                "screen_name": "ATT"
+            },
+            {
+                "id": 62643312,
+                "id_str": "62643312",
+                "indices": [
+                    5,
+                    14
+                ],
+                "name": "ATTCares",
+                "screen_name": "ATTCares"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 671720381951135744,
+    "id_str": "671720381951135744",
+    "in_reply_to_screen_name": "ATT",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 14620190,
+    "in_reply_to_user_id_str": "14620190",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -80.7060737,
+                        28.03509
+                    ],
+                    [
+                        -80.5933237,
+                        28.03509
+                    ],
+                    [
+                        -80.5933237,
+                        28.200658
+                    ],
+                    [
+                        -80.7060737,
+                        28.200658
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Melbourne, FL",
+        "id": "d970e7fd69eaf4ec",
+        "name": "Melbourne",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/d970e7fd69eaf4ec.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@ATT @ATTCares I need help with an account that should've been taken off hold today. I don't have passcode so no one can help",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Jul 27 01:29:41 +0000 2009",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 1302,
+        "follow_request_sent": false,
+        "followers_count": 194,
+        "following": false,
+        "friends_count": 149,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 60449933,
+        "id_str": "60449933",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 2,
+        "location": "Melbourne, FL",
+        "name": "Manan Karia",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/60449933/1367612056",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1424703251/image_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1424703251/image_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "manankaria",
+        "statuses_count": 893,
+        "time_zone": "Eastern Time (US & Canada)",
+        "url": null,
+        "utc_offset": -18000,
+        "verified": false
+    }
+}

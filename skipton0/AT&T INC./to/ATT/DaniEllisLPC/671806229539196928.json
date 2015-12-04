@@ -1,0 +1,136 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 01 21:41:01 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 14620190,
+                "id_str": "14620190",
+                "indices": [
+                    0,
+                    4
+                ],
+                "name": "AT&T",
+                "screen_name": "ATT"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 671806229539196928,
+    "id_str": "671806229539196928",
+    "in_reply_to_screen_name": "ATT",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 14620190,
+    "in_reply_to_user_id_str": "14620190",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -95.823268,
+                        29.522325
+                    ],
+                    [
+                        -95.069705,
+                        29.522325
+                    ],
+                    [
+                        -95.069705,
+                        30.1546646
+                    ],
+                    [
+                        -95.823268,
+                        30.1546646
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Houston, TX",
+        "id": "1c69a67ad480e1b1",
+        "name": "Houston",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/1c69a67ad480e1b1.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@ATT how many reps does it take to change an address on a work order and get it scheduled? About 1 hr and 5 reps and no resolution",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Jul 11 20:01:52 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Dani Ellis is a psychotherapist for Wellness Solutions. She uses mindfulness based approaches to empower clients and help them achieve their goals",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "WellnessSolutionsLLC.COM",
+                        "expanded_url": "http://WWW.WellnessSolutionsLLC.COM",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/XTrM54a9BL"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 2838,
+        "follow_request_sent": false,
+        "followers_count": 412,
+        "following": false,
+        "friends_count": 924,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 165513317,
+        "id_str": "165513317",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 24,
+        "location": "The Woodlands, TX",
+        "name": "Danielle C. Ellis",
+        "notifications": false,
+        "profile_background_color": "694FFF",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme19/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme19/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1070892062/purple_lotus_flower_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1070892062/purple_lotus_flower_normal.jpg",
+        "profile_link_color": "74CC00",
+        "profile_sidebar_border_color": "FBADFF",
+        "profile_sidebar_fill_color": "DDD1FF",
+        "profile_text_color": "B80EB8",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "DaniEllisLPC",
+        "statuses_count": 81,
+        "time_zone": null,
+        "url": "https://t.co/XTrM54a9BL",
+        "utc_offset": null,
+        "verified": false
+    }
+}

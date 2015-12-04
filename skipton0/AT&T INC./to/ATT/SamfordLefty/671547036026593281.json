@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 01 04:31:04 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 14620190,
+                "id_str": "14620190",
+                "indices": [
+                    0,
+                    4
+                ],
+                "name": "AT&T",
+                "screen_name": "ATT"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 671547036026593281,
+    "id_str": "671547036026593281",
+    "in_reply_to_screen_name": "ATT",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 14620190,
+    "in_reply_to_user_id_str": "14620190",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -91.655009,
+                        30.146096
+                    ],
+                    [
+                        -88.097889,
+                        30.146096
+                    ],
+                    [
+                        -88.097889,
+                        34.995968
+                    ],
+                    [
+                        -91.655009,
+                        34.995968
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Mississippi, USA",
+        "id": "43d2418301bf1a49",
+        "name": "Mississippi",
+        "place_type": "admin",
+        "url": "https://api.twitter.com/1.1/geo/id/43d2418301bf1a49.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@ATT 1 hour and 15 minutes on hold only to hear that your systems are down. Disappointing. Maybe update along the way, or call back instead.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Jul 08 13:22:26 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Christ follower.  Ragamuffin.  Husband to a beautiful, Godly wife. Father to 5 amazing kids. Worship leader/guitar player. Golf enthusiast.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "theunsatisfiedworshipper.blogspot.com",
+                        "expanded_url": "http://theunsatisfiedworshipper.blogspot.com/",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/gDSA1WEk49"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 163,
+        "follow_request_sent": false,
+        "followers_count": 250,
+        "following": false,
+        "friends_count": 323,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 331622458,
+        "id_str": "331622458",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 5,
+        "location": "Brandon, MS",
+        "name": "Robert Allen",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/307895001/xfe5bf84d026037957e9fd029c0e9735.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/307895001/xfe5bf84d026037957e9fd029c0e9735.jpg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/331622458/1426088202",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/476822607438692352/xYEn7trZ_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/476822607438692352/xYEn7trZ_normal.jpeg",
+        "profile_link_color": "5D646B",
+        "profile_sidebar_border_color": "30021D",
+        "profile_sidebar_fill_color": "33312F",
+        "profile_text_color": "D65402",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "SamfordLefty",
+        "statuses_count": 1150,
+        "time_zone": "Central Time (US & Canada)",
+        "url": "http://t.co/gDSA1WEk49",
+        "utc_offset": -21600,
+        "verified": false
+    }
+}

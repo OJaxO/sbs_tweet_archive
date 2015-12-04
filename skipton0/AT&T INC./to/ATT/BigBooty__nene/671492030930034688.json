@@ -1,0 +1,124 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 01 00:52:30 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 14620190,
+                "id_str": "14620190",
+                "indices": [
+                    0,
+                    4
+                ],
+                "name": "AT&T",
+                "screen_name": "ATT"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 671492030930034688,
+    "id_str": "671492030930034688",
+    "in_reply_to_screen_name": "ATT",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 14620190,
+    "in_reply_to_user_id_str": "14620190",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -91.218994,
+                        30.354161
+                    ],
+                    [
+                        -90.962605,
+                        30.354161
+                    ],
+                    [
+                        -90.962605,
+                        30.5640391
+                    ],
+                    [
+                        -91.218994,
+                        30.5640391
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Baton Rouge, LA",
+        "id": "c7ef5f3368b68777",
+        "name": "Baton Rouge",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/c7ef5f3368b68777.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@ATT can kiss my \ud83c\udf51",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Dec 06 05:41:58 +0000 2014",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "God 1st #ProudMommie #FuturePsychologist #October5&6\u264e IG name: NeNe.IsChocolate",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 746,
+        "follow_request_sent": false,
+        "followers_count": 58,
+        "following": false,
+        "friends_count": 80,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 2907370324,
+        "id_str": "2907370324",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 1,
+        "location": "",
+        "name": "Ne-Ne",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2907370324/1417846077",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/635286572250869760/u5TvU9PL_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/635286572250869760/u5TvU9PL_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "BigBooty__nene",
+        "statuses_count": 6562,
+        "time_zone": null,
+        "url": null,
+        "utc_offset": null,
+        "verified": false
+    }
+}

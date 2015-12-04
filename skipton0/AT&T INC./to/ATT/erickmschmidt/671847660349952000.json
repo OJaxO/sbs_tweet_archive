@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Dec 02 00:25:39 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 14620190,
+                "id_str": "14620190",
+                "indices": [
+                    0,
+                    4
+                ],
+                "name": "AT&T",
+                "screen_name": "ATT"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 671847660349952000,
+    "id_str": "671847660349952000",
+    "in_reply_to_screen_name": "ATT",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 14620190,
+    "in_reply_to_user_id_str": "14620190",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -90.418136,
+                        41.696088
+                    ],
+                    [
+                        -82.122971,
+                        41.696088
+                    ],
+                    [
+                        -82.122971,
+                        48.306272
+                    ],
+                    [
+                        -90.418136,
+                        48.306272
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Michigan, USA",
+        "id": "67d92742f1ebf307",
+        "name": "Michigan",
+        "place_type": "admin",
+        "url": "https://api.twitter.com/1.1/geo/id/67d92742f1ebf307.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@ATT just ruined \"Rudolph the Red Nosed Reindeer\" for me with their commercials.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Jan 17 21:49:44 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "I'm quiet until \u26be season starts. Michigan born and raised but my \u2764 belongs to my Cardinals. Hi Huey!!",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "erick-schmidt.artistwebsites.com",
+                        "expanded_url": "http://erick-schmidt.artistwebsites.com/",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/8jQTs0MRYn"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 1573,
+        "follow_request_sent": false,
+        "followers_count": 231,
+        "following": false,
+        "friends_count": 389,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 105901736,
+        "id_str": "105901736",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 10,
+        "location": "Auburn, Michigan  ",
+        "name": "Erick...with a k",
+        "notifications": false,
+        "profile_background_color": "EDECE9",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000068021269/2f6280234b9df2ba48f8c32d6fbbb5f9.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000068021269/2f6280234b9df2ba48f8c32d6fbbb5f9.jpeg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/105901736/1448307001",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/672185739912826880/MkjCmlSO_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/672185739912826880/MkjCmlSO_normal.jpg",
+        "profile_link_color": "940511",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "C0DFEC",
+        "profile_text_color": "333333",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "erickmschmidt",
+        "statuses_count": 8682,
+        "time_zone": "Eastern Time (US & Canada)",
+        "url": "http://t.co/8jQTs0MRYn",
+        "utc_offset": -18000,
+        "verified": false
+    }
+}

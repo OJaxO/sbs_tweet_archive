@@ -1,0 +1,124 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Dec 02 20:12:49 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 14620190,
+                "id_str": "14620190",
+                "indices": [
+                    0,
+                    4
+                ],
+                "name": "AT&T",
+                "screen_name": "ATT"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 672146419868921857,
+    "id_str": "672146419868921857",
+    "in_reply_to_screen_name": "ATT",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 14620190,
+    "in_reply_to_user_id_str": "14620190",
+    "is_quote_status": false,
+    "lang": "es",
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -99.364536,
+                        19.232313
+                    ],
+                    [
+                        -99.2466245,
+                        19.232313
+                    ],
+                    [
+                        -99.2466245,
+                        19.405081
+                    ],
+                    [
+                        -99.364536,
+                        19.405081
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "M\u00e9xico",
+        "country_code": "MX",
+        "full_name": "Cuajimalpa de Morelos, Distrito Federal",
+        "id": "e86e154b91acd5a3",
+        "name": "Cuajimalpa de Morelos",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/e86e154b91acd5a3.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@ATT me urge comunicarme con alguien de Iusacell y el call center es una basura",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Aug 31 21:11:34 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 60,
+        "follow_request_sent": false,
+        "followers_count": 147,
+        "following": false,
+        "friends_count": 169,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 70501669,
+        "id_str": "70501669",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "es",
+        "listed_count": 1,
+        "location": "M\u00e9xico",
+        "name": "Regina A",
+        "notifications": false,
+        "profile_background_color": "642D8B",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/84135806/espiral_2.bmp",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/84135806/espiral_2.bmp",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/70501669/1436308111",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/618246974270091264/XCpOdNzg_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/618246974270091264/XCpOdNzg_normal.jpg",
+        "profile_link_color": "FF0000",
+        "profile_sidebar_border_color": "65B0DA",
+        "profile_sidebar_fill_color": "7AC3EE",
+        "profile_text_color": "3D1957",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "reginaarredondo",
+        "statuses_count": 1971,
+        "time_zone": "Mexico City",
+        "url": null,
+        "utc_offset": -21600,
+        "verified": false
+    }
+}

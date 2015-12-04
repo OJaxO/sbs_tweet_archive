@@ -1,0 +1,180 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 01 00:47:09 +0000 2015",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    18,
+                    25
+                ],
+                "text": "CrewSC"
+            },
+            {
+                "indices": [
+                    26,
+                    33
+                ],
+                "text": "MLSCup"
+            },
+            {
+                "indices": [
+                    34,
+                    46
+                ],
+                "text": "ForColumbus"
+            },
+            {
+                "indices": [
+                    47,
+                    62
+                ],
+                "text": "MLSCupPlayoffs"
+            },
+            {
+                "indices": [
+                    63,
+                    80
+                ],
+                "text": "ColumbusTilliDie"
+            },
+            {
+                "indices": [
+                    81,
+                    88
+                ],
+                "text": "Crew96"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 14620190,
+                "id_str": "14620190",
+                "indices": [
+                    0,
+                    4
+                ],
+                "name": "AT&T",
+                "screen_name": "ATT"
+            }
+        ]
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": null,
+    "id": 671490686399733760,
+    "id_str": "671490686399733760",
+    "in_reply_to_screen_name": "ATT",
+    "in_reply_to_status_id": 671464407218659329,
+    "in_reply_to_status_id_str": "671464407218659329",
+    "in_reply_to_user_id": 14620190,
+    "in_reply_to_user_id_str": "14620190",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -83.200169,
+                        39.832013
+                    ],
+                    [
+                        -82.7713751,
+                        39.832013
+                    ],
+                    [
+                        -82.7713751,
+                        40.157354
+                    ],
+                    [
+                        -83.200169,
+                        40.157354
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Columbus, OH",
+        "id": "3df0e3eb1e91170b",
+        "name": "Columbus",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/3df0e3eb1e91170b.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@ATT Oh yeah!!!!! #CrewSC #MLSCup #ForColumbus #MLSCupPlayoffs #ColumbusTilliDie #Crew96",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Feb 25 19:07:18 +0000 2012",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Former Corpsman w Marines did 2 tours in Iraq including invasion. Ohio State alumnus. Diehard #CBJ, OSU Buckeyes, Ohio Bobcats, Cleveland Browns, Cavs, #NavyFB",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "m.navysports.com/sports/m-footb\u2026",
+                        "expanded_url": "http://m.navysports.com/sports/m-footbl/navy-m-footbl-mobile.html",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/6tubLJztVu"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 9304,
+        "follow_request_sent": false,
+        "followers_count": 1651,
+        "following": false,
+        "friends_count": 699,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 503415245,
+        "id_str": "503415245",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 19,
+        "location": "Columbus, OH",
+        "name": "Matt Garrett",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/434588549/Columbus_Ohio_col14_large.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/434588549/Columbus_Ohio_col14_large.jpg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/503415245/1396441753",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/485216453608894465/-C35-gVv_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/485216453608894465/-C35-gVv_normal.jpeg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Matt44G",
+        "statuses_count": 11873,
+        "time_zone": "Eastern Time (US & Canada)",
+        "url": "https://t.co/6tubLJztVu",
+        "utc_offset": -18000,
+        "verified": false
+    }
+}

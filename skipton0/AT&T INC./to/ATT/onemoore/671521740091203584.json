@@ -1,0 +1,124 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 01 02:50:33 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 14620190,
+                "id_str": "14620190",
+                "indices": [
+                    0,
+                    4
+                ],
+                "name": "AT&T",
+                "screen_name": "ATT"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 671521740091203584,
+    "id_str": "671521740091203584",
+    "in_reply_to_screen_name": "ATT",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 14620190,
+    "in_reply_to_user_id_str": "14620190",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -88.097892,
+                        37.771743
+                    ],
+                    [
+                        -84.78458,
+                        37.771743
+                    ],
+                    [
+                        -84.78458,
+                        41.761368
+                    ],
+                    [
+                        -88.097892,
+                        41.761368
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Indiana, USA",
+        "id": "1010ecfa7d3a40f8",
+        "name": "Indiana",
+        "place_type": "admin",
+        "url": "https://api.twitter.com/1.1/geo/id/1010ecfa7d3a40f8.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@ATT is there something going on with your 4G service in the southern Indiana area? Having issues getting downloads even with wifi.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Apr 20 20:03:28 +0000 2009",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Conservative. Love my Indianapolis Colts and Indiana Pacers. Horse racing enthusiast. Love to talk politics.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 3602,
+        "follow_request_sent": false,
+        "followers_count": 3562,
+        "following": false,
+        "friends_count": 3466,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 33641950,
+        "id_str": "33641950",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 53,
+        "location": "Indiana, USA",
+        "name": "Tonya Moore",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/33641950/1395962385",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/449324926466392064/dSrjeUGw_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/449324926466392064/dSrjeUGw_normal.jpeg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "onemoore",
+        "statuses_count": 7218,
+        "time_zone": null,
+        "url": null,
+        "utc_offset": null,
+        "verified": false
+    }
+}
