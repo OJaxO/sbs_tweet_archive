@@ -1,0 +1,170 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Dec 03 15:58:42 +0000 2015",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    63,
+                    73
+                ],
+                "text": "saveatree"
+            }
+        ],
+        "media": [
+            {
+                "display_url": "pic.twitter.com/d1o2y8GObh",
+                "expanded_url": "http://twitter.com/debjono/status/672444860687917060/photo/1",
+                "id": 672444850101428224,
+                "id_str": "672444850101428224",
+                "indices": [
+                    77,
+                    100
+                ],
+                "media_url": "http://pbs.twimg.com/media/CVUBB0VWIAAnDeC.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/CVUBB0VWIAAnDeC.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 1024,
+                        "resize": "fit",
+                        "w": 768
+                    },
+                    "medium": {
+                        "h": 800,
+                        "resize": "fit",
+                        "w": 600
+                    },
+                    "small": {
+                        "h": 453,
+                        "resize": "fit",
+                        "w": 340
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/d1o2y8GObh"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 37916167,
+                "id_str": "37916167",
+                "indices": [
+                    0,
+                    16
+                ],
+                "name": "M&S",
+                "screen_name": "marksandspencer"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 672444860687917060,
+    "id_str": "672444860687917060",
+    "in_reply_to_screen_name": "marksandspencer",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 37916167,
+    "in_reply_to_user_id_str": "37916167",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -0.455574,
+                        53.820512
+                    ],
+                    [
+                        -0.394477,
+                        53.820512
+                    ],
+                    [
+                        -0.394477,
+                        53.8620278
+                    ],
+                    [
+                        -0.455574,
+                        53.8620278
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United Kingdom",
+        "country_code": "GB",
+        "full_name": "Beverley, England",
+        "id": "3d8aada45e3c5866",
+        "name": "Beverley",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/3d8aada45e3c5866.json"
+    },
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@marksandspencer Is this really necessary for 1 pack of cards? #saveatree \ud83c\udf84\ud83c\udf84 https://t.co/d1o2y8GObh",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Mar 22 14:28:00 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Emergency Care Assistant from Beverley, love my family, friends, job, champagne and F1......in that order......oh and I like a hassle free life, mucho love xxxx",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 454,
+        "follow_request_sent": false,
+        "followers_count": 93,
+        "following": false,
+        "friends_count": 215,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 25822919,
+        "id_str": "25822919",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 2,
+        "location": "Beverley, East Yorkshire",
+        "name": "Debbie Johnson",
+        "notifications": false,
+        "profile_background_color": "642D8B",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/756340573/a9a4604ed065622e0423ed26748d5547.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/756340573/a9a4604ed065622e0423ed26748d5547.jpeg",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/564110063552716800/LU2EzhqE_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/564110063552716800/LU2EzhqE_normal.jpeg",
+        "profile_link_color": "FF0000",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "7AC3EE",
+        "profile_text_color": "3D1957",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "debjono",
+        "statuses_count": 757,
+        "time_zone": "Amsterdam",
+        "url": null,
+        "utc_offset": 3600,
+        "verified": false
+    }
+}

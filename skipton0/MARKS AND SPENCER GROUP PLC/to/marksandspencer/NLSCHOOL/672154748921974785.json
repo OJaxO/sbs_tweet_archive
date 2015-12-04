@@ -1,0 +1,147 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Dec 02 20:45:54 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 37916167,
+                "id_str": "37916167",
+                "indices": [
+                    0,
+                    16
+                ],
+                "name": "M&S",
+                "screen_name": "marksandspencer"
+            },
+            {
+                "id": 102467409,
+                "id_str": "102467409",
+                "indices": [
+                    17,
+                    26
+                ],
+                "name": "NORTH LAKES SCHOOL",
+                "screen_name": "NLSCHOOL"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 672154748921974785,
+    "id_str": "672154748921974785",
+    "in_reply_to_screen_name": "marksandspencer",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 37916167,
+    "in_reply_to_user_id_str": "37916167",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -2.7773181,
+                        54.6507054
+                    ],
+                    [
+                        -2.728135,
+                        54.6507054
+                    ],
+                    [
+                        -2.728135,
+                        54.675913
+                    ],
+                    [
+                        -2.7773181,
+                        54.675913
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United Kingdom",
+        "country_code": "GB",
+        "full_name": "Penrith, England",
+        "id": "117b5eb271dc4d2c",
+        "name": "Penrith",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/117b5eb271dc4d2c.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@marksandspencer @NLSCHOOL Choir raised the roof today at the M&amp;S Penrith opening!  Very Proud!  Thanks for inviting us along!",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Jan 06 20:15:02 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "North Lakes School - Essential News and updates for parents and supporters!",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "northlakes.cumbria.sch.uk",
+                        "expanded_url": "http://www.northlakes.cumbria.sch.uk",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/f8HopvtQZR"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 41,
+        "follow_request_sent": false,
+        "followers_count": 346,
+        "following": false,
+        "friends_count": 273,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 102467409,
+        "id_str": "102467409",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 6,
+        "location": "Penrith, Cumbria ",
+        "name": "NORTH LAKES SCHOOL",
+        "notifications": false,
+        "profile_background_color": "642D8B",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/64803972/NLS_PIC.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/64803972/NLS_PIC.jpg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/102467409/1443814983",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/664708109093486592/AEIiLLUH_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/664708109093486592/AEIiLLUH_normal.jpg",
+        "profile_link_color": "FF0000",
+        "profile_sidebar_border_color": "65B0DA",
+        "profile_sidebar_fill_color": "7AC3EE",
+        "profile_text_color": "3D1957",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "NLSCHOOL",
+        "statuses_count": 1015,
+        "time_zone": "Casablanca",
+        "url": "https://t.co/f8HopvtQZR",
+        "utc_offset": 0,
+        "verified": false
+    }
+}
