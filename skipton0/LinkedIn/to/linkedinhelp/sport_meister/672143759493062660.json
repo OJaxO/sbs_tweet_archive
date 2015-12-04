@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Dec 02 20:02:14 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 252792134,
+                "id_str": "252792134",
+                "indices": [
+                    0,
+                    13
+                ],
+                "name": "LinkedIn Help",
+                "screen_name": "LinkedInHelp"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 672143759493062660,
+    "id_str": "672143759493062660",
+    "in_reply_to_screen_name": "LinkedInHelp",
+    "in_reply_to_status_id": 672142595213164544,
+    "in_reply_to_status_id_str": "672142595213164544",
+    "in_reply_to_user_id": 252792134,
+    "in_reply_to_user_id_str": "252792134",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        145.02245796,
+                        -37.93472802
+                    ],
+                    [
+                        145.05236388,
+                        -37.93472802
+                    ],
+                    [
+                        145.05236388,
+                        -37.91080998
+                    ],
+                    [
+                        145.02245796,
+                        -37.91080998
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "Australia",
+        "country_code": "AU",
+        "full_name": "Bentleigh, Melbourne",
+        "id": "2d770e49885342a2",
+        "name": "Bentleigh",
+        "place_type": "neighborhood",
+        "url": "https://api.twitter.com/1.1/geo/id/2d770e49885342a2.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for i\u039fS</a>",
+    "text": "@LinkedInHelp thank you very much",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Sep 24 10:36:05 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Husband, father, lover of all sports |  @hewittsports | Guru @TheRoarSports |  Follow too many teams to mention them all",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "sportmeister.com.au",
+                        "expanded_url": "http://www.sportmeister.com.au",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/GYjqN0XuqG"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 153,
+        "follow_request_sent": false,
+        "followers_count": 539,
+        "following": false,
+        "friends_count": 434,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 76908648,
+        "id_str": "76908648",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 44,
+        "location": "Melbourne, Australia",
+        "name": "Chris Meister",
+        "notifications": false,
+        "profile_background_color": "382D8A",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/76908648/1432245279",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/636019052771577856/EOcqoH8Q_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/636019052771577856/EOcqoH8Q_normal.jpg",
+        "profile_link_color": "FF0000",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "7AC3EE",
+        "profile_text_color": "3D1957",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "sport_meister",
+        "statuses_count": 14252,
+        "time_zone": "Melbourne",
+        "url": "http://t.co/GYjqN0XuqG",
+        "utc_offset": 39600,
+        "verified": false
+    }
+}

@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Dec 03 17:12:50 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 252792134,
+                "id_str": "252792134",
+                "indices": [
+                    0,
+                    13
+                ],
+                "name": "LinkedIn Help",
+                "screen_name": "LinkedInHelp"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 672463514942869505,
+    "id_str": "672463514942869505",
+    "in_reply_to_screen_name": "LinkedInHelp",
+    "in_reply_to_status_id": 672459049988956161,
+    "in_reply_to_status_id_str": "672459049988956161",
+    "in_reply_to_user_id": 252792134,
+    "in_reply_to_user_id_str": "252792134",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -95.823268,
+                        29.522325
+                    ],
+                    [
+                        -95.069705,
+                        29.522325
+                    ],
+                    [
+                        -95.069705,
+                        30.1546646
+                    ],
+                    [
+                        -95.823268,
+                        30.1546646
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Houston, TX",
+        "id": "1c69a67ad480e1b1",
+        "name": "Houston",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/1c69a67ad480e1b1.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for i\u039fS</a>",
+    "text": "@LinkedInHelp It\u2019s an improvement for sure. The messaging portion is significantly better.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Jun 02 18:20:23 +0000 2008",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "I read anything interesting, try cool apps, manage software projects @HP and blog at timothybuck.me. Tweets are my own.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "timothybuck.me",
+                        "expanded_url": "http://timothybuck.me",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/pnS1LOfbME"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 4276,
+        "follow_request_sent": false,
+        "followers_count": 488,
+        "following": false,
+        "friends_count": 317,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 14983111,
+        "id_str": "14983111",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 19,
+        "location": "Houston, TX",
+        "name": "Timothy Buck",
+        "notifications": false,
+        "profile_background_color": "D6D6D6",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/663259042/8lnyol3zh5i2h41a9jik.png",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/663259042/8lnyol3zh5i2h41a9jik.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/14983111/1409806533",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/469348184766951424/AjGQJAxu_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/469348184766951424/AjGQJAxu_normal.jpeg",
+        "profile_link_color": "ABB8C2",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "F1F2E8",
+        "profile_text_color": "96B949",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "asktimothybuck",
+        "statuses_count": 7588,
+        "time_zone": "Eastern Time (US & Canada)",
+        "url": "https://t.co/pnS1LOfbME",
+        "utc_offset": -18000,
+        "verified": false
+    }
+}

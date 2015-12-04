@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Dec 02 20:50:33 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 252792134,
+                "id_str": "252792134",
+                "indices": [
+                    0,
+                    13
+                ],
+                "name": "LinkedIn Help",
+                "screen_name": "LinkedInHelp"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 672155917190864896,
+    "id_str": "672155917190864896",
+    "in_reply_to_screen_name": "LinkedInHelp",
+    "in_reply_to_status_id": 672128436287221760,
+    "in_reply_to_status_id_str": "672128436287221760",
+    "in_reply_to_user_id": 252792134,
+    "in_reply_to_user_id_str": "252792134",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        34.2677443440349,
+                        29.4975360001918
+                    ],
+                    [
+                        35.8919799999187,
+                        29.4975360001918
+                    ],
+                    [
+                        35.8919799999187,
+                        33.3333579998082
+                    ],
+                    [
+                        34.2677443440349,
+                        33.3333579998082
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "\u05d9\u05e9\u05e8\u05d0\u05dc",
+        "country_code": "IL",
+        "full_name": "Israel",
+        "id": "2edb6e240797c549",
+        "name": "Israel",
+        "place_type": "country",
+        "url": "https://api.twitter.com/1.1/geo/id/2edb6e240797c549.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@LinkedInHelp Thank you... I guess the death of desktop is a ways away, still. I'm OK w that",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Dec 09 20:38:59 +0000 2013",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Investor Community Mgr @ OurCrowd. Startup enthusiast interested in: VC, angel investing, innovation and quality people.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "il.linkedin.com/pub/etan-efrat\u2026",
+                        "expanded_url": "https://il.linkedin.com/pub/etan-efrati/2/996/1a1",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/QEJF7UXeaN"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 19766,
+        "follow_request_sent": false,
+        "followers_count": 1599,
+        "following": false,
+        "friends_count": 1134,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 2238162517,
+        "id_str": "2238162517",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 61,
+        "location": "Israel",
+        "name": "Etan Efrati",
+        "notifications": false,
+        "profile_background_color": "1A1B1F",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2238162517/1426196464",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/576136634258702336/fDOSqeDU_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/576136634258702336/fDOSqeDU_normal.jpeg",
+        "profile_link_color": "2FC2EF",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "252429",
+        "profile_text_color": "666666",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "okaybuilder",
+        "statuses_count": 862,
+        "time_zone": "Baghdad",
+        "url": "https://t.co/QEJF7UXeaN",
+        "utc_offset": 10800,
+        "verified": false
+    }
+}

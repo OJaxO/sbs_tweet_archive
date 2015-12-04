@@ -1,0 +1,147 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Dec 03 15:27:05 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 252792134,
+                "id_str": "252792134",
+                "indices": [
+                    0,
+                    13
+                ],
+                "name": "LinkedIn Help",
+                "screen_name": "LinkedInHelp"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 672436902910406656,
+    "id_str": "672436902910406656",
+    "in_reply_to_screen_name": "LinkedInHelp",
+    "in_reply_to_status_id": 672435833379667968,
+    "in_reply_to_status_id_str": "672435833379667968",
+    "in_reply_to_user_id": 252792134,
+    "in_reply_to_user_id_str": "252792134",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -79.76259,
+                        40.477383
+                    ],
+                    [
+                        -71.777492,
+                        40.477383
+                    ],
+                    [
+                        -71.777492,
+                        45.015851
+                    ],
+                    [
+                        -79.76259,
+                        45.015851
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "New York, USA",
+        "id": "94965b2c45386f87",
+        "name": "New York",
+        "place_type": "admin",
+        "url": "https://api.twitter.com/1.1/geo/id/94965b2c45386f87.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+    "text": "@LinkedInHelp one of my pet peeves when I was still teaching mobile dev",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Apr 11 12:54:49 +0000 2008",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "former prof @ RIT now back in Consultinglandia, mobile tech & VR pioneer, long-time hacker. this is my personal account http://t.co/rjo9YOAA0g",
+        "entities": {
+            "description": {
+                "urls": [
+                    {
+                        "display_url": "rebelmouse.com/jeffsonstein",
+                        "expanded_url": "http://www.rebelmouse.com/jeffsonstein",
+                        "indices": [
+                            120,
+                            142
+                        ],
+                        "url": "http://t.co/rjo9YOAA0g"
+                    }
+                ]
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "igm.rit.edu/~jxs/",
+                        "expanded_url": "http://igm.rit.edu/~jxs/",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/gCzJkfNlgr"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 517,
+        "follow_request_sent": false,
+        "followers_count": 1841,
+        "following": false,
+        "friends_count": 1003,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 14360516,
+        "id_str": "14360516",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 276,
+        "location": "~ 43.128677,-77.614074",
+        "name": "Jeff Sonstein",
+        "notifications": false,
+        "profile_background_color": "F0F0E0",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/2955575/JuneSundown.JPG",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/2955575/JuneSundown.JPG",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/14360516/1437675074",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/269286364/green_0390_sonstein_firstdogonmoon_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/269286364/green_0390_sonstein_firstdogonmoon_normal.jpg",
+        "profile_link_color": "D4D4E6",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "FFFFFF",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "jeffsonstein",
+        "statuses_count": 139015,
+        "time_zone": "Eastern Time (US & Canada)",
+        "url": "http://t.co/gCzJkfNlgr",
+        "utc_offset": -18000,
+        "verified": false
+    }
+}
