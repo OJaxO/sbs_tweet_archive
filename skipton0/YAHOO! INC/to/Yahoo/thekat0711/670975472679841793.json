@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Nov 29 14:39:53 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 19380829,
+                "id_str": "19380829",
+                "indices": [
+                    0,
+                    6
+                ],
+                "name": "Yahoo",
+                "screen_name": "Yahoo"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 670975472679841793,
+    "id_str": "670975472679841793",
+    "in_reply_to_screen_name": "Yahoo",
+    "in_reply_to_status_id": 670973499633213440,
+    "in_reply_to_status_id_str": "670973499633213440",
+    "in_reply_to_user_id": 19380829,
+    "in_reply_to_user_id_str": "19380829",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -73.338573,
+                        41.117308
+                    ],
+                    [
+                        -73.21772,
+                        41.117308
+                    ],
+                    [
+                        -73.21772,
+                        41.231989
+                    ],
+                    [
+                        -73.338573,
+                        41.231989
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Fairfield, CT",
+        "id": "01205ca7701fe20e",
+        "name": "Fairfield",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/01205ca7701fe20e.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for i\u039fS</a>",
+    "text": "@Yahoo I used to sleep in on Sunday\u2019s but quickly learned that I\u2019d spend the day grouchy and sloppy, wouldn\u2019t recover until Wednesday",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Mar 20 01:09:25 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "When a girl has a heart of stone, theres only one way to melt it. Just add ice. #acmilan",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "farmersonly.com",
+                        "expanded_url": "http://www.farmersonly.com",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/m40e6mezIY"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 19817,
+        "follow_request_sent": false,
+        "followers_count": 1348,
+        "following": false,
+        "friends_count": 2064,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 25426048,
+        "id_str": "25426048",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 36,
+        "location": "Fairfield Connecticut USA",
+        "name": "Kat is #allin",
+        "notifications": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/25426048/1427936763",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/669213105600258048/24SsPCRO_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/669213105600258048/24SsPCRO_normal.jpg",
+        "profile_link_color": "009999",
+        "profile_sidebar_border_color": "EEEEEE",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "thekat0711",
+        "statuses_count": 66565,
+        "time_zone": "Eastern Time (US & Canada)",
+        "url": "https://t.co/m40e6mezIY",
+        "utc_offset": -18000,
+        "verified": false
+    }
+}

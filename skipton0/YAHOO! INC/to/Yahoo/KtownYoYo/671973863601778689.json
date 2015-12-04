@@ -1,0 +1,156 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Dec 02 08:47:08 +0000 2015",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    70,
+                    78
+                ],
+                "text": "titanic"
+            }
+        ],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "theweek.com/speedreads/591\u2026",
+                "expanded_url": "http://theweek.com/speedreads/591749/yahoo-considering-selling-core-internet-business?utm_source=dlvr.it&utm_medium=twitter",
+                "indices": [
+                    81,
+                    104
+                ],
+                "url": "https://t.co/R1kMDA9l9r"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 19380829,
+                "id_str": "19380829",
+                "indices": [
+                    0,
+                    6
+                ],
+                "name": "Yahoo",
+                "screen_name": "Yahoo"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 671973863601778689,
+    "id_str": "671973863601778689",
+    "in_reply_to_screen_name": "Yahoo",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 19380829,
+    "in_reply_to_user_id_str": "19380829",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -118.668404,
+                        33.704538
+                    ],
+                    [
+                        -118.155409,
+                        33.704538
+                    ],
+                    [
+                        -118.155409,
+                        34.337041
+                    ],
+                    [
+                        -118.668404,
+                        34.337041
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Los Angeles, CA",
+        "id": "3b77caf94bfc81fe",
+        "name": "Los Angeles",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/3b77caf94bfc81fe.json"
+    },
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@Yahoo  for sale!  Kinda like selling the most expensive seats to the #titanic \n\nhttps://t.co/R1kMDA9l9r",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Mar 02 03:16:54 +0000 2012",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "I love #LA.  Huge and avid bicylist, live in Koreatown.  My favorite places to bike ride is #DTLA and #LARIVER.  Avid movie - goer.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "youtube.com/watch?v=2iKguF\u2026",
+                        "expanded_url": "http://www.youtube.com/watch?v=2iKguFmOW24&feature=plcp",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/lblVgLAV0N"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 634,
+        "follow_request_sent": false,
+        "followers_count": 566,
+        "following": false,
+        "friends_count": 1696,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 511280789,
+        "id_str": "511280789",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 17,
+        "location": "Los Angeles (koreatown)",
+        "name": "YoYo",
+        "notifications": false,
+        "profile_background_color": "0A0907",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/721855193/acac3dae25c3443695e8df9f631745ad.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/721855193/acac3dae25c3443695e8df9f631745ad.jpeg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/511280789/1351151093",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/649370319572963328/TeRl9mIm_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/649370319572963328/TeRl9mIm_normal.jpg",
+        "profile_link_color": "E81C42",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "291C0D",
+        "profile_text_color": "53AB8D",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "KtownYoYo",
+        "statuses_count": 3380,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "http://t.co/lblVgLAV0N",
+        "utc_offset": -28800,
+        "verified": false
+    }
+}

@@ -1,0 +1,134 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 01 23:23:54 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 19380829,
+                "id_str": "19380829",
+                "indices": [
+                    0,
+                    6
+                ],
+                "name": "Yahoo",
+                "screen_name": "Yahoo"
+            },
+            {
+                "id": 37710752,
+                "id_str": "37710752",
+                "indices": [
+                    7,
+                    15
+                ],
+                "name": "Bill Nye",
+                "screen_name": "BillNye"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 671832120126341120,
+    "id_str": "671832120126341120",
+    "in_reply_to_screen_name": "Yahoo",
+    "in_reply_to_status_id": 671831412845191168,
+    "in_reply_to_status_id_str": "671831412845191168",
+    "in_reply_to_user_id": 19380829,
+    "in_reply_to_user_id_str": "19380829",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -96.85743,
+                        32.9971507
+                    ],
+                    [
+                        -96.612371,
+                        32.9971507
+                    ],
+                    [
+                        -96.612371,
+                        33.1253442
+                    ],
+                    [
+                        -96.85743,
+                        33.1253442
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Plano, TX",
+        "id": "488da0de4c92ac8e",
+        "name": "Plano",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/488da0de4c92ac8e.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@Yahoo @BillNye , so what are we going to do about China?",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Jun 24 22:53:27 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "still looking for that goal scoring winger in US Football...to be continued",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 11561,
+        "follow_request_sent": false,
+        "followers_count": 686,
+        "following": false,
+        "friends_count": 651,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 50469637,
+        "id_str": "50469637",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 25,
+        "location": "TX",
+        "name": "Will",
+        "notifications": false,
+        "profile_background_color": "0D0D0D",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/502242443199135744/VDHM5-De.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/502242443199135744/VDHM5-De.jpeg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/50469637/1447723045",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/666424813783642114/-1u6_i4D_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/666424813783642114/-1u6_i4D_normal.jpg",
+        "profile_link_color": "DD2E44",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "TheNetBreaker",
+        "statuses_count": 43104,
+        "time_zone": "America/Chicago",
+        "url": null,
+        "utc_offset": -21600,
+        "verified": false
+    }
+}

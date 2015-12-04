@@ -1,0 +1,124 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Nov 29 11:19:59 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 19380829,
+                "id_str": "19380829",
+                "indices": [
+                    0,
+                    6
+                ],
+                "name": "Yahoo",
+                "screen_name": "Yahoo"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 670925167451750401,
+    "id_str": "670925167451750401",
+    "in_reply_to_screen_name": "Yahoo",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 19380829,
+    "in_reply_to_user_id_str": "19380829",
+    "is_quote_status": false,
+    "lang": "und",
+    "metadata": {
+        "iso_language_code": "und",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        120.8405281,
+                        14.2445356
+                    ],
+                    [
+                        120.9034695,
+                        14.2445356
+                    ],
+                    [
+                        120.9034695,
+                        14.3149512
+                    ],
+                    [
+                        120.8405281,
+                        14.3149512
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "Republika ng Pilipinas",
+        "country_code": "PH",
+        "full_name": "Trece Martires City, Calabarzon",
+        "id": "00882ad376a7c39e",
+        "name": "Trece Martires City",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/00882ad376a7c39e.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+    "text": "@yahoo.com",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Mar 30 05:18:04 +0000 2012",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "No Flex Zone.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 902,
+        "follow_request_sent": false,
+        "followers_count": 228,
+        "following": false,
+        "friends_count": 279,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 540547906,
+        "id_str": "540547906",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 1,
+        "location": "Africa",
+        "name": "Chikii",
+        "notifications": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/557861833189502976/NK5_xSa1.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/557861833189502976/NK5_xSa1.jpeg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/540547906/1438355641",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/657542014100082689/8ZpirJ0h_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/657542014100082689/8ZpirJ0h_normal.jpg",
+        "profile_link_color": "00FFFF",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Montecillyoww",
+        "statuses_count": 1448,
+        "time_zone": "Beijing",
+        "url": null,
+        "utc_offset": 28800,
+        "verified": false
+    }
+}
