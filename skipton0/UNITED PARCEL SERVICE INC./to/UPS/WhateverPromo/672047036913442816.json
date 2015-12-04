@@ -1,0 +1,151 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Dec 02 13:37:54 +0000 2015",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    5,
+                    9
+                ],
+                "text": "ups"
+            },
+            {
+                "indices": [
+                    130,
+                    136
+                ],
+                "text": "Fedex"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 158129535,
+                "id_str": "158129535",
+                "indices": [
+                    0,
+                    4
+                ],
+                "name": "UPS",
+                "screen_name": "UPS"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 672047036913442816,
+    "id_str": "672047036913442816",
+    "in_reply_to_screen_name": "UPS",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 158129535,
+    "in_reply_to_user_id_str": "158129535",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -97.186747,
+                        32.530958
+                    ],
+                    [
+                        -97.046821,
+                        32.530958
+                    ],
+                    [
+                        -97.046821,
+                        32.616182
+                    ],
+                    [
+                        -97.186747,
+                        32.616182
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Mansfield, TX",
+        "id": "012a07a105d10298",
+        "name": "Mansfield",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/012a07a105d10298.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@UPS #ups what is up with your delivery? This is the second time a delivery has been rescheduled. This does not happen to me with #Fedex",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Dec 08 23:35:08 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "We put your Logo to work for you on branded products.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "whateverpromo.com",
+                        "expanded_url": "http://www.whateverpromo.com",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/Sru1R5iMwg"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 22,
+        "follow_request_sent": false,
+        "followers_count": 527,
+        "following": false,
+        "friends_count": 944,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 95527286,
+        "id_str": "95527286",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 9,
+        "location": "Mansfield, TX",
+        "name": "WhateverPromo Sheree",
+        "notifications": false,
+        "profile_background_color": "AD0C0C",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/405658458/Twitter.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/405658458/Twitter.jpg",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1643111741/Shereeheadshot_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1643111741/Shereeheadshot_normal.jpg",
+        "profile_link_color": "DB1515",
+        "profile_sidebar_border_color": "050505",
+        "profile_sidebar_fill_color": "BDB7B7",
+        "profile_text_color": "0A0909",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "WhateverPromo",
+        "statuses_count": 3937,
+        "time_zone": "Central Time (US & Canada)",
+        "url": "http://t.co/Sru1R5iMwg",
+        "utc_offset": -21600,
+        "verified": false
+    }
+}

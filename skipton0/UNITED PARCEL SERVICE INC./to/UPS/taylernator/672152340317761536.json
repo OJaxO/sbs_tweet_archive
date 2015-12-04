@@ -1,0 +1,124 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Dec 02 20:36:20 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 158129535,
+                "id_str": "158129535",
+                "indices": [
+                    0,
+                    4
+                ],
+                "name": "UPS",
+                "screen_name": "UPS"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 672152340317761536,
+    "id_str": "672152340317761536",
+    "in_reply_to_screen_name": "UPS",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 158129535,
+    "in_reply_to_user_id_str": "158129535",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -90.553822,
+                        30.422787
+                    ],
+                    [
+                        -90.404939,
+                        30.422787
+                    ],
+                    [
+                        -90.404939,
+                        30.54132
+                    ],
+                    [
+                        -90.553822,
+                        30.54132
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Hammond, LA",
+        "id": "9c628d39e924afc1",
+        "name": "Hammond",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/9c628d39e924afc1.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@UPS I NEED U TO GET IT TOGETHER I NEED MY PACKAGE",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Jul 20 06:26:50 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "she's a Saturday out on the town & a church girl on Sunday",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 863,
+        "follow_request_sent": false,
+        "followers_count": 684,
+        "following": false,
+        "friends_count": 697,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 58408435,
+        "id_str": "58408435",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 3,
+        "location": "LOUISIANA",
+        "name": "T\u25b2Y L E R",
+        "notifications": false,
+        "profile_background_color": "FF166C",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/675254489/6cbb640f58726edb8136b3668dccabba.png",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/675254489/6cbb640f58726edb8136b3668dccabba.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/58408435/1446937385",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/599074926084120576/DNjE2DKt_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/599074926084120576/DNjE2DKt_normal.jpg",
+        "profile_link_color": "EF1ADD",
+        "profile_sidebar_border_color": "606860",
+        "profile_sidebar_fill_color": "555C55",
+        "profile_text_color": "FFB1CC",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "taylernator",
+        "statuses_count": 34952,
+        "time_zone": "Central Time (US & Canada)",
+        "url": null,
+        "utc_offset": -21600,
+        "verified": false
+    }
+}

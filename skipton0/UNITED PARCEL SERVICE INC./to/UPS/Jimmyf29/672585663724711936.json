@@ -1,0 +1,123 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Dec 04 01:18:12 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 158129535,
+                "id_str": "158129535",
+                "indices": [
+                    0,
+                    4
+                ],
+                "name": "UPS",
+                "screen_name": "UPS"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 672585663724711936,
+    "id_str": "672585663724711936",
+    "in_reply_to_screen_name": "UPS",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 158129535,
+    "in_reply_to_user_id_str": "158129535",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -118.668404,
+                        33.704538
+                    ],
+                    [
+                        -118.155409,
+                        33.704538
+                    ],
+                    [
+                        -118.155409,
+                        34.337041
+                    ],
+                    [
+                        -118.668404,
+                        34.337041
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Los Angeles, CA",
+        "id": "3b77caf94bfc81fe",
+        "name": "Los Angeles",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/3b77caf94bfc81fe.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@UPS your drivers don't know how to tell the difference between street, place, drive etc. My packages always get lost 7th time this year.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Dec 31 08:22:29 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "PHD in Science from an online university attended from monday through wensday last week. class of week 2 rules!!",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 15,
+        "follow_request_sent": false,
+        "followers_count": 74,
+        "following": false,
+        "friends_count": 190,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 232489359,
+        "id_str": "232489359",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 0,
+        "location": "Los Angeles",
+        "name": "Jimmy f",
+        "notifications": false,
+        "profile_background_color": "404157",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/221026737/xa9b19232dfe54ae35628071097e1aed.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/221026737/xa9b19232dfe54ae35628071097e1aed.jpg",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/378800000101977054/2e8e9ce7828837e2595909f668030fb2_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000101977054/2e8e9ce7828837e2595909f668030fb2_normal.jpeg",
+        "profile_link_color": "4E494F",
+        "profile_sidebar_border_color": "E7E9E7",
+        "profile_sidebar_fill_color": "B1ABA5",
+        "profile_text_color": "5C5977",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Jimmyf29",
+        "statuses_count": 6068,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": null,
+        "utc_offset": -28800,
+        "verified": false
+    }
+}

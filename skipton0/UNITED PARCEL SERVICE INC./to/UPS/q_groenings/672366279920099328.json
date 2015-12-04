@@ -1,0 +1,123 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Dec 03 10:46:27 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 158129535,
+                "id_str": "158129535",
+                "indices": [
+                    0,
+                    4
+                ],
+                "name": "UPS",
+                "screen_name": "UPS"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 672366279920099328,
+    "id_str": "672366279920099328",
+    "in_reply_to_screen_name": "UPS",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 158129535,
+    "in_reply_to_user_id_str": "158129535",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        4.9702867,
+                        52.0262429
+                    ],
+                    [
+                        5.1952468,
+                        52.0262429
+                    ],
+                    [
+                        5.1952468,
+                        52.142137
+                    ],
+                    [
+                        4.9702867,
+                        52.142137
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "Nederland",
+        "country_code": "NL",
+        "full_name": "Utrecht, The Netherlands",
+        "id": "871685aa82f8a489",
+        "name": "Utrecht",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/871685aa82f8a489.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@ups you're package delivery drivers are seriously all mentally retarded.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Mar 10 09:39:55 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Coffee, Poker, Black jack",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 19,
+        "follow_request_sent": false,
+        "followers_count": 248,
+        "following": false,
+        "friends_count": 233,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 23574533,
+        "id_str": "23574533",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 7,
+        "location": "Utrecht, The Netherlands",
+        "name": "Quinten Groenings",
+        "notifications": false,
+        "profile_background_color": "DBE9ED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/528081807531442176/uqOKfQIV_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/528081807531442176/uqOKfQIV_normal.jpeg",
+        "profile_link_color": "000000",
+        "profile_sidebar_border_color": "DBE9ED",
+        "profile_sidebar_fill_color": "E6F6F9",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "q_groenings",
+        "statuses_count": 99,
+        "time_zone": "Amsterdam",
+        "url": null,
+        "utc_offset": 3600,
+        "verified": false
+    }
+}

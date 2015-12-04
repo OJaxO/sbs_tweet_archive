@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Dec 02 21:26:58 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 158129535,
+                "id_str": "158129535",
+                "indices": [
+                    0,
+                    4
+                ],
+                "name": "UPS",
+                "screen_name": "UPS"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 672165080939786250,
+    "id_str": "672165080939786250",
+    "in_reply_to_screen_name": "UPS",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 158129535,
+    "in_reply_to_user_id_str": "158129535",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -2.5437584,
+                        36.7374325
+                    ],
+                    [
+                        -2.2036381,
+                        36.7374325
+                    ],
+                    [
+                        -2.2036381,
+                        36.9999862
+                    ],
+                    [
+                        -2.5437584,
+                        36.9999862
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "Espa\u00f1a",
+        "country_code": "ES",
+        "full_name": "Almer\u00eda, Andaluc\u00eda",
+        "id": "e342de30841352bf",
+        "name": "Almer\u00eda",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/e342de30841352bf.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@UPS ups spain twitter?",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu May 27 23:17:44 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "So\u00f1ador/Cinefilo/Fotografo/Sincero/Libre Pensador/Con Certificado/Antiguo Mono/Antitodo/Antinada/Dormilon/Madrugador/Cul\u00e9/Catal\u00e1n/Futuro Padre/Futuro Marido\uf8ff",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "DanyPlaylist.tumblr.com",
+                        "expanded_url": "http://Www.DanyPlaylist.tumblr.com",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/k3AM5G6hjS"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 23,
+        "follow_request_sent": false,
+        "followers_count": 1473,
+        "following": false,
+        "friends_count": 1405,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 148914784,
+        "id_str": "148914784",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "es",
+        "listed_count": 25,
+        "location": "\u00dct-41.4090697-2.1818809",
+        "name": "iDem Gim\u00e9nez",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/148914784/1449051196",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/672599462502670337/S4EtaOpn_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/672599462502670337/S4EtaOpn_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "DanyPlaylist",
+        "statuses_count": 54609,
+        "time_zone": "Madrid",
+        "url": "https://t.co/k3AM5G6hjS",
+        "utc_offset": 3600,
+        "verified": false
+    }
+}

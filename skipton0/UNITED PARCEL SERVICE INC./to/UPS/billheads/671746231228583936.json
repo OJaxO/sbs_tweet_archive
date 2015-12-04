@@ -1,0 +1,162 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 01 17:42:36 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "media": [
+            {
+                "display_url": "pic.twitter.com/QZfrNEUT60",
+                "expanded_url": "http://twitter.com/billheads/status/671746231228583936/photo/1",
+                "id": 671746223972323330,
+                "id_str": "671746223972323330",
+                "indices": [
+                    117,
+                    140
+                ],
+                "media_url": "http://pbs.twimg.com/media/CVKFobMUkAIYaJG.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/CVKFobMUkAIYaJG.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 1024,
+                        "resize": "fit",
+                        "w": 768
+                    },
+                    "medium": {
+                        "h": 800,
+                        "resize": "fit",
+                        "w": 600
+                    },
+                    "small": {
+                        "h": 453,
+                        "resize": "fit",
+                        "w": 340
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/QZfrNEUT60"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 158129535,
+                "id_str": "158129535",
+                "indices": [
+                    0,
+                    4
+                ],
+                "name": "UPS",
+                "screen_name": "UPS"
+            }
+        ]
+    },
+    "favorite_count": 2,
+    "favorited": false,
+    "geo": null,
+    "id": 671746231228583936,
+    "id_str": "671746231228583936",
+    "in_reply_to_screen_name": "UPS",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 158129535,
+    "in_reply_to_user_id_str": "158129535",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -75.280284,
+                        39.871811
+                    ],
+                    [
+                        -74.955712,
+                        39.871811
+                    ],
+                    [
+                        -74.955712,
+                        40.13792
+                    ],
+                    [
+                        -75.280284,
+                        40.13792
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Philadelphia, PA",
+        "id": "e4a0d228eb6be76b",
+        "name": "Philadelphia",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/e4a0d228eb6be76b.json"
+    },
+    "possibly_sensitive": false,
+    "retweet_count": 1,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@UPS can i ask how the fuck im supossed to work in this. put this on one of your fucking commercials. happy holidays https://t.co/QZfrNEUT60",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Jul 12 18:29:56 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Getting drunk since 2006. 5x creep of the year award ('05,'07*,'08,'11,'12)",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 602,
+        "follow_request_sent": false,
+        "followers_count": 440,
+        "following": false,
+        "friends_count": 412,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 56155709,
+        "id_str": "56155709",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 1,
+        "location": "",
+        "name": "wild bill",
+        "notifications": false,
+        "profile_background_color": "9AE4E8",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/565243867/a__7_.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/565243867/a__7_.jpg",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/640768000992378880/SL_mlek__normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/640768000992378880/SL_mlek__normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "billheads",
+        "statuses_count": 8308,
+        "time_zone": "Eastern Time (US & Canada)",
+        "url": null,
+        "utc_offset": -18000,
+        "verified": false
+    }
+}

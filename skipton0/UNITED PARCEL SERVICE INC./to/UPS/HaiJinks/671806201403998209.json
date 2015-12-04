@@ -1,0 +1,123 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 01 21:40:54 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 158129535,
+                "id_str": "158129535",
+                "indices": [
+                    0,
+                    4
+                ],
+                "name": "UPS",
+                "screen_name": "UPS"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 671806201403998209,
+    "id_str": "671806201403998209",
+    "in_reply_to_screen_name": "UPS",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 158129535,
+    "in_reply_to_user_id_str": "158129535",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -74.044085,
+                        40.7336
+                    ],
+                    [
+                        -74.020431,
+                        40.7336
+                    ],
+                    [
+                        -74.020431,
+                        40.7591594
+                    ],
+                    [
+                        -74.044085,
+                        40.7591594
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Hoboken, NJ",
+        "id": "e9143a85705b4d40",
+        "name": "Hoboken",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/e9143a85705b4d40.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@UPS driver in Hoboken using profanities at 7th and Wash moments ago. Makes me reconsider my choice of carrier.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Jul 19 05:23:21 +0000 2011",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Follow the HaiJinks... Technologist, Media Maker, Photographer, wannabe Philosopher and Critic with quite the opinion but does as well as criticize.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 13,
+        "follow_request_sent": false,
+        "followers_count": 39,
+        "following": false,
+        "friends_count": 74,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 338171648,
+        "id_str": "338171648",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 5,
+        "location": "",
+        "name": "Hai Ng",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1450116758/_DSC1479_-_Version_2_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1450116758/_DSC1479_-_Version_2_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "HaiJinks",
+        "statuses_count": 852,
+        "time_zone": "Quito",
+        "url": null,
+        "utc_offset": -18000,
+        "verified": false
+    }
+}

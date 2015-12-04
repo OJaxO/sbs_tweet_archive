@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Dec 04 01:30:11 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 158129535,
+                "id_str": "158129535",
+                "indices": [
+                    0,
+                    4
+                ],
+                "name": "UPS",
+                "screen_name": "UPS"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 672588679513272320,
+    "id_str": "672588679513272320",
+    "in_reply_to_screen_name": "UPS",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 158129535,
+    "in_reply_to_user_id_str": "158129535",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -73.933612,
+                        40.785365
+                    ],
+                    [
+                        -73.765271,
+                        40.785365
+                    ],
+                    [
+                        -73.765271,
+                        40.91533
+                    ],
+                    [
+                        -73.933612,
+                        40.91533
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Bronx, NY",
+        "id": "002e24c6736f069d",
+        "name": "Bronx",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/002e24c6736f069d.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@UPS so in essence you scumbags have lied to me?",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Feb 19 00:14:27 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "CEO CAPITAL CITY PRINT Mug Design & Print Specialist, we also do a great range of I-Phone cases . Crystal Palace Supporter through Thick & Thin.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "facebook.com/Capital-City-P\u2026",
+                        "expanded_url": "https://www.facebook.com/Capital-City-Print-152450151512930/?ref=aymt_homepage_panel",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/gPwroyGftc"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 336,
+        "follow_request_sent": false,
+        "followers_count": 181,
+        "following": false,
+        "friends_count": 131,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 254278645,
+        "id_str": "254278645",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 16,
+        "location": "New York, New York",
+        "name": "Iain McDade",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/592706445/Champions_League.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/592706445/Champions_League.jpg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/254278645/1444348067",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1627014017/001_normal.JPG",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1627014017/001_normal.JPG",
+        "profile_link_color": "3B94D9",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "BritintheBronx",
+        "statuses_count": 5341,
+        "time_zone": "Atlantic Time (Canada)",
+        "url": "https://t.co/gPwroyGftc",
+        "utc_offset": -14400,
+        "verified": false
+    }
+}

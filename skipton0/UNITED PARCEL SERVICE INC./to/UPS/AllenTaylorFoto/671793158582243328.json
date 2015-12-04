@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 01 20:49:04 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 158129535,
+                "id_str": "158129535",
+                "indices": [
+                    0,
+                    4
+                ],
+                "name": "UPS",
+                "screen_name": "UPS"
+            }
+        ]
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": null,
+    "id": 671793158582243328,
+    "id_str": "671793158582243328",
+    "in_reply_to_screen_name": "UPS",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 158129535,
+    "in_reply_to_user_id_str": "158129535",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -118.017789,
+                        33.788913
+                    ],
+                    [
+                        -117.684389,
+                        33.788913
+                    ],
+                    [
+                        -117.684389,
+                        33.896813
+                    ],
+                    [
+                        -118.017789,
+                        33.896813
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Anaheim, CA",
+        "id": "0c2e6999105f8070",
+        "name": "Anaheim",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/0c2e6999105f8070.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@UPS 1Z1Y70510275844593 package delayed on your part, no weather involved. I need this item for a job tomorrow at 8am. Need help now!",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Sep 30 23:35:07 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Photographer Extraordinaire with years of experience. My house is on Instagram.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "allentaylorstudios.com",
+                        "expanded_url": "http://www.allentaylorstudios.com/",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/4OdO5aHHs4"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 336,
+        "follow_request_sent": false,
+        "followers_count": 748,
+        "following": false,
+        "friends_count": 528,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 197227293,
+        "id_str": "197227293",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 43,
+        "location": "Anaheim, CA",
+        "name": "Allen Taylor",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000179584009/OGOoY7fX.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000179584009/OGOoY7fX.jpeg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/197227293/1438809499",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/3167023189/d2565db5cc85311614c85bae41be367c_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/3167023189/d2565db5cc85311614c85bae41be367c_normal.jpeg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "AllenTaylorFoto",
+        "statuses_count": 2869,
+        "time_zone": "Arizona",
+        "url": "http://t.co/4OdO5aHHs4",
+        "utc_offset": -25200,
+        "verified": false
+    }
+}

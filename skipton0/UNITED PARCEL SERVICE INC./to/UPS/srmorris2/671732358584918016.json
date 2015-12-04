@@ -1,0 +1,124 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 01 16:47:29 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 158129535,
+                "id_str": "158129535",
+                "indices": [
+                    0,
+                    4
+                ],
+                "name": "UPS",
+                "screen_name": "UPS"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 671732358584918016,
+    "id_str": "671732358584918016",
+    "in_reply_to_screen_name": "UPS",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 158129535,
+    "in_reply_to_user_id_str": "158129535",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -96.0142235,
+                        41.0891392
+                    ],
+                    [
+                        -95.867612,
+                        41.0891392
+                    ],
+                    [
+                        -95.867612,
+                        41.1910764
+                    ],
+                    [
+                        -96.0142235,
+                        41.1910764
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Bellevue, NE",
+        "id": "00b6bac82856d70b",
+        "name": "Bellevue",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/00b6bac82856d70b.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for i\u039fS</a>",
+    "text": "@UPS have a package scheduled to deliver Fri in 68123 but office will be closed. Can I move to an address in 68127 instead?",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Mar 22 03:59:15 +0000 2008",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Christ Follower | Married to @MikayAnne | Technical Director @Calvary_C_C | Drummer | Apple Fanboy | Guru of Go | Professional Googler",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 185,
+        "follow_request_sent": false,
+        "followers_count": 1178,
+        "following": false,
+        "friends_count": 961,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 14195482,
+        "id_str": "14195482",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 51,
+        "location": "Omaha, NE",
+        "name": "Steven Morris",
+        "notifications": false,
+        "profile_background_color": "022330",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/161503888/TwitterBackground2.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/161503888/TwitterBackground2.jpg",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/14195482/1398202389",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/378800000544218627/b8f92a285a03674d972e3771d9431695_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000544218627/b8f92a285a03674d972e3771d9431695_normal.jpeg",
+        "profile_link_color": "005FB3",
+        "profile_sidebar_border_color": "A8C7F7",
+        "profile_sidebar_fill_color": "C0DFEC",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "srmorris2",
+        "statuses_count": 19127,
+        "time_zone": "Central Time (US & Canada)",
+        "url": null,
+        "utc_offset": -21600,
+        "verified": false
+    }
+}
