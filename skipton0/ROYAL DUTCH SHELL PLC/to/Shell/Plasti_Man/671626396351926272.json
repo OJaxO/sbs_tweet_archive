@@ -1,0 +1,158 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 01 09:46:25 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "plasticsnews.com/article/201511\u2026",
+                "expanded_url": "http://www.plasticsnews.com/article/20151130/NEWS/151139984/shell-chemical-plans-717-million-feedstock-plant",
+                "indices": [
+                    51,
+                    74
+                ],
+                "url": "https://t.co/FaTnhboZCL"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 20663500,
+                "id_str": "20663500",
+                "indices": [
+                    0,
+                    6
+                ],
+                "name": "Shell",
+                "screen_name": "Shell"
+            },
+            {
+                "id": 61334841,
+                "id_str": "61334841",
+                "indices": [
+                    75,
+                    89
+                ],
+                "name": "SPE",
+                "screen_name": "4SPE_Plastics"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 671626396351926272,
+    "id_str": "671626396351926272",
+    "in_reply_to_screen_name": "Shell",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 20663500,
+    "in_reply_to_user_id_str": "20663500",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -80.389019,
+                        35.933734
+                    ],
+                    [
+                        -80.100949,
+                        35.933734
+                    ],
+                    [
+                        -80.100949,
+                        36.240211
+                    ],
+                    [
+                        -80.389019,
+                        36.240211
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Winston-Salem, NC",
+        "id": "24a53a1880093fa9",
+        "name": "Winston-Salem",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/24a53a1880093fa9.json"
+    },
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@Shell Chemical plans $717 million feedstock plant https://t.co/FaTnhboZCL @4SPE_Plastics",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Nov 15 23:26:35 +0000 2014",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Managing Director, SPE - Promoting the scientific and engineering knowledge relating to plastics manufacturing. Proud Father.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "4spe.org",
+                        "expanded_url": "http://www.4spe.org",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/Oj29fHGUSW"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 547,
+        "follow_request_sent": false,
+        "followers_count": 265,
+        "following": false,
+        "friends_count": 83,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 2878738917,
+        "id_str": "2878738917",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 12,
+        "location": "USA",
+        "name": "Russ Broome",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2878738917/1448146483",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/544686820265840640/MV79dZGS_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/544686820265840640/MV79dZGS_normal.jpeg",
+        "profile_link_color": "4A913C",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "Plasti_Man",
+        "statuses_count": 725,
+        "time_zone": "Eastern Time (US & Canada)",
+        "url": "http://t.co/Oj29fHGUSW",
+        "utc_offset": -18000,
+        "verified": false
+    }
+}

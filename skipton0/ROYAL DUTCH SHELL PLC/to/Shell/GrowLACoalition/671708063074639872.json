@@ -1,0 +1,163 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 01 15:10:56 +0000 2015",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    30,
+                    40
+                ],
+                "text": "Louisiana"
+            },
+            {
+                "indices": [
+                    95,
+                    109
+                ],
+                "text": "GrowLouisiana"
+            }
+        ],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "bit.ly/1LIGkVi",
+                "expanded_url": "http://bit.ly/1LIGkVi",
+                "indices": [
+                    110,
+                    133
+                ],
+                "url": "https://t.co/ikHi4iXQu7"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 20663500,
+                "id_str": "20663500",
+                "indices": [
+                    0,
+                    6
+                ],
+                "name": "Shell",
+                "screen_name": "Shell"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 671708063074639872,
+    "id_str": "671708063074639872",
+    "in_reply_to_screen_name": "Shell",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 20663500,
+    "in_reply_to_user_id_str": "20663500",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -90.137908,
+                        29.889574
+                    ],
+                    [
+                        -89.884108,
+                        29.889574
+                    ],
+                    [
+                        -89.884108,
+                        30.075628
+                    ],
+                    [
+                        -90.137908,
+                        30.075628
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "New Orleans, LA",
+        "id": "dd3b100831dd1763",
+        "name": "New Orleans",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/dd3b100831dd1763.json"
+    },
+    "possibly_sensitive": false,
+    "retweet_count": 1,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@Shell continues to invest in #Louisiana by adding $717 million expansion in Ascension Parish. #GrowLouisiana https://t.co/ikHi4iXQu7",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Jan 14 23:41:12 +0000 2014",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Supporting Louisiana\u2019s oil and gas industry means supporting Louisiana jobs. Join Grow Louisiana Coalition today to say YES to Louisiana jobs. #GrowLouisiana",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "growlouisianacoalition.com",
+                        "expanded_url": "http://www.growlouisianacoalition.com/",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/qzFLF4DO9Y"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 32,
+        "follow_request_sent": false,
+        "followers_count": 1041,
+        "following": false,
+        "friends_count": 2543,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 2291846306,
+        "id_str": "2291846306",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 15,
+        "location": "",
+        "name": "GrowLACoalition",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2291846306/1389743370",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/639554726917332992/whvOkFSK_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/639554726917332992/whvOkFSK_normal.jpg",
+        "profile_link_color": "4A913C",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "GrowLACoalition",
+        "statuses_count": 503,
+        "time_zone": null,
+        "url": "http://t.co/qzFLF4DO9Y",
+        "utc_offset": null,
+        "verified": false
+    }
+}

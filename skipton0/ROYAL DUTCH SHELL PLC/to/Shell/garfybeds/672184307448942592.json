@@ -1,0 +1,136 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Dec 02 22:43:22 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 20663500,
+                "id_str": "20663500",
+                "indices": [
+                    0,
+                    6
+                ],
+                "name": "Shell",
+                "screen_name": "Shell"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 672184307448942592,
+    "id_str": "672184307448942592",
+    "in_reply_to_screen_name": "Shell",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 20663500,
+    "in_reply_to_user_id_str": "20663500",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -0.549769,
+                        51.870646
+                    ],
+                    [
+                        -0.4853298,
+                        51.870646
+                    ],
+                    [
+                        -0.4853298,
+                        51.91744
+                    ],
+                    [
+                        -0.549769,
+                        51.91744
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United Kingdom",
+        "country_code": "GB",
+        "full_name": "Dunstable, England",
+        "id": "18254280149d518a",
+        "name": "Dunstable",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/18254280149d518a.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@Shell Great offers. Shame I couldn't use the app tonight. Tempt us in then don't let us use the app. False promises. Disillusioned",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Jun 28 22:13:29 +0000 2009",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "wwe.garfy.co.uk",
+                        "expanded_url": "http://wwe.garfy.co.uk",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/F3Ps1U5fr4"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 15,
+        "follow_request_sent": false,
+        "followers_count": 19,
+        "following": false,
+        "friends_count": 36,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 51861775,
+        "id_str": "51861775",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 0,
+        "location": "51.900957,-0.488286",
+        "name": "Michael Costabile",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1241553630/venture_1_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1241553630/venture_1_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "garfybeds",
+        "statuses_count": 103,
+        "time_zone": null,
+        "url": "https://t.co/F3Ps1U5fr4",
+        "utc_offset": null,
+        "verified": false
+    }
+}

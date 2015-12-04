@@ -1,0 +1,124 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Nov 28 07:10:18 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 20663500,
+                "id_str": "20663500",
+                "indices": [
+                    0,
+                    6
+                ],
+                "name": "Shell",
+                "screen_name": "Shell"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 670499943472357376,
+    "id_str": "670499943472357376",
+    "in_reply_to_screen_name": "Shell",
+    "in_reply_to_status_id": 667322716245110784,
+    "in_reply_to_status_id_str": "667322716245110784",
+    "in_reply_to_user_id": 20663500,
+    "in_reply_to_user_id_str": "20663500",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        4.9092946,
+                        52.1149386
+                    ],
+                    [
+                        5.1204217,
+                        52.1149386
+                    ],
+                    [
+                        5.1204217,
+                        52.2892586
+                    ],
+                    [
+                        4.9092946,
+                        52.2892586
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "Nederland",
+        "country_code": "NL",
+        "full_name": "Stichtse Vecht, Utrecht",
+        "id": "a917063aa167ace9",
+        "name": "Stichtse Vecht",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/a917063aa167ace9.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@Shell excellent initiative, keep on going!!",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Sep 30 08:27:42 +0000 2013",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Volg Bob met zijn vriendjes en vriendinnetjes",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 7034,
+        "follow_request_sent": false,
+        "followers_count": 630,
+        "following": false,
+        "friends_count": 977,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 1919311956,
+        "id_str": "1919311956",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "nl",
+        "listed_count": 13,
+        "location": "Maarssen",
+        "name": "Bob",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1919311956/1380530212",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/378800000528344684/5eb6f3b5ccf99231617fa23a29b18a0b_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000528344684/5eb6f3b5ccf99231617fa23a29b18a0b_normal.jpeg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Vlooienbaalcom",
+        "statuses_count": 12029,
+        "time_zone": null,
+        "url": null,
+        "utc_offset": null,
+        "verified": false
+    }
+}

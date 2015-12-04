@@ -1,0 +1,166 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Dec 03 12:51:23 +0000 2015",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    25,
+                    29
+                ],
+                "text": "HNW"
+            }
+        ],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "wealthmanagement.com/blog/credit-su\u2026",
+                "expanded_url": "http://wealthmanagement.com/blog/credit-suisse-create-hnw-social-network",
+                "indices": [
+                    47,
+                    70
+                ],
+                "url": "https://t.co/65r7oGtk1l"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 84281104,
+                "id_str": "84281104",
+                "indices": [
+                    0,
+                    13
+                ],
+                "name": "Credit Suisse",
+                "screen_name": "CreditSuisse"
+            },
+            {
+                "id": 90502419,
+                "id_str": "90502419",
+                "indices": [
+                    75,
+                    87
+                ],
+                "name": "WealthManagement.com",
+                "screen_name": "wealth_mgmt"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 672397719667875840,
+    "id_str": "672397719667875840",
+    "in_reply_to_screen_name": "CreditSuisse",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 84281104,
+    "in_reply_to_user_id_str": "84281104",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -74.026675,
+                        40.683935
+                    ],
+                    [
+                        -73.910408,
+                        40.683935
+                    ],
+                    [
+                        -73.910408,
+                        40.877483
+                    ],
+                    [
+                        -74.026675,
+                        40.877483
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Manhattan, NY",
+        "id": "01a9a39529b27f36",
+        "name": "Manhattan",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/01a9a39529b27f36.json"
+    },
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@CreditSuisse  to Create #HNW  Social Network? https://t.co/65r7oGtk1l via @wealth_mgmt",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Aug 08 20:36:23 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Wealth Marketing Consultant U/HNW content marketing. Biz Dev Workshops, FinSvc PR/social+digital strategies. HuffPost blogger Interests: NextGen, Asia, FinTech",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "about.me/arudin",
+                        "expanded_url": "http://about.me/arudin",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/puJFHKezSp"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 9938,
+        "follow_request_sent": false,
+        "followers_count": 8498,
+        "following": false,
+        "friends_count": 9351,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 176184142,
+        "id_str": "176184142",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 970,
+        "location": "New York City",
+        "name": "April Rudin",
+        "notifications": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/176184142/1398193588",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/458682750308851712/4OmRlMM-_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/458682750308851712/4OmRlMM-_normal.jpeg",
+        "profile_link_color": "009999",
+        "profile_sidebar_border_color": "EEEEEE",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "TheRudinGroup",
+        "statuses_count": 41805,
+        "time_zone": "Eastern Time (US & Canada)",
+        "url": "http://t.co/puJFHKezSp",
+        "utc_offset": -18000,
+        "verified": false
+    }
+}

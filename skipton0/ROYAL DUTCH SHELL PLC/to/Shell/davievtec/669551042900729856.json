@@ -1,0 +1,163 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Nov 25 16:19:42 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "media": [
+            {
+                "display_url": "pic.twitter.com/jp4nvVnt9f",
+                "expanded_url": "http://twitter.com/davievtec/status/669551042900729856/photo/1",
+                "id": 669551021174190081,
+                "id_str": "669551021174190081",
+                "indices": [
+                    97,
+                    120
+                ],
+                "media_url": "http://pbs.twimg.com/media/CUq5GzgWcAEFC-8.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/CUq5GzgWcAEFC-8.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 960,
+                        "resize": "fit",
+                        "w": 720
+                    },
+                    "medium": {
+                        "h": 800,
+                        "resize": "fit",
+                        "w": 600
+                    },
+                    "small": {
+                        "h": 453,
+                        "resize": "fit",
+                        "w": 340
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/jp4nvVnt9f"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 20663500,
+                "id_str": "20663500",
+                "indices": [
+                    0,
+                    6
+                ],
+                "name": "Shell",
+                "screen_name": "Shell"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 669551042900729856,
+    "id_str": "669551042900729856",
+    "in_reply_to_screen_name": "Shell",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 20663500,
+    "in_reply_to_user_id_str": "20663500",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -4.4803689,
+                        55.897456
+                    ],
+                    [
+                        -4.451579,
+                        55.897456
+                    ],
+                    [
+                        -4.451579,
+                        55.913749
+                    ],
+                    [
+                        -4.4803689,
+                        55.913749
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United Kingdom",
+        "country_code": "GB",
+        "full_name": "Erskine, Scotland",
+        "id": "3e3302ce8b0fdede",
+        "name": "Erskine",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/3e3302ce8b0fdede.json"
+    },
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@Shell how do I pay at pump by mobile if you have signs saying turn mobiles off ? Makes no sence https://t.co/jp4nvVnt9f",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Jun 05 12:20:58 +0000 2010",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "As I walk through the shadow of the valley of death I fear no EVO",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 62,
+        "follow_request_sent": false,
+        "followers_count": 140,
+        "following": false,
+        "friends_count": 345,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 152230065,
+        "id_str": "152230065",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 2,
+        "location": "Erskine, renfrewshire",
+        "name": "Davie ",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/152230065/1357363600",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/547686308198776833/1snT6m7K_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/547686308198776833/1snT6m7K_normal.jpeg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "davievtec",
+        "statuses_count": 904,
+        "time_zone": null,
+        "url": null,
+        "utc_offset": null,
+        "verified": false
+    }
+}

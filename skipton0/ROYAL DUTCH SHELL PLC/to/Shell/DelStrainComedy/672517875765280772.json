@@ -1,0 +1,156 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Dec 03 20:48:51 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 20663500,
+                "id_str": "20663500",
+                "indices": [
+                    0,
+                    6
+                ],
+                "name": "Shell",
+                "screen_name": "Shell"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 672517875765280772,
+    "id_str": "672517875765280772",
+    "in_reply_to_screen_name": "Shell",
+    "in_reply_to_status_id": 672381025138384896,
+    "in_reply_to_status_id_str": "672381025138384896",
+    "in_reply_to_user_id": 20663500,
+    "in_reply_to_user_id_str": "20663500",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -0.187894,
+                        51.483718
+                    ],
+                    [
+                        -0.109978,
+                        51.483718
+                    ],
+                    [
+                        -0.109978,
+                        51.5164655
+                    ],
+                    [
+                        -0.187894,
+                        51.5164655
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United Kingdom",
+        "country_code": "GB",
+        "full_name": "London, England",
+        "id": "457b4814b4240d87",
+        "name": "London",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/457b4814b4240d87.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@Shell Way they are making Londons roads undriveable it soon will be like New York, trying to bully us out cars/ Mayors bonkers.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri May 01 00:38:15 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Stand Up Comedian and Writer.Broadcaster and Social Commentator.(A) Maverick, Renaissance man. http://t.co/sP9qnMArfQ  *****-GTAV http://t.co/2n7faTsCM0",
+        "entities": {
+            "description": {
+                "urls": [
+                    {
+                        "display_url": "youtu.be/vl4Ftdg7rPg",
+                        "expanded_url": "http://youtu.be/vl4Ftdg7rPg",
+                        "indices": [
+                            95,
+                            117
+                        ],
+                        "url": "http://t.co/sP9qnMArfQ"
+                    },
+                    {
+                        "display_url": "comedycv.co.uk/delstrain",
+                        "expanded_url": "http://comedycv.co.uk/delstrain",
+                        "indices": [
+                            130,
+                            152
+                        ],
+                        "url": "http://t.co/2n7faTsCM0"
+                    }
+                ]
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "comedycv.co.uk/delstrain",
+                        "expanded_url": "http://comedycv.co.uk/delstrain",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/s6jSjhaw4q"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 433,
+        "follow_request_sent": false,
+        "followers_count": 1971,
+        "following": false,
+        "friends_count": 706,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 36829569,
+        "id_str": "36829569",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 77,
+        "location": "South East London-Millwall.",
+        "name": "Del Strain Comedian",
+        "notifications": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/610505203234807808/bcJBJINe.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/610505203234807808/bcJBJINe.jpg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/36829569/1398630522",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/458888081844609025/ZNcCeq_u_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/458888081844609025/ZNcCeq_u_normal.jpeg",
+        "profile_link_color": "3B94D9",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "DelStrainComedy",
+        "statuses_count": 48352,
+        "time_zone": "Casablanca",
+        "url": "http://t.co/s6jSjhaw4q",
+        "utc_offset": 0,
+        "verified": false
+    }
+}
