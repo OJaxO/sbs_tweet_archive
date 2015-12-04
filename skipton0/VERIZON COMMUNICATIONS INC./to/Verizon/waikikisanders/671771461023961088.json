@@ -1,0 +1,135 @@
+{
+    "contributors": null,
+    "coordinates": {
+        "coordinates": [
+            -121.87444514,
+            37.33863883
+        ],
+        "type": "Point"
+    },
+    "created_at": "Tue Dec 01 19:22:51 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 59889953,
+                "id_str": "59889953",
+                "indices": [
+                    0,
+                    8
+                ],
+                "name": "Verizon",
+                "screen_name": "verizon"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": {
+        "coordinates": [
+            37.33863883,
+            -121.87444514
+        ],
+        "type": "Point"
+    },
+    "id": 671771461023961088,
+    "id_str": "671771461023961088",
+    "in_reply_to_screen_name": "verizon",
+    "in_reply_to_status_id": 671343693241040897,
+    "in_reply_to_status_id_str": "671343693241040897",
+    "in_reply_to_user_id": 59889953,
+    "in_reply_to_user_id_str": "59889953",
+    "is_quote_status": false,
+    "lang": "und",
+    "metadata": {
+        "iso_language_code": "und",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -122.035311,
+                        37.193164
+                    ],
+                    [
+                        -121.71215,
+                        37.193164
+                    ],
+                    [
+                        -121.71215,
+                        37.469154
+                    ],
+                    [
+                        -122.035311,
+                        37.469154
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "San Jose, CA",
+        "id": "7d62cffe6f98f349",
+        "name": "San Jose",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/7d62cffe6f98f349.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@verizon",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Feb 08 20:54:58 +0000 2014",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 28,
+        "follow_request_sent": false,
+        "followers_count": 188,
+        "following": false,
+        "friends_count": 177,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 2334062766,
+        "id_str": "2334062766",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 1,
+        "location": "",
+        "name": "Kevin Sanders",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/448896192059961344/_PImkTZb_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/448896192059961344/_PImkTZb_normal.jpeg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "waikikisanders",
+        "statuses_count": 559,
+        "time_zone": null,
+        "url": null,
+        "utc_offset": null,
+        "verified": false
+    }
+}

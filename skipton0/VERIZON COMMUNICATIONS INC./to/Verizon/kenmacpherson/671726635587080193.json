@@ -1,0 +1,175 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 01 16:24:44 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "media": [
+            {
+                "display_url": "pic.twitter.com/rviZke1zxX",
+                "expanded_url": "http://twitter.com/kenmacpherson/status/671726635587080193/photo/1",
+                "id": 671726634924249088,
+                "id_str": "671726634924249088",
+                "indices": [
+                    39,
+                    62
+                ],
+                "media_url": "http://pbs.twimg.com/media/CVJz0MTUEAArKfN.png",
+                "media_url_https": "https://pbs.twimg.com/media/CVJz0MTUEAArKfN.png",
+                "sizes": {
+                    "large": {
+                        "h": 214,
+                        "resize": "fit",
+                        "w": 621
+                    },
+                    "medium": {
+                        "h": 206,
+                        "resize": "fit",
+                        "w": 600
+                    },
+                    "small": {
+                        "h": 117,
+                        "resize": "fit",
+                        "w": 340
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/rviZke1zxX"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 59889953,
+                "id_str": "59889953",
+                "indices": [
+                    0,
+                    8
+                ],
+                "name": "Verizon",
+                "screen_name": "verizon"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 671726635587080193,
+    "id_str": "671726635587080193",
+    "in_reply_to_screen_name": "verizon",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 59889953,
+    "in_reply_to_user_id_str": "59889953",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -80.894004,
+                        41.198089
+                    ],
+                    [
+                        -80.7404848,
+                        41.198089
+                    ],
+                    [
+                        -80.7404848,
+                        41.272574
+                    ],
+                    [
+                        -80.894004,
+                        41.272574
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Warren, OH",
+        "id": "579f9e4d93c529b1",
+        "name": "Warren",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/579f9e4d93c529b1.json"
+    },
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@verizon your thingspace is not happy. https://t.co/rviZke1zxX",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Dec 08 12:53:00 +0000 2008",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Technology and Economic Prosperity",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "kenmacpherson.com",
+                        "expanded_url": "http://kenmacpherson.com",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/4JRhqoNqWE"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 2296,
+        "follow_request_sent": false,
+        "followers_count": 653,
+        "following": false,
+        "friends_count": 2329,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 17961805,
+        "id_str": "17961805",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 57,
+        "location": "USA",
+        "name": "Ken MacPherson",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/66733389/kenmacp2006corp_normal.gif",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/66733389/kenmacp2006corp_normal.gif",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "kenmacpherson",
+        "statuses_count": 5367,
+        "time_zone": "Eastern Time (US & Canada)",
+        "url": "http://t.co/4JRhqoNqWE",
+        "utc_offset": -18000,
+        "verified": false
+    }
+}

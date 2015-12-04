@@ -1,0 +1,163 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Dec 02 03:19:25 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "media": [
+            {
+                "display_url": "pic.twitter.com/8UxfVMBSZl",
+                "expanded_url": "http://twitter.com/MikeIslandmayor/status/671891391451009025/photo/1",
+                "id": 671891390054445056,
+                "id_str": "671891390054445056",
+                "indices": [
+                    29,
+                    52
+                ],
+                "media_url": "http://pbs.twimg.com/media/CVMJqM_WsAA4v2g.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/CVMJqM_WsAA4v2g.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 370,
+                        "resize": "fit",
+                        "w": 500
+                    },
+                    "medium": {
+                        "h": 370,
+                        "resize": "fit",
+                        "w": 500
+                    },
+                    "small": {
+                        "h": 251,
+                        "resize": "fit",
+                        "w": 340
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/8UxfVMBSZl"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 59889953,
+                "id_str": "59889953",
+                "indices": [
+                    0,
+                    8
+                ],
+                "name": "Verizon",
+                "screen_name": "verizon"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 671891391451009025,
+    "id_str": "671891391451009025",
+    "in_reply_to_screen_name": "verizon",
+    "in_reply_to_status_id": 671783811571519488,
+    "in_reply_to_status_id_str": "671783811571519488",
+    "in_reply_to_user_id": 59889953,
+    "in_reply_to_user_id_str": "59889953",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -80.119474,
+                        26.762211
+                    ],
+                    [
+                        -80.031242,
+                        26.762211
+                    ],
+                    [
+                        -80.031242,
+                        26.815144
+                    ],
+                    [
+                        -80.119474,
+                        26.815144
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Riviera Beach, FL",
+        "id": "ee2930da9f67751a",
+        "name": "Riviera Beach",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/ee2930da9f67751a.json"
+    },
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@verizon She is an idiot!!!! https://t.co/8UxfVMBSZl",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Nov 23 04:23:06 +0000 2013",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "All about the Island lifestyle: Tiki bars, steel drum music, the beach, the ocean, the sand and the waves.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 897,
+        "follow_request_sent": false,
+        "followers_count": 121,
+        "following": false,
+        "friends_count": 73,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 2192296605,
+        "id_str": "2192296605",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 2,
+        "location": "Florida, Puerto Rico, Belize.",
+        "name": "IslandMike",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2192296605/1386430852",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/529766725060153344/igMSJK9I_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/529766725060153344/igMSJK9I_normal.jpeg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "MikeIslandmayor",
+        "statuses_count": 1607,
+        "time_zone": null,
+        "url": null,
+        "utc_offset": null,
+        "verified": false
+    }
+}

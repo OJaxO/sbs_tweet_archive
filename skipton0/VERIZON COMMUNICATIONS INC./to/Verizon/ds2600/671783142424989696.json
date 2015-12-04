@@ -1,0 +1,124 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 01 20:09:16 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 59889953,
+                "id_str": "59889953",
+                "indices": [
+                    0,
+                    8
+                ],
+                "name": "Verizon",
+                "screen_name": "verizon"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 671783142424989696,
+    "id_str": "671783142424989696",
+    "in_reply_to_screen_name": "verizon",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 59889953,
+    "in_reply_to_user_id_str": "59889953",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -79.4006771,
+                        41.177945
+                    ],
+                    [
+                        -79.3359835,
+                        41.177945
+                    ],
+                    [
+                        -79.3359835,
+                        41.226688
+                    ],
+                    [
+                        -79.4006771,
+                        41.226688
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Clarion, PA",
+        "id": "01c0627815037ea9",
+        "name": "Clarion",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/01c0627815037ea9.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@verizon Have a quick question about small business verification docs?",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Sep 14 06:45:18 +0000 2007",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "It's a god damn sin...",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 46,
+        "follow_request_sent": false,
+        "followers_count": 206,
+        "following": false,
+        "friends_count": 599,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 8870072,
+        "id_str": "8870072",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 8,
+        "location": "Pennsylvania",
+        "name": "William Bunce",
+        "notifications": false,
+        "profile_background_color": "1A1B1F",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/8870072/1420340327",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/551572550610714624/5pqjD-si_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/551572550610714624/5pqjD-si_normal.jpeg",
+        "profile_link_color": "2FC2EF",
+        "profile_sidebar_border_color": "181A1E",
+        "profile_sidebar_fill_color": "252429",
+        "profile_text_color": "666666",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "ds2600",
+        "statuses_count": 7806,
+        "time_zone": "Eastern Time (US & Canada)",
+        "url": null,
+        "utc_offset": -18000,
+        "verified": false
+    }
+}

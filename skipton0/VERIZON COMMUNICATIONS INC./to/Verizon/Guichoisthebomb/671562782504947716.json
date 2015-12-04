@@ -1,0 +1,156 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 01 05:33:39 +0000 2015",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    105,
+                    112
+                ],
+                "text": "Greedy"
+            },
+            {
+                "indices": [
+                    113,
+                    123
+                ],
+                "text": "moneyhogs"
+            },
+            {
+                "indices": [
+                    124,
+                    132
+                ],
+                "text": "Corrupt"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 59889953,
+                "id_str": "59889953",
+                "indices": [
+                    0,
+                    8
+                ],
+                "name": "Verizon",
+                "screen_name": "verizon"
+            },
+            {
+                "id": 14626738,
+                "id_str": "14626738",
+                "indices": [
+                    72,
+                    79
+                ],
+                "name": "Sprint",
+                "screen_name": "sprint"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 671562782504947716,
+    "id_str": "671562782504947716",
+    "in_reply_to_screen_name": "verizon",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 59889953,
+    "in_reply_to_user_id_str": "59889953",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -117.985941,
+                        33.853881
+                    ],
+                    [
+                        -117.863844,
+                        33.853881
+                    ],
+                    [
+                        -117.863844,
+                        33.924814
+                    ],
+                    [
+                        -117.985941,
+                        33.924814
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Fullerton, CA",
+        "id": "2feb76248fd9c581",
+        "name": "Fullerton",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/2feb76248fd9c581.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@verizon if you keep going against Net Neutrality I'm switching back to @sprint . Stop being avaricious! #Greedy #moneyhogs #Corrupt",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Dec 25 01:04:41 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "My life will be an adventure \u26fa\ufe0f\u26f5\ufe0f\u2708\ufe0f Don't forget the '\u00f1'.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 1880,
+        "follow_request_sent": false,
+        "followers_count": 121,
+        "following": false,
+        "friends_count": 115,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 99195760,
+        "id_str": "99195760",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 2,
+        "location": "Anaheim, California!!",
+        "name": "Luis Monta\u00f1ez",
+        "notifications": false,
+        "profile_background_color": "1A1B1F",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/99195760/1448598867",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/672105542525915136/m3_USEjd_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/672105542525915136/m3_USEjd_normal.jpg",
+        "profile_link_color": "2FC2EF",
+        "profile_sidebar_border_color": "181A1E",
+        "profile_sidebar_fill_color": "252429",
+        "profile_text_color": "666666",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Guichoisthebomb",
+        "statuses_count": 1779,
+        "time_zone": "Alaska",
+        "url": null,
+        "utc_offset": -32400,
+        "verified": false
+    }
+}
