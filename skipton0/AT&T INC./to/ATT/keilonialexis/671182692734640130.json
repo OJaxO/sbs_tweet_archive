@@ -1,0 +1,274 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Nov 30 04:23:18 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/_shelovesquan/\u2026",
+                "expanded_url": "https://twitter.com/_shelovesquan/status/671122086107226113",
+                "indices": [
+                    6,
+                    29
+                ],
+                "url": "https://t.co/7NErJwDjSE"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 14620190,
+                "id_str": "14620190",
+                "indices": [
+                    0,
+                    4
+                ],
+                "name": "AT&T",
+                "screen_name": "ATT"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 671182692734640130,
+    "id_str": "671182692734640130",
+    "in_reply_to_screen_name": "ATT",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 14620190,
+    "in_reply_to_user_id_str": "14620190",
+    "is_quote_status": true,
+    "lang": "und",
+    "metadata": {
+        "iso_language_code": "und",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -83.353955,
+                        32.04683
+                    ],
+                    [
+                        -78.499301,
+                        32.04683
+                    ],
+                    [
+                        -78.499301,
+                        35.215449
+                    ],
+                    [
+                        -83.353955,
+                        35.215449
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "South Carolina, USA",
+        "id": "6057f1e35bcc6c20",
+        "name": "South Carolina",
+        "place_type": "admin",
+        "url": "https://api.twitter.com/1.1/geo/id/6057f1e35bcc6c20.json"
+    },
+    "possibly_sensitive": false,
+    "quoted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Mon Nov 30 00:22:28 +0000 2015",
+        "entities": {
+            "hashtags": [
+                {
+                    "indices": [
+                        27,
+                        35
+                    ],
+                    "text": "ATTWave"
+                }
+            ],
+            "media": [
+                {
+                    "display_url": "pic.twitter.com/MawqwaQiYa",
+                    "expanded_url": "http://twitter.com/_SheLovesQuan/status/671122086107226113/photo/1",
+                    "id": 671122067484377088,
+                    "id_str": "671122067484377088",
+                    "indices": [
+                        41,
+                        64
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/CVBN9vFVAAA5tok.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/CVBN9vFVAAA5tok.jpg",
+                    "sizes": {
+                        "large": {
+                            "h": 1024,
+                            "resize": "fit",
+                            "w": 1024
+                        },
+                        "medium": {
+                            "h": 600,
+                            "resize": "fit",
+                            "w": 600
+                        },
+                        "small": {
+                            "h": 340,
+                            "resize": "fit",
+                            "w": 340
+                        },
+                        "thumb": {
+                            "h": 150,
+                            "resize": "crop",
+                            "w": 150
+                        }
+                    },
+                    "type": "photo",
+                    "url": "https://t.co/MawqwaQiYa"
+                }
+            ],
+            "symbols": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "id": 14620190,
+                    "id_str": "14620190",
+                    "indices": [
+                        36,
+                        40
+                    ],
+                    "name": "AT&T",
+                    "screen_name": "ATT"
+                }
+            ]
+        },
+        "favorite_count": 60,
+        "favorited": false,
+        "geo": null,
+        "id": 671122086107226113,
+        "id_str": "671122086107226113",
+        "in_reply_to_screen_name": null,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "is_quote_status": false,
+        "lang": "en",
+        "metadata": {
+            "iso_language_code": "und",
+            "result_type": "recent"
+        },
+        "place": null,
+        "possibly_sensitive": false,
+        "retweet_count": 73,
+        "retweeted": false,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "Which Service Y'all Got ?? #ATTWave @ATT https://t.co/MawqwaQiYa",
+        "truncated": false,
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Mon May 16 22:03:08 +0000 2011",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "#BULLSNATION #TeamLibra \u264e #Instragram: __mr.sanders__ #Vine: DaQuan #Connecticut #203 #10.4.14 #TFB",
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "favourites_count": 1058,
+            "follow_request_sent": false,
+            "followers_count": 55013,
+            "following": false,
+            "friends_count": 39688,
+            "geo_enabled": false,
+            "has_extended_profile": true,
+            "id": 299916511,
+            "id_str": "299916511",
+            "is_translation_enabled": false,
+            "is_translator": false,
+            "lang": "en",
+            "listed_count": 29,
+            "location": "Hamden, CT",
+            "name": "Bulls 11-5",
+            "notifications": false,
+            "profile_background_color": "131516",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/475250932171538433/yCmC5w59.jpeg",
+            "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/475250932171538433/yCmC5w59.jpeg",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/299916511/1446945869",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/668453582581166080/gcxOg0Qx_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/668453582581166080/gcxOg0Qx_normal.jpg",
+            "profile_link_color": "4A913C",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "EFEFEF",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "_SheLovesQuan",
+            "statuses_count": 26545,
+            "time_zone": "Pacific Time (US & Canada)",
+            "url": null,
+            "utc_offset": -28800,
+            "verified": false
+        }
+    },
+    "quoted_status_id": 671122086107226113,
+    "quoted_status_id_str": "671122086107226113",
+    "retweet_count": 1,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@ATT  https://t.co/7NErJwDjSE",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Nov 28 06:00:49 +0000 2012",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 6181,
+        "follow_request_sent": false,
+        "followers_count": 1623,
+        "following": false,
+        "friends_count": 1125,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 975463586,
+        "id_str": "975463586",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 2,
+        "location": "",
+        "name": "lonid",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/567812274614583296/6xUJMUGZ.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/567812274614583296/6xUJMUGZ.jpeg",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/672595884178333696/2dWrz6sT_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/672595884178333696/2dWrz6sT_normal.jpg",
+        "profile_link_color": "000000",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "keilonialexis",
+        "statuses_count": 66655,
+        "time_zone": "Hawaii",
+        "url": null,
+        "utc_offset": -36000,
+        "verified": false
+    }
+}
