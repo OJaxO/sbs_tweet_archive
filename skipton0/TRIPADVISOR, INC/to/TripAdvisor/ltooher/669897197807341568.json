@@ -1,0 +1,123 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Nov 26 15:15:12 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 16365636,
+                "id_str": "16365636",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "TripAdvisor",
+                "screen_name": "TripAdvisor"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 669897197807341568,
+    "id_str": "669897197807341568",
+    "in_reply_to_screen_name": "TripAdvisor",
+    "in_reply_to_status_id": 669893380608909313,
+    "in_reply_to_status_id_str": "669893380608909313",
+    "in_reply_to_user_id": 16365636,
+    "in_reply_to_user_id_str": "16365636",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -77.467661,
+                        39.341113
+                    ],
+                    [
+                        -77.388726,
+                        39.341113
+                    ],
+                    [
+                        -77.388726,
+                        39.4038225
+                    ],
+                    [
+                        -77.467661,
+                        39.4038225
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Ballenger Creek, MD",
+        "id": "be0e62c690c5acbc",
+        "name": "Ballenger Creek",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/be0e62c690c5acbc.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@TripAdvisor I can still SEE the Assateaque horses windblown manes in MD Seen it &amp; heard the hooves while they gallopped by &lt;3",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Jul 09 20:31:14 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Passionate about a clean environment & fitness! Learn from 'Errand of Mercy' (Star Trek, orig. series) that our energy and our actions can make a difference.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 6883,
+        "follow_request_sent": false,
+        "followers_count": 215,
+        "following": false,
+        "friends_count": 689,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 164809259,
+        "id_str": "164809259",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 17,
+        "location": "USA",
+        "name": "Lenora Tooher",
+        "notifications": false,
+        "profile_background_color": "EDECE9",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1116518503/getmoving_normal.GIF",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1116518503/getmoving_normal.GIF",
+        "profile_link_color": "088253",
+        "profile_sidebar_border_color": "D3D2CF",
+        "profile_sidebar_fill_color": "E3E2DE",
+        "profile_text_color": "634047",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "ltooher",
+        "statuses_count": 11629,
+        "time_zone": "Eastern Time (US & Canada)",
+        "url": null,
+        "utc_offset": -18000,
+        "verified": false
+    }
+}

@@ -1,0 +1,241 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Dec 03 21:02:08 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/vivianmikhail/\u2026",
+                "expanded_url": "https://twitter.com/vivianmikhail/status/672520762687909888",
+                "indices": [
+                    30,
+                    53
+                ],
+                "url": "https://t.co/XEJ1aYR06R"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 20536157,
+                "id_str": "20536157",
+                "indices": [
+                    0,
+                    7
+                ],
+                "name": "Google",
+                "screen_name": "google"
+            }
+        ]
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": null,
+    "id": 672521220286476289,
+    "id_str": "672521220286476289",
+    "in_reply_to_screen_name": "google",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 20536157,
+    "in_reply_to_user_id_str": "20536157",
+    "is_quote_status": true,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": null,
+    "possibly_sensitive": false,
+    "quoted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Thu Dec 03 21:00:19 +0000 2015",
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "urls": [
+                {
+                    "display_url": "twitter.com/chicagotribune\u2026",
+                    "expanded_url": "https://twitter.com/chicagotribune/status/672518843789664257",
+                    "indices": [
+                        14,
+                        37
+                    ],
+                    "url": "https://t.co/aken7hlbYo"
+                }
+            ],
+            "user_mentions": [
+                {
+                    "id": 3883491013,
+                    "id_str": "3883491013",
+                    "indices": [
+                        0,
+                        12
+                    ],
+                    "name": "Joseph Eprim",
+                    "screen_name": "josepheprim"
+                }
+            ]
+        },
+        "favorite_count": 0,
+        "favorited": false,
+        "geo": null,
+        "id": 672520762687909888,
+        "id_str": "672520762687909888",
+        "in_reply_to_screen_name": "josepheprim",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": 3883491013,
+        "in_reply_to_user_id_str": "3883491013",
+        "is_quote_status": true,
+        "lang": "und",
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "place": {
+            "attributes": {},
+            "bounding_box": {
+                "coordinates": [
+                    [
+                        [
+                            -87.940033,
+                            41.644102
+                        ],
+                        [
+                            -87.523993,
+                            41.644102
+                        ],
+                        [
+                            -87.523993,
+                            42.0230669
+                        ],
+                        [
+                            -87.940033,
+                            42.0230669
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "contained_within": [],
+            "country": "United States",
+            "country_code": "US",
+            "full_name": "Chicago, IL",
+            "id": "1d9a5370a355ab0c",
+            "name": "Chicago",
+            "place_type": "city",
+            "url": "https://api.twitter.com/1.1/geo/id/1d9a5370a355ab0c.json"
+        },
+        "possibly_sensitive": false,
+        "quoted_status_id": 672518843789664257,
+        "quoted_status_id_str": "672518843789664257",
+        "retweet_count": 0,
+        "retweeted": false,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "@josepheprim  https://t.co/aken7hlbYo",
+        "truncated": false,
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Sat Mar 14 05:15:48 +0000 2009",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "",
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "favourites_count": 1167,
+            "follow_request_sent": false,
+            "followers_count": 388,
+            "following": false,
+            "friends_count": 307,
+            "geo_enabled": true,
+            "has_extended_profile": false,
+            "id": 24334172,
+            "id_str": "24334172",
+            "is_translation_enabled": false,
+            "is_translator": false,
+            "lang": "en",
+            "listed_count": 10,
+            "location": "City of Wind",
+            "name": "Vivian M.",
+            "notifications": false,
+            "profile_background_color": "010300",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/599954732/jjpdd9gw6gax8y05xdh9.jpeg",
+            "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/599954732/jjpdd9gw6gax8y05xdh9.jpeg",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/24334172/1444841501",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/648873385422913536/VkC73jUi_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/648873385422913536/VkC73jUi_normal.jpg",
+            "profile_link_color": "744B64",
+            "profile_sidebar_border_color": "F7F8FC",
+            "profile_sidebar_fill_color": "010301",
+            "profile_text_color": "314C53",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "vivianmikhail",
+            "statuses_count": 12121,
+            "time_zone": "Central Time (US & Canada)",
+            "url": null,
+            "utc_offset": -21600,
+            "verified": false
+        }
+    },
+    "quoted_status_id": 672520762687909888,
+    "quoted_status_id_str": "672520762687909888",
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@google you're hiring right?! https://t.co/XEJ1aYR06R",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Oct 13 18:45:07 +0000 2015",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 21,
+        "follow_request_sent": false,
+        "followers_count": 48,
+        "following": false,
+        "friends_count": 111,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 3883491013,
+        "id_str": "3883491013",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 11,
+        "location": "",
+        "name": "Joseph Eprim",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3883491013/1447638276",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/654006096537907200/hCXIURxn_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/654006096537907200/hCXIURxn_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "josepheprim",
+        "statuses_count": 249,
+        "time_zone": "Central Time (US & Canada)",
+        "url": null,
+        "utc_offset": -21600,
+        "verified": false
+    }
+}

@@ -1,0 +1,172 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Nov 27 13:38:55 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "media": [
+            {
+                "display_url": "pic.twitter.com/MDfH2ukSIs",
+                "expanded_url": "http://twitter.com/EliteStoneHouse/status/670235353345847296/photo/1",
+                "id": 670235351869317120,
+                "id_str": "670235351869317120",
+                "indices": [
+                    80,
+                    103
+                ],
+                "media_url": "http://pbs.twimg.com/media/CU0ngGAUYAAxj9e.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/CU0ngGAUYAAxj9e.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 460,
+                        "resize": "fit",
+                        "w": 839
+                    },
+                    "medium": {
+                        "h": 328,
+                        "resize": "fit",
+                        "w": 600
+                    },
+                    "small": {
+                        "h": 186,
+                        "resize": "fit",
+                        "w": 340
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/MDfH2ukSIs"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 16365636,
+                "id_str": "16365636",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "TripAdvisor",
+                "screen_name": "TripAdvisor"
+            },
+            {
+                "id": 4296676054,
+                "id_str": "4296676054",
+                "indices": [
+                    13,
+                    29
+                ],
+                "name": "Elite Stone House",
+                "screen_name": "EliteStoneHouse"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 670235353345847296,
+    "id_str": "670235353345847296",
+    "in_reply_to_screen_name": "TripAdvisor",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 16365636,
+    "in_reply_to_user_id_str": "16365636",
+    "is_quote_status": false,
+    "lang": "tr",
+    "metadata": {
+        "iso_language_code": "tr",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        25.668509,
+                        35.8084193
+                    ],
+                    [
+                        44.817931,
+                        35.8084193
+                    ],
+                    [
+                        44.817931,
+                        42.1047857
+                    ],
+                    [
+                        25.668509,
+                        42.1047857
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "T\u00fcrkiye",
+        "country_code": "TR",
+        "full_name": "Turkey",
+        "id": "682c5a667856ef42",
+        "name": "Turkey",
+        "place_type": "country",
+        "url": "https://api.twitter.com/1.1/geo/id/682c5a667856ef42.json"
+    },
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@TripAdvisor @EliteStoneHouse KAPADOKYA'DA KEND\u0130N\u0130Z\u0130 EV\u0130N\u0130ZDE H\u0130SSEDECEKS\u0130N\u0130Z.. https://t.co/MDfH2ukSIs",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Nov 27 13:30:08 +0000 2015",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 0,
+        "follow_request_sent": false,
+        "followers_count": 10,
+        "following": false,
+        "friends_count": 11,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 4296676054,
+        "id_str": "4296676054",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "tr",
+        "listed_count": 1,
+        "location": "",
+        "name": "Elite Stone House",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/670233732184281089/cKXbn-hJ_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/670233732184281089/cKXbn-hJ_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "EliteStoneHouse",
+        "statuses_count": 4,
+        "time_zone": null,
+        "url": null,
+        "utc_offset": null,
+        "verified": false
+    }
+}

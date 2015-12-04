@@ -1,0 +1,155 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Dec 04 04:24:58 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "exp.mx/n006TQW",
+                "expanded_url": "http://exp.mx/n006TQW",
+                "indices": [
+                    45,
+                    68
+                ],
+                "url": "https://t.co/NvV87IQkPn"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 20536157,
+                "id_str": "20536157",
+                "indices": [
+                    0,
+                    7
+                ],
+                "name": "Google",
+                "screen_name": "google"
+            },
+            {
+                "id": 15317822,
+                "id_str": "15317822",
+                "indices": [
+                    73,
+                    86
+                ],
+                "name": "CNNExpansi\u00f3n.com",
+                "screen_name": "cnnexpansion"
+            },
+            {
+                "id": 31311757,
+                "id_str": "31311757",
+                "indices": [
+                    87,
+                    98
+                ],
+                "name": "Google Maps",
+                "screen_name": "googlemaps"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 672632664155750401,
+    "id_str": "672632664155750401",
+    "in_reply_to_screen_name": "google",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 20536157,
+    "in_reply_to_user_id_str": "20536157",
+    "is_quote_status": false,
+    "lang": "es",
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -99.1843501,
+                        19.3998346
+                    ],
+                    [
+                        -99.122382,
+                        19.3998346
+                    ],
+                    [
+                        -99.122382,
+                        19.4658366
+                    ],
+                    [
+                        -99.1843501,
+                        19.4658366
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "M\u00e9xico",
+        "country_code": "MX",
+        "full_name": "Cuauht\u00e9moc, Distrito Federal",
+        "id": "bfc35dcc7e63252a",
+        "name": "Cuauht\u00e9moc",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/bfc35dcc7e63252a.json"
+    },
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@google quiere ser mucho m\u00e1s que un buscador https://t.co/NvV87IQkPn v\u00eda @cnnexpansion @googlemaps",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Jul 10 00:53:37 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Mexicano ! ...Antipriista , Anti @epn , we are anonymous! \nMexicanos al Grito de Guerra ..... #Revoluci\u00f3n",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 17950,
+        "follow_request_sent": false,
+        "followers_count": 9448,
+        "following": false,
+        "friends_count": 6921,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 332547567,
+        "id_str": "332547567",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "es",
+        "listed_count": 45,
+        "location": "      722",
+        "name": "H\u00c9CTOR LEITE\u00ae",
+        "notifications": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/794627374/8d7bf7dbec286bed0f30b37290451a7f.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/794627374/8d7bf7dbec286bed0f30b37290451a7f.jpeg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/332547567/1402931365",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/600840522123513858/hFVSSSbT_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/600840522123513858/hFVSSSbT_normal.png",
+        "profile_link_color": "1280E0",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "HectorLeiter",
+        "statuses_count": 57191,
+        "time_zone": "Mexico City",
+        "url": null,
+        "utc_offset": -21600,
+        "verified": false
+    }
+}

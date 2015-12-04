@@ -1,0 +1,124 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Nov 25 09:25:31 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 16365636,
+                "id_str": "16365636",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "TripAdvisor",
+                "screen_name": "TripAdvisor"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 669446809018867712,
+    "id_str": "669446809018867712",
+    "in_reply_to_screen_name": "TripAdvisor",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 16365636,
+    "in_reply_to_user_id_str": "16365636",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        5.3811027,
+                        51.5213487
+                    ],
+                    [
+                        5.5505158,
+                        51.5213487
+                    ],
+                    [
+                        5.5505158,
+                        51.6052579
+                    ],
+                    [
+                        5.3811027,
+                        51.6052579
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "Nederland",
+        "country_code": "NL",
+        "full_name": "Sint-Oedenrode, Noord-Brabant",
+        "id": "bac9af13d9cd005b",
+        "name": "Sint-Oedenrode",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/bac9af13d9cd005b.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@TripAdvisor how nice to get the positive encouragement# gets me writing more reviews#\ud83d\ude06",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Jul 10 11:43:18 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "vrouw van/mama/ brede jeugdprofessional Oss /GGZ/ muziek/  theater/ sportminded",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 320,
+        "follow_request_sent": false,
+        "followers_count": 181,
+        "following": false,
+        "friends_count": 333,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 165029504,
+        "id_str": "165029504",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "nl",
+        "listed_count": 5,
+        "location": "Sint-Oedenrode",
+        "name": "Sandy Evers",
+        "notifications": false,
+        "profile_background_color": "07090B",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/195027483/x4df7f00a8a6f72bbacd55e10fc166f5.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/195027483/x4df7f00a8a6f72bbacd55e10fc166f5.jpg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/165029504/1448298118",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/658021201839849476/CTtH3ev-_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/658021201839849476/CTtH3ev-_normal.jpg",
+        "profile_link_color": "9266CC",
+        "profile_sidebar_border_color": "BFBFBF",
+        "profile_sidebar_fill_color": "C9C9C9",
+        "profile_text_color": "1C1F23",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "SandyEvers",
+        "statuses_count": 2406,
+        "time_zone": "Amsterdam",
+        "url": null,
+        "utc_offset": 3600,
+        "verified": false
+    }
+}

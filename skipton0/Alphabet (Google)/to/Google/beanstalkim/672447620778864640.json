@@ -1,0 +1,304 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Dec 03 16:09:40 +0000 2015",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    30,
+                    39
+                ],
+                "text": "Overture"
+            }
+        ],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/jenstar/status\u2026",
+                "expanded_url": "https://twitter.com/jenstar/status/672440180280705024",
+                "indices": [
+                    63,
+                    86
+                ],
+                "url": "https://t.co/6x8IhcFlUn"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 20536157,
+                "id_str": "20536157",
+                "indices": [
+                    0,
+                    7
+                ],
+                "name": "Google",
+                "screen_name": "google"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 672447620778864640,
+    "id_str": "672447620778864640",
+    "in_reply_to_screen_name": "google",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 20536157,
+    "in_reply_to_user_id_str": "20536157",
+    "is_quote_status": true,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -123.394378,
+                        48.403014
+                    ],
+                    [
+                        -123.322362,
+                        48.403014
+                    ],
+                    [
+                        -123.322362,
+                        48.4504472
+                    ],
+                    [
+                        -123.394378,
+                        48.4504472
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "Canada",
+        "country_code": "CA",
+        "full_name": "Victoria, British Columbia",
+        "id": "4fdbcad8c3ed7790",
+        "name": "Victoria",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/4fdbcad8c3ed7790.json"
+    },
+    "possibly_sensitive": false,
+    "quoted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Thu Dec 03 15:40:06 +0000 2015",
+        "entities": {
+            "hashtags": [],
+            "media": [
+                {
+                    "display_url": "pic.twitter.com/eAqI030rxC",
+                    "expanded_url": "http://twitter.com/jenstar/status/672393137621307392/photo/1",
+                    "id": 672393137076109312,
+                    "id_str": "672393137076109312",
+                    "indices": [
+                        78,
+                        101
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/CVTR_uTVAAAUCmV.png",
+                    "media_url_https": "https://pbs.twimg.com/media/CVTR_uTVAAAUCmV.png",
+                    "sizes": {
+                        "large": {
+                            "h": 440,
+                            "resize": "fit",
+                            "w": 880
+                        },
+                        "medium": {
+                            "h": 300,
+                            "resize": "fit",
+                            "w": 600
+                        },
+                        "small": {
+                            "h": 170,
+                            "resize": "fit",
+                            "w": 340
+                        },
+                        "thumb": {
+                            "h": 150,
+                            "resize": "crop",
+                            "w": 150
+                        }
+                    },
+                    "source_status_id": 672393137621307392,
+                    "source_status_id_str": "672393137621307392",
+                    "source_user_id": 3091351,
+                    "source_user_id_str": "3091351",
+                    "type": "photo",
+                    "url": "https://t.co/eAqI030rxC"
+                }
+            ],
+            "symbols": [],
+            "urls": [
+                {
+                    "display_url": "thesempost.com/google-testing\u2026",
+                    "expanded_url": "http://www.thesempost.com/google-testing-4-top-adwords-ads-above-search-results/",
+                    "indices": [
+                        54,
+                        77
+                    ],
+                    "url": "https://t.co/hlG7O5FRdP"
+                }
+            ],
+            "user_mentions": []
+        },
+        "favorite_count": 1,
+        "favorited": false,
+        "geo": null,
+        "id": 672440180280705024,
+        "id_str": "672440180280705024",
+        "in_reply_to_screen_name": null,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "is_quote_status": false,
+        "lang": "en",
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "place": null,
+        "possibly_sensitive": false,
+        "retweet_count": 5,
+        "retweeted": false,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": "Google Testing 4 Top AdWords Ads Above Search Results https://t.co/hlG7O5FRdP https://t.co/eAqI030rxC",
+        "truncated": false,
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Sun Apr 01 00:53:33 +0000 2007",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "Writer of all things search for @TheSEMPost. SEM / SEO / PPC / Social Media. X-Files aficionado. @Ingress nerd. #GOCANUCKSGO",
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "TheSEMPost.com",
+                            "expanded_url": "http://www.TheSEMPost.com",
+                            "indices": [
+                                0,
+                                23
+                            ],
+                            "url": "https://t.co/j8IMCDYUr4"
+                        }
+                    ]
+                }
+            },
+            "favourites_count": 659,
+            "follow_request_sent": false,
+            "followers_count": 9669,
+            "following": false,
+            "friends_count": 511,
+            "geo_enabled": true,
+            "has_extended_profile": false,
+            "id": 3091351,
+            "id_str": "3091351",
+            "is_translation_enabled": false,
+            "is_translator": false,
+            "lang": "en",
+            "listed_count": 690,
+            "location": "Victoria, B.C.",
+            "name": "Jennifer Slegg",
+            "notifications": false,
+            "profile_background_color": "A92064",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/591277987258966017/oQdwY4n1.png",
+            "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/591277987258966017/oQdwY4n1.png",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/3091351/1429808258",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/66347580/biopic9_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/66347580/biopic9_normal.jpg",
+            "profile_link_color": "A92064",
+            "profile_sidebar_border_color": "0B0A0A",
+            "profile_sidebar_fill_color": "C9C5C8",
+            "profile_text_color": "543054",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "jenstar",
+            "statuses_count": 17643,
+            "time_zone": "Pacific Time (US & Canada)",
+            "url": "https://t.co/j8IMCDYUr4",
+            "utc_offset": -28800,
+            "verified": false
+        }
+    },
+    "quoted_status_id": 672440180280705024,
+    "quoted_status_id_str": "672440180280705024",
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@google looking to follow the #Overture search model it seems. https://t.co/6x8IhcFlUn",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Jun 12 20:50:11 +0000 2008",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "The Twitter profile of Beanstalk's CEO Dave Davies covering mainly onsite SEO and link building. For the social and outreach side of things follow @Beanstalk.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "beanstalkim.com",
+                        "expanded_url": "https://www.beanstalkim.com/",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/GxT6n7iCfR"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 500,
+        "follow_request_sent": false,
+        "followers_count": 1787,
+        "following": false,
+        "friends_count": 231,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 15101041,
+        "id_str": "15101041",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 168,
+        "location": "Victoria, BC, Canada",
+        "name": "Beanstalk IM",
+        "notifications": false,
+        "profile_background_color": "EDECE9",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/15101041/1448294673",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/665940345918623744/jNTLhQvD_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/665940345918623744/jNTLhQvD_normal.jpg",
+        "profile_link_color": "088253",
+        "profile_sidebar_border_color": "D3D2CF",
+        "profile_sidebar_fill_color": "E3E2DE",
+        "profile_text_color": "634047",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "beanstalkim",
+        "statuses_count": 16943,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "https://t.co/GxT6n7iCfR",
+        "utc_offset": -28800,
+        "verified": false
+    }
+}
