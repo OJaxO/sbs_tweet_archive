@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Dec 02 21:45:57 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 17137891,
+                "id_str": "17137891",
+                "indices": [
+                    0,
+                    8
+                ],
+                "name": "Walmart",
+                "screen_name": "Walmart"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 672169861322117120,
+    "id_str": "672169861322117120",
+    "in_reply_to_screen_name": "Walmart",
+    "in_reply_to_status_id": 672114168917590016,
+    "in_reply_to_status_id_str": "672114168917590016",
+    "in_reply_to_user_id": 17137891,
+    "in_reply_to_user_id_str": "17137891",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -87.940033,
+                        41.644102
+                    ],
+                    [
+                        -87.523993,
+                        41.644102
+                    ],
+                    [
+                        -87.523993,
+                        42.0230669
+                    ],
+                    [
+                        -87.940033,
+                        42.0230669
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Chicago, IL",
+        "id": "1d9a5370a355ab0c",
+        "name": "Chicago",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/1d9a5370a355ab0c.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@Walmart I spoke with Michelle yesterday and followed up today. She is a great manager.  Michelle was more than gracious and apologetic.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Mar 13 23:09:33 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "We're here 2 challenge you 2 think for yourself. #pocbf #blackfreethinkers #lupus #blacktwitter #MovingSocialJustice #qwoc #blacklivesmatter #AngryMinorityRant",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "bit.ly/gQC4jM",
+                        "expanded_url": "http://bit.ly/gQC4jM",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/jkrGj0V0RN"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 3023,
+        "follow_request_sent": false,
+        "followers_count": 5850,
+        "following": false,
+        "friends_count": 5657,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 265652034,
+        "id_str": "265652034",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 155,
+        "location": "",
+        "name": "Black FreeThinkers",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000036129646/f1f5bfa776781eeb66901a35b287cc05.png",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000036129646/f1f5bfa776781eeb66901a35b287cc05.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/265652034/1419711555",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/378800000205423563/72e8c040c33c87e4c0e6786698e11375_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000205423563/72e8c040c33c87e4c0e6786698e11375_normal.jpeg",
+        "profile_link_color": "CF5300",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "FFFFFF",
+        "profile_text_color": "FF9999",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "BlkFreeThinkers",
+        "statuses_count": 20243,
+        "time_zone": "Central Time (US & Canada)",
+        "url": "http://t.co/jkrGj0V0RN",
+        "utc_offset": -21600,
+        "verified": false
+    }
+}

@@ -1,0 +1,144 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Dec 02 19:02:00 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 17137891,
+                "id_str": "17137891",
+                "indices": [
+                    0,
+                    8
+                ],
+                "name": "Walmart",
+                "screen_name": "Walmart"
+            },
+            {
+                "id": 80579719,
+                "id_str": "80579719",
+                "indices": [
+                    9,
+                    25
+                ],
+                "name": "Fisher House",
+                "screen_name": "FisherHouseFdtn"
+            },
+            {
+                "id": 1730258839,
+                "id_str": "1730258839",
+                "indices": [
+                    26,
+                    40
+                ],
+                "name": "George Novak III",
+                "screen_name": "georgenovak92"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 672128602326962176,
+    "id_str": "672128602326962176",
+    "in_reply_to_screen_name": "Walmart",
+    "in_reply_to_status_id": 672064228338061313,
+    "in_reply_to_status_id_str": "672064228338061313",
+    "in_reply_to_user_id": 17137891,
+    "in_reply_to_user_id_str": "17137891",
+    "is_quote_status": false,
+    "lang": "und",
+    "metadata": {
+        "iso_language_code": "und",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -122.779239,
+                        38.396779
+                    ],
+                    [
+                        -122.572978,
+                        38.396779
+                    ],
+                    [
+                        -122.572978,
+                        38.507656
+                    ],
+                    [
+                        -122.779239,
+                        38.507656
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Santa Rosa, CA",
+        "id": "5a9de3ff3fdd849d",
+        "name": "Santa Rosa",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/5a9de3ff3fdd849d.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@Walmart @FisherHouseFdtn @georgenovak92",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Aug 07 22:33:03 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "#Dreamchaser #SRJC #Ballislife RIP:JTM",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 5233,
+        "follow_request_sent": false,
+        "followers_count": 458,
+        "following": false,
+        "friends_count": 415,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 350521854,
+        "id_str": "350521854",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 1,
+        "location": "Santa Rosa, CA",
+        "name": "\u00aeichard Tucker",
+        "notifications": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/306838090/192497_202821133078220_100000510057311_788989_1761973_o_1_.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/306838090/192497_202821133078220_100000510057311_788989_1761973_o_1_.jpg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/350521854/1443375842",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/656891290550845440/sKxY6IVS_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/656891290550845440/sKxY6IVS_normal.jpg",
+        "profile_link_color": "009999",
+        "profile_sidebar_border_color": "EEEEEE",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "RichardTucker3",
+        "statuses_count": 1220,
+        "time_zone": null,
+        "url": null,
+        "utc_offset": null,
+        "verified": false
+    }
+}

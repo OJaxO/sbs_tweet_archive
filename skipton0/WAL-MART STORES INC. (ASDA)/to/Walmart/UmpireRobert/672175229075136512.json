@@ -1,0 +1,242 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Dec 02 22:07:17 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/mrsgraph/statu\u2026",
+                "expanded_url": "https://twitter.com/mrsgraph/status/672173813799456768",
+                "indices": [
+                    28,
+                    51
+                ],
+                "url": "https://t.co/MHeWRjOycf"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 17137891,
+                "id_str": "17137891",
+                "indices": [
+                    0,
+                    8
+                ],
+                "name": "Walmart",
+                "screen_name": "Walmart"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 672175229075136512,
+    "id_str": "672175229075136512",
+    "in_reply_to_screen_name": "Walmart",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 17137891,
+    "in_reply_to_user_id_str": "17137891",
+    "is_quote_status": true,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -88.04052,
+                        43.192104
+                    ],
+                    [
+                        -87.89591,
+                        43.192104
+                    ],
+                    [
+                        -87.89591,
+                        43.280387
+                    ],
+                    [
+                        -88.04052,
+                        43.280387
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Mequon, WI",
+        "id": "7f88808f3d4e1c41",
+        "name": "Mequon",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/7f88808f3d4e1c41.json"
+    },
+    "possibly_sensitive": false,
+    "quoted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Wed Dec 02 22:01:40 +0000 2015",
+        "entities": {
+            "hashtags": [
+                {
+                    "indices": [
+                        76,
+                        95
+                    ],
+                    "text": "badcustomerservice"
+                },
+                {
+                    "indices": [
+                        119,
+                        132
+                    ],
+                    "text": "misleadingad"
+                }
+            ],
+            "symbols": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "id": 143528416,
+                    "id_str": "143528416",
+                    "indices": [
+                        32,
+                        46
+                    ],
+                    "name": "Walmart Canada",
+                    "screen_name": "WalmartCanada"
+                }
+            ]
+        },
+        "favorite_count": 1,
+        "favorited": false,
+        "geo": null,
+        "id": 672173813799456768,
+        "id_str": "672173813799456768",
+        "in_reply_to_screen_name": null,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "is_quote_status": false,
+        "lang": "en",
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "place": null,
+        "retweet_count": 2,
+        "retweeted": false,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": "On hold now for 20 minutes with @WalmartCanada and still no answer. This is #badcustomerservice. Where is my evoucher? #misleadingad",
+        "truncated": false,
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Sun Mar 15 18:38:25 +0000 2009",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "Champagne is always the answer",
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "favourites_count": 419,
+            "follow_request_sent": false,
+            "followers_count": 48,
+            "following": false,
+            "friends_count": 87,
+            "geo_enabled": false,
+            "has_extended_profile": false,
+            "id": 24563881,
+            "id_str": "24563881",
+            "is_translation_enabled": false,
+            "is_translator": false,
+            "lang": "en",
+            "listed_count": 3,
+            "location": "Oakville, Ontario",
+            "name": "Samantha",
+            "notifications": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/24563881/1449003716",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/664148031982276608/Rt_OD6fX_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/664148031982276608/Rt_OD6fX_normal.jpg",
+            "profile_link_color": "F5ABB5",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "protected": false,
+            "screen_name": "mrsgraph",
+            "statuses_count": 357,
+            "time_zone": "Eastern Time (US & Canada)",
+            "url": null,
+            "utc_offset": -18000,
+            "verified": false
+        }
+    },
+    "quoted_status_id": 672173813799456768,
+    "quoted_status_id_str": "672173813799456768",
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@Walmart needs to fix this  https://t.co/MHeWRjOycf",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Nov 06 20:35:25 +0000 2012",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "I talk about sports and stocks and other stuff",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 209,
+        "follow_request_sent": false,
+        "followers_count": 171,
+        "following": false,
+        "friends_count": 356,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 930504679,
+        "id_str": "930504679",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 6,
+        "location": "Nationwide",
+        "name": "Robert W",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/441985201439125505/1_ZzVSa0_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/441985201439125505/1_ZzVSa0_normal.jpeg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "UmpireRobert",
+        "statuses_count": 6082,
+        "time_zone": null,
+        "url": null,
+        "utc_offset": null,
+        "verified": false
+    }
+}

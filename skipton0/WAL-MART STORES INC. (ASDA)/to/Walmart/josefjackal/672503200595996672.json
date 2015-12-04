@@ -1,0 +1,147 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Dec 03 19:50:32 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 17137891,
+                "id_str": "17137891",
+                "indices": [
+                    0,
+                    8
+                ],
+                "name": "Walmart",
+                "screen_name": "Walmart"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 672503200595996672,
+    "id_str": "672503200595996672",
+    "in_reply_to_screen_name": "Walmart",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 17137891,
+    "in_reply_to_user_id_str": "17137891",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -74.113318,
+                        40.884443
+                    ],
+                    [
+                        -74.078781,
+                        40.884443
+                    ],
+                    [
+                        -74.078781,
+                        40.921076
+                    ],
+                    [
+                        -74.113318,
+                        40.921076
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Saddle Brook, NJ",
+        "id": "4788f93db732fe58",
+        "name": "Saddle Brook",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/4788f93db732fe58.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@Walmart got the game fuck up by offerin Cashback on a credit card. We're \"Fuck\" as a nation. First they destroy mama&amp;papa stores &amp; now this",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Jun 27 18:37:26 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "License Drinker, Pokemon Master, and My tumblr https://t.co/wIfsQoJwvX",
+        "entities": {
+            "description": {
+                "urls": [
+                    {
+                        "display_url": "josefketchum.tumblr.com",
+                        "expanded_url": "http://josefketchum.tumblr.com",
+                        "indices": [
+                            47,
+                            70
+                        ],
+                        "url": "https://t.co/wIfsQoJwvX"
+                    }
+                ]
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "facebook.com/Josefjackal",
+                        "expanded_url": "http://www.facebook.com/Josefjackal",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/89YzykosB9"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 190,
+        "follow_request_sent": false,
+        "followers_count": 166,
+        "following": false,
+        "friends_count": 172,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 160278515,
+        "id_str": "160278515",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 1,
+        "location": "In a State of Confusion",
+        "name": "shambles",
+        "notifications": false,
+        "profile_background_color": "07090B",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/141936643/pika1.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/141936643/pika1.jpg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/160278515/1352792512",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/670616177039826948/t7w3g5l2_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/670616177039826948/t7w3g5l2_normal.jpg",
+        "profile_link_color": "EB1212",
+        "profile_sidebar_border_color": "0F0E0F",
+        "profile_sidebar_fill_color": "F2F2B3",
+        "profile_text_color": "1C1F23",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "josefjackal",
+        "statuses_count": 19033,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "https://t.co/89YzykosB9",
+        "utc_offset": -28800,
+        "verified": false
+    }
+}

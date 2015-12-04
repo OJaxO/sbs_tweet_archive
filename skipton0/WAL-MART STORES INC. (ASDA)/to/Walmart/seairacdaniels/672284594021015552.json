@@ -1,0 +1,147 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Dec 03 05:21:52 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 17137891,
+                "id_str": "17137891",
+                "indices": [
+                    0,
+                    8
+                ],
+                "name": "Walmart",
+                "screen_name": "Walmart"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 672284594021015552,
+    "id_str": "672284594021015552",
+    "in_reply_to_screen_name": "Walmart",
+    "in_reply_to_status_id": 672254222256234497,
+    "in_reply_to_status_id_str": "672254222256234497",
+    "in_reply_to_user_id": 17137891,
+    "in_reply_to_user_id_str": "17137891",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -77.144435,
+                        38.789907
+                    ],
+                    [
+                        -77.037304,
+                        38.789907
+                    ],
+                    [
+                        -77.037304,
+                        38.8448531
+                    ],
+                    [
+                        -77.144435,
+                        38.8448531
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Alexandria, VA",
+        "id": "d6819fe60643ebc1",
+        "name": "Alexandria",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/d6819fe60643ebc1.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@Walmart Just finished my corporate feedback survey. I hope that some action will be taken to benefit customers in the future.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Sep 23 17:59:16 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "@OUHTC @scrippsjschool alumna @AAUWFellowships Program Asst.| reader | writer | thinker | doer | https://t.co/jmj2UjVcuS",
+        "entities": {
+            "description": {
+                "urls": [
+                    {
+                        "display_url": "yourfavoritegringa.wordpress.com",
+                        "expanded_url": "http://yourfavoritegringa.wordpress.com",
+                        "indices": [
+                            97,
+                            120
+                        ],
+                        "url": "https://t.co/jmj2UjVcuS"
+                    }
+                ]
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "linkedin.com/in/seairachris\u2026",
+                        "expanded_url": "http://www.linkedin.com/in/seairachristiandaniels/",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/Ii2MQVYvCw"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 895,
+        "follow_request_sent": false,
+        "followers_count": 444,
+        "following": false,
+        "friends_count": 366,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 378720709,
+        "id_str": "378720709",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 17,
+        "location": "Where I feel like Tiffany's",
+        "name": "Seaira C-Daniels",
+        "notifications": false,
+        "profile_background_color": "DE10C9",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/789871418/82ff10d4d2fbf15fc81d7fd8e81069ff.png",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/789871418/82ff10d4d2fbf15fc81d7fd8e81069ff.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/378720709/1446309405",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/660495633699241984/kUt68gXR_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/660495633699241984/kUt68gXR_normal.jpg",
+        "profile_link_color": "E010C1",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "seairacdaniels",
+        "statuses_count": 2467,
+        "time_zone": null,
+        "url": "https://t.co/Ii2MQVYvCw",
+        "utc_offset": null,
+        "verified": false
+    }
+}
