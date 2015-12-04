@@ -1,0 +1,157 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Dec 02 18:55:24 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 258719649,
+                "id_str": "258719649",
+                "indices": [
+                    0,
+                    13
+                ],
+                "name": "TalkTalk",
+                "screen_name": "TalkTalkCare"
+            },
+            {
+                "id": 17043413,
+                "id_str": "17043413",
+                "indices": [
+                    14,
+                    26
+                ],
+                "name": "TalkTalk",
+                "screen_name": "TalkTalk_UK"
+            },
+            {
+                "id": 20427376,
+                "id_str": "20427376",
+                "indices": [
+                    64,
+                    76
+                ],
+                "name": "Channel 5",
+                "screen_name": "channel5_tv"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 672126940258652160,
+    "id_str": "672126940258652160",
+    "in_reply_to_screen_name": "TalkTalkCare",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 258719649,
+    "in_reply_to_user_id_str": "258719649",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -2.6896487528799,
+                        54.4511368492598
+                    ],
+                    [
+                        -0.789589998657534,
+                        54.4511368492598
+                    ],
+                    [
+                        -0.789589998657534,
+                        55.8116995493485
+                    ],
+                    [
+                        -2.6896487528799,
+                        55.8116995493485
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United Kingdom",
+        "country_code": "GB",
+        "full_name": "North East, England",
+        "id": "67bc7263f7b9047b",
+        "name": "North East",
+        "place_type": "admin",
+        "url": "https://api.twitter.com/1.1/geo/id/67bc7263f7b9047b.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@TalkTalkCare @TalkTalk_UK How come your agents don't know that @channel5_tv is a television channel?!",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Feb 09 21:01:30 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Customer Service rep for Sony Xperia UK.  All views are my own.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "walfordweb.com/index/",
+                        "expanded_url": "http://walfordweb.com/index/",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/jQU7992h3F"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 402,
+        "follow_request_sent": false,
+        "followers_count": 260,
+        "following": false,
+        "friends_count": 947,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 20466840,
+        "id_str": "20466840",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 8,
+        "location": "Newcastle Upon Tyne, England",
+        "name": "Louise",
+        "notifications": false,
+        "profile_background_color": "9AE4E8",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/4367706/robbyrobot.gif",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/4367706/robbyrobot.gif",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/20466840/1419434368",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/427952312607596544/nNn2FAYy_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/427952312607596544/nNn2FAYy_normal.jpeg",
+        "profile_link_color": "9266CC",
+        "profile_sidebar_border_color": "BDDCAD",
+        "profile_sidebar_fill_color": "DDFFCC",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "RobbyRSSRobot",
+        "statuses_count": 9094,
+        "time_zone": "London",
+        "url": "http://t.co/jQU7992h3F",
+        "utc_offset": 0,
+        "verified": false
+    }
+}
