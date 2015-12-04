@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Dec 03 12:58:15 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 20793816,
+                "id_str": "20793816",
+                "indices": [
+                    0,
+                    7
+                ],
+                "name": "Amazon",
+                "screen_name": "amazon"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 672399445682622468,
+    "id_str": "672399445682622468",
+    "in_reply_to_screen_name": "amazon",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 20793816,
+    "in_reply_to_user_id_str": "20793816",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -77.119953,
+                        39.109016
+                    ],
+                    [
+                        -77.027505,
+                        39.109016
+                    ],
+                    [
+                        -77.027505,
+                        39.185167
+                    ],
+                    [
+                        -77.119953,
+                        39.185167
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Olney, MD",
+        "id": "7b117cdec2df9ae0",
+        "name": "Olney",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/7b117cdec2df9ae0.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@amazon couldn't you just get the drones up same day cause that would be a bless.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Dec 15 23:01:00 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Chuck $ - works at Camp Wachusett #WACHUSETTFAM|#POH OpalOctober|camp is life unalyi #since97|GC 16 The Pines..follow me on twitch: Chuckmoney301",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "DMVtoVT.com",
+                        "expanded_url": "http://www.DMVtoVT.com",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/SowHJsl3VC"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 344,
+        "follow_request_sent": false,
+        "followers_count": 497,
+        "following": false,
+        "friends_count": 1929,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 437872668,
+        "id_str": "437872668",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 1,
+        "location": "DMV\u2708\ufe0fVT ",
+        "name": "Chuck$",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/539215941138014208/Kn9XAMc3.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/539215941138014208/Kn9XAMc3.jpeg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/437872668/1438700837",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/635238584505790464/YTU0Bkvy_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/635238584505790464/YTU0Bkvy_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "charlaythtkid",
+        "statuses_count": 3413,
+        "time_zone": "Atlantic Time (Canada)",
+        "url": "https://t.co/SowHJsl3VC",
+        "utc_offset": -14400,
+        "verified": false
+    }
+}

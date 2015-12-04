@@ -1,0 +1,152 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Dec 03 20:55:41 +0000 2015",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    73,
+                    82
+                ],
+                "text": "hormones"
+            },
+            {
+                "indices": [
+                    83,
+                    89
+                ],
+                "text": "13wks"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 20793816,
+                "id_str": "20793816",
+                "indices": [
+                    0,
+                    7
+                ],
+                "name": "Amazon",
+                "screen_name": "amazon"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 672519596583182336,
+    "id_str": "672519596583182336",
+    "in_reply_to_screen_name": "amazon",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 20793816,
+    "in_reply_to_user_id_str": "20793816",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -106.8249536,
+                        52.069634
+                    ],
+                    [
+                        -106.5036955,
+                        52.069634
+                    ],
+                    [
+                        -106.5036955,
+                        52.2305208
+                    ],
+                    [
+                        -106.8249536,
+                        52.2305208
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "Canada",
+        "country_code": "CA",
+        "full_name": "Saskatoon, Saskatchewan",
+        "id": "4bb41f9d86e16416",
+        "name": "Saskatoon",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/4bb41f9d86e16416.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@amazon prime commercial with the puppy and its cast? \n\nYup. Welling up.\n#hormones\n#13wks",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Aug 30 05:39:11 +0000 2008",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "28. Arbonne Independent Consultant. PT Retail Replenishment. A big believer of the Eff It adjustment.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "Alyssalinzmeyer.arbonne.com",
+                        "expanded_url": "http://Alyssalinzmeyer.arbonne.com",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/7lyUtIpdjv"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 493,
+        "follow_request_sent": false,
+        "followers_count": 88,
+        "following": false,
+        "friends_count": 330,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 16052001,
+        "id_str": "16052001",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 10,
+        "location": "Saskatoon, SK, Canada",
+        "name": "Miss Lyss",
+        "notifications": false,
+        "profile_background_color": "0099B9",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/110159817/233508614_52027e9e6f_b.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/110159817/233508614_52027e9e6f_b.jpg",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/16052001/1414791189",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/667527776035930113/NPTt7xfg_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/667527776035930113/NPTt7xfg_normal.jpg",
+        "profile_link_color": "0099B9",
+        "profile_sidebar_border_color": "5ED4DC",
+        "profile_sidebar_fill_color": "95E8EC",
+        "profile_text_color": "3C3940",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "lyss010387",
+        "statuses_count": 4935,
+        "time_zone": "Mountain Time (US & Canada)",
+        "url": "http://t.co/7lyUtIpdjv",
+        "utc_offset": -25200,
+        "verified": false
+    }
+}

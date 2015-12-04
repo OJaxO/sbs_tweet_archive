@@ -1,0 +1,132 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Dec 03 01:41:53 +0000 2015",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    125,
+                    133
+                ],
+                "text": "winning"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 20793816,
+                "id_str": "20793816",
+                "indices": [
+                    0,
+                    7
+                ],
+                "name": "Amazon",
+                "screen_name": "amazon"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 672229233691725824,
+    "id_str": "672229233691725824",
+    "in_reply_to_screen_name": "amazon",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 20793816,
+    "in_reply_to_user_id_str": "20793816",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -87.825639,
+                        41.704079
+                    ],
+                    [
+                        -87.78989,
+                        41.704079
+                    ],
+                    [
+                        -87.78989,
+                        41.769952
+                    ],
+                    [
+                        -87.825639,
+                        41.769952
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Bridgeview, IL",
+        "id": "3043553c157634be",
+        "name": "Bridgeview",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/3043553c157634be.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@amazon free same day delivery for prime members.. Amazing! Almost done with Christmas shopping. Never went to a store \ud83d\udc97\ud83d\ude02\ud83d\ude4c\ud83c\udffb\ud83c\udf84 #winning",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Feb 11 17:13:47 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Meeting Planner. Love my job and traveling! Music, Dancing, TV, and movies are my other favorites. My fiance and my 2 toddlers are my number one loves!",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 173,
+        "follow_request_sent": false,
+        "followers_count": 119,
+        "following": false,
+        "friends_count": 142,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 20603699,
+        "id_str": "20603699",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 2,
+        "location": "Chicago, IL",
+        "name": "Marisol Massini",
+        "notifications": false,
+        "profile_background_color": "9AE4E8",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/20603699/1435404455",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/629276686115323904/YdvAJR2k_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/629276686115323904/YdvAJR2k_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "BDDCAD",
+        "profile_sidebar_fill_color": "DDFFCC",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "MarisolM",
+        "statuses_count": 437,
+        "time_zone": "Central Time (US & Canada)",
+        "url": null,
+        "utc_offset": -21600,
+        "verified": false
+    }
+}

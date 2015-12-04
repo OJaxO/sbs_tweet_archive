@@ -1,0 +1,147 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Dec 03 03:36:49 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 20793816,
+                "id_str": "20793816",
+                "indices": [
+                    0,
+                    7
+                ],
+                "name": "Amazon",
+                "screen_name": "amazon"
+            },
+            {
+                "id": 19709040,
+                "id_str": "19709040",
+                "indices": [
+                    52,
+                    57
+                ],
+                "name": "eBay",
+                "screen_name": "eBay"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 672258157805248512,
+    "id_str": "672258157805248512",
+    "in_reply_to_screen_name": "amazon",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 20793816,
+    "in_reply_to_user_id_str": "20793816",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -80.519851,
+                        39.719801
+                    ],
+                    [
+                        -74.689517,
+                        39.719801
+                    ],
+                    [
+                        -74.689517,
+                        42.516072
+                    ],
+                    [
+                        -80.519851,
+                        42.516072
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Pennsylvania, USA",
+        "id": "dd9c503d6c35364b",
+        "name": "Pennsylvania",
+        "place_type": "admin",
+        "url": "https://api.twitter.com/1.1/geo/id/dd9c503d6c35364b.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@amazon thank you for never letting me down, unlike @eBay \ud83d\ude11 I'm sorry I went with them on this purchase and not you \ud83d\ude2d",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Oct 17 04:48:07 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "a bearded bass player with a nice ass is all I need",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "amazon.com/registry/wishl\u2026",
+                        "expanded_url": "https://www.amazon.com/registry/wishlist/19U4BSB66WT2N/ref=cm_sw_r_ip_wl_o_5hYawbJ80A48E",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/XA0UgPY33m"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 118,
+        "follow_request_sent": false,
+        "followers_count": 449,
+        "following": false,
+        "friends_count": 409,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 83058055,
+        "id_str": "83058055",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 4,
+        "location": "Greencastle, PA United States",
+        "name": "emmy \u2693",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/517139759085268992/b2FLZr_P.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/517139759085268992/b2FLZr_P.jpeg",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/83058055/1448090038",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/666456987182436352/7O_WcqvU_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/666456987182436352/7O_WcqvU_normal.jpg",
+        "profile_link_color": "00FF6A",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "E3E2DE",
+        "profile_text_color": "634047",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "emilyloren94",
+        "statuses_count": 48334,
+        "time_zone": "Eastern Time (US & Canada)",
+        "url": "https://t.co/XA0UgPY33m",
+        "utc_offset": -18000,
+        "verified": false
+    }
+}

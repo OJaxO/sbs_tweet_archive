@@ -1,0 +1,124 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Dec 03 17:31:57 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 20793816,
+                "id_str": "20793816",
+                "indices": [
+                    0,
+                    7
+                ],
+                "name": "Amazon",
+                "screen_name": "amazon"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 672468326866542592,
+    "id_str": "672468326866542592",
+    "in_reply_to_screen_name": "amazon",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 20793816,
+    "in_reply_to_user_id_str": "20793816",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -122.411014,
+                        47.208701
+                    ],
+                    [
+                        -122.411014,
+                        47.208701
+                    ],
+                    [
+                        -122.411014,
+                        47.208701
+                    ],
+                    [
+                        -122.411014,
+                        47.208701
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Eastside Tacoma",
+        "id": "07d9d8bd99088001",
+        "name": "Eastside Tacoma",
+        "place_type": "poi",
+        "url": "https://api.twitter.com/1.1/geo/id/07d9d8bd99088001.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@amazon if I order something y'all gonna deliver it with that drone? Idk if you want that to land where I live someone's liable to snatch it",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Aug 10 21:32:42 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "My actions shall always match ny words!!! Snapchat-- chrissyhusstle",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 622,
+        "follow_request_sent": false,
+        "followers_count": 483,
+        "following": false,
+        "friends_count": 298,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 352616017,
+        "id_str": "352616017",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 1,
+        "location": "",
+        "name": "Chrissy200  25/08",
+        "notifications": false,
+        "profile_background_color": "BADFCD",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/664709572/1daaff5362eb3ce8318ab42ea48c0413.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/664709572/1daaff5362eb3ce8318ab42ea48c0413.jpeg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/352616017/1444760455",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/671855787451416576/YzO7aSr7_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/671855787451416576/YzO7aSr7_normal.jpg",
+        "profile_link_color": "FF0000",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "FFF7CC",
+        "profile_text_color": "0C3E53",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "ChrissyHusstle",
+        "statuses_count": 36101,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": null,
+        "utc_offset": -28800,
+        "verified": false
+    }
+}

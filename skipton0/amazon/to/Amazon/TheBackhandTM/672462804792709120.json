@@ -1,0 +1,182 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Dec 03 17:10:01 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "media": [
+            {
+                "display_url": "pic.twitter.com/bhRsRprSzG",
+                "expanded_url": "http://twitter.com/TheBackhandTM/status/672462804792709120/photo/1",
+                "id": 672462802641010688,
+                "id_str": "672462802641010688",
+                "indices": [
+                    8,
+                    31
+                ],
+                "media_url": "http://pbs.twimg.com/media/CVURWywUwAAR8LW.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/CVURWywUwAAR8LW.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 768,
+                        "resize": "fit",
+                        "w": 1024
+                    },
+                    "medium": {
+                        "h": 450,
+                        "resize": "fit",
+                        "w": 600
+                    },
+                    "small": {
+                        "h": 255,
+                        "resize": "fit",
+                        "w": 340
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/bhRsRprSzG"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 20793816,
+                "id_str": "20793816",
+                "indices": [
+                    0,
+                    7
+                ],
+                "name": "Amazon",
+                "screen_name": "amazon"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 672462804792709120,
+    "id_str": "672462804792709120",
+    "in_reply_to_screen_name": "amazon",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 20793816,
+    "in_reply_to_user_id_str": "20793816",
+    "is_quote_status": false,
+    "lang": "und",
+    "metadata": {
+        "iso_language_code": "und",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -124.482003,
+                        32.528832
+                    ],
+                    [
+                        -114.131212,
+                        32.528832
+                    ],
+                    [
+                        -114.131212,
+                        42.009519
+                    ],
+                    [
+                        -124.482003,
+                        42.009519
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "California, USA",
+        "id": "fbd6d2f5a4e4a15e",
+        "name": "California",
+        "place_type": "admin",
+        "url": "https://api.twitter.com/1.1/geo/id/fbd6d2f5a4e4a15e.json"
+    },
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@amazon https://t.co/bhRsRprSzG",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Apr 29 09:09:04 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Disrupting the mobile world. The hands free era is here...2015 Big \u2764 to @LikeMike for the follow! https://t.co/9nRYZvoe7n https://t.co/IosSe8TCXy",
+        "entities": {
+            "description": {
+                "urls": [
+                    {
+                        "display_url": "instagram.com/backhand_biz",
+                        "expanded_url": "http://instagram.com/backhand_biz",
+                        "indices": [
+                            98,
+                            121
+                        ],
+                        "url": "https://t.co/9nRYZvoe7n"
+                    },
+                    {
+                        "display_url": "bit.ly/1XIUP2B",
+                        "expanded_url": "http://bit.ly/1XIUP2B",
+                        "indices": [
+                            122,
+                            145
+                        ],
+                        "url": "https://t.co/IosSe8TCXy"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 1641,
+        "follow_request_sent": false,
+        "followers_count": 1374,
+        "following": false,
+        "friends_count": 1331,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 36321338,
+        "id_str": "36321338",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 142,
+        "location": "California, USA",
+        "name": "Rider",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/633738091392438273/c3IjJlQb.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/633738091392438273/c3IjJlQb.jpg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/36321338/1449010659",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/664306097126117376/ROaUuHI4_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/664306097126117376/ROaUuHI4_normal.jpg",
+        "profile_link_color": "DD2E44",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "TheBackhandTM",
+        "statuses_count": 5051,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": null,
+        "utc_offset": -28800,
+        "verified": false
+    }
+}

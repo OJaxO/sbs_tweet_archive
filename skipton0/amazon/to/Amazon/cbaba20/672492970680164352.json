@@ -1,0 +1,201 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Dec 03 19:09:53 +0000 2015",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    89,
+                    102
+                ],
+                "text": "customerTest"
+            },
+            {
+                "indices": [
+                    103,
+                    112
+                ],
+                "text": "FanVoice"
+            }
+        ],
+        "media": [
+            {
+                "display_url": "pic.twitter.com/OXsVMnTgyj",
+                "expanded_url": "http://twitter.com/cbaba20/status/672492970680164352/photo/1",
+                "id": 672492949653950464,
+                "id_str": "672492949653950464",
+                "indices": [
+                    113,
+                    136
+                ],
+                "media_url": "http://pbs.twimg.com/media/CVUsxlIUEAAm7ue.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/CVUsxlIUEAAm7ue.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 1820,
+                        "resize": "fit",
+                        "w": 1024
+                    },
+                    "medium": {
+                        "h": 1066,
+                        "resize": "fit",
+                        "w": 600
+                    },
+                    "small": {
+                        "h": 604,
+                        "resize": "fit",
+                        "w": 340
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/OXsVMnTgyj"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 20793816,
+                "id_str": "20793816",
+                "indices": [
+                    0,
+                    7
+                ],
+                "name": "Amazon",
+                "screen_name": "amazon"
+            },
+            {
+                "id": 1282946089,
+                "id_str": "1282946089",
+                "indices": [
+                    8,
+                    17
+                ],
+                "name": "Amazon.in",
+                "screen_name": "amazonIN"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 672492970680164352,
+    "id_str": "672492970680164352",
+    "in_reply_to_screen_name": "amazon",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 20793816,
+    "in_reply_to_user_id_str": "20793816",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        72.9585876,
+                        18.9867273
+                    ],
+                    [
+                        73.1131826,
+                        18.9867273
+                    ],
+                    [
+                        73.1131826,
+                        19.206734
+                    ],
+                    [
+                        72.9585876,
+                        19.206734
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "India",
+        "country_code": "IN",
+        "full_name": "Navi Mumbai, Maharashtra",
+        "id": "514d0719e0a80a43",
+        "name": "Navi Mumbai",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/514d0719e0a80a43.json"
+    },
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@amazon @amazonIN really :O Is this cost this much?rectify this error :) so I can buy :) #customerTest #FanVoice https://t.co/OXsVMnTgyj",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Jun 21 20:19:25 +0000 2012",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Mozillian,Comics Lover,Blogger,Mvc Devloper and Constantly good at failing ;)",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "cbaba20.wordpress.com",
+                        "expanded_url": "http://cbaba20.wordpress.com",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/zFdsaV66pQ"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 346,
+        "follow_request_sent": false,
+        "followers_count": 298,
+        "following": false,
+        "friends_count": 251,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 614548576,
+        "id_str": "614548576",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 10,
+        "location": "Maharashtra, India",
+        "name": "Chandan Kumar Baba",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme12/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme12/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/614548576/1441217271",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/508924573220237312/w3Me8nAQ_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/508924573220237312/w3Me8nAQ_normal.jpeg",
+        "profile_link_color": "3B94D9",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "cbaba20",
+        "statuses_count": 3577,
+        "time_zone": "New Delhi",
+        "url": "https://t.co/zFdsaV66pQ",
+        "utc_offset": 19800,
+        "verified": false
+    }
+}

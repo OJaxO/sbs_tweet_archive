@@ -1,0 +1,289 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Dec 03 21:58:15 +0000 2015",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    62,
+                    73
+                ],
+                "text": "HighCastle"
+            }
+        ],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/lcshorten/stat\u2026",
+                "expanded_url": "https://twitter.com/lcshorten/status/672534501944197120",
+                "indices": [
+                    75,
+                    98
+                ],
+                "url": "https://t.co/G0kJrJkbCC"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 20793816,
+                "id_str": "20793816",
+                "indices": [
+                    0,
+                    7
+                ],
+                "name": "Amazon",
+                "screen_name": "amazon"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 672535342906408960,
+    "id_str": "672535342906408960",
+    "in_reply_to_screen_name": "amazon",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 20793816,
+    "in_reply_to_user_id_str": "20793816",
+    "is_quote_status": true,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -112.3239143,
+                        33.29026
+                    ],
+                    [
+                        -111.9254391,
+                        33.29026
+                    ],
+                    [
+                        -111.9254391,
+                        33.8154652
+                    ],
+                    [
+                        -112.3239143,
+                        33.8154652
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Phoenix, AZ",
+        "id": "5c62ffb0f0f3479d",
+        "name": "Phoenix",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/5c62ffb0f0f3479d.json"
+    },
+    "possibly_sensitive": false,
+    "quoted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Thu Dec 03 21:54:55 +0000 2015",
+        "entities": {
+            "hashtags": [
+                {
+                    "indices": [
+                        113,
+                        124
+                    ],
+                    "text": "HighCastle"
+                }
+            ],
+            "symbols": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "id": 9883192,
+                    "id_str": "9883192",
+                    "indices": [
+                        0,
+                        14
+                    ],
+                    "name": "chris faulkner",
+                    "screen_name": "chrisfaulkner"
+                }
+            ]
+        },
+        "favorite_count": 0,
+        "favorited": false,
+        "geo": null,
+        "id": 672534501944197120,
+        "id_str": "672534501944197120",
+        "in_reply_to_screen_name": "chrisfaulkner",
+        "in_reply_to_status_id": 672522215124918272,
+        "in_reply_to_status_id_str": "672522215124918272",
+        "in_reply_to_user_id": 9883192,
+        "in_reply_to_user_id_str": "9883192",
+        "is_quote_status": false,
+        "lang": "en",
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "place": null,
+        "retweet_count": 0,
+        "retweeted": false,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": "@chrisfaulkner sadly it's out of my hands. But it's nice to have a show people are invested in. Fingers crossed. #HighCastle",
+        "truncated": false,
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Sat Apr 06 06:58:33 +0000 2013",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "Sergeant Yoshida on Man in the High Castle. Sometimes I hang out with Crowley on Supernatural too. https://t.co/sodSAWzDzZ\n\nhttps://t.co/ob7uUcLQzt",
+            "entities": {
+                "description": {
+                    "urls": [
+                        {
+                            "display_url": "imdb.me/leeshorten",
+                            "expanded_url": "http://imdb.me/leeshorten",
+                            "indices": [
+                                99,
+                                122
+                            ],
+                            "url": "https://t.co/sodSAWzDzZ"
+                        },
+                        {
+                            "display_url": "facebook.com/lcshorten/",
+                            "expanded_url": "http://facebook.com/lcshorten/",
+                            "indices": [
+                                124,
+                                147
+                            ],
+                            "url": "https://t.co/ob7uUcLQzt"
+                        }
+                    ]
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "instagram.com/lcshorten",
+                            "expanded_url": "http://instagram.com/lcshorten",
+                            "indices": [
+                                0,
+                                23
+                            ],
+                            "url": "https://t.co/EtMm3YlJUx"
+                        }
+                    ]
+                }
+            },
+            "favourites_count": 1860,
+            "follow_request_sent": false,
+            "followers_count": 546,
+            "following": false,
+            "friends_count": 169,
+            "geo_enabled": false,
+            "has_extended_profile": false,
+            "id": 1330917751,
+            "id_str": "1330917751",
+            "is_translation_enabled": false,
+            "is_translator": false,
+            "lang": "en",
+            "listed_count": 16,
+            "location": "Canada ",
+            "name": "Lee Shorten",
+            "notifications": false,
+            "profile_background_color": "1A1B1F",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000173061368/riCByEhZ.jpeg",
+            "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000173061368/riCByEhZ.jpeg",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1330917751/1446690318",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/657200931474272256/5pkSRv0O_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/657200931474272256/5pkSRv0O_normal.jpg",
+            "profile_link_color": "2FC2EF",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "F6F6F6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": false,
+            "protected": false,
+            "screen_name": "lcshorten",
+            "statuses_count": 2366,
+            "time_zone": "Eastern Time (US & Canada)",
+            "url": "https://t.co/EtMm3YlJUx",
+            "utc_offset": -18000,
+            "verified": false
+        }
+    },
+    "quoted_status_id": 672534501944197120,
+    "quoted_status_id_str": "672534501944197120",
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@amazon please don't screw this up. There MUST be a season 2. #HighCastle  https://t.co/G0kJrJkbCC",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Nov 02 12:46:27 +0000 2007",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Lover of @AngelaFaulkner . Political Consultant. Football/Showbiz Dad. Former Marine. Foodie. Semi-professional Disney World tour guide. Old fat Crossfitter.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "gridironcommunications.com",
+                        "expanded_url": "http://www.gridironcommunications.com",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/mOw3WF3bM7"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 331,
+        "follow_request_sent": false,
+        "followers_count": 4061,
+        "following": false,
+        "friends_count": 1619,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 9883192,
+        "id_str": "9883192",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 208,
+        "location": "Los Angeles",
+        "name": "chris faulkner",
+        "notifications": false,
+        "profile_background_color": "022330",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/9883192/1370098331",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/2387039673/7g5q5fs1n4rkeftecgid_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/2387039673/7g5q5fs1n4rkeftecgid_normal.jpeg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "A8C7F7",
+        "profile_sidebar_fill_color": "C0DFEC",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "chrisfaulkner",
+        "statuses_count": 19188,
+        "time_zone": "Eastern Time (US & Canada)",
+        "url": "http://t.co/mOw3WF3bM7",
+        "utc_offset": -18000,
+        "verified": false
+    }
+}

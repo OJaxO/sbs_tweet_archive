@@ -1,0 +1,184 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Dec 03 15:26:31 +0000 2015",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    75,
+                    90
+                ],
+                "text": "favoritethings"
+            }
+        ],
+        "media": [
+            {
+                "display_url": "pic.twitter.com/eaSf5v01MH",
+                "expanded_url": "http://twitter.com/OhMyJenniferZ/status/672436759343603712/photo/1",
+                "id": 672436758450036736,
+                "id_str": "672436758450036736",
+                "indices": [
+                    91,
+                    114
+                ],
+                "media_url": "http://pbs.twimg.com/media/CVT5q0lUYAAkYZO.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/CVT5q0lUYAAkYZO.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 236,
+                        "resize": "fit",
+                        "w": 635
+                    },
+                    "medium": {
+                        "h": 222,
+                        "resize": "fit",
+                        "w": 600
+                    },
+                    "small": {
+                        "h": 126,
+                        "resize": "fit",
+                        "w": 340
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/eaSf5v01MH"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 20793816,
+                "id_str": "20793816",
+                "indices": [
+                    0,
+                    7
+                ],
+                "name": "Amazon",
+                "screen_name": "amazon"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 672436759343603712,
+    "id_str": "672436759343603712",
+    "in_reply_to_screen_name": "amazon",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 20793816,
+    "in_reply_to_user_id_str": "20793816",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -74.026675,
+                        40.683935
+                    ],
+                    [
+                        -73.910408,
+                        40.683935
+                    ],
+                    [
+                        -73.910408,
+                        40.877483
+                    ],
+                    [
+                        -74.026675,
+                        40.877483
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Manhattan, NY",
+        "id": "01a9a39529b27f36",
+        "name": "Manhattan",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/01a9a39529b27f36.json"
+    },
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@amazon = amazing. excited for my brown paper package tied up in string... #favoritethings https://t.co/eaSf5v01MH",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Jun 15 20:09:03 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Marketing Strategy & Branding + MSc Integrated Marketing at NYU  + #GourmetExpectations.net blogger + an ENFJ who \u2665's wine and hates cardio.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "linkedin.com/in/JenniferMar\u2026",
+                        "expanded_url": "http://www.linkedin.com/in/JenniferMarketing",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/LsgJyKbdhY"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 2271,
+        "follow_request_sent": false,
+        "followers_count": 1922,
+        "following": false,
+        "friends_count": 1752,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 156017680,
+        "id_str": "156017680",
+        "is_translation_enabled": true,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 81,
+        "location": "New York City",
+        "name": "Jennifer Z.",
+        "notifications": false,
+        "profile_background_color": "DBE9ED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/156017680/1421528404",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/643243274371776512/TY3rp69E_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/643243274371776512/TY3rp69E_normal.jpg",
+        "profile_link_color": "CC3366",
+        "profile_sidebar_border_color": "DBE9ED",
+        "profile_sidebar_fill_color": "E6F6F9",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "OhMyJenniferZ",
+        "statuses_count": 1379,
+        "time_zone": "Eastern Time (US & Canada)",
+        "url": "http://t.co/LsgJyKbdhY",
+        "utc_offset": -18000,
+        "verified": false
+    }
+}
