@@ -1,0 +1,158 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Dec 03 22:58:18 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "newsroom.cisco.com/imaginecisco",
+                "expanded_url": "http://newsroom.cisco.com/imaginecisco",
+                "indices": [
+                    105,
+                    128
+                ],
+                "url": "https://t.co/znFSnSW4ka"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 15749983,
+                "id_str": "15749983",
+                "indices": [
+                    0,
+                    6
+                ],
+                "name": "Cisco",
+                "screen_name": "Cisco"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 672550456787263488,
+    "id_str": "672550456787263488",
+    "in_reply_to_screen_name": "Cisco",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 15749983,
+    "in_reply_to_user_id_str": "15749983",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -112.3239143,
+                        33.29026
+                    ],
+                    [
+                        -111.9254391,
+                        33.29026
+                    ],
+                    [
+                        -111.9254391,
+                        33.8154652
+                    ],
+                    [
+                        -112.3239143,
+                        33.8154652
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Phoenix, AZ",
+        "id": "5c62ffb0f0f3479d",
+        "name": "Phoenix",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/5c62ffb0f0f3479d.json"
+    },
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@Cisco is using Vine as part of an innovative content marketing play. Fun, engaging and highly sharable. https://t.co/znFSnSW4ka",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Mar 18 18:54:03 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Founder and Managing Partner at @YeagerMarketing. B2B technology marketer. @seedspot mentor. @BMAPhoenix. Contributor at http://t.co/Z9d2cXwSlx",
+        "entities": {
+            "description": {
+                "urls": [
+                    {
+                        "display_url": "entrepreneur.com/author/renee-y\u2026",
+                        "expanded_url": "http://www.entrepreneur.com/author/renee-yeager",
+                        "indices": [
+                            121,
+                            143
+                        ],
+                        "url": "http://t.co/Z9d2cXwSlx"
+                    }
+                ]
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "yeagermarketing.com",
+                        "expanded_url": "http://www.yeagermarketing.com",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/CN9awmz3vp"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 56,
+        "follow_request_sent": false,
+        "followers_count": 3743,
+        "following": false,
+        "friends_count": 3795,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 25127831,
+        "id_str": "25127831",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 79,
+        "location": "Phoenix, Arizona",
+        "name": "Renee Yeager",
+        "notifications": false,
+        "profile_background_color": "FFFFFF",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/628959848/aj9abzlkzngqccdananc.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/628959848/aj9abzlkzngqccdananc.jpeg",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/25127831/1417734060",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/576216633720451073/ROj7JSkE_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/576216633720451073/ROj7JSkE_normal.jpeg",
+        "profile_link_color": "6A9623",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DEDEDE",
+        "profile_text_color": "050505",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "reneeyeager",
+        "statuses_count": 3236,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "http://t.co/CN9awmz3vp",
+        "utc_offset": -28800,
+        "verified": false
+    }
+}

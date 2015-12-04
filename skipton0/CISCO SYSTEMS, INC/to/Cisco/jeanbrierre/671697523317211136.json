@@ -1,0 +1,156 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 01 14:29:03 +0000 2015",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    15,
+                    25
+                ],
+                "text": "Container"
+            }
+        ],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "enterprisetech.com/2015/11/30/cis\u2026",
+                "expanded_url": "http://www.enterprisetech.com/2015/11/30/cisco-expands-container-infrastructure-effort/",
+                "indices": [
+                    49,
+                    72
+                ],
+                "url": "https://t.co/YWXtrmHBBe"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 15749983,
+                "id_str": "15749983",
+                "indices": [
+                    0,
+                    6
+                ],
+                "name": "Cisco",
+                "screen_name": "Cisco"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 671697523317211136,
+    "id_str": "671697523317211136",
+    "in_reply_to_screen_name": "Cisco",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 15749983,
+    "in_reply_to_user_id_str": "15749983",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -96.977527,
+                        32.620678
+                    ],
+                    [
+                        -96.54598,
+                        32.620678
+                    ],
+                    [
+                        -96.54598,
+                        33.019039
+                    ],
+                    [
+                        -96.977527,
+                        33.019039
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Dallas, TX",
+        "id": "18810aa5b43e76c7",
+        "name": "Dallas",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/18810aa5b43e76c7.json"
+    },
+    "possibly_sensitive": true,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@Cisco Expands #Container Infrastructure Effort  https://t.co/YWXtrmHBBe",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Apr 17 15:36:12 +0000 2008",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Network and Security Cloud Architect Evangelizing #IaaS.and #Cloud services. Avid #Formula1 fan  .Dad to 2 wonderful girls",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "linkedin.com/profile/view?i\u2026",
+                        "expanded_url": "https://www.linkedin.com/profile/view?id=191149&trk=nav_responsive_tab_profile",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/CCG8raNewx"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 1132,
+        "follow_request_sent": false,
+        "followers_count": 347,
+        "following": false,
+        "friends_count": 531,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 14422050,
+        "id_str": "14422050",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 310,
+        "location": "Texas",
+        "name": "jeanbrierre",
+        "notifications": false,
+        "profile_background_color": "ACDED6",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/863601948/8f7030754309fc83acffff67efc45d79.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/863601948/8f7030754309fc83acffff67efc45d79.jpeg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/14422050/1384872027",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/378800000789923645/4cd39fddf074268f8ba7bc61cc009968_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000789923645/4cd39fddf074268f8ba7bc61cc009968_normal.jpeg",
+        "profile_link_color": "038543",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "F6F6F6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "jeanbrierre",
+        "statuses_count": 7072,
+        "time_zone": "Central Time (US & Canada)",
+        "url": "https://t.co/CCG8raNewx",
+        "utc_offset": -21600,
+        "verified": false
+    }
+}

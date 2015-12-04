@@ -1,0 +1,152 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 01 16:19:57 +0000 2015",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    61,
+                    69
+                ],
+                "text": "stophiv"
+            },
+            {
+                "indices": [
+                    79,
+                    92
+                ],
+                "text": "WorldAIDSDay"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 309728693,
+                "id_str": "309728693",
+                "indices": [
+                    0,
+                    15
+                ],
+                "name": "Gilead Sciences",
+                "screen_name": "GileadSciences"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 671725431448580097,
+    "id_str": "671725431448580097",
+    "in_reply_to_screen_name": "GileadSciences",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 309728693,
+    "in_reply_to_user_id_str": "309728693",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -71.191505,
+                        42.227797
+                    ],
+                    [
+                        -70.986004,
+                        42.227797
+                    ],
+                    [
+                        -70.986004,
+                        42.399542
+                    ],
+                    [
+                        -71.191505,
+                        42.399542
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Boston, MA",
+        "id": "67b98f17fdcf20be",
+        "name": "Boston",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/67b98f17fdcf20be.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@GileadSciences thank you for your hard work and research to #stophiv \u2764\ufe0f Happy #WorldAIDSDay !",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Oct 19 18:26:04 +0000 2015",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Women Connecting Affecting Change: a drop-in center providing marginalized women with the support they need to overcome barriers and transform their lives.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "mac-boston.org/departments/pr\u2026",
+                        "expanded_url": "http://www.mac-boston.org/departments/prevention-screening/women-of-color-aids-council-inc-.php",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/S7Zybjy4Wm"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 39,
+        "follow_request_sent": false,
+        "followers_count": 36,
+        "following": false,
+        "friends_count": 115,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 3996258975,
+        "id_str": "3996258975",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 0,
+        "location": "409 Blue Hill Avenue Boston",
+        "name": "WCAC",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3996258975/1445280297",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/656175762727391232/EGRG3ttz_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/656175762727391232/EGRG3ttz_normal.jpg",
+        "profile_link_color": "FFCC4D",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "WCACBoston",
+        "statuses_count": 79,
+        "time_zone": null,
+        "url": "https://t.co/S7Zybjy4Wm",
+        "utc_offset": null,
+        "verified": false
+    }
+}

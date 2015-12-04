@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Nov 30 14:53:50 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 15324722,
+                "id_str": "15324722",
+                "indices": [
+                    0,
+                    7
+                ],
+                "name": "Garmin",
+                "screen_name": "Garmin"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 671341370066407425,
+    "id_str": "671341370066407425",
+    "in_reply_to_screen_name": "Garmin",
+    "in_reply_to_status_id": 671193417834217472,
+    "in_reply_to_status_id_str": "671193417834217472",
+    "in_reply_to_user_id": 15324722,
+    "in_reply_to_user_id_str": "15324722",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -97.928935,
+                        30.127892
+                    ],
+                    [
+                        -97.5805133,
+                        30.127892
+                    ],
+                    [
+                        -97.5805133,
+                        30.5187994
+                    ],
+                    [
+                        -97.928935,
+                        30.5187994
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Austin, TX",
+        "id": "c3f37afa9efcf94b",
+        "name": "Austin",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/c3f37afa9efcf94b.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "text": "@Garmin touring plus, haven\u2019t ever cleared the history on it, 32gb card has plenty of room.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Dec 25 19:56:03 +0000 2008",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "I draw stuff and ride bikes.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "truemarmalade.com",
+                        "expanded_url": "http://truemarmalade.com",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/gow6FUfRRo"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 261,
+        "follow_request_sent": false,
+        "followers_count": 404,
+        "following": false,
+        "friends_count": 124,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 18378520,
+        "id_str": "18378520",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 43,
+        "location": "Austin, TX",
+        "name": "Erik B.",
+        "notifications": false,
+        "profile_background_color": "404041",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/701684068/3234cc4fd6a55d14d4c612f01862cfc4.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/701684068/3234cc4fd6a55d14d4c612f01862cfc4.jpeg",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/18378520/1373905051",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/666398444349583360/ETymzFj1_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/666398444349583360/ETymzFj1_normal.jpg",
+        "profile_link_color": "A87743",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "99CC33",
+        "profile_text_color": "3E4415",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "truemarmalade",
+        "statuses_count": 28077,
+        "time_zone": "Eastern Time (US & Canada)",
+        "url": "http://t.co/gow6FUfRRo",
+        "utc_offset": -18000,
+        "verified": false
+    }
+}

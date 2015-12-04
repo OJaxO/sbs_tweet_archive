@@ -1,0 +1,148 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Dec 03 22:54:25 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "newsroom.cisco.com/imaginecisco",
+                "expanded_url": "http://newsroom.cisco.com/imaginecisco",
+                "indices": [
+                    105,
+                    128
+                ],
+                "url": "https://t.co/QMm5gicfxk"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 15749983,
+                "id_str": "15749983",
+                "indices": [
+                    0,
+                    6
+                ],
+                "name": "Cisco",
+                "screen_name": "Cisco"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 672549478881095680,
+    "id_str": "672549478881095680",
+    "in_reply_to_screen_name": "Cisco",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 15749983,
+    "in_reply_to_user_id_str": "15749983",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -112.3239143,
+                        33.29026
+                    ],
+                    [
+                        -111.9254391,
+                        33.29026
+                    ],
+                    [
+                        -111.9254391,
+                        33.8154652
+                    ],
+                    [
+                        -112.3239143,
+                        33.8154652
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Phoenix, AZ",
+        "id": "5c62ffb0f0f3479d",
+        "name": "Phoenix",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/5c62ffb0f0f3479d.json"
+    },
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@Cisco is using Vine as part of an innovative content marketing play. Fun, engaging and highly sharable. https://t.co/QMm5gicfxk",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Mar 03 01:56:25 +0000 2012",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Yeager Marketing specializes in helping the world's leading B2B technology companies streamline customer acquisition and accelerate growth.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "yeagermarketing.com",
+                        "expanded_url": "http://yeagermarketing.com/",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/fIokqWAV1S"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 2,
+        "follow_request_sent": false,
+        "followers_count": 138,
+        "following": false,
+        "friends_count": 225,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 512670035,
+        "id_str": "512670035",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 8,
+        "location": "Phoenix, AZ",
+        "name": "Yeager Marketing",
+        "notifications": false,
+        "profile_background_color": "FFFFFF",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/512670035/1449179353",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/534483035702312962/WKZNexfo_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/534483035702312962/WKZNexfo_normal.jpeg",
+        "profile_link_color": "ABB8C2",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "YeagerMarketing",
+        "statuses_count": 246,
+        "time_zone": "Arizona",
+        "url": "http://t.co/fIokqWAV1S",
+        "utc_offset": -25200,
+        "verified": false
+    }
+}
