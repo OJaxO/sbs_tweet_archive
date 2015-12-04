@@ -1,0 +1,134 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Nov 28 12:45:40 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 42664060,
+                "id_str": "42664060",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "Santander UK",
+                "screen_name": "santanderuk"
+            },
+            {
+                "id": 22997105,
+                "id_str": "22997105",
+                "indices": [
+                    65,
+                    80
+                ],
+                "name": "The Co-operative",
+                "screen_name": "TheCooperative"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 670584342142459904,
+    "id_str": "670584342142459904",
+    "in_reply_to_screen_name": "santanderuk",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 42664060,
+    "in_reply_to_user_id_str": "42664060",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -3.062965,
+                        53.585124
+                    ],
+                    [
+                        -2.943696,
+                        53.585124
+                    ],
+                    [
+                        -2.943696,
+                        53.6801083
+                    ],
+                    [
+                        -3.062965,
+                        53.6801083
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United Kingdom",
+        "country_code": "GB",
+        "full_name": "Southport, England",
+        "id": "1d25440933eb512c",
+        "name": "Southport",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/1d25440933eb512c.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@santanderuk your ad says change your bank.  I did - from you to @TheCooperative",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Dec 14 21:39:23 +0000 2014",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Retired civil servant. Southport FC fan. Member of Rotary Club of Southport Sunrise.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 71,
+        "follow_request_sent": false,
+        "followers_count": 19,
+        "following": false,
+        "friends_count": 17,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 2922028829,
+        "id_str": "2922028829",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 0,
+        "location": "Southport UK",
+        "name": "Stuart Wharton",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2922028829/1419272532",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/625415722869596160/iMbmI9fS_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/625415722869596160/iMbmI9fS_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "stuartwharton22",
+        "statuses_count": 207,
+        "time_zone": null,
+        "url": null,
+        "utc_offset": null,
+        "verified": false
+    }
+}
