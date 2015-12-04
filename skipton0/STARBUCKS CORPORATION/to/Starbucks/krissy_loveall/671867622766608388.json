@@ -1,0 +1,136 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Dec 02 01:44:58 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 30973,
+                "id_str": "30973",
+                "indices": [
+                    0,
+                    10
+                ],
+                "name": "Starbucks Coffee",
+                "screen_name": "Starbucks"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 671867622766608388,
+    "id_str": "671867622766608388",
+    "in_reply_to_screen_name": "Starbucks",
+    "in_reply_to_status_id": 661431193829699584,
+    "in_reply_to_status_id_str": "661431193829699584",
+    "in_reply_to_user_id": 30973,
+    "in_reply_to_user_id_str": "30973",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -84.1846574,
+                        33.9659532
+                    ],
+                    [
+                        -84.083328,
+                        33.9659532
+                    ],
+                    [
+                        -84.083328,
+                        34.0507225
+                    ],
+                    [
+                        -84.1846574,
+                        34.0507225
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Duluth, GA",
+        "id": "ed71ac127b7ac5a2",
+        "name": "Duluth",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/ed71ac127b7ac5a2.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@Starbucks what does it mean special characters",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Nov 19 23:15:32 +0000 2015",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "\u062c\u0627\u0643\u0644\u064a\u0646 \u0643\u0631\u064a\u0633\u062a\u064a\u0646 \u0623\u062d\u0645\u062f.   MAKE SURE TO FOLLOW ME SO I CAN SHARE MY MOMENTS WITH YOU ,                        MY DARLING \u263a\ufe0fsinger/actress/model/dancer",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "m.youtube.com/user/cravetay",
+                        "expanded_url": "https://m.youtube.com/user/cravetay",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/GpvEETaWkk"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 145,
+        "follow_request_sent": false,
+        "followers_count": 13,
+        "following": false,
+        "friends_count": 73,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 4230089554,
+        "id_str": "4230089554",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 0,
+        "location": "Suwanee, GA",
+        "name": "JacquelineKristen",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/667484609328844800/n1s0BvNg_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/667484609328844800/n1s0BvNg_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "krissy_loveall",
+        "statuses_count": 155,
+        "time_zone": null,
+        "url": "https://t.co/GpvEETaWkk",
+        "utc_offset": null,
+        "verified": false
+    }
+}

@@ -1,0 +1,142 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Dec 03 14:42:08 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 258719649,
+                "id_str": "258719649",
+                "indices": [
+                    0,
+                    13
+                ],
+                "name": "TalkTalk",
+                "screen_name": "TalkTalkCare"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 672425592382472192,
+    "id_str": "672425592382472192",
+    "in_reply_to_screen_name": "TalkTalkCare",
+    "in_reply_to_status_id": 672425091842592768,
+    "in_reply_to_status_id_str": "672425091842592768",
+    "in_reply_to_user_id": 258719649,
+    "in_reply_to_user_id_str": "258719649",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -2.4113744,
+                        51.350545
+                    ],
+                    [
+                        -2.322492,
+                        51.350545
+                    ],
+                    [
+                        -2.322492,
+                        51.408754
+                    ],
+                    [
+                        -2.4113744,
+                        51.408754
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United Kingdom",
+        "country_code": "GB",
+        "full_name": "Bath, England",
+        "id": "1db4f0a70fc5c9db",
+        "name": "Bath",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/1db4f0a70fc5c9db.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@TalkTalkCare An engineer is scheduled for tomorrow AM, thanks. But is there a URL that shows me service outages for my number/area? Tx",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Sep 07 10:27:25 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Notes / Domino Consultant at http://t.co/va2WHLFu.  Owner of http://t.co/ghTOygnN.  Loves cats.  Not a morning person",
+        "entities": {
+            "description": {
+                "urls": [
+                    {
+                        "display_url": "We4IT.com",
+                        "expanded_url": "http://www.We4IT.com",
+                        "indices": [
+                            29,
+                            49
+                        ],
+                        "url": "http://t.co/va2WHLFu"
+                    },
+                    {
+                        "display_url": "caerkiefcottages.com",
+                        "expanded_url": "http://www.caerkiefcottages.com",
+                        "indices": [
+                            61,
+                            81
+                        ],
+                        "url": "http://t.co/ghTOygnN"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 352,
+        "follow_request_sent": false,
+        "followers_count": 405,
+        "following": false,
+        "friends_count": 436,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 72254516,
+        "id_str": "72254516",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 20,
+        "location": "Truro, Cornwall",
+        "name": "Simon Peek",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/712098136/de268ac8625e308c8a687709ca889d8f.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/712098136/de268ac8625e308c8a687709ca889d8f.jpeg",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/585390084775669762/TTGbetPf_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/585390084775669762/TTGbetPf_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "simonspeakeasy",
+        "statuses_count": 5848,
+        "time_zone": "London",
+        "url": null,
+        "utc_offset": 0,
+        "verified": false
+    }
+}
