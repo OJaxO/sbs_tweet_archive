@@ -1,0 +1,142 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 01 02:46:03 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "media": [
+            {
+                "display_url": "pic.twitter.com/oXJwR28Ku1",
+                "expanded_url": "http://twitter.com/zwiegnet/status/671520605678600192/photo/1",
+                "id": 671520605099823104,
+                "id_str": "671520605099823104",
+                "indices": [
+                    105,
+                    128
+                ],
+                "media_url": "http://pbs.twimg.com/media/CVG4brZUkAApwTj.png",
+                "media_url_https": "https://pbs.twimg.com/media/CVG4brZUkAApwTj.png",
+                "sizes": {
+                    "large": {
+                        "h": 66,
+                        "resize": "fit",
+                        "w": 924
+                    },
+                    "medium": {
+                        "h": 42,
+                        "resize": "fit",
+                        "w": 600
+                    },
+                    "small": {
+                        "h": 24,
+                        "resize": "fit",
+                        "w": 340
+                    },
+                    "thumb": {
+                        "h": 66,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/oXJwR28Ku1"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 127975950,
+                "id_str": "127975950",
+                "indices": [
+                    0,
+                    4
+                ],
+                "name": "Time Warner Cable",
+                "screen_name": "TWC"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 671520605678600192,
+    "id_str": "671520605678600192",
+    "in_reply_to_screen_name": "TWC",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 127975950,
+    "in_reply_to_user_id_str": "127975950",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@TWC Please fix both your DNS Servers, I rebooted my modem. 2000ms response time means it stops working. https://t.co/oXJwR28Ku1",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Apr 16 19:29:47 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "zwiegnet.com",
+                        "expanded_url": "http://www.zwiegnet.com",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/2JciazZhow"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 10,
+        "follow_request_sent": false,
+        "followers_count": 36,
+        "following": false,
+        "friends_count": 42,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 283188750,
+        "id_str": "283188750",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 8,
+        "location": "Milwaukee, WI",
+        "name": "Andrew Zwieg",
+        "notifications": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1313907244/66263313J_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1313907244/66263313J_normal.jpeg",
+        "profile_link_color": "009999",
+        "profile_sidebar_border_color": "EEEEEE",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "zwiegnet",
+        "statuses_count": 1638,
+        "time_zone": "Central Time (US & Canada)",
+        "url": "http://t.co/2JciazZhow",
+        "utc_offset": -21600,
+        "verified": false
+    }
+}

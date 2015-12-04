@@ -1,0 +1,240 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 01 02:55:08 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/andrewrocco/st\u2026",
+                "expanded_url": "https://twitter.com/andrewrocco/status/671521538869469184",
+                "indices": [
+                    75,
+                    98
+                ],
+                "url": "https://t.co/YTzufdu4rF"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 127975950,
+                "id_str": "127975950",
+                "indices": [
+                    0,
+                    4
+                ],
+                "name": "Time Warner Cable",
+                "screen_name": "TWC"
+            },
+            {
+                "id": 110782268,
+                "id_str": "110782268",
+                "indices": [
+                    5,
+                    14
+                ],
+                "name": "TWC Help",
+                "screen_name": "TWC_Help"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 671522892035719169,
+    "id_str": "671522892035719169",
+    "in_reply_to_screen_name": "TWC",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 127975950,
+    "in_reply_to_user_id_str": "127975950",
+    "is_quote_status": true,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": null,
+    "possibly_sensitive": false,
+    "quoted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Tue Dec 01 02:49:45 +0000 2015",
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "urls": [],
+            "user_mentions": []
+        },
+        "favorite_count": 5,
+        "favorited": false,
+        "geo": null,
+        "id": 671521538869469184,
+        "id_str": "671521538869469184",
+        "in_reply_to_screen_name": null,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "is_quote_status": false,
+        "lang": "en",
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "place": {
+            "attributes": {},
+            "bounding_box": {
+                "coordinates": [
+                    [
+                        [
+                            -84.106764,
+                            39.676687
+                        ],
+                        [
+                            -83.988342,
+                            39.676687
+                        ],
+                        [
+                            -83.988342,
+                            39.779185
+                        ],
+                        [
+                            -84.106764,
+                            39.779185
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "contained_within": [],
+            "country": "United States",
+            "country_code": "US",
+            "full_name": "Beavercreek, OH",
+            "id": "050c276f7bcbb37e",
+            "name": "Beavercreek",
+            "place_type": "city",
+            "url": "https://api.twitter.com/1.1/geo/id/050c276f7bcbb37e.json"
+        },
+        "retweet_count": 6,
+        "retweeted": false,
+        "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for i\u039fS</a>",
+        "text": "The issue with TWC might be a DNS server outage. Switch to Google\u2019s DNS for the time being and everything works.",
+        "truncated": false,
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Sat Jul 12 15:38:16 +0000 2008",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "A developer and co-founder of The Scenery.",
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "thescenery.co",
+                            "expanded_url": "http://thescenery.co",
+                            "indices": [
+                                0,
+                                23
+                            ],
+                            "url": "https://t.co/eZppZkpEch"
+                        }
+                    ]
+                }
+            },
+            "favourites_count": 1097,
+            "follow_request_sent": false,
+            "followers_count": 831,
+            "following": false,
+            "friends_count": 350,
+            "geo_enabled": true,
+            "has_extended_profile": false,
+            "id": 15404958,
+            "id_str": "15404958",
+            "is_translation_enabled": false,
+            "is_translator": false,
+            "lang": "en",
+            "listed_count": 68,
+            "location": "Dayton, Ohio",
+            "name": "Andy Rossi",
+            "notifications": false,
+            "profile_background_color": "FFFFFF",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/420985732/brown-thing.jpg",
+            "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/420985732/brown-thing.jpg",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/15404958/1400417724",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/594652639498997760/DrOJy_BK_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/594652639498997760/DrOJy_BK_normal.jpg",
+            "profile_link_color": "7C9A82",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "EFEFEF",
+            "profile_text_color": "333333",
+            "profile_use_background_image": false,
+            "protected": false,
+            "screen_name": "AndrewRocco",
+            "statuses_count": 18356,
+            "time_zone": "Eastern Time (US & Canada)",
+            "url": "https://t.co/eZppZkpEch",
+            "utc_offset": -18000,
+            "verified": false
+        }
+    },
+    "quoted_status_id": 671521538869469184,
+    "quoted_status_id_str": "671521538869469184",
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@TWC @TWC_Help try this people will fix your internet for the time being.  https://t.co/YTzufdu4rF",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Apr 04 01:32:09 +0000 2009",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "I eat a lot of @tacobell",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 137,
+        "follow_request_sent": false,
+        "followers_count": 41,
+        "following": false,
+        "friends_count": 333,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 28708913,
+        "id_str": "28708913",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 0,
+        "location": "Lexington,KY",
+        "name": "Robert Russell",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/28708913/1385830951",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/542360339242037249/3AYqSFWJ_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/542360339242037249/3AYqSFWJ_normal.jpeg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Russell54",
+        "statuses_count": 274,
+        "time_zone": "Quito",
+        "url": null,
+        "utc_offset": -18000,
+        "verified": false
+    }
+}

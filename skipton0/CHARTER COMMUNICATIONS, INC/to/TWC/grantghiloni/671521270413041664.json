@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 01 02:48:41 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 127975950,
+                "id_str": "127975950",
+                "indices": [
+                    0,
+                    4
+                ],
+                "name": "Time Warner Cable",
+                "screen_name": "TWC"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 671521270413041664,
+    "id_str": "671521270413041664",
+    "in_reply_to_screen_name": "TWC",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 127975950,
+    "in_reply_to_user_id_str": "127975950",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -84.820272,
+                        38.403186
+                    ],
+                    [
+                        -80.518626,
+                        38.403186
+                    ],
+                    [
+                        -80.518626,
+                        42.327133
+                    ],
+                    [
+                        -84.820272,
+                        42.327133
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Ohio, USA",
+        "id": "de599025180e2ee7",
+        "name": "Ohio",
+        "place_type": "admin",
+        "url": "https://api.twitter.com/1.1/geo/id/de599025180e2ee7.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@TWC fix your internet \ud83d\udc7f\ud83d\udc7f\ud83d\udc7f\ud83d\udc7f\ud83d\udc7f",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Sep 13 23:40:33 +0000 2014",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "just a ball player",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "instagram.com/grantghiloni/",
+                        "expanded_url": "https://instagram.com/grantghiloni/",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/WC8Nezpj97"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 1787,
+        "follow_request_sent": false,
+        "followers_count": 357,
+        "following": false,
+        "friends_count": 320,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 2769454253,
+        "id_str": "2769454253",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 1,
+        "location": "hebron",
+        "name": "5\u2122",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2769454253/1448905982",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/666080817345638400/pPlrNRmq_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/666080817345638400/pPlrNRmq_normal.jpg",
+        "profile_link_color": "DD2E44",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "grantghiloni",
+        "statuses_count": 1498,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "https://t.co/WC8Nezpj97",
+        "utc_offset": -28800,
+        "verified": false
+    }
+}
