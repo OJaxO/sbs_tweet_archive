@@ -1,0 +1,147 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 01 04:25:02 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 34442404,
+                "id_str": "34442404",
+                "indices": [
+                    0,
+                    5
+                ],
+                "name": "Sony",
+                "screen_name": "Sony"
+            },
+            {
+                "id": 10671602,
+                "id_str": "10671602",
+                "indices": [
+                    6,
+                    18
+                ],
+                "name": "PlayStation",
+                "screen_name": "PlayStation"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 671545515398422528,
+    "id_str": "671545515398422528",
+    "in_reply_to_screen_name": "Sony",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 34442404,
+    "in_reply_to_user_id_str": "34442404",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -92.889433,
+                        42.491889
+                    ],
+                    [
+                        -86.24955,
+                        42.491889
+                    ],
+                    [
+                        -86.24955,
+                        47.309715
+                    ],
+                    [
+                        -92.889433,
+                        47.309715
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Wisconsin, USA",
+        "id": "7dc5c6d3bfb10ccc",
+        "name": "Wisconsin",
+        "place_type": "admin",
+        "url": "https://api.twitter.com/1.1/geo/id/7dc5c6d3bfb10ccc.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@SONY @PlayStation Just so people are aware, the 10-Year Life Cycle of PS3 in the USA/JP Regions is hit in 2016. 2017 for EU/AUS.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Apr 09 16:14:00 +0000 2008",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Born in Madison, WI; September 19th, 1987. Hate forced open world PVP in MMORPGs. AKA coldReactive / Iyeru  Purple",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "iancarlson666.tumblr.com",
+                        "expanded_url": "http://iancarlson666.tumblr.com",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/v038N5q4Di"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 775,
+        "follow_request_sent": false,
+        "followers_count": 105,
+        "following": false,
+        "friends_count": 50,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 14342956,
+        "id_str": "14342956",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 11,
+        "location": "United States",
+        "name": "Ian Arthur Carlson",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/14342956/1430262967",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/593194220548071424/OYnByxvO_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/593194220548071424/OYnByxvO_normal.png",
+        "profile_link_color": "9266CC",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "iyeru",
+        "statuses_count": 17989,
+        "time_zone": "Central Time (US & Canada)",
+        "url": "http://t.co/v038N5q4Di",
+        "utc_offset": -21600,
+        "verified": false
+    }
+}

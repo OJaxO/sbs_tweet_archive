@@ -1,0 +1,145 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 01 05:43:05 +0000 2015",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    114,
+                    120
+                ],
+                "text": "a6000"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 34442404,
+                "id_str": "34442404",
+                "indices": [
+                    0,
+                    5
+                ],
+                "name": "Sony",
+                "screen_name": "Sony"
+            }
+        ]
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": null,
+    "id": 671565158888509441,
+    "id_str": "671565158888509441",
+    "in_reply_to_screen_name": "Sony",
+    "in_reply_to_status_id": 671041332815753216,
+    "in_reply_to_status_id_str": "671041332815753216",
+    "in_reply_to_user_id": 34442404,
+    "in_reply_to_user_id_str": "34442404",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -118.668404,
+                        33.704538
+                    ],
+                    [
+                        -118.155409,
+                        33.704538
+                    ],
+                    [
+                        -118.155409,
+                        34.337041
+                    ],
+                    [
+                        -118.668404,
+                        34.337041
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Los Angeles, CA",
+        "id": "3b77caf94bfc81fe",
+        "name": "Los Angeles",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/3b77caf94bfc81fe.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@Sony I'm been doing a lot of long exposure photography. So happy I can keep shudder open much longer than 30sec. #a6000 \ud83d\ude01",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun May 04 22:12:57 +0000 2008",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Award-winning designer and brand strategist. Twitter addict livin' n breathin' SocialMedia. Featured in Forbes, Wired, Huff Post and Mashable. Nicest guy in LA.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "blog.mayhemstudios.com",
+                        "expanded_url": "http://blog.mayhemstudios.com",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/qW8CUo3XRH"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 25543,
+        "follow_request_sent": false,
+        "followers_count": 94179,
+        "following": false,
+        "friends_count": 98178,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 14652452,
+        "id_str": "14652452",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 6406,
+        "location": "Los Angeles",
+        "name": "Calvin Lee",
+        "notifications": false,
+        "profile_background_color": "E9B558",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/795543314/82aac4e85764ec975be69431772d2483.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/795543314/82aac4e85764ec975be69431772d2483.jpeg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/14652452/1434507513",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/2960334393/efb8938d64ecdb2666e96e49f43d5845_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/2960334393/efb8938d64ecdb2666e96e49f43d5845_normal.jpeg",
+        "profile_link_color": "B4000A",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "F8EBB9",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "mayhemstudios",
+        "statuses_count": 205809,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "https://t.co/qW8CUo3XRH",
+        "utc_offset": -28800,
+        "verified": false
+    }
+}

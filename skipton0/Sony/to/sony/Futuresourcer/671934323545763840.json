@@ -1,0 +1,166 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Dec 02 06:10:01 +0000 2015",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    6,
+                    23
+                ],
+                "text": "AugmentedReality"
+            }
+        ],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "bit.ly/1MSRlEC",
+                "expanded_url": "http://bit.ly/1MSRlEC",
+                "indices": [
+                    79,
+                    102
+                ],
+                "url": "https://t.co/J1UtbnTVSB"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 34442404,
+                "id_str": "34442404",
+                "indices": [
+                    0,
+                    5
+                ],
+                "name": "Sony",
+                "screen_name": "Sony"
+            },
+            {
+                "id": 57292442,
+                "id_str": "57292442",
+                "indices": [
+                    57,
+                    71
+                ],
+                "name": "Futuresource",
+                "screen_name": "Futuresourcer"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 671934323545763840,
+    "id_str": "671934323545763840",
+    "in_reply_to_screen_name": "Sony",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 34442404,
+    "in_reply_to_user_id_str": "34442404",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -0.187894,
+                        51.483718
+                    ],
+                    [
+                        -0.109978,
+                        51.483718
+                    ],
+                    [
+                        -0.109978,
+                        51.5164655
+                    ],
+                    [
+                        -0.187894,
+                        51.5164655
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United Kingdom",
+        "country_code": "GB",
+        "full_name": "London, England",
+        "id": "457b4814b4240d87",
+        "name": "London",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/457b4814b4240d87.json"
+    },
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@Sony #AugmentedReality thought you may be interested in @Futuresourcer report https://t.co/J1UtbnTVSB.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Jul 16 09:49:19 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Futuresource Consulting: Analysis and specialist research for the consumer electronics, entertainment media and broadcast industries.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "futuresource-consulting.com",
+                        "expanded_url": "http://www.futuresource-consulting.com",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/bRE6NQtvUV"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 979,
+        "follow_request_sent": false,
+        "followers_count": 964,
+        "following": false,
+        "friends_count": 1770,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 57292442,
+        "id_str": "57292442",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 91,
+        "location": "UK",
+        "name": "Futuresource",
+        "notifications": false,
+        "profile_background_color": "D6E8FF",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/23605442/SML_wallpaperNEW_600px-blu_R216G233B253.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/23605442/SML_wallpaperNEW_600px-blu_R216G233B253.jpg",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/57292442/1401889955",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/433195419112185856/Op2E2K_G_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/433195419112185856/Op2E2K_G_normal.jpeg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "BDDCAD",
+        "profile_sidebar_fill_color": "DDFFCC",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Futuresourcer",
+        "statuses_count": 2396,
+        "time_zone": "Dublin",
+        "url": "http://t.co/bRE6NQtvUV",
+        "utc_offset": 0,
+        "verified": false
+    }
+}

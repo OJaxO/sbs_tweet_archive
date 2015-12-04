@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Nov 30 05:38:30 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 34442404,
+                "id_str": "34442404",
+                "indices": [
+                    0,
+                    5
+                ],
+                "name": "Sony",
+                "screen_name": "Sony"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 671201618679828480,
+    "id_str": "671201618679828480",
+    "in_reply_to_screen_name": "Sony",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 34442404,
+    "in_reply_to_user_id_str": "34442404",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -93.709504,
+                        41.49702
+                    ],
+                    [
+                        -93.503235,
+                        41.49702
+                    ],
+                    [
+                        -93.503235,
+                        41.6514656
+                    ],
+                    [
+                        -93.709504,
+                        41.6514656
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Des Moines, IA",
+        "id": "1c67f9d9cbae7f69",
+        "name": "Des Moines",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/1c67f9d9cbae7f69.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@Sony hi! Do you guys offer student discounts on camera lenses?",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Sep 26 22:01:41 +0000 2008",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Visual storyteller with a passion for authenticity - Creative intern at @Meyocks, photo editor of @DrakeMag, student at @DrakeUniversity.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "SamFathallah.com",
+                        "expanded_url": "http://SamFathallah.com",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/aRZrHNzGoM"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 28282,
+        "follow_request_sent": false,
+        "followers_count": 1285,
+        "following": false,
+        "friends_count": 217,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 16475792,
+        "id_str": "16475792",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 15,
+        "location": "Des Moines, Iowa",
+        "name": "Sam Fathallah",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/134200470/ipad4.png",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/134200470/ipad4.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/16475792/1438020722",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/625729564862341120/e2IqyecD_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/625729564862341120/e2IqyecD_normal.jpg",
+        "profile_link_color": "000000",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "SamFathallah",
+        "statuses_count": 9900,
+        "time_zone": "Central Time (US & Canada)",
+        "url": "https://t.co/aRZrHNzGoM",
+        "utc_offset": -21600,
+        "verified": false
+    }
+}

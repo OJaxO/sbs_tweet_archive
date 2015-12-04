@@ -1,0 +1,142 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 01 11:43:51 +0000 2015",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    110,
+                    122
+                ],
+                "text": "Battlefront"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 34442404,
+                "id_str": "34442404",
+                "indices": [
+                    0,
+                    5
+                ],
+                "name": "Sony",
+                "screen_name": "Sony"
+            },
+            {
+                "id": 3033103596,
+                "id_str": "3033103596",
+                "indices": [
+                    6,
+                    17
+                ],
+                "name": "EAStarWars",
+                "screen_name": "EAStarWars"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 671655947325042688,
+    "id_str": "671655947325042688",
+    "in_reply_to_screen_name": "Sony",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 34442404,
+    "in_reply_to_user_id_str": "34442404",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -1.706057,
+                        53.7363694
+                    ],
+                    [
+                        -1.424923,
+                        53.7363694
+                    ],
+                    [
+                        -1.424923,
+                        53.867543
+                    ],
+                    [
+                        -1.706057,
+                        53.867543
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United Kingdom",
+        "country_code": "GB",
+        "full_name": "Leeds, England",
+        "id": "6863fd050de21120",
+        "name": "Leeds",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/6863fd050de21120.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@Sony @EAStarWars. Gutted my pre-order code isn't allowing me access to Jakku DLC. Any way this can be fixed? #Battlefront",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Oct 20 14:45:50 +0000 2009",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Affable rogue, burly jester and font of knowledge for everything regarding my dog Max. He likes meat, for instance.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 27,
+        "follow_request_sent": false,
+        "followers_count": 18,
+        "following": false,
+        "friends_count": 71,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 83857439,
+        "id_str": "83857439",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 1,
+        "location": "UK",
+        "name": "Jake Hart",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/83857439/1435263064",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/651747894924570624/osf0BHvz_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/651747894924570624/osf0BHvz_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Alonut",
+        "statuses_count": 115,
+        "time_zone": null,
+        "url": null,
+        "utc_offset": null,
+        "verified": false
+    }
+}
