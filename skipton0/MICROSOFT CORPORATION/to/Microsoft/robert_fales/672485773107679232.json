@@ -1,0 +1,124 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Dec 03 18:41:17 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 74286565,
+                "id_str": "74286565",
+                "indices": [
+                    0,
+                    10
+                ],
+                "name": "Microsoft",
+                "screen_name": "Microsoft"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 672485773107679232,
+    "id_str": "672485773107679232",
+    "in_reply_to_screen_name": "Microsoft",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 74286565,
+    "in_reply_to_user_id_str": "74286565",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -81.415289,
+                        28.610563
+                    ],
+                    [
+                        -81.3283444,
+                        28.610563
+                    ],
+                    [
+                        -81.3283444,
+                        28.640907
+                    ],
+                    [
+                        -81.415289,
+                        28.640907
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Maitland, FL",
+        "id": "23210d53a2976f02",
+        "name": "Maitland",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/23210d53a2976f02.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@Microsoft I've got work to do can you make this slow reveal go away?",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Sep 09 16:16:50 +0000 2011",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Utah born, Michigan raised. Permanently based in Florida by way of England, Arkansas, Texas, and Germany.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 473,
+        "follow_request_sent": false,
+        "followers_count": 371,
+        "following": false,
+        "friends_count": 603,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 370774922,
+        "id_str": "370774922",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 9,
+        "location": "Florida, USA",
+        "name": "Robert Fales",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/370774922/1425124261",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/656573582135459840/YJoDKD45_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/656573582135459840/YJoDKD45_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "robert_fales",
+        "statuses_count": 2383,
+        "time_zone": "Eastern Time (US & Canada)",
+        "url": null,
+        "utc_offset": -18000,
+        "verified": false
+    }
+}

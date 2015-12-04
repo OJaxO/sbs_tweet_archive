@@ -1,0 +1,145 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Dec 02 11:40:34 +0000 2015",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    124,
+                    137
+                ],
+                "text": "stopchecking"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 74286565,
+                "id_str": "74286565",
+                "indices": [
+                    0,
+                    10
+                ],
+                "name": "Microsoft",
+                "screen_name": "Microsoft"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 672017509109903360,
+    "id_str": "672017509109903360",
+    "in_reply_to_screen_name": "Microsoft",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 74286565,
+    "in_reply_to_user_id_str": "74286565",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -1.215135,
+                        52.580667
+                    ],
+                    [
+                        -1.046205,
+                        52.580667
+                    ],
+                    [
+                        -1.046205,
+                        52.67186
+                    ],
+                    [
+                        -1.215135,
+                        52.67186
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United Kingdom",
+        "country_code": "GB",
+        "full_name": "Leicester, England",
+        "id": "38d67cacb385e69d",
+        "name": "Leicester",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/38d67cacb385e69d.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for i\u039fS</a>",
+    "text": "@Microsoft\u2019s cyclical approach to updates: \n\nCheck for an update;\nclose everything; \ndo the update; \ncheck for an update. \n\n#stopchecking!",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Feb 06 14:04:20 +0000 2015",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Researcher. Lecturer. Electroacoustic Music. \nAlso tweeting as @mtidmu and @art_sound_leics\nIG:@Jackademic\n\nNews-watcher; thoughts my own",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "artandsoundsymposium.com",
+                        "expanded_url": "http://Www.artandsoundsymposium.com",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/88x6aEEDIK"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 214,
+        "follow_request_sent": false,
+        "followers_count": 165,
+        "following": false,
+        "friends_count": 410,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 3021539194,
+        "id_str": "3021539194",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en-gb",
+        "listed_count": 26,
+        "location": "London",
+        "name": "Jack Richardson",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3021539194/1435566090",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/563700894273789952/7FQQ9dc0_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/563700894273789952/7FQQ9dc0_normal.jpeg",
+        "profile_link_color": "3B94D9",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "Jackademic",
+        "statuses_count": 798,
+        "time_zone": null,
+        "url": "http://t.co/88x6aEEDIK",
+        "utc_offset": null,
+        "verified": false
+    }
+}

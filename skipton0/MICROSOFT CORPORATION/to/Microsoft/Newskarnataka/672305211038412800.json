@@ -1,0 +1,173 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Dec 03 06:43:47 +0000 2015",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    101,
+                    106
+                ],
+                "text": "THub"
+            },
+            {
+                "indices": [
+                    107,
+                    121
+                ],
+                "text": "entrepreneurs"
+            }
+        ],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "newskarnataka.com/technology/mic\u2026",
+                "expanded_url": "http://www.newskarnataka.com/technology/microsoft-ceo-to-visit-t-hub-address-budding-entrepreneurs",
+                "indices": [
+                    62,
+                    85
+                ],
+                "url": "https://t.co/KrR6A9CZrQ"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 74286565,
+                "id_str": "74286565",
+                "indices": [
+                    0,
+                    10
+                ],
+                "name": "Microsoft",
+                "screen_name": "Microsoft"
+            },
+            {
+                "id": 20571756,
+                "id_str": "20571756",
+                "indices": [
+                    86,
+                    99
+                ],
+                "name": "Satya Nadella",
+                "screen_name": "satyanadella"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 672305211038412800,
+    "id_str": "672305211038412800",
+    "in_reply_to_screen_name": "Microsoft",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 74286565,
+    "in_reply_to_user_id_str": "74286565",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        74.0509625,
+                        11.5823783
+                    ],
+                    [
+                        78.5882952,
+                        11.5823783
+                    ],
+                    [
+                        78.5882952,
+                        18.4767361
+                    ],
+                    [
+                        74.0509625,
+                        18.4767361
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "India",
+        "country_code": "IN",
+        "full_name": "Karnataka, India",
+        "id": "7631956ba2a1ed11",
+        "name": "Karnataka",
+        "place_type": "admin",
+        "url": "https://api.twitter.com/1.1/geo/id/7631956ba2a1ed11.json"
+    },
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@Microsoft CEO to visit T-Hub, address budding entrepreneurs \nhttps://t.co/KrR6A9CZrQ\n@satyanadella  #THub #entrepreneurs",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Jul 10 09:13:26 +0000 2012",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Karnataka's leading online news web portal, covers exclusive and latest news across the state and Gulf region.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "newskarnataka.com",
+                        "expanded_url": "http://www.newskarnataka.com",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/V6ooTjYna9"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 23,
+        "follow_request_sent": false,
+        "followers_count": 877,
+        "following": false,
+        "friends_count": 371,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 631908927,
+        "id_str": "631908927",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 12,
+        "location": "Karnataka",
+        "name": "News Karnataka",
+        "notifications": false,
+        "profile_background_color": "9AE4E8",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/631908927/1446110469",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/598055666276663297/hSezgt1P_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/598055666276663297/hSezgt1P_normal.png",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "BDDCAD",
+        "profile_sidebar_fill_color": "DDFFCC",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Newskarnataka",
+        "statuses_count": 5475,
+        "time_zone": null,
+        "url": "http://t.co/V6ooTjYna9",
+        "utc_offset": null,
+        "verified": false
+    }
+}

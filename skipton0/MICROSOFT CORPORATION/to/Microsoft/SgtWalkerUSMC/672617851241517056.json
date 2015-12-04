@@ -1,0 +1,124 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Dec 04 03:26:07 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 74286565,
+                "id_str": "74286565",
+                "indices": [
+                    0,
+                    10
+                ],
+                "name": "Microsoft",
+                "screen_name": "Microsoft"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 672617851241517056,
+    "id_str": "672617851241517056",
+    "in_reply_to_screen_name": "Microsoft",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 74286565,
+    "in_reply_to_user_id_str": "74286565",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -75.168425,
+                        39.679348
+                    ],
+                    [
+                        -75.081224,
+                        39.679348
+                    ],
+                    [
+                        -75.081224,
+                        39.73751
+                    ],
+                    [
+                        -75.168425,
+                        39.73751
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Glassboro, NJ",
+        "id": "55352b8c5e28010f",
+        "name": "Glassboro",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/55352b8c5e28010f.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@Microsoft just saw the peace on earth ad.. You skipped the \"..with God as our father, brothers all are we\" lyric. But forget CHRISTmas",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Mar 01 04:03:22 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Dysfunctional Veteran Leave Me Alone",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 271,
+        "follow_request_sent": false,
+        "followers_count": 76,
+        "following": false,
+        "friends_count": 107,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 259100875,
+        "id_str": "259100875",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 3,
+        "location": "Chester, PA",
+        "name": "Johnnie Walker",
+        "notifications": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/476125593394610176/iDrGBHSE.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/476125593394610176/iDrGBHSE.jpeg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/259100875/1403978626",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/482947480649080832/4NaU7l5J_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/482947480649080832/4NaU7l5J_normal.jpeg",
+        "profile_link_color": "009999",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "SgtWalkerUSMC",
+        "statuses_count": 606,
+        "time_zone": "Eastern Time (US & Canada)",
+        "url": null,
+        "utc_offset": -18000,
+        "verified": false
+    }
+}

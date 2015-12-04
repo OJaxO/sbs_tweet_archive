@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Dec 04 02:14:33 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 74286565,
+                "id_str": "74286565",
+                "indices": [
+                    0,
+                    10
+                ],
+                "name": "Microsoft",
+                "screen_name": "Microsoft"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 672599844020727813,
+    "id_str": "672599844020727813",
+    "in_reply_to_screen_name": "Microsoft",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 74286565,
+    "in_reply_to_user_id_str": "74286565",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -73.727776,
+                        40.950918
+                    ],
+                    [
+                        -71.786994,
+                        40.950918
+                    ],
+                    [
+                        -71.786994,
+                        42.050588
+                    ],
+                    [
+                        -73.727776,
+                        42.050588
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Connecticut, USA",
+        "id": "e86b380cfefcced5",
+        "name": "Connecticut",
+        "place_type": "admin",
+        "url": "https://api.twitter.com/1.1/geo/id/e86b380cfefcced5.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@Microsoft rips us off they make just buying office crazy expensive so you rent it yearly, I remember when it was like 100 to buy 3 licenses",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Sep 20 18:58:13 +0000 2012",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "\u2022 Wrestling (Competing & Coaching) & Running \u2022 Straight Edge \u2022 Pok\u00e9mon Trainer \u2022 #SettleItInSmash \u2022",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "YouTube.com/c/DallenPearson",
+                        "expanded_url": "https://www.YouTube.com/c/DallenPearson",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/KeUZ72O9Hz"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 1193,
+        "follow_request_sent": false,
+        "followers_count": 294,
+        "following": false,
+        "friends_count": 688,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 836152278,
+        "id_str": "836152278",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 6,
+        "location": "Bristol, CT",
+        "name": "Dallen J. Pearson",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/836152278/1441976731",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/670713093152993280/L86G3rn7_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/670713093152993280/L86G3rn7_normal.jpg",
+        "profile_link_color": "3B94D9",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "DallenJPearson",
+        "statuses_count": 3196,
+        "time_zone": "Eastern Time (US & Canada)",
+        "url": "https://t.co/KeUZ72O9Hz",
+        "utc_offset": -18000,
+        "verified": false
+    }
+}

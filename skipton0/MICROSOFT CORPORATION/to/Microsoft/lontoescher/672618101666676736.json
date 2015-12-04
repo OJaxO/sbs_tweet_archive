@@ -1,0 +1,160 @@
+{
+    "contributors": null,
+    "coordinates": {
+        "coordinates": [
+            -51.969945,
+            -31.37231
+        ],
+        "type": "Point"
+    },
+    "created_at": "Fri Dec 04 03:27:06 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "m.youtube.com/watch?v=7Bjv5i\u2026",
+                "expanded_url": "https://m.youtube.com/watch?v=7Bjv5iKKuYA",
+                "indices": [
+                    52,
+                    75
+                ],
+                "url": "https://t.co/nf8axIbxUk"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 74286565,
+                "id_str": "74286565",
+                "indices": [
+                    0,
+                    10
+                ],
+                "name": "Microsoft",
+                "screen_name": "Microsoft"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": {
+        "coordinates": [
+            -31.37231,
+            -51.969945
+        ],
+        "type": "Point"
+    },
+    "id": 672618101666676736,
+    "id_str": "672618101666676736",
+    "in_reply_to_screen_name": "Microsoft",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 74286565,
+    "in_reply_to_user_id_str": "74286565",
+    "is_quote_status": false,
+    "lang": "es",
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -52.4757576,
+                        -31.5216328
+                    ],
+                    [
+                        -51.7754977,
+                        -31.5216328
+                    ],
+                    [
+                        -51.7754977,
+                        -30.983294
+                    ],
+                    [
+                        -52.4757576,
+                        -30.983294
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "Brasil",
+        "country_code": "BR",
+        "full_name": "S\u00e3o Louren\u00e7o do Sul, Rio Grande do Sul",
+        "id": "bdfb80649ecfe3f5",
+        "name": "S\u00e3o Louren\u00e7o do Sul",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/bdfb80649ecfe3f5.json"
+    },
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://www.twitter.com\" rel=\"nofollow\">Twitter for Windows Phone</a>",
+    "text": "@Microsoft i like this v\u00eddeo (Tetris in The violon) https://t.co/nf8axIbxUk",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Sep 02 09:03:43 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "A mente n\u00e3o tem limite. Quando a mente pode antever o fato de que voc\u00ea pode realizar algo, voc\u00ea realmente pode, desde que acredite nisso 100 porcento.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "m.youtube.com/channel/UCaDjp\u2026",
+                        "expanded_url": "https://m.youtube.com/channel/UCaDjpFTWVzZgB4tyt8fBMgw",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/Kf9fyfFe7M"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 105,
+        "follow_request_sent": false,
+        "followers_count": 63,
+        "following": false,
+        "friends_count": 144,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 366504658,
+        "id_str": "366504658",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "pt",
+        "listed_count": 0,
+        "location": "S\u00e3o Louren\u00e7o do Sul ",
+        "name": "marlon toescher",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/323551139/inter.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/323551139/inter.jpg",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/366504658/1447140763",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/615781828738224128/JBQiWzy1_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/615781828738224128/JBQiWzy1_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "lontoescher",
+        "statuses_count": 461,
+        "time_zone": "Santiago",
+        "url": "https://t.co/Kf9fyfFe7M",
+        "utc_offset": -10800,
+        "verified": false
+    }
+}

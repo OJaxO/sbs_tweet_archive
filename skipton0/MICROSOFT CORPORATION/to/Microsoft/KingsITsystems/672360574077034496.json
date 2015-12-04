@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Dec 03 10:23:47 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 74286565,
+                "id_str": "74286565",
+                "indices": [
+                    0,
+                    10
+                ],
+                "name": "Microsoft",
+                "screen_name": "Microsoft"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 672360574077034496,
+    "id_str": "672360574077034496",
+    "in_reply_to_screen_name": "Microsoft",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 74286565,
+    "in_reply_to_user_id_str": "74286565",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -4.851292,
+                        50.509023
+                    ],
+                    [
+                        -4.818027,
+                        50.509023
+                    ],
+                    [
+                        -4.818027,
+                        50.523333
+                    ],
+                    [
+                        -4.851292,
+                        50.523333
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United Kingdom",
+        "country_code": "GB",
+        "full_name": "Wadebridge, England",
+        "id": "7138ae6e5d62d28e",
+        "name": "Wadebridge",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/7138ae6e5d62d28e.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@Microsoft are reporting issues with the Office 365 suite this morning. A 'sev A' call has been raised, apologies for the inconvenience.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Nov 17 13:51:31 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Service Desk staffed 8am-6pm Monday to Friday and 9am-5pm Saturday and Sunday. You can call us on 020 7848 8888 or email us at 8888@kcl.ac.uk",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "internal.kcl.ac.uk/it/support/Ser\u2026",
+                        "expanded_url": "https://internal.kcl.ac.uk/it/support/ServiceStatus.aspx",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/wA3aQnvCrR"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 269,
+        "follow_request_sent": false,
+        "followers_count": 1353,
+        "following": false,
+        "friends_count": 271,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 216704011,
+        "id_str": "216704011",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 27,
+        "location": "King's College London",
+        "name": "IT King's",
+        "notifications": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000071864527/42a62739c212d31170ca1f91a7bf1af1.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000071864527/42a62739c212d31170ca1f91a7bf1af1.jpeg",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/216704011/1445603163",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/657500276514037760/B4sDBDjD_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/657500276514037760/B4sDBDjD_normal.jpg",
+        "profile_link_color": "009999",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "KingsITsystems",
+        "statuses_count": 1675,
+        "time_zone": "Amsterdam",
+        "url": "https://t.co/wA3aQnvCrR",
+        "utc_offset": 3600,
+        "verified": false
+    }
+}
