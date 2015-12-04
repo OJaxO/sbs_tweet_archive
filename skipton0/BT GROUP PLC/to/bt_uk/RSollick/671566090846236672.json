@@ -1,0 +1,132 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 01 05:46:47 +0000 2015",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    7,
+                    22
+                ],
+                "text": "PerfectFormula"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 118750085,
+                "id_str": "118750085",
+                "indices": [
+                    0,
+                    6
+                ],
+                "name": "BT UK",
+                "screen_name": "bt_uk"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 671566090846236672,
+    "id_str": "671566090846236672",
+    "in_reply_to_screen_name": "bt_uk",
+    "in_reply_to_status_id": 671405573691195393,
+    "in_reply_to_status_id_str": "671405573691195393",
+    "in_reply_to_user_id": 118750085,
+    "in_reply_to_user_id_str": "118750085",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -4.2037009,
+                        50.3602507
+                    ],
+                    [
+                        -4.082159,
+                        50.3602507
+                    ],
+                    [
+                        -4.082159,
+                        50.444179
+                    ],
+                    [
+                        -4.2037009,
+                        50.444179
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United Kingdom",
+        "country_code": "GB",
+        "full_name": "Plymouth, England",
+        "id": "7aeb72d9e8a1c889",
+        "name": "Plymouth",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/7aeb72d9e8a1c889.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@bt_uk #PerfectFormula Snowmen and Rugby",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Jul 19 15:21:48 +0000 2012",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "We have 3 boys and a lack of sleep ;)",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 98,
+        "follow_request_sent": false,
+        "followers_count": 342,
+        "following": false,
+        "friends_count": 1954,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 705256610,
+        "id_str": "705256610",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 2,
+        "location": "Plymouth, England",
+        "name": "R Sollick",
+        "notifications": false,
+        "profile_background_color": "352726",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/705256610/1440238437",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/2633580915/c73f9c7d58a751442172050faf5153f7_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/2633580915/c73f9c7d58a751442172050faf5153f7_normal.png",
+        "profile_link_color": "D02B55",
+        "profile_sidebar_border_color": "829D5E",
+        "profile_sidebar_fill_color": "99CC33",
+        "profile_text_color": "3E4415",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "RSollick",
+        "statuses_count": 12119,
+        "time_zone": "London",
+        "url": null,
+        "utc_offset": 0,
+        "verified": false
+    }
+}
