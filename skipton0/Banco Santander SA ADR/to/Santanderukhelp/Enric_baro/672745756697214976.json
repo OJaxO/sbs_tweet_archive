@@ -1,0 +1,135 @@
+{
+    "contributors": null,
+    "coordinates": {
+        "coordinates": [
+            -0.2476474,
+            51.5593067
+        ],
+        "type": "Point"
+    },
+    "created_at": "Fri Dec 04 11:54:22 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 962692878,
+                "id_str": "962692878",
+                "indices": [
+                    0,
+                    16
+                ],
+                "name": "Santander UK Help",
+                "screen_name": "santanderukhelp"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": {
+        "coordinates": [
+            51.5593067,
+            -0.2476474
+        ],
+        "type": "Point"
+    },
+    "id": 672745756697214976,
+    "id_str": "672745756697214976",
+    "in_reply_to_screen_name": "santanderukhelp",
+    "in_reply_to_status_id": 672744962639929344,
+    "in_reply_to_status_id_str": "672744962639929344",
+    "in_reply_to_user_id": 962692878,
+    "in_reply_to_user_id_str": "962692878",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -0.336055,
+                        51.527592
+                    ],
+                    [
+                        -0.1902264,
+                        51.527592
+                    ],
+                    [
+                        -0.1902264,
+                        51.602799
+                    ],
+                    [
+                        -0.336055,
+                        51.602799
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United Kingdom",
+        "country_code": "GB",
+        "full_name": "Brent, London",
+        "id": "5524b796309058b5",
+        "name": "Brent",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/5524b796309058b5.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"https://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android Tablets</a>",
+    "text": "@santanderukhelp I try open account Neasden it's imposible. I have pasport+chash+doc I live.toldme he cant I no historical credit, unbelieve",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Jan 13 20:19:10 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 5,
+        "follow_request_sent": false,
+        "followers_count": 47,
+        "following": false,
+        "friends_count": 161,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 237860603,
+        "id_str": "237860603",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "es",
+        "listed_count": 0,
+        "location": "l'empord\u00e0- Bcn - UK London",
+        "name": "enric b.r.",
+        "notifications": false,
+        "profile_background_color": "022330",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/644616486603104256/dzRuo4Vy_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/644616486603104256/dzRuo4Vy_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "A8C7F7",
+        "profile_sidebar_fill_color": "C0DFEC",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Enric_baro",
+        "statuses_count": 328,
+        "time_zone": "Greenland",
+        "url": null,
+        "utc_offset": -10800,
+        "verified": false
+    }
+}
