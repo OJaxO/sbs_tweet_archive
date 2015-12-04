@@ -1,0 +1,124 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Dec 02 22:06:37 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 21454307,
+                "id_str": "21454307",
+                "indices": [
+                    0,
+                    13
+                ],
+                "name": "Netflix CS",
+                "screen_name": "Netflixhelps"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 672175061042921472,
+    "id_str": "672175061042921472",
+    "in_reply_to_screen_name": "Netflixhelps",
+    "in_reply_to_status_id": 672173420029849602,
+    "in_reply_to_status_id_str": "672173420029849602",
+    "in_reply_to_user_id": 21454307,
+    "in_reply_to_user_id_str": "21454307",
+    "is_quote_status": false,
+    "lang": "es",
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        4.7933595,
+                        45.7992849
+                    ],
+                    [
+                        4.8391744,
+                        45.7992849
+                    ],
+                    [
+                        4.8391744,
+                        45.843928
+                    ],
+                    [
+                        4.7933595,
+                        45.843928
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "France",
+        "country_code": "FR",
+        "full_name": "Saint-Cyr-au-Mont-d'Or, Rh\u00f4ne-Alpes",
+        "id": "27076a507403fa45",
+        "name": "Saint-Cyr-au-Mont-d'Or",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/27076a507403fa45.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@Netflixhelps como hago para comunicarme con ustedes?? Estoy en Francia y llam\u00f3 al n\u00famero y solo me hablan en Franc\u00e9s...",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Jul 23 16:44:46 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Sonr\u00ede!",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 117,
+        "follow_request_sent": false,
+        "followers_count": 468,
+        "following": false,
+        "friends_count": 1260,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 340992284,
+        "id_str": "340992284",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "es",
+        "listed_count": 3,
+        "location": "Lima",
+        "name": "Andrea Lara M.",
+        "notifications": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/340992284/1446968792",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/663261292661227520/sShOXgCP_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/663261292661227520/sShOXgCP_normal.jpg",
+        "profile_link_color": "009999",
+        "profile_sidebar_border_color": "EEEEEE",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "purplestarandre",
+        "statuses_count": 7099,
+        "time_zone": "Central Time (US & Canada)",
+        "url": null,
+        "utc_offset": -21600,
+        "verified": false
+    }
+}
