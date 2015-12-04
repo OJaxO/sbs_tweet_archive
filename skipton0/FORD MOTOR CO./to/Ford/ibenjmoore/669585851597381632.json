@@ -1,0 +1,178 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Nov 25 18:38:01 +0000 2015",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    6,
+                    14
+                ],
+                "text": "Vignale"
+            },
+            {
+                "indices": [
+                    26,
+                    34
+                ],
+                "text": "awesome"
+            }
+        ],
+        "media": [
+            {
+                "display_url": "pic.twitter.com/XzBl0gzVOi",
+                "expanded_url": "http://twitter.com/ibenjmoore/status/669585851597381632/photo/1",
+                "id": 669585834442694659,
+                "id_str": "669585834442694659",
+                "indices": [
+                    35,
+                    58
+                ],
+                "media_url": "http://pbs.twimg.com/media/CUrYxNCXIAMzorv.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/CUrYxNCXIAMzorv.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 768,
+                        "resize": "fit",
+                        "w": 1024
+                    },
+                    "medium": {
+                        "h": 450,
+                        "resize": "fit",
+                        "w": 600
+                    },
+                    "small": {
+                        "h": 255,
+                        "resize": "fit",
+                        "w": 340
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/XzBl0gzVOi"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 15676492,
+                "id_str": "15676492",
+                "indices": [
+                    0,
+                    5
+                ],
+                "name": "Ford Motor Company",
+                "screen_name": "Ford"
+            }
+        ]
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": null,
+    "id": 669585851597381632,
+    "id_str": "669585851597381632",
+    "in_reply_to_screen_name": "Ford",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 15676492,
+    "in_reply_to_user_id_str": "15676492",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -2.6750176,
+                        49.4099687
+                    ],
+                    [
+                        -2.1589927,
+                        49.4099687
+                    ],
+                    [
+                        -2.1589927,
+                        49.7327633
+                    ],
+                    [
+                        -2.6750176,
+                        49.7327633
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United Kingdom",
+        "country_code": "GB",
+        "full_name": "Bailiwick of Guernsey, United Kingdom",
+        "id": "8fff7619df46bfea",
+        "name": "Bailiwick of Guernsey",
+        "place_type": "admin",
+        "url": "https://api.twitter.com/1.1/geo/id/8fff7619df46bfea.json"
+    },
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@Ford #Vignale what a car #awesome https://t.co/XzBl0gzVOi",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Nov 09 16:37:10 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "#Technology #Geek #Guernsey #Ford #Parts #FordEmployee #Scout #Leader #Beaver #BeaverScout",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 90,
+        "follow_request_sent": false,
+        "followers_count": 95,
+        "following": false,
+        "friends_count": 398,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 408589811,
+        "id_str": "408589811",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 5,
+        "location": "Guernsey Channel Islands",
+        "name": "Ben Moore",
+        "notifications": false,
+        "profile_background_color": "FFFFFF",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000181500559/xngaEyBh.png",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000181500559/xngaEyBh.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/408589811/1447797973",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/552202381006360576/HmjbCl04_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/552202381006360576/HmjbCl04_normal.jpeg",
+        "profile_link_color": "DD2E44",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "FFFFFF",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "ibenjmoore",
+        "statuses_count": 880,
+        "time_zone": "London",
+        "url": null,
+        "utc_offset": 0,
+        "verified": false
+    }
+}

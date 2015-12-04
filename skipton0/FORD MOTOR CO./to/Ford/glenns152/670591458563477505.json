@@ -1,0 +1,153 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Nov 28 13:13:57 +0000 2015",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    88,
+                    98
+                ],
+                "text": "fordfocus"
+            },
+            {
+                "indices": [
+                    99,
+                    103
+                ],
+                "text": "MK1"
+            },
+            {
+                "indices": [
+                    104,
+                    124
+                ],
+                "text": "betterlookingbumper"
+            },
+            {
+                "indices": [
+                    125,
+                    133
+                ],
+                "text": "curious"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 15676492,
+                "id_str": "15676492",
+                "indices": [
+                    0,
+                    5
+                ],
+                "name": "Ford Motor Company",
+                "screen_name": "Ford"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 670591458563477505,
+    "id_str": "670591458563477505",
+    "in_reply_to_screen_name": "Ford",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 15676492,
+    "in_reply_to_user_id_str": "15676492",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -6.4757083,
+                        53.3508617
+                    ],
+                    [
+                        -5.9957316,
+                        53.3508617
+                    ],
+                    [
+                        -5.9957316,
+                        53.6383337
+                    ],
+                    [
+                        -6.4757083,
+                        53.6383337
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "Ireland",
+        "country_code": "IE",
+        "full_name": "Fingal, Ireland",
+        "id": "73a5d83329504007",
+        "name": "Fingal",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/73a5d83329504007.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@Ford Ford Focus Mk1 Rs front bumper with lights and mesh how much in euros to Ireland? #fordfocus #MK1 #betterlookingbumper #curious",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Nov 21 10:50:30 +0000 2013",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "1#Sales Assistant, Gym junkie, Diabetic, wannabe model & really good Kareoke singer so im told ha",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 374,
+        "follow_request_sent": false,
+        "followers_count": 42,
+        "following": false,
+        "friends_count": 298,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 2189761337,
+        "id_str": "2189761337",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 1,
+        "location": "Dublin",
+        "name": "Glenn Smith",
+        "notifications": false,
+        "profile_background_color": "ACDED6",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000121092262/e3bf5bfc5e7cd1a0e6293c500d2809a2.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000121092262/e3bf5bfc5e7cd1a0e6293c500d2809a2.jpeg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2189761337/1392208428",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/570920800821366784/VIhIAISt_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/570920800821366784/VIhIAISt_normal.jpeg",
+        "profile_link_color": "038543",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "glenns152",
+        "statuses_count": 217,
+        "time_zone": "Dublin",
+        "url": null,
+        "utc_offset": 0,
+        "verified": false
+    }
+}

@@ -1,0 +1,124 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Nov 25 21:15:03 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 15676492,
+                "id_str": "15676492",
+                "indices": [
+                    0,
+                    5
+                ],
+                "name": "Ford Motor Company",
+                "screen_name": "Ford"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 669625367813070848,
+    "id_str": "669625367813070848",
+    "in_reply_to_screen_name": "Ford",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 15676492,
+    "in_reply_to_user_id_str": "15676492",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -99.885288,
+                        43.363215
+                    ],
+                    [
+                        -99.830532,
+                        43.363215
+                    ],
+                    [
+                        -99.830532,
+                        43.386304
+                    ],
+                    [
+                        -99.885288,
+                        43.386304
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Winner, SD",
+        "id": "b7936c8f4d96121d",
+        "name": "Winner",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/b7936c8f4d96121d.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@Ford design team: hey let's make all our shit hard to work on. Yeah let's make them take the whole grill off to replace a headlight.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Aug 22 05:01:07 +0000 2012",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "already got my eyes in 2016",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 13623,
+        "follow_request_sent": false,
+        "followers_count": 461,
+        "following": false,
+        "friends_count": 404,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 772906128,
+        "id_str": "772906128",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 1,
+        "location": "Brookings, SD",
+        "name": "Jake",
+        "notifications": false,
+        "profile_background_color": "000305",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/639547747/9a3t83vb6w0tbfigvvi2.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/639547747/9a3t83vb6w0tbfigvvi2.jpeg",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/772906128/1429761597",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/621087767938924544/u1aLMMmO_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/621087767938924544/u1aLMMmO_normal.jpg",
+        "profile_link_color": "095EE6",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "jakehrabanek",
+        "statuses_count": 4216,
+        "time_zone": "Eastern Time (US & Canada)",
+        "url": null,
+        "utc_offset": -18000,
+        "verified": false
+    }
+}

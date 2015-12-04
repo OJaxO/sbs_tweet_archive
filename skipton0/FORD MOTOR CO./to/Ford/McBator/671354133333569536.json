@@ -1,0 +1,171 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Nov 30 15:44:33 +0000 2015",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    70,
+                    79
+                ],
+                "text": "FiestaST"
+            }
+        ],
+        "media": [
+            {
+                "display_url": "pic.twitter.com/Ukti0mqH18",
+                "expanded_url": "http://twitter.com/McBator/status/671354133333569536/photo/1",
+                "id": 671354123934113792,
+                "id_str": "671354123934113792",
+                "indices": [
+                    80,
+                    103
+                ],
+                "media_url": "http://pbs.twimg.com/media/CVEhBMuWIAA2khu.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/CVEhBMuWIAA2khu.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 1024,
+                        "resize": "fit",
+                        "w": 768
+                    },
+                    "medium": {
+                        "h": 800,
+                        "resize": "fit",
+                        "w": 600
+                    },
+                    "small": {
+                        "h": 453,
+                        "resize": "fit",
+                        "w": 340
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/Ukti0mqH18"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 15676492,
+                "id_str": "15676492",
+                "indices": [
+                    0,
+                    5
+                ],
+                "name": "Ford Motor Company",
+                "screen_name": "Ford"
+            }
+        ]
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": null,
+    "id": 671354133333569536,
+    "id_str": "671354133333569536",
+    "in_reply_to_screen_name": "Ford",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 15676492,
+    "in_reply_to_user_id_str": "15676492",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -87.762295,
+                        41.997147
+                    ],
+                    [
+                        -87.709069,
+                        41.997147
+                    ],
+                    [
+                        -87.709069,
+                        42.0154328
+                    ],
+                    [
+                        -87.762295,
+                        42.0154328
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Lincolnwood, IL",
+        "id": "454e631ab87f60a6",
+        "name": "Lincolnwood",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/454e631ab87f60a6.json"
+    },
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@Ford number four for me. You've really outdone yourself on this one. #FiestaST https://t.co/Ukti0mqH18",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Nov 11 02:46:44 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Doer of logistics and enthusiast of Cubs baseball. I've been to Mexico and I can't stand Fleetwood Mac.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 466,
+        "follow_request_sent": false,
+        "followers_count": 170,
+        "following": false,
+        "friends_count": 726,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 214310462,
+        "id_str": "214310462",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 1,
+        "location": "Chicago, IL",
+        "name": "Bator",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/214310462/1435066524",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/2536127433/image_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/2536127433/image_normal.jpg",
+        "profile_link_color": "3B94D9",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "McBator",
+        "statuses_count": 1199,
+        "time_zone": "Central Time (US & Canada)",
+        "url": null,
+        "utc_offset": -21600,
+        "verified": false
+    }
+}

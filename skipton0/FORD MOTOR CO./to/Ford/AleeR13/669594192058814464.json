@@ -1,0 +1,322 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Nov 25 19:11:10 +0000 2015",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    59,
+                    68
+                ],
+                "text": "FordFigo"
+            }
+        ],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/AleeR13/status\u2026",
+                "expanded_url": "https://twitter.com/AleeR13/status/669561588228075520",
+                "indices": [
+                    74,
+                    97
+                ],
+                "url": "https://t.co/9lR8SMsZ99"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 15676492,
+                "id_str": "15676492",
+                "indices": [
+                    0,
+                    5
+                ],
+                "name": "Ford Motor Company",
+                "screen_name": "Ford"
+            },
+            {
+                "id": 72860128,
+                "id_str": "72860128",
+                "indices": [
+                    6,
+                    15
+                ],
+                "name": "Ford Figo",
+                "screen_name": "FordFigo"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 669594192058814464,
+    "id_str": "669594192058814464",
+    "in_reply_to_screen_name": "Ford",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 15676492,
+    "in_reply_to_user_id_str": "15676492",
+    "is_quote_status": true,
+    "lang": "es",
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -100.421037,
+                        25.4805381
+                    ],
+                    [
+                        -100.166146,
+                        25.4805381
+                    ],
+                    [
+                        -100.166146,
+                        25.802899
+                    ],
+                    [
+                        -100.421037,
+                        25.802899
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "M\u00e9xico",
+        "country_code": "MX",
+        "full_name": "Monterrey, Nuevo Le\u00f3n",
+        "id": "b19e24ce42ccd6aa",
+        "name": "Monterrey",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/b19e24ce42ccd6aa.json"
+    },
+    "possibly_sensitive": false,
+    "quoted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Wed Nov 25 17:01:37 +0000 2015",
+        "entities": {
+            "hashtags": [
+                {
+                    "indices": [
+                        14,
+                        23
+                    ],
+                    "text": "FordFigo"
+                },
+                {
+                    "indices": [
+                        24,
+                        29
+                    ],
+                    "text": "ipod"
+                }
+            ],
+            "media": [
+                {
+                    "display_url": "pic.twitter.com/8arfnngp69",
+                    "expanded_url": "http://twitter.com/AleeR13/status/669561588228075520/photo/1",
+                    "id": 669561550546472960,
+                    "id_str": "669561550546472960",
+                    "indices": [
+                        30,
+                        53
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/CUrCrseVEAAIZoC.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/CUrCrseVEAAIZoC.jpg",
+                    "sizes": {
+                        "large": {
+                            "h": 576,
+                            "resize": "fit",
+                            "w": 1024
+                        },
+                        "medium": {
+                            "h": 337,
+                            "resize": "fit",
+                            "w": 600
+                        },
+                        "small": {
+                            "h": 191,
+                            "resize": "fit",
+                            "w": 340
+                        },
+                        "thumb": {
+                            "h": 150,
+                            "resize": "crop",
+                            "w": 150
+                        }
+                    },
+                    "type": "photo",
+                    "url": "https://t.co/8arfnngp69"
+                }
+            ],
+            "symbols": [],
+            "urls": [],
+            "user_mentions": []
+        },
+        "favorite_count": 17,
+        "favorited": false,
+        "geo": null,
+        "id": 669561588228075520,
+        "id_str": "669561588228075520",
+        "in_reply_to_screen_name": null,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "is_quote_status": false,
+        "lang": "es",
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "place": {
+            "attributes": {},
+            "bounding_box": {
+                "coordinates": [
+                    [
+                        [
+                            -100.421037,
+                            25.4805381
+                        ],
+                        [
+                            -100.166146,
+                            25.4805381
+                        ],
+                        [
+                            -100.166146,
+                            25.802899
+                        ],
+                        [
+                            -100.421037,
+                            25.802899
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "contained_within": [],
+            "country": "M\u00e9xico",
+            "country_code": "MX",
+            "full_name": "Monterrey, Nuevo Le\u00f3n",
+            "id": "b19e24ce42ccd6aa",
+            "name": "Monterrey",
+            "place_type": "city",
+            "url": "https://api.twitter.com/1.1/geo/id/b19e24ce42ccd6aa.json"
+        },
+        "possibly_sensitive": false,
+        "retweet_count": 84,
+        "retweeted": false,
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "text": "RT Por favor! #FordFigo #ipod https://t.co/8arfnngp69",
+        "truncated": false,
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Wed Aug 19 16:23:00 +0000 2009",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "Redes Sociales: Tere Ocampo. Por qu\u00e9 los hombres aman a las cabronas (Obra Teatral M\u00e9xico). Nuestra Modelo en USA [Ten Fe] \u270c\ufe0f",
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "favourites_count": 1150,
+            "follow_request_sent": false,
+            "followers_count": 1063,
+            "following": false,
+            "friends_count": 441,
+            "geo_enabled": true,
+            "has_extended_profile": false,
+            "id": 67042465,
+            "id_str": "67042465",
+            "is_translation_enabled": false,
+            "is_translator": false,
+            "lang": "es",
+            "listed_count": 8,
+            "location": "Monterrey, Nuevo Le\u00f3n",
+            "name": "Ale\u2022Romo",
+            "notifications": false,
+            "profile_background_color": "EBEBEB",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/403592724/210350_1678877292642_1258802991_1412912_3556225_o.jpg",
+            "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/403592724/210350_1678877292642_1258802991_1412912_3556225_o.jpg",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/67042465/1445144366",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/667552732383866880/gIWJ_2pu_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/667552732383866880/gIWJ_2pu_normal.jpg",
+            "profile_link_color": "990000",
+            "profile_sidebar_border_color": "DFDFDF",
+            "profile_sidebar_fill_color": "F3F3F3",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "AleeR13",
+            "statuses_count": 61102,
+            "time_zone": "Monterrey",
+            "url": null,
+            "utc_offset": -21600,
+            "verified": false
+        }
+    },
+    "quoted_status_id": 669561588228075520,
+    "quoted_status_id_str": "669561588228075520",
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@Ford @FordFigo ay\u00fadenme con un RT para ganarme el ipod\ud83d\ude49\ud83d\ude4a\ud83d\ude48 #FordFigo AQUI https://t.co/9lR8SMsZ99",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Aug 19 16:23:00 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Redes Sociales: Tere Ocampo. Por qu\u00e9 los hombres aman a las cabronas (Obra Teatral M\u00e9xico). Nuestra Modelo en USA [Ten Fe] \u270c\ufe0f",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 1150,
+        "follow_request_sent": false,
+        "followers_count": 1063,
+        "following": false,
+        "friends_count": 441,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 67042465,
+        "id_str": "67042465",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "es",
+        "listed_count": 8,
+        "location": "Monterrey, Nuevo Le\u00f3n",
+        "name": "Ale\u2022Romo",
+        "notifications": false,
+        "profile_background_color": "EBEBEB",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/403592724/210350_1678877292642_1258802991_1412912_3556225_o.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/403592724/210350_1678877292642_1258802991_1412912_3556225_o.jpg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/67042465/1445144366",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/667552732383866880/gIWJ_2pu_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/667552732383866880/gIWJ_2pu_normal.jpg",
+        "profile_link_color": "990000",
+        "profile_sidebar_border_color": "DFDFDF",
+        "profile_sidebar_fill_color": "F3F3F3",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "AleeR13",
+        "statuses_count": 61102,
+        "time_zone": "Monterrey",
+        "url": null,
+        "utc_offset": -21600,
+        "verified": false
+    }
+}

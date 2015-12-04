@@ -1,0 +1,175 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Nov 28 19:05:47 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "media": [
+            {
+                "display_url": "pic.twitter.com/DhrpGXdNtO",
+                "expanded_url": "http://twitter.com/ReifEdward/status/670679999536627713/photo/1",
+                "id": 670679997858738177,
+                "id_str": "670679997858738177",
+                "indices": [
+                    14,
+                    37
+                ],
+                "media_url": "http://pbs.twimg.com/media/CU6755ZUcAEHmaq.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/CU6755ZUcAEHmaq.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 640,
+                        "resize": "fit",
+                        "w": 480
+                    },
+                    "medium": {
+                        "h": 640,
+                        "resize": "fit",
+                        "w": 480
+                    },
+                    "small": {
+                        "h": 453,
+                        "resize": "fit",
+                        "w": 340
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/DhrpGXdNtO"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 15676492,
+                "id_str": "15676492",
+                "indices": [
+                    0,
+                    5
+                ],
+                "name": "Ford Motor Company",
+                "screen_name": "Ford"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 670679999536627713,
+    "id_str": "670679999536627713",
+    "in_reply_to_screen_name": "Ford",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 15676492,
+    "in_reply_to_user_id_str": "15676492",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -122.436232,
+                        47.4953154
+                    ],
+                    [
+                        -122.2249728,
+                        47.4953154
+                    ],
+                    [
+                        -122.2249728,
+                        47.734561
+                    ],
+                    [
+                        -122.436232,
+                        47.734561
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Seattle, WA",
+        "id": "300bcc6e23a88361",
+        "name": "Seattle",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/300bcc6e23a88361.json"
+    },
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@Ford Thanks! https://t.co/DhrpGXdNtO",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Nov 06 15:26:51 +0000 2014",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "I'm an old guy from the city who likes sports, the movies, the newspapers, truck driving, construction, cooking, a beer and anybody who just wants to be",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "yabbaman21.wordpress.com",
+                        "expanded_url": "http://yabbaman21.wordpress.com",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/xJtcVRVEvq"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 137,
+        "follow_request_sent": false,
+        "followers_count": 727,
+        "following": false,
+        "friends_count": 5001,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 2863972793,
+        "id_str": "2863972793",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 10,
+        "location": "Seattle, Washington USA",
+        "name": "Michael Edward Reif",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/584529144668561408/nSaIy5si_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/584529144668561408/nSaIy5si_normal.jpg",
+        "profile_link_color": "DD2E44",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "ReifEdward",
+        "statuses_count": 12780,
+        "time_zone": null,
+        "url": "https://t.co/xJtcVRVEvq",
+        "utc_offset": null,
+        "verified": false
+    }
+}

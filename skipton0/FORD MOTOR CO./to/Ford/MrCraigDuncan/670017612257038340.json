@@ -1,0 +1,155 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Nov 26 23:13:41 +0000 2015",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    131,
+                    137
+                ],
+                "text": "FixIt"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 15676492,
+                "id_str": "15676492",
+                "indices": [
+                    0,
+                    5
+                ],
+                "name": "Ford Motor Company",
+                "screen_name": "Ford"
+            },
+            {
+                "id": 1327182110,
+                "id_str": "1327182110",
+                "indices": [
+                    6,
+                    21
+                ],
+                "name": "Ford Service UK",
+                "screen_name": "FordService_UK"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 670017612257038340,
+    "id_str": "670017612257038340",
+    "in_reply_to_screen_name": "Ford",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 15676492,
+    "in_reply_to_user_id_str": "15676492",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        0.170514,
+                        51.307658
+                    ],
+                    [
+                        0.206335,
+                        51.307658
+                    ],
+                    [
+                        0.206335,
+                        51.324475
+                    ],
+                    [
+                        0.170514,
+                        51.324475
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United Kingdom",
+        "country_code": "GB",
+        "full_name": "Otford, England",
+        "id": "173e10703c219631",
+        "name": "Otford",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/173e10703c219631.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+    "text": "@Ford @FordService_UK wow just seen that Sync 2 won't read text messages from an iPhone? Seriously. Even a Seat Ibiza can go that. #FixIt?",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Jan 19 16:03:14 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Family man, Spurs fan and Soul Show host. Nystagmus sufferer.  Disney Parks insidEAR and past Disney podcaster. Used to be disneycjd (still am in some places)",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "octoberlaw.com",
+                        "expanded_url": "http://www.octoberlaw.com",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/IILki0ubps"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 1335,
+        "follow_request_sent": false,
+        "followers_count": 410,
+        "following": false,
+        "friends_count": 100,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 240294158,
+        "id_str": "240294158",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 17,
+        "location": "UK and USA",
+        "name": "Craig Duncan",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/229145632/colorful-merchandise-for-walt-disney-world-e2-80-99s-40th-anniversary.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/229145632/colorful-merchandise-for-walt-disney-world-e2-80-99s-40th-anniversary.jpg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/240294158/1400435160",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/468084744937537536/E1Iiwx7G_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/468084744937537536/E1Iiwx7G_normal.jpeg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "MrCraigDuncan",
+        "statuses_count": 8710,
+        "time_zone": "London",
+        "url": "http://t.co/IILki0ubps",
+        "utc_offset": 0,
+        "verified": false
+    }
+}
