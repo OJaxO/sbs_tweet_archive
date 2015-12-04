@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Dec 02 00:15:03 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 37435412,
+                "id_str": "37435412",
+                "indices": [
+                    0,
+                    15
+                ],
+                "name": "Verizon Support",
+                "screen_name": "VerizonSupport"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 671844993947058176,
+    "id_str": "671844993947058176",
+    "in_reply_to_screen_name": "VerizonSupport",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 37435412,
+    "in_reply_to_user_id_str": "37435412",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -82.6485771,
+                        28.038662
+                    ],
+                    [
+                        -82.5782626,
+                        28.038662
+                    ],
+                    [
+                        -82.5782626,
+                        28.0854399
+                    ],
+                    [
+                        -82.6485771,
+                        28.0854399
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Westchase, FL",
+        "id": "44c12398792e903e",
+        "name": "Westchase",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/44c12398792e903e.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@VerizonSupport still trying to get help",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun May 20 21:34:31 +0000 2012",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Bridge Builder - Living a life of service to others to make a better tomorrow. Romans 8:28. Truly blessed husband and father.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "WestchaseSF.com",
+                        "expanded_url": "http://www.WestchaseSF.com",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/cmlDFi9lEl"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 8031,
+        "follow_request_sent": false,
+        "followers_count": 553,
+        "following": false,
+        "friends_count": 759,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 586011815,
+        "id_str": "586011815",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 8,
+        "location": "Westchase, FL",
+        "name": "Arlo Henderson Agent",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/586011815/1448664726",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/664950572542373888/QYw70rOp_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/664950572542373888/QYw70rOp_normal.jpg",
+        "profile_link_color": "DD2E44",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "WestchaseSFArlo",
+        "statuses_count": 7985,
+        "time_zone": "Eastern Time (US & Canada)",
+        "url": "https://t.co/cmlDFi9lEl",
+        "utc_offset": -18000,
+        "verified": false
+    }
+}
