@@ -1,0 +1,175 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 01 10:57:33 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "media": [
+            {
+                "display_url": "pic.twitter.com/Kx1GfuOxo2",
+                "expanded_url": "http://twitter.com/BITSolve/status/671644298329370626/photo/1",
+                "id": 671644292021096448,
+                "id_str": "671644292021096448",
+                "indices": [
+                    81,
+                    104
+                ],
+                "media_url": "http://pbs.twimg.com/media/CVIo7NFWEAA0yTY.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/CVIo7NFWEAA0yTY.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 919,
+                        "resize": "fit",
+                        "w": 973
+                    },
+                    "medium": {
+                        "h": 566,
+                        "resize": "fit",
+                        "w": 600
+                    },
+                    "small": {
+                        "h": 321,
+                        "resize": "fit",
+                        "w": 340
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/Kx1GfuOxo2"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 1542862735,
+                "id_str": "1542862735",
+                "indices": [
+                    0,
+                    8
+                ],
+                "name": "Ryanair",
+                "screen_name": "Ryanair"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 671644298329370626,
+    "id_str": "671644298329370626",
+    "in_reply_to_screen_name": "Ryanair",
+    "in_reply_to_status_id": 671641941877084160,
+    "in_reply_to_status_id_str": "671641941877084160",
+    "in_reply_to_user_id": 1542862735,
+    "in_reply_to_user_id_str": "1542862735",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        0.3836341,
+                        51.5463777
+                    ],
+                    [
+                        0.530637,
+                        51.5463777
+                    ],
+                    [
+                        0.530637,
+                        51.594472
+                    ],
+                    [
+                        0.3836341,
+                        51.594472
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United Kingdom",
+        "country_code": "GB",
+        "full_name": "Basildon, England",
+        "id": "13dd0eca94d322f1",
+        "name": "Basildon",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/13dd0eca94d322f1.json"
+    },
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@Ryanair The checkin is saying 'awaiting checkin' and the boarding pass is blank https://t.co/Kx1GfuOxo2",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Oct 16 21:54:03 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Basildon based computer (IT) & business consultancy also Chair of Federation of Small Businesses (FSB) south Essex branch",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "barnesitsolutions.co.uk",
+                        "expanded_url": "http://barnesitsolutions.co.uk",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/NfmOlLnFAT"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 114,
+        "follow_request_sent": false,
+        "followers_count": 131,
+        "following": false,
+        "friends_count": 197,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 82982852,
+        "id_str": "82982852",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 23,
+        "location": "Basildon, Essex",
+        "name": "Barnes IT Solutions",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/587262964341800962/qEoQeXTQ_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/587262964341800962/qEoQeXTQ_normal.png",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "BITSolve",
+        "statuses_count": 604,
+        "time_zone": "London",
+        "url": "http://t.co/NfmOlLnFAT",
+        "utc_offset": 0,
+        "verified": false
+    }
+}

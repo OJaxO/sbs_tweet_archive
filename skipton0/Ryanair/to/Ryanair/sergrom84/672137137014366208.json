@@ -1,0 +1,124 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Dec 02 19:35:55 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 1542862735,
+                "id_str": "1542862735",
+                "indices": [
+                    0,
+                    8
+                ],
+                "name": "Ryanair",
+                "screen_name": "Ryanair"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 672137137014366208,
+    "id_str": "672137137014366208",
+    "in_reply_to_screen_name": "Ryanair",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 1542862735,
+    "in_reply_to_user_id_str": "1542862735",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        12.2344266,
+                        41.6558738
+                    ],
+                    [
+                        12.8558641,
+                        41.6558738
+                    ],
+                    [
+                        12.8558641,
+                        42.140959
+                    ],
+                    [
+                        12.2344266,
+                        42.140959
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "Italia",
+        "country_code": "IT",
+        "full_name": "Rome, Lazio",
+        "id": "7d588036fe12e124",
+        "name": "Rome",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/7d588036fe12e124.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@Ryanair Hi, why there will no flights from Rome Ciampino to Trapani starting from March? When will be the route available again? Thanks!",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Apr 08 21:27:10 +0000 2013",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Se puoi non andar via, resta...",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 316,
+        "follow_request_sent": false,
+        "followers_count": 111,
+        "following": false,
+        "friends_count": 284,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 1337647110,
+        "id_str": "1337647110",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "it",
+        "listed_count": 1,
+        "location": "Roma, Lazio",
+        "name": "Sergio",
+        "notifications": false,
+        "profile_background_color": "2E4593",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000008320909/f503a9921dc739217dcb992a29b8d13b.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000008320909/f503a9921dc739217dcb992a29b8d13b.jpeg",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1337647110/1436083575",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/567824694997696513/NSmsPBM6_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/567824694997696513/NSmsPBM6_normal.jpeg",
+        "profile_link_color": "0000FF",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "E3E2DE",
+        "profile_text_color": "634047",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "sergrom84",
+        "statuses_count": 394,
+        "time_zone": "Rome",
+        "url": null,
+        "utc_offset": 3600,
+        "verified": false
+    }
+}

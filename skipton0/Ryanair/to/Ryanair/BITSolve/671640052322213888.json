@@ -1,0 +1,151 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 01 10:40:41 +0000 2015",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    25,
+                    30
+                ],
+                "text": "fail"
+            },
+            {
+                "indices": [
+                    94,
+                    99
+                ],
+                "text": "fail"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 1542862735,
+                "id_str": "1542862735",
+                "indices": [
+                    0,
+                    8
+                ],
+                "name": "Ryanair",
+                "screen_name": "Ryanair"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 671640052322213888,
+    "id_str": "671640052322213888",
+    "in_reply_to_screen_name": "Ryanair",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 1542862735,
+    "in_reply_to_user_id_str": "1542862735",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        0.3836341,
+                        51.5463777
+                    ],
+                    [
+                        0.530637,
+                        51.5463777
+                    ],
+                    [
+                        0.530637,
+                        51.594472
+                    ],
+                    [
+                        0.3836341,
+                        51.594472
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United Kingdom",
+        "country_code": "GB",
+        "full_name": "Basildon, England",
+        "id": "13dd0eca94d322f1",
+        "name": "Basildon",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/13dd0eca94d322f1.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@Ryanair online check-in #fail\n3 different users\n6 different systems\n3 different browsers\nall #fail\nwebchat keep telling users it's the PC",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Oct 16 21:54:03 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Basildon based computer (IT) & business consultancy also Chair of Federation of Small Businesses (FSB) south Essex branch",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "barnesitsolutions.co.uk",
+                        "expanded_url": "http://barnesitsolutions.co.uk",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/NfmOlLnFAT"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 114,
+        "follow_request_sent": false,
+        "followers_count": 131,
+        "following": false,
+        "friends_count": 197,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 82982852,
+        "id_str": "82982852",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 23,
+        "location": "Basildon, Essex",
+        "name": "Barnes IT Solutions",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/587262964341800962/qEoQeXTQ_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/587262964341800962/qEoQeXTQ_normal.png",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "BITSolve",
+        "statuses_count": 604,
+        "time_zone": "London",
+        "url": "http://t.co/NfmOlLnFAT",
+        "utc_offset": 0,
+        "verified": false
+    }
+}

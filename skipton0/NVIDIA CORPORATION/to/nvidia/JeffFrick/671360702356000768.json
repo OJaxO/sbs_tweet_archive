@@ -1,0 +1,180 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Nov 30 16:10:39 +0000 2015",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    36,
+                    44
+                ],
+                "text": "theCUBE"
+            },
+            {
+                "indices": [
+                    48,
+                    54
+                ],
+                "text": "GTC16"
+            },
+            {
+                "indices": [
+                    119,
+                    135
+                ],
+                "text": "OpenPOWERSummit"
+            }
+        ],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "siliconangle.tv/openpower-summ\u2026",
+                "expanded_url": "http://siliconangle.tv/openpower-summit-2015-san-jose-ca/",
+                "indices": [
+                    95,
+                    118
+                ],
+                "url": "https://t.co/KkxzxKFbR7"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 61559439,
+                "id_str": "61559439",
+                "indices": [
+                    0,
+                    7
+                ],
+                "name": "NVIDIA",
+                "screen_name": "nvidia"
+            },
+            {
+                "id": 14852810,
+                "id_str": "14852810",
+                "indices": [
+                    8,
+                    18
+                ],
+                "name": "Jim McHugh",
+                "screen_name": "JimMcHugh"
+            }
+        ]
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": null,
+    "id": 671360702356000768,
+    "id_str": "671360702356000768",
+    "in_reply_to_screen_name": "nvidia",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 61559439,
+    "in_reply_to_user_id_str": "61559439",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -122.190523,
+                        37.362824
+                    ],
+                    [
+                        -122.097537,
+                        37.362824
+                    ],
+                    [
+                        -122.097537,
+                        37.465918
+                    ],
+                    [
+                        -122.190523,
+                        37.465918
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Palo Alto, CA",
+        "id": "3ad0f706b3fa62a8",
+        "name": "Palo Alto",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/3ad0f706b3fa62a8.json"
+    },
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@nvidia @JimMcHugh &gt; Have to get #theCUBE to #GTC16\nOpenPOWER Summit was co-located in 2015\nhttps://t.co/KkxzxKFbR7\n#OpenPOWERSummit",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Jan 30 01:18:33 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "GM for @theCUBE, the Leading Interview format show covering Enterprise Tech & Innovation.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "SiliconANGLE.tv",
+                        "expanded_url": "http://SiliconANGLE.tv",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/CeJbZtJPdU"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 9860,
+        "follow_request_sent": false,
+        "followers_count": 1830,
+        "following": false,
+        "friends_count": 2035,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 19747132,
+        "id_str": "19747132",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 273,
+        "location": "Palo Alto, CA",
+        "name": "Jeff Frick",
+        "notifications": false,
+        "profile_background_color": "9AE4E8",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/9310583/DSC_2656cropped_800.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/9310583/DSC_2656cropped_800.jpg",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/19747132/1441570915",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/531973492267175936/5b7yDtEj_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/531973492267175936/5b7yDtEj_normal.jpeg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "BDDCAD",
+        "profile_sidebar_fill_color": "DDFFCC",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "JeffFrick",
+        "statuses_count": 24215,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "http://t.co/CeJbZtJPdU",
+        "utc_offset": -28800,
+        "verified": false
+    }
+}
