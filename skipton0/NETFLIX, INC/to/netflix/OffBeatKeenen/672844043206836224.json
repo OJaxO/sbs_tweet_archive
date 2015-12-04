@@ -1,0 +1,230 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Dec 04 18:24:55 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/itscurtisbruh/\u2026",
+                "expanded_url": "https://twitter.com/itscurtisbruh/status/672799695299850240",
+                "indices": [
+                    11,
+                    34
+                ],
+                "url": "https://t.co/EUFV6X96Fb"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 16573941,
+                "id_str": "16573941",
+                "indices": [
+                    0,
+                    8
+                ],
+                "name": "Netflix US",
+                "screen_name": "netflix"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 672844043206836224,
+    "id_str": "672844043206836224",
+    "in_reply_to_screen_name": "netflix",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 16573941,
+    "in_reply_to_user_id_str": "16573941",
+    "is_quote_status": true,
+    "lang": "und",
+    "metadata": {
+        "iso_language_code": "und",
+        "result_type": "recent"
+    },
+    "place": null,
+    "possibly_sensitive": false,
+    "quoted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Fri Dec 04 15:28:42 +0000 2015",
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "urls": [],
+            "user_mentions": []
+        },
+        "favorite_count": 64,
+        "favorited": false,
+        "geo": null,
+        "id": 672799695299850240,
+        "id_str": "672799695299850240",
+        "in_reply_to_screen_name": null,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "is_quote_status": false,
+        "lang": "en",
+        "metadata": {
+            "iso_language_code": "und",
+            "result_type": "recent"
+        },
+        "place": {
+            "attributes": {},
+            "bounding_box": {
+                "coordinates": [
+                    [
+                        [
+                            -4.230719,
+                            50.368142
+                        ],
+                        [
+                            -4.192996,
+                            50.368142
+                        ],
+                        [
+                            -4.192996,
+                            50.3803
+                        ],
+                        [
+                            -4.230719,
+                            50.3803
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "contained_within": [],
+            "country": "United Kingdom",
+            "country_code": "GB",
+            "full_name": "Torpoint, England",
+            "id": "6ac4aa98e7d9fa05",
+            "name": "Torpoint",
+            "place_type": "city",
+            "url": "https://api.twitter.com/1.1/geo/id/6ac4aa98e7d9fa05.json"
+        },
+        "retweet_count": 35,
+        "retweeted": false,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "Netflix needs an \u201cI\u2019m feeling lucky\u201d button",
+        "truncated": false,
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Tue Jan 28 21:29:26 +0000 2014",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "Curtis Constantinou, I talk shit but follow if you like. @overyourselfie is bae",
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "instagram.com/itscurtisbruh",
+                            "expanded_url": "http://instagram.com/itscurtisbruh",
+                            "indices": [
+                                0,
+                                23
+                            ],
+                            "url": "https://t.co/jgB5WNwLyM"
+                        }
+                    ]
+                }
+            },
+            "favourites_count": 92,
+            "follow_request_sent": false,
+            "followers_count": 23920,
+            "following": false,
+            "friends_count": 3590,
+            "geo_enabled": true,
+            "has_extended_profile": true,
+            "id": 2316096312,
+            "id_str": "2316096312",
+            "is_translation_enabled": false,
+            "is_translator": false,
+            "lang": "en-gb",
+            "listed_count": 11,
+            "location": "Plymouth, England",
+            "name": "curt",
+            "notifications": false,
+            "profile_background_color": "E2F5F4",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/2316096312/1448902048",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/666978900623405056/vecGglkL_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/666978900623405056/vecGglkL_normal.jpg",
+            "profile_link_color": "00CED1",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "itscurtisbruh",
+            "statuses_count": 761,
+            "time_zone": null,
+            "url": "https://t.co/jgB5WNwLyM",
+            "utc_offset": null,
+            "verified": false
+        }
+    },
+    "quoted_status_id": 672799695299850240,
+    "quoted_status_id_str": "672799695299850240",
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@netflix \ud83d\udc40 https://t.co/EUFV6X96Fb",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Sep 22 00:49:46 +0000 2014",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Forgot the link to my mixtape...",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 4810,
+        "follow_request_sent": false,
+        "followers_count": 682,
+        "following": false,
+        "friends_count": 575,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 2825397379,
+        "id_str": "2825397379",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 1,
+        "location": "The \u2717O Mansion",
+        "name": "El Chapo Jr. ",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/613129245695479808/425qEdjx.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/613129245695479808/425qEdjx.jpg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2825397379/1448558839",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/665238893537660928/q2fhRyRJ_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/665238893537660928/q2fhRyRJ_normal.jpg",
+        "profile_link_color": "FF0000",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "OffBeatKeenen",
+        "statuses_count": 21518,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": null,
+        "utc_offset": -28800,
+        "verified": false
+    }
+}

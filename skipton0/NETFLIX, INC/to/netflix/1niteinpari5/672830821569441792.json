@@ -1,0 +1,155 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Dec 04 17:32:23 +0000 2015",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    104,
+                    121
+                ],
+                "text": "netflixandcancel"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 16573941,
+                "id_str": "16573941",
+                "indices": [
+                    0,
+                    8
+                ],
+                "name": "Netflix US",
+                "screen_name": "netflix"
+            },
+            {
+                "id": 15033883,
+                "id_str": "15033883",
+                "indices": [
+                    60,
+                    65
+                ],
+                "name": "hulu",
+                "screen_name": "hulu"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 672830821569441792,
+    "id_str": "672830821569441792",
+    "in_reply_to_screen_name": "netflix",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 16573941,
+    "in_reply_to_user_id_str": "16573941",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -118.668404,
+                        33.704538
+                    ],
+                    [
+                        -118.155409,
+                        33.704538
+                    ],
+                    [
+                        -118.155409,
+                        34.337041
+                    ],
+                    [
+                        -118.668404,
+                        34.337041
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Los Angeles, CA",
+        "id": "3b77caf94bfc81fe",
+        "name": "Los Angeles",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/3b77caf94bfc81fe.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@netflix is full of just C and D list movies now, wonder if @hulu bought up all their good contracts :( #netflixandcancel",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Mar 04 01:51:33 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "LA \u2022 Pin Up \u2022 Disneyland \u2022 OTHER ACCOUNTS Personal Instagram: @1niteinparis \u2022 Follow my Disneyland Instagram: @rapunzarellayt",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "m.youtube.com/user/m3ownatal\u2026",
+                        "expanded_url": "https://m.youtube.com/user/m3ownatali3",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/CXgFtPspE2"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 4118,
+        "follow_request_sent": false,
+        "followers_count": 636,
+        "following": false,
+        "friends_count": 132,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 119575408,
+        "id_str": "119575408",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 2,
+        "location": "Los Angeles, CA",
+        "name": "Natalie\u2661",
+        "notifications": false,
+        "profile_background_color": "FFFFFF",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/643136204/0o0s2fjtoobfhx3gzsgv.png",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/643136204/0o0s2fjtoobfhx3gzsgv.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/119575408/1423448313",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/565335856106721281/lAifBlNe_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/565335856106721281/lAifBlNe_normal.jpeg",
+        "profile_link_color": "F55AC4",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "FFFFFF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "1niteinpari5",
+        "statuses_count": 22547,
+        "time_zone": "Alaska",
+        "url": "https://t.co/CXgFtPspE2",
+        "utc_offset": -32400,
+        "verified": false
+    }
+}
