@@ -1,0 +1,124 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 01 22:27:03 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 403522137,
+                "id_str": "403522137",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "Sky Help Team",
+                "screen_name": "SkyHelpTeam"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 671817815884742656,
+    "id_str": "671817815884742656",
+    "in_reply_to_screen_name": "SkyHelpTeam",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 403522137,
+    "in_reply_to_user_id_str": "403522137",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -1.706057,
+                        53.7363694
+                    ],
+                    [
+                        -1.424923,
+                        53.7363694
+                    ],
+                    [
+                        -1.424923,
+                        53.867543
+                    ],
+                    [
+                        -1.706057,
+                        53.867543
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United Kingdom",
+        "country_code": "GB",
+        "full_name": "Leeds, England",
+        "id": "6863fd050de21120",
+        "name": "Leeds",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/6863fd050de21120.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@SkyHelpTeam how can my flat mate connect to sky internet yet my phone and laptop won't work at all!?!? \ud83d\ude2d\ud83d\ude21",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Apr 07 23:18:30 +0000 2012",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Minimalist",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 1446,
+        "follow_request_sent": false,
+        "followers_count": 374,
+        "following": false,
+        "friends_count": 278,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 547979174,
+        "id_str": "547979174",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 2,
+        "location": "Leeds",
+        "name": "Sam Heathcote",
+        "notifications": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/454643910283763712/XB6WRdX4.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/454643910283763712/XB6WRdX4.jpeg",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/547979174/1440365510",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/655077447382208512/RaoobOeI_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/655077447382208512/RaoobOeI_normal.jpg",
+        "profile_link_color": "030303",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "SamLHeathcote92",
+        "statuses_count": 6838,
+        "time_zone": "Amsterdam",
+        "url": null,
+        "utc_offset": 3600,
+        "verified": false
+    }
+}
