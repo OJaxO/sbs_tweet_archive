@@ -1,0 +1,162 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Dec 04 14:12:13 +0000 2015",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    7,
+                    12
+                ],
+                "text": "Brit"
+            },
+            {
+                "indices": [
+                    23,
+                    30
+                ],
+                "text": "Canada"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 271986064,
+                "id_str": "271986064",
+                "indices": [
+                    0,
+                    6
+                ],
+                "name": "Tesco",
+                "screen_name": "Tesco"
+            },
+            {
+                "id": 271986064,
+                "id_str": "271986064",
+                "indices": [
+                    86,
+                    92
+                ],
+                "name": "Tesco",
+                "screen_name": "Tesco"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 672780449748402176,
+    "id_str": "672780449748402176",
+    "in_reply_to_screen_name": "Tesco",
+    "in_reply_to_status_id": 672780018607480832,
+    "in_reply_to_status_id_str": "672780018607480832",
+    "in_reply_to_user_id": 271986064,
+    "in_reply_to_user_id_str": "271986064",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -80.8690828,
+                        43.266799
+                    ],
+                    [
+                        -80.187623,
+                        43.266799
+                    ],
+                    [
+                        -80.187623,
+                        43.689689
+                    ],
+                    [
+                        -80.8690828,
+                        43.689689
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "Canada",
+        "country_code": "CA",
+        "full_name": "Waterloo, Ontario",
+        "id": "07e68f760b5b6e71",
+        "name": "Waterloo",
+        "place_type": "admin",
+        "url": "https://api.twitter.com/1.1/geo/id/07e68f760b5b6e71.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@Tesco #Brit living in #Canada, can't wait to come back in April for a visit to enjoy @Tesco shopping again:)",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Apr 25 13:33:28 +0000 2008",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "They call me the Social Sweetheart born in Birmingham UK live in Canada 2 x breast cancer Co-Founder Small Business Community Network & Motivational Steps",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "lindaoj.me",
+                        "expanded_url": "http://www.lindaoj.me/",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/3Gu546wMcu"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 542,
+        "follow_request_sent": false,
+        "followers_count": 7303,
+        "following": false,
+        "friends_count": 8019,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 14526271,
+        "id_str": "14526271",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 209,
+        "location": "Ontario, Canada",
+        "name": "Linda Ockwell-Jenner",
+        "notifications": false,
+        "profile_background_color": "FF6699",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme11/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme11/bg.gif",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/14526271/1446300325",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/671797502048251905/WsDT1aFN_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/671797502048251905/WsDT1aFN_normal.jpg",
+        "profile_link_color": "B40B43",
+        "profile_sidebar_border_color": "CC3366",
+        "profile_sidebar_fill_color": "E5507E",
+        "profile_text_color": "362720",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "LindaOJ",
+        "statuses_count": 43122,
+        "time_zone": "Eastern Time (US & Canada)",
+        "url": "https://t.co/3Gu546wMcu",
+        "utc_offset": -18000,
+        "verified": false
+    }
+}

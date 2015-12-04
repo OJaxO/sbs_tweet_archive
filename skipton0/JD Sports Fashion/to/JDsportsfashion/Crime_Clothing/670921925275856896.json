@@ -1,0 +1,136 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Nov 29 11:07:06 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 26239843,
+                "id_str": "26239843",
+                "indices": [
+                    0,
+                    16
+                ],
+                "name": "JD Sports",
+                "screen_name": "JDsportsfashion"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 670921925275856896,
+    "id_str": "670921925275856896",
+    "in_reply_to_screen_name": "JDsportsfashion",
+    "in_reply_to_status_id": 670905099128967169,
+    "in_reply_to_status_id_str": "670905099128967169",
+    "in_reply_to_user_id": 26239843,
+    "in_reply_to_user_id_str": "26239843",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -0.799282,
+                        51.5837849
+                    ],
+                    [
+                        -0.676246,
+                        51.5837849
+                    ],
+                    [
+                        -0.676246,
+                        51.651902
+                    ],
+                    [
+                        -0.799282,
+                        51.651902
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United Kingdom",
+        "country_code": "GB",
+        "full_name": "High Wycombe, England",
+        "id": "3abd70ca60af5075",
+        "name": "High Wycombe",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/3abd70ca60af5075.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@JDsportsfashion not exclusively.  They can be picked up from nike and from me.  I stocked tgese over a month ago",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Aug 15 19:57:50 +0000 2013",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Urban Street Sportswear retailer.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "crimeclothing.co.uk",
+                        "expanded_url": "http://www.crimeclothing.co.uk",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/LDKhH9iSIz"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 910,
+        "follow_request_sent": false,
+        "followers_count": 111,
+        "following": false,
+        "friends_count": 126,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 1673915148,
+        "id_str": "1673915148",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 1,
+        "location": "High Wycombe",
+        "name": "Crime Clothing",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/378800000304003549/93906e417bd66d987f1c06c1837698be_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000304003549/93906e417bd66d987f1c06c1837698be_normal.jpeg",
+        "profile_link_color": "4A913C",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "Crime_Clothing",
+        "statuses_count": 707,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "http://t.co/LDKhH9iSIz",
+        "utc_offset": -28800,
+        "verified": false
+    }
+}
