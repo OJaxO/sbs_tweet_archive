@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Nov 30 06:11:36 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 1542862735,
+                "id_str": "1542862735",
+                "indices": [
+                    0,
+                    8
+                ],
+                "name": "Ryanair",
+                "screen_name": "Ryanair"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 671209948508987392,
+    "id_str": "671209948508987392",
+    "in_reply_to_screen_name": "Ryanair",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 1542862735,
+    "in_reply_to_user_id_str": "1542862735",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        2.2649599,
+                        48.9023513
+                    ],
+                    [
+                        2.322018,
+                        48.9023513
+                    ],
+                    [
+                        2.322018,
+                        48.9336709
+                    ],
+                    [
+                        2.2649599,
+                        48.9336709
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "France",
+        "country_code": "FR",
+        "full_name": "Asni\u00e8res-sur-Seine, Ile-de-France",
+        "id": "57b8055fd5cc511c",
+        "name": "Asni\u00e8res-sur-Seine",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/57b8055fd5cc511c.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@Ryanair Hi are there going to be any promotions today because of the Ciber Monday as it was with last Black Friday? Thanks",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Oct 31 19:41:06 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Nunca dejes que nadie te diga que no puedes hacer algo.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "facebook.com/eliaspechi.cas\u2026",
+                        "expanded_url": "http://www.facebook.com/eliaspechi.casal",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/n88fvLaDoT"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 413,
+        "follow_request_sent": false,
+        "followers_count": 220,
+        "following": false,
+        "friends_count": 682,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 86589501,
+        "id_str": "86589501",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "fr",
+        "listed_count": 3,
+        "location": "Recoleta, Buenos Aires",
+        "name": "Elias S. Casal",
+        "notifications": false,
+        "profile_background_color": "352726",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/86589501/1397863756",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/457299038686048256/LYQTny96_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/457299038686048256/LYQTny96_normal.jpeg",
+        "profile_link_color": "3B94D9",
+        "profile_sidebar_border_color": "829D5E",
+        "profile_sidebar_fill_color": "99CC33",
+        "profile_text_color": "3E4415",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "iljuezpechis",
+        "statuses_count": 1814,
+        "time_zone": "Sydney",
+        "url": "http://t.co/n88fvLaDoT",
+        "utc_offset": 39600,
+        "verified": false
+    }
+}

@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Nov 29 15:38:43 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 1542862735,
+                "id_str": "1542862735",
+                "indices": [
+                    0,
+                    8
+                ],
+                "name": "Ryanair",
+                "screen_name": "Ryanair"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 670990276660436993,
+    "id_str": "670990276660436993",
+    "in_reply_to_screen_name": "Ryanair",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 1542862735,
+    "in_reply_to_user_id_str": "1542862735",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        12.453064,
+                        55.613717
+                    ],
+                    [
+                        12.6511441,
+                        55.613717
+                    ],
+                    [
+                        12.6511441,
+                        55.731834
+                    ],
+                    [
+                        12.453064,
+                        55.731834
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "Danmark",
+        "country_code": "DK",
+        "full_name": "Copenhagen, Capital Region of Denmark",
+        "id": "936b83f20956cd4c",
+        "name": "Copenhagen",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/936b83f20956cd4c.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@Ryanair Any expected delays on this evening's CPH&gt;DUB flight?",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Jan 27 12:45:43 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Work in #socialmedia. Occasionally heard on radio. Irish (Gaelic) speaker. Founder / Editor-at-Large @EILEMagazine; blogger, and soon podcaster \u2013 stay tuned!",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "scottdb.eu",
+                        "expanded_url": "http://scottdb.eu",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/dOKb6QxWWs"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 4740,
+        "follow_request_sent": false,
+        "followers_count": 4234,
+        "following": false,
+        "friends_count": 1324,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 19589816,
+        "id_str": "19589816",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en-gb",
+        "listed_count": 140,
+        "location": "Nottingham, UK",
+        "name": "Scott De Buitl\u00e9ir",
+        "notifications": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/19589816/1448842100",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/672097115762462720/MdDfDo4I_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/672097115762462720/MdDfDo4I_normal.jpg",
+        "profile_link_color": "003D99",
+        "profile_sidebar_border_color": "EEEEEE",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "scottdebuitleir",
+        "statuses_count": 42156,
+        "time_zone": "Dublin",
+        "url": "https://t.co/dOKb6QxWWs",
+        "utc_offset": 0,
+        "verified": false
+    }
+}

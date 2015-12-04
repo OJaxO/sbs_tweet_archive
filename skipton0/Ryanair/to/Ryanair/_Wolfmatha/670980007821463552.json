@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Nov 29 14:57:54 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 1542862735,
+                "id_str": "1542862735",
+                "indices": [
+                    0,
+                    8
+                ],
+                "name": "Ryanair",
+                "screen_name": "Ryanair"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 670980007821463552,
+    "id_str": "670980007821463552",
+    "in_reply_to_screen_name": "Ryanair",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 1542862735,
+    "in_reply_to_user_id_str": "1542862735",
+    "is_quote_status": false,
+    "lang": "es",
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        25.668509,
+                        35.8084193
+                    ],
+                    [
+                        44.817931,
+                        35.8084193
+                    ],
+                    [
+                        44.817931,
+                        42.1047857
+                    ],
+                    [
+                        25.668509,
+                        42.1047857
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "T\u00fcrkiye",
+        "country_code": "TR",
+        "full_name": "Turkey",
+        "id": "682c5a667856ef42",
+        "name": "Turkey",
+        "place_type": "country",
+        "url": "https://api.twitter.com/1.1/geo/id/682c5a667856ef42.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@Ryanair Oye, que al acabar el a\u00f1o habr\u00e9 cogido 13 aviones, 9 de ellos con vosotros, \u00bfme hac\u00e9is una rebaja?",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Dec 27 13:18:56 +0000 2013",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "T\u00fa, c\u00f3ctel molotov  en mano, contra todos mis miedos.\nCreador de 'Spaghettis para Silvia' y 'No me toques la cerveza'.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "nometoqueslacerveza.blogspot.com",
+                        "expanded_url": "http://www.nometoqueslacerveza.blogspot.com",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/DYevGi13lp"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 18161,
+        "follow_request_sent": false,
+        "followers_count": 463,
+        "following": false,
+        "friends_count": 346,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 2246221895,
+        "id_str": "2246221895",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "es",
+        "listed_count": 10,
+        "location": "Whitegate, Co. Clare, Ireland",
+        "name": "\u00d3scar.",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2246221895/1448570381",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/671444908427845632/kZ8Z01Yq_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/671444908427845632/kZ8Z01Yq_normal.jpg",
+        "profile_link_color": "3B94D9",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "_Wolfmatha",
+        "statuses_count": 20641,
+        "time_zone": "Dublin",
+        "url": "http://t.co/DYevGi13lp",
+        "utc_offset": 0,
+        "verified": false
+    }
+}
