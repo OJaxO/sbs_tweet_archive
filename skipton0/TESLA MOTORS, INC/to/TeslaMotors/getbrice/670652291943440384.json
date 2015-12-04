@@ -1,0 +1,284 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Nov 28 17:15:41 +0000 2015",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    72,
+                    78
+                ],
+                "text": "smart"
+            },
+            {
+                "indices": [
+                    79,
+                    86
+                ],
+                "text": "bizdev"
+            }
+        ],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/businessinside\u2026",
+                "expanded_url": "https://twitter.com/businessinsider/status/670651780129284096",
+                "indices": [
+                    88,
+                    111
+                ],
+                "url": "https://t.co/NF3eIlr878"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 13298072,
+                "id_str": "13298072",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "Tesla Motors",
+                "screen_name": "TeslaMotors"
+            },
+            {
+                "id": 3688815147,
+                "id_str": "3688815147",
+                "indices": [
+                    27,
+                    40
+                ],
+                "name": "Parallel Processing",
+                "screen_name": "parallelproc"
+            }
+        ]
+    },
+    "favorite_count": 3,
+    "favorited": false,
+    "geo": null,
+    "id": 670652291943440384,
+    "id_str": "670652291943440384",
+    "in_reply_to_screen_name": "TeslaMotors",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 13298072,
+    "in_reply_to_user_id_str": "13298072",
+    "is_quote_status": true,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": null,
+    "possibly_sensitive": false,
+    "quoted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Sat Nov 28 17:13:39 +0000 2015",
+        "entities": {
+            "hashtags": [],
+            "media": [
+                {
+                    "display_url": "pic.twitter.com/DMy3n9s15e",
+                    "expanded_url": "http://twitter.com/businessinsider/status/670651780129284096/photo/1",
+                    "id": 670651779391049728,
+                    "id_str": "670651779391049728",
+                    "indices": [
+                        97,
+                        120
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/CU6iPXaWUAA2rlj.png",
+                    "media_url_https": "https://pbs.twimg.com/media/CU6iPXaWUAA2rlj.png",
+                    "sizes": {
+                        "large": {
+                            "h": 400,
+                            "resize": "fit",
+                            "w": 800
+                        },
+                        "medium": {
+                            "h": 300,
+                            "resize": "fit",
+                            "w": 600
+                        },
+                        "small": {
+                            "h": 170,
+                            "resize": "fit",
+                            "w": 340
+                        },
+                        "thumb": {
+                            "h": 150,
+                            "resize": "crop",
+                            "w": 150
+                        }
+                    },
+                    "type": "photo",
+                    "url": "https://t.co/DMy3n9s15e"
+                }
+            ],
+            "symbols": [],
+            "urls": [
+                {
+                    "display_url": "read.bi/1TeevtP",
+                    "expanded_url": "http://read.bi/1TeevtP",
+                    "indices": [
+                        73,
+                        96
+                    ],
+                    "url": "https://t.co/6QegATVjF8"
+                }
+            ],
+            "user_mentions": []
+        },
+        "favorite_count": 86,
+        "favorited": false,
+        "geo": null,
+        "id": 670651780129284096,
+        "id_str": "670651780129284096",
+        "in_reply_to_screen_name": null,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "is_quote_status": false,
+        "lang": "en",
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "place": null,
+        "possibly_sensitive": false,
+        "retweet_count": 129,
+        "retweeted": false,
+        "source": "<a href=\"http://www.businessinsider.com\" rel=\"nofollow\">Business Insider</a>",
+        "text": "Tesla wants to make fully self-driving cars happen way ahead of schedule https://t.co/6QegATVjF8 https://t.co/DMy3n9s15e",
+        "truncated": false,
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Wed Feb 11 01:18:18 +0000 2009",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "What you need to know.",
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "businessinsider.com",
+                            "expanded_url": "http://businessinsider.com/",
+                            "indices": [
+                                0,
+                                23
+                            ],
+                            "url": "https://t.co/RMkf7jACew"
+                        }
+                    ]
+                }
+            },
+            "favourites_count": 395,
+            "follow_request_sent": false,
+            "followers_count": 1399454,
+            "following": false,
+            "friends_count": 189,
+            "geo_enabled": false,
+            "has_extended_profile": false,
+            "id": 20562637,
+            "id_str": "20562637",
+            "is_translation_enabled": false,
+            "is_translator": false,
+            "lang": "en",
+            "listed_count": 22865,
+            "location": "New York, NY",
+            "name": "Business Insider",
+            "notifications": false,
+            "profile_background_color": "185F7C",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/563745973810110464/LOuV92MN.jpeg",
+            "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/563745973810110464/LOuV92MN.jpeg",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/20562637/1423242532",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/661313209605976064/EjEK7KeO_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/661313209605976064/EjEK7KeO_normal.jpg",
+            "profile_link_color": "185F7C",
+            "profile_sidebar_border_color": "EEEEEE",
+            "profile_sidebar_fill_color": "EFEFEF",
+            "profile_text_color": "333333",
+            "profile_use_background_image": false,
+            "protected": false,
+            "screen_name": "businessinsider",
+            "statuses_count": 249639,
+            "time_zone": "Eastern Time (US & Canada)",
+            "url": "https://t.co/RMkf7jACew",
+            "utc_offset": -18000,
+            "verified": true
+        }
+    },
+    "quoted_status_id": 670651780129284096,
+    "quoted_status_id_str": "670651780129284096",
+    "retweet_count": 1,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@TeslaMotors innovate with @parallelproc parking data ahead of its time #smart #bizdev  https://t.co/NF3eIlr878",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Mar 17 04:15:27 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Entrepreneur | Angel | Data Vet | Adviser |\nStrong Believer In Just Today...Everyday |\nSOHK",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "getbrice.com",
+                        "expanded_url": "http://www.getbrice.com",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/Cp9swqJPRT"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 526,
+        "follow_request_sent": false,
+        "followers_count": 1157,
+        "following": false,
+        "friends_count": 2001,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 24837884,
+        "id_str": "24837884",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 80,
+        "location": "NYC",
+        "name": "brian rice",
+        "notifications": false,
+        "profile_background_color": "CCCCCC",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/362648901/b.i.g.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/362648901/b.i.g.jpg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/24837884/1398264853",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/475648684332310530/psgypkRJ_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/475648684332310530/psgypkRJ_normal.jpeg",
+        "profile_link_color": "666666",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "333333",
+        "profile_text_color": "999999",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "getbrice",
+        "statuses_count": 10235,
+        "time_zone": "Quito",
+        "url": "https://t.co/Cp9swqJPRT",
+        "utc_offset": -18000,
+        "verified": false
+    }
+}

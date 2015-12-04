@@ -1,0 +1,150 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Dec 03 08:37:16 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/ecologiEnergie\u2026",
+                "expanded_url": "https://twitter.com/ecologiEnergie/status/672332529966440448",
+                "indices": [
+                    107,
+                    130
+                ],
+                "url": "https://t.co/bSNSPv9Ury"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 13298072,
+                "id_str": "13298072",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "Tesla Motors",
+                "screen_name": "TeslaMotors"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 672333769538449408,
+    "id_str": "672333769538449408",
+    "in_reply_to_screen_name": "TeslaMotors",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 13298072,
+    "in_reply_to_user_id_str": "13298072",
+    "is_quote_status": true,
+    "lang": "fr",
+    "metadata": {
+        "iso_language_code": "fr",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        2.2350489,
+                        48.7119195
+                    ],
+                    [
+                        2.3042511,
+                        48.7119195
+                    ],
+                    [
+                        2.3042511,
+                        48.740704
+                    ],
+                    [
+                        2.2350489,
+                        48.740704
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "France",
+        "country_code": "FR",
+        "full_name": "Massy, Ile-de-France",
+        "id": "01a3389dcd3bc617",
+        "name": "Massy",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/01a3389dcd3bc617.json"
+    },
+    "possibly_sensitive": false,
+    "quoted_status_id": 672332529966440448,
+    "quoted_status_id_str": "672332529966440448",
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@TeslaMotors a lib\u00e9r\u00e9 leur technologie \u00e7a fait un moment et les VAE existent d\u00e9j\u00e0. C'est quoi ce d\u00e9lire ?  https://t.co/bSNSPv9Ury",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Feb 02 10:06:21 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Cyclist, maker, geek, hyperactive, insomniac. I have mitochondrial ADN from my grandmother and ADHD. es/en/fr",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "blog.dragon-tortuga.net",
+                        "expanded_url": "http://blog.dragon-tortuga.net/",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/AuG8z97K7w"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 6308,
+        "follow_request_sent": false,
+        "followers_count": 448,
+        "following": false,
+        "friends_count": 452,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 246194492,
+        "id_str": "246194492",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 113,
+        "location": "Paris, Ile-de-France, Earth",
+        "name": "f varas-genestier",
+        "notifications": false,
+        "profile_background_color": "3B94D9",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/607219737563688962/AxMXdNJ2.png",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/607219737563688962/AxMXdNJ2.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/246194492/1445807853",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/670196169369395200/BD7Xttld_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/670196169369395200/BD7Xttld_normal.jpg",
+        "profile_link_color": "637CBD",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "99CC33",
+        "profile_text_color": "3E4415",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "ignorantcowboy",
+        "statuses_count": 20806,
+        "time_zone": "Paris",
+        "url": "http://t.co/AuG8z97K7w",
+        "utc_offset": 3600,
+        "verified": false
+    }
+}

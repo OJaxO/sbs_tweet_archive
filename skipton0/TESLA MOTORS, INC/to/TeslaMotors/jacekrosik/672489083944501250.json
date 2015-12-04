@@ -1,0 +1,147 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Dec 03 18:54:26 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 13298072,
+                "id_str": "13298072",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "Tesla Motors",
+                "screen_name": "TeslaMotors"
+            },
+            {
+                "id": 247692551,
+                "id_str": "247692551",
+                "indices": [
+                    13,
+                    19
+                ],
+                "name": "Michiel Verkoijen",
+                "screen_name": "vrkjn"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 672489083944501250,
+    "id_str": "672489083944501250",
+    "in_reply_to_screen_name": "TeslaMotors",
+    "in_reply_to_status_id": 672479580897284097,
+    "in_reply_to_status_id_str": "672479580897284097",
+    "in_reply_to_user_id": 13298072,
+    "in_reply_to_user_id_str": "13298072",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        16.743235,
+                        52.291745
+                    ],
+                    [
+                        17.0693164,
+                        52.291745
+                    ],
+                    [
+                        17.0693164,
+                        52.5072464
+                    ],
+                    [
+                        16.743235,
+                        52.5072464
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "Polska",
+        "country_code": "PL",
+        "full_name": "Poznan, Greater Poland",
+        "id": "2f3a0c25fe5633a6",
+        "name": "Poznan",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/2f3a0c25fe5633a6.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@TeslaMotors @vrkjn where can I buy one (small one.. unfortunately ;/ )? do you know any RC model?",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Jul 08 09:12:34 +0000 2013",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "BI | BW | BigData | IoT | initiator of @ttn_poz",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "jacek.rosik.it",
+                        "expanded_url": "http://jacek.rosik.it",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/yFv9rjfM1H"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 54,
+        "follow_request_sent": false,
+        "followers_count": 32,
+        "following": false,
+        "friends_count": 64,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 1577207467,
+        "id_str": "1577207467",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "pl",
+        "listed_count": 6,
+        "location": "Pozna\u0144",
+        "name": "Jacek Rosik",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1577207467/1446044331",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/659382166393065472/OlVvG3ll_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/659382166393065472/OlVvG3ll_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "jacekrosik",
+        "statuses_count": 52,
+        "time_zone": null,
+        "url": "https://t.co/yFv9rjfM1H",
+        "utc_offset": null,
+        "verified": false
+    }
+}

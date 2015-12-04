@@ -1,0 +1,134 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Nov 30 12:51:29 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "facebook.com/teslamotors/po\u2026",
+                "expanded_url": "https://www.facebook.com/teslamotors/posts/10153736722582801",
+                "indices": [
+                    68,
+                    91
+                ],
+                "url": "https://t.co/elkl0XtHEj"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 13298072,
+                "id_str": "13298072",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "Tesla Motors",
+                "screen_name": "TeslaMotors"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 671310579127164928,
+    "id_str": "671310579127164928",
+    "in_reply_to_screen_name": "TeslaMotors",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 13298072,
+    "in_reply_to_user_id_str": "13298072",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        113.81813,
+                        22.1465116
+                    ],
+                    [
+                        114.502196,
+                        22.1465116
+                    ],
+                    [
+                        114.502196,
+                        22.614177
+                    ],
+                    [
+                        113.81813,
+                        22.614177
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "\u9999\u6e2f",
+        "country_code": "HK",
+        "full_name": "Hong Kong",
+        "id": "35fd5bacecc4c6e5",
+        "name": "Hong Kong",
+        "place_type": "country",
+        "url": "https://api.twitter.com/1.1/geo/id/35fd5bacecc4c6e5.json"
+    },
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@TeslaMotors Bad service became \"can-not-use\" service in Hong Kong.\nhttps://t.co/elkl0XtHEj\nHelp me please!",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat May 10 17:00:30 +0000 2008",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 9,
+        "follow_request_sent": false,
+        "followers_count": 1740,
+        "following": false,
+        "friends_count": 147,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 14726024,
+        "id_str": "14726024",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "ru",
+        "listed_count": 0,
+        "location": "",
+        "name": "rusbet",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/2536398093/image_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/2536398093/image_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "rusbet",
+        "statuses_count": 255,
+        "time_zone": "Volgograd",
+        "url": null,
+        "utc_offset": 10800,
+        "verified": false
+    }
+}

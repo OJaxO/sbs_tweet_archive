@@ -1,0 +1,310 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Dec 03 19:41:50 +0000 2015",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    59,
+                    69
+                ],
+                "text": "Microsoft"
+            },
+            {
+                "indices": [
+                    72,
+                    80
+                ],
+                "text": "Samsung"
+            }
+        ],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/wswmuc/status/\u2026",
+                "expanded_url": "https://twitter.com/wswmuc/status/672159455656693760",
+                "indices": [
+                    82,
+                    105
+                ],
+                "url": "https://t.co/AQXn8YIydw"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 13298072,
+                "id_str": "13298072",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "Tesla Motors",
+                "screen_name": "TeslaMotors"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 672501014281322496,
+    "id_str": "672501014281322496",
+    "in_reply_to_screen_name": "TeslaMotors",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 13298072,
+    "in_reply_to_user_id_str": "13298072",
+    "is_quote_status": true,
+    "lang": "es",
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "place": null,
+    "possibly_sensitive": false,
+    "quoted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Wed Dec 02 21:04:37 +0000 2015",
+        "entities": {
+            "hashtags": [
+                {
+                    "indices": [
+                        105,
+                        116
+                    ],
+                    "text": "automotive"
+                }
+            ],
+            "media": [
+                {
+                    "display_url": "pic.twitter.com/S5V7uIXzag",
+                    "expanded_url": "http://twitter.com/WSWMUC/status/672159455656693760/photo/1",
+                    "id": 672159449763569664,
+                    "id_str": "672159449763569664",
+                    "indices": [
+                        117,
+                        140
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/CVP9dVOUYAAOAqI.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/CVP9dVOUYAAOAqI.jpg",
+                    "sizes": {
+                        "large": {
+                            "h": 711,
+                            "resize": "fit",
+                            "w": 672
+                        },
+                        "medium": {
+                            "h": 634,
+                            "resize": "fit",
+                            "w": 600
+                        },
+                        "small": {
+                            "h": 359,
+                            "resize": "fit",
+                            "w": 340
+                        },
+                        "thumb": {
+                            "h": 150,
+                            "resize": "crop",
+                            "w": 150
+                        }
+                    },
+                    "type": "photo",
+                    "url": "https://t.co/S5V7uIXzag"
+                }
+            ],
+            "symbols": [],
+            "urls": [
+                {
+                    "display_url": "fortune.com/2015/12/02/50-\u2026",
+                    "expanded_url": "http://fortune.com/2015/12/02/50-most-innovative-companies/",
+                    "indices": [
+                        75,
+                        98
+                    ],
+                    "url": "https://t.co/8YovtKEJ3Y"
+                }
+            ],
+            "user_mentions": [
+                {
+                    "id": 13298072,
+                    "id_str": "13298072",
+                    "indices": [
+                        0,
+                        12
+                    ],
+                    "name": "Tesla Motors",
+                    "screen_name": "TeslaMotors"
+                },
+                {
+                    "id": 1545994664,
+                    "id_str": "1545994664",
+                    "indices": [
+                        14,
+                        18
+                    ],
+                    "name": "BMW",
+                    "screen_name": "BMW"
+                },
+                {
+                    "id": 12637732,
+                    "id_str": "12637732",
+                    "indices": [
+                        23,
+                        31
+                    ],
+                    "name": "Daimler AG",
+                    "screen_name": "Daimler"
+                },
+                {
+                    "id": 501801749,
+                    "id_str": "501801749",
+                    "indices": [
+                        99,
+                        103
+                    ],
+                    "name": "BostonConsultingGrp",
+                    "screen_name": "BCG"
+                }
+            ]
+        },
+        "favorite_count": 5,
+        "favorited": false,
+        "geo": null,
+        "id": 672159455656693760,
+        "id_str": "672159455656693760",
+        "in_reply_to_screen_name": "TeslaMotors",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": 13298072,
+        "in_reply_to_user_id_str": "13298072",
+        "is_quote_status": false,
+        "lang": "en",
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "place": null,
+        "possibly_sensitive": false,
+        "retweet_count": 3,
+        "retweeted": false,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "@TeslaMotors, @BMW and @Daimler among the Top 10 most innovative Companies\nhttps://t.co/8YovtKEJ3Y\n@BCG \n#automotive https://t.co/S5V7uIXzag",
+        "truncated": false,
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Fri Jun 21 08:49:23 +0000 2013",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "Visionary #DigitalLeader, helping the #Automotive #Industry to become #digital || #DigitalTransformation, #Strategy, #BusinessModels, #Mobility, #ConnectedCar",
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "de.linkedin.com/in/wwolters",
+                            "expanded_url": "http://de.linkedin.com/in/wwolters",
+                            "indices": [
+                                0,
+                                23
+                            ],
+                            "url": "https://t.co/C8zrRucNbj"
+                        }
+                    ]
+                }
+            },
+            "favourites_count": 6933,
+            "follow_request_sent": false,
+            "followers_count": 1329,
+            "following": false,
+            "friends_count": 2028,
+            "geo_enabled": false,
+            "has_extended_profile": false,
+            "id": 1536103471,
+            "id_str": "1536103471",
+            "is_translation_enabled": false,
+            "is_translator": false,
+            "lang": "de",
+            "listed_count": 460,
+            "location": "Munich | Europe",
+            "name": "Wilko Wolters",
+            "notifications": false,
+            "profile_background_color": "131516",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1536103471/1430208349",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/524295003107885059/1ADGv6Ps_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/524295003107885059/1ADGv6Ps_normal.png",
+            "profile_link_color": "DD2E44",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "WSWMUC",
+            "statuses_count": 9398,
+            "time_zone": "Berlin",
+            "url": "https://t.co/C8zrRucNbj",
+            "utc_offset": 3600,
+            "verified": false
+        }
+    },
+    "quoted_status_id": 672159455656693760,
+    "quoted_status_id_str": "672159455656693760",
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@teslamotors de las empresas m\u00e1s innovadoras por encima de #Microsoft y #Samsung  https://t.co/AQXn8YIydw",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Jan 28 19:12:45 +0000 2014",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "#EE Ing. Industrial, Consultor SAP, siempre con sed de aprender y compartir cosas nuevas, solidario y amigo. Haz bien, la vida es de doble v\u00eda, lo que va viene.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 30,
+        "follow_request_sent": false,
+        "followers_count": 110,
+        "following": false,
+        "friends_count": 519,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 2315952614,
+        "id_str": "2315952614",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "es",
+        "listed_count": 1,
+        "location": "",
+        "name": "Elvin Encarnaci\u00f3n#EE",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2315952614/1442437877",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/461872935381528577/bd7JqPSP_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/461872935381528577/bd7JqPSP_normal.jpeg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "ElvinEnc",
+        "statuses_count": 520,
+        "time_zone": "Atlantic Time (Canada)",
+        "url": null,
+        "utc_offset": -14400,
+        "verified": false
+    }
+}

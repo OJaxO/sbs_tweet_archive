@@ -1,0 +1,283 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Nov 29 21:21:43 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/jowyang/status\u2026",
+                "expanded_url": "https://twitter.com/jowyang/status/670955212140494848",
+                "indices": [
+                    26,
+                    49
+                ],
+                "url": "https://t.co/ttAqMqlpQR"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 13298072,
+                "id_str": "13298072",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "Tesla Motors",
+                "screen_name": "TeslaMotors"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 671076599043891200,
+    "id_str": "671076599043891200",
+    "in_reply_to_screen_name": "TeslaMotors",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 13298072,
+    "in_reply_to_user_id_str": "13298072",
+    "is_quote_status": true,
+    "lang": "pt",
+    "metadata": {
+        "iso_language_code": "pt",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -48.433216,
+                        -10.482253
+                    ],
+                    [
+                        -47.793245,
+                        -10.482253
+                    ],
+                    [
+                        -47.793245,
+                        -9.749019
+                    ],
+                    [
+                        -48.433216,
+                        -9.749019
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "Brasil",
+        "country_code": "BR",
+        "full_name": "Palmas, Tocantins",
+        "id": "559fe09585259001",
+        "name": "Palmas",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/559fe09585259001.json"
+    },
+    "possibly_sensitive": false,
+    "quoted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Sun Nov 29 13:19:22 +0000 2015",
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "urls": [
+                {
+                    "display_url": "techinsider.io/the-sweet-ride\u2026",
+                    "expanded_url": "http://www.techinsider.io/the-sweet-rides-of-techs-millionaires-and-billionaires-2015-11?utm_content=buffer827c7&utm_medium=social&utm_source=facebook.com&utm_campaign=buffer",
+                    "indices": [
+                        36,
+                        59
+                    ],
+                    "url": "https://t.co/TUe0HIC0eV"
+                }
+            ],
+            "user_mentions": []
+        },
+        "favorite_count": 17,
+        "favorited": false,
+        "geo": null,
+        "id": 670955212140494848,
+        "id_str": "670955212140494848",
+        "in_reply_to_screen_name": null,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "is_quote_status": false,
+        "lang": "en",
+        "metadata": {
+            "iso_language_code": "pt",
+            "result_type": "recent"
+        },
+        "place": null,
+        "possibly_sensitive": false,
+        "retweet_count": 17,
+        "retweeted": false,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "See what cars tech billionaire own: https://t.co/TUe0HIC0eV (Bezos is a wow)",
+        "truncated": false,
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Tue Dec 19 08:38:07 +0000 2006",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "Founder of http://t.co/JuZCtoQ28c @CrowdCompanies, and housemate to @goodboyrumba",
+            "entities": {
+                "description": {
+                    "urls": [
+                        {
+                            "display_url": "CrowdCompanies.com",
+                            "expanded_url": "http://CrowdCompanies.com",
+                            "indices": [
+                                11,
+                                33
+                            ],
+                            "url": "http://t.co/JuZCtoQ28c"
+                        }
+                    ]
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "web-strategist.com/blog",
+                            "expanded_url": "http://web-strategist.com/blog",
+                            "indices": [
+                                0,
+                                22
+                            ],
+                            "url": "http://t.co/A25Egawd0I"
+                        }
+                    ]
+                }
+            },
+            "favourites_count": 30446,
+            "follow_request_sent": false,
+            "followers_count": 165970,
+            "following": false,
+            "friends_count": 19090,
+            "geo_enabled": true,
+            "has_extended_profile": false,
+            "id": 79543,
+            "id_str": "79543",
+            "is_translation_enabled": false,
+            "is_translator": false,
+            "lang": "en",
+            "listed_count": 13223,
+            "location": "Silicon Valley, CA",
+            "name": "Jeremiah Owyang",
+            "notifications": false,
+            "profile_background_color": "022330",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/79543/1418647197",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/3344158378/c2d273e83a9f7eff27fc1e1fa4bf4b6a_normal.jpeg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/3344158378/c2d273e83a9f7eff27fc1e1fa4bf4b6a_normal.jpeg",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "A8C7F7",
+            "profile_sidebar_fill_color": "C0DFEC",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "jowyang",
+            "statuses_count": 60883,
+            "time_zone": "Pacific Time (US & Canada)",
+            "url": "http://t.co/A25Egawd0I",
+            "utc_offset": -28800,
+            "verified": true
+        }
+    },
+    "quoted_status_id": 670955212140494848,
+    "quoted_status_id_str": "670955212140494848",
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@TeslaMotors  na frente.  https://t.co/ttAqMqlpQR",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon May 05 21:31:38 +0000 2008",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Co- founder https://t.co/TmRR5jVHzi - Crowdsourcing, innovation and start-up https://t.co/3mKQiENaXD . Consultant, speaker, Classes at ESPM and SBGC",
+        "entities": {
+            "description": {
+                "urls": [
+                    {
+                        "display_url": "mutopo.com.br",
+                        "expanded_url": "http://mutopo.com.br",
+                        "indices": [
+                            12,
+                            35
+                        ],
+                        "url": "https://t.co/TmRR5jVHzi"
+                    },
+                    {
+                        "display_url": "conferenciacrowdsourcing.com.br",
+                        "expanded_url": "http://conferenciacrowdsourcing.com.br",
+                        "indices": [
+                            77,
+                            100
+                        ],
+                        "url": "https://t.co/3mKQiENaXD"
+                    }
+                ]
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "mutopo.com.br",
+                        "expanded_url": "http://mutopo.com.br",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/TmRR5jVHzi"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 833,
+        "follow_request_sent": false,
+        "followers_count": 5165,
+        "following": false,
+        "friends_count": 2759,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 14665249,
+        "id_str": "14665249",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 187,
+        "location": "SP ",
+        "name": "Marina Miranda",
+        "notifications": false,
+        "profile_background_color": "ACDED6",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/102435893/twilk_background_4bf19fbdd7b38.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/102435893/twilk_background_4bf19fbdd7b38.jpg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/14665249/1447722420",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/663876964420345857/u-ID9vY3_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/663876964420345857/u-ID9vY3_normal.jpg",
+        "profile_link_color": "038543",
+        "profile_sidebar_border_color": "EEEEEE",
+        "profile_sidebar_fill_color": "F6F6F6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "marinamiranda",
+        "statuses_count": 6521,
+        "time_zone": "Brasilia",
+        "url": "https://t.co/TmRR5jVHzi",
+        "utc_offset": -7200,
+        "verified": false
+    }
+}
