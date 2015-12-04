@@ -1,0 +1,124 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Nov 25 09:49:24 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 42664060,
+                "id_str": "42664060",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "Santander UK",
+                "screen_name": "santanderuk"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 669452816797315077,
+    "id_str": "669452816797315077",
+    "in_reply_to_screen_name": "santanderuk",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 42664060,
+    "in_reply_to_user_id_str": "42664060",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -2.777388,
+                        53.777985
+                    ],
+                    [
+                        -2.749845,
+                        53.777985
+                    ],
+                    [
+                        -2.749845,
+                        53.7911108
+                    ],
+                    [
+                        -2.777388,
+                        53.7911108
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United Kingdom",
+        "country_code": "GB",
+        "full_name": "Cottam, England",
+        "id": "47443798884ed34b",
+        "name": "Cottam",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/47443798884ed34b.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@santanderuk \n\nSHIT BANK.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Oct 02 15:40:01 +0000 2009",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Massive Leeds & England fan. Also love Rangers.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 2975,
+        "follow_request_sent": false,
+        "followers_count": 746,
+        "following": false,
+        "friends_count": 470,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 79210906,
+        "id_str": "79210906",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 5,
+        "location": "",
+        "name": "Jamie O'Neill",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/79210906/1376032137",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/625958654546677760/IQyMaIW5_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/625958654546677760/IQyMaIW5_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "JamieONeill88",
+        "statuses_count": 17409,
+        "time_zone": "Hawaii",
+        "url": null,
+        "utc_offset": -36000,
+        "verified": false
+    }
+}
