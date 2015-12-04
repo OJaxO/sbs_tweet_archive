@@ -1,0 +1,144 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 01 02:35:48 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 127975950,
+                "id_str": "127975950",
+                "indices": [
+                    0,
+                    4
+                ],
+                "name": "Time Warner Cable",
+                "screen_name": "TWC"
+            },
+            {
+                "id": 110782268,
+                "id_str": "110782268",
+                "indices": [
+                    5,
+                    14
+                ],
+                "name": "TWC Help",
+                "screen_name": "TWC_Help"
+            },
+            {
+                "id": 102983812,
+                "id_str": "102983812",
+                "indices": [
+                    15,
+                    24
+                ],
+                "name": "TWC Phil",
+                "screen_name": "TWC_Phil"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 671518028908118017,
+    "id_str": "671518028908118017",
+    "in_reply_to_screen_name": "TWC",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 127975950,
+    "in_reply_to_user_id_str": "127975950",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -80.773682,
+                        41.203919
+                    ],
+                    [
+                        -80.711258,
+                        41.203919
+                    ],
+                    [
+                        -80.711258,
+                        41.286877
+                    ],
+                    [
+                        -80.773682,
+                        41.286877
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Howland Center, OH",
+        "id": "62a807b4f74f0753",
+        "name": "Howland Center",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/62a807b4f74f0753.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@TWC @TWC_Help @TWC_Phil Thanks for literally having the worst service in history!!",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Dec 17 17:17:14 +0000 2008",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Aspiring cinematographer...",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 2160,
+        "follow_request_sent": false,
+        "followers_count": 231,
+        "following": false,
+        "friends_count": 260,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 18193638,
+        "id_str": "18193638",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 5,
+        "location": "",
+        "name": "Stephen DeNunzio",
+        "notifications": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/18193638/1420686384",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/553024696187240448/KaFvjgPM_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/553024696187240448/KaFvjgPM_normal.jpeg",
+        "profile_link_color": "009999",
+        "profile_sidebar_border_color": "EEEEEE",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "StephenDeNunzio",
+        "statuses_count": 3566,
+        "time_zone": "Eastern Time (US & Canada)",
+        "url": null,
+        "utc_offset": -18000,
+        "verified": false
+    }
+}

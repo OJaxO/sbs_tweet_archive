@@ -1,0 +1,136 @@
+{
+    "contributors": null,
+    "coordinates": {
+        "coordinates": [
+            -98.8396068,
+            40.7490605
+        ],
+        "type": "Point"
+    },
+    "created_at": "Wed Dec 02 22:19:23 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 16550474,
+                "id_str": "16550474",
+                "indices": [
+                    0,
+                    11
+                ],
+                "name": "Charter",
+                "screen_name": "CharterCom"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": {
+        "coordinates": [
+            40.7490605,
+            -98.8396068
+        ],
+        "type": "Point"
+    },
+    "id": 672178274294870016,
+    "id_str": "672178274294870016",
+    "in_reply_to_screen_name": "CharterCom",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 16550474,
+    "in_reply_to_user_id_str": "16550474",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -104.053515,
+                        39.999719
+                    ],
+                    [
+                        -95.30829,
+                        39.999719
+                    ],
+                    [
+                        -95.30829,
+                        43.001708
+                    ],
+                    [
+                        -104.053515,
+                        43.001708
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Nebraska, USA",
+        "id": "ac9b9070f6d17a9a",
+        "name": "Nebraska",
+        "place_type": "admin",
+        "url": "https://api.twitter.com/1.1/geo/id/ac9b9070f6d17a9a.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@CharterCom power outage 8 hrs. ago and your guide is up to 5 hrs. ahead. Yippee, great technology! YIPPEE!!!!",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Sep 17 21:31:40 +0000 2015",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Retired....Nosey as hell....Bored..Normal? Aaithfull Surnatural fan. Also going thru metageezer.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 1005,
+        "follow_request_sent": false,
+        "followers_count": 29,
+        "following": false,
+        "friends_count": 45,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 3598090940,
+        "id_str": "3598090940",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 0,
+        "location": "Nebraska, USA",
+        "name": "Gary Cash",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3598090940/1447106955",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/646338764604764161/pjB4IxTe_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/646338764604764161/pjB4IxTe_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "gallan214",
+        "statuses_count": 137,
+        "time_zone": null,
+        "url": null,
+        "utc_offset": null,
+        "verified": false
+    }
+}

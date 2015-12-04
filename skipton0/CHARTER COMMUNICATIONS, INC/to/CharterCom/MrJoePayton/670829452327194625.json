@@ -1,0 +1,176 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Nov 29 04:59:39 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "media": [
+            {
+                "display_url": "pic.twitter.com/aUf5wUSIqO",
+                "expanded_url": "http://twitter.com/MrJoePayton/status/670829452327194625/photo/1",
+                "id": 670829449684717568,
+                "id_str": "670829449684717568",
+                "indices": [
+                    67,
+                    90
+                ],
+                "media_url": "http://pbs.twimg.com/media/CU9D1I1UEAAbDAC.png",
+                "media_url_https": "https://pbs.twimg.com/media/CU9D1I1UEAAbDAC.png",
+                "sizes": {
+                    "large": {
+                        "h": 1136,
+                        "resize": "fit",
+                        "w": 640
+                    },
+                    "medium": {
+                        "h": 1065,
+                        "resize": "fit",
+                        "w": 600
+                    },
+                    "small": {
+                        "h": 603,
+                        "resize": "fit",
+                        "w": 340
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/aUf5wUSIqO"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 16550474,
+                "id_str": "16550474",
+                "indices": [
+                    0,
+                    11
+                ],
+                "name": "Charter",
+                "screen_name": "CharterCom"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 670829452327194625,
+    "id_str": "670829452327194625",
+    "in_reply_to_screen_name": "CharterCom",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 16550474,
+    "in_reply_to_user_id_str": "16550474",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -95.823268,
+                        29.522325
+                    ],
+                    [
+                        -95.069705,
+                        29.522325
+                    ],
+                    [
+                        -95.069705,
+                        30.1546646
+                    ],
+                    [
+                        -95.823268,
+                        30.1546646
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Houston, TX",
+        "id": "1c69a67ad480e1b1",
+        "name": "Houston",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/1c69a67ad480e1b1.json"
+    },
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for i\u039fS</a>",
+    "text": "@CharterCom this speed is agonizing and every night! This blows!!! https://t.co/aUf5wUSIqO",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Dec 27 19:01:06 +0000 2007",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "designer, front end dev, illustrator, artist, weirdo. Find me on Minecraft & Team Fortress 2 (Riot Pixel)",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "mrjoepayton.com",
+                        "expanded_url": "http://mrjoepayton.com",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/5vHXvgkxnH"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 403,
+        "follow_request_sent": false,
+        "followers_count": 939,
+        "following": false,
+        "friends_count": 619,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 11575762,
+        "id_str": "11575762",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 99,
+        "location": "Houston, TX",
+        "name": "Joe Payton",
+        "notifications": false,
+        "profile_background_color": "5893AB",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/86719725/twitter_bg.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/86719725/twitter_bg.jpg",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/11575762/1404426493",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/484825794330370050/S2WOy-AX_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/484825794330370050/S2WOy-AX_normal.jpeg",
+        "profile_link_color": "2FC2EF",
+        "profile_sidebar_border_color": "416E80",
+        "profile_sidebar_fill_color": "5893AB",
+        "profile_text_color": "27424D",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "MrJoePayton",
+        "statuses_count": 9760,
+        "time_zone": "Central Time (US & Canada)",
+        "url": "http://t.co/5vHXvgkxnH",
+        "utc_offset": -21600,
+        "verified": false
+    }
+}

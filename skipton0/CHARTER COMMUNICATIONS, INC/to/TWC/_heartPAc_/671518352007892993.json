@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 01 02:37:05 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 127975950,
+                "id_str": "127975950",
+                "indices": [
+                    0,
+                    4
+                ],
+                "name": "Time Warner Cable",
+                "screen_name": "TWC"
+            }
+        ]
+    },
+    "favorite_count": 5,
+    "favorited": false,
+    "geo": null,
+    "id": 671518352007892993,
+    "id_str": "671518352007892993",
+    "in_reply_to_screen_name": "TWC",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 127975950,
+    "in_reply_to_user_id_str": "127975950",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -84.262816,
+                        39.995246
+                    ],
+                    [
+                        -84.169631,
+                        39.995246
+                    ],
+                    [
+                        -84.169631,
+                        40.082253
+                    ],
+                    [
+                        -84.262816,
+                        40.082253
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Troy, OH",
+        "id": "14a79681d2bdaa7d",
+        "name": "Troy",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/14a79681d2bdaa7d.json"
+    },
+    "retweet_count": 1,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@TWC I'd love it if the internet I pay for would work. I hate you time warner cable.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Mar 13 00:47:28 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "CT Surgery PA with an unhealthy passion of Cincinnati sports",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "cardiothoracicsurgeryassociates.com",
+                        "expanded_url": "http://www.cardiothoracicsurgeryassociates.com",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/nMaCExMYQQ"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 109,
+        "follow_request_sent": false,
+        "followers_count": 195,
+        "following": false,
+        "friends_count": 691,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 24087427,
+        "id_str": "24087427",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 4,
+        "location": "Dayton, OH",
+        "name": "Jared Blackmore",
+        "notifications": false,
+        "profile_background_color": "212121",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/59454879/nippert_pan.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/59454879/nippert_pan.jpg",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/24087427/1443210572",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/666253747241095168/l9-ag3Ag_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/666253747241095168/l9-ag3Ag_normal.jpg",
+        "profile_link_color": "2FC2EF",
+        "profile_sidebar_border_color": "181A1E",
+        "profile_sidebar_fill_color": "252429",
+        "profile_text_color": "666666",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "_heartPAc_",
+        "statuses_count": 3345,
+        "time_zone": "Eastern Time (US & Canada)",
+        "url": "https://t.co/nMaCExMYQQ",
+        "utc_offset": -18000,
+        "verified": false
+    }
+}
