@@ -1,0 +1,154 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Dec 03 22:36:02 +0000 2015",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    125,
+                    134
+                ],
+                "text": "fordfail"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 15676492,
+                "id_str": "15676492",
+                "indices": [
+                    0,
+                    5
+                ],
+                "name": "Ford Motor Company",
+                "screen_name": "Ford"
+            },
+            {
+                "id": 77209428,
+                "id_str": "77209428",
+                "indices": [
+                    6,
+                    13
+                ],
+                "name": "Ford Nederland",
+                "screen_name": "FordNL"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 672544850298974208,
+    "id_str": "672544850298974208",
+    "in_reply_to_screen_name": "Ford",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 15676492,
+    "in_reply_to_user_id_str": "15676492",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        5.5466377,
+                        51.990908
+                    ],
+                    [
+                        5.9513886,
+                        51.990908
+                    ],
+                    [
+                        5.9513886,
+                        52.1522634
+                    ],
+                    [
+                        5.5466377,
+                        52.1522634
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "Nederland",
+        "country_code": "NL",
+        "full_name": "Ede, Gelderland",
+        "id": "c901e9b5099eb48c",
+        "name": "Ede",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/c901e9b5099eb48c.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@ford @FordNL how difficult could it be to get a mirror from the US to Europe! I guess I'll have to fly to the US myself!!!! #fordfail",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Apr 23 09:33:39 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Werkzaam bij De Nationale Trombose Dienst. Twittert op persoonlijke titel!",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "ntd.nl",
+                        "expanded_url": "http://ntd.nl",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/PwIptF2w19"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 67,
+        "follow_request_sent": false,
+        "followers_count": 96,
+        "following": false,
+        "friends_count": 173,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 34574493,
+        "id_str": "34574493",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "nl",
+        "listed_count": 7,
+        "location": "Nederland",
+        "name": "Hugo Stoevelaar",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/649328872526319616/NMLhbzeH_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/649328872526319616/NMLhbzeH_normal.jpg",
+        "profile_link_color": "3B94D9",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "hugostoevelaar",
+        "statuses_count": 1162,
+        "time_zone": "Amsterdam",
+        "url": "http://t.co/PwIptF2w19",
+        "utc_offset": 3600,
+        "verified": false
+    }
+}
