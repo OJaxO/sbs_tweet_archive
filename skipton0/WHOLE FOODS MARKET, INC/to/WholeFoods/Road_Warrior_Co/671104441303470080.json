@@ -1,0 +1,162 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Nov 29 23:12:21 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "media": [
+            {
+                "display_url": "pic.twitter.com/KCywL39gYM",
+                "expanded_url": "http://twitter.com/Road_Warrior_Co/status/671104441303470080/photo/1",
+                "id": 671104422299099136,
+                "id_str": "671104422299099136",
+                "indices": [
+                    115,
+                    138
+                ],
+                "media_url": "http://pbs.twimg.com/media/CVA96ppU4AAgij2.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/CVA96ppU4AAgij2.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 1032,
+                        "resize": "fit",
+                        "w": 581
+                    },
+                    "medium": {
+                        "h": 1032,
+                        "resize": "fit",
+                        "w": 581
+                    },
+                    "small": {
+                        "h": 603,
+                        "resize": "fit",
+                        "w": 340
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/KCywL39gYM"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 15131310,
+                "id_str": "15131310",
+                "indices": [
+                    0,
+                    11
+                ],
+                "name": "Whole Foods Market",
+                "screen_name": "WholeFoods"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 671104441303470080,
+    "id_str": "671104441303470080",
+    "in_reply_to_screen_name": "WholeFoods",
+    "in_reply_to_status_id": 671101362692874241,
+    "in_reply_to_status_id_str": "671101362692874241",
+    "in_reply_to_user_id": 15131310,
+    "in_reply_to_user_id_str": "15131310",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -105.19117,
+                        39.527724
+                    ],
+                    [
+                        -105.072717,
+                        39.527724
+                    ],
+                    [
+                        -105.072717,
+                        39.632726
+                    ],
+                    [
+                        -105.19117,
+                        39.632726
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Ken Caryl, CO",
+        "id": "79e9c581a414e49e",
+        "name": "Ken Caryl",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/79e9c581a414e49e.json"
+    },
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@WholeFoods I purchased this cake 4 Thanksgiving. Gross mistake that was..look at that glob of caramel. Slice that https://t.co/KCywL39gYM",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Dec 30 21:24:22 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Student..OMG! I SAID IT.. YES I AM A STUDENT AGAIN! Purdue - BUT EVERY DAY IS A ROLL TIDE DAY!  Conservative-funny-and never mean! (and I cant change the photo)",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 196,
+        "follow_request_sent": false,
+        "followers_count": 713,
+        "following": false,
+        "friends_count": 825,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 100599095,
+        "id_str": "100599095",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 27,
+        "location": "Littleton Colorado",
+        "name": "KHRISTINA",
+        "notifications": false,
+        "profile_background_color": "352726",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000024655663/57e26209486f506153909fefb6b8abda.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000024655663/57e26209486f506153909fefb6b8abda.jpeg",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/601159832/serious_on_top_of_desk_like_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/601159832/serious_on_top_of_desk_like_normal.jpg",
+        "profile_link_color": "D02B55",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "99CC33",
+        "profile_text_color": "3E4415",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Road_Warrior_Co",
+        "statuses_count": 20191,
+        "time_zone": "Mountain Time (US & Canada)",
+        "url": null,
+        "utc_offset": -25200,
+        "verified": false
+    }
+}

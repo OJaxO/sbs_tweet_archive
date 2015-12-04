@@ -1,0 +1,124 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Nov 26 03:58:55 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 15131310,
+                "id_str": "15131310",
+                "indices": [
+                    0,
+                    11
+                ],
+                "name": "Whole Foods Market",
+                "screen_name": "WholeFoods"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 669727004955160576,
+    "id_str": "669727004955160576",
+    "in_reply_to_screen_name": "WholeFoods",
+    "in_reply_to_status_id": 669712220213944320,
+    "in_reply_to_status_id_str": "669712220213944320",
+    "in_reply_to_user_id": 15131310,
+    "in_reply_to_user_id_str": "15131310",
+    "is_quote_status": false,
+    "lang": "it",
+    "metadata": {
+        "iso_language_code": "it",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -88.301598,
+                        30.523874
+                    ],
+                    [
+                        -88.021513,
+                        30.523874
+                    ],
+                    [
+                        -88.021513,
+                        30.843424
+                    ],
+                    [
+                        -88.301598,
+                        30.843424
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Mobile, AL",
+        "id": "d049033410e9e81b",
+        "name": "Mobile",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/d049033410e9e81b.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@WholeFoods sweet potato casserole!",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Mar 09 20:45:24 +0000 2014",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 8731,
+        "follow_request_sent": false,
+        "followers_count": 222,
+        "following": false,
+        "friends_count": 664,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 2397740541,
+        "id_str": "2397740541",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 3,
+        "location": "",
+        "name": "Jamie Lloyd",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2397740541/1414777872",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/643620869667995648/kuLeotm0_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/643620869667995648/kuLeotm0_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "jmel1959",
+        "statuses_count": 2550,
+        "time_zone": null,
+        "url": null,
+        "utc_offset": null,
+        "verified": false
+    }
+}

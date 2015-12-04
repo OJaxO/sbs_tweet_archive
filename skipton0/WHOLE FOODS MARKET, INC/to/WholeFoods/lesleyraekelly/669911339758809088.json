@@ -1,0 +1,148 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Nov 26 16:11:24 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "on.fb.me/1ljSuyC",
+                "expanded_url": "http://on.fb.me/1ljSuyC",
+                "indices": [
+                    116,
+                    139
+                ],
+                "url": "https://t.co/YfzzN6UsQd"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 15131310,
+                "id_str": "15131310",
+                "indices": [
+                    0,
+                    11
+                ],
+                "name": "Whole Foods Market",
+                "screen_name": "WholeFoods"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 669911339758809088,
+    "id_str": "669911339758809088",
+    "in_reply_to_screen_name": "WholeFoods",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 15131310,
+    "in_reply_to_user_id_str": "15131310",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -104.778398,
+                        50.39659
+                    ],
+                    [
+                        -104.50339,
+                        50.39659
+                    ],
+                    [
+                        -104.50339,
+                        50.513682
+                    ],
+                    [
+                        -104.778398,
+                        50.513682
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "Canada",
+        "country_code": "CA",
+        "full_name": "Regina, Saskatchewan",
+        "id": "2c1be03622fe39b8",
+        "name": "Regina",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/2c1be03622fe39b8.json"
+    },
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@WholeFoods All turkeys are cage and antibiotic free. Folks don't need to pay $100 for that! Stealing from the rich https://t.co/YfzzN6UsQd",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Apr 28 13:52:16 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Ag marketer and city slicker by day; farm girl, blogger and picture taker by night. Spreading the love of ag one sparkle and seed at a time.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "highheelsandcanolafields.com",
+                        "expanded_url": "http://highheelsandcanolafields.com",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/0ZK6dC5wXS"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 688,
+        "follow_request_sent": false,
+        "followers_count": 612,
+        "following": false,
+        "friends_count": 583,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 36069223,
+        "id_str": "36069223",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 19,
+        "location": "Watrous, SK",
+        "name": "Heels & Fields",
+        "notifications": false,
+        "profile_background_color": "510800",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/344918034408673856/e2d1562b9a36c8499a34459cf373d0f9.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/344918034408673856/e2d1562b9a36c8499a34459cf373d0f9.jpeg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/36069223/1441234070",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/661199816634949632/i_9EfHRZ_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/661199816634949632/i_9EfHRZ_normal.jpg",
+        "profile_link_color": "ABB8C2",
+        "profile_sidebar_border_color": "3D0702",
+        "profile_sidebar_fill_color": "2C1703",
+        "profile_text_color": "E0912A",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "lesleyraekelly",
+        "statuses_count": 1999,
+        "time_zone": "Central Time (US & Canada)",
+        "url": "https://t.co/0ZK6dC5wXS",
+        "utc_offset": -21600,
+        "verified": false
+    }
+}

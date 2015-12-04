@@ -1,0 +1,147 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 01 14:26:28 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 15131310,
+                "id_str": "15131310",
+                "indices": [
+                    0,
+                    11
+                ],
+                "name": "Whole Foods Market",
+                "screen_name": "WholeFoods"
+            },
+            {
+                "id": 27534704,
+                "id_str": "27534704",
+                "indices": [
+                    12,
+                    22
+                ],
+                "name": "Alyssa Blithe",
+                "screen_name": "ms_creant"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 671696873053274112,
+    "id_str": "671696873053274112",
+    "in_reply_to_screen_name": "WholeFoods",
+    "in_reply_to_status_id": 671466944860692480,
+    "in_reply_to_status_id_str": "671466944860692480",
+    "in_reply_to_user_id": 15131310,
+    "in_reply_to_user_id_str": "15131310",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -79.76259,
+                        40.477383
+                    ],
+                    [
+                        -71.777492,
+                        40.477383
+                    ],
+                    [
+                        -71.777492,
+                        45.015851
+                    ],
+                    [
+                        -79.76259,
+                        45.015851
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "New York, USA",
+        "id": "94965b2c45386f87",
+        "name": "New York",
+        "place_type": "admin",
+        "url": "https://api.twitter.com/1.1/geo/id/94965b2c45386f87.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@WholeFoods @ms_creant we can not see the original tweet - can you tell us which item you're talking about?",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Feb 20 19:11:27 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Whole Foods Market has 8 stores in Manhattan bringing you all kinds of delicious tweets! Show us how you #ShareTheCheer this holiday season!",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "wholefoodsmarket.com",
+                        "expanded_url": "http://wholefoodsmarket.com",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/QtcSE2UuSZ"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 2191,
+        "follow_request_sent": false,
+        "followers_count": 36345,
+        "following": false,
+        "friends_count": 974,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 21423475,
+        "id_str": "21423475",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 1280,
+        "location": "New York City! ",
+        "name": "Whole Foods NYC",
+        "notifications": false,
+        "profile_background_color": "9AE4E8",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/21423475/1449172559",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/583260889261817856/0WvfMpdw_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/583260889261817856/0WvfMpdw_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "BDDCAD",
+        "profile_sidebar_fill_color": "DDFFCC",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "wholefoodsnyc",
+        "statuses_count": 17486,
+        "time_zone": "Eastern Time (US & Canada)",
+        "url": "http://t.co/QtcSE2UuSZ",
+        "utc_offset": -18000,
+        "verified": false
+    }
+}

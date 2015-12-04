@@ -1,0 +1,163 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Nov 29 23:28:10 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "media": [
+            {
+                "display_url": "pic.twitter.com/qnqSeZWIOi",
+                "expanded_url": "http://twitter.com/gabbimoose/status/671108419789586432/photo/1",
+                "id": 671108411837190144,
+                "id_str": "671108411837190144",
+                "indices": [
+                    40,
+                    63
+                ],
+                "media_url": "http://pbs.twimg.com/media/CVBBi31VEAAjh_o.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/CVBBi31VEAAjh_o.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 1024,
+                        "resize": "fit",
+                        "w": 1024
+                    },
+                    "medium": {
+                        "h": 600,
+                        "resize": "fit",
+                        "w": 600
+                    },
+                    "small": {
+                        "h": 340,
+                        "resize": "fit",
+                        "w": 340
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/qnqSeZWIOi"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 15131310,
+                "id_str": "15131310",
+                "indices": [
+                    0,
+                    11
+                ],
+                "name": "Whole Foods Market",
+                "screen_name": "WholeFoods"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 671108419789586432,
+    "id_str": "671108419789586432",
+    "in_reply_to_screen_name": "WholeFoods",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 15131310,
+    "in_reply_to_user_id_str": "15131310",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -105.193475,
+                        39.60973
+                    ],
+                    [
+                        -105.053164,
+                        39.60973
+                    ],
+                    [
+                        -105.053164,
+                        39.761974
+                    ],
+                    [
+                        -105.193475,
+                        39.761974
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Lakewood, CO",
+        "id": "f7eb2fa2fea288b1",
+        "name": "Lakewood",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/f7eb2fa2fea288b1.json"
+    },
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@WholeFoods I've found my Senior Quote: https://t.co/qnqSeZWIOi",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Sep 02 03:23:33 +0000 2014",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Well since you asked... Matthew 6:34",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 671,
+        "follow_request_sent": false,
+        "followers_count": 39,
+        "following": false,
+        "friends_count": 159,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 2785095300,
+        "id_str": "2785095300",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 0,
+        "location": "Colorado, USA",
+        "name": "Gabbi",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2785095300/1440116598",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/588184714504044544/vZoZg3yl_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/588184714504044544/vZoZg3yl_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "gabbimoose",
+        "statuses_count": 506,
+        "time_zone": null,
+        "url": null,
+        "utc_offset": null,
+        "verified": false
+    }
+}

@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 01 20:55:35 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 15131310,
+                "id_str": "15131310",
+                "indices": [
+                    0,
+                    11
+                ],
+                "name": "Whole Foods Market",
+                "screen_name": "WholeFoods"
+            }
+        ]
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": null,
+    "id": 671794796986368000,
+    "id_str": "671794796986368000",
+    "in_reply_to_screen_name": "WholeFoods",
+    "in_reply_to_status_id": 671793251523960833,
+    "in_reply_to_status_id_str": "671793251523960833",
+    "in_reply_to_user_id": 15131310,
+    "in_reply_to_user_id_str": "15131310",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -122.091151,
+                        37.285786
+                    ],
+                    [
+                        -121.995595,
+                        37.285786
+                    ],
+                    [
+                        -121.995595,
+                        37.3403795
+                    ],
+                    [
+                        -122.091151,
+                        37.3403795
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Cupertino, CA",
+        "id": "36237ab3643ff2be",
+        "name": "Cupertino",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/36237ab3643ff2be.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@WholeFoods I got some tortellini, Brussel sprouts and a couple slices of turkey. =)",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Mar 10 22:23:27 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Dancer/Choreographer/Instructor Credits: America's Got Talent, Mix'd Elements, Funkanometry SF Alum, City Dance Studios",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "AmberDivina.com",
+                        "expanded_url": "http://www.AmberDivina.com",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/k4cwCdGu4H"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 1948,
+        "follow_request_sent": false,
+        "followers_count": 881,
+        "following": false,
+        "friends_count": 926,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 23670359,
+        "id_str": "23670359",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 12,
+        "location": "San Francisco, CA, USA",
+        "name": "Amber Divina",
+        "notifications": false,
+        "profile_background_color": "1A1B1F",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/456818841889161216/VoDyWCUL.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/456818841889161216/VoDyWCUL.jpeg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/23670359/1397748883",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/668020001857630208/rLUr_CHf_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/668020001857630208/rLUr_CHf_normal.jpg",
+        "profile_link_color": "2FC2EF",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "252429",
+        "profile_text_color": "666666",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "MrAmbz",
+        "statuses_count": 10737,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "http://t.co/k4cwCdGu4H",
+        "utc_offset": -28800,
+        "verified": false
+    }
+}
