@@ -1,0 +1,124 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Dec 04 04:23:35 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 37435412,
+                "id_str": "37435412",
+                "indices": [
+                    0,
+                    15
+                ],
+                "name": "Verizon Support",
+                "screen_name": "VerizonSupport"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 672632314409676801,
+    "id_str": "672632314409676801",
+    "in_reply_to_screen_name": "VerizonSupport",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 37435412,
+    "in_reply_to_user_id_str": "37435412",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -79.90373,
+                        40.1278542
+                    ],
+                    [
+                        -79.857816,
+                        40.1278542
+                    ],
+                    [
+                        -79.857816,
+                        40.164489
+                    ],
+                    [
+                        -79.90373,
+                        40.164489
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Monessen, PA",
+        "id": "b46788b182ef260e",
+        "name": "Monessen",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/b46788b182ef260e.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@VerizonSupport is it possible to take my phone from a family plan and put it on my own plan?",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Jul 29 19:08:25 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 13927,
+        "follow_request_sent": false,
+        "followers_count": 946,
+        "following": false,
+        "friends_count": 196,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 172451803,
+        "id_str": "172451803",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 3,
+        "location": "",
+        "name": "Jocelyn",
+        "notifications": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/716210834/56e1338ae454cef97b728580a9fcac9a.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/716210834/56e1338ae454cef97b728580a9fcac9a.jpeg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/172451803/1449165013",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/667766625626685441/jxYxaF9-_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/667766625626685441/jxYxaF9-_normal.jpg",
+        "profile_link_color": "ED79CE",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "jocgolomb",
+        "statuses_count": 95216,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": null,
+        "utc_offset": -28800,
+        "verified": false
+    }
+}

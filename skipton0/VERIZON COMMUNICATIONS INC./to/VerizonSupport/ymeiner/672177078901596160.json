@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Dec 02 22:14:38 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 37435412,
+                "id_str": "37435412",
+                "indices": [
+                    0,
+                    15
+                ],
+                "name": "Verizon Support",
+                "screen_name": "VerizonSupport"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 672177078901596160,
+    "id_str": "672177078901596160",
+    "in_reply_to_screen_name": "VerizonSupport",
+    "in_reply_to_status_id": 672176018254405633,
+    "in_reply_to_status_id_str": "672176018254405633",
+    "in_reply_to_user_id": 37435412,
+    "in_reply_to_user_id_str": "37435412",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -74.026675,
+                        40.683935
+                    ],
+                    [
+                        -73.910408,
+                        40.683935
+                    ],
+                    [
+                        -73.910408,
+                        40.877483
+                    ],
+                    [
+                        -74.026675,
+                        40.877483
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Manhattan, NY",
+        "id": "01a9a39529b27f36",
+        "name": "Manhattan",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/01a9a39529b27f36.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@VerizonSupport but this would not allow me to install the alarm system before my kids move houses :)",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Jan 07 19:59:21 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "make software not war",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "about.me/yaron.meiner",
+                        "expanded_url": "http://about.me/yaron.meiner",
+                        "indices": [
+                            0,
+                            20
+                        ],
+                        "url": "http://t.co/gUtTAhcS"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 28,
+        "follow_request_sent": false,
+        "followers_count": 192,
+        "following": false,
+        "friends_count": 270,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 18735419,
+        "id_str": "18735419",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 9,
+        "location": "Brooklyn",
+        "name": "Yaron Meiner",
+        "notifications": false,
+        "profile_background_color": "EBEBEB",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/802825815/d83a12a9a32ac6d7c012ebe2b223897b.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/802825815/d83a12a9a32ac6d7c012ebe2b223897b.jpeg",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/18735419/1353083212",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1273518895/Yaron_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1273518895/Yaron_normal.png",
+        "profile_link_color": "990000",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "F3F3F3",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "ymeiner",
+        "statuses_count": 1184,
+        "time_zone": "Eastern Time (US & Canada)",
+        "url": "http://t.co/gUtTAhcS",
+        "utc_offset": -18000,
+        "verified": false
+    }
+}

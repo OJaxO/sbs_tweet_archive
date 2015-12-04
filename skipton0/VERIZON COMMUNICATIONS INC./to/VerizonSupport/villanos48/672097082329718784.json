@@ -1,0 +1,163 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Dec 02 16:56:46 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "media": [
+            {
+                "display_url": "pic.twitter.com/sObkXJKm3C",
+                "expanded_url": "http://twitter.com/villanos48/status/672097082329718784/photo/1",
+                "id": 672097080740028416,
+                "id_str": "672097080740028416",
+                "indices": [
+                    117,
+                    140
+                ],
+                "media_url": "http://pbs.twimg.com/media/CVPEu-gWIAAPcX7.png",
+                "media_url_https": "https://pbs.twimg.com/media/CVPEu-gWIAAPcX7.png",
+                "sizes": {
+                    "large": {
+                        "h": 288,
+                        "resize": "fit",
+                        "w": 384
+                    },
+                    "medium": {
+                        "h": 288,
+                        "resize": "fit",
+                        "w": 384
+                    },
+                    "small": {
+                        "h": 255,
+                        "resize": "fit",
+                        "w": 340
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/sObkXJKm3C"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 37435412,
+                "id_str": "37435412",
+                "indices": [
+                    0,
+                    15
+                ],
+                "name": "Verizon Support",
+                "screen_name": "VerizonSupport"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 672097082329718784,
+    "id_str": "672097082329718784",
+    "in_reply_to_screen_name": "VerizonSupport",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 37435412,
+    "in_reply_to_user_id_str": "37435412",
+    "is_quote_status": false,
+    "lang": "es",
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -73.3540725,
+                        0.648837
+                    ],
+                    [
+                        -59.8037796,
+                        0.648837
+                    ],
+                    [
+                        -59.8037796,
+                        12.1968022
+                    ],
+                    [
+                        -73.3540725,
+                        12.1968022
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "Venezuela",
+        "country_code": "VE",
+        "full_name": "Venezuela",
+        "id": "043383f8b2b79918",
+        "name": "Venezuela",
+        "place_type": "country",
+        "url": "https://api.twitter.com/1.1/geo/id/043383f8b2b79918.json"
+    },
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@VerizonSupport Ayuda, mi Z10 Verizon liberado que adquiri en Venezuela por Amazon luego de un a\u00f1o perfec se bloqueo https://t.co/sObkXJKm3C",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Mar 06 15:05:31 +0000 2013",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 3,
+        "follow_request_sent": false,
+        "followers_count": 11,
+        "following": false,
+        "friends_count": 38,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 1246306279,
+        "id_str": "1246306279",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "es",
+        "listed_count": 0,
+        "location": "Caracas",
+        "name": "Edgar Villasana",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1246306279/1362584885",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/3345705331/637f3f4e7ecb4012ae038ea8c42ffae7_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/3345705331/637f3f4e7ecb4012ae038ea8c42ffae7_normal.jpeg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "villanos48",
+        "statuses_count": 1408,
+        "time_zone": null,
+        "url": null,
+        "utc_offset": null,
+        "verified": false
+    }
+}
