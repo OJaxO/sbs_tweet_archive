@@ -1,0 +1,228 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Dec 03 08:13:48 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/atoneyy/status\u2026",
+                "expanded_url": "https://twitter.com/atoneyy/status/672327785529020416",
+                "indices": [
+                    10,
+                    33
+                ],
+                "url": "https://t.co/LiIaIS1Z8u"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 59889953,
+                "id_str": "59889953",
+                "indices": [
+                    0,
+                    8
+                ],
+                "name": "Verizon",
+                "screen_name": "verizon"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 672327863094374400,
+    "id_str": "672327863094374400",
+    "in_reply_to_screen_name": "verizon",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 59889953,
+    "in_reply_to_user_id_str": "59889953",
+    "is_quote_status": true,
+    "lang": "und",
+    "metadata": {
+        "iso_language_code": "und",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -94.406743,
+                        32.491967
+                    ],
+                    [
+                        -94.29016,
+                        32.491967
+                    ],
+                    [
+                        -94.29016,
+                        32.571239
+                    ],
+                    [
+                        -94.406743,
+                        32.571239
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Marshall, TX",
+        "id": "0139a7c035c529cd",
+        "name": "Marshall",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/0139a7c035c529cd.json"
+    },
+    "possibly_sensitive": false,
+    "quoted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Thu Dec 03 08:13:29 +0000 2015",
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "id": 14620190,
+                    "id_str": "14620190",
+                    "indices": [
+                        39,
+                        43
+                    ],
+                    "name": "AT&T",
+                    "screen_name": "ATT"
+                }
+            ]
+        },
+        "favorite_count": 0,
+        "favorited": false,
+        "geo": null,
+        "id": 672327785529020416,
+        "id_str": "672327785529020416",
+        "in_reply_to_screen_name": null,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "is_quote_status": false,
+        "lang": "en",
+        "metadata": {
+            "iso_language_code": "und",
+            "result_type": "recent"
+        },
+        "place": null,
+        "retweet_count": 3,
+        "retweeted": false,
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "text": "I wish at&amp;t had unlimited data !!! @ATT",
+        "truncated": false,
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Tue Jul 28 20:09:20 +0000 2009",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "20 / DTX #RIPVic",
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "favourites_count": 5,
+            "follow_request_sent": false,
+            "followers_count": 3624,
+            "following": false,
+            "friends_count": 961,
+            "geo_enabled": true,
+            "has_extended_profile": true,
+            "id": 61005462,
+            "id_str": "61005462",
+            "is_translation_enabled": false,
+            "is_translator": false,
+            "lang": "en",
+            "listed_count": 3,
+            "location": "|TrampolineTeam|",
+            "name": "TheFamous A.Toneyy",
+            "notifications": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/464868891/aaaaa.jpg",
+            "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/464868891/aaaaa.jpg",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/61005462/1433436010",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/625696938495639552/kjT2NCJb_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/625696938495639552/kjT2NCJb_normal.jpg",
+            "profile_link_color": "FA3232",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "4D4A4D",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "protected": false,
+            "screen_name": "AToneyy",
+            "statuses_count": 174055,
+            "time_zone": "Central Time (US & Canada)",
+            "url": null,
+            "utc_offset": -21600,
+            "verified": false
+        }
+    },
+    "quoted_status_id": 672327785529020416,
+    "quoted_status_id_str": "672327785529020416",
+    "retweet_count": 1,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@verizon  https://t.co/LiIaIS1Z8u",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Dec 14 05:46:32 +0000 2013",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "20. dalla$ Ig: kourtneict : wileycollege17",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 863,
+        "follow_request_sent": false,
+        "followers_count": 1127,
+        "following": false,
+        "friends_count": 626,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 2245068486,
+        "id_str": "2245068486",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 5,
+        "location": "",
+        "name": "Queen Of L's",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000151016415/rHSkmSTw.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000151016415/rHSkmSTw.jpeg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2245068486/1440093950",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/668517701074087936/0N68GQW8_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/668517701074087936/0N68GQW8_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "KourtneiCt",
+        "statuses_count": 28317,
+        "time_zone": null,
+        "url": null,
+        "utc_offset": null,
+        "verified": false
+    }
+}

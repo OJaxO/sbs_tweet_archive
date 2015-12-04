@@ -1,0 +1,124 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Dec 04 05:20:57 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 59889953,
+                "id_str": "59889953",
+                "indices": [
+                    0,
+                    8
+                ],
+                "name": "Verizon",
+                "screen_name": "verizon"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 672646750688145408,
+    "id_str": "672646750688145408",
+    "in_reply_to_screen_name": "verizon",
+    "in_reply_to_status_id": 669875126591066112,
+    "in_reply_to_status_id_str": "669875126591066112",
+    "in_reply_to_user_id": 59889953,
+    "in_reply_to_user_id_str": "59889953",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -84.122669,
+                        39.769967
+                    ],
+                    [
+                        -84.0187502,
+                        39.769967
+                    ],
+                    [
+                        -84.0187502,
+                        39.8431316
+                    ],
+                    [
+                        -84.122669,
+                        39.8431316
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Wright-Patterson Air Force Base, OH",
+        "id": "009df16b3d0834c7",
+        "name": "Wright-Patterson Air Force Base",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/009df16b3d0834c7.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@verizon my phone been doing weird things for the past couple days. I don't want no problems with you all because I actually like you guys.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun May 29 21:03:57 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Im Diamond and my job is to be the best me that I can be and not let anyone or anything define who that is.   HAKUNA MATATA!",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 2408,
+        "follow_request_sent": false,
+        "followers_count": 710,
+        "following": false,
+        "friends_count": 410,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 307551365,
+        "id_str": "307551365",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 1,
+        "location": "",
+        "name": "Diamond \u2728",
+        "notifications": false,
+        "profile_background_color": "B2DFDA",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/530303450/Mz.Roberts.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/530303450/Mz.Roberts.jpg",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/307551365/1449108177",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/663938931520626688/q1zf8HzW_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/663938931520626688/q1zf8HzW_normal.jpg",
+        "profile_link_color": "93A644",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "FFFFFF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "DiamondCogburn",
+        "statuses_count": 22540,
+        "time_zone": "Quito",
+        "url": null,
+        "utc_offset": -18000,
+        "verified": false
+    }
+}

@@ -1,0 +1,153 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Dec 04 02:40:48 +0000 2015",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    51,
+                    61
+                ],
+                "text": "goodgrief"
+            },
+            {
+                "indices": [
+                    62,
+                    75
+                ],
+                "text": "forpetessake"
+            },
+            {
+                "indices": [
+                    76,
+                    90
+                ],
+                "text": "enoughalready"
+            },
+            {
+                "indices": [
+                    91,
+                    98
+                ],
+                "text": "sheesh"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 59889953,
+                "id_str": "59889953",
+                "indices": [
+                    0,
+                    8
+                ],
+                "name": "Verizon",
+                "screen_name": "verizon"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 672606449600696320,
+    "id_str": "672606449600696320",
+    "in_reply_to_screen_name": "verizon",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 59889953,
+    "in_reply_to_user_id_str": "59889953",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -85.605166,
+                        30.355644
+                    ],
+                    [
+                        -80.742567,
+                        30.355644
+                    ],
+                    [
+                        -80.742567,
+                        35.000771
+                    ],
+                    [
+                        -85.605166,
+                        35.000771
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Georgia, USA",
+        "id": "7142eb97ae21e839",
+        "name": "Georgia",
+        "place_type": "admin",
+        "url": "https://api.twitter.com/1.1/geo/id/7142eb97ae21e839.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@verizon can you not delay releasing wifi calling? #goodgrief #forpetessake #enoughalready #sheesh",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Dec 05 15:42:49 +0000 2008",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Follower of Christ, husband, father, listener, runner, photographer, wood carver, reader, studier.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 126,
+        "follow_request_sent": false,
+        "followers_count": 86,
+        "following": false,
+        "friends_count": 272,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 17899724,
+        "id_str": "17899724",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 3,
+        "location": "Atlanta, GA",
+        "name": "Ed Jenkins",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/17899724/1386161851",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/439966078018793472/kZBVnJha_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/439966078018793472/kZBVnJha_normal.jpeg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "jenks765",
+        "statuses_count": 682,
+        "time_zone": "Eastern Time (US & Canada)",
+        "url": null,
+        "utc_offset": -18000,
+        "verified": false
+    }
+}

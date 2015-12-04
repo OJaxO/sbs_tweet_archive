@@ -1,0 +1,147 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Dec 03 03:37:47 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 59889953,
+                "id_str": "59889953",
+                "indices": [
+                    0,
+                    8
+                ],
+                "name": "Verizon",
+                "screen_name": "verizon"
+            },
+            {
+                "id": 270360453,
+                "id_str": "270360453",
+                "indices": [
+                    9,
+                    22
+                ],
+                "name": "Stine (BCHS Arts)",
+                "screen_name": "stinesworld1"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 672258402165346304,
+    "id_str": "672258402165346304",
+    "in_reply_to_screen_name": "verizon",
+    "in_reply_to_status_id": 671819294368378880,
+    "in_reply_to_status_id_str": "671819294368378880",
+    "in_reply_to_user_id": 59889953,
+    "in_reply_to_user_id_str": "59889953",
+    "is_quote_status": false,
+    "lang": "und",
+    "metadata": {
+        "iso_language_code": "und",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -85.752806,
+                        42.797324
+                    ],
+                    [
+                        -85.703027,
+                        42.797324
+                    ],
+                    [
+                        -85.703027,
+                        42.826955
+                    ],
+                    [
+                        -85.752806,
+                        42.826955
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Byron Center, MI",
+        "id": "efecc58a253b3105",
+        "name": "Byron Center",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/efecc58a253b3105.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@verizon @stinesworld1",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed May 23 01:54:14 +0000 2012",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "I see now that the circumstances of ones birth are irrelevant. It is what you do with the gift of life that determines who you are - Mewtwo",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "reddit.com/r/gaming",
+                        "expanded_url": "http://reddit.com/r/gaming",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/XN0Ssdn7jQ"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 5724,
+        "follow_request_sent": false,
+        "followers_count": 368,
+        "following": false,
+        "friends_count": 267,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 588000936,
+        "id_str": "588000936",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 1,
+        "location": "Grand Rapids, MI",
+        "name": "Josef",
+        "notifications": false,
+        "profile_background_color": "1A1B1F",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/588000936/1448978876",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/672192045625266176/UUR4czhI_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/672192045625266176/UUR4czhI_normal.jpg",
+        "profile_link_color": "2FC2EF",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "252429",
+        "profile_text_color": "666666",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "jbreitweiser70",
+        "statuses_count": 1900,
+        "time_zone": "Atlantic Time (Canada)",
+        "url": "https://t.co/XN0Ssdn7jQ",
+        "utc_offset": -14400,
+        "verified": false
+    }
+}
