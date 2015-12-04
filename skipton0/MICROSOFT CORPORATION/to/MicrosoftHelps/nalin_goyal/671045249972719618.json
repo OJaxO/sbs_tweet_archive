@@ -1,0 +1,399 @@
+{
+    "contributors": null,
+    "coordinates": {
+        "coordinates": [
+            85.08567602,
+            25.57798783
+        ],
+        "type": "Point"
+    },
+    "created_at": "Sun Nov 29 19:17:09 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "microsoft.com",
+                "expanded_url": "http://microsoft.com",
+                "indices": [
+                    79,
+                    102
+                ],
+                "url": "https://t.co/mVZXR08n95"
+            },
+            {
+                "display_url": "twitter.com/nalin_goyal/st\u2026",
+                "expanded_url": "https://twitter.com/nalin_goyal/status/671031793034768384",
+                "indices": [
+                    104,
+                    127
+                ],
+                "url": "https://t.co/8a45KPQY0e"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 75691804,
+                "id_str": "75691804",
+                "indices": [
+                    0,
+                    15
+                ],
+                "name": "Microsoft Support",
+                "screen_name": "MicrosoftHelps"
+            },
+            {
+                "id": 116285769,
+                "id_str": "116285769",
+                "indices": [
+                    16,
+                    32
+                ],
+                "name": "Security Response",
+                "screen_name": "msftsecresponse"
+            },
+            {
+                "id": 208214219,
+                "id_str": "208214219",
+                "indices": [
+                    33,
+                    46
+                ],
+                "name": "Microsoft Security",
+                "screen_name": "msftsecurity"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": {
+        "coordinates": [
+            25.57798783,
+            85.08567602
+        ],
+        "type": "Point"
+    },
+    "id": 671045249972719618,
+    "id_str": "671045249972719618",
+    "in_reply_to_screen_name": "MicrosoftHelps",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 75691804,
+    "in_reply_to_user_id_str": "75691804",
+    "is_quote_status": true,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        84.6862709,
+                        25.2013995
+                    ],
+                    [
+                        85.1172537,
+                        25.2013995
+                    ],
+                    [
+                        85.1172537,
+                        25.7315545
+                    ],
+                    [
+                        84.6862709,
+                        25.7315545
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "India",
+        "country_code": "IN",
+        "full_name": "Danapur, Bihar",
+        "id": "4252c86e1ec33df8",
+        "name": "Danapur",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/4252c86e1ec33df8.json"
+    },
+    "possibly_sensitive": false,
+    "quoted_status": {
+        "contributors": null,
+        "coordinates": {
+            "coordinates": [
+                85.08500948,
+                25.57851478
+            ],
+            "type": "Point"
+        },
+        "created_at": "Sun Nov 29 18:23:41 +0000 2015",
+        "entities": {
+            "hashtags": [],
+            "media": [
+                {
+                    "display_url": "pic.twitter.com/LnwR0hoFTX",
+                    "expanded_url": "http://twitter.com/nalin_goyal/status/671031793034768384/photo/1",
+                    "id": 671031694007263232,
+                    "id_str": "671031694007263232",
+                    "indices": [
+                        120,
+                        143
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/CU_7xTpU4AAOYYE.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/CU_7xTpU4AAOYYE.jpg",
+                    "sizes": {
+                        "large": {
+                            "h": 577,
+                            "resize": "fit",
+                            "w": 1024
+                        },
+                        "medium": {
+                            "h": 338,
+                            "resize": "fit",
+                            "w": 600
+                        },
+                        "small": {
+                            "h": 191,
+                            "resize": "fit",
+                            "w": 340
+                        },
+                        "thumb": {
+                            "h": 150,
+                            "resize": "crop",
+                            "w": 150
+                        }
+                    },
+                    "type": "photo",
+                    "url": "https://t.co/LnwR0hoFTX"
+                }
+            ],
+            "symbols": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "id": 37942193,
+                    "id_str": "37942193",
+                    "indices": [
+                        0,
+                        15
+                    ],
+                    "name": "Microsoft India",
+                    "screen_name": "MicrosoftIndia"
+                },
+                {
+                    "id": 138730691,
+                    "id_str": "138730691",
+                    "indices": [
+                        16,
+                        26
+                    ],
+                    "name": "Quick Heal",
+                    "screen_name": "quickheal"
+                },
+                {
+                    "id": 2436389418,
+                    "id_str": "2436389418",
+                    "indices": [
+                        27,
+                        43
+                    ],
+                    "name": "SecuriTay",
+                    "screen_name": "SwiftOnSecurity"
+                }
+            ]
+        },
+        "favorite_count": 0,
+        "favorited": false,
+        "geo": {
+            "coordinates": [
+                25.57851478,
+                85.08500948
+            ],
+            "type": "Point"
+        },
+        "id": 671031793034768384,
+        "id_str": "671031793034768384",
+        "in_reply_to_screen_name": "MicrosoftIndia",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": 37942193,
+        "in_reply_to_user_id_str": "37942193",
+        "is_quote_status": false,
+        "lang": "en",
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "place": {
+            "attributes": {},
+            "bounding_box": {
+                "coordinates": [
+                    [
+                        [
+                            84.6862709,
+                            25.2013995
+                        ],
+                        [
+                            85.1172537,
+                            25.2013995
+                        ],
+                        [
+                            85.1172537,
+                            25.7315545
+                        ],
+                        [
+                            84.6862709,
+                            25.7315545
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "contained_within": [],
+            "country": "India",
+            "country_code": "IN",
+            "full_name": "Danapur, Bihar",
+            "id": "4252c86e1ec33df8",
+            "name": "Danapur",
+            "place_type": "city",
+            "url": "https://api.twitter.com/1.1/geo/id/4252c86e1ec33df8.json"
+        },
+        "possibly_sensitive": false,
+        "retweet_count": 0,
+        "retweeted": false,
+        "source": "<a href=\"http://www.twitter.com\" rel=\"nofollow\">Twitter for Windows Phone</a>",
+        "text": "@MicrosoftIndia @quickheal @SwiftOnSecurity Cert error, MS website, using search function. On Opera, Chrome &amp; Edge. https://t.co/LnwR0hoFTX",
+        "truncated": false,
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Wed Sep 02 06:57:39 +0000 2009",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "Doctor, Tech lover, proud owner #Lumia1020, #Lumia920, #pureview admirer,  #hearthetruth, #ZoomReinvented",
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "discussions.nokia.com/t5/user/viewpr\u2026",
+                            "expanded_url": "http://discussions.nokia.com/t5/user/viewprofilepage/user-id/237737",
+                            "indices": [
+                                0,
+                                22
+                            ],
+                            "url": "http://t.co/PsmhuLhqCK"
+                        }
+                    ]
+                }
+            },
+            "favourites_count": 1045,
+            "follow_request_sent": false,
+            "followers_count": 74,
+            "following": false,
+            "friends_count": 229,
+            "geo_enabled": true,
+            "has_extended_profile": false,
+            "id": 70903857,
+            "id_str": "70903857",
+            "is_translation_enabled": false,
+            "is_translator": false,
+            "lang": "en",
+            "listed_count": 4,
+            "location": "India",
+            "name": "Nalin Goyal",
+            "notifications": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000021368778/280775a1e4bcaf505ed38d7c91a39220.jpeg",
+            "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000021368778/280775a1e4bcaf505ed38d7c91a39220.jpeg",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/70903857/1373574218",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/587225632532115457/cbn9lQO2_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/587225632532115457/cbn9lQO2_normal.jpg",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "nalin_goyal",
+            "statuses_count": 3206,
+            "time_zone": "New Delhi",
+            "url": "http://t.co/PsmhuLhqCK",
+            "utc_offset": 19800,
+            "verified": false
+        }
+    },
+    "quoted_status_id": 671031793034768384,
+    "quoted_status_id_str": "671031793034768384",
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://www.twitter.com\" rel=\"nofollow\">Twitter for Windows Phone</a>",
+    "text": "@MicrosoftHelps @msftsecresponse @msftsecurity Something up with search box on https://t.co/mVZXR08n95\r\rhttps://t.co/8a45KPQY0e",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Sep 02 06:57:39 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Doctor, Tech lover, proud owner #Lumia1020, #Lumia920, #pureview admirer,  #hearthetruth, #ZoomReinvented",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "discussions.nokia.com/t5/user/viewpr\u2026",
+                        "expanded_url": "http://discussions.nokia.com/t5/user/viewprofilepage/user-id/237737",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/PsmhuLhqCK"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 1045,
+        "follow_request_sent": false,
+        "followers_count": 74,
+        "following": false,
+        "friends_count": 229,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 70903857,
+        "id_str": "70903857",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 4,
+        "location": "India",
+        "name": "Nalin Goyal",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000021368778/280775a1e4bcaf505ed38d7c91a39220.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000021368778/280775a1e4bcaf505ed38d7c91a39220.jpeg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/70903857/1373574218",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/587225632532115457/cbn9lQO2_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/587225632532115457/cbn9lQO2_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "nalin_goyal",
+        "statuses_count": 3206,
+        "time_zone": "New Delhi",
+        "url": "http://t.co/PsmhuLhqCK",
+        "utc_offset": 19800,
+        "verified": false
+    }
+}
