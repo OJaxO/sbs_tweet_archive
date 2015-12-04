@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Dec 02 16:05:01 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 47459700,
+                "id_str": "47459700",
+                "indices": [
+                    0,
+                    9
+                ],
+                "name": "Burberry",
+                "screen_name": "Burberry"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 672084061293277184,
+    "id_str": "672084061293277184",
+    "in_reply_to_screen_name": "Burberry",
+    "in_reply_to_status_id": 672083577765502976,
+    "in_reply_to_status_id_str": "672083577765502976",
+    "in_reply_to_user_id": 47459700,
+    "in_reply_to_user_id_str": "47459700",
+    "is_quote_status": false,
+    "lang": "fr",
+    "metadata": {
+        "iso_language_code": "fr",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        2.2241006,
+                        48.8155214
+                    ],
+                    [
+                        2.4699053,
+                        48.8155214
+                    ],
+                    [
+                        2.4699053,
+                        48.9021461
+                    ],
+                    [
+                        2.2241006,
+                        48.9021461
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "France",
+        "country_code": "FR",
+        "full_name": "Paris, Ile-de-France",
+        "id": "09f6a7707f18e0b1",
+        "name": "Paris",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/09f6a7707f18e0b1.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@Burberry PUB: Ingenieur Conseil_ \"UN HABIT DE VELOURS MAIS POUR UN REGARD CRUEL OU......... ETERNEL\"",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Dec 17 13:28:38 +0000 2014",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "ICI LE PHENIX MI SU 35 LC MARTIN F22 RAPTOR F118_ F122 DASSAUT RAFAL E 2000 SUPER-ETANDART INGENIEUR@CONSEIL.PRO",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "facebook.com/profile.php?id\u2026",
+                        "expanded_url": "https://www.facebook.com/profile.php?id=100008543525569",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/ge1pwVU40A"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 1473,
+        "follow_request_sent": false,
+        "followers_count": 165,
+        "following": false,
+        "friends_count": 987,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 2927012806,
+        "id_str": "2927012806",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "fr",
+        "listed_count": 12,
+        "location": "New York-Berlin-Moskow-Tokyo",
+        "name": "Igor Adrian IA",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2927012806/1444721948",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/659408526008303616/VMGLZ4UJ_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/659408526008303616/VMGLZ4UJ_normal.jpg",
+        "profile_link_color": "3B94D9",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "AdriassenIgor",
+        "statuses_count": 10150,
+        "time_zone": "Ljubljana",
+        "url": "https://t.co/ge1pwVU40A",
+        "utc_offset": 3600,
+        "verified": false
+    }
+}

@@ -1,0 +1,223 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Nov 26 12:06:07 +0000 2015",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    50,
+                    56
+                ],
+                "text": "South"
+            }
+        ],
+        "media": [
+            {
+                "display_url": "pic.twitter.com/dbY0a7A19V",
+                "expanded_url": "http://twitter.com/cheek2chic/status/669849612950364160/photo/1",
+                "id": 669849558931795968,
+                "id_str": "669849558931795968",
+                "indices": [
+                    116,
+                    139
+                ],
+                "media_url": "http://pbs.twimg.com/media/CUvIn_UU8AAELw6.png",
+                "media_url_https": "https://pbs.twimg.com/media/CUvIn_UU8AAELw6.png",
+                "sizes": {
+                    "large": {
+                        "h": 442,
+                        "resize": "fit",
+                        "w": 505
+                    },
+                    "medium": {
+                        "h": 442,
+                        "resize": "fit",
+                        "w": 505
+                    },
+                    "small": {
+                        "h": 297,
+                        "resize": "fit",
+                        "w": 340
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/dbY0a7A19V"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 558606074,
+                "id_str": "558606074",
+                "indices": [
+                    0,
+                    5
+                ],
+                "name": "LVMH",
+                "screen_name": "LVMH"
+            },
+            {
+                "id": 404049418,
+                "id_str": "404049418",
+                "indices": [
+                    12,
+                    25
+                ],
+                "name": "Thomas Pink",
+                "screen_name": "Thomas_Pink_"
+            },
+            {
+                "id": 48455154,
+                "id_str": "48455154",
+                "indices": [
+                    103,
+                    115
+                ],
+                "name": "Sandton City",
+                "screen_name": "SandtonCity"
+            }
+        ]
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": null,
+    "id": 669849612950364160,
+    "id_str": "669849612950364160",
+    "in_reply_to_screen_name": "LVMH",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 558606074,
+    "in_reply_to_user_id_str": "558606074",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        18.3180332,
+                        -34.35839
+                    ],
+                    [
+                        18.659787,
+                        -34.35839
+                    ],
+                    [
+                        18.659787,
+                        -33.8852384
+                    ],
+                    [
+                        18.3180332,
+                        -33.8852384
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "South Africa",
+        "country_code": "ZA",
+        "full_name": "Cape Town, South Africa",
+        "id": "8b9ec16fdc0d7e55",
+        "name": "Cape Town",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/8b9ec16fdc0d7e55.json"
+    },
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@LVMH owned @Thomas_Pink_ launches third store in #South Africa in the upmarket Nelson Mandela Square, @SandtonCity https://t.co/dbY0a7A19V",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue May 05 12:23:02 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Luxury e-mag Cheek2Chic, South Africa's premier luxury digi-mag.  Find it on http://t.co/sguKvs1PY2 and https://t.co/volr86QkFr Picture: SA  Tourism Board",
+        "entities": {
+            "description": {
+                "urls": [
+                    {
+                        "display_url": "cheektochic.co.za",
+                        "expanded_url": "http://www.cheektochic.co.za",
+                        "indices": [
+                            77,
+                            99
+                        ],
+                        "url": "http://t.co/sguKvs1PY2"
+                    },
+                    {
+                        "display_url": "issuu.com/cheek2chic",
+                        "expanded_url": "http://www.issuu.com/cheek2chic",
+                        "indices": [
+                            104,
+                            127
+                        ],
+                        "url": "https://t.co/volr86QkFr"
+                    }
+                ]
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "cheektochic.co.za",
+                        "expanded_url": "http://www.cheektochic.co.za",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/efm0LkCw8V"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 6906,
+        "follow_request_sent": false,
+        "followers_count": 6851,
+        "following": false,
+        "friends_count": 7538,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 37911772,
+        "id_str": "37911772",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 128,
+        "location": "Johannesburg, South Africa",
+        "name": "Sarah Cangley",
+        "notifications": false,
+        "profile_background_color": "ACDED6",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/517300179867688960/ouox1c00.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/517300179867688960/ouox1c00.jpeg",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/37911772/1447661489",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/666166927295844352/Yav_1SSz_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/666166927295844352/Yav_1SSz_normal.jpg",
+        "profile_link_color": "038543",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "F6F6F6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "cheek2chic",
+        "statuses_count": 27901,
+        "time_zone": "Athens",
+        "url": "http://t.co/efm0LkCw8V",
+        "utc_offset": 7200,
+        "verified": false
+    }
+}

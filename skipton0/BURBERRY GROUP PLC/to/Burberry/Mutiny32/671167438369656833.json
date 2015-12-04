@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Nov 30 03:22:41 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 47459700,
+                "id_str": "47459700",
+                "indices": [
+                    0,
+                    9
+                ],
+                "name": "Burberry",
+                "screen_name": "Burberry"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 671167438369656833,
+    "id_str": "671167438369656833",
+    "in_reply_to_screen_name": "Burberry",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 47459700,
+    "in_reply_to_user_id_str": "47459700",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -94.297464,
+                        38.907725
+                    ],
+                    [
+                        -94.240768,
+                        38.907725
+                    ],
+                    [
+                        -94.240768,
+                        38.958564
+                    ],
+                    [
+                        -94.297464,
+                        38.958564
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Lake Lotawana, MO",
+        "id": "0114f91006e20a89",
+        "name": "Lake Lotawana",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/0114f91006e20a89.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@Burberry what's your warranty on your wallets?",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Jan 28 18:11:45 +0000 2008",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Network Security, geek, Smartass, lover of nachos, marathon runner, giant Chiefs fan, Royals fan, beer.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "mutiny32.com",
+                        "expanded_url": "http://mutiny32.com",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/Mnuh4LYPVp"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 13798,
+        "follow_request_sent": false,
+        "followers_count": 842,
+        "following": false,
+        "friends_count": 2008,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 12794232,
+        "id_str": "12794232",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 65,
+        "location": "Missouri, Lee's Summit",
+        "name": "Great Googly Moogly",
+        "notifications": false,
+        "profile_background_color": "333333",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/95034490/xc5be6c4f110fbad79a4923e78c83fdf.png",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/95034490/xc5be6c4f110fbad79a4923e78c83fdf.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/12794232/1442449954",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/121970491/n212402515_31281721_3877_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/121970491/n212402515_31281721_3877_normal.jpg",
+        "profile_link_color": "56A1E2",
+        "profile_sidebar_border_color": "0084B4",
+        "profile_sidebar_fill_color": "022330",
+        "profile_text_color": "0084B4",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Mutiny32",
+        "statuses_count": 57599,
+        "time_zone": "Central Time (US & Canada)",
+        "url": "http://t.co/Mnuh4LYPVp",
+        "utc_offset": -21600,
+        "verified": false
+    }
+}

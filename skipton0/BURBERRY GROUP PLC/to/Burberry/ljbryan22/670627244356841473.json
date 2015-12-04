@@ -1,0 +1,131 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Nov 28 15:36:09 +0000 2015",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    10,
+                    24
+                ],
+                "text": "BurberryGifts"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 47459700,
+                "id_str": "47459700",
+                "indices": [
+                    0,
+                    9
+                ],
+                "name": "Burberry",
+                "screen_name": "Burberry"
+            }
+        ]
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": null,
+    "id": 670627244356841473,
+    "id_str": "670627244356841473",
+    "in_reply_to_screen_name": "Burberry",
+    "in_reply_to_status_id": 670625725960069121,
+    "in_reply_to_status_id_str": "670625725960069121",
+    "in_reply_to_user_id": 47459700,
+    "in_reply_to_user_id_str": "47459700",
+    "is_quote_status": false,
+    "lang": "und",
+    "metadata": {
+        "iso_language_code": "und",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -86.7858813,
+                        34.5784264
+                    ],
+                    [
+                        -86.4369414,
+                        34.5784264
+                    ],
+                    [
+                        -86.4369414,
+                        34.833627
+                    ],
+                    [
+                        -86.7858813,
+                        34.833627
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Huntsville, AL",
+        "id": "76c1bb41d3de7ff1",
+        "name": "Huntsville",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/76c1bb41d3de7ff1.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@Burberry #BurberryGifts \ud83d\ude03",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Dec 27 21:25:53 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "I'm ready to vote now for Trump. Camelot 2.0. Lover of all things fashion, turned into a crazy craft person and love Full Metal Jacket.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 7597,
+        "follow_request_sent": false,
+        "followers_count": 851,
+        "following": false,
+        "friends_count": 2057,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 448311520,
+        "id_str": "448311520",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 12,
+        "location": "North Alabama",
+        "name": "LBryan",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/753092191/4fa3e9b3e6cf1846fd8c0898128d1a53.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/753092191/4fa3e9b3e6cf1846fd8c0898128d1a53.jpeg",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/3751098524/64044c2efb997c747851cff4ef49300f_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/3751098524/64044c2efb997c747851cff4ef49300f_normal.png",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "ljbryan22",
+        "statuses_count": 4722,
+        "time_zone": "Central Time (US & Canada)",
+        "url": null,
+        "utc_offset": -21600,
+        "verified": false
+    }
+}
