@@ -1,0 +1,123 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 01 08:13:06 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 606423296,
+                "id_str": "606423296",
+                "indices": [
+                    0,
+                    9
+                ],
+                "name": "Volkswagen UK Help",
+                "screen_name": "VWUKHelp"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 671602913387675648,
+    "id_str": "671602913387675648",
+    "in_reply_to_screen_name": "VWUKHelp",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 606423296,
+    "in_reply_to_user_id_str": "606423296",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -0.775435,
+                        51.279904
+                    ],
+                    [
+                        -0.695937,
+                        51.279904
+                    ],
+                    [
+                        -0.695937,
+                        51.354045
+                    ],
+                    [
+                        -0.775435,
+                        51.354045
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United Kingdom",
+        "country_code": "GB",
+        "full_name": "Camberley, England",
+        "id": "1a27b5bf138cebc9",
+        "name": "Camberley",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/1a27b5bf138cebc9.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for i\u039fS</a>",
+    "text": "@VWUKHelp Has App-Connect / CarPlay been released yet for aftermarket fit on new 2015 Passat?",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Oct 10 19:52:46 +0000 2008",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 16,
+        "follow_request_sent": false,
+        "followers_count": 89,
+        "following": false,
+        "friends_count": 164,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 16688175,
+        "id_str": "16688175",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 3,
+        "location": "Bristol",
+        "name": "Jon Cuthbert",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/665281763116236800/FPvzgbph_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/665281763116236800/FPvzgbph_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "JonCuthbert",
+        "statuses_count": 1843,
+        "time_zone": "London",
+        "url": null,
+        "utc_offset": 0,
+        "verified": false
+    }
+}

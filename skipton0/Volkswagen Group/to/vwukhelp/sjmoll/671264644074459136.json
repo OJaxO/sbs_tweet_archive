@@ -1,0 +1,124 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Nov 30 09:48:57 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 606423296,
+                "id_str": "606423296",
+                "indices": [
+                    0,
+                    9
+                ],
+                "name": "Volkswagen UK Help",
+                "screen_name": "VWUKHelp"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 671264644074459136,
+    "id_str": "671264644074459136",
+    "in_reply_to_screen_name": "VWUKHelp",
+    "in_reply_to_status_id": 671262484767113216,
+    "in_reply_to_status_id_str": "671262484767113216",
+    "in_reply_to_user_id": 606423296,
+    "in_reply_to_user_id_str": "606423296",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        1.684724,
+                        52.441164
+                    ],
+                    [
+                        1.762324,
+                        52.441164
+                    ],
+                    [
+                        1.762324,
+                        52.5051156
+                    ],
+                    [
+                        1.684724,
+                        52.5051156
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United Kingdom",
+        "country_code": "GB",
+        "full_name": "Lowestoft, England",
+        "id": "6fd19c7b8cc0ed61",
+        "name": "Lowestoft",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/6fd19c7b8cc0ed61.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@VWUKHelp spoke with robinsons Lowestoft they said the update is to be done by the customer which seems quite complicated",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Sep 26 09:38:48 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 907,
+        "follow_request_sent": false,
+        "followers_count": 90,
+        "following": false,
+        "friends_count": 560,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 195294388,
+        "id_str": "195294388",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 0,
+        "location": "",
+        "name": "Stephen Moll",
+        "notifications": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/195294388/1372371149",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/378800000055463480/2e47921e8ec177e0841a6f6797a4ab01_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000055463480/2e47921e8ec177e0841a6f6797a4ab01_normal.jpeg",
+        "profile_link_color": "009999",
+        "profile_sidebar_border_color": "EEEEEE",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "sjmoll",
+        "statuses_count": 697,
+        "time_zone": "Casablanca",
+        "url": null,
+        "utc_offset": 0,
+        "verified": false
+    }
+}

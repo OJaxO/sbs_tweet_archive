@@ -1,0 +1,124 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Dec 03 16:33:46 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 606423296,
+                "id_str": "606423296",
+                "indices": [
+                    0,
+                    9
+                ],
+                "name": "Volkswagen UK Help",
+                "screen_name": "VWUKHelp"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 672453684576538624,
+    "id_str": "672453684576538624",
+    "in_reply_to_screen_name": "VWUKHelp",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 606423296,
+    "in_reply_to_user_id_str": "606423296",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -8.662663,
+                        49.1626564
+                    ],
+                    [
+                        1.768926,
+                        49.1626564
+                    ],
+                    [
+                        1.768926,
+                        60.86165
+                    ],
+                    [
+                        -8.662663,
+                        60.86165
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United Kingdom",
+        "country_code": "GB",
+        "full_name": "United Kingdom",
+        "id": "6416b8512febefc9",
+        "name": "United Kingdom",
+        "place_type": "country",
+        "url": "https://api.twitter.com/1.1/geo/id/6416b8512febefc9.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@VWUKHelp Can you tell me much VW sold the 1960s Type 2 campers for when new?",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Mar 01 14:08:25 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Work, eat, sleep, repeat. Fuelled by coffee and Turkish delight.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 56,
+        "follow_request_sent": false,
+        "followers_count": 95,
+        "following": false,
+        "friends_count": 103,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 22364851,
+        "id_str": "22364851",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 1,
+        "location": "Watford",
+        "name": "Aaron Bell",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/125693219/tumblr_l0ex9xtp2u1qzd9vzo1_500.png",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/125693219/tumblr_l0ex9xtp2u1qzd9vzo1_500.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/22364851/1447723280",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/666342640967917569/AGzBEh_0_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/666342640967917569/AGzBEh_0_normal.jpg",
+        "profile_link_color": "3B94D9",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "ThisIsAaronBell",
+        "statuses_count": 3555,
+        "time_zone": "London",
+        "url": null,
+        "utc_offset": 0,
+        "verified": false
+    }
+}
