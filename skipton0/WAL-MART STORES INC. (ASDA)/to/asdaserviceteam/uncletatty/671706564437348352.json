@@ -1,0 +1,146 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 01 15:04:59 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 378623571,
+                "id_str": "378623571",
+                "indices": [
+                    0,
+                    16
+                ],
+                "name": "Asda Service Team",
+                "screen_name": "AsdaServiceTeam"
+            },
+            {
+                "id": 271986064,
+                "id_str": "271986064",
+                "indices": [
+                    105,
+                    111
+                ],
+                "name": "Tesco",
+                "screen_name": "Tesco"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 671706564437348352,
+    "id_str": "671706564437348352",
+    "in_reply_to_screen_name": "AsdaServiceTeam",
+    "in_reply_to_status_id": 671704747699666944,
+    "in_reply_to_status_id_str": "671704747699666944",
+    "in_reply_to_user_id": 378623571,
+    "in_reply_to_user_id_str": "378623571",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -0.297666,
+                        51.926931
+                    ],
+                    [
+                        -0.244103,
+                        51.926931
+                    ],
+                    [
+                        -0.244103,
+                        51.972309
+                    ],
+                    [
+                        -0.297666,
+                        51.972309
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United Kingdom",
+        "country_code": "GB",
+        "full_name": "Hitchin, England",
+        "id": "0a86cab969875e46",
+        "name": "Hitchin",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/0a86cab969875e46.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@AsdaServiceTeam Weren't that many around. Is tiresome every time hunting for a basket. Think I'll go to @Tesco on way home in future",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Apr 12 16:32:41 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Writer, blogger and avid reader. Supporter of WBA and Hitchin Town FC's. Grumpy old(ish) git!",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "expanded_url": null,
+                        "indices": [
+                            0,
+                            25
+                        ],
+                        "url": "http://mike-godfrey.co.uk"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 191,
+        "follow_request_sent": false,
+        "followers_count": 1310,
+        "following": false,
+        "friends_count": 1280,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 30675507,
+        "id_str": "30675507",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 12,
+        "location": "Bedfordshire, UK",
+        "name": "Mike Godfrey",
+        "notifications": false,
+        "profile_background_color": "022330",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/30675507/1407783839",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/670722678270132224/MCmgDCli_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/670722678270132224/MCmgDCli_normal.jpg",
+        "profile_link_color": "DD2E44",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "C0DFEC",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "uncletatty",
+        "statuses_count": 6816,
+        "time_zone": "London",
+        "url": "http://mike-godfrey.co.uk",
+        "utc_offset": 0,
+        "verified": false
+    }
+}
