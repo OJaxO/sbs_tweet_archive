@@ -1,0 +1,124 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Nov 29 17:39:27 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 119337592,
+                "id_str": "119337592",
+                "indices": [
+                    0,
+                    8
+                ],
+                "name": "SSE Energy",
+                "screen_name": "YourSSE"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 671020662362906626,
+    "id_str": "671020662362906626",
+    "in_reply_to_screen_name": "YourSSE",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 119337592,
+    "in_reply_to_user_id_str": "119337592",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -2.2927775,
+                        51.4341683
+                    ],
+                    [
+                        -2.253292,
+                        51.4341683
+                    ],
+                    [
+                        -2.253292,
+                        51.458654
+                    ],
+                    [
+                        -2.2927775,
+                        51.458654
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United Kingdom",
+        "country_code": "GB",
+        "full_name": "Colerne, England",
+        "id": "554571484c1fe217",
+        "name": "Colerne",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/554571484c1fe217.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+    "text": "@YourSSE power repeatedly going on/off in Colerne, nr Chippenham. Any ideas why?",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Jul 13 20:34:39 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "30 y/o ED nurse, originally from Plymouth, married with dogs and cats. Eccentric but loveable :-P",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 410,
+        "follow_request_sent": false,
+        "followers_count": 77,
+        "following": false,
+        "friends_count": 349,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 56484128,
+        "id_str": "56484128",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 4,
+        "location": "North Colerne, Wilts",
+        "name": "Lynsey Moffat",
+        "notifications": false,
+        "profile_background_color": "1A1B1F",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/56484128/1348568711",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/3098745581/b4d5eb00498aeac7f0fda1ecea92b7e8_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/3098745581/b4d5eb00498aeac7f0fda1ecea92b7e8_normal.jpeg",
+        "profile_link_color": "2FC2EF",
+        "profile_sidebar_border_color": "181A1E",
+        "profile_sidebar_fill_color": "252429",
+        "profile_text_color": "666666",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "rustykidneys",
+        "statuses_count": 1751,
+        "time_zone": "London",
+        "url": null,
+        "utc_offset": 0,
+        "verified": false
+    }
+}

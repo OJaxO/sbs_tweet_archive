@@ -1,0 +1,146 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Dec 02 10:28:33 +0000 2015",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    114,
+                    120
+                ],
+                "text": "Adele"
+            },
+            {
+                "indices": [
+                    121,
+                    132
+                ],
+                "text": "SSERewards"
+            },
+            {
+                "indices": [
+                    133,
+                    137
+                ],
+                "text": "SSE"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 119337592,
+                "id_str": "119337592",
+                "indices": [
+                    0,
+                    8
+                ],
+                "name": "SSE Energy",
+                "screen_name": "YourSSE"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 671999387069976576,
+    "id_str": "671999387069976576",
+    "in_reply_to_screen_name": "YourSSE",
+    "in_reply_to_status_id": 671994990470504449,
+    "in_reply_to_status_id_str": "671994990470504449",
+    "in_reply_to_user_id": 119337592,
+    "in_reply_to_user_id_str": "119337592",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -3.4896114,
+                        56.376686
+                    ],
+                    [
+                        -3.399675,
+                        56.376686
+                    ],
+                    [
+                        -3.399675,
+                        56.419651
+                    ],
+                    [
+                        -3.4896114,
+                        56.419651
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United Kingdom",
+        "country_code": "GB",
+        "full_name": "Perth, Scotland",
+        "id": "6315e24adfefa0dd",
+        "name": "Perth",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/6315e24adfefa0dd.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@YourSSE Competent ticketing websites put customers in a queue, to prevent multiple attempts. It's not difficult. #Adele #SSERewards #SSE",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Dec 07 18:57:32 +0000 2010",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Poirot-loving, football obsessed, going grey flood forecaster. Just a small town dude with a big city attitude.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 289,
+        "follow_request_sent": false,
+        "followers_count": 123,
+        "following": false,
+        "friends_count": 585,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 223942329,
+        "id_str": "223942329",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 3,
+        "location": "Perth, UK",
+        "name": "Darroch Kaye",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/223942329/1400752174",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/513405375677497344/phQZMsPu_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/513405375677497344/phQZMsPu_normal.jpeg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "DarrochK",
+        "statuses_count": 1430,
+        "time_zone": "Brisbane",
+        "url": null,
+        "utc_offset": 36000,
+        "verified": false
+    }
+}

@@ -1,0 +1,239 @@
+{
+    "contributors": null,
+    "coordinates": {
+        "coordinates": [
+            78.3981719,
+            17.4497104
+        ],
+        "type": "Point"
+    },
+    "created_at": "Mon Nov 30 17:35:45 +0000 2015",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    44,
+                    55
+                ],
+                "text": "technology"
+            }
+        ],
+        "media": [
+            {
+                "display_url": "pic.twitter.com/GJrqfzB6Sp",
+                "expanded_url": "http://twitter.com/wef/status/671380737787064321/photo/1",
+                "id": 671380737724170241,
+                "id_str": "671380737724170241",
+                "indices": [
+                    112,
+                    135
+                ],
+                "media_url": "http://pbs.twimg.com/media/CVE5OU0WwAEq-D8.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/CVE5OU0WwAEq-D8.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 463,
+                        "resize": "fit",
+                        "w": 674
+                    },
+                    "medium": {
+                        "h": 412,
+                        "resize": "fit",
+                        "w": 600
+                    },
+                    "small": {
+                        "h": 233,
+                        "resize": "fit",
+                        "w": 340
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "source_status_id": 671380737787064321,
+                "source_status_id_str": "671380737787064321",
+                "source_user_id": 5120691,
+                "source_user_id_str": "5120691",
+                "type": "photo",
+                "url": "https://t.co/GJrqfzB6Sp"
+            }
+        ],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "wef.ch/1LD5kxg",
+                "expanded_url": "http://wef.ch/1LD5kxg",
+                "indices": [
+                    87,
+                    110
+                ],
+                "url": "https://t.co/nvwjACRjg7"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 809273,
+                "id_str": "809273",
+                "indices": [
+                    0,
+                    7
+                ],
+                "name": "Oracle",
+                "screen_name": "Oracle"
+            },
+            {
+                "id": 18994444,
+                "id_str": "18994444",
+                "indices": [
+                    8,
+                    12
+                ],
+                "name": "IBM",
+                "screen_name": "IBM"
+            },
+            {
+                "id": 2670321,
+                "id_str": "2670321",
+                "indices": [
+                    13,
+                    17
+                ],
+                "name": "IDC",
+                "screen_name": "IDC"
+            },
+            {
+                "id": 91478624,
+                "id_str": "91478624",
+                "indices": [
+                    18,
+                    25
+                ],
+                "name": "Forbes",
+                "screen_name": "Forbes"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": {
+        "coordinates": [
+            17.4497104,
+            78.3981719
+        ],
+        "type": "Point"
+    },
+    "id": 671382119369674752,
+    "id_str": "671382119369674752",
+    "in_reply_to_screen_name": "Oracle",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 809273,
+    "in_reply_to_user_id_str": "809273",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        78.233173,
+                        17.2371055
+                    ],
+                    [
+                        78.5373982,
+                        17.2371055
+                    ],
+                    [
+                        78.5373982,
+                        17.5529688
+                    ],
+                    [
+                        78.233173,
+                        17.5529688
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "India",
+        "country_code": "IN",
+        "full_name": "Rajendra Nagar, Andhra Pradesh",
+        "id": "7a8b600fe5f170bc",
+        "name": "Rajendra Nagar",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/7a8b600fe5f170bc.json"
+    },
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@oracle @ibm @idc @Forbes @Cyient@wef: This #technology is 100 times faster than Wi-Fi https://t.co/nvwjACRjg7  https://t.co/GJrqfzB6Sp\"",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Jun 07 09:20:28 +0000 2009",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "csc.com",
+                        "expanded_url": "http://www.csc.com",
+                        "indices": [
+                            0,
+                            20
+                        ],
+                        "url": "http://t.co/kfXhMgr6"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 8065,
+        "follow_request_sent": false,
+        "followers_count": 326,
+        "following": false,
+        "friends_count": 82,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 45312171,
+        "id_str": "45312171",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 419,
+        "location": "",
+        "name": "Vishal Savajiani",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/667063506580078593/-CMlmlWV_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/667063506580078593/-CMlmlWV_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "vishalgreat",
+        "statuses_count": 22121,
+        "time_zone": "New Delhi",
+        "url": "http://t.co/kfXhMgr6",
+        "utc_offset": 19800,
+        "verified": false
+    }
+}

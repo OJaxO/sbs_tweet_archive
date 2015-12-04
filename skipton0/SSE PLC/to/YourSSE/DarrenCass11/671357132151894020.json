@@ -1,0 +1,149 @@
+{
+    "contributors": null,
+    "coordinates": {
+        "coordinates": [
+            -1.25452867,
+            51.74081278
+        ],
+        "type": "Point"
+    },
+    "created_at": "Mon Nov 30 15:56:28 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 119337592,
+                "id_str": "119337592",
+                "indices": [
+                    0,
+                    8
+                ],
+                "name": "SSE Energy",
+                "screen_name": "YourSSE"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": {
+        "coordinates": [
+            51.74081278,
+            -1.25452867
+        ],
+        "type": "Point"
+    },
+    "id": 671357132151894020,
+    "id_str": "671357132151894020",
+    "in_reply_to_screen_name": "YourSSE",
+    "in_reply_to_status_id": 671336293004091393,
+    "in_reply_to_status_id_str": "671336293004091393",
+    "in_reply_to_user_id": 119337592,
+    "in_reply_to_user_id_str": "119337592",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -1.289608,
+                        51.7122668
+                    ],
+                    [
+                        -1.1772587,
+                        51.7122668
+                    ],
+                    [
+                        -1.1772587,
+                        51.796305
+                    ],
+                    [
+                        -1.289608,
+                        51.796305
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United Kingdom",
+        "country_code": "GB",
+        "full_name": "Oxford, England",
+        "id": "616ba1df27270916",
+        "name": "Oxford",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/616ba1df27270916.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://www.twitter.com\" rel=\"nofollow\">Twitter for Windows Phone</a>",
+    "text": "@YourSSE nobody as either answered or returned my phone calls.. Would prefer to speak yo a member of staff before closing time today",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Jan 30 14:58:59 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Ultra Runner, Guinness lover, passion for Fire Safety.. Often seen running with a GoPro in hand!!",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "youtube.com/channel/UCer3t\u2026",
+                        "expanded_url": "https://www.youtube.com/channel/UCer3tjnBSJIQuqdnN9z56DQ",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/YTJPc7YGI6"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 313,
+        "follow_request_sent": false,
+        "followers_count": 254,
+        "following": false,
+        "friends_count": 481,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 244960892,
+        "id_str": "244960892",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 3,
+        "location": "Oxford (Clones is Home) ",
+        "name": "Darren Cassidy",
+        "notifications": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/443132320136966144/ON0rzyxY.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/443132320136966144/ON0rzyxY.jpeg",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/244960892/1429805911",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/624315396443648000/tNlPyEOt_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/624315396443648000/tNlPyEOt_normal.jpg",
+        "profile_link_color": "4A913C",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "DarrenCass11",
+        "statuses_count": 3397,
+        "time_zone": "Amsterdam",
+        "url": "https://t.co/YTJPc7YGI6",
+        "utc_offset": 3600,
+        "verified": false
+    }
+}

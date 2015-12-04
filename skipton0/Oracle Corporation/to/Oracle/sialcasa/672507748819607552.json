@@ -1,0 +1,292 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Dec 03 20:08:36 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/github/status/\u2026",
+                "expanded_url": "https://twitter.com/github/status/672507004737347584",
+                "indices": [
+                    40,
+                    63
+                ],
+                "url": "https://t.co/fozlbHXTzT"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 809273,
+                "id_str": "809273",
+                "indices": [
+                    0,
+                    7
+                ],
+                "name": "Oracle",
+                "screen_name": "Oracle"
+            }
+        ]
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": null,
+    "id": 672507748819607552,
+    "id_str": "672507748819607552",
+    "in_reply_to_screen_name": "Oracle",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 809273,
+    "in_reply_to_user_id_str": "809273",
+    "is_quote_status": true,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        13.579443,
+                        50.975948
+                    ],
+                    [
+                        13.965473,
+                        50.975948
+                    ],
+                    [
+                        13.965473,
+                        51.177706
+                    ],
+                    [
+                        13.579443,
+                        51.177706
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "Deutschland",
+        "country_code": "DE",
+        "full_name": "Dresden, Sachsen",
+        "id": "3e0767c2f3a12643",
+        "name": "Dresden",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/3e0767c2f3a12643.json"
+    },
+    "possibly_sensitive": false,
+    "quoted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Thu Dec 03 20:05:39 +0000 2015",
+        "entities": {
+            "hashtags": [],
+            "media": [
+                {
+                    "display_url": "pic.twitter.com/Yp6WEM47LE",
+                    "expanded_url": "http://twitter.com/github/status/672507004737347584/photo/1",
+                    "id": 672507004213067778,
+                    "id_str": "672507004213067778",
+                    "indices": [
+                        104,
+                        127
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/CVU5jqcVAAI_KJY.png",
+                    "media_url_https": "https://pbs.twimg.com/media/CVU5jqcVAAI_KJY.png",
+                    "sizes": {
+                        "large": {
+                            "h": 537,
+                            "resize": "fit",
+                            "w": 1024
+                        },
+                        "medium": {
+                            "h": 315,
+                            "resize": "fit",
+                            "w": 600
+                        },
+                        "small": {
+                            "h": 178,
+                            "resize": "fit",
+                            "w": 340
+                        },
+                        "thumb": {
+                            "h": 150,
+                            "resize": "crop",
+                            "w": 150
+                        }
+                    },
+                    "type": "photo",
+                    "url": "https://t.co/Yp6WEM47LE"
+                }
+            ],
+            "symbols": [],
+            "urls": [
+                {
+                    "display_url": "github.com/blog/2089-appl\u2026",
+                    "expanded_url": "https://github.com/blog/2089-apple-open-sources-swift-on-github?utm_source=twitter&utm_medium=social&utm_campaign=apple-swift-open-source",
+                    "indices": [
+                        80,
+                        103
+                    ],
+                    "url": "https://t.co/2GMEczPITT"
+                }
+            ],
+            "user_mentions": []
+        },
+        "favorite_count": 804,
+        "favorited": false,
+        "geo": null,
+        "id": 672507004737347584,
+        "id_str": "672507004737347584",
+        "in_reply_to_screen_name": null,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "is_quote_status": false,
+        "lang": "en",
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "place": null,
+        "possibly_sensitive": false,
+        "retweet_count": 985,
+        "retweeted": false,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": "Swift, Apple's powerful new programming language, is now open source on GitHub: https://t.co/2GMEczPITT https://t.co/Yp6WEM47LE",
+        "truncated": false,
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Mon Feb 11 04:41:50 +0000 2008",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "How people build software",
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "github.com",
+                            "expanded_url": "https://github.com",
+                            "indices": [
+                                0,
+                                23
+                            ],
+                            "url": "https://t.co/FoKGHcCyJJ"
+                        }
+                    ]
+                }
+            },
+            "favourites_count": 155,
+            "follow_request_sent": false,
+            "followers_count": 743372,
+            "following": false,
+            "friends_count": 172,
+            "geo_enabled": true,
+            "has_extended_profile": false,
+            "id": 13334762,
+            "id_str": "13334762",
+            "is_translation_enabled": false,
+            "is_translator": false,
+            "lang": "en",
+            "listed_count": 11524,
+            "location": "San Francisco, CA",
+            "name": "GitHub",
+            "notifications": false,
+            "profile_background_color": "EEEEEE",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/4229589/header_bg.png",
+            "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/4229589/header_bg.png",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/13334762/1415719104",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/616309728688238592/pBeeJQDQ_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/616309728688238592/pBeeJQDQ_normal.png",
+            "profile_link_color": "0000FF",
+            "profile_sidebar_border_color": "BBBBBB",
+            "profile_sidebar_fill_color": "DDDDDD",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "protected": false,
+            "screen_name": "github",
+            "statuses_count": 3122,
+            "time_zone": "Pacific Time (US & Canada)",
+            "url": "https://t.co/FoKGHcCyJJ",
+            "utc_offset": -28800,
+            "verified": true
+        }
+    },
+    "quoted_status_id": 672507004737347584,
+    "quoted_status_id_str": "672507004737347584",
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@oracle Maybe do the same with openjdk? https://t.co/fozlbHXTzT",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Apr 21 08:47:28 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "iOS / JavaFX developer from Dresden / Germany",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "about.me/alexander.casa\u2026",
+                        "expanded_url": "http://about.me/alexander.casall",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/hJGwfeOvCr"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 300,
+        "follow_request_sent": false,
+        "followers_count": 1417,
+        "following": false,
+        "friends_count": 184,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 135434471,
+        "id_str": "135434471",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "de",
+        "listed_count": 14,
+        "location": "Dresden",
+        "name": "Alexander Casall",
+        "notifications": false,
+        "profile_background_color": "A6A6AD",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/305982357/Wood-floorboards-texture.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/305982357/Wood-floorboards-texture.jpg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/135434471/1446086979",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/378800000439996929/324a6470f747a766b43473b30eb9a445_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000439996929/324a6470f747a766b43473b30eb9a445_normal.jpeg",
+        "profile_link_color": "110E59",
+        "profile_sidebar_border_color": "120101",
+        "profile_sidebar_fill_color": "D1D6FF",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "sialcasa",
+        "statuses_count": 530,
+        "time_zone": "Greenland",
+        "url": "https://t.co/hJGwfeOvCr",
+        "utc_offset": -10800,
+        "verified": false
+    }
+}
