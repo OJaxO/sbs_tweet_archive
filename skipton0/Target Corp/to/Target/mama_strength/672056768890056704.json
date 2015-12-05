@@ -1,0 +1,187 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Dec 02 14:16:34 +0000 2015",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    65,
+                    79
+                ],
+                "text": "happyholidays"
+            },
+            {
+                "indices": [
+                    80,
+                    93
+                ],
+                "text": "peaceonearth"
+            }
+        ],
+        "media": [
+            {
+                "display_url": "pic.twitter.com/pYdXZWyBle",
+                "expanded_url": "http://twitter.com/mama_strength/status/672056768890056704/photo/1",
+                "id": 672056764439928832,
+                "id_str": "672056764439928832",
+                "indices": [
+                    94,
+                    117
+                ],
+                "media_url": "http://pbs.twimg.com/media/CVOgEQlXIAABBCP.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/CVOgEQlXIAABBCP.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 1024,
+                        "resize": "fit",
+                        "w": 768
+                    },
+                    "medium": {
+                        "h": 800,
+                        "resize": "fit",
+                        "w": 600
+                    },
+                    "small": {
+                        "h": 453,
+                        "resize": "fit",
+                        "w": 340
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/pYdXZWyBle"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 89084561,
+                "id_str": "89084561",
+                "indices": [
+                    0,
+                    7
+                ],
+                "name": "Target",
+                "screen_name": "Target"
+            },
+            {
+                "id": 89086285,
+                "id_str": "89086285",
+                "indices": [
+                    52,
+                    64
+                ],
+                "name": "Target Style",
+                "screen_name": "TargetStyle"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 672056768890056704,
+    "id_str": "672056768890056704",
+    "in_reply_to_screen_name": "Target",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 89084561,
+    "in_reply_to_user_id_str": "89084561",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -80.334426,
+                        25.690519
+                    ],
+                    [
+                        -80.292923,
+                        25.690519
+                    ],
+                    [
+                        -80.292923,
+                        25.733912
+                    ],
+                    [
+                        -80.334426,
+                        25.733912
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Glenvar Heights, FL",
+        "id": "f546db03397f6e09",
+        "name": "Glenvar Heights",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/f546db03397f6e09.json"
+    },
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@Target see our tree! All decorated by ornaments by @TargetStyle #happyholidays #peaceonearth https://t.co/pYdXZWyBle",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Apr 13 16:30:03 +0000 2009",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Trying to start a new life as a single mother and lux pr/marketing/social media guru while keeping it real!",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 11,
+        "follow_request_sent": false,
+        "followers_count": 67,
+        "following": false,
+        "friends_count": 236,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 30897173,
+        "id_str": "30897173",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 5,
+        "location": "Global",
+        "name": "Jennifer L.",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/555592970142253056/vmFeB4m5_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/555592970142253056/vmFeB4m5_normal.jpeg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "mama_strength",
+        "statuses_count": 341,
+        "time_zone": "Quito",
+        "url": null,
+        "utc_offset": -18000,
+        "verified": false
+    }
+}

@@ -1,0 +1,175 @@
+{
+    "contributors": null,
+    "coordinates": {
+        "coordinates": [
+            -77.5011673,
+            37.5866508
+        ],
+        "type": "Point"
+    },
+    "created_at": "Thu Dec 03 21:42:54 +0000 2015",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    60,
+                    82
+                ],
+                "text": "runningerrandswithdad"
+            },
+            {
+                "indices": [
+                    83,
+                    91
+                ],
+                "text": "Charlie"
+            }
+        ],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "instagram.com/p/-2FxDGuEFo/",
+                "expanded_url": "https://www.instagram.com/p/-2FxDGuEFo/",
+                "indices": [
+                    93,
+                    116
+                ],
+                "url": "https://t.co/6CFzWT24p6"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 89084561,
+                "id_str": "89084561",
+                "indices": [
+                    0,
+                    7
+                ],
+                "name": "Target",
+                "screen_name": "Target"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": {
+        "coordinates": [
+            37.5866508,
+            -77.5011673
+        ],
+        "type": "Point"
+    },
+    "id": 672531479784624130,
+    "id_str": "672531479784624130",
+    "in_reply_to_screen_name": "Target",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 89084561,
+    "in_reply_to_user_id_str": "89084561",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -77.601044,
+                        37.447046
+                    ],
+                    [
+                        -77.385297,
+                        37.447046
+                    ],
+                    [
+                        -77.385297,
+                        37.61272
+                    ],
+                    [
+                        -77.601044,
+                        37.61272
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Richmond, VA",
+        "id": "00f751614d8ce37b",
+        "name": "Richmond",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/00f751614d8ce37b.json"
+    },
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+    "text": "@target busy people watching to look at me for a picture... #runningerrandswithdad #Charlie\u2026 https://t.co/6CFzWT24p6",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Feb 26 00:53:19 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "fundraiser, ECF, annual giving and prospect research consultant, rule breaker, whip cracker, anti-PC, & doing it all while being technologically challenged...",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "about.me/nicksollog",
+                        "expanded_url": "http://about.me/nicksollog",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/AOEdIXhT3L"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 230,
+        "follow_request_sent": false,
+        "followers_count": 782,
+        "following": false,
+        "friends_count": 1979,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 21948510,
+        "id_str": "21948510",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 35,
+        "location": "Richmond, VA",
+        "name": "Nick Sollog",
+        "notifications": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/763451489/6c079bb371fa640ef9193d4efb596820.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/763451489/6c079bb371fa640ef9193d4efb596820.jpeg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/21948510/1449290220",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/572950155993702400/zp_49lJ3_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/572950155993702400/zp_49lJ3_normal.jpeg",
+        "profile_link_color": "009999",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "fnsollog3",
+        "statuses_count": 5192,
+        "time_zone": "Quito",
+        "url": "https://t.co/AOEdIXhT3L",
+        "utc_offset": -18000,
+        "verified": false
+    }
+}

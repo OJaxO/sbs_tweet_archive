@@ -1,0 +1,300 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Dec 02 22:16:04 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/Bainst06/statu\u2026",
+                "expanded_url": "https://twitter.com/Bainst06/status/672176910814826496",
+                "indices": [
+                    110,
+                    133
+                ],
+                "url": "https://t.co/jTZEyq6Mtb"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 89084561,
+                "id_str": "89084561",
+                "indices": [
+                    0,
+                    7
+                ],
+                "name": "Target",
+                "screen_name": "Target"
+            }
+        ]
+    },
+    "favorite_count": 2,
+    "favorited": false,
+    "geo": null,
+    "id": 672177437376045056,
+    "id_str": "672177437376045056",
+    "in_reply_to_screen_name": "Target",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 89084561,
+    "in_reply_to_user_id_str": "89084561",
+    "is_quote_status": true,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": null,
+    "possibly_sensitive": false,
+    "quoted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Wed Dec 02 22:13:58 +0000 2015",
+        "entities": {
+            "hashtags": [],
+            "media": [
+                {
+                    "display_url": "pic.twitter.com/LfCn5W5rvm",
+                    "expanded_url": "http://twitter.com/Bainst06/status/672176910814826496/photo/1",
+                    "id": 672176900995809280,
+                    "id_str": "672176900995809280",
+                    "indices": [
+                        90,
+                        113
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/CVQNVIIUAAAWp7_.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/CVQNVIIUAAAWp7_.jpg",
+                    "sizes": {
+                        "large": {
+                            "h": 1820,
+                            "resize": "fit",
+                            "w": 1024
+                        },
+                        "medium": {
+                            "h": 1066,
+                            "resize": "fit",
+                            "w": 600
+                        },
+                        "small": {
+                            "h": 604,
+                            "resize": "fit",
+                            "w": 340
+                        },
+                        "thumb": {
+                            "h": 150,
+                            "resize": "crop",
+                            "w": 150
+                        }
+                    },
+                    "type": "photo",
+                    "url": "https://t.co/LfCn5W5rvm"
+                }
+            ],
+            "symbols": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "id": 2804526373,
+                    "id_str": "2804526373",
+                    "indices": [
+                        0,
+                        12
+                    ],
+                    "name": "Heroic Girls",
+                    "screen_name": "HeroicGirls"
+                },
+                {
+                    "id": 56744139,
+                    "id_str": "56744139",
+                    "indices": [
+                        13,
+                        26
+                    ],
+                    "name": "Troy Freund",
+                    "screen_name": "MidwestPhoto"
+                }
+            ]
+        },
+        "favorite_count": 2,
+        "favorited": false,
+        "geo": null,
+        "id": 672176910814826496,
+        "id_str": "672176910814826496",
+        "in_reply_to_screen_name": "Bainst06",
+        "in_reply_to_status_id": 671799036681297921,
+        "in_reply_to_status_id_str": "671799036681297921",
+        "in_reply_to_user_id": 24265832,
+        "in_reply_to_user_id_str": "24265832",
+        "is_quote_status": false,
+        "lang": "en",
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "place": {
+            "attributes": {},
+            "bounding_box": {
+                "coordinates": [
+                    [
+                        [
+                            -77.064086,
+                            38.979735
+                        ],
+                        [
+                            -76.97162,
+                            38.979735
+                        ],
+                        [
+                            -76.97162,
+                            39.036964
+                        ],
+                        [
+                            -77.064086,
+                            39.036964
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "contained_within": [],
+            "country": "United States",
+            "country_code": "US",
+            "full_name": "Silver Spring, MD",
+            "id": "6417871953fa5e86",
+            "name": "Silver Spring",
+            "place_type": "city",
+            "url": "https://api.twitter.com/1.1/geo/id/6417871953fa5e86.json"
+        },
+        "possibly_sensitive": false,
+        "retweet_count": 0,
+        "retweeted": false,
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "text": "@HeroicGirls @MidwestPhoto thank you all so much. It looks like our voices were heard!!!! https://t.co/LfCn5W5rvm",
+        "truncated": false,
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Fri Mar 13 22:07:52 +0000 2009",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "President- @MerkeryTranspo\n#Marvel Fangirl \nI may not have gone where I intended to go, but I think I have ended up where I needed to be. -Douglas Adams",
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "favourites_count": 56790,
+            "follow_request_sent": false,
+            "followers_count": 861,
+            "following": false,
+            "friends_count": 716,
+            "geo_enabled": true,
+            "has_extended_profile": false,
+            "id": 24265832,
+            "id_str": "24265832",
+            "is_translation_enabled": false,
+            "is_translator": false,
+            "lang": "en",
+            "listed_count": 70,
+            "location": "Washington, D.C. #HorizonsLab",
+            "name": "Tamar Bains",
+            "notifications": false,
+            "profile_background_color": "EBEBEB",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/445619302545096705/s9RyqXIV.jpeg",
+            "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/445619302545096705/s9RyqXIV.jpeg",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/24265832/1449059467",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/104362213/homer-simpson-wallpaper-brain-1024_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/104362213/homer-simpson-wallpaper-brain-1024_normal.jpg",
+            "profile_link_color": "990000",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "F3F3F3",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "Bainst06",
+            "statuses_count": 29502,
+            "time_zone": "Eastern Time (US & Canada)",
+            "url": null,
+            "utc_offset": -18000,
+            "verified": false
+        }
+    },
+    "quoted_status_id": 672176910814826496,
+    "quoted_status_id_str": "672176910814826496",
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@Target is fixing the description of the Captain Phasma costume. I see no conspiracy here. Just a dumb error. https://t.co/jTZEyq6Mtb",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Sep 11 23:03:13 +0000 2014",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Heroic Girls is an organization dedicated to empowering girls by advocating for strong role models in the media \u2014 particularly comics.\n\nhttps://t.co/gaUtW6eGHe",
+        "entities": {
+            "description": {
+                "urls": [
+                    {
+                        "display_url": "facebook.com/theheroicgirls",
+                        "expanded_url": "https://www.facebook.com/theheroicgirls",
+                        "indices": [
+                            136,
+                            159
+                        ],
+                        "url": "https://t.co/gaUtW6eGHe"
+                    }
+                ]
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "heroicgirls.com",
+                        "expanded_url": "http://www.heroicgirls.com",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/cv2VcZdmVd"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 3782,
+        "follow_request_sent": false,
+        "followers_count": 1995,
+        "following": false,
+        "friends_count": 375,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 2804526373,
+        "id_str": "2804526373",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 33,
+        "location": "",
+        "name": "Heroic Girls",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2804526373/1422832788",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/562028085558534144/Kg-I-IAD_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/562028085558534144/Kg-I-IAD_normal.jpeg",
+        "profile_link_color": "3B94D9",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "HeroicGirls",
+        "statuses_count": 2054,
+        "time_zone": null,
+        "url": "http://t.co/cv2VcZdmVd",
+        "utc_offset": null,
+        "verified": false
+    }
+}

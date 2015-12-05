@@ -1,0 +1,124 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Dec 03 00:50:04 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 89084561,
+                "id_str": "89084561",
+                "indices": [
+                    0,
+                    7
+                ],
+                "name": "Target",
+                "screen_name": "Target"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 672216192120045569,
+    "id_str": "672216192120045569",
+    "in_reply_to_screen_name": "Target",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 89084561,
+    "in_reply_to_user_id_str": "89084561",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -90.18406391143799,
+                        30.003706206185452
+                    ],
+                    [
+                        -90.18406391143799,
+                        30.003706206185452
+                    ],
+                    [
+                        -90.18406391143799,
+                        30.003706206185452
+                    ],
+                    [
+                        -90.18406391143799,
+                        30.003706206185452
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Target",
+        "id": "07d9db22d3088003",
+        "name": "Target",
+        "place_type": "poi",
+        "url": "https://api.twitter.com/1.1/geo/id/07d9db22d3088003.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@Target just trying to pay my bill and it's been 30 minutes so far in line. Come on.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Mar 02 05:03:48 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Glitter flavored.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 542,
+        "follow_request_sent": false,
+        "followers_count": 457,
+        "following": false,
+        "friends_count": 1326,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 118941324,
+        "id_str": "118941324",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 8,
+        "location": "New Orleans ",
+        "name": "jimtalks",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/304110912/FrankfurtAfternoonAdjusted.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/304110912/FrankfurtAfternoonAdjusted.jpg",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/118941324/1354768902",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/2464953772/p46ux7dplcpkg4juqdzr_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/2464953772/p46ux7dplcpkg4juqdzr_normal.jpeg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "jimtalks",
+        "statuses_count": 13002,
+        "time_zone": "Mountain Time (US & Canada)",
+        "url": null,
+        "utc_offset": -25200,
+        "verified": false
+    }
+}

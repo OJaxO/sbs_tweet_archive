@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Dec 02 12:56:55 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 89084561,
+                "id_str": "89084561",
+                "indices": [
+                    0,
+                    7
+                ],
+                "name": "Target",
+                "screen_name": "Target"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 672036722977464320,
+    "id_str": "672036722977464320",
+    "in_reply_to_screen_name": "Target",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 89084561,
+    "in_reply_to_user_id_str": "89084561",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -74.026675,
+                        40.683935
+                    ],
+                    [
+                        -73.910408,
+                        40.683935
+                    ],
+                    [
+                        -73.910408,
+                        40.877483
+                    ],
+                    [
+                        -74.026675,
+                        40.877483
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Manhattan, NY",
+        "id": "01a9a39529b27f36",
+        "name": "Manhattan",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/01a9a39529b27f36.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@Target A friend ordered a iPad Mini2 but you shipped an iPad Mini4 -- what should she do? I told her to keep the 4.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Oct 18 09:48:00 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Writer, editor, and nuance seeker. Creator of communications strategies. Digital extrovert. Loves efficiency. Knows far too much about zombies.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "mandyvandeven.com",
+                        "expanded_url": "http://mandyvandeven.com",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/leW8FkRRau"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 3372,
+        "follow_request_sent": false,
+        "followers_count": 2395,
+        "following": false,
+        "friends_count": 1485,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 83334807,
+        "id_str": "83334807",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 196,
+        "location": "New York (via Georgia)",
+        "name": "Mandy Van Deven",
+        "notifications": false,
+        "profile_background_color": "3434A8",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000050304681/5a526e9f10dc88de3cf15b40e90e147b.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000050304681/5a526e9f10dc88de3cf15b40e90e147b.jpeg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/83334807/1398336446",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/658420043626233856/y2dOaurP_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/658420043626233856/y2dOaurP_normal.jpg",
+        "profile_link_color": "346A8F",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "FA2B7B",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "mandyvandeven",
+        "statuses_count": 17232,
+        "time_zone": "Eastern Time (US & Canada)",
+        "url": "https://t.co/leW8FkRRau",
+        "utc_offset": -18000,
+        "verified": false
+    }
+}

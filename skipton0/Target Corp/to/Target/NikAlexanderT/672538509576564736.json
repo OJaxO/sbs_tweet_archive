@@ -1,0 +1,178 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Dec 03 22:10:50 +0000 2015",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    22,
+                    29
+                ],
+                "text": "Target"
+            },
+            {
+                "indices": [
+                    64,
+                    72
+                ],
+                "text": "Walmart"
+            }
+        ],
+        "media": [
+            {
+                "display_url": "pic.twitter.com/0LxvYHOD9J",
+                "expanded_url": "http://twitter.com/NikAlexanderT/status/672538509576564736/photo/1",
+                "id": 672538498268729344,
+                "id_str": "672538498268729344",
+                "indices": [
+                    75,
+                    98
+                ],
+                "media_url": "http://pbs.twimg.com/media/CVVWM28VEAAA2AB.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/CVVWM28VEAAA2AB.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 1024,
+                        "resize": "fit",
+                        "w": 768
+                    },
+                    "medium": {
+                        "h": 800,
+                        "resize": "fit",
+                        "w": 600
+                    },
+                    "small": {
+                        "h": 453,
+                        "resize": "fit",
+                        "w": 340
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/0LxvYHOD9J"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 89084561,
+                "id_str": "89084561",
+                "indices": [
+                    0,
+                    7
+                ],
+                "name": "Target",
+                "screen_name": "Target"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 672538509576564736,
+    "id_str": "672538509576564736",
+    "in_reply_to_screen_name": "Target",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 89084561,
+    "in_reply_to_user_id_str": "89084561",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -93.0091239677168,
+                        45.0140611215176
+                    ],
+                    [
+                        -93.0091239677168,
+                        45.0140611215176
+                    ],
+                    [
+                        -93.0091239677168,
+                        45.0140611215176
+                    ],
+                    [
+                        -93.0091239677168,
+                        45.0140611215176
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Target",
+        "id": "07d9d221d4080000",
+        "name": "Target",
+        "place_type": "poi",
+        "url": "https://api.twitter.com/1.1/geo/id/07d9d221d4080000.json"
+    },
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@Target Why does this #Target make me feel like I wandered into #Walmart ? https://t.co/0LxvYHOD9J",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Sep 02 16:18:47 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Daddy of 2. @StPaulSaints fan. Explorer. Dog-lover. Sci-fi enthusiast. Forever curious. Addicted: Pandora, Rule 62 and singing in my car.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 103,
+        "follow_request_sent": false,
+        "followers_count": 343,
+        "following": false,
+        "friends_count": 769,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 186112389,
+        "id_str": "186112389",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 4,
+        "location": "Minneapolis/St Paul, MN",
+        "name": "Nik Alexander Theiss",
+        "notifications": false,
+        "profile_background_color": "060A07",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000028130093/f9d6991cc6a0ead1049d89d96d3f5ae0.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000028130093/f9d6991cc6a0ead1049d89d96d3f5ae0.jpeg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/186112389/1374262128",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/494145358503485440/7BhT7R_n_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/494145358503485440/7BhT7R_n_normal.jpeg",
+        "profile_link_color": "4B42C2",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "C9C9C9",
+        "profile_text_color": "1C1F23",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "NikAlexanderT",
+        "statuses_count": 503,
+        "time_zone": "Central Time (US & Canada)",
+        "url": null,
+        "utc_offset": -21600,
+        "verified": false
+    }
+}
