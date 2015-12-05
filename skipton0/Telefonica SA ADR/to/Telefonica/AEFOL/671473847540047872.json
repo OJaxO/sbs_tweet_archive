@@ -1,0 +1,169 @@
+{
+    "contributors": null,
+    "coordinates": {
+        "coordinates": [
+            2.04707712,
+            41.47031627
+        ],
+        "type": "Point"
+    },
+    "created_at": "Mon Nov 30 23:40:15 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 61744008,
+                "id_str": "61744008",
+                "indices": [
+                    0,
+                    11
+                ],
+                "name": "Telef\u00f3nica",
+                "screen_name": "Telefonica"
+            },
+            {
+                "id": 14436030,
+                "id_str": "14436030",
+                "indices": [
+                    106,
+                    116
+                ],
+                "name": "EL MUNDO",
+                "screen_name": "elmundoes"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": {
+        "coordinates": [
+            41.47031627,
+            2.04707712
+        ],
+        "type": "Point"
+    },
+    "id": 671473847540047872,
+    "id_str": "671473847540047872",
+    "in_reply_to_screen_name": "Telefonica",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 61744008,
+    "in_reply_to_user_id_str": "61744008",
+    "is_quote_status": false,
+    "lang": "es",
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        1.9998292,
+                        41.4150361
+                    ],
+                    [
+                        2.1299645,
+                        41.4150361
+                    ],
+                    [
+                        2.1299645,
+                        41.519488
+                    ],
+                    [
+                        1.9998292,
+                        41.519488
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "Espa\u00f1a",
+        "country_code": "ES",
+        "full_name": "Sant Cugat del Vall\u00e8s, Catalunya",
+        "id": "ea962961b94011f1",
+        "name": "Sant Cugat del Vall\u00e8s",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/ea962961b94011f1.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+    "text": "@Telefonica vincular\u00e1 el 20% del salario variable de sus empleados a la satisfacci\u00f3n de sus clientes, v\u00eda @elmundoes",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Apr 30 08:17:34 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "EXPOELEARNING y EXPORRHH en Feria de Madrid, 3-4 marzo 2016, https://t.co/tIW22uWZz3 AEFOL 15 a\u00f1os. The #elearning knowlodge",
+        "entities": {
+            "description": {
+                "urls": [
+                    {
+                        "display_url": "expoelearning.com",
+                        "expanded_url": "http://expoelearning.com",
+                        "indices": [
+                            61,
+                            84
+                        ],
+                        "url": "https://t.co/tIW22uWZz3"
+                    }
+                ]
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "aefol.com",
+                        "expanded_url": "http://www.aefol.com",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/DRLoGAJypi"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 477,
+        "follow_request_sent": false,
+        "followers_count": 6557,
+        "following": false,
+        "friends_count": 3440,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 138686927,
+        "id_str": "138686927",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "es",
+        "listed_count": 430,
+        "location": "Barcelona|Madrid|Latam",
+        "name": "EXPOELEARNING & RRHH",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000019296864/1128502e170c54ea0414102ecd8e7c55.png",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000019296864/1128502e170c54ea0414102ecd8e7c55.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/138686927/1447781141",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/666674523345940480/OjIwCXW0_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/666674523345940480/OjIwCXW0_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "AEFOL",
+        "statuses_count": 19705,
+        "time_zone": "Madrid",
+        "url": "https://t.co/DRLoGAJypi",
+        "utc_offset": 3600,
+        "verified": false
+    }
+}

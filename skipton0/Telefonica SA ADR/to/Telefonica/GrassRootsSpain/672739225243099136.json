@@ -1,0 +1,184 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Dec 04 11:28:24 +0000 2015",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    33,
+                    48
+                ],
+                "text": "retoendistrito"
+            }
+        ],
+        "media": [
+            {
+                "display_url": "pic.twitter.com/BU5hI7fc7n",
+                "expanded_url": "http://twitter.com/GrassRootsSpain/status/672739225243099136/photo/1",
+                "id": 672739211859107840,
+                "id_str": "672739211859107840",
+                "indices": [
+                    49,
+                    72
+                ],
+                "media_url": "http://pbs.twimg.com/media/CVYMv7VWoAAVjrj.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/CVYMv7VWoAAVjrj.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 750,
+                        "resize": "fit",
+                        "w": 1000
+                    },
+                    "medium": {
+                        "h": 450,
+                        "resize": "fit",
+                        "w": 600
+                    },
+                    "small": {
+                        "h": 255,
+                        "resize": "fit",
+                        "w": 340
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/BU5hI7fc7n"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 61744008,
+                "id_str": "61744008",
+                "indices": [
+                    0,
+                    11
+                ],
+                "name": "Telef\u00f3nica",
+                "screen_name": "Telefonica"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 672739225243099136,
+    "id_str": "672739225243099136",
+    "in_reply_to_screen_name": "Telefonica",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 61744008,
+    "in_reply_to_user_id_str": "61744008",
+    "is_quote_status": false,
+    "lang": "es",
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -3.8890049,
+                        40.3120713
+                    ],
+                    [
+                        -3.5180102,
+                        40.3120713
+                    ],
+                    [
+                        -3.5180102,
+                        40.6435181
+                    ],
+                    [
+                        -3.8890049,
+                        40.6435181
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "Espa\u00f1a",
+        "country_code": "ES",
+        "full_name": "Madrid, Comunidad de Madrid",
+        "id": "206c436ce43a43a3",
+        "name": "Madrid",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/206c436ce43a43a3.json"
+    },
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@Telefonica comparte su programa #retoendistrito https://t.co/BU5hI7fc7n",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Nov 23 17:49:05 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Soluciones de Engagement para Empleados y Clientes",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "grassroots.es",
+                        "expanded_url": "http://www.grassroots.es",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/xFrAUUef6T"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 50,
+        "follow_request_sent": false,
+        "followers_count": 773,
+        "following": false,
+        "friends_count": 754,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 92072683,
+        "id_str": "92072683",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "es",
+        "listed_count": 39,
+        "location": "Madrid",
+        "name": "Grass Roots Espa\u00f1a",
+        "notifications": false,
+        "profile_background_color": "FFFCFD",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/469825840906137602/gqhkH2yU.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/469825840906137602/gqhkH2yU.jpeg",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/92072683/1400850351",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/469826193777127424/ZoYWH2Qc_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/469826193777127424/ZoYWH2Qc_normal.jpeg",
+        "profile_link_color": "3E54C2",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "EBE2E4",
+        "profile_text_color": "2E2D2E",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "GrassRootsSpain",
+        "statuses_count": 1185,
+        "time_zone": "Madrid",
+        "url": "http://t.co/xFrAUUef6T",
+        "utc_offset": 3600,
+        "verified": false
+    }
+}

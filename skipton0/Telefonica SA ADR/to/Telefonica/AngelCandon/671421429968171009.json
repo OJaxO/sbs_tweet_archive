@@ -1,0 +1,134 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Nov 30 20:11:57 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 61744008,
+                "id_str": "61744008",
+                "indices": [
+                    0,
+                    11
+                ],
+                "name": "Telef\u00f3nica",
+                "screen_name": "Telefonica"
+            },
+            {
+                "id": 44992826,
+                "id_str": "44992826",
+                "indices": [
+                    12,
+                    24
+                ],
+                "name": "Movistar Espa\u00f1a",
+                "screen_name": "movistar_es"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 671421429968171009,
+    "id_str": "671421429968171009",
+    "in_reply_to_screen_name": "Telefonica",
+    "in_reply_to_status_id": 671347834340417536,
+    "in_reply_to_status_id_str": "671347834340417536",
+    "in_reply_to_user_id": 61744008,
+    "in_reply_to_user_id_str": "61744008",
+    "is_quote_status": false,
+    "lang": "es",
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -3.8890049,
+                        40.3120713
+                    ],
+                    [
+                        -3.5180102,
+                        40.3120713
+                    ],
+                    [
+                        -3.5180102,
+                        40.6435181
+                    ],
+                    [
+                        -3.8890049,
+                        40.6435181
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "Espa\u00f1a",
+        "country_code": "ES",
+        "full_name": "Madrid, Comunidad de Madrid",
+        "id": "206c436ce43a43a3",
+        "name": "Madrid",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/206c436ce43a43a3.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@Telefonica @movistar_es no se como lo quieren hacer, desde 3 Octubre no dom capaces de hacer una potabilidad \u00bfpacto entre compa\u00f1\u00edas?",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Apr 22 17:41:26 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Que se puede decir de m\u00ed, que no se est\u00e9 dicho antes. Nada.\r\nNo conozcas a la gente, solo compr\u00e9ndela y ac\u00e9ptala, cada uno es como es y bastante tiene.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 3649,
+        "follow_request_sent": false,
+        "followers_count": 267,
+        "following": false,
+        "friends_count": 602,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 286275722,
+        "id_str": "286275722",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "es",
+        "listed_count": 2,
+        "location": "Madrid, Espa\u00f1a",
+        "name": "\u00c1ngel Cand\u00f3n",
+        "notifications": false,
+        "profile_background_color": "022330",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/286275722/1428345202",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/586741747335630849/RDqBCWsf_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/586741747335630849/RDqBCWsf_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "A8C7F7",
+        "profile_sidebar_fill_color": "C0DFEC",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "AngelCandon",
+        "statuses_count": 1308,
+        "time_zone": "Madrid",
+        "url": null,
+        "utc_offset": 3600,
+        "verified": false
+    }
+}

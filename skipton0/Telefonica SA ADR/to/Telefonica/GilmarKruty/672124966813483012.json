@@ -1,0 +1,136 @@
+{
+    "contributors": null,
+    "coordinates": {
+        "coordinates": [
+            -46.75405442,
+            -23.43177985
+        ],
+        "type": "Point"
+    },
+    "created_at": "Wed Dec 02 18:47:34 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 61744008,
+                "id_str": "61744008",
+                "indices": [
+                    0,
+                    11
+                ],
+                "name": "Telef\u00f3nica",
+                "screen_name": "Telefonica"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": {
+        "coordinates": [
+            -23.43177985,
+            -46.75405442
+        ],
+        "type": "Point"
+    },
+    "id": 672124966813483012,
+    "id_str": "672124966813483012",
+    "in_reply_to_screen_name": "Telefonica",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 61744008,
+    "in_reply_to_user_id_str": "61744008",
+    "is_quote_status": false,
+    "lang": "pt",
+    "metadata": {
+        "iso_language_code": "pt",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -46.826039,
+                        -24.008814
+                    ],
+                    [
+                        -46.365052,
+                        -24.008814
+                    ],
+                    [
+                        -46.365052,
+                        -23.356792
+                    ],
+                    [
+                        -46.826039,
+                        -23.356792
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "Brasil",
+        "country_code": "BR",
+        "full_name": "Sao Paulo, Brazil",
+        "id": "68e019afec7d0ba5",
+        "name": "Sao Paulo",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/68e019afec7d0ba5.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@Telefonica estou a3 dias sem telefone direto acontece isso. Quando vou ter tel em casa???",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Jul 22 12:54:25 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Voc\u00ea ganha for\u00e7as, coragem e confian\u00e7a a cada experi\u00eancia em que voc\u00ea enfrenta o medo. Voc\u00ea tem que fazer exatamente aquilo que acha que n\u00e3o consegue.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 200,
+        "follow_request_sent": false,
+        "followers_count": 114,
+        "following": false,
+        "friends_count": 470,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 340279727,
+        "id_str": "340279727",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "pt",
+        "listed_count": 3,
+        "location": "S\u00e3o Paulo, Brasil",
+        "name": "Gil kruty",
+        "notifications": false,
+        "profile_background_color": "ACDED6",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/297037449/imagesCAAIC4OO.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/297037449/imagesCAAIC4OO.jpg",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/340279727/1406161712",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/492104710380617729/yhpK-tm4_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/492104710380617729/yhpK-tm4_normal.jpeg",
+        "profile_link_color": "038543",
+        "profile_sidebar_border_color": "EEEEEE",
+        "profile_sidebar_fill_color": "F6F6F6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "GilmarKruty",
+        "statuses_count": 1585,
+        "time_zone": "Brasilia",
+        "url": null,
+        "utc_offset": -7200,
+        "verified": false
+    }
+}
