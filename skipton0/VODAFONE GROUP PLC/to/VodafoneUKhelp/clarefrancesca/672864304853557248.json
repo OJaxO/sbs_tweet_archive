@@ -1,0 +1,124 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Dec 04 19:45:26 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 1567914936,
+                "id_str": "1567914936",
+                "indices": [
+                    0,
+                    15
+                ],
+                "name": "Vodafone UK Help",
+                "screen_name": "VodafoneUKhelp"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 672864304853557248,
+    "id_str": "672864304853557248",
+    "in_reply_to_screen_name": "VodafoneUKhelp",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 1567914936,
+    "in_reply_to_user_id_str": "1567914936",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -1.869112,
+                        52.381169
+                    ],
+                    [
+                        -1.7058792,
+                        52.381169
+                    ],
+                    [
+                        -1.7058792,
+                        52.513283
+                    ],
+                    [
+                        -1.869112,
+                        52.513283
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United Kingdom",
+        "country_code": "GB",
+        "full_name": "Solihull, England",
+        "id": "55485f68a3057620",
+        "name": "Solihull",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/55485f68a3057620.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@VodafoneUKhelp when is the best time to call you (191)? Have tried several times &amp; been kept on hold so long had to give up :(",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Feb 04 17:04:16 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Working in marketing, living in London, generally doing ridiculous things most of the time.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 6,
+        "follow_request_sent": false,
+        "followers_count": 42,
+        "following": false,
+        "friends_count": 455,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 20069482,
+        "id_str": "20069482",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 3,
+        "location": "London",
+        "name": "Clare Francesca",
+        "notifications": false,
+        "profile_background_color": "FF6699",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/879764413/b60e450f5758b183ac3dd1dc999c7127.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/879764413/b60e450f5758b183ac3dd1dc999c7127.jpeg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/20069482/1369783967",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/558420331824971776/STWgJ5fJ_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/558420331824971776/STWgJ5fJ_normal.jpeg",
+        "profile_link_color": "B40B43",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "E1C6F2",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "clarefrancesca",
+        "statuses_count": 344,
+        "time_zone": "London",
+        "url": null,
+        "utc_offset": 0,
+        "verified": false
+    }
+}

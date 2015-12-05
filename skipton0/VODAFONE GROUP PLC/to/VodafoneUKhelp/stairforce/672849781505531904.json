@@ -1,0 +1,123 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Dec 04 18:47:43 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 1567914936,
+                "id_str": "1567914936",
+                "indices": [
+                    0,
+                    15
+                ],
+                "name": "Vodafone UK Help",
+                "screen_name": "VodafoneUKhelp"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 672849781505531904,
+    "id_str": "672849781505531904",
+    "in_reply_to_screen_name": "VodafoneUKhelp",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 1567914936,
+    "in_reply_to_user_id_str": "1567914936",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -1.747784,
+                        52.175237
+                    ],
+                    [
+                        -1.65474,
+                        52.175237
+                    ],
+                    [
+                        -1.65474,
+                        52.2095072
+                    ],
+                    [
+                        -1.747784,
+                        52.2095072
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United Kingdom",
+        "country_code": "GB",
+        "full_name": "Stratford-Upon-Avon, England",
+        "id": "208ca24b396fb81b",
+        "name": "Stratford-Upon-Avon",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/208ca24b396fb81b.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@VodafoneUKhelp Can you help get service restored on 07780704108? We paid bill on Saturday, told would be back on in 24 hours.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Jul 02 14:02:13 +0000 2009",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Born 1958; English; Husband; Father; Chartered Engineer; ex-PPL; yachtsman. I.T. Support professional. Green Party member.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 332,
+        "follow_request_sent": false,
+        "followers_count": 282,
+        "following": false,
+        "friends_count": 583,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 53070256,
+        "id_str": "53070256",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 7,
+        "location": "Shakespeare Country",
+        "name": "John Riley",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1045004351/82015JR_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1045004351/82015JR_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "stairforce",
+        "statuses_count": 15160,
+        "time_zone": "London",
+        "url": null,
+        "utc_offset": 0,
+        "verified": false
+    }
+}

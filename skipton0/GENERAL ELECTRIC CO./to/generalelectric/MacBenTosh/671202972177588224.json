@@ -1,0 +1,123 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Nov 30 05:43:53 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 267399199,
+                "id_str": "267399199",
+                "indices": [
+                    0,
+                    16
+                ],
+                "name": "General Electric",
+                "screen_name": "generalelectric"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 671202972177588224,
+    "id_str": "671202972177588224",
+    "in_reply_to_screen_name": "generalelectric",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 267399199,
+    "in_reply_to_user_id_str": "267399199",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -119.932568,
+                        36.648905
+                    ],
+                    [
+                        -119.632419,
+                        36.648905
+                    ],
+                    [
+                        -119.632419,
+                        36.923179
+                    ],
+                    [
+                        -119.932568,
+                        36.923179
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Fresno, CA",
+        "id": "944c03c1d85ef480",
+        "name": "Fresno",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/944c03c1d85ef480.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for i\u039fS</a>",
+    "text": "@generalelectric I noticed condensation in one of my GE Link bulbs, who do I contact for support?",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Apr 23 19:53:39 +0000 2008",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "I love tech, Apple, music, cool new products, and the web. I have no problem being called a geek, nerd, or whatever. I love life, my wife, and 3 dogs. \nKCCO",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 262,
+        "follow_request_sent": false,
+        "followers_count": 225,
+        "following": false,
+        "friends_count": 345,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 14499791,
+        "id_str": "14499791",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 11,
+        "location": "Fresno",
+        "name": "Ben",
+        "notifications": false,
+        "profile_background_color": "1A1B1F",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/2630976188/406aef511817faf133995e14dba5ca21_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/2630976188/406aef511817faf133995e14dba5ca21_normal.jpeg",
+        "profile_link_color": "2FC2EF",
+        "profile_sidebar_border_color": "181A1E",
+        "profile_sidebar_fill_color": "252429",
+        "profile_text_color": "666666",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "MacBenTosh",
+        "statuses_count": 8174,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": null,
+        "utc_offset": -28800,
+        "verified": false
+    }
+}
