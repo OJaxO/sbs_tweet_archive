@@ -1,0 +1,245 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 01 12:41:56 +0000 2015",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    81,
+                    89
+                ],
+                "text": "A350tam"
+            },
+            {
+                "indices": [
+                    90,
+                    97
+                ],
+                "text": "avgeek"
+            },
+            {
+                "indices": [
+                    98,
+                    105
+                ],
+                "text": "airbus"
+            },
+            {
+                "indices": [
+                    106,
+                    111
+                ],
+                "text": "a350"
+            }
+        ],
+        "media": [
+            {
+                "display_url": "pic.twitter.com/N7AkVsfJX1",
+                "expanded_url": "http://twitter.com/THOFBOSS/status/671670567003676672/video/1",
+                "id": 671670219979563008,
+                "id_str": "671670219979563008",
+                "indices": [
+                    112,
+                    135
+                ],
+                "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/671670219979563008/pu/img/ZALEGY4E5wdgROux.jpg",
+                "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/671670219979563008/pu/img/ZALEGY4E5wdgROux.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 576,
+                        "resize": "fit",
+                        "w": 1024
+                    },
+                    "medium": {
+                        "h": 338,
+                        "resize": "fit",
+                        "w": 600
+                    },
+                    "small": {
+                        "h": 191,
+                        "resize": "fit",
+                        "w": 340
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/N7AkVsfJX1"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 15425377,
+                "id_str": "15425377",
+                "indices": [
+                    0,
+                    7
+                ],
+                "name": "Airbus",
+                "screen_name": "Airbus"
+            },
+            {
+                "id": 20584172,
+                "id_str": "20584172",
+                "indices": [
+                    30,
+                    42
+                ],
+                "name": "TAM Airlines",
+                "screen_name": "TAMAirlines"
+            },
+            {
+                "id": 2280470022,
+                "id_str": "2280470022",
+                "indices": [
+                    43,
+                    54
+                ],
+                "name": "AirLive.net",
+                "screen_name": "airlivenet"
+            },
+            {
+                "id": 2233079401,
+                "id_str": "2233079401",
+                "indices": [
+                    55,
+                    65
+                ],
+                "name": "Avgeeks FR \u2708\ufe0f",
+                "screen_name": "AvgeeksFR"
+            },
+            {
+                "id": 134196350,
+                "id_str": "134196350",
+                "indices": [
+                    66,
+                    80
+                ],
+                "name": "Flightradar24",
+                "screen_name": "flightradar24"
+            }
+        ]
+    },
+    "favorite_count": 18,
+    "favorited": false,
+    "geo": null,
+    "id": 671670567003676672,
+    "id_str": "671670567003676672",
+    "in_reply_to_screen_name": "Airbus",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 15425377,
+    "in_reply_to_user_id_str": "15425377",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        1.3504251,
+                        43.5328401
+                    ],
+                    [
+                        1.5153761,
+                        43.5328401
+                    ],
+                    [
+                        1.5153761,
+                        43.6686768
+                    ],
+                    [
+                        1.3504251,
+                        43.6686768
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "France",
+        "country_code": "FR",
+        "full_name": "Toulouse, Midi-Pyr\u00e9n\u00e9es",
+        "id": "3980fd5d8a818646",
+        "name": "Toulouse",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/3980fd5d8a818646.json"
+    },
+    "possibly_sensitive": false,
+    "retweet_count": 7,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@Airbus a350 first flight for @TAMAirlines @airlivenet @AvgeeksFR @flightradar24 #A350tam #avgeek #airbus #a350 https://t.co/N7AkVsfJX1",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Feb 13 10:26:08 +0000 2014",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "L'a\u00e9ronautique n'est ni une industrie ni une science, c'est un miracle.Le moteur est le c\u0153ur de l'avion, mais le pilote est son \u00e2me. BIA ok and PPL in progress",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "m.flickr.com/#/photos/13162\u2026",
+                        "expanded_url": "https://m.flickr.com/#/photos/131621852@N02/",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/IblPfLslRX"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 10742,
+        "follow_request_sent": false,
+        "followers_count": 836,
+        "following": false,
+        "friends_count": 2106,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 2341756148,
+        "id_str": "2341756148",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "fr",
+        "listed_count": 43,
+        "location": "Toulouse-Blagnac-LFBO-TLS",
+        "name": "FRANCHI th\u00e9o",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/658391749371547648/ueRdGHeZ.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/658391749371547648/ueRdGHeZ.jpg",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2341756148/1445867578",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/577526716949757952/Vj0YKuny_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/577526716949757952/Vj0YKuny_normal.jpeg",
+        "profile_link_color": "3B94D9",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "THOFBOSS",
+        "statuses_count": 10655,
+        "time_zone": "Paris",
+        "url": "https://t.co/IblPfLslRX",
+        "utc_offset": 3600,
+        "verified": false
+    }
+}

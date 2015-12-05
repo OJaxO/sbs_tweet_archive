@@ -1,0 +1,165 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 01 08:37:32 +0000 2015",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    8,
+                    13
+                ],
+                "text": "A380"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 15425377,
+                "id_str": "15425377",
+                "indices": [
+                    0,
+                    7
+                ],
+                "name": "Airbus",
+                "screen_name": "Airbus"
+            },
+            {
+                "id": 2234683241,
+                "id_str": "2234683241",
+                "indices": [
+                    25,
+                    37
+                ],
+                "name": "Copenhagen Airport",
+                "screen_name": "CPHAirports"
+            },
+            {
+                "id": 2234683241,
+                "id_str": "2234683241",
+                "indices": [
+                    79,
+                    91
+                ],
+                "name": "Copenhagen Airport",
+                "screen_name": "CPHAirports"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 671609059670405120,
+    "id_str": "671609059670405120",
+    "in_reply_to_screen_name": "Airbus",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 15425377,
+    "in_reply_to_user_id_str": "15425377",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        11.4350729,
+                        55.1149445
+                    ],
+                    [
+                        12.047818,
+                        55.1149445
+                    ],
+                    [
+                        12.047818,
+                        55.4087845
+                    ],
+                    [
+                        11.4350729,
+                        55.4087845
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "Danmark",
+        "country_code": "DK",
+        "full_name": "N\u00e6stved, Sj\u00e6lland",
+        "id": "315be5b98a49ae29",
+        "name": "N\u00e6stved",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/315be5b98a49ae29.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@Airbus #A380 landing at @CPHAirports 12:20 today and i gonna see it thank you @CPHAirports",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Feb 13 18:57:55 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "maoi.dk",
+                        "expanded_url": "http://www.maoi.dk",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/MiIMK5lR2V"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 64,
+        "follow_request_sent": false,
+        "followers_count": 155,
+        "following": false,
+        "friends_count": 374,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 113996695,
+        "id_str": "113996695",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "da",
+        "listed_count": 5,
+        "location": "Denmark",
+        "name": "Mathias Olsen",
+        "notifications": false,
+        "profile_background_color": "59BEE4",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/760459008/253ef252d5e2bb0ac22c3ccb65221c79.png",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/760459008/253ef252d5e2bb0ac22c3ccb65221c79.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/113996695/1446763706",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/662401108787208193/Uum0Tle-_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/662401108787208193/Uum0Tle-_normal.jpg",
+        "profile_link_color": "4A913C",
+        "profile_sidebar_border_color": "4BB7DF",
+        "profile_sidebar_fill_color": "191F22",
+        "profile_text_color": "4BB7DF",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "maopictures",
+        "statuses_count": 1033,
+        "time_zone": "Copenhagen",
+        "url": "https://t.co/MiIMK5lR2V",
+        "utc_offset": 3600,
+        "verified": false
+    }
+}

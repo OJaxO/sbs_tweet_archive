@@ -1,0 +1,157 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Dec 03 17:21:32 +0000 2015",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    8,
+                    15
+                ],
+                "text": "patent"
+            },
+            {
+                "indices": [
+                    29,
+                    35
+                ],
+                "text": "cabin"
+            },
+            {
+                "indices": [
+                    45,
+                    54
+                ],
+                "text": "airplane"
+            }
+        ],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "cnn.com/2015/11/27/eur\u2026",
+                "expanded_url": "http://www.cnn.com/2015/11/27/europe/airbus-detachable-cabin/index.html",
+                "indices": [
+                    56,
+                    79
+                ],
+                "url": "https://t.co/FOpGDsRnhl"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 15425377,
+                "id_str": "15425377",
+                "indices": [
+                    0,
+                    7
+                ],
+                "name": "Airbus",
+                "screen_name": "Airbus"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 672465704633819136,
+    "id_str": "672465704633819136",
+    "in_reply_to_screen_name": "Airbus",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 15425377,
+    "in_reply_to_user_id_str": "15425377",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -122.546166,
+                        48.689345
+                    ],
+                    [
+                        -122.314388,
+                        48.689345
+                    ],
+                    [
+                        -122.314388,
+                        48.81736
+                    ],
+                    [
+                        -122.546166,
+                        48.81736
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Bellingham, WA",
+        "id": "83615874f73de6c7",
+        "name": "Bellingham",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/83615874f73de6c7.json"
+    },
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@Airbus #patent detaches the #cabin from the #airplane! https://t.co/FOpGDsRnhl",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Sep 30 16:07:23 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Urban and Regional Transportation, Urban Planner, Tech, and Sustainability. America's infrastructure of the future. USF Tampa Alum.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 107,
+        "follow_request_sent": false,
+        "followers_count": 54,
+        "following": false,
+        "friends_count": 216,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 382739847,
+        "id_str": "382739847",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 5,
+        "location": "Bellingham, WA",
+        "name": "Scott Quyle",
+        "notifications": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/382739847/1414449232",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/567392518031945729/PefiJLvf_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/567392518031945729/PefiJLvf_normal.jpeg",
+        "profile_link_color": "009999",
+        "profile_sidebar_border_color": "EEEEEE",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "ScottQuyle",
+        "statuses_count": 333,
+        "time_zone": "Eastern Time (US & Canada)",
+        "url": null,
+        "utc_offset": -18000,
+        "verified": false
+    }
+}
