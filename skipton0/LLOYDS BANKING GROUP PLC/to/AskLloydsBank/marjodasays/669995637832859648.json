@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Nov 26 21:46:22 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 147932302,
+                "id_str": "147932302",
+                "indices": [
+                    0,
+                    14
+                ],
+                "name": "Lloyds Bank",
+                "screen_name": "AskLloydsBank"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 669995637832859648,
+    "id_str": "669995637832859648",
+    "in_reply_to_screen_name": "AskLloydsBank",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 147932302,
+    "in_reply_to_user_id_str": "147932302",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -0.15191,
+                        51.410792
+                    ],
+                    [
+                        -0.078902,
+                        51.410792
+                    ],
+                    [
+                        -0.078902,
+                        51.509887
+                    ],
+                    [
+                        -0.15191,
+                        51.509887
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United Kingdom",
+        "country_code": "GB",
+        "full_name": "Lambeth, London",
+        "id": "4393349f368f67a1",
+        "name": "Lambeth",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/4393349f368f67a1.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@AskLloydsBank When I try to download a pdf credit card statement from your online banking a million windows load. And browser crashes. Wtf?",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Jun 15 14:56:25 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Planner, Bitcoin advocate & occasional music journalist. I use Twitter to hoard things & support lefty rants. Feel free to watch.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "clickmusic.com/writers/articl\u2026",
+                        "expanded_url": "http://www.clickmusic.com/writers/article/martin-davies",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/eYyNATMB23"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 542,
+        "follow_request_sent": false,
+        "followers_count": 349,
+        "following": false,
+        "friends_count": 1114,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 47353350,
+        "id_str": "47353350",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 17,
+        "location": "Poole",
+        "name": "Martin Davies",
+        "notifications": false,
+        "profile_background_color": "F0E2FC",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/343445475/PeggyCraigRedman.gif",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/343445475/PeggyCraigRedman.gif",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/47353350/1391180364",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/475941484659621889/o9Zrr9av_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/475941484659621889/o9Zrr9av_normal.jpeg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "E4F2D3",
+        "profile_text_color": "53A105",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "marjodasays",
+        "statuses_count": 2729,
+        "time_zone": "London",
+        "url": "http://t.co/eYyNATMB23",
+        "utc_offset": 0,
+        "verified": false
+    }
+}

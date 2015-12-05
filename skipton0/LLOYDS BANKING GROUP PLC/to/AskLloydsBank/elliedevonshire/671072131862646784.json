@@ -1,0 +1,124 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Nov 29 21:03:58 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 147932302,
+                "id_str": "147932302",
+                "indices": [
+                    0,
+                    14
+                ],
+                "name": "Lloyds Bank",
+                "screen_name": "AskLloydsBank"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 671072131862646784,
+    "id_str": "671072131862646784",
+    "in_reply_to_screen_name": "AskLloydsBank",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 147932302,
+    "in_reply_to_user_id_str": "147932302",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -0.82545,
+                        50.820431
+                    ],
+                    [
+                        -0.749462,
+                        50.820431
+                    ],
+                    [
+                        -0.749462,
+                        50.861405
+                    ],
+                    [
+                        -0.82545,
+                        50.861405
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United Kingdom",
+        "country_code": "GB",
+        "full_name": "Chichester, England",
+        "id": "07b1de146d3c94be",
+        "name": "Chichester",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/07b1de146d3c94be.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@AskLloydsBank just want to try and get a message to the nicest man on the helpline tonight after \u00a3200 was stolen out of my account",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Feb 17 19:27:35 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Intersectional feminist who loves animals, theatre & The Walking Dead. Musical Theatre student",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 3815,
+        "follow_request_sent": false,
+        "followers_count": 431,
+        "following": false,
+        "friends_count": 832,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 115148374,
+        "id_str": "115148374",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 7,
+        "location": "Guildford/Chichester Uni",
+        "name": "Elfie Devonshire",
+        "notifications": false,
+        "profile_background_color": "0099B9",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000071848634/ce77785aa2dd2f12f83f56cf332bbc8e.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000071848634/ce77785aa2dd2f12f83f56cf332bbc8e.jpeg",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/115148374/1446546741",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/652907511322947584/KXGljmbN_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/652907511322947584/KXGljmbN_normal.jpg",
+        "profile_link_color": "0099B9",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "95E8EC",
+        "profile_text_color": "3C3940",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "elliedevonshire",
+        "statuses_count": 13842,
+        "time_zone": null,
+        "url": null,
+        "utc_offset": null,
+        "verified": false
+    }
+}

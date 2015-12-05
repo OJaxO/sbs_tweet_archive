@@ -1,0 +1,124 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Nov 30 09:00:01 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 147932302,
+                "id_str": "147932302",
+                "indices": [
+                    0,
+                    14
+                ],
+                "name": "Lloyds Bank",
+                "screen_name": "AskLloydsBank"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 671252331124662274,
+    "id_str": "671252331124662274",
+    "in_reply_to_screen_name": "AskLloydsBank",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 147932302,
+    "in_reply_to_user_id_str": "147932302",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -1.573648,
+                        53.309898
+                    ],
+                    [
+                        -1.325576,
+                        53.309898
+                    ],
+                    [
+                        -1.325576,
+                        53.4564311
+                    ],
+                    [
+                        -1.573648,
+                        53.4564311
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United Kingdom",
+        "country_code": "GB",
+        "full_name": "Sheffield, England",
+        "id": "07e9c7d1954fff64",
+        "name": "Sheffield",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/07e9c7d1954fff64.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@AskLloydsBank is there a problem with Internet banking? Nothing is loading.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Feb 05 12:45:40 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Someday I'll wish upon a star and wake up where the clouds are far behind me",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 669,
+        "follow_request_sent": false,
+        "followers_count": 296,
+        "following": false,
+        "friends_count": 691,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 20144517,
+        "id_str": "20144517",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 8,
+        "location": "Sheffield, UK, The World.",
+        "name": "Emma",
+        "notifications": false,
+        "profile_background_color": "022330",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/669354843/047fe6ce20c0c227282b0181e8703f5a.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/669354843/047fe6ce20c0c227282b0181e8703f5a.jpeg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/20144517/1446755034",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/662364742112190464/sHTlKh8Y_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/662364742112190464/sHTlKh8Y_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "7AC3EE",
+        "profile_text_color": "3D1957",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "EmmaMajor",
+        "statuses_count": 7170,
+        "time_zone": "London",
+        "url": null,
+        "utc_offset": 0,
+        "verified": false
+    }
+}
