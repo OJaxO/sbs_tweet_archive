@@ -1,0 +1,134 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Nov 30 19:32:50 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 1567914936,
+                "id_str": "1567914936",
+                "indices": [
+                    0,
+                    15
+                ],
+                "name": "Vodafone UK Help",
+                "screen_name": "VodafoneUKhelp"
+            },
+            {
+                "id": 15133627,
+                "id_str": "15133627",
+                "indices": [
+                    25,
+                    28
+                ],
+                "name": "O2 in the UK",
+                "screen_name": "O2"
+            }
+        ]
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": null,
+    "id": 671411583818461184,
+    "id_str": "671411583818461184",
+    "in_reply_to_screen_name": "VodafoneUKhelp",
+    "in_reply_to_status_id": 671353811374637056,
+    "in_reply_to_status_id_str": "671353811374637056",
+    "in_reply_to_user_id": 1567914936,
+    "in_reply_to_user_id_str": "1567914936",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        0.3836341,
+                        51.5463777
+                    ],
+                    [
+                        0.530637,
+                        51.5463777
+                    ],
+                    [
+                        0.530637,
+                        51.594472
+                    ],
+                    [
+                        0.3836341,
+                        51.594472
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United Kingdom",
+        "country_code": "GB",
+        "full_name": "Basildon, England",
+        "id": "13dd0eca94d322f1",
+        "name": "Basildon",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/13dd0eca94d322f1.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@VodafoneUKhelp to late. @O2 was cheaper plus I've got sky sports and iTunes music. If you'd offer me a better discount, then maybe",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat May 01 12:30:01 +0000 2010",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "#LFC #WWE #TEAMDDPyoga #indiemusiclover #rockmusiclover, embarking on the CIMA journey",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 1148,
+        "follow_request_sent": false,
+        "followers_count": 472,
+        "following": false,
+        "friends_count": 1288,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 139060250,
+        "id_str": "139060250",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 5,
+        "location": "basildon, essex",
+        "name": "Steven Ferguson",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/139060250/1371127671",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/453955672577937408/SJ4J-WhL_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/453955672577937408/SJ4J-WhL_normal.jpeg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "y2stevef",
+        "statuses_count": 5529,
+        "time_zone": null,
+        "url": null,
+        "utc_offset": null,
+        "verified": false
+    }
+}
