@@ -1,0 +1,250 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Dec 04 14:10:58 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/jmgelinas/stat\u2026",
+                "expanded_url": "https://twitter.com/jmgelinas/status/672775233309417472",
+                "indices": [
+                    66,
+                    89
+                ],
+                "url": "https://t.co/aSFzfhikNW"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 14620190,
+                "id_str": "14620190",
+                "indices": [
+                    0,
+                    4
+                ],
+                "name": "AT&T",
+                "screen_name": "ATT"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 672780134005530624,
+    "id_str": "672780134005530624",
+    "in_reply_to_screen_name": "ATT",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 14620190,
+    "in_reply_to_user_id_str": "14620190",
+    "is_quote_status": true,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -78.9448945,
+                        35.6443837
+                    ],
+                    [
+                        -78.7291467,
+                        35.6443837
+                    ],
+                    [
+                        -78.7291467,
+                        35.867993
+                    ],
+                    [
+                        -78.9448945,
+                        35.867993
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Cary, NC",
+        "id": "5c6bd208d7ddf9f6",
+        "name": "Cary",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/5c6bd208d7ddf9f6.json"
+    },
+    "possibly_sensitive": false,
+    "quoted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Fri Dec 04 13:51:29 +0000 2015",
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "urls": [
+                {
+                    "display_url": "wccbcharlotte.com/rising/wilsons\u2026",
+                    "expanded_url": "http://www.wccbcharlotte.com/rising/wilsons-world/Getting-Techy-Gift-Ideas-with-Wilson-at-the-ATT-Store--360409331.html",
+                    "indices": [
+                        60,
+                        83
+                    ],
+                    "url": "https://t.co/g96BttW7Uu"
+                }
+            ],
+            "user_mentions": []
+        },
+        "favorite_count": 0,
+        "favorited": false,
+        "geo": null,
+        "id": 672775233309417472,
+        "id_str": "672775233309417472",
+        "in_reply_to_screen_name": null,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "is_quote_status": false,
+        "lang": "en",
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "place": null,
+        "possibly_sensitive": false,
+        "retweet_count": 1,
+        "retweeted": false,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": "Getting Techy Gift Ideas with Wilson at the AT&amp;T Store  https://t.co/g96BttW7Uu",
+        "truncated": false,
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Fri Sep 18 18:47:42 +0000 2009",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "Manage Public Relations for AT&T. Opinions are my own.",
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "favourites_count": 772,
+            "follow_request_sent": false,
+            "followers_count": 411,
+            "following": false,
+            "friends_count": 815,
+            "geo_enabled": true,
+            "has_extended_profile": false,
+            "id": 75353383,
+            "id_str": "75353383",
+            "is_translation_enabled": false,
+            "is_translator": false,
+            "lang": "en",
+            "listed_count": 21,
+            "location": "Charlotte, N.C.",
+            "name": "Josh Gelinas",
+            "notifications": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/350561676/x9211e115359e1b5c97fc8da3f7f0936.jpg",
+            "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/350561676/x9211e115359e1b5c97fc8da3f7f0936.jpg",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/2557540033/255a231f-78e8-4a93-8bb2-2ed1480515b5_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/2557540033/255a231f-78e8-4a93-8bb2-2ed1480515b5_normal.png",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": false,
+            "protected": false,
+            "screen_name": "jmgelinas",
+            "statuses_count": 1216,
+            "time_zone": "Quito",
+            "url": null,
+            "utc_offset": -18000,
+            "verified": false
+        }
+    },
+    "quoted_status_id": 672775233309417472,
+    "quoted_status_id_str": "672775233309417472",
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for i\u039fS</a>",
+    "text": "@ATT has awesome tech ideas for gifts or yourself! Check it out!! https://t.co/aSFzfhikNW",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Aug 24 08:19:56 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "I have a disease called CMT (CMT 1a). I like Technology, Hiking, \uf8ff, \u2615\ufe0f and being outdoors. Never Give Up! Snapchat is Hawk8509. Website: https://t.co/NvCvpDo7B1",
+        "entities": {
+            "description": {
+                "urls": [
+                    {
+                        "display_url": "Hawk8509.wordpress.com",
+                        "expanded_url": "http://Hawk8509.wordpress.com",
+                        "indices": [
+                            137,
+                            160
+                        ],
+                        "url": "https://t.co/NvCvpDo7B1"
+                    }
+                ]
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "youtube.com/channel/UCtFsB\u2026",
+                        "expanded_url": "https://www.youtube.com/channel/UCtFsBxTTMku9-EuHxZMGAHQ",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/AaGYFbgrOA"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 3079,
+        "follow_request_sent": false,
+        "followers_count": 769,
+        "following": false,
+        "friends_count": 769,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 68360216,
+        "id_str": "68360216",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 40,
+        "location": "Cary, North Carolina ",
+        "name": "Rick Nelson",
+        "notifications": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/68360216/1443074421",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/646926906013696000/FUispSlz_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/646926906013696000/FUispSlz_normal.jpg",
+        "profile_link_color": "009999",
+        "profile_sidebar_border_color": "EEEEEE",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Hawk8509",
+        "statuses_count": 37675,
+        "time_zone": "Eastern Time (US & Canada)",
+        "url": "https://t.co/AaGYFbgrOA",
+        "utc_offset": -18000,
+        "verified": false
+    }
+}
