@@ -1,0 +1,343 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Dec 04 21:32:00 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "media": [
+            {
+                "display_url": "pic.twitter.com/UtjUHvllX6",
+                "expanded_url": "http://twitter.com/ChevronSTEMZONE/status/672853813485637632/photo/1",
+                "id": 672853809253638144,
+                "id_str": "672853809253638144",
+                "indices": [
+                    139,
+                    140
+                ],
+                "media_url": "http://pbs.twimg.com/media/CVZ0-X5U4AACpXM.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/CVZ0-X5U4AACpXM.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 768,
+                        "resize": "fit",
+                        "w": 1024
+                    },
+                    "medium": {
+                        "h": 450,
+                        "resize": "fit",
+                        "w": 600
+                    },
+                    "small": {
+                        "h": 255,
+                        "resize": "fit",
+                        "w": 340
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "source_status_id": 672853813485637632,
+                "source_status_id_str": "672853813485637632",
+                "source_user_id": 1558451084,
+                "source_user_id_str": "1558451084",
+                "type": "photo",
+                "url": "https://t.co/UtjUHvllX6"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 1558451084,
+                "id_str": "1558451084",
+                "indices": [
+                    3,
+                    19
+                ],
+                "name": "Chevron STEM Zone",
+                "screen_name": "ChevronSTEMZONE"
+            },
+            {
+                "id": 43403778,
+                "id_str": "43403778",
+                "indices": [
+                    35,
+                    41
+                ],
+                "name": "San Francisco 49ers",
+                "screen_name": "49ers"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 672891125712179200,
+    "id_str": "672891125712179200",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 6,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Fri Dec 04 19:03:44 +0000 2015",
+        "entities": {
+            "hashtags": [],
+            "media": [
+                {
+                    "display_url": "pic.twitter.com/UtjUHvllX6",
+                    "expanded_url": "http://twitter.com/ChevronSTEMZONE/status/672853813485637632/photo/1",
+                    "id": 672853809253638144,
+                    "id_str": "672853809253638144",
+                    "indices": [
+                        117,
+                        140
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/CVZ0-X5U4AACpXM.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/CVZ0-X5U4AACpXM.jpg",
+                    "sizes": {
+                        "large": {
+                            "h": 768,
+                            "resize": "fit",
+                            "w": 1024
+                        },
+                        "medium": {
+                            "h": 450,
+                            "resize": "fit",
+                            "w": 600
+                        },
+                        "small": {
+                            "h": 255,
+                            "resize": "fit",
+                            "w": 340
+                        },
+                        "thumb": {
+                            "h": 150,
+                            "resize": "crop",
+                            "w": 150
+                        }
+                    },
+                    "type": "photo",
+                    "url": "https://t.co/UtjUHvllX6"
+                }
+            ],
+            "symbols": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "id": 43403778,
+                    "id_str": "43403778",
+                    "indices": [
+                        14,
+                        20
+                    ],
+                    "name": "San Francisco 49ers",
+                    "screen_name": "49ers"
+                }
+            ]
+        },
+        "favorite_count": 9,
+        "favorited": false,
+        "geo": null,
+        "id": 672853813485637632,
+        "id_str": "672853813485637632",
+        "in_reply_to_screen_name": null,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "is_quote_status": false,
+        "lang": "en",
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "place": {
+            "attributes": {},
+            "bounding_box": {
+                "coordinates": [
+                    [
+                        [
+                            -122.027412,
+                            37.779803
+                        ],
+                        [
+                            -121.89165,
+                            37.779803
+                        ],
+                        [
+                            -121.89165,
+                            37.847751
+                        ],
+                        [
+                            -122.027412,
+                            37.847751
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "contained_within": [],
+            "country": "United States",
+            "country_code": "US",
+            "full_name": "Danville, CA",
+            "id": "aa30747001a23f03",
+            "name": "Danville",
+            "place_type": "city",
+            "url": "https://api.twitter.com/1.1/geo/id/aa30747001a23f03.json"
+        },
+        "possibly_sensitive": false,
+        "retweet_count": 6,
+        "retweeted": false,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "Today we join @49ers Museum to surprise students w/ the science of sports! They\u2019re going to a college football game! https://t.co/UtjUHvllX6",
+        "truncated": false,
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Sun Jun 30 16:43:40 +0000 2013",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "Science. Technology. Engineering. Math. That\u2019s what STEM stands for, and it's at work all around us - even in the sports you watch and play.",
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "chevronstemzone.com",
+                            "expanded_url": "http://www.chevronstemzone.com",
+                            "indices": [
+                                0,
+                                22
+                            ],
+                            "url": "http://t.co/b4yjVgGCdz"
+                        }
+                    ]
+                }
+            },
+            "favourites_count": 274,
+            "follow_request_sent": false,
+            "followers_count": 26785,
+            "following": false,
+            "friends_count": 141,
+            "geo_enabled": true,
+            "has_extended_profile": false,
+            "id": 1558451084,
+            "id_str": "1558451084",
+            "is_translation_enabled": false,
+            "is_translator": false,
+            "lang": "en",
+            "listed_count": 45,
+            "location": "",
+            "name": "Chevron STEM Zone",
+            "notifications": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000012071076/82907f0968c13050b4a919f57133e2ae.jpeg",
+            "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000012071076/82907f0968c13050b4a919f57133e2ae.jpeg",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1558451084/1446490544",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/378800000069012522/49b989291f4595727e63a6d49fa47162_normal.jpeg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000069012522/49b989291f4595727e63a6d49fa47162_normal.jpeg",
+            "profile_link_color": "3B94D9",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "ChevronSTEMZONE",
+            "statuses_count": 1570,
+            "time_zone": "Pacific Time (US & Canada)",
+            "url": "http://t.co/b4yjVgGCdz",
+            "utc_offset": -28800,
+            "verified": false
+        }
+    },
+    "source": "<a href=\"http://www.sprinklr.com\" rel=\"nofollow\">Sprinklr</a>",
+    "text": "RT @ChevronSTEMZONE: Today we join @49ers Museum to surprise students w/ the science of sports! They\u2019re going to a college football game! h\u2026",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Feb 16 20:16:08 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Tweets from the Chevron communications team. Join us on http://t.co/ZI0bvRDX3T.",
+        "entities": {
+            "description": {
+                "urls": [
+                    {
+                        "display_url": "Facebook.com/Chevron",
+                        "expanded_url": "http://Facebook.com/Chevron",
+                        "indices": [
+                            56,
+                            78
+                        ],
+                        "url": "http://t.co/ZI0bvRDX3T"
+                    }
+                ]
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "chevron.com",
+                        "expanded_url": "http://www.chevron.com",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/YlhQ2ntYQP"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 1,
+        "follow_request_sent": false,
+        "followers_count": 238523,
+        "following": false,
+        "friends_count": 366,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 21021891,
+        "id_str": "21021891",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 2233,
+        "location": "San Ramon, CA ",
+        "name": "Chevron",
+        "notifications": false,
+        "profile_background_color": "009CD9",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/730311254/ec9a50c8ae3952b1ae4f72057c0e1acf.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/730311254/ec9a50c8ae3952b1ae4f72057c0e1acf.jpeg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/21021891/1443714408",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/466002957616435201/e24WOVkh_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/466002957616435201/e24WOVkh_normal.jpeg",
+        "profile_link_color": "009CD9",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "F3F3F3",
+        "profile_text_color": "333333",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "Chevron",
+        "statuses_count": 12038,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "http://t.co/YlhQ2ntYQP",
+        "utc_offset": -28800,
+        "verified": true
+    }
+}
