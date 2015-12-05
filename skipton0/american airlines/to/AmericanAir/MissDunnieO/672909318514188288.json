@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Dec 04 22:44:18 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 22536055,
+                "id_str": "22536055",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "American Airlines",
+                "screen_name": "AmericanAir"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 672909318514188288,
+    "id_str": "672909318514188288",
+    "in_reply_to_screen_name": "AmericanAir",
+    "in_reply_to_status_id": 672909019707654144,
+    "in_reply_to_status_id_str": "672909019707654144",
+    "in_reply_to_user_id": 22536055,
+    "in_reply_to_user_id_str": "22536055",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -77.04231262207031,
+                        38.853043701842566
+                    ],
+                    [
+                        -77.04231262207031,
+                        38.853043701842566
+                    ],
+                    [
+                        -77.04231262207031,
+                        38.853043701842566
+                    ],
+                    [
+                        -77.04231262207031,
+                        38.853043701842566
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Ronald Reagan Washington National Airport (DCA)",
+        "id": "07d9d2140ac80003",
+        "name": "Ronald Reagan Washington National Airport (DCA)",
+        "place_type": "poi",
+        "url": "https://api.twitter.com/1.1/geo/id/07d9d2140ac80003.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@AmericanAir gate agents were extremely rude here unfortunately hopefully the flight attendants are better",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Oct 15 19:29:42 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "\u2728EVENTS. ELEGANCE. EXCELLENCE \u2728Wife, Mommy & Special Events Producer @TuskegeeU Alumna | for inquiries: missdunnieo@gmail.com",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "mrsdunnieoh.com",
+                        "expanded_url": "http://mrsdunnieoh.com",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/GE1CzviF69"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 1156,
+        "follow_request_sent": false,
+        "followers_count": 7668,
+        "following": false,
+        "friends_count": 2462,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 82692698,
+        "id_str": "82692698",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 78,
+        "location": "Based in Hollywood, CA",
+        "name": "Mrs. Dunnie OH!",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/668418618/11249386fd4f932632d692a698d32eb4.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/668418618/11249386fd4f932632d692a698d32eb4.jpeg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/82692698/1348507629",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/565101110470250497/Wtb6kc4j_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/565101110470250497/Wtb6kc4j_normal.jpeg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "MissDunnieO",
+        "statuses_count": 12544,
+        "time_zone": "Alaska",
+        "url": "https://t.co/GE1CzviF69",
+        "utc_offset": -32400,
+        "verified": false
+    }
+}
