@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Dec 03 03:50:30 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 430158505,
+                "id_str": "430158505",
+                "indices": [
+                    0,
+                    8
+                ],
+                "name": "Ask eBay",
+                "screen_name": "AskeBay"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 672261601337188353,
+    "id_str": "672261601337188353",
+    "in_reply_to_screen_name": "AskeBay",
+    "in_reply_to_status_id": 672061420838735873,
+    "in_reply_to_status_id_str": "672061420838735873",
+    "in_reply_to_user_id": 430158505,
+    "in_reply_to_user_id_str": "430158505",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -85.06093,
+                        32.3454008
+                    ],
+                    [
+                        -84.9918,
+                        32.3454008
+                    ],
+                    [
+                        -84.9918,
+                        32.531343
+                    ],
+                    [
+                        -85.06093,
+                        32.531343
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Phenix City, AL",
+        "id": "66c034beedd48294",
+        "name": "Phenix City",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/66c034beedd48294.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@AskeBay thank you eBay. I love you again, eBay",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Mar 09 19:01:51 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Quod scripsi scripsi - Book reviewer and writer for TXb Int'l- Trivia Nerd, Still Photographer, TrialJunkie, Ghosthunter, Fake Blonde, Gourmande et Raconteur",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "lingtechguistics.com",
+                        "expanded_url": "http://www.lingtechguistics.com",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/sfQpbxKuIC"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 12776,
+        "follow_request_sent": false,
+        "followers_count": 1162,
+        "following": false,
+        "friends_count": 1432,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 23481427,
+        "id_str": "23481427",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 38,
+        "location": "Alabama, USA",
+        "name": "WyzAppleGal",
+        "notifications": false,
+        "profile_background_color": "9AE4E8",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/5380739/MYAPPLENESS.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/5380739/MYAPPLENESS.jpg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/23481427/1448269791",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/670011209379397632/La32xqI0_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/670011209379397632/La32xqI0_normal.jpg",
+        "profile_link_color": "F5ABB5",
+        "profile_sidebar_border_color": "BDDCAD",
+        "profile_sidebar_fill_color": "DDFFCC",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "wyzapplegal",
+        "statuses_count": 11182,
+        "time_zone": "Quito",
+        "url": "https://t.co/sfQpbxKuIC",
+        "utc_offset": -18000,
+        "verified": false
+    }
+}

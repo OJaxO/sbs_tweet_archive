@@ -1,0 +1,147 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 01 20:07:28 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 430158505,
+                "id_str": "430158505",
+                "indices": [
+                    0,
+                    8
+                ],
+                "name": "Ask eBay",
+                "screen_name": "AskeBay"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 671782688886497280,
+    "id_str": "671782688886497280",
+    "in_reply_to_screen_name": "AskeBay",
+    "in_reply_to_status_id": 671782491032809472,
+    "in_reply_to_status_id_str": "671782491032809472",
+    "in_reply_to_user_id": 430158505,
+    "in_reply_to_user_id_str": "430158505",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        4.91097767013857,
+                        52.3665669492413
+                    ],
+                    [
+                        4.9608515618297,
+                        52.3665669492413
+                    ],
+                    [
+                        4.9608515618297,
+                        52.3821263456242
+                    ],
+                    [
+                        4.91097767013857,
+                        52.3821263456242
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "Nederland",
+        "country_code": "NL",
+        "full_name": "Oostelijk Havengebied, Amsterdam",
+        "id": "248504d49569b222",
+        "name": "Oostelijk Havengebied",
+        "place_type": "neighborhood",
+        "url": "https://api.twitter.com/1.1/geo/id/248504d49569b222.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "text": "@AskeBay it\u2019s stupid messages like this that pisses me off, READ THE FUCKING FILE!",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Apr 12 00:48:34 +0000 2007",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Freelance Apple IT consultant. Proactive support for business & home users. Founder of @MacJunky https://t.co/yNKC00Pjxg",
+        "entities": {
+            "description": {
+                "urls": [
+                    {
+                        "display_url": "macjunky.nl",
+                        "expanded_url": "https://macjunky.nl",
+                        "indices": [
+                            97,
+                            120
+                        ],
+                        "url": "https://t.co/yNKC00Pjxg"
+                    }
+                ]
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "kamgar.nl",
+                        "expanded_url": "https://kamgar.nl",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/aEodOIznrN"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 501,
+        "follow_request_sent": false,
+        "followers_count": 114,
+        "following": false,
+        "friends_count": 201,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 4270301,
+        "id_str": "4270301",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 10,
+        "location": "Amsterdam, NL",
+        "name": "Kia Kamgar",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/4270301/1434222897",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/3726647782/0ea012cb2805be1291de910b76deccff_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/3726647782/0ea012cb2805be1291de910b76deccff_normal.jpeg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "KiaKamgar",
+        "statuses_count": 1463,
+        "time_zone": "Amsterdam",
+        "url": "https://t.co/aEodOIznrN",
+        "utc_offset": 3600,
+        "verified": false
+    }
+}
