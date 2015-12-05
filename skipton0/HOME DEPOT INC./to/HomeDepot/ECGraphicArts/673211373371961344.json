@@ -1,0 +1,176 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Dec 05 18:44:33 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "media": [
+            {
+                "display_url": "pic.twitter.com/WonutfQv2h",
+                "expanded_url": "http://twitter.com/ECGraphicArts/status/673211373371961344/photo/1",
+                "id": 673210878221750272,
+                "id_str": "673210878221750272",
+                "indices": [
+                    64,
+                    87
+                ],
+                "media_url": "http://pbs.twimg.com/media/CVe5uhdWEAAOYWi.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/CVe5uhdWEAAOYWi.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 576,
+                        "resize": "fit",
+                        "w": 1024
+                    },
+                    "medium": {
+                        "h": 337,
+                        "resize": "fit",
+                        "w": 600
+                    },
+                    "small": {
+                        "h": 191,
+                        "resize": "fit",
+                        "w": 340
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/WonutfQv2h"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 14791918,
+                "id_str": "14791918",
+                "indices": [
+                    0,
+                    10
+                ],
+                "name": "The Home Depot",
+                "screen_name": "HomeDepot"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 673211373371961344,
+    "id_str": "673211373371961344",
+    "in_reply_to_screen_name": "HomeDepot",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 14791918,
+    "in_reply_to_user_id_str": "14791918",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -76.952172,
+                        39.215288
+                    ],
+                    [
+                        -76.763767,
+                        39.215288
+                    ],
+                    [
+                        -76.763767,
+                        39.324062
+                    ],
+                    [
+                        -76.952172,
+                        39.324062
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Ellicott City, MD",
+        "id": "515586774402eacb",
+        "name": "Ellicott City",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/515586774402eacb.json"
+    },
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@HomeDepot hot dog customer appreciation day, while stocks last https://t.co/WonutfQv2h",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu May 14 12:51:33 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Ellicott City, MD attractions to visit, local businesses, restaurants and upcoming events.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "EllicottCity.net",
+                        "expanded_url": "http://www.EllicottCity.net",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/B2etI5lff6"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 376,
+        "follow_request_sent": false,
+        "followers_count": 883,
+        "following": false,
+        "friends_count": 662,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 39986310,
+        "id_str": "39986310",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 31,
+        "location": "Ellicott City, MD",
+        "name": "Jeremy Clark",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/39986310/1440474231",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/452441767405576192/Aim7Kl8U_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/452441767405576192/Aim7Kl8U_normal.png",
+        "profile_link_color": "94D487",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "ECGraphicArts",
+        "statuses_count": 13518,
+        "time_zone": "Quito",
+        "url": "http://t.co/B2etI5lff6",
+        "utc_offset": -18000,
+        "verified": false
+    }
+}
