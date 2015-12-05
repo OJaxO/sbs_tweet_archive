@@ -1,0 +1,155 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Dec 03 02:41:12 +0000 2015",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    97,
+                    112
+                ],
+                "text": "EmpiezaPorAlgo"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 17842366,
+                "id_str": "17842366",
+                "indices": [
+                    30,
+                    40
+                ],
+                "name": "Discovery",
+                "screen_name": "Discovery"
+            },
+            {
+                "id": 16438248,
+                "id_str": "16438248",
+                "indices": [
+                    41,
+                    47
+                ],
+                "name": "Discovery News",
+                "screen_name": "DNews"
+            }
+        ]
+    },
+    "favorite_count": 2,
+    "favorited": false,
+    "geo": null,
+    "id": 672244160431288321,
+    "id_str": "672244160431288321",
+    "in_reply_to_screen_name": "Discovery",
+    "in_reply_to_status_id": 672243418949636096,
+    "in_reply_to_status_id_str": "672243418949636096",
+    "in_reply_to_user_id": 17842366,
+    "in_reply_to_user_id_str": "17842366",
+    "is_quote_status": false,
+    "lang": "es",
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -74.483288999243,
+                        3.71743200175304
+                    ],
+                    [
+                        -74.0040529979154,
+                        3.71743200175304
+                    ],
+                    [
+                        -74.0040529979154,
+                        4.80713500387127
+                    ],
+                    [
+                        -74.483288999243,
+                        4.80713500387127
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "Colombia",
+        "country_code": "CO",
+        "full_name": "Bogot\u00e1, Colombia",
+        "id": "0161be1b3f98d6c3",
+        "name": "Bogot\u00e1",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/0161be1b3f98d6c3.json"
+    },
+    "retweet_count": 2,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "Estoy impresionado con Racing @Discovery @DNews y duele ver lo que est\u00e1 pasando en nuestro mundo #EmpiezaPorAlgo",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Aug 10 20:45:57 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "#Marketing y Publicidad, Especialista y Mag\u00edster en Psicolog\u00eda del #Consumidor, Doctorando #Investigador #Docente #BuenaOrtograf\u00eda #CokeLover #Millos",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "about.me/SadothGiraldoA\u2026",
+                        "expanded_url": "http://about.me/SadothGiraldoAcosta",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/8EoBZY8Ofe"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 1406,
+        "follow_request_sent": false,
+        "followers_count": 1191,
+        "following": false,
+        "friends_count": 1736,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 64509750,
+        "id_str": "64509750",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "es",
+        "listed_count": 55,
+        "location": "Bogot\u00e1",
+        "name": "Sadoth Giraldo A",
+        "notifications": false,
+        "profile_background_color": "332A1C",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/634399233634869248/XcdVudXs.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/634399233634869248/XcdVudXs.jpg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/64509750/1445302995",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/657024340983050240/Gf0rCe7W_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/657024340983050240/Gf0rCe7W_normal.jpg",
+        "profile_link_color": "3B94D9",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "8AB6E7",
+        "profile_text_color": "332A1C",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "sadoth",
+        "statuses_count": 13405,
+        "time_zone": "Bogota",
+        "url": "http://t.co/8EoBZY8Ofe",
+        "utc_offset": -18000,
+        "verified": false
+    }
+}

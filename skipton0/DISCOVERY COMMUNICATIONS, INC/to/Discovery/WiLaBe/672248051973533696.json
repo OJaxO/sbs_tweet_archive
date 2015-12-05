@@ -1,0 +1,158 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Dec 03 02:56:40 +0000 2015",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    31,
+                    40
+                ],
+                "text": "tweeting"
+            },
+            {
+                "indices": [
+                    43,
+                    60
+                ],
+                "text": "RacingExtinction"
+            },
+            {
+                "indices": [
+                    90,
+                    105
+                ],
+                "text": "saveouranimals"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 17842366,
+                "id_str": "17842366",
+                "indices": [
+                    0,
+                    10
+                ],
+                "name": "Discovery",
+                "screen_name": "Discovery"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 672248051973533696,
+    "id_str": "672248051973533696",
+    "in_reply_to_screen_name": "Discovery",
+    "in_reply_to_status_id": 672233182155141120,
+    "in_reply_to_status_id_str": "672233182155141120",
+    "in_reply_to_user_id": 17842366,
+    "in_reply_to_user_id_str": "17842366",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -83.67529,
+                        36.540739
+                    ],
+                    [
+                        -75.16644,
+                        36.540739
+                    ],
+                    [
+                        -75.16644,
+                        39.466012
+                    ],
+                    [
+                        -83.67529,
+                        39.466012
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Virginia, USA",
+        "id": "5635c19c2b5078d1",
+        "name": "Virginia",
+        "place_type": "admin",
+        "url": "https://api.twitter.com/1.1/geo/id/5635c19c2b5078d1.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@Discovery YES! At this moment #tweeting \ud83d\udc25 #RacingExtinction but it is my mission to help #saveouranimals &amp; I will continue to be creative \ud83d\ude4c",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Jul 27 16:03:09 +0000 2008",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Actor Author and a few other things ... WiLaBe The Pollinator! GOOGLE me @wilabe #wilabe #WiLaBe #1WILABE you'll never know what you'll discover ?! :) KarmaLove",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "about.me/wilabeDNA",
+                        "expanded_url": "http://about.me/wilabeDNA",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/oYqMP6HtAC"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 3838,
+        "follow_request_sent": false,
+        "followers_count": 748,
+        "following": false,
+        "friends_count": 1987,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 15621087,
+        "id_str": "15621087",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 13,
+        "location": "Warrenton, VA",
+        "name": "WilliamWiLaBeRicher",
+        "notifications": false,
+        "profile_background_color": "9AE4E8",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/640821283/1qu8gy5thuyeajj2884n.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/640821283/1qu8gy5thuyeajj2884n.jpeg",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/3410685941/8574bba10ed96c3d8f54a7d28b9245f9_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/3410685941/8574bba10ed96c3d8f54a7d28b9245f9_normal.jpeg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "BDDCAD",
+        "profile_sidebar_fill_color": "DDFFCC",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "WiLaBe",
+        "statuses_count": 6025,
+        "time_zone": "Eastern Time (US & Canada)",
+        "url": "http://t.co/oYqMP6HtAC",
+        "utc_offset": -18000,
+        "verified": false
+    }
+}

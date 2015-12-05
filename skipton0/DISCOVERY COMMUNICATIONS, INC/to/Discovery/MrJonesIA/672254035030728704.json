@@ -1,0 +1,152 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Dec 03 03:20:26 +0000 2015",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    26,
+                    43
+                ],
+                "text": "RacingExtinction"
+            },
+            {
+                "indices": [
+                    70,
+                    76
+                ],
+                "text": "ibess"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 17842366,
+                "id_str": "17842366",
+                "indices": [
+                    0,
+                    10
+                ],
+                "name": "Discovery",
+                "screen_name": "Discovery"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 672254035030728704,
+    "id_str": "672254035030728704",
+    "in_reply_to_screen_name": "Discovery",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 17842366,
+    "in_reply_to_user_id_str": "17842366",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -83.44622,
+                        42.611619
+                    ],
+                    [
+                        -83.325405,
+                        42.611619
+                    ],
+                    [
+                        -83.325405,
+                        42.705913
+                    ],
+                    [
+                        -83.44622,
+                        42.705913
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Waterford, MI",
+        "id": "5d0d947a314356b7",
+        "name": "Waterford",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/5d0d947a314356b7.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@Discovery can I purchase #RacingExtinction ???? I want to show to my #ibess class!",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Jul 26 15:39:40 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Teach IB Bio, IB Enviro Systems & Societies, MYP Personal Project at International Academy in Bloomfield Hills/White Lake Working on @MAET #IArocks",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "iatoday.org",
+                        "expanded_url": "http://www.iatoday.org",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/Q9iouigcS1"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 1469,
+        "follow_request_sent": false,
+        "followers_count": 338,
+        "following": false,
+        "friends_count": 319,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 342784124,
+        "id_str": "342784124",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 24,
+        "location": "Michigan",
+        "name": "Ian Jones",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/342784124/1448831464",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/637329159258308608/vGxpOL9S_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/637329159258308608/vGxpOL9S_normal.png",
+        "profile_link_color": "3B94D9",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "MrJonesIA",
+        "statuses_count": 4156,
+        "time_zone": "Quito",
+        "url": "http://t.co/Q9iouigcS1",
+        "utc_offset": -18000,
+        "verified": false
+    }
+}

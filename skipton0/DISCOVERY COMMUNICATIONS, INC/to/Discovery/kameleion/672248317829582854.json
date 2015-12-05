@@ -1,0 +1,124 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Dec 03 02:57:43 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 17842366,
+                "id_str": "17842366",
+                "indices": [
+                    0,
+                    10
+                ],
+                "name": "Discovery",
+                "screen_name": "Discovery"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 672248317829582854,
+    "id_str": "672248317829582854",
+    "in_reply_to_screen_name": "Discovery",
+    "in_reply_to_status_id": 672114738248073216,
+    "in_reply_to_status_id_str": "672114738248073216",
+    "in_reply_to_user_id": 17842366,
+    "in_reply_to_user_id_str": "17842366",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -73.933612,
+                        40.785365
+                    ],
+                    [
+                        -73.765271,
+                        40.785365
+                    ],
+                    [
+                        -73.765271,
+                        40.91533
+                    ],
+                    [
+                        -73.933612,
+                        40.91533
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Bronx, NY",
+        "id": "002e24c6736f069d",
+        "name": "Bronx",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/002e24c6736f069d.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@Discovery Sad indeed and thanks to us unfortunately.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Jul 06 01:12:33 +0000 2012",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "The Collective Us Not A Race Or Color Just Us, Collectively Feeling The Suffering And Despair That Plagues Humanity Without Compassion-Rt Not My Endorsement",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 2978,
+        "follow_request_sent": false,
+        "followers_count": 1287,
+        "following": false,
+        "friends_count": 730,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 627904397,
+        "id_str": "627904397",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 52,
+        "location": "Planet Earth Unfortunately!",
+        "name": "CollectiveMinds",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/627904397/1447994467",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/658795116346408962/ZVuxYbGK_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/658795116346408962/ZVuxYbGK_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "kameleion",
+        "statuses_count": 23879,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": null,
+        "utc_offset": -28800,
+        "verified": false
+    }
+}

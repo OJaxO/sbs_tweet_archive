@@ -1,0 +1,124 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Dec 03 02:53:26 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 17842366,
+                "id_str": "17842366",
+                "indices": [
+                    0,
+                    10
+                ],
+                "name": "Discovery",
+                "screen_name": "Discovery"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 672247241000640512,
+    "id_str": "672247241000640512",
+    "in_reply_to_screen_name": "Discovery",
+    "in_reply_to_status_id": 672245422715478016,
+    "in_reply_to_status_id_str": "672245422715478016",
+    "in_reply_to_user_id": 17842366,
+    "in_reply_to_user_id_str": "17842366",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -121.074342,
+                        37.59485
+                    ],
+                    [
+                        -120.900594,
+                        37.59485
+                    ],
+                    [
+                        -120.900594,
+                        37.732784
+                    ],
+                    [
+                        -121.074342,
+                        37.732784
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Modesto, CA",
+        "id": "e41805d7248dbf1e",
+        "name": "Modesto",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/e41805d7248dbf1e.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@Discovery Carbon Farming &amp; sequestration active in Marin Cty, France, &amp; Univ CO. Cover the land with 1/2\" to 1\" of compost &amp; reap benefits.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Jan 12 07:32:13 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Funny, sassy, silly, loving Jewish mother of 3 grown-ups, Grandma to 2  granddaughters (7 & 5 1/2) and a 4 mo. old grandson. Archie Great Dane & Yappy RatChua",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 5074,
+        "follow_request_sent": false,
+        "followers_count": 301,
+        "following": false,
+        "friends_count": 575,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 237177347,
+        "id_str": "237177347",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 102,
+        "location": "Modesto, California",
+        "name": "Geri Creque",
+        "notifications": false,
+        "profile_background_color": "352726",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/237177347/1434431917",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/644003542592700416/TzdEeZ0r_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/644003542592700416/TzdEeZ0r_normal.jpg",
+        "profile_link_color": "4A913C",
+        "profile_sidebar_border_color": "829D5E",
+        "profile_sidebar_fill_color": "99CC33",
+        "profile_text_color": "3E4415",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "gbcreque",
+        "statuses_count": 26795,
+        "time_zone": null,
+        "url": null,
+        "utc_offset": null,
+        "verified": false
+    }
+}

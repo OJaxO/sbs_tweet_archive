@@ -1,0 +1,171 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Dec 03 03:21:52 +0000 2015",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    20,
+                    37
+                ],
+                "text": "RacingExtinction"
+            }
+        ],
+        "media": [
+            {
+                "display_url": "pic.twitter.com/fcHq8OaGOU",
+                "expanded_url": "http://twitter.com/LoriDavisOKC/status/672254394247675904/photo/1",
+                "id": 672254359644729344,
+                "id_str": "672254359644729344",
+                "indices": [
+                    115,
+                    138
+                ],
+                "media_url": "http://pbs.twimg.com/media/CVRTx0FU8AApN2E.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/CVRTx0FU8AApN2E.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 747,
+                        "resize": "fit",
+                        "w": 500
+                    },
+                    "medium": {
+                        "h": 747,
+                        "resize": "fit",
+                        "w": 500
+                    },
+                    "small": {
+                        "h": 507,
+                        "resize": "fit",
+                        "w": 340
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/fcHq8OaGOU"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 17842366,
+                "id_str": "17842366",
+                "indices": [
+                    0,
+                    10
+                ],
+                "name": "Discovery",
+                "screen_name": "Discovery"
+            }
+        ]
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": null,
+    "id": 672254394247675904,
+    "id_str": "672254394247675904",
+    "in_reply_to_screen_name": "Discovery",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 17842366,
+    "in_reply_to_user_id_str": "17842366",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -97.768683,
+                        35.290722
+                    ],
+                    [
+                        -97.335639,
+                        35.290722
+                    ],
+                    [
+                        -97.335639,
+                        35.674965
+                    ],
+                    [
+                        -97.768683,
+                        35.674965
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Oklahoma City, OK",
+        "id": "9531d4e3bbafc09d",
+        "name": "Oklahoma City",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/9531d4e3bbafc09d.json"
+    },
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@Discovery Watching #RacingExtinction! I am disappointed in our species! Great job on opening my eyes!! Thank You! https://t.co/fcHq8OaGOU",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Mar 05 00:12:52 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Lex and Terry! Watching Horror Movies! Sewing (not clothes)! More Lex and Terry!",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 2580,
+        "follow_request_sent": false,
+        "followers_count": 36,
+        "following": false,
+        "friends_count": 137,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 119932220,
+        "id_str": "119932220",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 2,
+        "location": "Oklahoma City",
+        "name": "Lori Davis",
+        "notifications": false,
+        "profile_background_color": "EBEBEB",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/623146695/awaxfi7ivdc0526h7ru0.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/623146695/awaxfi7ivdc0526h7ru0.jpeg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/119932220/1391301307",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/3516692442/d22b70d14537e09345d13c8d1089bb51_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/3516692442/d22b70d14537e09345d13c8d1089bb51_normal.jpeg",
+        "profile_link_color": "990000",
+        "profile_sidebar_border_color": "DFDFDF",
+        "profile_sidebar_fill_color": "F3F3F3",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "LoriDavisOKC",
+        "statuses_count": 1150,
+        "time_zone": "Central Time (US & Canada)",
+        "url": null,
+        "utc_offset": -21600,
+        "verified": false
+    }
+}
