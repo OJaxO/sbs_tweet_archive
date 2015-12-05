@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Nov 30 15:52:52 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 19709040,
+                "id_str": "19709040",
+                "indices": [
+                    0,
+                    5
+                ],
+                "name": "eBay",
+                "screen_name": "eBay"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 671356226308059136,
+    "id_str": "671356226308059136",
+    "in_reply_to_screen_name": "eBay",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 19709040,
+    "in_reply_to_user_id_str": "19709040",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -0.5093057,
+                        51.286606
+                    ],
+                    [
+                        0.334433,
+                        51.286606
+                    ],
+                    [
+                        0.334433,
+                        51.6916388
+                    ],
+                    [
+                        -0.5093057,
+                        51.6916388
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United Kingdom",
+        "country_code": "GB",
+        "full_name": "London, England",
+        "id": "5d838f7a011f4a2d",
+        "name": "London",
+        "place_type": "admin",
+        "url": "https://api.twitter.com/1.1/geo/id/5d838f7a011f4a2d.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@eBay Your customer service should be advertised as non - existent, I have been on the phone to a representative for the last 30 minutes!",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri May 13 14:34:52 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Fasian | PR Gal | Quintessentially London | Champagne & Photography Lover | Travel Junkie",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "geraldinedam.tumblr.com",
+                        "expanded_url": "http://geraldinedam.tumblr.com",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/RIK9oVtg5M"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 143,
+        "follow_request_sent": false,
+        "followers_count": 428,
+        "following": false,
+        "friends_count": 743,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 298019262,
+        "id_str": "298019262",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 10,
+        "location": "Surrey | London ",
+        "name": "Geraldine Van Dam",
+        "notifications": false,
+        "profile_background_color": "EDCEB9",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/341031293/9933_173768455147_513730147_4272235_5112318_n.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/341031293/9933_173768455147_513730147_4272235_5112318_n.jpg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/298019262/1363989702",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/647002711456673795/RMs4Rf4j_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/647002711456673795/RMs4Rf4j_normal.jpg",
+        "profile_link_color": "E3765B",
+        "profile_sidebar_border_color": "DBF3FF",
+        "profile_sidebar_fill_color": "CE99FF",
+        "profile_text_color": "46218A",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "geraldinedam",
+        "statuses_count": 3790,
+        "time_zone": "London",
+        "url": "http://t.co/RIK9oVtg5M",
+        "utc_offset": 0,
+        "verified": false
+    }
+}

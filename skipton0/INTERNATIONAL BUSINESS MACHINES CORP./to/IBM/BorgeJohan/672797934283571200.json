@@ -1,0 +1,232 @@
+{
+    "contributors": null,
+    "coordinates": {
+        "coordinates": [
+            -97.71550945,
+            30.40169472
+        ],
+        "type": "Point"
+    },
+    "created_at": "Fri Dec 04 15:21:42 +0000 2015",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    12,
+                    22
+                ],
+                "text": "challenge"
+            },
+            {
+                "indices": [
+                    48,
+                    56
+                ],
+                "text": "startup"
+            }
+        ],
+        "media": [
+            {
+                "display_url": "pic.twitter.com/86Xtmda6yE",
+                "expanded_url": "http://twitter.com/BorgeJohan/status/672797934283571200/photo/1",
+                "id": 672797934166110208,
+                "id_str": "672797934166110208",
+                "indices": [
+                    103,
+                    126
+                ],
+                "media_url": "http://pbs.twimg.com/media/CVZCKA-WcAA2lLA.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/CVZCKA-WcAA2lLA.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 540,
+                        "resize": "fit",
+                        "w": 960
+                    },
+                    "medium": {
+                        "h": 337,
+                        "resize": "fit",
+                        "w": 600
+                    },
+                    "small": {
+                        "h": 191,
+                        "resize": "fit",
+                        "w": 340
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/86Xtmda6yE"
+            }
+        ],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "swarmapp.com/c/kxBKkpmDLfE",
+                "expanded_url": "https://www.swarmapp.com/c/kxBKkpmDLfE",
+                "indices": [
+                    79,
+                    102
+                ],
+                "url": "https://t.co/uh8rSXUIt0"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 18994444,
+                "id_str": "18994444",
+                "indices": [
+                    0,
+                    4
+                ],
+                "name": "IBM",
+                "screen_name": "IBM"
+            },
+            {
+                "id": 155985029,
+                "id_str": "155985029",
+                "indices": [
+                    25,
+                    35
+                ],
+                "name": "IBM IIC Austin",
+                "screen_name": "AustinIIC"
+            },
+            {
+                "id": 1007885498,
+                "id_str": "1007885498",
+                "indices": [
+                    36,
+                    47
+                ],
+                "name": "The TechMap",
+                "screen_name": "TheTechMap"
+            }
+        ]
+    },
+    "favorite_count": 3,
+    "favorited": false,
+    "geo": {
+        "coordinates": [
+            30.40169472,
+            -97.71550945
+        ],
+        "type": "Point"
+    },
+    "id": 672797934283571200,
+    "id_str": "672797934283571200",
+    "in_reply_to_screen_name": "IBM",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 18994444,
+    "in_reply_to_user_id_str": "18994444",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -97.928935,
+                        30.127892
+                    ],
+                    [
+                        -97.5805133,
+                        30.127892
+                    ],
+                    [
+                        -97.5805133,
+                        30.5187994
+                    ],
+                    [
+                        -97.928935,
+                        30.5187994
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Austin, TX",
+        "id": "c3f37afa9efcf94b",
+        "name": "Austin",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/c3f37afa9efcf94b.json"
+    },
+    "possibly_sensitive": false,
+    "retweet_count": 4,
+    "retweeted": false,
+    "source": "<a href=\"http://foursquare.com\" rel=\"nofollow\">Foursquare</a>",
+    "text": "@ibm global #challenge.  @AustinIIC @TheTechMap #startup (@ IBM in Austin, TX) https://t.co/uh8rSXUIt0 https://t.co/86Xtmda6yE",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Feb 17 15:56:57 +0000 2013",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Serial entrepreneur.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "about.me/johanborge",
+                        "expanded_url": "http://about.me/johanborge",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/NNQ4FN45Wu"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 7,
+        "follow_request_sent": false,
+        "followers_count": 456,
+        "following": false,
+        "friends_count": 1648,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 1189960236,
+        "id_str": "1189960236",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 14,
+        "location": "Austin",
+        "name": "Johan Borge",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/3267719982/6f8d82ced9cd78b6285ae81225186be2_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/3267719982/6f8d82ced9cd78b6285ae81225186be2_normal.jpeg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "BorgeJohan",
+        "statuses_count": 420,
+        "time_zone": null,
+        "url": "http://t.co/NNQ4FN45Wu",
+        "utc_offset": null,
+        "verified": false
+    }
+}

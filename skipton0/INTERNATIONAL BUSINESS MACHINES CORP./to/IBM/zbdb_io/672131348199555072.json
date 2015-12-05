@@ -1,0 +1,168 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Dec 02 19:12:55 +0000 2015",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    35,
+                    42
+                ],
+                "text": "Watson"
+            },
+            {
+                "indices": [
+                    105,
+                    113
+                ],
+                "text": "bigdata"
+            }
+        ],
+        "media": [
+            {
+                "display_url": "pic.twitter.com/ipLyi1jcOf",
+                "expanded_url": "http://twitter.com/zbdb_io/status/672131348199555072/photo/1",
+                "id": 672131347801096193,
+                "id_str": "672131347801096193",
+                "indices": [
+                    114,
+                    137
+                ],
+                "media_url": "http://pbs.twimg.com/media/CVPj5lQWwAEHk9Y.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/CVPj5lQWwAEHk9Y.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 332,
+                        "resize": "fit",
+                        "w": 350
+                    },
+                    "medium": {
+                        "h": 332,
+                        "resize": "fit",
+                        "w": 350
+                    },
+                    "small": {
+                        "h": 322,
+                        "resize": "fit",
+                        "w": 340
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/ipLyi1jcOf"
+            }
+        ],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "hubs.ly/H01rHb40",
+                "expanded_url": "http://hubs.ly/H01rHb40",
+                "indices": [
+                    50,
+                    73
+                ],
+                "url": "https://t.co/GECaC1Yb4k"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 18994444,
+                "id_str": "18994444",
+                "indices": [
+                    0,
+                    4
+                ],
+                "name": "IBM",
+                "screen_name": "IBM"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 672131348199555072,
+    "id_str": "672131348199555072",
+    "in_reply_to_screen_name": "IBM",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 18994444,
+    "in_reply_to_user_id_str": "18994444",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://www.hubspot.com/\" rel=\"nofollow\">HubSpot</a>",
+    "text": "@IBM Stock Has a Sleeping Giant in #Watson Health https://t.co/GECaC1Yb4k @investorplacecount=horizontal #bigdata https://t.co/ipLyi1jcOf",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Sep 17 11:54:43 +0000 2015",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "ZBDB Powered by #SQreamTech, is a fully managed insanely fast #analytics data warehouse on the cloud. Unmatched speed, scalability & simplicity. No hidden costs",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "zbdb.io",
+                        "expanded_url": "http://zbdb.io/",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/EBHOupNTKC"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 36,
+        "follow_request_sent": false,
+        "followers_count": 241,
+        "following": false,
+        "friends_count": 399,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 3593516892,
+        "id_str": "3593516892",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 37,
+        "location": "Israel",
+        "name": "zbdb.io",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3593516892/1442491211",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/644480429483933697/RFD-7G5Z_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/644480429483933697/RFD-7G5Z_normal.png",
+        "profile_link_color": "4A913C",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "zbdb_io",
+        "statuses_count": 151,
+        "time_zone": null,
+        "url": "http://t.co/EBHOupNTKC",
+        "utc_offset": null,
+        "verified": false
+    }
+}
