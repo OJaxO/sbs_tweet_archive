@@ -1,0 +1,162 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Nov 28 22:16:46 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "media": [
+            {
+                "display_url": "pic.twitter.com/4TAV73XmC3",
+                "expanded_url": "http://twitter.com/fstille/status/670728064737767426/photo/1",
+                "id": 670728044852592640,
+                "id_str": "670728044852592640",
+                "indices": [
+                    8,
+                    31
+                ],
+                "media_url": "http://pbs.twimg.com/media/CU7nmmZUwAAoKfq.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/CU7nmmZUwAAoKfq.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 960,
+                        "resize": "fit",
+                        "w": 720
+                    },
+                    "medium": {
+                        "h": 800,
+                        "resize": "fit",
+                        "w": 600
+                    },
+                    "small": {
+                        "h": 453,
+                        "resize": "fit",
+                        "w": 340
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/4TAV73XmC3"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 67418441,
+                "id_str": "67418441",
+                "indices": [
+                    0,
+                    7
+                ],
+                "name": "Disney",
+                "screen_name": "Disney"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 670728064737767426,
+    "id_str": "670728064737767426",
+    "in_reply_to_screen_name": "Disney",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 67418441,
+    "in_reply_to_user_id_str": "67418441",
+    "is_quote_status": false,
+    "lang": "und",
+    "metadata": {
+        "iso_language_code": "und",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -100.2748228,
+                        25.621688
+                    ],
+                    [
+                        -100.117445,
+                        25.621688
+                    ],
+                    [
+                        -100.117445,
+                        25.7315189
+                    ],
+                    [
+                        -100.2748228,
+                        25.7315189
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "M\u00e9xico",
+        "country_code": "MX",
+        "full_name": "Guadalupe, Nuevo Le\u00f3n",
+        "id": "d1ec37eb74fb2830",
+        "name": "Guadalupe",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/d1ec37eb74fb2830.json"
+    },
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@Disney https://t.co/4TAV73XmC3",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Oct 10 01:41:07 +0000 2010",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 33,
+        "follow_request_sent": false,
+        "followers_count": 54,
+        "following": false,
+        "friends_count": 46,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 200714598,
+        "id_str": "200714598",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "es",
+        "listed_count": 1,
+        "location": "Monterrey, Mexico",
+        "name": "F Stille",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/423509795698507776/cWobkxeA_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/423509795698507776/cWobkxeA_normal.jpeg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "fstille",
+        "statuses_count": 1897,
+        "time_zone": "Monterrey",
+        "url": null,
+        "utc_offset": -21600,
+        "verified": false
+    }
+}

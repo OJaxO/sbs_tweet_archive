@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Dec 04 11:55:47 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 147932302,
+                "id_str": "147932302",
+                "indices": [
+                    0,
+                    14
+                ],
+                "name": "Lloyds Bank",
+                "screen_name": "AskLloydsBank"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 672746113854799873,
+    "id_str": "672746113854799873",
+    "in_reply_to_screen_name": "AskLloydsBank",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 147932302,
+    "in_reply_to_user_id_str": "147932302",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -2.319934,
+                        53.343623
+                    ],
+                    [
+                        -2.147026,
+                        53.343623
+                    ],
+                    [
+                        -2.147026,
+                        53.5702824
+                    ],
+                    [
+                        -2.319934,
+                        53.5702824
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United Kingdom",
+        "country_code": "GB",
+        "full_name": "Manchester, England",
+        "id": "315b740b108481f6",
+        "name": "Manchester",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/315b740b108481f6.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@AskLloydsBank where in the android app do I find details my BIC number?",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Feb 05 11:25:54 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Do Glassware, wearables, VR & 360\u00b0 mmkt.in for brands & enterprise @Droiders @Streye. Ctrl+U addict. Upside down pizza eater & sock loather. Zagger. Biling\u00fce.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "paulgailey.com",
+                        "expanded_url": "http://paulgailey.com",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/OuSDyuuUZm"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 1227,
+        "follow_request_sent": false,
+        "followers_count": 2098,
+        "following": false,
+        "friends_count": 633,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 20139449,
+        "id_str": "20139449",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 349,
+        "location": "Murcia, Manchester, London",
+        "name": "Paul Gailey",
+        "notifications": false,
+        "profile_background_color": "EBEBEB",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/406565944/twitter_background_2012.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/406565944/twitter_background_2012.jpg",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/20139449/1347987229",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/581785233592315904/g8WDtLQC_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/581785233592315904/g8WDtLQC_normal.jpg",
+        "profile_link_color": "0066FF",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "C9C9C9",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "paulgailey",
+        "statuses_count": 38583,
+        "time_zone": "Madrid",
+        "url": "http://t.co/OuSDyuuUZm",
+        "utc_offset": 3600,
+        "verified": false
+    }
+}

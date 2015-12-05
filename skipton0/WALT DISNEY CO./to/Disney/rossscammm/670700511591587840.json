@@ -1,0 +1,261 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Nov 28 20:27:17 +0000 2015",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    32,
+                    42
+                ],
+                "text": "marketing"
+            }
+        ],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/yoemprendo_/st\u2026",
+                "expanded_url": "https://twitter.com/yoemprendo_/status/670700285833146368",
+                "indices": [
+                    44,
+                    67
+                ],
+                "url": "https://t.co/w0SLAuKQi3"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 67418441,
+                "id_str": "67418441",
+                "indices": [
+                    0,
+                    7
+                ],
+                "name": "Disney",
+                "screen_name": "Disney"
+            }
+        ]
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": null,
+    "id": 670700511591587840,
+    "id_str": "670700511591587840",
+    "in_reply_to_screen_name": "Disney",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 67418441,
+    "in_reply_to_user_id_str": "67418441",
+    "is_quote_status": true,
+    "lang": "es",
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -3.8890049,
+                        40.3120713
+                    ],
+                    [
+                        -3.5180102,
+                        40.3120713
+                    ],
+                    [
+                        -3.5180102,
+                        40.6435181
+                    ],
+                    [
+                        -3.8890049,
+                        40.6435181
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "Espa\u00f1a",
+        "country_code": "ES",
+        "full_name": "Madrid, Comunidad de Madrid",
+        "id": "206c436ce43a43a3",
+        "name": "Madrid",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/206c436ce43a43a3.json"
+    },
+    "possibly_sensitive": false,
+    "quoted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Sat Nov 28 20:26:23 +0000 2015",
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "urls": [
+                {
+                    "display_url": "is.gd/6YBKyV",
+                    "expanded_url": "http://is.gd/6YBKyV",
+                    "indices": [
+                        58,
+                        81
+                    ],
+                    "url": "https://t.co/L9imRIY56c"
+                }
+            ],
+            "user_mentions": []
+        },
+        "favorite_count": 1,
+        "favorited": false,
+        "geo": null,
+        "id": 670700285833146368,
+        "id_str": "670700285833146368",
+        "in_reply_to_screen_name": null,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "is_quote_status": false,
+        "lang": "es",
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "place": null,
+        "possibly_sensitive": false,
+        "retweet_count": 3,
+        "retweeted": false,
+        "source": "<a href=\"http://winthecustomer.com/\" rel=\"nofollow\">Win the Customer</a>",
+        "text": "Los 5 mejores consejos que aplica Disneyland en marketing https://t.co/L9imRIY56c",
+        "truncated": false,
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Mon Mar 10 12:22:13 +0000 2014",
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "Blog para emprendedores por @artesanocoach",
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "elartedelemprendedor.com",
+                            "expanded_url": "http://www.elartedelemprendedor.com",
+                            "indices": [
+                                0,
+                                22
+                            ],
+                            "url": "http://t.co/CrLg4UIrRT"
+                        }
+                    ]
+                }
+            },
+            "favourites_count": 0,
+            "follow_request_sent": false,
+            "followers_count": 23465,
+            "following": false,
+            "friends_count": 18906,
+            "geo_enabled": false,
+            "has_extended_profile": false,
+            "id": 2382069889,
+            "id_str": "2382069889",
+            "is_translation_enabled": false,
+            "is_translator": false,
+            "lang": "es",
+            "listed_count": 350,
+            "location": "Espa\u00f1a",
+            "name": "Arte del emprendedor",
+            "notifications": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/443001380513406976/Aa3ENKv6_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/443001380513406976/Aa3ENKv6_normal.png",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "YoEmprendo_",
+            "statuses_count": 4132,
+            "time_zone": "Madrid",
+            "url": "http://t.co/CrLg4UIrRT",
+            "utc_offset": 3600,
+            "verified": false
+        }
+    },
+    "quoted_status_id": 670700285833146368,
+    "quoted_status_id_str": "670700285833146368",
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@Disney es uno de los reyes del #marketing  https://t.co/w0SLAuKQi3",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat May 30 08:19:34 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "comms, movies, ads and exploring 'social media' are the ways I live life, entrepreneur at @DIYrosa. Marketing and PR professional that loves to laugh out loud.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "twitter.com/roxs_rocks",
+                        "expanded_url": "http://www.twitter.com/roxs_rocks",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/jixo83EueL"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 197,
+        "follow_request_sent": false,
+        "followers_count": 794,
+        "following": false,
+        "friends_count": 317,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 43502056,
+        "id_str": "43502056",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 45,
+        "location": "Madrid, Spain",
+        "name": "Rosa Camero",
+        "notifications": false,
+        "profile_background_color": "2B2816",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000039783901/ba3fcbc15301df932b067bac268fc97f.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000039783901/ba3fcbc15301df932b067bac268fc97f.jpeg",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/43502056/1425607289",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/638755580094611456/sjGP0Faf_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/638755580094611456/sjGP0Faf_normal.jpg",
+        "profile_link_color": "3B94D9",
+        "profile_sidebar_border_color": "89B5A2",
+        "profile_sidebar_fill_color": "24210E",
+        "profile_text_color": "89B5A2",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "rossscammm",
+        "statuses_count": 7997,
+        "time_zone": "Central Time (US & Canada)",
+        "url": "http://t.co/jixo83EueL",
+        "utc_offset": -21600,
+        "verified": false
+    }
+}

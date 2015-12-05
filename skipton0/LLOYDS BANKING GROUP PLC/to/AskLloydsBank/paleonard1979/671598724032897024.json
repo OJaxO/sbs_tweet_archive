@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 01 07:56:28 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 147932302,
+                "id_str": "147932302",
+                "indices": [
+                    0,
+                    14
+                ],
+                "name": "Lloyds Bank",
+                "screen_name": "AskLloydsBank"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 671598724032897024,
+    "id_str": "671598724032897024",
+    "in_reply_to_screen_name": "AskLloydsBank",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 147932302,
+    "in_reply_to_user_id_str": "147932302",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -2.033651,
+                        52.381063
+                    ],
+                    [
+                        -1.74763,
+                        52.381063
+                    ],
+                    [
+                        -1.74763,
+                        52.60687
+                    ],
+                    [
+                        -2.033651,
+                        52.60687
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United Kingdom",
+        "country_code": "GB",
+        "full_name": "Birmingham, England",
+        "id": "53b67b1d1cc81a51",
+        "name": "Birmingham",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/53b67b1d1cc81a51.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@AskLloydsBank how can I setup a fortnightly standing order online? Is that functionality coming or?",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Feb 13 16:27:20 +0000 2011",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Software developer (PL_SQL/SQL/VB/XSLT)|BSL|Coffee|Dad|Deaf culture/issues|Food|Friends|F1|Music|Photograph|/Semi green fingers|Tube geek|Urgh mornings",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "paleonard1979.wordpress.com",
+                        "expanded_url": "http://paleonard1979.wordpress.com",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/NuVJqVA2Hi"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 1164,
+        "follow_request_sent": false,
+        "followers_count": 159,
+        "following": false,
+        "friends_count": 163,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 251669875,
+        "id_str": "251669875",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 12,
+        "location": "B31, Birmingham, UK",
+        "name": "Paul Leonard",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/251669875/1361642988",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/451065865111633920/YvjAaLpR_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/451065865111633920/YvjAaLpR_normal.jpeg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "paleonard1979",
+        "statuses_count": 7639,
+        "time_zone": "London",
+        "url": "https://t.co/NuVJqVA2Hi",
+        "utc_offset": 0,
+        "verified": false
+    }
+}
