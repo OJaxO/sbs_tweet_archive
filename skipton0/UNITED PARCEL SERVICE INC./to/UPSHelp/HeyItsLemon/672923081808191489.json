@@ -1,0 +1,124 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Dec 04 23:38:59 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 271516607,
+                "id_str": "271516607",
+                "indices": [
+                    0,
+                    8
+                ],
+                "name": "UPS Customer Support",
+                "screen_name": "UPSHelp"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 672923081808191489,
+    "id_str": "672923081808191489",
+    "in_reply_to_screen_name": "UPSHelp",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 271516607,
+    "in_reply_to_user_id_str": "271516607",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -95.823268,
+                        29.522325
+                    ],
+                    [
+                        -95.069705,
+                        29.522325
+                    ],
+                    [
+                        -95.069705,
+                        30.1546646
+                    ],
+                    [
+                        -95.823268,
+                        30.1546646
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Houston, TX",
+        "id": "1c69a67ad480e1b1",
+        "name": "Houston",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/1c69a67ad480e1b1.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@UPSHelp Why the hell would the driver leave a package at the front door when the leasing office is right there!?!?! $700 just sitting there",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Jun 08 21:06:09 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "A^2",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 4223,
+        "follow_request_sent": false,
+        "followers_count": 213,
+        "following": false,
+        "friends_count": 73,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 45670826,
+        "id_str": "45670826",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 3,
+        "location": "Houston, TX",
+        "name": "Anthony",
+        "notifications": false,
+        "profile_background_color": "C7C7C7",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/722611190/193b466459b4120cf0b7ff8ceb8a69c6.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/722611190/193b466459b4120cf0b7ff8ceb8a69c6.jpeg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/45670826/1449036560",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/671931955106091008/rctBXpkf_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/671931955106091008/rctBXpkf_normal.jpg",
+        "profile_link_color": "000000",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "A82424",
+        "profile_text_color": "FFFFFF",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "HeyItsLemon",
+        "statuses_count": 15751,
+        "time_zone": "Central Time (US & Canada)",
+        "url": null,
+        "utc_offset": -21600,
+        "verified": false
+    }
+}
