@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Dec 05 05:12:03 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 14620190,
+                "id_str": "14620190",
+                "indices": [
+                    0,
+                    4
+                ],
+                "name": "AT&T",
+                "screen_name": "ATT"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 673006901911777280,
+    "id_str": "673006901911777280",
+    "in_reply_to_screen_name": "ATT",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 14620190,
+    "in_reply_to_user_id_str": "14620190",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -90.67755,
+                        38.700023
+                    ],
+                    [
+                        -90.523651,
+                        38.700023
+                    ],
+                    [
+                        -90.523651,
+                        38.815652
+                    ],
+                    [
+                        -90.67755,
+                        38.815652
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "St Peters, MO",
+        "id": "71ce5137b842ec75",
+        "name": "St Peters",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/71ce5137b842ec75.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@ATT question, why isn't Alaskan bush people on demand?",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Apr 16 01:16:49 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "St.Charles MO @RyanBoyling follow him for a good time. ps. O2L pls follow. 0/5 0/6  Belieber for lyfe SC: Leeleeacon KIK ; imsoswaggyyy janoskianator carter",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "instagram.com/lynseylawley",
+                        "expanded_url": "http://www.instagram.com/lynseylawley",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/ed90kup1GW"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 2452,
+        "follow_request_sent": false,
+        "followers_count": 426,
+        "following": false,
+        "friends_count": 228,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 31587249,
+        "id_str": "31587249",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 3,
+        "location": "",
+        "name": "Lynsey/PLS FOLLOW JC",
+        "notifications": false,
+        "profile_background_color": "E6158B",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000092570686/6164498537e42587b84ad3d22486f98c.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000092570686/6164498537e42587b84ad3d22486f98c.jpeg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/31587249/1441156028",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/638501621496967168/t2a1skSH_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/638501621496967168/t2a1skSH_normal.jpg",
+        "profile_link_color": "FFAA00",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "7CEDDE",
+        "profile_text_color": "4BFC05",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "ImSoSwaggyyy",
+        "statuses_count": 13006,
+        "time_zone": "Central Time (US & Canada)",
+        "url": "http://t.co/ed90kup1GW",
+        "utc_offset": -21600,
+        "verified": false
+    }
+}

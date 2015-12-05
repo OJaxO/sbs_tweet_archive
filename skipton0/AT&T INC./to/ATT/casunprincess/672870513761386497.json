@@ -1,0 +1,145 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Dec 04 20:10:06 +0000 2015",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    136,
+                    140
+                ],
+                "text": "att"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 14620190,
+                "id_str": "14620190",
+                "indices": [
+                    0,
+                    4
+                ],
+                "name": "AT&T",
+                "screen_name": "ATT"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 672870513761386497,
+    "id_str": "672870513761386497",
+    "in_reply_to_screen_name": "ATT",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 14620190,
+    "in_reply_to_user_id_str": "14620190",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -120.041961,
+                        38.822602
+                    ],
+                    [
+                        -119.932752,
+                        38.822602
+                    ],
+                    [
+                        -119.932752,
+                        38.964216
+                    ],
+                    [
+                        -120.041961,
+                        38.964216
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "South Lake Tahoe, CA",
+        "id": "0056a5ad3ac63b03",
+        "name": "South Lake Tahoe",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/0056a5ad3ac63b03.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@ATT wants to charge $5 to manually process a payment?! Is that good customer service? It's a sneaky way to add revenue to bottom line. #att",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Dec 13 16:41:45 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Work 2 live! Grateful. Happy. Joel. Blue, Pink & Lilly, our dogs. Hiking. Cooking. Reading. Poker. Zentangle. FB free! Life is short. Eat the f^cking cookie!",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "skirtfire.blogspot.com",
+                        "expanded_url": "http://skirtfire.blogspot.com",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/1IQ5AgV1NW"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 590,
+        "follow_request_sent": false,
+        "followers_count": 377,
+        "following": false,
+        "friends_count": 855,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 96580649,
+        "id_str": "96580649",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 9,
+        "location": "South Lake Tahoe, CA",
+        "name": "Pamela Pletz",
+        "notifications": false,
+        "profile_background_color": "352726",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/96580649/1408679656",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/623708258507845632/8bX0kV_Z_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/623708258507845632/8bX0kV_Z_normal.jpg",
+        "profile_link_color": "07D8EB",
+        "profile_sidebar_border_color": "829D5E",
+        "profile_sidebar_fill_color": "99CC33",
+        "profile_text_color": "3E4415",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "casunprincess",
+        "statuses_count": 2655,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "https://t.co/1IQ5AgV1NW",
+        "utc_offset": -28800,
+        "verified": false
+    }
+}
