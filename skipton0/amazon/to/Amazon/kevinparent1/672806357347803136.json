@@ -1,0 +1,132 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Dec 04 15:55:10 +0000 2015",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    40,
+                    56
+                ],
+                "text": "RainbowSixSiege"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 20793816,
+                "id_str": "20793816",
+                "indices": [
+                    0,
+                    7
+                ],
+                "name": "Amazon",
+                "screen_name": "amazon"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 672806357347803136,
+    "id_str": "672806357347803136",
+    "in_reply_to_screen_name": "amazon",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 20793816,
+    "in_reply_to_user_id_str": "20793816",
+    "is_quote_status": false,
+    "lang": "fr",
+    "metadata": {
+        "iso_language_code": "fr",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -71.504138,
+                        46.572148
+                    ],
+                    [
+                        -70.993903,
+                        46.572148
+                    ],
+                    [
+                        -70.993903,
+                        46.843109
+                    ],
+                    [
+                        -71.504138,
+                        46.843109
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "Canada",
+        "country_code": "CA",
+        "full_name": "L\u00e9vis, Qu\u00e9bec",
+        "id": "52a6b7ab345c97e2",
+        "name": "L\u00e9vis",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/52a6b7ab345c97e2.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@amazon vous attend quoi pour m'envoyer #RainbowSixSiege qui est sorti cette semaine et que j'ai pr\u00e9commande depuis 4 mois",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Apr 02 23:49:57 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "P\u00e8re de deux enfant , directeur adjoint v\u00e9hicule neuf l\u00e9vis mazda et surtout passionner de jeux video psn et wiiu : dodley xbox : kevinparent1",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 7797,
+        "follow_request_sent": false,
+        "followers_count": 220,
+        "following": false,
+        "friends_count": 201,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 28451230,
+        "id_str": "28451230",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "fr",
+        "listed_count": 13,
+        "location": "quebec",
+        "name": "kevin parent",
+        "notifications": false,
+        "profile_background_color": "ACDED6",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/28451230/1448248006",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/668626597247901700/Qdybnwp9_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/668626597247901700/Qdybnwp9_normal.jpg",
+        "profile_link_color": "038543",
+        "profile_sidebar_border_color": "EEEEEE",
+        "profile_sidebar_fill_color": "F6F6F6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "kevinparent1",
+        "statuses_count": 11958,
+        "time_zone": null,
+        "url": null,
+        "utc_offset": null,
+        "verified": false
+    }
+}

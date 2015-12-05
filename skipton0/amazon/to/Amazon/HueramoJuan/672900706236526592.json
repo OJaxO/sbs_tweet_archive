@@ -1,0 +1,124 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Dec 04 22:10:04 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 20793816,
+                "id_str": "20793816",
+                "indices": [
+                    0,
+                    7
+                ],
+                "name": "Amazon",
+                "screen_name": "amazon"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 672900706236526592,
+    "id_str": "672900706236526592",
+    "in_reply_to_screen_name": "amazon",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 20793816,
+    "in_reply_to_user_id_str": "20793816",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -91.51308,
+                        36.970298
+                    ],
+                    [
+                        -87.019935,
+                        36.970298
+                    ],
+                    [
+                        -87.019935,
+                        42.508303
+                    ],
+                    [
+                        -91.51308,
+                        42.508303
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Illinois, USA",
+        "id": "f54a2170ff4b15f7",
+        "name": "Illinois",
+        "place_type": "admin",
+        "url": "https://api.twitter.com/1.1/geo/id/f54a2170ff4b15f7.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@amazon GF Journal 3 does it have invisible ink messages? :(",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Sep 21 01:40:51 +0000 2015",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Awesome,Funny,Nicest person in the world!!!! Wants to be everyone's friend!!!!!",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 5,
+        "follow_request_sent": false,
+        "followers_count": 267,
+        "following": false,
+        "friends_count": 929,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 3632786414,
+        "id_str": "3632786414",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 2,
+        "location": "North Aurora, IL",
+        "name": "Juan Hueramo",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3632786414/1447557280",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/665729129342308356/7f4iOr7Z_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/665729129342308356/7f4iOr7Z_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "HueramoJuan",
+        "statuses_count": 20,
+        "time_zone": null,
+        "url": null,
+        "utc_offset": null,
+        "verified": false
+    }
+}

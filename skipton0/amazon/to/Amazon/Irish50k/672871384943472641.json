@@ -1,0 +1,124 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Dec 04 20:13:34 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 20793816,
+                "id_str": "20793816",
+                "indices": [
+                    0,
+                    7
+                ],
+                "name": "Amazon",
+                "screen_name": "amazon"
+            }
+        ]
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": null,
+    "id": 672871384943472641,
+    "id_str": "672871384943472641",
+    "in_reply_to_screen_name": "amazon",
+    "in_reply_to_status_id": 672870952649097216,
+    "in_reply_to_status_id_str": "672870952649097216",
+    "in_reply_to_user_id": 20793816,
+    "in_reply_to_user_id_str": "20793816",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -81.907176,
+                        41.089056
+                    ],
+                    [
+                        -81.774633,
+                        41.089056
+                    ],
+                    [
+                        -81.774633,
+                        41.215965
+                    ],
+                    [
+                        -81.907176,
+                        41.215965
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Medina, OH",
+        "id": "00eb8de9015a3185",
+        "name": "Medina",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/00eb8de9015a3185.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@amazon I only wear pants when I'm legally required to!",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Feb 14 05:45:17 +0000 2014",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Eagle Alumnus, Class of 1987.     Note:  Some tweets/retweets may not be kid friendly.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 1612,
+        "follow_request_sent": false,
+        "followers_count": 140,
+        "following": false,
+        "friends_count": 393,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 2343117756,
+        "id_str": "2343117756",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 2,
+        "location": "Chippewa Lake, Ohio 44215",
+        "name": "Pat Kennedy",
+        "notifications": false,
+        "profile_background_color": "D2EBC3",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2343117756/1440873471",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/665736460285444096/ueO5yAXu_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/665736460285444096/ueO5yAXu_normal.jpg",
+        "profile_link_color": "4A913C",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Irish50k",
+        "statuses_count": 1816,
+        "time_zone": null,
+        "url": null,
+        "utc_offset": null,
+        "verified": false
+    }
+}

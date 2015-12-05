@@ -1,0 +1,165 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Nov 26 11:45:41 +0000 2015",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    87,
+                    95
+                ],
+                "text": "ridefor"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 297169759,
+                "id_str": "297169759",
+                "indices": [
+                    0,
+                    14
+                ],
+                "name": "Samsung Mobile",
+                "screen_name": "SamsungMobile"
+            },
+            {
+                "id": 151081208,
+                "id_str": "151081208",
+                "indices": [
+                    15,
+                    25
+                ],
+                "name": "Samsung UK",
+                "screen_name": "SamsungUK"
+            },
+            {
+                "id": 3301875470,
+                "id_str": "3301875470",
+                "indices": [
+                    26,
+                    42
+                ],
+                "name": "RideFor",
+                "screen_name": "Samsung_Ridefor"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 669844469613772800,
+    "id_str": "669844469613772800",
+    "in_reply_to_screen_name": "SamsungMobile",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 297169759,
+    "in_reply_to_user_id_str": "297169759",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -0.336055,
+                        51.527592
+                    ],
+                    [
+                        -0.1902264,
+                        51.527592
+                    ],
+                    [
+                        -0.1902264,
+                        51.602799
+                    ],
+                    [
+                        -0.336055,
+                        51.602799
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United Kingdom",
+        "country_code": "GB",
+        "full_name": "Brent, London",
+        "id": "5524b796309058b5",
+        "name": "Brent",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/5524b796309058b5.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@SamsungMobile @SamsungUK @Samsung_Ridefor can you please get back to me regarding the #ridefor competition. I have emailed you the details",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Oct 12 10:18:06 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Leicester born & bred. Music video and short film director. Founder of @RedBeardMediaUK and writer/director of @ethelshortfilm",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "jonnywrightvideo.co.uk",
+                        "expanded_url": "http://www.jonnywrightvideo.co.uk",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/KcK9e22JGj"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 166,
+        "follow_request_sent": false,
+        "followers_count": 559,
+        "following": false,
+        "friends_count": 1108,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 389387718,
+        "id_str": "389387718",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 22,
+        "location": "London, UK",
+        "name": "Jonny Wright",
+        "notifications": false,
+        "profile_background_color": "022330",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/389387718/1402781117",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/477924862082973696/cG8qEQAz_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/477924862082973696/cG8qEQAz_normal.jpeg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "A8C7F7",
+        "profile_sidebar_fill_color": "C0DFEC",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Jonny_RedBeard",
+        "statuses_count": 1533,
+        "time_zone": "London",
+        "url": "http://t.co/KcK9e22JGj",
+        "utc_offset": 0,
+        "verified": false
+    }
+}

@@ -1,0 +1,145 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Dec 04 23:17:40 +0000 2015",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    8,
+                    26
+                ],
+                "text": "AmazonSweepstakes"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 20793816,
+                "id_str": "20793816",
+                "indices": [
+                    0,
+                    7
+                ],
+                "name": "Amazon",
+                "screen_name": "amazon"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 672917716983005184,
+    "id_str": "672917716983005184",
+    "in_reply_to_screen_name": "amazon",
+    "in_reply_to_status_id": 672777124604985344,
+    "in_reply_to_status_id_str": "672777124604985344",
+    "in_reply_to_user_id": 20793816,
+    "in_reply_to_user_id_str": "20793816",
+    "is_quote_status": false,
+    "lang": "und",
+    "metadata": {
+        "iso_language_code": "und",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -83.97498,
+                        43.538242
+                    ],
+                    [
+                        -83.842876,
+                        43.538242
+                    ],
+                    [
+                        -83.842876,
+                        43.696322
+                    ],
+                    [
+                        -83.97498,
+                        43.696322
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Bay City, MI",
+        "id": "0121f9435fdae948",
+        "name": "Bay City",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/0121f9435fdae948.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@amazon #AmazonSweepstakes",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Jul 11 23:10:06 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "twitter.com/champ_ion76",
+                        "expanded_url": "https://twitter.com/champ_ion76",
+                        "indices": [
+                            0,
+                            21
+                        ],
+                        "url": "https://t.co/vrtYVJxV"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 36418,
+        "follow_request_sent": false,
+        "followers_count": 1286,
+        "following": false,
+        "friends_count": 2586,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 165558599,
+        "id_str": "165558599",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 165,
+        "location": "",
+        "name": "Trisha",
+        "notifications": false,
+        "profile_background_color": "352726",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/670990644890988544/pF9Gs7XM.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/670990644890988544/pF9Gs7XM.jpg",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/165558599/1448811734",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/671113597301317632/PF49guzf_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/671113597301317632/PF49guzf_normal.jpg",
+        "profile_link_color": "D02B55",
+        "profile_sidebar_border_color": "CC3366",
+        "profile_sidebar_fill_color": "E5507E",
+        "profile_text_color": "362720",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "LoveTrishaXoXo",
+        "statuses_count": 87965,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "https://t.co/vrtYVJxV",
+        "utc_offset": -28800,
+        "verified": false
+    }
+}

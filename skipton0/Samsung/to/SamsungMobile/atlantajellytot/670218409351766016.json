@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Nov 27 12:31:35 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 297169759,
+                "id_str": "297169759",
+                "indices": [
+                    0,
+                    14
+                ],
+                "name": "Samsung Mobile",
+                "screen_name": "SamsungMobile"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 670218409351766016,
+    "id_str": "670218409351766016",
+    "in_reply_to_screen_name": "SamsungMobile",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 297169759,
+    "in_reply_to_user_id_str": "297169759",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -2.033651,
+                        52.381063
+                    ],
+                    [
+                        -1.74763,
+                        52.381063
+                    ],
+                    [
+                        -1.74763,
+                        52.60687
+                    ],
+                    [
+                        -2.033651,
+                        52.60687
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United Kingdom",
+        "country_code": "GB",
+        "full_name": "Birmingham, England",
+        "id": "53b67b1d1cc81a51",
+        "name": "Birmingham",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/53b67b1d1cc81a51.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@SamsungMobile is the shittiest company for phones. Not reliable at all and saying one thing and then changing it the next. \ud83d\udd95\ud83c\udffc\ud83d\udd95\ud83c\udffc\ud83d\udd95\ud83c\udffc\ud83d\udd95\ud83c\udffc",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Sep 21 17:12:53 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "I'm Welsh, but we all know what you really want to call me. #SheepShagger",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "Instagram.com/atlantajellytot",
+                        "expanded_url": "http://Instagram.com/atlantajellytot",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/NMmnI0FRWr"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 196,
+        "follow_request_sent": false,
+        "followers_count": 438,
+        "following": false,
+        "friends_count": 69,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 377486929,
+        "id_str": "377486929",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 2,
+        "location": "Streetly, England",
+        "name": "Atlanta Georgia May",
+        "notifications": false,
+        "profile_background_color": "DBE9ED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/377486929/1447152223",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/668159187814375424/zjMx_xrt_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/668159187814375424/zjMx_xrt_normal.jpg",
+        "profile_link_color": "CC3366",
+        "profile_sidebar_border_color": "DBE9ED",
+        "profile_sidebar_fill_color": "E6F6F9",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "atlantajellytot",
+        "statuses_count": 17876,
+        "time_zone": "London",
+        "url": "http://t.co/NMmnI0FRWr",
+        "utc_offset": 0,
+        "verified": false
+    }
+}
