@@ -1,0 +1,136 @@
+{
+    "contributors": null,
+    "coordinates": {
+        "coordinates": [
+            -90.53221168,
+            41.49986033
+        ],
+        "type": "Point"
+    },
+    "created_at": "Sat Dec 05 01:59:21 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 430158505,
+                "id_str": "430158505",
+                "indices": [
+                    0,
+                    8
+                ],
+                "name": "Ask eBay",
+                "screen_name": "AskeBay"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": {
+        "coordinates": [
+            41.49986033,
+            -90.53221168
+        ],
+        "type": "Point"
+    },
+    "id": 672958406446219264,
+    "id_str": "672958406446219264",
+    "in_reply_to_screen_name": "AskeBay",
+    "in_reply_to_status_id": 672936364296568835,
+    "in_reply_to_status_id_str": "672936364296568835",
+    "in_reply_to_user_id": 430158505,
+    "in_reply_to_user_id_str": "430158505",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -90.539878,
+                        41.455977
+                    ],
+                    [
+                        -90.431572,
+                        41.455977
+                    ],
+                    [
+                        -90.431572,
+                        41.518476
+                    ],
+                    [
+                        -90.539878,
+                        41.518476
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Moline, IL",
+        "id": "b8e37f613fedf510",
+        "name": "Moline",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/b8e37f613fedf510.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for i\u039fS</a>",
+    "text": "@AskeBay I used Safari to access the full site, and still never saw the edit pencil. I\u2019ll try again though.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Nov 01 22:35:38 +0000 2011",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Living the fandom life. LOVE The Walking Dead, Doctor Who & many more. Followed by a lot of great folks, some famous, some not. Join us! I have Jelly Babies!",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 22448,
+        "follow_request_sent": false,
+        "followers_count": 3814,
+        "following": false,
+        "friends_count": 3725,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 403028110,
+        "id_str": "403028110",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 49,
+        "location": "221b Gallifrey, Illinois ",
+        "name": "TimeLordBen",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/403028110/1384986729",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/567480800665272322/NFo1XKtr_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/567480800665272322/NFo1XKtr_normal.jpeg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "TimeLordBen",
+        "statuses_count": 30906,
+        "time_zone": "Central Time (US & Canada)",
+        "url": null,
+        "utc_offset": -21600,
+        "verified": false
+    }
+}
