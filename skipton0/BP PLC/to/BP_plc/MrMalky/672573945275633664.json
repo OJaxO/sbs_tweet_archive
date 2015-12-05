@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Dec 04 00:31:39 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 1648024394,
+                "id_str": "1648024394",
+                "indices": [
+                    0,
+                    7
+                ],
+                "name": "BP",
+                "screen_name": "BP_plc"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 672573945275633664,
+    "id_str": "672573945275633664",
+    "in_reply_to_screen_name": "BP_plc",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 1648024394,
+    "in_reply_to_user_id_str": "1648024394",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -2.1899763,
+                        57.107695
+                    ],
+                    [
+                        -2.0641046,
+                        57.107695
+                    ],
+                    [
+                        -2.0641046,
+                        57.2134174
+                    ],
+                    [
+                        -2.1899763,
+                        57.2134174
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United Kingdom",
+        "country_code": "GB",
+        "full_name": "Aberdeen, Scotland",
+        "id": "73cc26d418860ddd",
+        "name": "Aberdeen",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/73cc26d418860ddd.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@BP_plc You guys are involved in funding ISIL  - you've been trucking their stolen oil.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Aug 06 20:13:56 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Creator of the hashtag #ToryFeeders Used to vote Labour.If you're still up for Independence... I'm your dog",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "my.snp.org/join",
+                        "expanded_url": "https://my.snp.org/join",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/9DfWTEgmr7"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 49695,
+        "follow_request_sent": false,
+        "followers_count": 8975,
+        "following": false,
+        "friends_count": 7277,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 63528313,
+        "id_str": "63528313",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 114,
+        "location": "Aberdeenshire",
+        "name": "Mr Malky",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/63528313/1448842737",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/656595269107240962/fmh1ofBe_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/656595269107240962/fmh1ofBe_normal.jpg",
+        "profile_link_color": "DD2E44",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "MrMalky",
+        "statuses_count": 114860,
+        "time_zone": "London",
+        "url": "https://t.co/9DfWTEgmr7",
+        "utc_offset": 0,
+        "verified": false
+    }
+}

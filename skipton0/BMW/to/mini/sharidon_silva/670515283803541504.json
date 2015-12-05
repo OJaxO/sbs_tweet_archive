@@ -1,0 +1,178 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Nov 28 08:11:15 +0000 2015",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    6,
+                    15
+                ],
+                "text": "myminimo"
+            },
+            {
+                "indices": [
+                    16,
+                    29
+                ],
+                "text": "Movember2015"
+            }
+        ],
+        "media": [
+            {
+                "display_url": "pic.twitter.com/fOCyOsVBEL",
+                "expanded_url": "http://twitter.com/sharidon_silva/status/670515283803541504/photo/1",
+                "id": 670515260848128000,
+                "id_str": "670515260848128000",
+                "indices": [
+                    30,
+                    53
+                ],
+                "media_url": "http://pbs.twimg.com/media/CU4mE8NUwAA5rTC.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/CU4mE8NUwAA5rTC.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 1024,
+                        "resize": "fit",
+                        "w": 768
+                    },
+                    "medium": {
+                        "h": 800,
+                        "resize": "fit",
+                        "w": 600
+                    },
+                    "small": {
+                        "h": 453,
+                        "resize": "fit",
+                        "w": 340
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/fOCyOsVBEL"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 90368802,
+                "id_str": "90368802",
+                "indices": [
+                    0,
+                    5
+                ],
+                "name": "MINI",
+                "screen_name": "MINI"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 670515283803541504,
+    "id_str": "670515283803541504",
+    "in_reply_to_screen_name": "MINI",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 90368802,
+    "in_reply_to_user_id_str": "90368802",
+    "is_quote_status": false,
+    "lang": "und",
+    "metadata": {
+        "iso_language_code": "und",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        152.668522848,
+                        -27.767440994
+                    ],
+                    [
+                        153.31787024,
+                        -27.767440994
+                    ],
+                    [
+                        153.31787024,
+                        -26.996844991
+                    ],
+                    [
+                        152.668522848,
+                        -26.996844991
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "Australia",
+        "country_code": "AU",
+        "full_name": "Brisbane, Queensland",
+        "id": "004ec16c62325149",
+        "name": "Brisbane",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/004ec16c62325149.json"
+    },
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@MINI #myminimo #Movember2015 https://t.co/fOCyOsVBEL",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri May 04 13:38:58 +0000 2012",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Perioperative IT Consultant / Academic / sartorial evangelist / Novice Powerlifter",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 121,
+        "follow_request_sent": false,
+        "followers_count": 157,
+        "following": false,
+        "friends_count": 673,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 570841423,
+        "id_str": "570841423",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 13,
+        "location": "Brisbane",
+        "name": "Adam",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/570841423/1358991391",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/562057384655212544/j4oWrkZb_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/562057384655212544/j4oWrkZb_normal.jpeg",
+        "profile_link_color": "94D487",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "sharidon_silva",
+        "statuses_count": 290,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": null,
+        "utc_offset": -28800,
+        "verified": false
+    }
+}
