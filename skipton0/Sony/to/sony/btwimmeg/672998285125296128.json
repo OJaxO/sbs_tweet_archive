@@ -1,0 +1,124 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Dec 05 04:37:49 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 34442404,
+                "id_str": "34442404",
+                "indices": [
+                    0,
+                    5
+                ],
+                "name": "Sony",
+                "screen_name": "Sony"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 672998285125296128,
+    "id_str": "672998285125296128",
+    "in_reply_to_screen_name": "Sony",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 34442404,
+    "in_reply_to_user_id_str": "34442404",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -78.832497,
+                        42.948903
+                    ],
+                    [
+                        -78.696766,
+                        42.948903
+                    ],
+                    [
+                        -78.696766,
+                        43.06933
+                    ],
+                    [
+                        -78.832497,
+                        43.06933
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Amherst, NY",
+        "id": "7dabbf75534f6cee",
+        "name": "Amherst",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/7dabbf75534f6cee.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@Sony product, I can't watch the last Law &amp; Order SVU episode with Elliot Stabler on MY HULU account. So THANKS and I'll leave this here \ud83d\udd95\ud83c\udffc",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Feb 18 16:24:17 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "do you tell jokes to make people laugh, or to make people think youre funny? #Buffalo",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 12538,
+        "follow_request_sent": false,
+        "followers_count": 810,
+        "following": false,
+        "friends_count": 449,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 254108070,
+        "id_str": "254108070",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 2,
+        "location": "Buffalo",
+        "name": "MeganBarone",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/296837201/Rihanna-debuts-long-red-hair.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/296837201/Rihanna-debuts-long-red-hair.jpg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/254108070/1448499197",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/669680288293888002/cAy0VPGJ_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/669680288293888002/cAy0VPGJ_normal.jpg",
+        "profile_link_color": "F70ADB",
+        "profile_sidebar_border_color": "CF57FF",
+        "profile_sidebar_fill_color": "F5A6E5",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "btwimmeg",
+        "statuses_count": 19610,
+        "time_zone": "Atlantic Time (Canada)",
+        "url": null,
+        "utc_offset": -14400,
+        "verified": false
+    }
+}

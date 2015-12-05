@@ -1,0 +1,166 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Dec 04 12:49:11 +0000 2015",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    14,
+                    23
+                ],
+                "text": "capteurs"
+            }
+        ],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "feedproxy.google.com/~r/Frandroid/~\u2026",
+                "expanded_url": "http://feedproxy.google.com/~r/Frandroid/~3/-izQwfobpjY/327531_sony-et-les-capteurs-de-toshiba-un-mariage-a-142-millions-deuros",
+                "indices": [
+                    72,
+                    95
+                ],
+                "url": "https://t.co/GxwCMs6YPO"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 34442404,
+                "id_str": "34442404",
+                "indices": [
+                    0,
+                    5
+                ],
+                "name": "Sony",
+                "screen_name": "Sony"
+            },
+            {
+                "id": 17901295,
+                "id_str": "17901295",
+                "indices": [
+                    27,
+                    35
+                ],
+                "name": "Toshiba",
+                "screen_name": "toshiba"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 672759554208321536,
+    "id_str": "672759554208321536",
+    "in_reply_to_screen_name": "Sony",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 34442404,
+    "in_reply_to_user_id_str": "34442404",
+    "is_quote_status": false,
+    "lang": "fr",
+    "metadata": {
+        "iso_language_code": "fr",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -5.1415925,
+                        41.3646279
+                    ],
+                    [
+                        9.5598311,
+                        41.3646279
+                    ],
+                    [
+                        9.5598311,
+                        51.0887708
+                    ],
+                    [
+                        -5.1415925,
+                        51.0887708
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "France",
+        "country_code": "FR",
+        "full_name": "France",
+        "id": "f3bfc7dcc928977f",
+        "name": "France",
+        "place_type": "country",
+        "url": "https://api.twitter.com/1.1/geo/id/f3bfc7dcc928977f.json"
+    },
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@Sony  et les #capteurs de @toshiba , un mariage \u00e0 142 millions d\u2019euros https://t.co/GxwCMs6YPO",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Mar 01 12:03:17 +0000 2014",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Autoditacte, entrepreneur, consultant coach en d\u00e9veloppement d'affaires & strat\u00e9gies / dev durable, kiff la photo Sony \u00a9BvieW - D\u00e9fenseur France d'Outre-mer !",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "plus.google.com/u/0/1113276518\u2026",
+                        "expanded_url": "https://plus.google.com/u/0/111327651896919791024/posts",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/hT50N14BWh"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 666,
+        "follow_request_sent": false,
+        "followers_count": 97,
+        "following": false,
+        "friends_count": 237,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 2366978150,
+        "id_str": "2366978150",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "fr",
+        "listed_count": 49,
+        "location": "Ile-de-France - France (m\u00e9tro)",
+        "name": "Willy BOYE",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/571289870115409920/Vh9-Qa31.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/571289870115409920/Vh9-Qa31.jpeg",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2366978150/1446040271",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/646710738116059136/39NpFsuQ_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/646710738116059136/39NpFsuQ_normal.jpg",
+        "profile_link_color": "3B94D9",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "WillyBOYE",
+        "statuses_count": 1374,
+        "time_zone": "Paris",
+        "url": "https://t.co/hT50N14BWh",
+        "utc_offset": 3600,
+        "verified": false
+    }
+}
