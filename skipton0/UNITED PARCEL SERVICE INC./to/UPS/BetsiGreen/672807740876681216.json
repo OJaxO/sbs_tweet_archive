@@ -1,0 +1,181 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Dec 04 16:00:40 +0000 2015",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    94,
+                    99
+                ],
+                "text": "Fail"
+            }
+        ],
+        "media": [
+            {
+                "display_url": "pic.twitter.com/oRaXKhuhfN",
+                "expanded_url": "http://twitter.com/BetsiGreen/status/672807740876681216/photo/1",
+                "id": 672807726926323712,
+                "id_str": "672807726926323712",
+                "indices": [
+                    109,
+                    132
+                ],
+                "media_url": "http://pbs.twimg.com/media/CVZLEB2U4AACqfR.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/CVZLEB2U4AACqfR.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 1024,
+                        "resize": "fit",
+                        "w": 768
+                    },
+                    "medium": {
+                        "h": 800,
+                        "resize": "fit",
+                        "w": 600
+                    },
+                    "small": {
+                        "h": 453,
+                        "resize": "fit",
+                        "w": 340
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/oRaXKhuhfN"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 158129535,
+                "id_str": "158129535",
+                "indices": [
+                    0,
+                    4
+                ],
+                "name": "UPS",
+                "screen_name": "UPS"
+            },
+            {
+                "id": 271516607,
+                "id_str": "271516607",
+                "indices": [
+                    100,
+                    108
+                ],
+                "name": "UPS Customer Support",
+                "screen_name": "UPSHelp"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 672807740876681216,
+    "id_str": "672807740876681216",
+    "in_reply_to_screen_name": "UPS",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 158129535,
+    "in_reply_to_user_id_str": "158129535",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -83.353955,
+                        32.04683
+                    ],
+                    [
+                        -78.499301,
+                        32.04683
+                    ],
+                    [
+                        -78.499301,
+                        35.215449
+                    ],
+                    [
+                        -83.353955,
+                        35.215449
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "South Carolina, USA",
+        "id": "6057f1e35bcc6c20",
+        "name": "South Carolina",
+        "place_type": "admin",
+        "url": "https://api.twitter.com/1.1/geo/id/6057f1e35bcc6c20.json"
+    },
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@UPS is busy. I get that. \n\nNot able to get tracking answers on website, Live Chat or phone.\n\n#Fail\n@UPSHelp https://t.co/oRaXKhuhfN",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Apr 18 16:30:32 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "I do not want to purchase anything from you.  I don't want you to direct my life or tell me what to do.  I enjoy being a has-been. And yes, they call me Mean.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 674,
+        "follow_request_sent": false,
+        "followers_count": 439,
+        "following": false,
+        "friends_count": 532,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 32932812,
+        "id_str": "32932812",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 12,
+        "location": "East Coast",
+        "name": "Betsi Green",
+        "notifications": false,
+        "profile_background_color": "F5C83F",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000159252555/0XBbbqMk.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000159252555/0XBbbqMk.jpeg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/32932812/1433633047",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/629146004432924672/ZV64AWTO_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/629146004432924672/ZV64AWTO_normal.jpg",
+        "profile_link_color": "53115A",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "E3E2DE",
+        "profile_text_color": "468147",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "BetsiGreen",
+        "statuses_count": 7414,
+        "time_zone": "Eastern Time (US & Canada)",
+        "url": null,
+        "utc_offset": -18000,
+        "verified": false
+    }
+}
