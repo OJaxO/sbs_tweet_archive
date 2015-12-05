@@ -1,0 +1,190 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Nov 27 11:42:28 +0000 2015",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    32,
+                    37
+                ],
+                "text": "coal"
+            },
+            {
+                "indices": [
+                    102,
+                    108
+                ],
+                "text": "COP21"
+            },
+            {
+                "indices": [
+                    109,
+                    116
+                ],
+                "text": "energy"
+            }
+        ],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "bit.ly/1LD9NQD",
+                "expanded_url": "http://bit.ly/1LD9NQD",
+                "indices": [
+                    78,
+                    101
+                ],
+                "url": "https://t.co/Hjz65IiUSh"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 109224937,
+                "id_str": "109224937",
+                "indices": [
+                    0,
+                    9
+                ],
+                "name": "Unilever",
+                "screen_name": "Unilever"
+            },
+            {
+                "id": 87818409,
+                "id_str": "87818409",
+                "indices": [
+                    53,
+                    62
+                ],
+                "name": "The Guardian",
+                "screen_name": "guardian"
+            },
+            {
+                "id": 117027784,
+                "id_str": "117027784",
+                "indices": [
+                    63,
+                    77
+                ],
+                "name": "Greenhouse Team",
+                "screen_name": "Greenhouse_PR"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 670206047508910080,
+    "id_str": "670206047508910080",
+    "in_reply_to_screen_name": "Unilever",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 109224937,
+    "in_reply_to_user_id_str": "109224937",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -1.95729593780907,
+                        50.5746064789388
+                    ],
+                    [
+                        1.45178800018019,
+                        50.5746064789388
+                    ],
+                    [
+                        1.45178800018019,
+                        52.1962850088601
+                    ],
+                    [
+                        -1.95729593780907,
+                        52.1962850088601
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United Kingdom",
+        "country_code": "GB",
+        "full_name": "South East, England",
+        "id": "06168d1feda43857",
+        "name": "South East",
+        "place_type": "admin",
+        "url": "https://api.twitter.com/1.1/geo/id/06168d1feda43857.json"
+    },
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@unilever pledges to stop using #coal within 5 years @guardian @Greenhouse_PR https://t.co/Hjz65IiUSh #COP21 #energy",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Aug 22 13:19:02 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Online boutique for 'Gifts That Matter'....discover the world's best ethical products. #SBS winners 04/08/14 @Jacqueline_Gold #WOW winner",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "yourssustainably.com",
+                        "expanded_url": "http://www.yourssustainably.com",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/iTK4IGH8cA"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 733,
+        "follow_request_sent": false,
+        "followers_count": 3190,
+        "following": false,
+        "friends_count": 2311,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 359959450,
+        "id_str": "359959450",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 168,
+        "location": "UK",
+        "name": "Yours Sustainably",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/317794509/twitter_background.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/317794509/twitter_background.jpg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/359959450/1441986298",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/2185393558/new_logo_small_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/2185393558/new_logo_small_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "YsSustainably",
+        "statuses_count": 13050,
+        "time_zone": "London",
+        "url": "http://t.co/iTK4IGH8cA",
+        "utc_offset": 0,
+        "verified": false
+    }
+}

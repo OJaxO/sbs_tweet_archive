@@ -1,0 +1,269 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Dec 02 16:51:21 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/KhaledSnapchat\u2026",
+                "expanded_url": "https://twitter.com/KhaledSnapchat/status/672094281507594242",
+                "indices": [
+                    17,
+                    40
+                ],
+                "url": "https://t.co/Xkzsmp7A9Z"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 109224937,
+                "id_str": "109224937",
+                "indices": [
+                    0,
+                    9
+                ],
+                "name": "Unilever",
+                "screen_name": "Unilever"
+            },
+            {
+                "id": 92294003,
+                "id_str": "92294003",
+                "indices": [
+                    10,
+                    15
+                ],
+                "name": "Dove",
+                "screen_name": "Dove"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 672095719235416064,
+    "id_str": "672095719235416064",
+    "in_reply_to_screen_name": "Unilever",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 109224937,
+    "in_reply_to_user_id_str": "109224937",
+    "is_quote_status": true,
+    "lang": "und",
+    "metadata": {
+        "iso_language_code": "und",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -90.310298,
+                        34.982924
+                    ],
+                    [
+                        -81.646901,
+                        34.982924
+                    ],
+                    [
+                        -81.646901,
+                        36.678119
+                    ],
+                    [
+                        -90.310298,
+                        36.678119
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Tennessee, USA",
+        "id": "7f7d58e5229c6b6c",
+        "name": "Tennessee",
+        "place_type": "admin",
+        "url": "https://api.twitter.com/1.1/geo/id/7f7d58e5229c6b6c.json"
+    },
+    "possibly_sensitive": false,
+    "quoted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Wed Dec 02 16:45:38 +0000 2015",
+        "entities": {
+            "hashtags": [],
+            "media": [
+                {
+                    "display_url": "pic.twitter.com/UHzVN4CtEE",
+                    "expanded_url": "http://twitter.com/NextEscobar/status/671382105335705601/video/1",
+                    "id": 671382029582385152,
+                    "id_str": "671382029582385152",
+                    "indices": [
+                        0,
+                        23
+                    ],
+                    "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/671382029582385152/pu/img/4N8OzZzpOR8ANQnR.jpg",
+                    "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/671382029582385152/pu/img/4N8OzZzpOR8ANQnR.jpg",
+                    "sizes": {
+                        "large": {
+                            "h": 640,
+                            "resize": "fit",
+                            "w": 360
+                        },
+                        "medium": {
+                            "h": 640,
+                            "resize": "fit",
+                            "w": 360
+                        },
+                        "small": {
+                            "h": 604,
+                            "resize": "fit",
+                            "w": 340
+                        },
+                        "thumb": {
+                            "h": 150,
+                            "resize": "crop",
+                            "w": 150
+                        }
+                    },
+                    "source_status_id": 671382105335705601,
+                    "source_status_id_str": "671382105335705601",
+                    "source_user_id": 2792602910,
+                    "source_user_id_str": "2792602910",
+                    "type": "photo",
+                    "url": "https://t.co/UHzVN4CtEE"
+                }
+            ],
+            "symbols": [],
+            "urls": [],
+            "user_mentions": []
+        },
+        "favorite_count": 1392,
+        "favorited": false,
+        "geo": null,
+        "id": 672094281507594242,
+        "id_str": "672094281507594242",
+        "in_reply_to_screen_name": null,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "is_quote_status": false,
+        "lang": "und",
+        "metadata": {
+            "iso_language_code": "und",
+            "result_type": "recent"
+        },
+        "place": null,
+        "possibly_sensitive": false,
+        "retweet_count": 1726,
+        "retweeted": false,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": "https://t.co/UHzVN4CtEE",
+        "truncated": false,
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Fri Sep 18 02:18:54 +0000 2015",
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "Follow for keys to success. (His Snapchat is: djkhaled305)",
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "favourites_count": 0,
+            "follow_request_sent": false,
+            "followers_count": 25241,
+            "following": false,
+            "friends_count": 1,
+            "geo_enabled": false,
+            "has_extended_profile": false,
+            "id": 3600217518,
+            "id_str": "3600217518",
+            "is_translation_enabled": false,
+            "is_translator": false,
+            "lang": "en",
+            "listed_count": 16,
+            "location": "",
+            "name": "DJ Khaled's Snapchat",
+            "notifications": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/671828716897472512/Z8boI8Ko_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/671828716897472512/Z8boI8Ko_normal.jpg",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "KhaledSnapchat",
+            "statuses_count": 39,
+            "time_zone": "Pacific Time (US & Canada)",
+            "url": null,
+            "utc_offset": -28800,
+            "verified": false
+        }
+    },
+    "quoted_status_id": 672094281507594242,
+    "quoted_status_id_str": "672094281507594242",
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@Unilever @Dove  https://t.co/Xkzsmp7A9Z",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Aug 26 12:02:56 +0000 2010",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "2005 Tennessee Graduate/ Children's rights volunteer and advocate/ Salesman turned writer promoted to supervisor/ Moving to Kennesaw in a few weeks",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 19961,
+        "follow_request_sent": false,
+        "followers_count": 993,
+        "following": false,
+        "friends_count": 1720,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 183203122,
+        "id_str": "183203122",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 14,
+        "location": "Beale Street, Memphis",
+        "name": "Notorious NIC",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/183203122/1441810193",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/641624577030926338/vW_shmUP_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/641624577030926338/vW_shmUP_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "the7maxims",
+        "statuses_count": 23390,
+        "time_zone": "Eastern Time (US & Canada)",
+        "url": null,
+        "utc_offset": -18000,
+        "verified": false
+    }
+}
