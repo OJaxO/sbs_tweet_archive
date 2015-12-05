@@ -1,0 +1,124 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 01 14:49:32 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 1567914936,
+                "id_str": "1567914936",
+                "indices": [
+                    0,
+                    15
+                ],
+                "name": "Vodafone UK Help",
+                "screen_name": "VodafoneUKhelp"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 671702677806542849,
+    "id_str": "671702677806542849",
+    "in_reply_to_screen_name": "VodafoneUKhelp",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 1567914936,
+    "in_reply_to_user_id_str": "1567914936",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -1.015746,
+                        50.836999
+                    ],
+                    [
+                        -0.960045,
+                        50.836999
+                    ],
+                    [
+                        -0.960045,
+                        50.879678
+                    ],
+                    [
+                        -1.015746,
+                        50.879678
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United Kingdom",
+        "country_code": "GB",
+        "full_name": "Havant, England",
+        "id": "20a3425add9afe88",
+        "name": "Havant",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/20a3425add9afe88.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@VodafoneUKhelp I have no signal what so ever,  but I've paid my bill",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Apr 07 10:07:30 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "I Love making Lists, writing, reading and more lists. Happily married and enjoying being a new mum. Work In Marketing, Studying OU #literature #A230",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 277,
+        "follow_request_sent": false,
+        "followers_count": 546,
+        "following": false,
+        "friends_count": 733,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 130453933,
+        "id_str": "130453933",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 3,
+        "location": "In My Dreams ",
+        "name": "Mrs Gosney",
+        "notifications": false,
+        "profile_background_color": "EDECE9",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/130453933/1357668937",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/646771382039089152/wFJnyVVr_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/646771382039089152/wFJnyVVr_normal.jpg",
+        "profile_link_color": "088253",
+        "profile_sidebar_border_color": "D3D2CF",
+        "profile_sidebar_fill_color": "E3E2DE",
+        "profile_text_color": "634047",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "MrsAGosney",
+        "statuses_count": 8441,
+        "time_zone": "London",
+        "url": null,
+        "utc_offset": 0,
+        "verified": false
+    }
+}

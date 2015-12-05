@@ -1,0 +1,124 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Dec 04 08:04:38 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 1567914936,
+                "id_str": "1567914936",
+                "indices": [
+                    0,
+                    15
+                ],
+                "name": "Vodafone UK Help",
+                "screen_name": "VodafoneUKhelp"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 672687945883787264,
+    "id_str": "672687945883787264",
+    "in_reply_to_screen_name": "VodafoneUKhelp",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 1567914936,
+    "in_reply_to_user_id_str": "1567914936",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -3.64063699761414,
+                        52.9471313094526
+                    ],
+                    [
+                        -1.90962598338825,
+                        52.9471313094526
+                    ],
+                    [
+                        -1.90962598338825,
+                        55.1888787527094
+                    ],
+                    [
+                        -3.64063699761414,
+                        55.1888787527094
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United Kingdom",
+        "country_code": "GB",
+        "full_name": "North West, England",
+        "id": "0cbfb5dccb8131b8",
+        "name": "North West",
+        "place_type": "admin",
+        "url": "https://api.twitter.com/1.1/geo/id/0cbfb5dccb8131b8.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@VodafoneUKhelp ive tried contact you twice and spoken to three of your colleagues. No one has sorted out me being charged for Spotify!",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Jun 19 20:37:52 +0000 2013",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "A Wigan Athletic fan, cricket fan, enjoy rock/metal music, reading, writing and going to gigs. U7s Coach at Wigan Junior Latics.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 2146,
+        "follow_request_sent": false,
+        "followers_count": 321,
+        "following": false,
+        "friends_count": 1028,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 1531959817,
+        "id_str": "1531959817",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 4,
+        "location": "Wigan",
+        "name": "Toni",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1531959817/1449051819",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/644391291581825024/o0J3fM4J_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/644391291581825024/o0J3fM4J_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "atruelatic",
+        "statuses_count": 3777,
+        "time_zone": null,
+        "url": null,
+        "utc_offset": null,
+        "verified": false
+    }
+}

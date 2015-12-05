@@ -1,0 +1,124 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Dec 02 20:39:40 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 1567914936,
+                "id_str": "1567914936",
+                "indices": [
+                    0,
+                    15
+                ],
+                "name": "Vodafone UK Help",
+                "screen_name": "VodafoneUKhelp"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 672153180491358209,
+    "id_str": "672153180491358209",
+    "in_reply_to_screen_name": "VodafoneUKhelp",
+    "in_reply_to_status_id": 672152788491743233,
+    "in_reply_to_status_id_str": "672152788491743233",
+    "in_reply_to_user_id": 1567914936,
+    "in_reply_to_user_id_str": "1567914936",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -1.57534,
+                        50.743174
+                    ],
+                    [
+                        -1.525807,
+                        50.743174
+                    ],
+                    [
+                        -1.525807,
+                        50.776249
+                    ],
+                    [
+                        -1.57534,
+                        50.776249
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United Kingdom",
+        "country_code": "GB",
+        "full_name": "Lymington, England",
+        "id": "7c9c234d2cbd0fae",
+        "name": "Lymington",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/7c9c234d2cbd0fae.json"
+    },
+    "retweet_count": 1,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@VodafoneUKhelp Can't answer me can't you. Time to leave Vodafone.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Feb 04 12:10:58 +0000 2014",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Man on the Island across the sea.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 1045,
+        "follow_request_sent": false,
+        "followers_count": 285,
+        "following": false,
+        "friends_count": 652,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 2323821927,
+        "id_str": "2323821927",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 6,
+        "location": "Ryde, Isle of Wight",
+        "name": "Peter",
+        "notifications": false,
+        "profile_background_color": "0099B9",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2323821927/1421402123",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/619599483836452864/EIbn6-xw_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/619599483836452864/EIbn6-xw_normal.jpg",
+        "profile_link_color": "0099B9",
+        "profile_sidebar_border_color": "5ED4DC",
+        "profile_sidebar_fill_color": "95E8EC",
+        "profile_text_color": "3C3940",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "herguestridge",
+        "statuses_count": 7799,
+        "time_zone": null,
+        "url": null,
+        "utc_offset": null,
+        "verified": false
+    }
+}
