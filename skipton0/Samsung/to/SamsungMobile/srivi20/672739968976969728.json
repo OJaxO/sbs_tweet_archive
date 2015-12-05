@@ -1,0 +1,289 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Dec 04 11:31:22 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/appleinsider/s\u2026",
+                "expanded_url": "https://twitter.com/appleinsider/status/672706310559817728",
+                "indices": [
+                    54,
+                    77
+                ],
+                "url": "https://t.co/dEnZWMwGmK"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 297169759,
+                "id_str": "297169759",
+                "indices": [
+                    0,
+                    14
+                ],
+                "name": "Samsung Mobile",
+                "screen_name": "SamsungMobile"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 672739968976969728,
+    "id_str": "672739968976969728",
+    "in_reply_to_screen_name": "SamsungMobile",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 297169759,
+    "in_reply_to_user_id_str": "297169759",
+    "is_quote_status": true,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        77.3305776,
+                        12.731936
+                    ],
+                    [
+                        77.7863188,
+                        12.731936
+                    ],
+                    [
+                        77.7863188,
+                        13.1142933
+                    ],
+                    [
+                        77.3305776,
+                        13.1142933
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "India",
+        "country_code": "IN",
+        "full_name": "Bengaluru South, Karnataka",
+        "id": "5f55bb82cf16ac81",
+        "name": "Bengaluru South",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/5f55bb82cf16ac81.json"
+    },
+    "possibly_sensitive": false,
+    "quoted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Fri Dec 04 09:17:37 +0000 2015",
+        "entities": {
+            "hashtags": [],
+            "media": [
+                {
+                    "display_url": "pic.twitter.com/aUbLhIanhh",
+                    "expanded_url": "http://twitter.com/appleinsider/status/672706310559817728/photo/1",
+                    "id": 672706310484312066,
+                    "id_str": "672706310484312066",
+                    "indices": [
+                        72,
+                        95
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/CVXu00KUwAIsO9p.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/CVXu00KUwAIsO9p.jpg",
+                    "sizes": {
+                        "large": {
+                            "h": 413,
+                            "resize": "fit",
+                            "w": 660
+                        },
+                        "medium": {
+                            "h": 375,
+                            "resize": "fit",
+                            "w": 600
+                        },
+                        "small": {
+                            "h": 212,
+                            "resize": "fit",
+                            "w": 340
+                        },
+                        "thumb": {
+                            "h": 150,
+                            "resize": "crop",
+                            "w": 150
+                        }
+                    },
+                    "type": "photo",
+                    "url": "https://t.co/aUbLhIanhh"
+                }
+            ],
+            "symbols": [],
+            "urls": [
+                {
+                    "display_url": "ainsdr.co/1NuE712",
+                    "expanded_url": "http://ainsdr.co/1NuE712",
+                    "indices": [
+                        48,
+                        71
+                    ],
+                    "url": "https://t.co/phWvtNEFTh"
+                }
+            ],
+            "user_mentions": []
+        },
+        "favorite_count": 49,
+        "favorited": false,
+        "geo": null,
+        "id": 672706310559817728,
+        "id_str": "672706310559817728",
+        "in_reply_to_screen_name": null,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "is_quote_status": false,
+        "lang": "en",
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "place": null,
+        "possibly_sensitive": false,
+        "retweet_count": 86,
+        "retweeted": false,
+        "source": "<a href=\"http://dlvr.it\" rel=\"nofollow\">dlvr.it</a>",
+        "text": "Samsung agrees to pay Apple $548M in patent row https://t.co/phWvtNEFTh https://t.co/aUbLhIanhh",
+        "truncated": false,
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Tue Feb 10 20:27:09 +0000 2009",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "In-depth Apple news, analysis, reviews, how-tos and more since 1997. Like us on Facebook at: http://t.co/4sonFyLhfu",
+            "entities": {
+                "description": {
+                    "urls": [
+                        {
+                            "display_url": "facebook.com/appleinsiderdo\u2026",
+                            "expanded_url": "http://facebook.com/appleinsiderdotcom",
+                            "indices": [
+                                93,
+                                115
+                            ],
+                            "url": "http://t.co/4sonFyLhfu"
+                        }
+                    ]
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "appleinsider.com",
+                            "expanded_url": "http://www.appleinsider.com",
+                            "indices": [
+                                0,
+                                22
+                            ],
+                            "url": "http://t.co/md1VnraJc5"
+                        }
+                    ]
+                }
+            },
+            "favourites_count": 985,
+            "follow_request_sent": false,
+            "followers_count": 231339,
+            "following": false,
+            "friends_count": 9,
+            "geo_enabled": true,
+            "has_extended_profile": false,
+            "id": 20542450,
+            "id_str": "20542450",
+            "is_translation_enabled": false,
+            "is_translator": false,
+            "lang": "en",
+            "listed_count": 9419,
+            "location": "Cupertino, California",
+            "name": "AppleInsider",
+            "notifications": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/20542450/1436810030",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/563064706462535680/h1p6ZJ7V_normal.jpeg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/563064706462535680/h1p6ZJ7V_normal.jpeg",
+            "profile_link_color": "4A535A",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "protected": false,
+            "screen_name": "appleinsider",
+            "statuses_count": 22910,
+            "time_zone": "Central Time (US & Canada)",
+            "url": "http://t.co/md1VnraJc5",
+            "utc_offset": -21600,
+            "verified": false
+        }
+    },
+    "quoted_status_id": 672706310559817728,
+    "quoted_status_id_str": "672706310559817728",
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@SamsungMobile forget cash, do u have any shame left? https://t.co/dEnZWMwGmK",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Aug 28 09:49:36 +0000 2012",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "tech freak, social media bug, Christite & journalist in the making...",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 569,
+        "follow_request_sent": false,
+        "followers_count": 95,
+        "following": false,
+        "friends_count": 118,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 786651853,
+        "id_str": "786651853",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 11,
+        "location": "Bangalore",
+        "name": "$\u20b9\u00a1V@T$ L@K$#M@N",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/786651853/1439565870",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/668137628349411331/7AOEt0gE_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/668137628349411331/7AOEt0gE_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "srivi20",
+        "statuses_count": 2858,
+        "time_zone": null,
+        "url": null,
+        "utc_offset": null,
+        "verified": false
+    }
+}

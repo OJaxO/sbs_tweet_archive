@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Dec 04 15:12:55 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 297169759,
+                "id_str": "297169759",
+                "indices": [
+                    0,
+                    14
+                ],
+                "name": "Samsung Mobile",
+                "screen_name": "SamsungMobile"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 672795724581634049,
+    "id_str": "672795724581634049",
+    "in_reply_to_screen_name": "SamsungMobile",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 297169759,
+    "in_reply_to_user_id_str": "297169759",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -0.2925791,
+                        51.555179
+                    ],
+                    [
+                        -0.12921,
+                        51.555179
+                    ],
+                    [
+                        -0.12921,
+                        51.6685903
+                    ],
+                    [
+                        -0.2925791,
+                        51.6685903
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United Kingdom",
+        "country_code": "GB",
+        "full_name": "Barnet, London",
+        "id": "7ef79c5ab17d518c",
+        "name": "Barnet",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/7ef79c5ab17d518c.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@SamsungMobile You guys should just hire me for my creative and innovative ideas... Look now you owe Apple $548 (According to the internet)",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Sep 30 20:46:52 +0000 2008",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "#AdvancedGenetics #Taurus #Photographer #TechGuy",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "wavecult.co.uk",
+                        "expanded_url": "http://www.wavecult.co.uk",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/X6uWwzAjzU"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 88,
+        "follow_request_sent": false,
+        "followers_count": 248,
+        "following": false,
+        "friends_count": 401,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 16534455,
+        "id_str": "16534455",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 2,
+        "location": "NW6 of course ",
+        "name": "MR.RE",
+        "notifications": false,
+        "profile_background_color": "3B3B3B",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/837282006/635a816c87df5c5771e33c07722269bf.png",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/837282006/635a816c87df5c5771e33c07722269bf.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/16534455/1385365398",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/672796465488621568/SKRWZ3gP_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/672796465488621568/SKRWZ3gP_normal.jpg",
+        "profile_link_color": "630000",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "4A4A4A",
+        "profile_text_color": "FFFFFF",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "elmonw6",
+        "statuses_count": 11301,
+        "time_zone": "London",
+        "url": "https://t.co/X6uWwzAjzU",
+        "utc_offset": 0,
+        "verified": false
+    }
+}

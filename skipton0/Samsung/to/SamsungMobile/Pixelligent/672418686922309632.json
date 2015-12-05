@@ -1,0 +1,190 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Dec 03 14:14:42 +0000 2015",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    39,
+                    46
+                ],
+                "text": "Galaxy"
+            },
+            {
+                "indices": [
+                    83,
+                    88
+                ],
+                "text": "OLED"
+            },
+            {
+                "indices": [
+                    89,
+                    97
+                ],
+                "text": "Display"
+            }
+        ],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "bit.ly/1N5uLtt",
+                "expanded_url": "http://bit.ly/1N5uLtt",
+                "indices": [
+                    112,
+                    135
+                ],
+                "url": "https://t.co/7WXc7Yo1UY"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 297169759,
+                "id_str": "297169759",
+                "indices": [
+                    0,
+                    14
+                ],
+                "name": "Samsung Mobile",
+                "screen_name": "SamsungMobile"
+            },
+            {
+                "id": 25478614,
+                "id_str": "25478614",
+                "indices": [
+                    102,
+                    111
+                ],
+                "name": "OLED-Info",
+                "screen_name": "oledinfo"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 672418686922309632,
+    "id_str": "672418686922309632",
+    "in_reply_to_screen_name": "SamsungMobile",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 297169759,
+    "in_reply_to_user_id_str": "297169759",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -76.711517,
+                        39.197211
+                    ],
+                    [
+                        -76.529388,
+                        39.197211
+                    ],
+                    [
+                        -76.529388,
+                        39.372215
+                    ],
+                    [
+                        -76.711517,
+                        39.372215
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Baltimore, MD",
+        "id": "c0b8e8dc81930292",
+        "name": "Baltimore",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/c0b8e8dc81930292.json"
+    },
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@SamsungMobile has announced three new #Galaxy smartphones, all using Super AMOLED #OLED #Display via @oledinfo https://t.co/7WXc7Yo1UY",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Mar 18 18:45:49 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Producers of Pix Clear(R) world leading Hi-Index nanocrystal dispersions for LED & OLED lighting and flexible display applications. Jobs:http://t.co/yBSSW8irkU",
+        "entities": {
+            "description": {
+                "urls": [
+                    {
+                        "display_url": "goo.gl/0i3m8V",
+                        "expanded_url": "http://goo.gl/0i3m8V",
+                        "indices": [
+                            137,
+                            159
+                        ],
+                        "url": "http://t.co/yBSSW8irkU"
+                    }
+                ]
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "pixelligent.com",
+                        "expanded_url": "http://www.pixelligent.com",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/mmyrXWy1KG"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 54,
+        "follow_request_sent": false,
+        "followers_count": 280,
+        "following": false,
+        "friends_count": 458,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 25126278,
+        "id_str": "25126278",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 17,
+        "location": "Baltimore, MD",
+        "name": "Pixelligent",
+        "notifications": false,
+        "profile_background_color": "2F2675",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000096722559/39d3c6ccfd63ed2c7097a7d107472502.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000096722559/39d3c6ccfd63ed2c7097a7d107472502.jpeg",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/25126278/1382044693",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/378800000610467475/19f988a0b05422675f053481420ab5e3_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000610467475/19f988a0b05422675f053481420ab5e3_normal.jpeg",
+        "profile_link_color": "1F98C7",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DAECF4",
+        "profile_text_color": "663B12",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Pixelligent",
+        "statuses_count": 410,
+        "time_zone": "Eastern Time (US & Canada)",
+        "url": "http://t.co/mmyrXWy1KG",
+        "utc_offset": -18000,
+        "verified": false
+    }
+}
