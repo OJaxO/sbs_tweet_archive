@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Dec 03 19:11:25 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 18768513,
+                "id_str": "18768513",
+                "indices": [
+                    0,
+                    15
+                ],
+                "name": "Samsung Support USA",
+                "screen_name": "SamsungSupport"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 672493356698566656,
+    "id_str": "672493356698566656",
+    "in_reply_to_screen_name": "SamsungSupport",
+    "in_reply_to_status_id": 672492733660012544,
+    "in_reply_to_status_id_str": "672492733660012544",
+    "in_reply_to_user_id": 18768513,
+    "in_reply_to_user_id_str": "18768513",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -105.109815,
+                        39.614151
+                    ],
+                    [
+                        -104.734372,
+                        39.614151
+                    ],
+                    [
+                        -104.734372,
+                        39.812975
+                    ],
+                    [
+                        -105.109815,
+                        39.812975
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Denver, CO",
+        "id": "b49b3053b5c25bf5",
+        "name": "Denver",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/b49b3053b5c25bf5.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@SamsungSupport Every few messages from different people I recieve a text twice (DM me for screenshots)",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Sep 20 15:26:31 +0000 2012",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Love creating music and Digital Art is my passion. I am an Artist.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "on.fb.me/1fJWbcp",
+                        "expanded_url": "http://on.fb.me/1fJWbcp",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/KWJXAqrKTa"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 122,
+        "follow_request_sent": false,
+        "followers_count": 573,
+        "following": false,
+        "friends_count": 517,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 835798549,
+        "id_str": "835798549",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 7,
+        "location": "USA",
+        "name": "Lyle Baer",
+        "notifications": false,
+        "profile_background_color": "A30B0B",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/890004305/81bbf78613394e3b58d2bc19be823bfa.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/890004305/81bbf78613394e3b58d2bc19be823bfa.jpeg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/835798549/1364784177",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/441637801268752384/caRhODtl_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/441637801268752384/caRhODtl_normal.jpeg",
+        "profile_link_color": "115F9E",
+        "profile_sidebar_border_color": "010101",
+        "profile_sidebar_fill_color": "4E0A80",
+        "profile_text_color": "D53529",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Reabelyl",
+        "statuses_count": 1477,
+        "time_zone": "Mountain Time (US & Canada)",
+        "url": "http://t.co/KWJXAqrKTa",
+        "utc_offset": -25200,
+        "verified": false
+    }
+}

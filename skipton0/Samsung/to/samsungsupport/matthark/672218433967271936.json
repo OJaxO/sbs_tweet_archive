@@ -1,0 +1,124 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Dec 03 00:58:58 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 18768513,
+                "id_str": "18768513",
+                "indices": [
+                    0,
+                    15
+                ],
+                "name": "Samsung Support USA",
+                "screen_name": "SamsungSupport"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 672218433967271936,
+    "id_str": "672218433967271936",
+    "in_reply_to_screen_name": "SamsungSupport",
+    "in_reply_to_status_id": 672209130799693825,
+    "in_reply_to_status_id_str": "672209130799693825",
+    "in_reply_to_user_id": 18768513,
+    "in_reply_to_user_id_str": "18768513",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -82.950022,
+                        39.9474261
+                    ],
+                    [
+                        -82.922776,
+                        39.9474261
+                    ],
+                    [
+                        -82.922776,
+                        39.982287
+                    ],
+                    [
+                        -82.950022,
+                        39.982287
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Bexley, OH",
+        "id": "d85013da290a04e7",
+        "name": "Bexley",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/d85013da290a04e7.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@SamsungSupport Yea tried multiple sources and hdmi cables.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Apr 05 00:36:42 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Go-go gadget brain!",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 1659,
+        "follow_request_sent": false,
+        "followers_count": 255,
+        "following": false,
+        "friends_count": 208,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 28904647,
+        "id_str": "28904647",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 9,
+        "location": "Columbus, Ohio",
+        "name": "Matt H",
+        "notifications": false,
+        "profile_background_color": "D3D6E3",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/70008265/Penny131.JPG",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/70008265/Penny131.JPG",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/28904647/1354567457",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/577210148084527104/wyN3VfcL_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/577210148084527104/wyN3VfcL_normal.jpg",
+        "profile_link_color": "672096",
+        "profile_sidebar_border_color": "181A1E",
+        "profile_sidebar_fill_color": "C99B57",
+        "profile_text_color": "332D33",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "matthark",
+        "statuses_count": 16492,
+        "time_zone": "Quito",
+        "url": null,
+        "utc_offset": -18000,
+        "verified": false
+    }
+}
