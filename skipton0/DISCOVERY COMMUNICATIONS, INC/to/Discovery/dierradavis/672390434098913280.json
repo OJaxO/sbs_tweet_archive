@@ -1,0 +1,124 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Dec 03 12:22:26 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 17842366,
+                "id_str": "17842366",
+                "indices": [
+                    0,
+                    10
+                ],
+                "name": "Discovery",
+                "screen_name": "Discovery"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 672390434098913280,
+    "id_str": "672390434098913280",
+    "in_reply_to_screen_name": "Discovery",
+    "in_reply_to_status_id": 672114738248073216,
+    "in_reply_to_status_id_str": "672114738248073216",
+    "in_reply_to_user_id": 17842366,
+    "in_reply_to_user_id_str": "17842366",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -81.046876,
+                        35.001706
+                    ],
+                    [
+                        -80.646695,
+                        35.001706
+                    ],
+                    [
+                        -80.646695,
+                        35.416412
+                    ],
+                    [
+                        -81.046876,
+                        35.416412
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Charlotte, NC",
+        "id": "512a8a4a4c4b4be0",
+        "name": "Charlotte",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/512a8a4a4c4b4be0.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@Discovery I want to meet this guy",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Apr 17 02:08:02 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "If you have good thoughts, they will shine out of your face like sun beams and you will always look lovely \u2728 Directions USA \u2728 (It's like Sierra, but with a D)",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 15827,
+        "follow_request_sent": false,
+        "followers_count": 3086,
+        "following": false,
+        "friends_count": 2002,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 283319398,
+        "id_str": "283319398",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 5,
+        "location": "\u2741 Charlotte NC \u2741",
+        "name": "Dierra \u2741",
+        "notifications": false,
+        "profile_background_color": "E6D26E",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/891183211/52af161feebf5fde2f990f1aa6f93582.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/891183211/52af161feebf5fde2f990f1aa6f93582.jpeg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/283319398/1448408341",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/669299443112525824/IB-dd-33_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/669299443112525824/IB-dd-33_normal.jpg",
+        "profile_link_color": "ED6B66",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "dierradavis",
+        "statuses_count": 39345,
+        "time_zone": "Quito",
+        "url": null,
+        "utc_offset": -18000,
+        "verified": false
+    }
+}

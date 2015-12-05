@@ -1,0 +1,139 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Dec 03 04:06:18 +0000 2015",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    24,
+                    41
+                ],
+                "text": "RacingExtinction"
+            },
+            {
+                "indices": [
+                    121,
+                    137
+                ],
+                "text": "StartWith1Thing"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 17842366,
+                "id_str": "17842366",
+                "indices": [
+                    0,
+                    10
+                ],
+                "name": "Discovery",
+                "screen_name": "Discovery"
+            }
+        ]
+    },
+    "favorite_count": 2,
+    "favorited": false,
+    "geo": null,
+    "id": 672265576719458304,
+    "id_str": "672265576719458304",
+    "in_reply_to_screen_name": "Discovery",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 17842366,
+    "in_reply_to_user_id_str": "17842366",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -84.524565,
+                        38.985365
+                    ],
+                    [
+                        -84.458827,
+                        38.985365
+                    ],
+                    [
+                        -84.458827,
+                        39.0407163
+                    ],
+                    [
+                        -84.524565,
+                        39.0407163
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Taylor Mill, KY",
+        "id": "1b1a9aa55e0023bc",
+        "name": "Taylor Mill",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/1b1a9aa55e0023bc.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@Discovery Just watched #RacingExtinction  &amp; was SO moved! Thank you! Wish I could share more! Going to website too. #StartWith1Thing",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue May 19 18:34:36 +0000 2015",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "I love my family, laughter, life, and the Lord!  Nobody is perfect, and we all need love and laughs. God Bless!",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 4848,
+        "follow_request_sent": false,
+        "followers_count": 188,
+        "following": false,
+        "friends_count": 314,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 3290367761,
+        "id_str": "3290367761",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 7,
+        "location": "Kentucky, USA",
+        "name": "Jaclyn Martin",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3290367761/1447983971",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/665670556935700480/LS9rc-JD_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/665670556935700480/LS9rc-JD_normal.jpg",
+        "profile_link_color": "94D487",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "MyMichelle407",
+        "statuses_count": 3628,
+        "time_zone": null,
+        "url": null,
+        "utc_offset": null,
+        "verified": false
+    }
+}

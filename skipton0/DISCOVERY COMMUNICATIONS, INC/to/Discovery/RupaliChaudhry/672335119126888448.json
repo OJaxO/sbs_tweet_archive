@@ -1,0 +1,147 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Dec 03 08:42:38 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 17842366,
+                "id_str": "17842366",
+                "indices": [
+                    0,
+                    10
+                ],
+                "name": "Discovery",
+                "screen_name": "Discovery"
+            },
+            {
+                "id": 2437502443,
+                "id_str": "2437502443",
+                "indices": [
+                    11,
+                    27
+                ],
+                "name": "Racing Extinction",
+                "screen_name": "RacingXtinction"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 672335119126888448,
+    "id_str": "672335119126888448",
+    "in_reply_to_screen_name": "Discovery",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 17842366,
+    "in_reply_to_user_id_str": "17842366",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        76.8425202,
+                        28.3976574
+                    ],
+                    [
+                        77.3476518,
+                        28.3976574
+                    ],
+                    [
+                        77.3476518,
+                        28.8793215
+                    ],
+                    [
+                        76.8425202,
+                        28.8793215
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "India",
+        "country_code": "IN",
+        "full_name": "New Delhi, Delhi",
+        "id": "317fcc4b21a604d5",
+        "name": "New Delhi",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/317fcc4b21a604d5.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@Discovery @RacingXtinction Cried bitterly through the show.Hats off to the courageous conservationists who risk their lives.Great service !",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Jul 27 05:51:31 +0000 2013",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Educator, Education Management Professional, Passionate about making education enjoyable and empowering, Focus on quality and access, Keen Learner, NLP Coach",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "in.linkedin.com/in/rupalichaud\u2026",
+                        "expanded_url": "https://in.linkedin.com/in/rupalichaudhry",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/mR9Aib0nem"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 140,
+        "follow_request_sent": false,
+        "followers_count": 434,
+        "following": false,
+        "friends_count": 441,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 1624676694,
+        "id_str": "1624676694",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 20,
+        "location": "India",
+        "name": "Rupali Chaudhry",
+        "notifications": false,
+        "profile_background_color": "FF6699",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme11/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme11/bg.gif",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1624676694/1396608203",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/606432334967996416/hFqccRvH_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/606432334967996416/hFqccRvH_normal.jpg",
+        "profile_link_color": "B40B43",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "DDFFCC",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "RupaliChaudhry",
+        "statuses_count": 1576,
+        "time_zone": "Chennai",
+        "url": "https://t.co/mR9Aib0nem",
+        "utc_offset": 19800,
+        "verified": false
+    }
+}

@@ -1,0 +1,124 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Dec 03 05:13:46 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 17842366,
+                "id_str": "17842366",
+                "indices": [
+                    0,
+                    10
+                ],
+                "name": "Discovery",
+                "screen_name": "Discovery"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 672282557090693120,
+    "id_str": "672282557090693120",
+    "in_reply_to_screen_name": "Discovery",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 17842366,
+    "in_reply_to_user_id_str": "17842366",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -99.147605,
+                        40.656366
+                    ],
+                    [
+                        -98.988387,
+                        40.656366
+                    ],
+                    [
+                        -98.988387,
+                        40.743234
+                    ],
+                    [
+                        -99.147605,
+                        40.743234
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Kearney, NE",
+        "id": "af9a31eae0eac9a0",
+        "name": "Kearney",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/af9a31eae0eac9a0.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@Discovery Racing Extinction. Go electric as in car. No totally impractical and expensive. Go solar...no even more expensive.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Feb 08 22:57:00 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Radio and Computer Geek; 4th Degree Black Belt Bennett's Taekwondo. Secretary Dobytown Kiwanis",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 138,
+        "follow_request_sent": false,
+        "followers_count": 667,
+        "following": false,
+        "friends_count": 701,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 249380129,
+        "id_str": "249380129",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 9,
+        "location": "Kearney, NE. USA",
+        "name": "Mark Reid ",
+        "notifications": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000146752705/Z1E46cmv.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000146752705/Z1E46cmv.jpeg",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/249380129/1359728863",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/586728438062432256/NZnTaj-k_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/586728438062432256/NZnTaj-k_normal.jpg",
+        "profile_link_color": "009999",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "EDEDED",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Reido78",
+        "statuses_count": 1771,
+        "time_zone": "Central Time (US & Canada)",
+        "url": null,
+        "utc_offset": -21600,
+        "verified": false
+    }
+}

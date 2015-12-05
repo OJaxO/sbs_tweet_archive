@@ -1,0 +1,124 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Dec 05 02:17:53 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 17842366,
+                "id_str": "17842366",
+                "indices": [
+                    0,
+                    10
+                ],
+                "name": "Discovery",
+                "screen_name": "Discovery"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 672963068469506048,
+    "id_str": "672963068469506048",
+    "in_reply_to_screen_name": "Discovery",
+    "in_reply_to_status_id": 672943499227086848,
+    "in_reply_to_status_id_str": "672943499227086848",
+    "in_reply_to_user_id": 17842366,
+    "in_reply_to_user_id_str": "17842366",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        174.162124,
+                        -37.292418
+                    ],
+                    [
+                        175.551257,
+                        -37.292418
+                    ],
+                    [
+                        175.551257,
+                        -35.898837
+                    ],
+                    [
+                        174.162124,
+                        -35.898837
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "New Zealand",
+        "country_code": "NZ",
+        "full_name": "Auckland City, New Zealand",
+        "id": "0022e3c837579650",
+        "name": "Auckland City",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/0022e3c837579650.json"
+    },
+    "retweet_count": 3,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@Discovery An Australian lizard found a man living in his house...",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Apr 23 07:24:23 +0000 2012",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "TV Director - \u2606DALLAS MAVS #MFFL\u2606  #NY METS #Sneakers #Cricket #Gardening #GOOD BEER #DarkBeer #Imperials #IPA's",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 884,
+        "follow_request_sent": false,
+        "followers_count": 1026,
+        "following": false,
+        "friends_count": 897,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 560903480,
+        "id_str": "560903480",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 13,
+        "location": "Auckland, New Zealand",
+        "name": "Ryan Crofskey",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000155207588/7nQq5iV8.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000155207588/7nQq5iV8.jpeg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/560903480/1405833980",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/667730672539189249/WQfOS6T6_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/667730672539189249/WQfOS6T6_normal.jpg",
+        "profile_link_color": "277091",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "RyanCrofskey",
+        "statuses_count": 4574,
+        "time_zone": null,
+        "url": null,
+        "utc_offset": null,
+        "verified": false
+    }
+}

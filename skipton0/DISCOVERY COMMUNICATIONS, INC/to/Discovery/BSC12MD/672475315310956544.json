@@ -1,0 +1,124 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Dec 03 17:59:43 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 17842366,
+                "id_str": "17842366",
+                "indices": [
+                    0,
+                    10
+                ],
+                "name": "Discovery",
+                "screen_name": "Discovery"
+            }
+        ]
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": null,
+    "id": 672475315310956544,
+    "id_str": "672475315310956544",
+    "in_reply_to_screen_name": "Discovery",
+    "in_reply_to_status_id": 672460347979259904,
+    "in_reply_to_status_id_str": "672460347979259904",
+    "in_reply_to_user_id": 17842366,
+    "in_reply_to_user_id_str": "17842366",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -97.534889,
+                        37.562483
+                    ],
+                    [
+                        -97.152924,
+                        37.562483
+                    ],
+                    [
+                        -97.152924,
+                        37.80531
+                    ],
+                    [
+                        -97.534889,
+                        37.80531
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Wichita, KS",
+        "id": "1661ada9b2b18024",
+        "name": "Wichita",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/1661ada9b2b18024.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@Discovery I'm guessing they didn't feed the damn thing enough virgins",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Aug 26 13:30:11 +0000 2012",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Born to Ride a Harley",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 43,
+        "follow_request_sent": false,
+        "followers_count": 24,
+        "following": false,
+        "friends_count": 63,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 782449207,
+        "id_str": "782449207",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 1,
+        "location": "Motorcycles, Trucking, Food, and Bat Shit crazy ideas.",
+        "name": "George",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/782449207/1369252087",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/475962406531629057/W-nV2QPA_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/475962406531629057/W-nV2QPA_normal.jpeg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "BSC12MD",
+        "statuses_count": 1219,
+        "time_zone": "Central Time (US & Canada)",
+        "url": null,
+        "utc_offset": -21600,
+        "verified": false
+    }
+}

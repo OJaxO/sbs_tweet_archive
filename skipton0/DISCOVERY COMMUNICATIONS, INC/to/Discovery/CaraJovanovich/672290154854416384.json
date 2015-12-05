@@ -1,0 +1,147 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Dec 03 05:43:58 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 17842366,
+                "id_str": "17842366",
+                "indices": [
+                    0,
+                    10
+                ],
+                "name": "Discovery",
+                "screen_name": "Discovery"
+            },
+            {
+                "id": 2437502443,
+                "id_str": "2437502443",
+                "indices": [
+                    11,
+                    27
+                ],
+                "name": "Racing Extinction",
+                "screen_name": "RacingXtinction"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 672290154854416384,
+    "id_str": "672290154854416384",
+    "in_reply_to_screen_name": "Discovery",
+    "in_reply_to_status_id": 672068032152387584,
+    "in_reply_to_status_id_str": "672068032152387584",
+    "in_reply_to_user_id": 17842366,
+    "in_reply_to_user_id_str": "17842366",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -91.51308,
+                        36.970298
+                    ],
+                    [
+                        -87.019935,
+                        36.970298
+                    ],
+                    [
+                        -87.019935,
+                        42.508303
+                    ],
+                    [
+                        -91.51308,
+                        42.508303
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Illinois, USA",
+        "id": "f54a2170ff4b15f7",
+        "name": "Illinois",
+        "place_type": "admin",
+        "url": "https://api.twitter.com/1.1/geo/id/f54a2170ff4b15f7.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@Discovery @RacingXtinction beautiful,tragic,inspirational-thank you for your heartfelt empathy, spirit and love",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Feb 19 01:40:29 +0000 2015",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "I am a voice teacher, bee keeper, egg seller, gardener, foodie, who sells Napa Valley small batch Artisan wines amist travelling to see my Opera Singer hubby!",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "wineshopathome.com/carajovanovich",
+                        "expanded_url": "http://www.wineshopathome.com/carajovanovich",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/M8kI39atuz"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 178,
+        "follow_request_sent": false,
+        "followers_count": 37,
+        "following": false,
+        "friends_count": 176,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 3044771675,
+        "id_str": "3044771675",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 4,
+        "location": "Sycamore, IL",
+        "name": "Cara Jovanovich",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3044771675/1433016620",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/568224473623449600/ny2idarU_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/568224473623449600/ny2idarU_normal.jpeg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "CaraJovanovich",
+        "statuses_count": 258,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "https://t.co/M8kI39atuz",
+        "utc_offset": -28800,
+        "verified": false
+    }
+}

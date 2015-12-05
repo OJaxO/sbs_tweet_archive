@@ -1,0 +1,147 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Dec 05 02:17:58 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 17842366,
+                "id_str": "17842366",
+                "indices": [
+                    0,
+                    10
+                ],
+                "name": "Discovery",
+                "screen_name": "Discovery"
+            },
+            {
+                "id": 251471210,
+                "id_str": "251471210",
+                "indices": [
+                    11,
+                    24
+                ],
+                "name": "\u219e\u2742.morgan.\u2742\u21a0",
+                "screen_name": "TeriMorgan25"
+            }
+        ]
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": null,
+    "id": 672963090808487936,
+    "id_str": "672963090808487936",
+    "in_reply_to_screen_name": "Discovery",
+    "in_reply_to_status_id": 672943499227086848,
+    "in_reply_to_status_id_str": "672943499227086848",
+    "in_reply_to_user_id": 17842366,
+    "in_reply_to_user_id_str": "17842366",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -88.680513,
+                        35.410915
+                    ],
+                    [
+                        -88.611073,
+                        35.410915
+                    ],
+                    [
+                        -88.611073,
+                        35.46227
+                    ],
+                    [
+                        -88.680513,
+                        35.46227
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Henderson, TN",
+        "id": "f7a4a0076130c659",
+        "name": "Henderson",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/f7a4a0076130c659.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@Discovery @TeriMorgan25 me. a 5 ft lizard",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Nov 01 22:34:43 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "i just really relate to Jerry Gergich.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "greyiscool.com",
+                        "expanded_url": "http://www.greyiscool.com",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/ZN4huqdfBj"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 35285,
+        "follow_request_sent": false,
+        "followers_count": 808,
+        "following": false,
+        "friends_count": 1062,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 403027565,
+        "id_str": "403027565",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 1,
+        "location": "Henderson, TN",
+        "name": "marissa",
+        "notifications": false,
+        "profile_background_color": "FFF04D",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000080775685/f8e0972f4e184d4a1a7c29ba25dfb1ba.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000080775685/f8e0972f4e184d4a1a7c29ba25dfb1ba.jpeg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/403027565/1448259249",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/664346793833054208/YHWaHRLO_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/664346793833054208/YHWaHRLO_normal.jpg",
+        "profile_link_color": "24E0C1",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "F6FFD1",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "marissa_dove",
+        "statuses_count": 19980,
+        "time_zone": "Mountain Time (US & Canada)",
+        "url": "https://t.co/ZN4huqdfBj",
+        "utc_offset": -25200,
+        "verified": false
+    }
+}
