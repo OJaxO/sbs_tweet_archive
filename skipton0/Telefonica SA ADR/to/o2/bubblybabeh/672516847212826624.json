@@ -1,0 +1,124 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Dec 03 20:44:45 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 15133627,
+                "id_str": "15133627",
+                "indices": [
+                    0,
+                    3
+                ],
+                "name": "O2 in the UK",
+                "screen_name": "O2"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 672516847212826624,
+    "id_str": "672516847212826624",
+    "in_reply_to_screen_name": "O2",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 15133627,
+    "in_reply_to_user_id_str": "15133627",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -6.3651943,
+                        49.8825312
+                    ],
+                    [
+                        1.768926,
+                        49.8825312
+                    ],
+                    [
+                        1.768926,
+                        55.8116485
+                    ],
+                    [
+                        -6.3651943,
+                        55.8116485
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United Kingdom",
+        "country_code": "GB",
+        "full_name": "England, United Kingdom",
+        "id": "8ef32ff56ef11c22",
+        "name": "England",
+        "place_type": "admin",
+        "url": "https://api.twitter.com/1.1/geo/id/8ef32ff56ef11c22.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@O2 Just wanted to say a massive thank you to O2 for all the wonderful goodies I get all the time from Priority :) &lt;3 Merry Christmas guys!",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Mar 04 14:07:54 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 240,
+        "follow_request_sent": false,
+        "followers_count": 50,
+        "following": false,
+        "friends_count": 367,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 22775798,
+        "id_str": "22775798",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 1,
+        "location": "",
+        "name": "Anamaria",
+        "notifications": false,
+        "profile_background_color": "FF6699",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme11/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme11/bg.gif",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/22775798/1447521927",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/670902076877250560/IiGDK3MS_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/670902076877250560/IiGDK3MS_normal.jpg",
+        "profile_link_color": "B40B43",
+        "profile_sidebar_border_color": "CC3366",
+        "profile_sidebar_fill_color": "E5507E",
+        "profile_text_color": "362720",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "bubblybabeh",
+        "statuses_count": 351,
+        "time_zone": "London",
+        "url": null,
+        "utc_offset": 0,
+        "verified": false
+    }
+}
