@@ -1,0 +1,124 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Dec 02 18:41:45 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 20663500,
+                "id_str": "20663500",
+                "indices": [
+                    0,
+                    6
+                ],
+                "name": "Shell",
+                "screen_name": "Shell"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 672123504544747520,
+    "id_str": "672123504544747520",
+    "in_reply_to_screen_name": "Shell",
+    "in_reply_to_status_id": 672030029224783872,
+    "in_reply_to_status_id_str": "672030029224783872",
+    "in_reply_to_user_id": 20663500,
+    "in_reply_to_user_id_str": "20663500",
+    "is_quote_status": false,
+    "lang": "und",
+    "metadata": {
+        "iso_language_code": "und",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -122.5410108,
+                        49.171594
+                    ],
+                    [
+                        -122.5154863,
+                        49.171594
+                    ],
+                    [
+                        -122.5154863,
+                        49.183852
+                    ],
+                    [
+                        -122.5410108,
+                        49.183852
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "Canada",
+        "country_code": "CA",
+        "full_name": "Langley 5, British Columbia",
+        "id": "393f56616dd9f167",
+        "name": "Langley 5",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/393f56616dd9f167.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@Shell \n@#@ZasAnthony",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Aug 17 22:43:31 +0000 2015",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "#Fuego\n#BloncoFuego\n#gxldengods\n\n_________________\n02:41hours.                                  |\nDecember:03/2015.         |\n\nWord that my pplz.\nIf any cool ka",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 2037,
+        "follow_request_sent": false,
+        "followers_count": 799,
+        "following": false,
+        "friends_count": 3044,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 3318075588,
+        "id_str": "3318075588",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 17,
+        "location": "Pitt Meadows, British Columbia",
+        "name": "Anthony C. Burke-Zas",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3318075588/1449038448",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/669092958117826560/yPpxACDh_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/669092958117826560/yPpxACDh_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "ZasAnthony",
+        "statuses_count": 3360,
+        "time_zone": null,
+        "url": null,
+        "utc_offset": null,
+        "verified": false
+    }
+}
