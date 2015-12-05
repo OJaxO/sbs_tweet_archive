@@ -1,0 +1,124 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Nov 30 23:25:11 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 430158505,
+                "id_str": "430158505",
+                "indices": [
+                    0,
+                    8
+                ],
+                "name": "Ask eBay",
+                "screen_name": "AskeBay"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 671470054693736448,
+    "id_str": "671470054693736448",
+    "in_reply_to_screen_name": "AskeBay",
+    "in_reply_to_status_id": 671469836413857793,
+    "in_reply_to_status_id_str": "671469836413857793",
+    "in_reply_to_user_id": 430158505,
+    "in_reply_to_user_id_str": "430158505",
+    "is_quote_status": false,
+    "lang": "es",
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -99.2948966,
+                        19.580497
+                    ],
+                    [
+                        -99.172417,
+                        19.580497
+                    ],
+                    [
+                        -99.172417,
+                        19.732082
+                    ],
+                    [
+                        -99.2948966,
+                        19.732082
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "M\u00e9xico",
+        "country_code": "MX",
+        "full_name": "Cuautitl\u00e1n Izcalli, M\u00e9xico",
+        "id": "b8923fc5a1c5e39b",
+        "name": "Cuautitl\u00e1n Izcalli",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/b8923fc5a1c5e39b.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@AskeBay asi es... he solicitado un nuevo envio! Siempre protegido.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Aug 10 19:16:04 +0000 2008",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "oNe LiFe, OnE cHAnCe... LiVe to PaRty! & RuN RuN RuN, that's all what i want you to know.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 476,
+        "follow_request_sent": false,
+        "followers_count": 353,
+        "following": false,
+        "friends_count": 847,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 15800494,
+        "id_str": "15800494",
+        "is_translation_enabled": true,
+        "is_translator": false,
+        "lang": "es",
+        "listed_count": 8,
+        "location": "Mexico",
+        "name": "Mr Rev",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/15800494/1441386414",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/639847188281978880/9D3pWZg9_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/639847188281978880/9D3pWZg9_normal.jpg",
+        "profile_link_color": "3B94D9",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "Mister_Rev",
+        "statuses_count": 4910,
+        "time_zone": "Mexico City",
+        "url": null,
+        "utc_offset": -21600,
+        "verified": false
+    }
+}
