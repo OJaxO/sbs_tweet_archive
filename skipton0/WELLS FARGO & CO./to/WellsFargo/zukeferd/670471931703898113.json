@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Nov 28 05:18:59 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 1178011,
+                "id_str": "1178011",
+                "indices": [
+                    0,
+                    11
+                ],
+                "name": "Wells Fargo",
+                "screen_name": "WellsFargo"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 670471931703898113,
+    "id_str": "670471931703898113",
+    "in_reply_to_screen_name": "WellsFargo",
+    "in_reply_to_status_id": 667823760188157952,
+    "in_reply_to_status_id_str": "667823760188157952",
+    "in_reply_to_user_id": 1178011,
+    "in_reply_to_user_id_str": "1178011",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -121.69197,
+                        36.643802
+                    ],
+                    [
+                        -121.5905572,
+                        36.643802
+                    ],
+                    [
+                        -121.5905572,
+                        36.7344846
+                    ],
+                    [
+                        -121.69197,
+                        36.7344846
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Salinas, CA",
+        "id": "fa37e818b629e4ea",
+        "name": "Salinas",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/fa37e818b629e4ea.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@WellsFargo just coffee? Not 10 grand?",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Feb 23 07:12:08 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "CA native. Smartass. Own a home in NM. Cat enthusiast. Oakland f'ball, baseball, GS Warriors, SJ Sharks. UNM, BAMA, ABQ Isotopes (AAA baseball)",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "youravon.com/mbaca",
+                        "expanded_url": "http://www.youravon.com/mbaca",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/FyN3v4i0fD"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 3531,
+        "follow_request_sent": false,
+        "followers_count": 403,
+        "following": false,
+        "friends_count": 1205,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 116670961,
+        "id_str": "116670961",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 17,
+        "location": "California, USA (for now)",
+        "name": "mary b",
+        "notifications": false,
+        "profile_background_color": "ABB8C2",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/647604808296206336/oVEVoR8f.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/647604808296206336/oVEVoR8f.jpg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/116670961/1445748442",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/669775640753639424/oiZMwfjL_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/669775640753639424/oiZMwfjL_normal.jpg",
+        "profile_link_color": "4A913C",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "zukeferd",
+        "statuses_count": 18025,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "https://t.co/FyN3v4i0fD",
+        "utc_offset": -28800,
+        "verified": false
+    }
+}

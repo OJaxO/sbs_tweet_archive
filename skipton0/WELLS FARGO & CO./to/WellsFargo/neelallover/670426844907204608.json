@@ -1,0 +1,124 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Nov 28 02:19:50 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 1178011,
+                "id_str": "1178011",
+                "indices": [
+                    0,
+                    11
+                ],
+                "name": "Wells Fargo",
+                "screen_name": "WellsFargo"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 670426844907204608,
+    "id_str": "670426844907204608",
+    "in_reply_to_screen_name": "WellsFargo",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 1178011,
+    "in_reply_to_user_id_str": "1178011",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -94.796056,
+                        31.264964
+                    ],
+                    [
+                        -94.669141,
+                        31.264964
+                    ],
+                    [
+                        -94.669141,
+                        31.400021
+                    ],
+                    [
+                        -94.796056,
+                        31.400021
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Lufkin, TX",
+        "id": "ef5f7bc53f4594ea",
+        "name": "Lufkin",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/ef5f7bc53f4594ea.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@WellsFargo have atm with in every 15 steps in major city but none in Lufkin...Annoying",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Nov 02 06:31:32 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "it aint abt how hard you hit, it's about how hard you can get hit and keep moving forward, its about how much u can take and keep moving forward.....",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 115,
+        "follow_request_sent": false,
+        "followers_count": 24,
+        "following": false,
+        "friends_count": 105,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 86887612,
+        "id_str": "86887612",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 0,
+        "location": "Houston, TX",
+        "name": "Neel",
+        "notifications": false,
+        "profile_background_color": "0099B9",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/86887612/1434061757",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/665297692818456576/hjIs4sf7_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/665297692818456576/hjIs4sf7_normal.jpg",
+        "profile_link_color": "0099B9",
+        "profile_sidebar_border_color": "5ED4DC",
+        "profile_sidebar_fill_color": "95E8EC",
+        "profile_text_color": "3C3940",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "neelallover",
+        "statuses_count": 44,
+        "time_zone": "Alaska",
+        "url": null,
+        "utc_offset": -32400,
+        "verified": false
+    }
+}
