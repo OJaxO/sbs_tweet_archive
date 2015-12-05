@@ -1,0 +1,144 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 01 15:34:05 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 67418441,
+                "id_str": "67418441",
+                "indices": [
+                    0,
+                    7
+                ],
+                "name": "Disney",
+                "screen_name": "Disney"
+            },
+            {
+                "id": 78411917,
+                "id_str": "78411917",
+                "indices": [
+                    8,
+                    20
+                ],
+                "name": "Disney Store",
+                "screen_name": "DisneyStore"
+            },
+            {
+                "id": 2191201344,
+                "id_str": "2191201344",
+                "indices": [
+                    21,
+                    34
+                ],
+                "name": "Anastasia Gutierrez",
+                "screen_name": "stasiaceline"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 671713887364878336,
+    "id_str": "671713887364878336",
+    "in_reply_to_screen_name": "Disney",
+    "in_reply_to_status_id": 671707333265924100,
+    "in_reply_to_status_id_str": "671707333265924100",
+    "in_reply_to_user_id": 67418441,
+    "in_reply_to_user_id_str": "67418441",
+    "is_quote_status": false,
+    "lang": "und",
+    "metadata": {
+        "iso_language_code": "und",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -120.468231,
+                        34.842218
+                    ],
+                    [
+                        -120.378247,
+                        34.842218
+                    ],
+                    [
+                        -120.378247,
+                        34.908588
+                    ],
+                    [
+                        -120.468231,
+                        34.908588
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Orcutt, CA",
+        "id": "fcfe99a296187c82",
+        "name": "Orcutt",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/fcfe99a296187c82.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@Disney @DisneyStore @stasiaceline",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Oct 27 05:40:37 +0000 2012",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 8369,
+        "follow_request_sent": false,
+        "followers_count": 633,
+        "following": false,
+        "friends_count": 902,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 907441380,
+        "id_str": "907441380",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 1,
+        "location": "",
+        "name": "julia",
+        "notifications": false,
+        "profile_background_color": "BADFCD",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme12/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme12/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/907441380/1447774433",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/670015838691287040/Iz1ZJfvI_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/670015838691287040/Iz1ZJfvI_normal.jpg",
+        "profile_link_color": "FF0000",
+        "profile_sidebar_border_color": "F2E195",
+        "profile_sidebar_fill_color": "FFF7CC",
+        "profile_text_color": "0C3E53",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "juliarobel",
+        "statuses_count": 10447,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": null,
+        "utc_offset": -28800,
+        "verified": false
+    }
+}

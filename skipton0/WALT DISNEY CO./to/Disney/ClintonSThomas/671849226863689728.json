@@ -1,0 +1,152 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Dec 02 00:31:52 +0000 2015",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    17,
+                    25
+                ],
+                "text": "HanSolo"
+            },
+            {
+                "indices": [
+                    28,
+                    37
+                ],
+                "text": "StarWars"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 67418441,
+                "id_str": "67418441",
+                "indices": [
+                    0,
+                    7
+                ],
+                "name": "Disney",
+                "screen_name": "Disney"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 671849226863689728,
+    "id_str": "671849226863689728",
+    "in_reply_to_screen_name": "Disney",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 67418441,
+    "in_reply_to_user_id_str": "67418441",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -94.151573,
+                        33.355819
+                    ],
+                    [
+                        -93.9687917,
+                        33.355819
+                    ],
+                    [
+                        -93.9687917,
+                        33.507099
+                    ],
+                    [
+                        -94.151573,
+                        33.507099
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Texarkana, TX",
+        "id": "b33bfb7f88f92c6c",
+        "name": "Texarkana",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/b33bfb7f88f92c6c.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@Disney Kill off #HanSolo n #StarWars and we won't be back for next 2 films.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Apr 05 04:17:48 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "I am the greatest writer in my room! Hey, confidence is everything, right? :)",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "myqidp.com",
+                        "expanded_url": "http://myqidp.com",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/AqbZeNSVle"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 192,
+        "follow_request_sent": false,
+        "followers_count": 2054,
+        "following": false,
+        "friends_count": 652,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 28938948,
+        "id_str": "28938948",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 28,
+        "location": "Texarkana",
+        "name": "Clint Thomas, Th.D.",
+        "notifications": false,
+        "profile_background_color": "050000",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/571001014405189632/WQhTFLvM.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/571001014405189632/WQhTFLvM.jpeg",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/28938948/1424968999",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/520892306799341568/EkFqHp_n_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/520892306799341568/EkFqHp_n_normal.jpeg",
+        "profile_link_color": "3B94D9",
+        "profile_sidebar_border_color": "86A4A6",
+        "profile_sidebar_fill_color": "A0C5C7",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "ClintonSThomas",
+        "statuses_count": 7273,
+        "time_zone": "Central Time (US & Canada)",
+        "url": "http://t.co/AqbZeNSVle",
+        "utc_offset": -21600,
+        "verified": false
+    }
+}

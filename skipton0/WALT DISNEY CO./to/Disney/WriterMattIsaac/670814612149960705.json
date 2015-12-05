@@ -1,0 +1,176 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Nov 29 04:00:41 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "media": [
+            {
+                "display_url": "pic.twitter.com/qq1mKSB7lb",
+                "expanded_url": "http://twitter.com/WriterMattIsaac/status/670814612149960705/photo/1",
+                "id": 670814610576924677,
+                "id_str": "670814610576924677",
+                "indices": [
+                    120,
+                    143
+                ],
+                "media_url": "http://pbs.twimg.com/media/CU82VY2UYAUNyxx.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/CU82VY2UYAUNyxx.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 1818,
+                        "resize": "fit",
+                        "w": 1024
+                    },
+                    "medium": {
+                        "h": 1065,
+                        "resize": "fit",
+                        "w": 600
+                    },
+                    "small": {
+                        "h": 603,
+                        "resize": "fit",
+                        "w": 340
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/qq1mKSB7lb"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 67418441,
+                "id_str": "67418441",
+                "indices": [
+                    0,
+                    7
+                ],
+                "name": "Disney",
+                "screen_name": "Disney"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 670814612149960705,
+    "id_str": "670814612149960705",
+    "in_reply_to_screen_name": "Disney",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 67418441,
+    "in_reply_to_user_id_str": "67418441",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -124.482003,
+                        32.528832
+                    ],
+                    [
+                        -114.131212,
+                        32.528832
+                    ],
+                    [
+                        -114.131212,
+                        42.009519
+                    ],
+                    [
+                        -124.482003,
+                        42.009519
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "California, USA",
+        "id": "fbd6d2f5a4e4a15e",
+        "name": "California",
+        "place_type": "admin",
+        "url": "https://api.twitter.com/1.1/geo/id/fbd6d2f5a4e4a15e.json"
+    },
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@Disney, this is holiday decor fail. No blue &amp; white, menorah? Pigeonholing one religion into another's holiday smh https://t.co/qq1mKSB7lb",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Oct 27 07:01:34 +0000 2013",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "New York transplant to the Bay, soon-to-be published author, Tufts alum, dog lover, nature watcher, NY sports nut, #JackKatz and #TheFirstKingdom aficionado",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "writermatthewisaac.com",
+                        "expanded_url": "http://writermatthewisaac.com",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/j61Mnl6eBy"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 76,
+        "follow_request_sent": false,
+        "followers_count": 896,
+        "following": false,
+        "friends_count": 1921,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 2158283162,
+        "id_str": "2158283162",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 16,
+        "location": "Castro Valley, CA",
+        "name": "Matthew Isaac",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2158283162/1382860313",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/378800000653934911/2357a30b05d6246641952b617691b8e1_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000653934911/2357a30b05d6246641952b617691b8e1_normal.jpeg",
+        "profile_link_color": "4A913C",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "WriterMattIsaac",
+        "statuses_count": 324,
+        "time_zone": null,
+        "url": "http://t.co/j61Mnl6eBy",
+        "utc_offset": null,
+        "verified": false
+    }
+}

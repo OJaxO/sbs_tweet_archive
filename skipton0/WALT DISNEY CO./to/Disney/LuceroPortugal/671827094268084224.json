@@ -1,0 +1,163 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 01 23:03:55 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "media": [
+            {
+                "display_url": "pic.twitter.com/9lLyzaCIwp",
+                "expanded_url": "http://twitter.com/LuceroPortugal/status/671827094268084224/photo/1",
+                "id": 671827093655650305,
+                "id_str": "671827093655650305",
+                "indices": [
+                    8,
+                    31
+                ],
+                "media_url": "http://pbs.twimg.com/media/CVLPLqPUAAECVqQ.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/CVLPLqPUAAECVqQ.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 768,
+                        "resize": "fit",
+                        "w": 1024
+                    },
+                    "medium": {
+                        "h": 450,
+                        "resize": "fit",
+                        "w": 600
+                    },
+                    "small": {
+                        "h": 255,
+                        "resize": "fit",
+                        "w": 340
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/9lLyzaCIwp"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 67418441,
+                "id_str": "67418441",
+                "indices": [
+                    0,
+                    7
+                ],
+                "name": "Disney",
+                "screen_name": "Disney"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 671827094268084224,
+    "id_str": "671827094268084224",
+    "in_reply_to_screen_name": "Disney",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 67418441,
+    "in_reply_to_user_id_str": "67418441",
+    "is_quote_status": false,
+    "lang": "und",
+    "metadata": {
+        "iso_language_code": "und",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -124.482003,
+                        32.528832
+                    ],
+                    [
+                        -114.131212,
+                        32.528832
+                    ],
+                    [
+                        -114.131212,
+                        42.009519
+                    ],
+                    [
+                        -124.482003,
+                        42.009519
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "California, USA",
+        "id": "fbd6d2f5a4e4a15e",
+        "name": "California",
+        "place_type": "admin",
+        "url": "https://api.twitter.com/1.1/geo/id/fbd6d2f5a4e4a15e.json"
+    },
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@Disney https://t.co/9lLyzaCIwp",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Sep 17 15:12:48 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Be the type of person you'd wanna meet.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 782,
+        "follow_request_sent": false,
+        "followers_count": 299,
+        "following": false,
+        "friends_count": 2091,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 75034615,
+        "id_str": "75034615",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 3,
+        "location": "Tecate",
+        "name": "Sonia E. Lucero P.",
+        "notifications": false,
+        "profile_background_color": "9AE4E8",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000046669624/2808d8bfc829e9a19a97a513d2a2d2b0.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000046669624/2808d8bfc829e9a19a97a513d2a2d2b0.jpeg",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/75034615/1406750070",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/494571540688564224/7kePe3a2_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/494571540688564224/7kePe3a2_normal.jpeg",
+        "profile_link_color": "DD2E44",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "LuceroPortugal",
+        "statuses_count": 1846,
+        "time_zone": "Tijuana",
+        "url": null,
+        "utc_offset": -28800,
+        "verified": false
+    }
+}
