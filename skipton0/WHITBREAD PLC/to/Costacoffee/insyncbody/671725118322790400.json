@@ -1,0 +1,149 @@
+{
+    "contributors": null,
+    "coordinates": {
+        "coordinates": [
+            0.00888593,
+            51.47677758
+        ],
+        "type": "Point"
+    },
+    "created_at": "Tue Dec 01 16:18:42 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 16696296,
+                "id_str": "16696296",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "Costa Coffee",
+                "screen_name": "CostaCoffee"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": {
+        "coordinates": [
+            51.47677758,
+            0.00888593
+        ],
+        "type": "Point"
+    },
+    "id": 671725118322790400,
+    "id_str": "671725118322790400",
+    "in_reply_to_screen_name": "CostaCoffee",
+    "in_reply_to_status_id": 671700489210306560,
+    "in_reply_to_status_id_str": "671700489210306560",
+    "in_reply_to_user_id": 16696296,
+    "in_reply_to_user_id_str": "16696296",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -0.0335507,
+                        51.436221
+                    ],
+                    [
+                        0.06353,
+                        51.436221
+                    ],
+                    [
+                        0.06353,
+                        51.506788
+                    ],
+                    [
+                        -0.0335507,
+                        51.506788
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United Kingdom",
+        "country_code": "GB",
+        "full_name": "Greenwich, London",
+        "id": "038247c1b5bb34c9",
+        "name": "Greenwich",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/038247c1b5bb34c9.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://www.twitter.com\" rel=\"nofollow\">Twitter for Windows Phone</a>",
+    "text": "@CostaCoffee .... all the more reason.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Jan 26 21:03:33 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Fully Certified @STOTT_PILATES Instructor Trainer @YMCAOneKX , PT, Yoga & Pilates in Greenwich. b South Africa, Boston 19yrs, live London. \u0950Be True to yourSELF\u0950",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "bodyinsync.org",
+                        "expanded_url": "http://www.bodyinsync.org",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/llYYXvWh0e"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 2755,
+        "follow_request_sent": false,
+        "followers_count": 1634,
+        "following": false,
+        "friends_count": 1555,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 243343372,
+        "id_str": "243343372",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 46,
+        "location": "London, United Kingdom",
+        "name": "Body In Sync",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/410628502/Body_In_Sync_Somerset_041.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/410628502/Body_In_Sync_Somerset_041.jpg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/243343372/1357554338",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/671029288448237568/8UtOZD8y_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/671029288448237568/8UtOZD8y_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "insyncbody",
+        "statuses_count": 7121,
+        "time_zone": "London",
+        "url": "https://t.co/llYYXvWh0e",
+        "utc_offset": 0,
+        "verified": false
+    }
+}

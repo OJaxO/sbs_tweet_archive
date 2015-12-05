@@ -1,0 +1,124 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 01 14:04:14 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 16696296,
+                "id_str": "16696296",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "Costa Coffee",
+                "screen_name": "CostaCoffee"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 671691276006354944,
+    "id_str": "671691276006354944",
+    "in_reply_to_screen_name": "CostaCoffee",
+    "in_reply_to_status_id": 671686214047694848,
+    "in_reply_to_status_id_str": "671686214047694848",
+    "in_reply_to_user_id": 16696296,
+    "in_reply_to_user_id_str": "16696296",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -3.879315,
+                        51.632984
+                    ],
+                    [
+                        -3.776015,
+                        51.632984
+                    ],
+                    [
+                        -3.776015,
+                        51.693029
+                    ],
+                    [
+                        -3.879315,
+                        51.693029
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United Kingdom",
+        "country_code": "GB",
+        "full_name": "Skewen, Wales",
+        "id": "4b9171f61d2986f9",
+        "name": "Skewen",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/4b9171f61d2986f9.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@CostaCoffee well I went to the Swansea drive through and by the time I tasted it I was nearly home after Xmas shopping \ud83e\udd14\ud83d\ude1e\ud83d\udc4e\ud83c\udffd",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Oct 06 02:18:41 +0000 2011",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 337,
+        "follow_request_sent": false,
+        "followers_count": 385,
+        "following": false,
+        "friends_count": 315,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 385754900,
+        "id_str": "385754900",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 6,
+        "location": "(Skewen) Wales",
+        "name": "Richard Powell",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/385754900/1368364235",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/557514887631757312/gdchsNmR_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/557514887631757312/gdchsNmR_normal.jpeg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "5Teefez5",
+        "statuses_count": 5366,
+        "time_zone": "Casablanca",
+        "url": null,
+        "utc_offset": 0,
+        "verified": false
+    }
+}

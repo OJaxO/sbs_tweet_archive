@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 01 10:25:23 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 16696296,
+                "id_str": "16696296",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "Costa Coffee",
+                "screen_name": "CostaCoffee"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 671636201250676736,
+    "id_str": "671636201250676736",
+    "in_reply_to_screen_name": "CostaCoffee",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 16696296,
+    "in_reply_to_user_id_str": "16696296",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -0.749122,
+                        52.6603601
+                    ],
+                    [
+                        -0.7126462,
+                        52.6603601
+                    ],
+                    [
+                        -0.7126462,
+                        52.6823212
+                    ],
+                    [
+                        -0.749122,
+                        52.6823212
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United Kingdom",
+        "country_code": "GB",
+        "full_name": "Oakham, England",
+        "id": "58c03a67304068cc",
+        "name": "Oakham",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/58c03a67304068cc.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@CostaCoffee Costa Oakham struggling a bit today.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Apr 16 10:31:35 +0000 2008",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Business & marketing",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "TimLatham.co.uk",
+                        "expanded_url": "http://TimLatham.co.uk",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/a5uSKjNx1Y"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 5,
+        "follow_request_sent": false,
+        "followers_count": 2660,
+        "following": false,
+        "friends_count": 1696,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 14406689,
+        "id_str": "14406689",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 112,
+        "location": "Rutland",
+        "name": "Tim Latham",
+        "notifications": false,
+        "profile_background_color": "FFFFFF",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/467785211934031873/QaycgJ2b.png",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/467785211934031873/QaycgJ2b.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/14406689/1440434123",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/451640577180725249/pftSkN5d_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/451640577180725249/pftSkN5d_normal.jpeg",
+        "profile_link_color": "00A2C6",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "DAEDF4",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "Tims140",
+        "statuses_count": 4829,
+        "time_zone": "London",
+        "url": "http://t.co/a5uSKjNx1Y",
+        "utc_offset": 0,
+        "verified": false
+    }
+}
