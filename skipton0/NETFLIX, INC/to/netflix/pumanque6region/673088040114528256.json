@@ -1,0 +1,124 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Dec 05 10:34:28 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 16573941,
+                "id_str": "16573941",
+                "indices": [
+                    0,
+                    8
+                ],
+                "name": "Netflix US",
+                "screen_name": "netflix"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 673088040114528256,
+    "id_str": "673088040114528256",
+    "in_reply_to_screen_name": "netflix",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 16573941,
+    "in_reply_to_user_id_str": "16573941",
+    "is_quote_status": false,
+    "lang": "es",
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -70.6319484,
+                        -33.6441471
+                    ],
+                    [
+                        -70.4867352,
+                        -33.6441471
+                    ],
+                    [
+                        -70.4867352,
+                        -33.542929
+                    ],
+                    [
+                        -70.6319484,
+                        -33.542929
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "Chile",
+        "country_code": "CL",
+        "full_name": "Puente Alto, Metropolitana de Santiago",
+        "id": "009bffed2486be17",
+        "name": "Puente Alto",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/009bffed2486be17.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@netflix cuando sale la T4 de Homeland y arrow en netflix en FoX sali\u00f3",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Mar 04 03:07:32 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "La ciencia,medicina y avances en farmacolog\u00eda temas interesantes,Esfuerzo y sacrificio,l\u00e1grimas y cansancio tienen su premio al cruzar la meta,#soydonante",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 611,
+        "follow_request_sent": false,
+        "followers_count": 1842,
+        "following": false,
+        "friends_count": 2174,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 119595800,
+        "id_str": "119595800",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "es",
+        "listed_count": 15,
+        "location": "-33.41245 , -70.56262",
+        "name": "vi\u00f1edos colchagua",
+        "notifications": false,
+        "profile_background_color": "EBEBEB",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/119595800/1423249045",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/563772765992652800/w35YY33P_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/563772765992652800/w35YY33P_normal.jpeg",
+        "profile_link_color": "990000",
+        "profile_sidebar_border_color": "DFDFDF",
+        "profile_sidebar_fill_color": "F3F3F3",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "pumanque6region",
+        "statuses_count": 29505,
+        "time_zone": "Santiago",
+        "url": null,
+        "utc_offset": -10800,
+        "verified": false
+    }
+}

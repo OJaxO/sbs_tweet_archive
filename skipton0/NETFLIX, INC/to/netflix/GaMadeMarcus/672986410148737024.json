@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Dec 05 03:50:38 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 16573941,
+                "id_str": "16573941",
+                "indices": [
+                    0,
+                    8
+                ],
+                "name": "Netflix US",
+                "screen_name": "netflix"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 672986410148737024,
+    "id_str": "672986410148737024",
+    "in_reply_to_screen_name": "netflix",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 16573941,
+    "in_reply_to_user_id_str": "16573941",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -85.605166,
+                        30.355644
+                    ],
+                    [
+                        -80.742567,
+                        30.355644
+                    ],
+                    [
+                        -80.742567,
+                        35.000771
+                    ],
+                    [
+                        -85.605166,
+                        35.000771
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Georgia, USA",
+        "id": "7142eb97ae21e839",
+        "name": "Georgia",
+        "place_type": "admin",
+        "url": "https://api.twitter.com/1.1/geo/id/7142eb97ae21e839.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@netflix When are y'all gonna add Strike Back?",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Mar 03 17:47:49 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "My story still being wrote. Worrying about other peoples opinions, will leave u broke. father, son, brother, ex war vet. Refocused. #Hawks #Falcons #UGA",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "marcuscfreedom.tumblr.com",
+                        "expanded_url": "http://marcuscfreedom.tumblr.com",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/S6pyM2yOWX"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 1108,
+        "follow_request_sent": false,
+        "followers_count": 1525,
+        "following": false,
+        "friends_count": 1660,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 22651083,
+        "id_str": "22651083",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 21,
+        "location": "the highlight factory, ga",
+        "name": "Focus Renewed",
+        "notifications": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/284025737/c17.png",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/284025737/c17.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/22651083/1445798369",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/654098607134498816/3TX30Wrn_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/654098607134498816/3TX30Wrn_normal.jpg",
+        "profile_link_color": "010505",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "AD0E28",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "GaMadeMarcus",
+        "statuses_count": 106338,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "http://t.co/S6pyM2yOWX",
+        "utc_offset": -28800,
+        "verified": false
+    }
+}

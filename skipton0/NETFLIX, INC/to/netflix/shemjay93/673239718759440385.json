@@ -1,0 +1,171 @@
+{
+    "contributors": null,
+    "coordinates": {
+        "coordinates": [
+            79.896052,
+            6.914264
+        ],
+        "type": "Point"
+    },
+    "created_at": "Sat Dec 05 20:37:11 +0000 2015",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    120,
+                    133
+                ],
+                "text": "MasterOfNone"
+            },
+            {
+                "indices": [
+                    134,
+                    142
+                ],
+                "text": "Netflix"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 16573941,
+                "id_str": "16573941",
+                "indices": [
+                    0,
+                    8
+                ],
+                "name": "Netflix US",
+                "screen_name": "netflix"
+            },
+            {
+                "id": 3291670130,
+                "id_str": "3291670130",
+                "indices": [
+                    9,
+                    22
+                ],
+                "name": "Master of None",
+                "screen_name": "MasterofNone"
+            },
+            {
+                "id": 6480682,
+                "id_str": "6480682",
+                "indices": [
+                    105,
+                    116
+                ],
+                "name": "Aziz Ansari",
+                "screen_name": "azizansari"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": {
+        "coordinates": [
+            6.914264,
+            79.896052
+        ],
+        "type": "Point"
+    },
+    "id": 673239718759440385,
+    "id_str": "673239718759440385",
+    "in_reply_to_screen_name": "netflix",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 16573941,
+    "in_reply_to_user_id_str": "16573941",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        79.6505263,
+                        5.9213829
+                    ],
+                    [
+                        81.8787816,
+                        5.9213829
+                    ],
+                    [
+                        81.8787816,
+                        9.8359375
+                    ],
+                    [
+                        79.6505263,
+                        9.8359375
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "Sri Lanka",
+        "country_code": "LK",
+        "full_name": "Sri Lanka",
+        "id": "173c2bb9d42baaa5",
+        "name": "Sri Lanka",
+        "place_type": "country",
+        "url": "https://api.twitter.com/1.1/geo/id/173c2bb9d42baaa5.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@netflix @MasterofNone is a beautifully crafted &amp; intelligent comedy. I really enjoyed it! Thank you @azizansari :)\n#MasterOfNone #Netflix",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Jun 12 05:27:46 +0000 2015",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Roman Catholic. Movie buff. Cricket fan. Music makes me feel so happy. Chocoholic. TV & Entertainment addict. Loves photography & photo-editing too.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 18263,
+        "follow_request_sent": false,
+        "followers_count": 397,
+        "following": false,
+        "friends_count": 1889,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 3242957036,
+        "id_str": "3242957036",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 14,
+        "location": "Sri Lanka",
+        "name": "Shemal Jayasundera",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3242957036/1448826510",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/671053165526061056/1pFYfqW2_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/671053165526061056/1pFYfqW2_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "shemjay93",
+        "statuses_count": 5643,
+        "time_zone": null,
+        "url": null,
+        "utc_offset": null,
+        "verified": false
+    }
+}

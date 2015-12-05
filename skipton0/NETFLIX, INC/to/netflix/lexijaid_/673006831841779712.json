@@ -1,0 +1,230 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Dec 05 05:11:47 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/annnacateee/st\u2026",
+                "expanded_url": "https://twitter.com/annnacateee/status/673006243007619072",
+                "indices": [
+                    10,
+                    33
+                ],
+                "url": "https://t.co/7L3aHsEmGF"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 16573941,
+                "id_str": "16573941",
+                "indices": [
+                    0,
+                    8
+                ],
+                "name": "Netflix US",
+                "screen_name": "netflix"
+            }
+        ]
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": null,
+    "id": 673006831841779712,
+    "id_str": "673006831841779712",
+    "in_reply_to_screen_name": "netflix",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 16573941,
+    "in_reply_to_user_id_str": "16573941",
+    "is_quote_status": true,
+    "lang": "und",
+    "metadata": {
+        "iso_language_code": "und",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -88.473228,
+                        30.144425
+                    ],
+                    [
+                        -84.888247,
+                        30.144425
+                    ],
+                    [
+                        -84.888247,
+                        35.008029
+                    ],
+                    [
+                        -88.473228,
+                        35.008029
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Alabama, USA",
+        "id": "288de3df481163e8",
+        "name": "Alabama",
+        "place_type": "admin",
+        "url": "https://api.twitter.com/1.1/geo/id/288de3df481163e8.json"
+    },
+    "possibly_sensitive": false,
+    "quoted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Sat Dec 05 05:09:26 +0000 2015",
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "urls": [],
+            "user_mentions": []
+        },
+        "favorite_count": 9,
+        "favorited": false,
+        "geo": null,
+        "id": 673006243007619072,
+        "id_str": "673006243007619072",
+        "in_reply_to_screen_name": null,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "is_quote_status": false,
+        "lang": "en",
+        "metadata": {
+            "iso_language_code": "und",
+            "result_type": "recent"
+        },
+        "place": null,
+        "retweet_count": 3,
+        "retweeted": false,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "I still don't understand why Netflix doesn't have all of the Disney princess movies??",
+        "truncated": false,
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Thu Apr 12 22:38:57 +0000 2012",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "war eagle",
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "instagram.com/annacateee",
+                            "expanded_url": "http://www.instagram.com/annacateee",
+                            "indices": [
+                                0,
+                                23
+                            ],
+                            "url": "https://t.co/PtYd1ek3Wa"
+                        }
+                    ]
+                }
+            },
+            "favourites_count": 11391,
+            "follow_request_sent": false,
+            "followers_count": 728,
+            "following": false,
+            "friends_count": 339,
+            "geo_enabled": true,
+            "has_extended_profile": true,
+            "id": 552227342,
+            "id_str": "552227342",
+            "is_translation_enabled": false,
+            "is_translator": false,
+            "lang": "en",
+            "listed_count": 0,
+            "location": "the 205",
+            "name": "Anna Armstrong",
+            "notifications": false,
+            "profile_background_color": "ACDED6",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/552227342/1449029741",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/664955831645958144/DOga6cAo_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/664955831645958144/DOga6cAo_normal.jpg",
+            "profile_link_color": "038543",
+            "profile_sidebar_border_color": "EEEEEE",
+            "profile_sidebar_fill_color": "F6F6F6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "annnacateee",
+            "statuses_count": 12423,
+            "time_zone": "Eastern Time (US & Canada)",
+            "url": "https://t.co/PtYd1ek3Wa",
+            "utc_offset": -18000,
+            "verified": false
+        }
+    },
+    "quoted_status_id": 673006243007619072,
+    "quoted_status_id_str": "673006243007619072",
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@netflix  https://t.co/7L3aHsEmGF",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun May 31 01:41:42 +0000 2015",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "\u2022on fire for Jesus Christ and so thankful that he loves to forgive me for my mistakes!! \u2022junior. volleyball.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 2103,
+        "follow_request_sent": false,
+        "followers_count": 401,
+        "following": false,
+        "friends_count": 342,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 3231211723,
+        "id_str": "3231211723",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 1,
+        "location": "Hayden, AL",
+        "name": "Lexi Castleberry",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3231211723/1445525975",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/668233239786602496/9C07MfzV_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/668233239786602496/9C07MfzV_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "lexijaid_",
+        "statuses_count": 1479,
+        "time_zone": null,
+        "url": null,
+        "utc_offset": null,
+        "verified": false
+    }
+}

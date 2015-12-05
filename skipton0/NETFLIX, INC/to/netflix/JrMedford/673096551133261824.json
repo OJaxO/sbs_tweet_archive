@@ -1,0 +1,124 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Dec 05 11:08:17 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 16573941,
+                "id_str": "16573941",
+                "indices": [
+                    0,
+                    8
+                ],
+                "name": "Netflix US",
+                "screen_name": "netflix"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 673096551133261824,
+    "id_str": "673096551133261824",
+    "in_reply_to_screen_name": "netflix",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 16573941,
+    "in_reply_to_user_id_str": "16573941",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -79.216367,
+                        34.654347
+                    ],
+                    [
+                        -79.150568,
+                        34.654347
+                    ],
+                    [
+                        -79.150568,
+                        34.715633
+                    ],
+                    [
+                        -79.216367,
+                        34.715633
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Pembroke, NC",
+        "id": "1588871da68509bb",
+        "name": "Pembroke",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/1588871da68509bb.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@netflix add \"the strangers\" pls",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Nov 23 00:38:53 +0000 2012",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "#UNCP19 Baseball CF, R.I.P Katlyn Victoria Medford",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 7819,
+        "follow_request_sent": false,
+        "followers_count": 379,
+        "following": false,
+        "friends_count": 735,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 965221212,
+        "id_str": "965221212",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 4,
+        "location": "Trinity, NC - Pembroke, NC",
+        "name": "Larry Medford",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/965221212/1386739714",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/625536599783288832/AqYiUn5Q_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/625536599783288832/AqYiUn5Q_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "JrMedford",
+        "statuses_count": 22483,
+        "time_zone": null,
+        "url": null,
+        "utc_offset": null,
+        "verified": false
+    }
+}
