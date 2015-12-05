@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Nov 30 03:11:11 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 21778607,
+                "id_str": "21778607",
+                "indices": [
+                    0,
+                    8
+                ],
+                "name": "Colgate Smile",
+                "screen_name": "Colgate"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 671164545541390336,
+    "id_str": "671164545541390336",
+    "in_reply_to_screen_name": "Colgate",
+    "in_reply_to_status_id": 671161511419772928,
+    "in_reply_to_status_id_str": "671161511419772928",
+    "in_reply_to_user_id": 21778607,
+    "in_reply_to_user_id_str": "21778607",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -71.768222,
+                        42.241233
+                    ],
+                    [
+                        -71.659011,
+                        42.241233
+                    ],
+                    [
+                        -71.659011,
+                        42.334472
+                    ],
+                    [
+                        -71.768222,
+                        42.334472
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Shrewsbury, MA",
+        "id": "00c58042087a6212",
+        "name": "Shrewsbury",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/00c58042087a6212.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@Colgate only if you're going to send me freebies or money",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Feb 01 01:25:36 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "I don't even wanna be here.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "mikaylaaaleigh.tumblr.com",
+                        "expanded_url": "http://mikaylaaaleigh.tumblr.com",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/Sm2jE95ajZ"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 1380,
+        "follow_request_sent": false,
+        "followers_count": 226,
+        "following": false,
+        "friends_count": 119,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 19841367,
+        "id_str": "19841367",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 2,
+        "location": "Worcester, Massachusetts",
+        "name": "Mikayla Leigh",
+        "notifications": false,
+        "profile_background_color": "C6E2EE",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/797836817/b8643a98b92a2ab108fda2295ece85ee.png",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/797836817/b8643a98b92a2ab108fda2295ece85ee.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/19841367/1402692399",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/558430456413421568/f03Kdgg__normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/558430456413421568/f03Kdgg__normal.jpeg",
+        "profile_link_color": "1F98C7",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DAECF4",
+        "profile_text_color": "663B12",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "MikaylaaaLeigh",
+        "statuses_count": 8501,
+        "time_zone": "Central Time (US & Canada)",
+        "url": "http://t.co/Sm2jE95ajZ",
+        "utc_offset": -21600,
+        "verified": false
+    }
+}
