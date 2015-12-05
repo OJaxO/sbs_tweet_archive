@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Dec 04 23:38:30 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 21454307,
+                "id_str": "21454307",
+                "indices": [
+                    0,
+                    13
+                ],
+                "name": "Netflix CS",
+                "screen_name": "Netflixhelps"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 672922959208673280,
+    "id_str": "672922959208673280",
+    "in_reply_to_screen_name": "Netflixhelps",
+    "in_reply_to_status_id": 672922701439348738,
+    "in_reply_to_status_id_str": "672922701439348738",
+    "in_reply_to_user_id": 21454307,
+    "in_reply_to_user_id_str": "21454307",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -1.810417,
+                        50.7239785
+                    ],
+                    [
+                        -1.6817148,
+                        50.7239785
+                    ],
+                    [
+                        -1.6817148,
+                        50.763847
+                    ],
+                    [
+                        -1.810417,
+                        50.763847
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United Kingdom",
+        "country_code": "GB",
+        "full_name": "Christchurch, England",
+        "id": "6a1b0cb35bcaf140",
+        "name": "Christchurch",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/6a1b0cb35bcaf140.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@Netflixhelps ahh ok cool :) no problem ! Any way of me knowing when the bug is squished so I can switch back?",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Mar 31 20:52:07 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "I like to take photos of bands jumping about and screaming in peoples faces \u270c\ufe0f",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "faycranhamphotography.com",
+                        "expanded_url": "http://www.faycranhamphotography.com",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/eeaGNbi6AW"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 5401,
+        "follow_request_sent": false,
+        "followers_count": 292,
+        "following": false,
+        "friends_count": 423,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 27960242,
+        "id_str": "27960242",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 13,
+        "location": "Highcliffe, uk",
+        "name": "faytakesphotos",
+        "notifications": false,
+        "profile_background_color": "F0BBC4",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/695231432/31d78e5e0246b9ef4b48264495f47e21.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/695231432/31d78e5e0246b9ef4b48264495f47e21.jpeg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/27960242/1439926940",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/669981118976958464/SzR4j9RT_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/669981118976958464/SzR4j9RT_normal.jpg",
+        "profile_link_color": "F5ABB5",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "3074A1",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "FayCranham",
+        "statuses_count": 8390,
+        "time_zone": "London",
+        "url": "https://t.co/eeaGNbi6AW",
+        "utc_offset": 0,
+        "verified": false
+    }
+}
