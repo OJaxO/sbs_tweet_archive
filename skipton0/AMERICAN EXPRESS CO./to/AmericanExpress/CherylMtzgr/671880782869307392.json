@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Dec 02 02:37:16 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 42712551,
+                "id_str": "42712551",
+                "indices": [
+                    0,
+                    16
+                ],
+                "name": "American Express",
+                "screen_name": "AmericanExpress"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 671880782869307392,
+    "id_str": "671880782869307392",
+    "in_reply_to_screen_name": "AmericanExpress",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 42712551,
+    "in_reply_to_user_id_str": "42712551",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -84.820272,
+                        38.403186
+                    ],
+                    [
+                        -80.518626,
+                        38.403186
+                    ],
+                    [
+                        -80.518626,
+                        42.327133
+                    ],
+                    [
+                        -84.820272,
+                        42.327133
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Ohio, USA",
+        "id": "de599025180e2ee7",
+        "name": "Ohio",
+        "place_type": "admin",
+        "url": "https://api.twitter.com/1.1/geo/id/de599025180e2ee7.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@AmericanExpress this is the third time you have called and harassed my grandma, sorry some of us have day jobs and can't answer ever 5 mins",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Sep 28 06:12:00 +0000 2012",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "I am just a passing thought in the wind.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "modelmayhem.com/1455700",
+                        "expanded_url": "http://www.modelmayhem.com/1455700",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/EXnnGD5BZ7"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 709,
+        "follow_request_sent": false,
+        "followers_count": 438,
+        "following": false,
+        "friends_count": 1075,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 850555604,
+        "id_str": "850555604",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 1,
+        "location": "Leipsic, Ohio",
+        "name": "Cheryl S. Metzger",
+        "notifications": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000086380313/36f7824685b7ae64a16d1c8decb19e52.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000086380313/36f7824685b7ae64a16d1c8decb19e52.jpeg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/850555604/1438818901",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/635911055697387520/FqIOVF1b_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/635911055697387520/FqIOVF1b_normal.jpg",
+        "profile_link_color": "701016",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "CherylMtzgr",
+        "statuses_count": 2263,
+        "time_zone": "Eastern Time (US & Canada)",
+        "url": "http://t.co/EXnnGD5BZ7",
+        "utc_offset": -18000,
+        "verified": false
+    }
+}
