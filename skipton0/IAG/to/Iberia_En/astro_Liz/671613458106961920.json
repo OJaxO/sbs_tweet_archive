@@ -1,0 +1,124 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 01 08:55:01 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 142608485,
+                "id_str": "142608485",
+                "indices": [
+                    0,
+                    10
+                ],
+                "name": "Iberia English",
+                "screen_name": "Iberia_en"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 671613458106961920,
+    "id_str": "671613458106961920",
+    "in_reply_to_screen_name": "Iberia_en",
+    "in_reply_to_status_id": 671607205100134400,
+    "in_reply_to_status_id_str": "671607205100134400",
+    "in_reply_to_user_id": 142608485,
+    "in_reply_to_user_id_str": "142608485",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        18.3180332,
+                        -34.35839
+                    ],
+                    [
+                        18.659787,
+                        -34.35839
+                    ],
+                    [
+                        18.659787,
+                        -33.8852384
+                    ],
+                    [
+                        18.3180332,
+                        -33.8852384
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "South Africa",
+        "country_code": "ZA",
+        "full_name": "Cape Town, South Africa",
+        "id": "8b9ec16fdc0d7e55",
+        "name": "Cape Town",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/8b9ec16fdc0d7e55.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@Iberia_en I believe so, but I might be mistaken. I filled in a form which gave me a tracking number...?",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Mar 01 13:35:49 +0000 2012",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Astrophysicist @AstronomyUCT. Mouthy Essex girl, lefty liberal & aspiring intersectional feminist. Massive wino. Very impressionable: views prob someone else's.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 699,
+        "follow_request_sent": false,
+        "followers_count": 458,
+        "following": false,
+        "friends_count": 473,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 510250098,
+        "id_str": "510250098",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 24,
+        "location": "Cape Town, South Africa",
+        "name": "Liz B \u2606",
+        "notifications": false,
+        "profile_background_color": "05050A",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000020938201/df28de3fa77febdaca53c32ec9f3bf89.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000020938201/df28de3fa77febdaca53c32ec9f3bf89.jpeg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/510250098/1443434254",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/667018060209897472/zdPZ_5Rs_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/667018060209897472/zdPZ_5Rs_normal.jpg",
+        "profile_link_color": "160FD4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "020812",
+        "profile_text_color": "2280A9",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "astro_Liz",
+        "statuses_count": 9277,
+        "time_zone": "Pretoria",
+        "url": null,
+        "utc_offset": 7200,
+        "verified": false
+    }
+}
