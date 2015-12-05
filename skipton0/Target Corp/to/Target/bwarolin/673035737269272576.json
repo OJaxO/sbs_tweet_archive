@@ -1,0 +1,132 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Dec 05 07:06:38 +0000 2015",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    46,
+                    54
+                ],
+                "text": "blessed"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 89084561,
+                "id_str": "89084561",
+                "indices": [
+                    0,
+                    7
+                ],
+                "name": "Target",
+                "screen_name": "Target"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 673035737269272576,
+    "id_str": "673035737269272576",
+    "in_reply_to_screen_name": "Target",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 89084561,
+    "in_reply_to_user_id_str": "89084561",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -117.523867,
+                        33.85216
+                    ],
+                    [
+                        -84.097028,
+                        33.85216
+                    ],
+                    [
+                        -84.097028,
+                        39.79369
+                    ],
+                    [
+                        -117.523867,
+                        39.79369
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Riverside, CA",
+        "id": "6ba08e404aed471f",
+        "name": "Riverside",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/6ba08e404aed471f.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@Target in California is open until midnight. #blessed",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Nov 13 23:26:55 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "I will live sincerely | Minneapolis | CBU Flight | Instagram: brennawarolin",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 2970,
+        "follow_request_sent": false,
+        "followers_count": 350,
+        "following": false,
+        "friends_count": 379,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 411844287,
+        "id_str": "411844287",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 1,
+        "location": "California, USA",
+        "name": "Brenna Warolin",
+        "notifications": false,
+        "profile_background_color": "FFFFFF",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/433846093399330816/67lUDhR8.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/433846093399330816/67lUDhR8.jpeg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/411844287/1447188099",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/671204685869518848/o1doygmg_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/671204685869518848/o1doygmg_normal.jpg",
+        "profile_link_color": "0099CC",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "F6FFD1",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "bwarolin",
+        "statuses_count": 7620,
+        "time_zone": null,
+        "url": null,
+        "utc_offset": null,
+        "verified": false
+    }
+}

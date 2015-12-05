@@ -1,0 +1,154 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Dec 04 20:48:17 +0000 2015",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    8,
+                    23
+                ],
+                "text": "atlanticavenue"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 89084561,
+                "id_str": "89084561",
+                "indices": [
+                    0,
+                    7
+                ],
+                "name": "Target",
+                "screen_name": "Target"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 672880121544622082,
+    "id_str": "672880121544622082",
+    "in_reply_to_screen_name": "Target",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 89084561,
+    "in_reply_to_user_id_str": "89084561",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -74.026675,
+                        40.683935
+                    ],
+                    [
+                        -73.910408,
+                        40.683935
+                    ],
+                    [
+                        -73.910408,
+                        40.877483
+                    ],
+                    [
+                        -74.026675,
+                        40.877483
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Manhattan, NY",
+        "id": "01a9a39529b27f36",
+        "name": "Manhattan",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/01a9a39529b27f36.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@Target #atlanticavenue  Thx to incompetence I wasted a lunch hr, hurt my back &amp; have a pounding headache. All for their error.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri May 22 22:56:53 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Wife and mom who loves writing for http://t.co/0gQmMpvPlw and working with D3 Sports & Rec.",
+        "entities": {
+            "description": {
+                "urls": [
+                    {
+                        "display_url": "BronxMama.com",
+                        "expanded_url": "http://BronxMama.com",
+                        "indices": [
+                            35,
+                            57
+                        ],
+                        "url": "http://t.co/0gQmMpvPlw"
+                    }
+                ]
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "bronxmama.com",
+                        "expanded_url": "http://www.bronxmama.com",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/6fJqyeFnCB"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 396,
+        "follow_request_sent": false,
+        "followers_count": 188,
+        "following": false,
+        "friends_count": 370,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 41921154,
+        "id_str": "41921154",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 5,
+        "location": "Bronx, NY",
+        "name": "Dalilah Smith-Santos",
+        "notifications": false,
+        "profile_background_color": "FF6699",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme11/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme11/bg.gif",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/630745460232298496/HXNgY2Cf_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/630745460232298496/HXNgY2Cf_normal.jpg",
+        "profile_link_color": "B40B43",
+        "profile_sidebar_border_color": "CC3366",
+        "profile_sidebar_fill_color": "E5507E",
+        "profile_text_color": "362720",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Dalilah83",
+        "statuses_count": 1709,
+        "time_zone": "Eastern Time (US & Canada)",
+        "url": "http://t.co/6fJqyeFnCB",
+        "utc_offset": -18000,
+        "verified": false
+    }
+}

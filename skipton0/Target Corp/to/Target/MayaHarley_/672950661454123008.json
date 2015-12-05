@@ -1,0 +1,124 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Dec 05 01:28:35 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 89084561,
+                "id_str": "89084561",
+                "indices": [
+                    0,
+                    7
+                ],
+                "name": "Target",
+                "screen_name": "Target"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 672950661454123008,
+    "id_str": "672950661454123008",
+    "in_reply_to_screen_name": "Target",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 89084561,
+    "in_reply_to_user_id_str": "89084561",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -77.622033,
+                        38.7170968
+                    ],
+                    [
+                        -77.534718,
+                        38.7170968
+                    ],
+                    [
+                        -77.534718,
+                        38.78464
+                    ],
+                    [
+                        -77.622033,
+                        38.78464
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Linton Hall, VA",
+        "id": "000ab6b1404a5cd8",
+        "name": "Linton Hall",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/000ab6b1404a5cd8.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@Target do you deliver ramen",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Jul 30 19:32:04 +0000 2012",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "I play the trombone so that's fun. sjhs'18",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 2279,
+        "follow_request_sent": false,
+        "followers_count": 262,
+        "following": false,
+        "friends_count": 135,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 726698605,
+        "id_str": "726698605",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 1,
+        "location": "Bristow, VA",
+        "name": "Maya Harley",
+        "notifications": false,
+        "profile_background_color": "FDF1E1",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/628119832/xba84e9b64ffef0e38ddf2bd33ecb171.png",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/628119832/xba84e9b64ffef0e38ddf2bd33ecb171.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/726698605/1446772702",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/662437260957237249/uN9W7850_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/662437260957237249/uN9W7850_normal.jpg",
+        "profile_link_color": "D00018",
+        "profile_sidebar_border_color": "FDF1E1",
+        "profile_sidebar_fill_color": "FDF1E1",
+        "profile_text_color": "D00018",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "MayaHarley_",
+        "statuses_count": 3162,
+        "time_zone": null,
+        "url": null,
+        "utc_offset": null,
+        "verified": false
+    }
+}
