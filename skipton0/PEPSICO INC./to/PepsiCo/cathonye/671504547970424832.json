@@ -1,0 +1,147 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 01 01:42:14 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 21346619,
+                "id_str": "21346619",
+                "indices": [
+                    0,
+                    8
+                ],
+                "name": "PepsiCo",
+                "screen_name": "PepsiCo"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 671504547970424832,
+    "id_str": "671504547970424832",
+    "in_reply_to_screen_name": "PepsiCo",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 21346619,
+    "in_reply_to_user_id_str": "21346619",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -73.388984,
+                        41.094742
+                    ],
+                    [
+                        -73.296065,
+                        41.094742
+                    ],
+                    [
+                        -73.296065,
+                        41.194542
+                    ],
+                    [
+                        -73.388984,
+                        41.194542
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Westport, CT",
+        "id": "223bb92875fd221a",
+        "name": "Westport",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/223bb92875fd221a.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@PepsiCo I've been searching website for how to apply for foundation grants and/or corporate giving - is it deliberately a mystery?",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Dec 19 01:57:29 +0000 2008",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Author: Nigeria Revisited recounts amazing 24 yrs in country, blogger, commentator Nigerian culture, racial justice, African writers; http://t.co/qBxdVCGyj0",
+        "entities": {
+            "description": {
+                "urls": [
+                    {
+                        "display_url": "amzn.to/1zOtDK3",
+                        "expanded_url": "http://amzn.to/1zOtDK3",
+                        "indices": [
+                            134,
+                            156
+                        ],
+                        "url": "http://t.co/qBxdVCGyj0"
+                    }
+                ]
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "catherineonyemelukwe.com",
+                        "expanded_url": "http://catherineonyemelukwe.com/",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/FFold5gcfT"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 284,
+        "follow_request_sent": false,
+        "followers_count": 392,
+        "following": false,
+        "friends_count": 686,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 18231627,
+        "id_str": "18231627",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 19,
+        "location": "Westport CT",
+        "name": "CatherineOnyemelukwe",
+        "notifications": false,
+        "profile_background_color": "642D8B",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/594191179727507457/RxrN_6nw.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/594191179727507457/RxrN_6nw.jpg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/18231627/1430501264",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/443054147705659392/TvjnLydl_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/443054147705659392/TvjnLydl_normal.jpeg",
+        "profile_link_color": "4A913C",
+        "profile_sidebar_border_color": "65B0DA",
+        "profile_sidebar_fill_color": "7AC3EE",
+        "profile_text_color": "3D1957",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "cathonye",
+        "statuses_count": 1097,
+        "time_zone": "Eastern Time (US & Canada)",
+        "url": "http://t.co/FFold5gcfT",
+        "utc_offset": -18000,
+        "verified": false
+    }
+}
