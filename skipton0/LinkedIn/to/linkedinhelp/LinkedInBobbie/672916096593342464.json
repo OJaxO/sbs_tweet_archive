@@ -1,0 +1,147 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Dec 04 23:11:14 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 252792134,
+                "id_str": "252792134",
+                "indices": [
+                    0,
+                    13
+                ],
+                "name": "LinkedIn Help",
+                "screen_name": "LinkedInHelp"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 672916096593342464,
+    "id_str": "672916096593342464",
+    "in_reply_to_screen_name": "LinkedInHelp",
+    "in_reply_to_status_id": 672500918932414464,
+    "in_reply_to_status_id_str": "672500918932414464",
+    "in_reply_to_user_id": 252792134,
+    "in_reply_to_user_id_str": "252792134",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -75.280284,
+                        39.871811
+                    ],
+                    [
+                        -74.955712,
+                        39.871811
+                    ],
+                    [
+                        -74.955712,
+                        40.13792
+                    ],
+                    [
+                        -75.280284,
+                        40.13792
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Philadelphia, PA",
+        "id": "e4a0d228eb6be76b",
+        "name": "Philadelphia",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/e4a0d228eb6be76b.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@LinkedInHelp Thank you for listening!  I appreciate your help!",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Nov 05 00:13:59 +0000 2013",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "#LinkedIn \u2605 #SocialSelling \u2605 #Networking\u2605 #Twitter \u2605 #B2B \u2605 #AllAboutLeverage http://t.co/2IIMZX330m",
+        "entities": {
+            "description": {
+                "urls": [
+                    {
+                        "display_url": "linkedin.com/in/bobbiefoedi\u2026",
+                        "expanded_url": "http://www.linkedin.com/in/bobbiefoedisch/en",
+                        "indices": [
+                            78,
+                            100
+                        ],
+                        "url": "http://t.co/2IIMZX330m"
+                    }
+                ]
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "allaboutleveragellc.com",
+                        "expanded_url": "http://www.allaboutleveragellc.com",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/cMaOpO6913"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 671,
+        "follow_request_sent": false,
+        "followers_count": 9416,
+        "following": false,
+        "friends_count": 8496,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 2175002503,
+        "id_str": "2175002503",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 468,
+        "location": "Greater Philadelphia Area, PA",
+        "name": "Bobbie Foedisch",
+        "notifications": false,
+        "profile_background_color": "E8EBE8",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/462243746306719744/sS9ZxYmQ.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/462243746306719744/sS9ZxYmQ.jpeg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2175002503/1428849950",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/587265755957211136/A4GXxeSh_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/587265755957211136/A4GXxeSh_normal.jpg",
+        "profile_link_color": "DD2E44",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "7AC3EE",
+        "profile_text_color": "3D1957",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "LinkedInBobbie",
+        "statuses_count": 8761,
+        "time_zone": null,
+        "url": "http://t.co/cMaOpO6913",
+        "utc_offset": null,
+        "verified": false
+    }
+}
