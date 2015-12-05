@@ -1,0 +1,172 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Dec 05 20:10:57 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "media": [
+            {
+                "display_url": "pic.twitter.com/P50o8vpCE4",
+                "expanded_url": "http://twitter.com/acesherwin/status/673233116711006210/photo/1",
+                "id": 673233096372789250,
+                "id_str": "673233096372789250",
+                "indices": [
+                    117,
+                    140
+                ],
+                "media_url": "http://pbs.twimg.com/media/CVfN7yhWIAItTSg.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/CVfN7yhWIAItTSg.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 768,
+                        "resize": "fit",
+                        "w": 1024
+                    },
+                    "medium": {
+                        "h": 450,
+                        "resize": "fit",
+                        "w": 600
+                    },
+                    "small": {
+                        "h": 255,
+                        "resize": "fit",
+                        "w": 340
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/P50o8vpCE4"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 1542862735,
+                "id_str": "1542862735",
+                "indices": [
+                    0,
+                    8
+                ],
+                "name": "Ryanair",
+                "screen_name": "Ryanair"
+            },
+            {
+                "id": 2689427773,
+                "id_str": "2689427773",
+                "indices": [
+                    9,
+                    24
+                ],
+                "name": "Ryanair Flights",
+                "screen_name": "RyanairFlights"
+            }
+        ]
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": null,
+    "id": 673233116711006210,
+    "id_str": "673233116711006210",
+    "in_reply_to_screen_name": "Ryanair",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 1542862735,
+    "in_reply_to_user_id_str": "1542862735",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -9.9381228,
+                        52.5572129
+                    ],
+                    [
+                        -8.2819755,
+                        52.5572129
+                    ],
+                    [
+                        -8.2819755,
+                        53.160735
+                    ],
+                    [
+                        -9.9381228,
+                        53.160735
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "Ireland",
+        "country_code": "IE",
+        "full_name": "Clare, Ireland",
+        "id": "c275c772a67a6ffc",
+        "name": "Clare",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/c275c772a67a6ffc.json"
+    },
+    "possibly_sensitive": false,
+    "retweet_count": 1,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@Ryanair @RyanairFlights Stranded at Shannon Airport. People are waiting for info on what time the buses will arrive https://t.co/P50o8vpCE4",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Aug 08 16:38:47 +0000 2012",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 0,
+        "follow_request_sent": false,
+        "followers_count": 1,
+        "following": false,
+        "friends_count": 8,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 745526311,
+        "id_str": "745526311",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 0,
+        "location": "",
+        "name": "Sherwin Acebuche",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/500723438907326464/5N8MWjrg_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/500723438907326464/5N8MWjrg_normal.jpeg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "acesherwin",
+        "statuses_count": 48,
+        "time_zone": "Amsterdam",
+        "url": null,
+        "utc_offset": 3600,
+        "verified": false
+    }
+}

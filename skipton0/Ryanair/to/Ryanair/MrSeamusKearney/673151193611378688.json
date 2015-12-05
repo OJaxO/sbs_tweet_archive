@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Dec 05 14:45:25 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 1542862735,
+                "id_str": "1542862735",
+                "indices": [
+                    0,
+                    8
+                ],
+                "name": "Ryanair",
+                "screen_name": "Ryanair"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 673151193611378688,
+    "id_str": "673151193611378688",
+    "in_reply_to_screen_name": "Ryanair",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 1542862735,
+    "in_reply_to_user_id_str": "1542862735",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -0.2285894,
+                        51.4772246
+                    ],
+                    [
+                        -0.1497908,
+                        51.4772246
+                    ],
+                    [
+                        -0.1497908,
+                        51.5303477
+                    ],
+                    [
+                        -0.2285894,
+                        51.5303477
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United Kingdom",
+        "country_code": "GB",
+        "full_name": "Kensington, London",
+        "id": "01c7ed8caf11e8b2",
+        "name": "Kensington",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/01c7ed8caf11e8b2.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@Ryanair hi, what's the status of FR119 Gatwick to Dublin scheduled for 21.30. Airport says 'Enquire Airline'.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Jan 11 21:28:17 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Tech | Business | Computer Science student | Politics | Fine Gael | Liberal | First batch of coders at @CodersInstitute | opinions my own",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "instagram.com/mrseamuskearney",
+                        "expanded_url": "http://instagram.com/mrseamuskearney",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/1VRcL643r4"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 11761,
+        "follow_request_sent": false,
+        "followers_count": 2315,
+        "following": false,
+        "friends_count": 1963,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 103974556,
+        "id_str": "103974556",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 67,
+        "location": "Cork & Dublin, Ireland",
+        "name": "S\u00e9amus Kearney",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/471041706838601728/QfeDbL2P.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/471041706838601728/QfeDbL2P.jpeg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/103974556/1445012577",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/655057960322904064/Dm8tUSry_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/655057960322904064/Dm8tUSry_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "MrSeamusKearney",
+        "statuses_count": 23111,
+        "time_zone": "Dublin",
+        "url": "http://t.co/1VRcL643r4",
+        "utc_offset": 0,
+        "verified": false
+    }
+}

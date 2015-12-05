@@ -1,0 +1,132 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Nov 29 02:46:33 +0000 2015",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    86,
+                    99
+                ],
+                "text": "MakesNoSense"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 14791918,
+                "id_str": "14791918",
+                "indices": [
+                    0,
+                    10
+                ],
+                "name": "The Home Depot",
+                "screen_name": "HomeDepot"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 670795956875567104,
+    "id_str": "670795956875567104",
+    "in_reply_to_screen_name": "HomeDepot",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 14791918,
+    "in_reply_to_user_id_str": "14791918",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -76.448383,
+                        36.66
+                    ],
+                    [
+                        -76.143408,
+                        36.66
+                    ],
+                    [
+                        -76.143408,
+                        36.866431
+                    ],
+                    [
+                        -76.448383,
+                        36.866431
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Chesapeake, VA",
+        "id": "73d1c1c11b675932",
+        "name": "Chesapeake",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/73d1c1c11b675932.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@HomeDepot So you charge $59 delivery fee even if I pick it up myself at the store? \ud83e\udd14\ud83d\ude16#MakesNoSense",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri May 01 19:27:09 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 43,
+        "follow_request_sent": false,
+        "followers_count": 104,
+        "following": false,
+        "friends_count": 637,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 37018931,
+        "id_str": "37018931",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 1,
+        "location": "Virginia Beach",
+        "name": "Mel",
+        "notifications": false,
+        "profile_background_color": "352726",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/37018931/1434763266",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/652296023579205633/PjF5fToQ_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/652296023579205633/PjF5fToQ_normal.jpg",
+        "profile_link_color": "D02B55",
+        "profile_sidebar_border_color": "829D5E",
+        "profile_sidebar_fill_color": "99CC33",
+        "profile_text_color": "3E4415",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "MelBabeeeVA",
+        "statuses_count": 582,
+        "time_zone": "Eastern Time (US & Canada)",
+        "url": null,
+        "utc_offset": -18000,
+        "verified": false
+    }
+}
