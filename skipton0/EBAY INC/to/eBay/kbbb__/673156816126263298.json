@@ -1,0 +1,124 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Dec 05 15:07:46 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 19709040,
+                "id_str": "19709040",
+                "indices": [
+                    0,
+                    5
+                ],
+                "name": "eBay",
+                "screen_name": "eBay"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 673156816126263298,
+    "id_str": "673156816126263298",
+    "in_reply_to_screen_name": "eBay",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 19709040,
+    "in_reply_to_user_id_str": "19709040",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -4.1158701,
+                        55.747775
+                    ],
+                    [
+                        -4.016585,
+                        55.747775
+                    ],
+                    [
+                        -4.016585,
+                        55.808597
+                    ],
+                    [
+                        -4.1158701,
+                        55.808597
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United Kingdom",
+        "country_code": "GB",
+        "full_name": "Hamilton, Scotland",
+        "id": "2b454edc82f17a78",
+        "name": "Hamilton",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/2b454edc82f17a78.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@eBay customer service is the worst in the world \ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Dec 21 22:38:51 +0000 2008",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "mwi",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 282,
+        "follow_request_sent": false,
+        "followers_count": 881,
+        "following": false,
+        "friends_count": 1691,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 18294492,
+        "id_str": "18294492",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 2,
+        "location": "",
+        "name": "KEIRAN",
+        "notifications": false,
+        "profile_background_color": "0A1DF5",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/18294492/1447020049",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/639576110150381569/9ntIDd4O_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/639576110150381569/9ntIDd4O_normal.jpg",
+        "profile_link_color": "FF0015",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "FFFFFF",
+        "profile_text_color": "1100FF",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "kbbb__",
+        "statuses_count": 2791,
+        "time_zone": "Edinburgh",
+        "url": null,
+        "utc_offset": 0,
+        "verified": false
+    }
+}
