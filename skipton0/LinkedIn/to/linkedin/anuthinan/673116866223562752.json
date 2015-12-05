@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Dec 05 12:29:01 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 13058772,
+                "id_str": "13058772",
+                "indices": [
+                    0,
+                    9
+                ],
+                "name": "LinkedIn",
+                "screen_name": "LinkedIn"
+            }
+        ]
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": null,
+    "id": 673116866223562752,
+    "id_str": "673116866223562752",
+    "in_reply_to_screen_name": "LinkedIn",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 13058772,
+    "in_reply_to_user_id_str": "13058772",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        79.6505263,
+                        5.9213829
+                    ],
+                    [
+                        81.8787816,
+                        5.9213829
+                    ],
+                    [
+                        81.8787816,
+                        9.8359375
+                    ],
+                    [
+                        79.6505263,
+                        9.8359375
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "Sri Lanka",
+        "country_code": "LK",
+        "full_name": "Sri Lanka",
+        "id": "173c2bb9d42baaa5",
+        "name": "Sri Lanka",
+        "place_type": "country",
+        "url": "https://api.twitter.com/1.1/geo/id/173c2bb9d42baaa5.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@LinkedIn New interface more attractive :)",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Nov 24 13:03:43 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "University of Colombo of Faculty of Management, Srilanka",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "vizify.com/s-anuthinan/tw\u2026",
+                        "expanded_url": "https://www.vizify.com/s-anuthinan/twitter-video",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/nM9qafZRxO"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 112,
+        "follow_request_sent": false,
+        "followers_count": 886,
+        "following": false,
+        "friends_count": 806,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 92267467,
+        "id_str": "92267467",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 27,
+        "location": "Trincomalee",
+        "name": "S Anuthinan",
+        "notifications": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/92267467/1426689087",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/634172929362653184/fyw0ckoU_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/634172929362653184/fyw0ckoU_normal.jpg",
+        "profile_link_color": "009999",
+        "profile_sidebar_border_color": "EEEEEE",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "anuthinan",
+        "statuses_count": 17097,
+        "time_zone": "Sri Jayawardenepura",
+        "url": "https://t.co/nM9qafZRxO",
+        "utc_offset": 19800,
+        "verified": false
+    }
+}
