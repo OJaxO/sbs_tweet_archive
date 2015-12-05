@@ -1,0 +1,147 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Dec 05 05:59:12 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 271516607,
+                "id_str": "271516607",
+                "indices": [
+                    0,
+                    8
+                ],
+                "name": "UPS Customer Support",
+                "screen_name": "UPSHelp"
+            },
+            {
+                "id": 18224975,
+                "id_str": "18224975",
+                "indices": [
+                    12,
+                    20
+                ],
+                "name": "Bonobos",
+                "screen_name": "Bonobos"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 673018766108827648,
+    "id_str": "673018766108827648",
+    "in_reply_to_screen_name": "UPSHelp",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 271516607,
+    "in_reply_to_user_id_str": "271516607",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -74.044085,
+                        40.7336
+                    ],
+                    [
+                        -74.020431,
+                        40.7336
+                    ],
+                    [
+                        -74.020431,
+                        40.7591594
+                    ],
+                    [
+                        -74.044085,
+                        40.7591594
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Hoboken, NJ",
+        "id": "e9143a85705b4d40",
+        "name": "Hoboken",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/e9143a85705b4d40.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@UPSHelp My @Bonobos package was delivered at 11:57AM. It's missing. I was at home at the time and no one rang the bell.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Feb 10 22:14:05 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "InfoSec/Tech professional with finance experience. Startup enthusiast. Knicks fan. Love working out, clean cooking, & water sports. @NJTech",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "coreystary.com",
+                        "expanded_url": "http://coreystary.com",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/2ZonaxUL9g"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 104,
+        "follow_request_sent": false,
+        "followers_count": 58,
+        "following": false,
+        "friends_count": 102,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 250337383,
+        "id_str": "250337383",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 10,
+        "location": "Hoboken, NJ",
+        "name": "Corey",
+        "notifications": false,
+        "profile_background_color": "022330",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/250337383/1447478118",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/665397570479464452/WCu23Do5_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/665397570479464452/WCu23Do5_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "A8C7F7",
+        "profile_sidebar_fill_color": "C0DFEC",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "RealChesterious",
+        "statuses_count": 1660,
+        "time_zone": "Eastern Time (US & Canada)",
+        "url": "https://t.co/2ZonaxUL9g",
+        "utc_offset": -18000,
+        "verified": false
+    }
+}

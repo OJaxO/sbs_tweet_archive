@@ -1,0 +1,124 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Dec 05 00:53:23 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 271516607,
+                "id_str": "271516607",
+                "indices": [
+                    0,
+                    8
+                ],
+                "name": "UPS Customer Support",
+                "screen_name": "UPSHelp"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 672941803444809728,
+    "id_str": "672941803444809728",
+    "in_reply_to_screen_name": "UPSHelp",
+    "in_reply_to_status_id": 672940557115727872,
+    "in_reply_to_status_id_str": "672940557115727872",
+    "in_reply_to_user_id": 271516607,
+    "in_reply_to_user_id_str": "271516607",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -74.1977277,
+                        40.82028
+                    ],
+                    [
+                        -74.118533,
+                        40.82028
+                    ],
+                    [
+                        -74.118533,
+                        40.899384
+                    ],
+                    [
+                        -74.1977277,
+                        40.899384
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Clifton, NJ",
+        "id": "7356b662670b2c31",
+        "name": "Clifton",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/7356b662670b2c31.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for i\u039fS</a>",
+    "text": "@UPSHelp no, luckily it was clothing. Hopefully someone else\u2019s fragile package wasn\u2019t treated the same way though.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Sep 17 04:54:47 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "List of credentials here. Funny anecdote here.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 6487,
+        "follow_request_sent": false,
+        "followers_count": 861,
+        "following": false,
+        "friends_count": 1246,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 374901099,
+        "id_str": "374901099",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 29,
+        "location": "Clifton, NJ",
+        "name": "FrankCapo",
+        "notifications": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/596249818/rutlzxy30ucrjj8drv9r.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/596249818/rutlzxy30ucrjj8drv9r.jpeg",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/374901099/1397051097",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/616825408579862529/iBwAD8jZ_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/616825408579862529/iBwAD8jZ_normal.jpg",
+        "profile_link_color": "009999",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "capo_of_clifton",
+        "statuses_count": 44852,
+        "time_zone": "Eastern Time (US & Canada)",
+        "url": null,
+        "utc_offset": -18000,
+        "verified": false
+    }
+}

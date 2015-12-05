@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Dec 05 01:53:57 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 271516607,
+                "id_str": "271516607",
+                "indices": [
+                    0,
+                    8
+                ],
+                "name": "UPS Customer Support",
+                "screen_name": "UPSHelp"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 672957047441195008,
+    "id_str": "672957047441195008",
+    "in_reply_to_screen_name": "UPSHelp",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 271516607,
+    "in_reply_to_user_id_str": "271516607",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -120.00574,
+                        35.002086
+                    ],
+                    [
+                        -114.039649,
+                        35.002086
+                    ],
+                    [
+                        -114.039649,
+                        42.002208
+                    ],
+                    [
+                        -120.00574,
+                        42.002208
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Nevada, USA",
+        "id": "d374fb61a20fb74f",
+        "name": "Nevada",
+        "place_type": "admin",
+        "url": "https://api.twitter.com/1.1/geo/id/d374fb61a20fb74f.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@UPSHelp Curious to know why my pkg delivery keeps getting rescheduled and why 2 of ur CSRS assured me i would b rcving it 2day.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Aug 17 20:32:19 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Hmmm.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "facebook.com/buried.jim",
+                        "expanded_url": "http://www.facebook.com/buried.jim",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/iDl8KDlsLE"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 2093,
+        "follow_request_sent": false,
+        "followers_count": 259,
+        "following": false,
+        "friends_count": 902,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 357083071,
+        "id_str": "357083071",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 12,
+        "location": "Reno, NV",
+        "name": "Jim Gaston",
+        "notifications": false,
+        "profile_background_color": "0F0A02",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/447484820717723648/Q7pS-exw.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/447484820717723648/Q7pS-exw.jpeg",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/357083071/1443454437",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/667978258558771200/wypls0yy_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/667978258558771200/wypls0yy_normal.jpg",
+        "profile_link_color": "1909F2",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "FCFCFC",
+        "profile_text_color": "083AF0",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Jimmahz",
+        "statuses_count": 9146,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "http://t.co/iDl8KDlsLE",
+        "utc_offset": -28800,
+        "verified": false
+    }
+}
