@@ -1,0 +1,124 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Dec 05 06:46:11 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 111679943,
+                "id_str": "111679943",
+                "indices": [
+                    0,
+                    14
+                ],
+                "name": "McDonald's",
+                "screen_name": "McDonaldsCorp"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 673030587913932800,
+    "id_str": "673030587913932800",
+    "in_reply_to_screen_name": "McDonaldsCorp",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 111679943,
+    "in_reply_to_user_id_str": "111679943",
+    "is_quote_status": false,
+    "lang": "in",
+    "metadata": {
+        "iso_language_code": "in",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -82.21201,
+                        33.338854
+                    ],
+                    [
+                        -81.9143598,
+                        33.338854
+                    ],
+                    [
+                        -81.9143598,
+                        33.542581
+                    ],
+                    [
+                        -82.21201,
+                        33.542581
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Augusta, GA",
+        "id": "00c6c3cd3e783197",
+        "name": "Augusta",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/00c6c3cd3e783197.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@McDonaldsCorp wazzzzam ? \ud83c\udf5f",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Aug 16 17:40:21 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Est.XXMDCCXCV. 20 years thuggin. fuck it, it is what it iz . #RiPMama",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 909,
+        "follow_request_sent": false,
+        "followers_count": 1152,
+        "following": false,
+        "friends_count": 1038,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 66154886,
+        "id_str": "66154886",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 3,
+        "location": "ADW \u2764",
+        "name": "QuetteDawg",
+        "notifications": false,
+        "profile_background_color": "0A0A0A",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000073784325/d24b3c6397bea600b8af2436525472e6.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000073784325/d24b3c6397bea600b8af2436525472e6.jpeg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/66154886/1446682575",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/673006518095052800/VFBrTFHi_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/673006518095052800/VFBrTFHi_normal.jpg",
+        "profile_link_color": "0A0A0A",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "1B1D1F",
+        "profile_text_color": "F4F2F5",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "_LOUDtreez",
+        "statuses_count": 69138,
+        "time_zone": "Eastern Time (US & Canada)",
+        "url": null,
+        "utc_offset": -18000,
+        "verified": false
+    }
+}

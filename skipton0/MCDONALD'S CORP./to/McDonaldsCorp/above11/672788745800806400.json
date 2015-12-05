@@ -1,0 +1,134 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Dec 04 14:45:11 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 111679943,
+                "id_str": "111679943",
+                "indices": [
+                    0,
+                    14
+                ],
+                "name": "McDonald's",
+                "screen_name": "McDonaldsCorp"
+            },
+            {
+                "id": 2248573141,
+                "id_str": "2248573141",
+                "indices": [
+                    15,
+                    27
+                ],
+                "name": "McDonald's UK",
+                "screen_name": "McDonaldsUK"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 672788745800806400,
+    "id_str": "672788745800806400",
+    "in_reply_to_screen_name": "McDonaldsCorp",
+    "in_reply_to_status_id": 672788346784112640,
+    "in_reply_to_status_id_str": "672788346784112640",
+    "in_reply_to_user_id": 111679943,
+    "in_reply_to_user_id_str": "111679943",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -7.3402155,
+                        53.9007082
+                    ],
+                    [
+                        -6.5491253,
+                        53.9007082
+                    ],
+                    [
+                        -6.5491253,
+                        54.4214337
+                    ],
+                    [
+                        -7.3402155,
+                        54.4214337
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "Ireland",
+        "country_code": "IE",
+        "full_name": "Monaghan, Ireland",
+        "id": "c644e13b5a5b5bcf",
+        "name": "Monaghan",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/c644e13b5a5b5bcf.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@McDonaldsCorp @McDonaldsUK hi guys I'm in Ireland. So can't see the UK helping me out.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun May 02 10:06:02 +0000 2010",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 401,
+        "follow_request_sent": false,
+        "followers_count": 68,
+        "following": false,
+        "friends_count": 332,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 139352843,
+        "id_str": "139352843",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 0,
+        "location": "Longford",
+        "name": "sonja mateos",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/139352843/1352649452",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/646759792405540864/RBCxRtSI_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/646759792405540864/RBCxRtSI_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "above11",
+        "statuses_count": 646,
+        "time_zone": null,
+        "url": null,
+        "utc_offset": null,
+        "verified": false
+    }
+}
