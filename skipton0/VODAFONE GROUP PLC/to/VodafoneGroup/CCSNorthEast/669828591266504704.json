@@ -1,0 +1,166 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Nov 26 10:42:35 +0000 2015",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    53,
+                    57
+                ],
+                "text": "M2M"
+            }
+        ],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "bit.ly/1R82w2r",
+                "expanded_url": "http://bit.ly/1R82w2r",
+                "indices": [
+                    77,
+                    100
+                ],
+                "url": "https://t.co/RWw6PN01nN"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 466341559,
+                "id_str": "466341559",
+                "indices": [
+                    0,
+                    14
+                ],
+                "name": "Vodafone Group",
+                "screen_name": "VodafoneGroup"
+            },
+            {
+                "id": 819722048,
+                "id_str": "819722048",
+                "indices": [
+                    29,
+                    41
+                ],
+                "name": "JCB",
+                "screen_name": "JCBmachines"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 669828591266504704,
+    "id_str": "669828591266504704",
+    "in_reply_to_screen_name": "VodafoneGroup",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 466341559,
+    "in_reply_to_user_id_str": "466341559",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -1.278461,
+                        54.5282785
+                    ],
+                    [
+                        -1.166542,
+                        54.5282785
+                    ],
+                    [
+                        -1.166542,
+                        54.59055
+                    ],
+                    [
+                        -1.278461,
+                        54.59055
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United Kingdom",
+        "country_code": "GB",
+        "full_name": "Middlesbrough, England",
+        "id": "2dc53e413a6cbcd8",
+        "name": "Middlesbrough",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/2dc53e413a6cbcd8.json"
+    },
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@VodafoneGroup partners with @JCBmachines to provide #M2M equipment in India https://t.co/RWw6PN01nN Could this roll out across the UK?",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Jul 29 14:15:45 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "A friendly bunch of professional tech enthusiasts. Providing businesses across the UK with innovative, converged Telecom & IT solutions. Established since 1989.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "ccsmobile.co.uk",
+                        "expanded_url": "http://www.ccsmobile.co.uk",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/aBDDaJ9LQK"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 1293,
+        "follow_request_sent": false,
+        "followers_count": 1000,
+        "following": false,
+        "friends_count": 947,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 61203987,
+        "id_str": "61203987",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 111,
+        "location": "Comms House, North East, UK",
+        "name": "CCS",
+        "notifications": false,
+        "profile_background_color": "AFD136",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000041542445/b9254babf46de5dfd5234041c1e3c175.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000041542445/b9254babf46de5dfd5234041c1e3c175.jpeg",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/61203987/1435660759",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/656854763057913856/apBrA6zG_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/656854763057913856/apBrA6zG_normal.jpg",
+        "profile_link_color": "B6EB67",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "99CC33",
+        "profile_text_color": "3E4415",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "CCSNorthEast",
+        "statuses_count": 5663,
+        "time_zone": "London",
+        "url": "http://t.co/aBDDaJ9LQK",
+        "utc_offset": 0,
+        "verified": false
+    }
+}
