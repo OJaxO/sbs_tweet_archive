@@ -1,0 +1,318 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Dec 04 19:05:45 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/dedeharj/statu\u2026",
+                "expanded_url": "https://twitter.com/dedeharj/status/672638191254376449",
+                "indices": [
+                    117,
+                    140
+                ],
+                "url": "https://t.co/sBkigerXiX"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 19709040,
+                "id_str": "19709040",
+                "indices": [
+                    0,
+                    5
+                ],
+                "name": "eBay",
+                "screen_name": "eBay"
+            },
+            {
+                "id": 783214,
+                "id_str": "783214",
+                "indices": [
+                    6,
+                    14
+                ],
+                "name": "Twitter",
+                "screen_name": "twitter"
+            },
+            {
+                "id": 218984871,
+                "id_str": "218984871",
+                "indices": [
+                    15,
+                    22
+                ],
+                "name": "Policy",
+                "screen_name": "policy"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 672854317691371520,
+    "id_str": "672854317691371520",
+    "in_reply_to_screen_name": "eBay",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 19709040,
+    "in_reply_to_user_id_str": "19709040",
+    "is_quote_status": true,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -105.109815,
+                        39.614151
+                    ],
+                    [
+                        -104.734372,
+                        39.614151
+                    ],
+                    [
+                        -104.734372,
+                        39.812975
+                    ],
+                    [
+                        -105.109815,
+                        39.812975
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Denver, CO",
+        "id": "b49b3053b5c25bf5",
+        "name": "Denver",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/b49b3053b5c25bf5.json"
+    },
+    "possibly_sensitive": false,
+    "quoted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Fri Dec 04 04:46:56 +0000 2015",
+        "entities": {
+            "hashtags": [
+                {
+                    "indices": [
+                        2,
+                        7
+                    ],
+                    "text": "NAZI"
+                },
+                {
+                    "indices": [
+                        10,
+                        15
+                    ],
+                    "text": "EBAY"
+                },
+                {
+                    "indices": [
+                        24,
+                        33
+                    ],
+                    "text": "SWASTIKA"
+                },
+                {
+                    "indices": [
+                        72,
+                        76
+                    ],
+                    "text": "USA"
+                },
+                {
+                    "indices": [
+                        77,
+                        86
+                    ],
+                    "text": "ComicCon"
+                },
+                {
+                    "indices": [
+                        87,
+                        103
+                    ],
+                    "text": "BatmanvSuperman"
+                },
+                {
+                    "indices": [
+                        104,
+                        116
+                    ],
+                    "text": "Republicans"
+                },
+                {
+                    "indices": [
+                        117,
+                        127
+                    ],
+                    "text": "Trump2016"
+                },
+                {
+                    "indices": [
+                        128,
+                        133
+                    ],
+                    "text": "Isis"
+                },
+                {
+                    "indices": [
+                        134,
+                        137
+                    ],
+                    "text": "UK"
+                }
+            ],
+            "symbols": [],
+            "urls": [
+                {
+                    "display_url": "stores.ebay.com/arcanetreasures",
+                    "expanded_url": "http://stores.ebay.com/arcanetreasures",
+                    "indices": [
+                        48,
+                        71
+                    ],
+                    "url": "https://t.co/77wJI0szbc"
+                }
+            ],
+            "user_mentions": []
+        },
+        "favorite_count": 0,
+        "favorited": false,
+        "geo": null,
+        "id": 672638191254376449,
+        "id_str": "672638191254376449",
+        "in_reply_to_screen_name": null,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "is_quote_status": false,
+        "lang": "ja",
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "place": null,
+        "possibly_sensitive": false,
+        "retweet_count": 0,
+        "retweeted": false,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": "\u5350 #NAZI \u5350 #EBAY ITEMS W/#SWASTIKA! Visit Store: https://t.co/77wJI0szbc #USA #ComicCon #BatmanvSuperman #Republicans #Trump2016 #Isis #UK",
+        "truncated": false,
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Fri Oct 31 11:29:46 +0000 2014",
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "",
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "favourites_count": 17,
+            "follow_request_sent": false,
+            "followers_count": 57,
+            "following": false,
+            "friends_count": 208,
+            "geo_enabled": false,
+            "has_extended_profile": false,
+            "id": 2884844256,
+            "id_str": "2884844256",
+            "is_translation_enabled": false,
+            "is_translator": false,
+            "lang": "en",
+            "listed_count": 3,
+            "location": "",
+            "name": "Dede Harjati",
+            "notifications": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/528147131542933505/z3ztZ-ep_normal.jpeg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/528147131542933505/z3ztZ-ep_normal.jpeg",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "dedeharj",
+            "statuses_count": 370,
+            "time_zone": null,
+            "url": null,
+            "utc_offset": null,
+            "verified": false
+        }
+    },
+    "quoted_status_id": 672638191254376449,
+    "quoted_status_id_str": "672638191254376449",
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@eBay @twitter @policy why are you allowing this? It should be shut down immediately according to your own policies. https://t.co/sBkigerXiX",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Feb 20 20:42:30 +0000 2012",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "I tweet because I care.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 1264,
+        "follow_request_sent": false,
+        "followers_count": 253,
+        "following": false,
+        "friends_count": 680,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 498230908,
+        "id_str": "498230908",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 8,
+        "location": "Denver, CO",
+        "name": "Kristi T",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/498230908/1357266826",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/489241779284504576/FO3ikt_y_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/489241779284504576/FO3ikt_y_normal.jpeg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "boldog_tanc",
+        "statuses_count": 3421,
+        "time_zone": "Arizona",
+        "url": null,
+        "utc_offset": -25200,
+        "verified": false
+    }
+}

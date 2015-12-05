@@ -1,0 +1,134 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Dec 02 14:56:53 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 19709040,
+                "id_str": "19709040",
+                "indices": [
+                    0,
+                    5
+                ],
+                "name": "eBay",
+                "screen_name": "eBay"
+            },
+            {
+                "id": 393964491,
+                "id_str": "393964491",
+                "indices": [
+                    61,
+                    71
+                ],
+                "name": "Vaayu'15",
+                "screen_name": "VaayuFest"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 672066914995318785,
+    "id_str": "672066914995318785",
+    "in_reply_to_screen_name": "eBay",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 19709040,
+    "in_reply_to_user_id_str": "19709040",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        72.7458022,
+                        18.8453429
+                    ],
+                    [
+                        73.0036476,
+                        18.8453429
+                    ],
+                    [
+                        73.0036476,
+                        19.5029372
+                    ],
+                    [
+                        72.7458022,
+                        19.5029372
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "India",
+        "country_code": "IN",
+        "full_name": "Mumbai, Maharashtra",
+        "id": "7929cea6bd5b32bd",
+        "name": "Mumbai",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/7929cea6bd5b32bd.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@eBay Wud lyk 2 get in touch for a branding opportunity with @VaayuFest on 9 dec'15.\nassociations.vaayu@gmail.com\n9920106993",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Jul 12 09:56:54 +0000 2015",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "just a seedha saadha sa good boy.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 25,
+        "follow_request_sent": false,
+        "followers_count": 16,
+        "following": false,
+        "friends_count": 70,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 3277291926,
+        "id_str": "3277291926",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 0,
+        "location": "",
+        "name": "Pratik Wahi",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3277291926/1437635495",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/620170344133820416/VWSDf2Aw_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/620170344133820416/VWSDf2Aw_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "WahiPratik",
+        "statuses_count": 115,
+        "time_zone": null,
+        "url": null,
+        "utc_offset": null,
+        "verified": false
+    }
+}
