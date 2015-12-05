@@ -1,0 +1,132 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Dec 04 23:52:29 +0000 2015",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    66,
+                    82
+                ],
+                "text": "lonetreeantioch"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 1178011,
+                "id_str": "1178011",
+                "indices": [
+                    0,
+                    11
+                ],
+                "name": "Wells Fargo",
+                "screen_name": "WellsFargo"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 672926479433494528,
+    "id_str": "672926479433494528",
+    "in_reply_to_screen_name": "WellsFargo",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 1178011,
+    "in_reply_to_user_id_str": "1178011",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -121.754989,
+                        37.891224
+                    ],
+                    [
+                        -121.677919,
+                        37.891224
+                    ],
+                    [
+                        -121.677919,
+                        37.971552
+                    ],
+                    [
+                        -121.754989,
+                        37.971552
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Brentwood, CA",
+        "id": "d49a48f3c233112c",
+        "name": "Brentwood",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/d49a48f3c233112c.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@WellsFargo Veronica Villegas is amazing! Great customer service. #lonetreeantioch",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat May 16 01:17:37 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "I create for it is within the image I was created in.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 133,
+        "follow_request_sent": false,
+        "followers_count": 616,
+        "following": false,
+        "friends_count": 607,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 40379006,
+        "id_str": "40379006",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 17,
+        "location": "Under The California Sunshine",
+        "name": "Melinda Kristine",
+        "notifications": false,
+        "profile_background_color": "7D606C",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/556448614/1e952348979d11e1b10e123138105d6b_7.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/556448614/1e952348979d11e1b10e123138105d6b_7.jpg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/40379006/1411703593",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/515348338497970176/Do8uYOh1_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/515348338497970176/Do8uYOh1_normal.jpeg",
+        "profile_link_color": "610627",
+        "profile_sidebar_border_color": "212121",
+        "profile_sidebar_fill_color": "FFFFFF",
+        "profile_text_color": "1F001F",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "MelindaKristine",
+        "statuses_count": 6351,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": null,
+        "utc_offset": -28800,
+        "verified": false
+    }
+}

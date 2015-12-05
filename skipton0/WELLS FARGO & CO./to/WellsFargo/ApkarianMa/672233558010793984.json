@@ -1,0 +1,124 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Dec 03 01:59:04 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 1178011,
+                "id_str": "1178011",
+                "indices": [
+                    0,
+                    11
+                ],
+                "name": "Wells Fargo",
+                "screen_name": "WellsFargo"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 672233558010793984,
+    "id_str": "672233558010793984",
+    "in_reply_to_screen_name": "WellsFargo",
+    "in_reply_to_status_id": 652555086988623872,
+    "in_reply_to_status_id_str": "652555086988623872",
+    "in_reply_to_user_id": 1178011,
+    "in_reply_to_user_id_str": "1178011",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -115.116116,
+                        36.1075816
+                    ],
+                    [
+                        -115.006139,
+                        36.1075816
+                    ],
+                    [
+                        -115.006139,
+                        36.2619262
+                    ],
+                    [
+                        -115.116116,
+                        36.2619262
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Sunrise Manor, NV",
+        "id": "a1839e9c3b5abff6",
+        "name": "Sunrise Manor",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/a1839e9c3b5abff6.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@WellsFargo sucks",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Aug 22 22:10:39 +0000 2015",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "#fun# sexy #exotic #full of life# patron #party #girl # Dancer# Entertainer #Diva# Hustler#",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 107,
+        "follow_request_sent": false,
+        "followers_count": 384,
+        "following": false,
+        "friends_count": 918,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 3325130731,
+        "id_str": "3325130731",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 1,
+        "location": "Las Vegas, NV",
+        "name": "Sexy69woman.ma@gmail",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3325130731/1441533053",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/640265921244762113/koyWd6KY_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/640265921244762113/koyWd6KY_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "ApkarianMa",
+        "statuses_count": 302,
+        "time_zone": null,
+        "url": null,
+        "utc_offset": null,
+        "verified": false
+    }
+}
