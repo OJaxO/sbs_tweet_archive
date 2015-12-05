@@ -1,0 +1,135 @@
+{
+    "contributors": null,
+    "coordinates": {
+        "coordinates": [
+            -1.2601549,
+            51.75164947
+        ],
+        "type": "Point"
+    },
+    "created_at": "Tue Dec 01 15:47:59 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 1630182978,
+                "id_str": "1630182978",
+                "indices": [
+                    0,
+                    8
+                ],
+                "name": "Primark",
+                "screen_name": "Primark"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": {
+        "coordinates": [
+            51.75164947,
+            -1.2601549
+        ],
+        "type": "Point"
+    },
+    "id": 671717388170207236,
+    "id_str": "671717388170207236",
+    "in_reply_to_screen_name": "Primark",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 1630182978,
+    "in_reply_to_user_id_str": "1630182978",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -1.289608,
+                        51.7122668
+                    ],
+                    [
+                        -1.1772587,
+                        51.7122668
+                    ],
+                    [
+                        -1.1772587,
+                        51.796305
+                    ],
+                    [
+                        -1.289608,
+                        51.796305
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United Kingdom",
+        "country_code": "GB",
+        "full_name": "Oxford, England",
+        "id": "616ba1df27270916",
+        "name": "Oxford",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/616ba1df27270916.json"
+    },
+    "retweet_count": 2,
+    "retweeted": false,
+    "source": "<a href=\"http://www.twitter.com\" rel=\"nofollow\">Twitter for Windows Phone</a>",
+    "text": "@Primark Michael on customer services in oxford. Leg-end! Good to talk to you, keep up the good work. Thank you",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Sep 09 11:42:50 +0000 2013",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Avid Tigers fan, Crime Fiction reader, Austrailian mist cat lover and Plantarea Manager for TGCG",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 292,
+        "follow_request_sent": false,
+        "followers_count": 51,
+        "following": false,
+        "friends_count": 187,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 1844485550,
+        "id_str": "1844485550",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 4,
+        "location": "Northampton ",
+        "name": "glenn coleman",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/491312515448836096/qv9tvIYz_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/491312515448836096/qv9tvIYz_normal.jpeg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "glenn_coleman",
+        "statuses_count": 997,
+        "time_zone": null,
+        "url": null,
+        "utc_offset": null,
+        "verified": false
+    }
+}

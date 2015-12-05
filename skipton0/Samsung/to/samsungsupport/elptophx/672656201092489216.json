@@ -1,0 +1,124 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Dec 04 05:58:30 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 18768513,
+                "id_str": "18768513",
+                "indices": [
+                    0,
+                    15
+                ],
+                "name": "Samsung Support USA",
+                "screen_name": "SamsungSupport"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 672656201092489216,
+    "id_str": "672656201092489216",
+    "in_reply_to_screen_name": "SamsungSupport",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 18768513,
+    "in_reply_to_user_id_str": "18768513",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -112.3239143,
+                        33.29026
+                    ],
+                    [
+                        -111.9254391,
+                        33.29026
+                    ],
+                    [
+                        -111.9254391,
+                        33.8154652
+                    ],
+                    [
+                        -112.3239143,
+                        33.8154652
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Phoenix, AZ",
+        "id": "5c62ffb0f0f3479d",
+        "name": "Phoenix",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/5c62ffb0f0f3479d.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@SamsungSupport My TV Model No. UN32EH5300F is not streaming HBOGO, Netflix, or Hulu. Network is connected. Please help.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Mar 25 02:46:19 +0000 2010",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "UTEP grad, Eller MBA. Cowboys, Suns, D'backs, Wildcats, and Miners fan.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 379,
+        "follow_request_sent": false,
+        "followers_count": 27,
+        "following": false,
+        "friends_count": 217,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 126186982,
+        "id_str": "126186982",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 3,
+        "location": "Phoenix, AZ, USA",
+        "name": "Vicente Ortega",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/126186982/1386201241",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/660538445412962304/fc-ctZ_D_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/660538445412962304/fc-ctZ_D_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "elptophx",
+        "statuses_count": 485,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": null,
+        "utc_offset": -28800,
+        "verified": false
+    }
+}

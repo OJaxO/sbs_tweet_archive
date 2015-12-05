@@ -1,0 +1,149 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Nov 26 21:04:22 +0000 2015",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    20,
+                    25
+                ],
+                "text": "cosy"
+            },
+            {
+                "indices": [
+                    26,
+                    36
+                ],
+                "text": "Christmas"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 1630182978,
+                "id_str": "1630182978",
+                "indices": [
+                    0,
+                    8
+                ],
+                "name": "Primark",
+                "screen_name": "Primark"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 669985069440868353,
+    "id_str": "669985069440868353",
+    "in_reply_to_screen_name": "Primark",
+    "in_reply_to_status_id": 669984248355401728,
+    "in_reply_to_status_id_str": "669984248355401728",
+    "in_reply_to_user_id": 1630182978,
+    "in_reply_to_user_id_str": "1630182978",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -6.3873911,
+                        53.2987449
+                    ],
+                    [
+                        -6.1078047,
+                        53.2987449
+                    ],
+                    [
+                        -6.1078047,
+                        53.4110598
+                    ],
+                    [
+                        -6.3873911,
+                        53.4110598
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "Ireland",
+        "country_code": "IE",
+        "full_name": "Dublin City, Ireland",
+        "id": "7dde0febc9ef245b",
+        "name": "Dublin City",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/7dde0febc9ef245b.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@Primark super room #cosy #Christmas",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Feb 04 13:30:10 +0000 2015",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Networking Promotion Support https://t.co/P7l7QkQ3HX theirishbloggerassociation@gmail.com\nall events by @cooleventsinfo",
+        "entities": {
+            "description": {
+                "urls": [
+                    {
+                        "display_url": "facebook.com/irishbloggersa\u2026",
+                        "expanded_url": "https://www.facebook.com/irishbloggersassociation?ref=hl",
+                        "indices": [
+                            29,
+                            52
+                        ],
+                        "url": "https://t.co/P7l7QkQ3HX"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 7040,
+        "follow_request_sent": false,
+        "followers_count": 3253,
+        "following": false,
+        "friends_count": 2589,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 3017590552,
+        "id_str": "3017590552",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 196,
+        "location": "Ireland",
+        "name": "#IBA",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3017590552/1445814528",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/663803137392816128/lGP38ib0_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/663803137392816128/lGP38ib0_normal.jpg",
+        "profile_link_color": "3B94D9",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "IrishBloggerA",
+        "statuses_count": 13095,
+        "time_zone": null,
+        "url": null,
+        "utc_offset": null,
+        "verified": false
+    }
+}

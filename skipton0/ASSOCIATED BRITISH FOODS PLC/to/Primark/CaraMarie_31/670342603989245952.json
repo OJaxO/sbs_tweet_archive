@@ -1,0 +1,145 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Nov 27 20:45:05 +0000 2015",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    130,
+                    138
+                ],
+                "text": "useless"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 1630182978,
+                "id_str": "1630182978",
+                "indices": [
+                    0,
+                    8
+                ],
+                "name": "Primark",
+                "screen_name": "Primark"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 670342603989245952,
+    "id_str": "670342603989245952",
+    "in_reply_to_screen_name": "Primark",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 1630182978,
+    "in_reply_to_user_id_str": "1630182978",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -0.5993999,
+                        53.186267
+                    ],
+                    [
+                        -0.49538,
+                        53.186267
+                    ],
+                    [
+                        -0.49538,
+                        53.2551753
+                    ],
+                    [
+                        -0.5993999,
+                        53.2551753
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United Kingdom",
+        "country_code": "GB",
+        "full_name": "Lincoln, England",
+        "id": "4caac408027bf2e3",
+        "name": "Lincoln",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/4caac408027bf2e3.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@Primark need to get plastic bags for this weather. My white bedding is now dirty from my bags breaking in the middle of the road #useless",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Sep 12 18:50:11 +0000 2014",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "20, BGUni, Lincoln City. Life is what you make it!",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "facebook.com/caramarie123",
+                        "expanded_url": "http://www.facebook.com/caramarie123",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/L6X66WzvW3"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 117,
+        "follow_request_sent": false,
+        "followers_count": 86,
+        "following": false,
+        "friends_count": 253,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 2768143263,
+        "id_str": "2768143263",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en-gb",
+        "listed_count": 1,
+        "location": "Lincoln City",
+        "name": "Cara Marie Hansen",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2768143263/1440541801",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/662064334076555265/5p5ortF5_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/662064334076555265/5p5ortF5_normal.jpg",
+        "profile_link_color": "89C9FA",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "CaraMarie_31",
+        "statuses_count": 659,
+        "time_zone": null,
+        "url": "http://t.co/L6X66WzvW3",
+        "utc_offset": null,
+        "verified": false
+    }
+}
