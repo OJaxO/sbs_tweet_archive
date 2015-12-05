@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Dec 03 15:01:57 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 18332190,
+                "id_str": "18332190",
+                "indices": [
+                    0,
+                    16
+                ],
+                "name": "British Airways",
+                "screen_name": "British_Airways"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 672430576314523648,
+    "id_str": "672430576314523648",
+    "in_reply_to_screen_name": "British_Airways",
+    "in_reply_to_status_id": 672430137086976000,
+    "in_reply_to_status_id_str": "672430137086976000",
+    "in_reply_to_user_id": 18332190,
+    "in_reply_to_user_id_str": "18332190",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -0.1114755,
+                        51.4194247
+                    ],
+                    [
+                        -0.0297308,
+                        51.4194247
+                    ],
+                    [
+                        -0.0297308,
+                        51.509947
+                    ],
+                    [
+                        -0.1114755,
+                        51.509947
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United Kingdom",
+        "country_code": "GB",
+        "full_name": "Camberwell, London",
+        "id": "7f55e839e1715da2",
+        "name": "Camberwell",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/7f55e839e1715da2.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@British_Airways this looks so good!",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Apr 30 15:15:49 +0000 2013",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "London's on demand luggage transfer service. We'll deliver your bags to and from London airports so you can travel bag free!  #LuggageFreedom",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "portr.com",
+                        "expanded_url": "http://portr.com",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/zKBDAbaNGw"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 514,
+        "follow_request_sent": false,
+        "followers_count": 573,
+        "following": false,
+        "friends_count": 709,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 1392285516,
+        "id_str": "1392285516",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 24,
+        "location": "London",
+        "name": "AirPortr",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000120024874/04af8be7a1965aeddf9153433ad0ee41.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000120024874/04af8be7a1965aeddf9153433ad0ee41.jpeg",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1392285516/1444223278",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/624468132841787392/Y-ZtXx8C_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/624468132841787392/Y-ZtXx8C_normal.png",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "AirPortr_UK",
+        "statuses_count": 1288,
+        "time_zone": "London",
+        "url": "http://t.co/zKBDAbaNGw",
+        "utc_offset": 0,
+        "verified": false
+    }
+}
