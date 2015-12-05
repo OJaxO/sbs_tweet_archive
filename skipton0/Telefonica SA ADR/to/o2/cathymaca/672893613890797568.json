@@ -1,0 +1,145 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Dec 04 21:41:53 +0000 2015",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    102,
+                    110
+                ],
+                "text": "explain"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 15133627,
+                "id_str": "15133627",
+                "indices": [
+                    0,
+                    3
+                ],
+                "name": "O2 in the UK",
+                "screen_name": "O2"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 672893613890797568,
+    "id_str": "672893613890797568",
+    "in_reply_to_screen_name": "O2",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 15133627,
+    "in_reply_to_user_id_str": "15133627",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -0.170246,
+                        51.564585
+                    ],
+                    [
+                        -0.034078,
+                        51.564585
+                    ],
+                    [
+                        -0.034078,
+                        51.6112184
+                    ],
+                    [
+                        -0.170246,
+                        51.6112184
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United Kingdom",
+        "country_code": "GB",
+        "full_name": "Tottenham, London",
+        "id": "06b9691f34c91d1c",
+        "name": "Tottenham",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/06b9691f34c91d1c.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@O2 Something badly wrong. Voice mails from 23rd &amp; 9th Nov have only just reached my phone today? #explain",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Oct 21 12:04:37 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Foundered @LondonJigsaw an iPad, iPhone & iPodTouch App. Love Twitter.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "caperaltd.com",
+                        "expanded_url": "http://caperaltd.com",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/3ggXgd2lCM"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 40,
+        "follow_request_sent": false,
+        "followers_count": 221,
+        "following": false,
+        "friends_count": 667,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 205689881,
+        "id_str": "205689881",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 12,
+        "location": "London UK",
+        "name": "Catherine MacArthur",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/766536163/53329d7f9b3c8409b96b3ac4f119cb15.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/766536163/53329d7f9b3c8409b96b3ac4f119cb15.jpeg",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/205689881/1358473423",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/2987049072/2224cbbb18f68eaa095b9f2ece0796e8_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/2987049072/2224cbbb18f68eaa095b9f2ece0796e8_normal.jpeg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "cathymaca",
+        "statuses_count": 3423,
+        "time_zone": "London",
+        "url": "http://t.co/3ggXgd2lCM",
+        "utc_offset": 0,
+        "verified": false
+    }
+}

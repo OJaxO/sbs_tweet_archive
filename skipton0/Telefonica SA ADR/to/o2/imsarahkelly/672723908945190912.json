@@ -1,0 +1,124 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Dec 04 10:27:33 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 15133627,
+                "id_str": "15133627",
+                "indices": [
+                    0,
+                    3
+                ],
+                "name": "O2 in the UK",
+                "screen_name": "O2"
+            }
+        ]
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": null,
+    "id": 672723908945190912,
+    "id_str": "672723908945190912",
+    "in_reply_to_screen_name": "O2",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 15133627,
+    "in_reply_to_user_id_str": "15133627",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -2.406684,
+                        53.123764
+                    ],
+                    [
+                        -2.339333,
+                        53.123764
+                    ],
+                    [
+                        -2.339333,
+                        53.156136
+                    ],
+                    [
+                        -2.406684,
+                        53.156136
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United Kingdom",
+        "country_code": "GB",
+        "full_name": "Sandbach, England",
+        "id": "4ba3c69a65dcde34",
+        "name": "Sandbach",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/4ba3c69a65dcde34.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@O2 will there be pre sale for the new Adele tickets??",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Oct 26 15:53:12 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 1675,
+        "follow_request_sent": false,
+        "followers_count": 367,
+        "following": false,
+        "friends_count": 278,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 208077944,
+        "id_str": "208077944",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 1,
+        "location": "Sandbach, England",
+        "name": "Sarah-Louise Kelly",
+        "notifications": false,
+        "profile_background_color": "352726",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/755714038/00626990bdbd2a96ede8fc9cf7ecadf0.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/755714038/00626990bdbd2a96ede8fc9cf7ecadf0.jpeg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/208077944/1449079636",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/672117507516473344/Ml0V8hkq_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/672117507516473344/Ml0V8hkq_normal.jpg",
+        "profile_link_color": "D02B55",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "99CC33",
+        "profile_text_color": "3E4415",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "imsarahkelly",
+        "statuses_count": 2812,
+        "time_zone": null,
+        "url": null,
+        "utc_offset": null,
+        "verified": false
+    }
+}

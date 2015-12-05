@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Dec 05 00:34:07 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 15133627,
+                "id_str": "15133627",
+                "indices": [
+                    0,
+                    3
+                ],
+                "name": "O2 in the UK",
+                "screen_name": "O2"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 672936956230242305,
+    "id_str": "672936956230242305",
+    "in_reply_to_screen_name": "O2",
+    "in_reply_to_status_id": 672027134546710529,
+    "in_reply_to_status_id_str": "672027134546710529",
+    "in_reply_to_user_id": 15133627,
+    "in_reply_to_user_id_str": "15133627",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -1.065041,
+                        51.4123385
+                    ],
+                    [
+                        -0.8990196,
+                        51.4123385
+                    ],
+                    [
+                        -0.8990196,
+                        51.4927093
+                    ],
+                    [
+                        -1.065041,
+                        51.4927093
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United Kingdom",
+        "country_code": "GB",
+        "full_name": "Reading, England",
+        "id": "5028e25dc94f3898",
+        "name": "Reading",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/5028e25dc94f3898.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@O2 any plans to stock the 46mm one? :-)",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Mar 07 15:06:36 +0000 2010",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "QA Engineer/DJ",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "soundcloud.com/smaur",
+                        "expanded_url": "http://soundcloud.com/smaur",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/iJairS0VYb"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 23,
+        "follow_request_sent": false,
+        "followers_count": 146,
+        "following": false,
+        "friends_count": 251,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 120787380,
+        "id_str": "120787380",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 9,
+        "location": "Reading, UK",
+        "name": "Luke",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/120787380/1398872501",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/473217277882400768/FpTLLjFS_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/473217277882400768/FpTLLjFS_normal.jpeg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "thesmaur",
+        "statuses_count": 7547,
+        "time_zone": "London",
+        "url": "http://t.co/iJairS0VYb",
+        "utc_offset": 0,
+        "verified": false
+    }
+}
