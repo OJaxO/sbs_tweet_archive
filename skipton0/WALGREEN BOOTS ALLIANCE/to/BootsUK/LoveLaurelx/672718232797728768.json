@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Dec 04 10:04:59 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 545087869,
+                "id_str": "545087869",
+                "indices": [
+                    0,
+                    8
+                ],
+                "name": "Boots",
+                "screen_name": "BootsUK"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 672718232797728768,
+    "id_str": "672718232797728768",
+    "in_reply_to_screen_name": "BootsUK",
+    "in_reply_to_status_id": 672717743192473600,
+    "in_reply_to_status_id_str": "672717743192473600",
+    "in_reply_to_user_id": 545087869,
+    "in_reply_to_user_id_str": "545087869",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -0.403988,
+                        51.55309
+                    ],
+                    [
+                        -0.270137,
+                        51.55309
+                    ],
+                    [
+                        -0.270137,
+                        51.6385757
+                    ],
+                    [
+                        -0.403988,
+                        51.6385757
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United Kingdom",
+        "country_code": "GB",
+        "full_name": "Harrow, London",
+        "id": "4f060a213b552e5f",
+        "name": "Harrow",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/4f060a213b552e5f.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@BootsUK Is that in every Boots store?",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Apr 19 23:36:54 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Fashion PR @TeamFluorescent, @AllInLondoncouk fashion editor, travel writer, lingerie designer, @SewOverIt sewing teacher, wedding singer, lover of rugby & gin",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "allinlondon.co.uk/blogs/myblog.p\u2026",
+                        "expanded_url": "http://www.allinlondon.co.uk/blogs/myblog.php?user=89545",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/6mO32o4EkG"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 616,
+        "follow_request_sent": false,
+        "followers_count": 1928,
+        "following": false,
+        "friends_count": 2158,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 33342227,
+        "id_str": "33342227",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 98,
+        "location": "London, UK",
+        "name": "Laurel Waldron",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/471985218966941696/QjiJPdlr.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/471985218966941696/QjiJPdlr.jpeg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/33342227/1400620359",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/656065131332378624/5i9EdhPv_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/656065131332378624/5i9EdhPv_normal.png",
+        "profile_link_color": "ABB8C2",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "LoveLaurelx",
+        "statuses_count": 14994,
+        "time_zone": "London",
+        "url": "http://t.co/6mO32o4EkG",
+        "utc_offset": 0,
+        "verified": false
+    }
+}
