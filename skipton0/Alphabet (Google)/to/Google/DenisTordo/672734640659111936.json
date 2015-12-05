@@ -1,0 +1,147 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Dec 04 11:10:11 +0000 2015",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    15,
+                    20
+                ],
+                "text": "lego"
+            }
+        ],
+        "media": [
+            {
+                "display_url": "pic.twitter.com/mwg24a4avE",
+                "expanded_url": "http://twitter.com/DenisTordo/status/672734640659111936/photo/1",
+                "id": 672734640445202433,
+                "id_str": "672734640445202433",
+                "indices": [
+                    71,
+                    94
+                ],
+                "media_url": "http://pbs.twimg.com/media/CVYIl1fWIAE9_Wm.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/CVYIl1fWIAE9_Wm.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 768,
+                        "resize": "fit",
+                        "w": 1024
+                    },
+                    "medium": {
+                        "h": 450,
+                        "resize": "fit",
+                        "w": 600
+                    },
+                    "small": {
+                        "h": 255,
+                        "resize": "fit",
+                        "w": 340
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/mwg24a4avE"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 20536157,
+                "id_str": "20536157",
+                "indices": [
+                    0,
+                    7
+                ],
+                "name": "Google",
+                "screen_name": "google"
+            },
+            {
+                "id": 226939018,
+                "id_str": "226939018",
+                "indices": [
+                    21,
+                    36
+                ],
+                "name": "La Cantine Toulouse",
+                "screen_name": "LaCantine_Tlse"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 672734640659111936,
+    "id_str": "672734640659111936",
+    "in_reply_to_screen_name": "google",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 20536157,
+    "in_reply_to_user_id_str": "20536157",
+    "is_quote_status": false,
+    "lang": "fr",
+    "metadata": {
+        "iso_language_code": "fr",
+        "result_type": "recent"
+    },
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 2,
+    "retweeted": false,
+    "source": "<a href=\"http://www.apple.com\" rel=\"nofollow\">iOS</a>",
+    "text": "@Google et les #lego @LaCantine_Tlse &gt;&gt; on redevient des enfants https://t.co/mwg24a4avE",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Aug 26 08:55:35 +0000 2011",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 53,
+        "follow_request_sent": false,
+        "followers_count": 254,
+        "following": false,
+        "friends_count": 172,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 362374639,
+        "id_str": "362374639",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "fr",
+        "listed_count": 39,
+        "location": "",
+        "name": "Tordo",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/595138587009613824/qli3gnmQ_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/595138587009613824/qli3gnmQ_normal.png",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "DenisTordo",
+        "statuses_count": 249,
+        "time_zone": "Hawaii",
+        "url": null,
+        "utc_offset": -36000,
+        "verified": false
+    }
+}

@@ -1,0 +1,145 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Dec 04 19:33:18 +0000 2015",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    8,
+                    20
+                ],
+                "text": "LocalGuides"
+            },
+            {
+                "indices": [
+                    21,
+                    27
+                ],
+                "text": "party"
+            }
+        ],
+        "media": [
+            {
+                "display_url": "pic.twitter.com/TfvDZnXFWl",
+                "expanded_url": "http://twitter.com/celeste_gmez/status/672861251756826624/photo/1",
+                "id": 672861251605766144,
+                "id_str": "672861251605766144",
+                "indices": [
+                    30,
+                    53
+                ],
+                "media_url": "http://pbs.twimg.com/media/CVZ7vk0WIAAXS5c.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/CVZ7vk0WIAAXS5c.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 768,
+                        "resize": "fit",
+                        "w": 1024
+                    },
+                    "medium": {
+                        "h": 450,
+                        "resize": "fit",
+                        "w": 600
+                    },
+                    "small": {
+                        "h": 255,
+                        "resize": "fit",
+                        "w": 340
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/TfvDZnXFWl"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 20536157,
+                "id_str": "20536157",
+                "indices": [
+                    0,
+                    7
+                ],
+                "name": "Google",
+                "screen_name": "google"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 672861251756826624,
+    "id_str": "672861251756826624",
+    "in_reply_to_screen_name": "google",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 20536157,
+    "in_reply_to_user_id_str": "20536157",
+    "is_quote_status": false,
+    "lang": "und",
+    "metadata": {
+        "iso_language_code": "und",
+        "result_type": "recent"
+    },
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Mobile Web (M5)</a>",
+    "text": "@google #LocalGuides #party \ud83c\udf0d https://t.co/TfvDZnXFWl",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Apr 25 09:52:57 +0000 2012",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 4,
+        "follow_request_sent": false,
+        "followers_count": 30,
+        "following": false,
+        "friends_count": 24,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 562832475,
+        "id_str": "562832475",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "es",
+        "listed_count": 0,
+        "location": "Madrid",
+        "name": "Celeste G\u00f3mez",
+        "notifications": false,
+        "profile_background_color": "BADFCD",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme12/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme12/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/562832475/1401210913",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/471339050490540032/U_EhkLfM_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/471339050490540032/U_EhkLfM_normal.jpeg",
+        "profile_link_color": "00FFFF",
+        "profile_sidebar_border_color": "F2E195",
+        "profile_sidebar_fill_color": "FFF7CC",
+        "profile_text_color": "0C3E53",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "celeste_gmez",
+        "statuses_count": 46,
+        "time_zone": "Madrid",
+        "url": null,
+        "utc_offset": 3600,
+        "verified": false
+    }
+}
