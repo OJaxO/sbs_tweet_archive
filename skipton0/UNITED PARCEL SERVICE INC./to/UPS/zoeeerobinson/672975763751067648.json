@@ -1,0 +1,255 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Dec 05 03:08:20 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/itsreginag/sta\u2026",
+                "expanded_url": "https://twitter.com/itsreginag/status/671859663743266816",
+                "indices": [
+                    27,
+                    50
+                ],
+                "url": "https://t.co/XvbL0wH6x4"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 158129535,
+                "id_str": "158129535",
+                "indices": [
+                    0,
+                    4
+                ],
+                "name": "UPS",
+                "screen_name": "UPS"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 672975763751067648,
+    "id_str": "672975763751067648",
+    "in_reply_to_screen_name": "UPS",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 158129535,
+    "in_reply_to_user_id_str": "158129535",
+    "is_quote_status": true,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -122.436232,
+                        47.4953154
+                    ],
+                    [
+                        -122.2249728,
+                        47.4953154
+                    ],
+                    [
+                        -122.2249728,
+                        47.734561
+                    ],
+                    [
+                        -122.436232,
+                        47.734561
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Seattle, WA",
+        "id": "300bcc6e23a88361",
+        "name": "Seattle",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/300bcc6e23a88361.json"
+    },
+    "possibly_sensitive": false,
+    "quoted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Wed Dec 02 01:13:21 +0000 2015",
+        "entities": {
+            "hashtags": [],
+            "media": [
+                {
+                    "display_url": "pic.twitter.com/q2krFxv73q",
+                    "expanded_url": "http://twitter.com/ItsReginaG/status/671859663743266816/video/1",
+                    "id": 671859206253707264,
+                    "id_str": "671859206253707264",
+                    "indices": [
+                        28,
+                        51
+                    ],
+                    "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/671859206253707264/pu/img/OGvDoZvwEClyK2un.jpg",
+                    "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/671859206253707264/pu/img/OGvDoZvwEClyK2un.jpg",
+                    "sizes": {
+                        "large": {
+                            "h": 360,
+                            "resize": "fit",
+                            "w": 270
+                        },
+                        "medium": {
+                            "h": 360,
+                            "resize": "fit",
+                            "w": 270
+                        },
+                        "small": {
+                            "h": 360,
+                            "resize": "fit",
+                            "w": 270
+                        },
+                        "thumb": {
+                            "h": 150,
+                            "resize": "crop",
+                            "w": 150
+                        }
+                    },
+                    "type": "photo",
+                    "url": "https://t.co/q2krFxv73q"
+                }
+            ],
+            "symbols": [],
+            "urls": [],
+            "user_mentions": []
+        },
+        "favorite_count": 3362,
+        "favorited": false,
+        "geo": null,
+        "id": 671859663743266816,
+        "id_str": "671859663743266816",
+        "in_reply_to_screen_name": null,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "is_quote_status": false,
+        "lang": "en",
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "place": null,
+        "possibly_sensitive": false,
+        "retweet_count": 2346,
+        "retweeted": false,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "So this is who Santa is.... https://t.co/q2krFxv73q",
+        "truncated": false,
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Fri Jan 20 17:46:10 +0000 2012",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "BOO, YOU WHORE. *Credits given to their respected owners*",
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "favourites_count": 3,
+            "follow_request_sent": false,
+            "followers_count": 722982,
+            "following": false,
+            "friends_count": 29,
+            "geo_enabled": true,
+            "has_extended_profile": false,
+            "id": 469517478,
+            "id_str": "469517478",
+            "is_translation_enabled": false,
+            "is_translator": false,
+            "lang": "en",
+            "listed_count": 601,
+            "location": "*Turn On Notifications*",
+            "name": "REGINA GEORGE",
+            "notifications": false,
+            "profile_background_color": "FFFFFF",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/601002264/8t3f3vybn85bflepy1mm.jpeg",
+            "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/601002264/8t3f3vybn85bflepy1mm.jpeg",
+            "profile_background_tile": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/2385817866/37zr9inkqdfp21wifd6p_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/2385817866/37zr9inkqdfp21wifd6p_normal.png",
+            "profile_link_color": "B5318B",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "FFFFFF",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "ItsReginaG",
+            "statuses_count": 7123,
+            "time_zone": "Atlantic Time (Canada)",
+            "url": null,
+            "utc_offset": -14400,
+            "verified": false
+        }
+    },
+    "quoted_status_id": 671859663743266816,
+    "quoted_status_id_str": "671859663743266816",
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@UPS give this man a raise https://t.co/XvbL0wH6x4",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu May 14 04:24:09 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Digital marketing enthusiast, pizza lover, sleep evangelist. @zoerobinsonSEA, too.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 2048,
+        "follow_request_sent": false,
+        "followers_count": 391,
+        "following": false,
+        "friends_count": 612,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 39926633,
+        "id_str": "39926633",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 18,
+        "location": "Seattle, WA",
+        "name": "ZO\u00cb",
+        "notifications": false,
+        "profile_background_color": "FFFFFF",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/418526271/bokeh.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/418526271/bokeh.jpg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/39926633/1434352203",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/654158751193153536/cL4Z-upr_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/654158751193153536/cL4Z-upr_normal.jpg",
+        "profile_link_color": "0F9EA8",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "E33768",
+        "profile_text_color": "FF982A",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "zoeeerobinson",
+        "statuses_count": 5504,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": null,
+        "utc_offset": -28800,
+        "verified": false
+    }
+}
