@@ -1,0 +1,124 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Dec 04 21:38:07 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 78613092,
+                "id_str": "78613092",
+                "indices": [
+                    0,
+                    8
+                ],
+                "name": "Staples US",
+                "screen_name": "Staples"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 672892664384212992,
+    "id_str": "672892664384212992",
+    "in_reply_to_screen_name": "Staples",
+    "in_reply_to_status_id": 672892007216521216,
+    "in_reply_to_status_id_str": "672892007216521216",
+    "in_reply_to_user_id": 78613092,
+    "in_reply_to_user_id_str": "78613092",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -92.4370833,
+                        42.421196
+                    ],
+                    [
+                        -92.2732403,
+                        42.421196
+                    ],
+                    [
+                        -92.2732403,
+                        42.570459
+                    ],
+                    [
+                        -92.4370833,
+                        42.570459
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Waterloo, IA",
+        "id": "4fcb8e32c69ad4ee",
+        "name": "Waterloo",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/4fcb8e32c69ad4ee.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@Staples waterloo, IA. they werent being negligent they were just crazy understaffed! They were helpful when i found them.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Feb 12 06:28:30 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "snap: chatsux ig:90994849494082727003949404030e",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 2846,
+        "follow_request_sent": false,
+        "followers_count": 175,
+        "following": false,
+        "friends_count": 46,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 250993371,
+        "id_str": "250993371",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 0,
+        "location": "",
+        "name": "T",
+        "notifications": false,
+        "profile_background_color": "0E203A",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/672923297/959b26899da52c16a35cb6aa08a58e3d.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/672923297/959b26899da52c16a35cb6aa08a58e3d.jpeg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/250993371/1448682347",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/649461171007782912/9iu2W_gb_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/649461171007782912/9iu2W_gb_normal.jpg",
+        "profile_link_color": "00660F",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "0C1B31",
+        "profile_text_color": "BCC7E3",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "klonoprince",
+        "statuses_count": 7242,
+        "time_zone": "Central Time (US & Canada)",
+        "url": null,
+        "utc_offset": -21600,
+        "verified": false
+    }
+}
