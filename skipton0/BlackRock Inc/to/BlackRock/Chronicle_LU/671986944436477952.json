@@ -1,0 +1,170 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Dec 02 09:39:07 +0000 2015",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    68,
+                    79
+                ],
+                "text": "Luxembourg"
+            },
+            {
+                "indices": [
+                    82,
+                    90
+                ],
+                "text": "Belgium"
+            },
+            {
+                "indices": [
+                    95,
+                    102
+                ],
+                "text": "France"
+            }
+        ],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "tinyurl.com/odwjbke",
+                "expanded_url": "http://tinyurl.com/odwjbke",
+                "indices": [
+                    103,
+                    126
+                ],
+                "url": "https://t.co/pO5FniIh34"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 23756134,
+                "id_str": "23756134",
+                "indices": [
+                    0,
+                    10
+                ],
+                "name": "BlackRock\u00ae",
+                "screen_name": "blackrock"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 671986944436477952,
+    "id_str": "671986944436477952",
+    "in_reply_to_screen_name": "blackrock",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 23756134,
+    "in_reply_to_user_id_str": "23756134",
+    "is_quote_status": false,
+    "lang": "fr",
+    "metadata": {
+        "iso_language_code": "fr",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        5.7356294,
+                        49.4480355
+                    ],
+                    [
+                        6.53097,
+                        49.4480355
+                    ],
+                    [
+                        6.53097,
+                        50.1829445
+                    ],
+                    [
+                        5.7356294,
+                        50.1829445
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "Luxembourg",
+        "country_code": "LU",
+        "full_name": "Luxembourg",
+        "id": "a9928b6eaeb54f86",
+        "name": "Luxembourg",
+        "place_type": "country",
+        "url": "https://api.twitter.com/1.1/geo/id/a9928b6eaeb54f86.json"
+    },
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@blackrock Appoints Jean-Fran\u00e7ois Cirelli as Chairman for BlackRock #Luxembourg , #Belgium and #France https://t.co/pO5FniIh34",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Aug 06 11:35:27 +0000 2015",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Your English-speaking newspaper in #Luxembourg",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "chronicle.lu",
+                        "expanded_url": "http://www.chronicle.lu",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/DkepBJKt5Y"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 10,
+        "follow_request_sent": false,
+        "followers_count": 279,
+        "following": false,
+        "friends_count": 285,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 3405569062,
+        "id_str": "3405569062",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 68,
+        "location": "Luxembourg",
+        "name": "Luxembourg Chronicle",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3405569062/1438864349",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/629268233124737024/L9F-zyyi_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/629268233124737024/L9F-zyyi_normal.jpg",
+        "profile_link_color": "3B94D9",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "Chronicle_LU",
+        "statuses_count": 1945,
+        "time_zone": null,
+        "url": "http://t.co/DkepBJKt5Y",
+        "utc_offset": null,
+        "verified": false
+    }
+}

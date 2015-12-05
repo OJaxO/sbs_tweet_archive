@@ -1,0 +1,177 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Dec 05 07:05:05 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 22536055,
+                "id_str": "22536055",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "American Airlines",
+                "screen_name": "AmericanAir"
+            },
+            {
+                "id": 14172570,
+                "id_str": "14172570",
+                "indices": [
+                    47,
+                    59
+                ],
+                "name": "Frontier Airlines",
+                "screen_name": "FlyFrontier"
+            },
+            {
+                "id": 179568369,
+                "id_str": "179568369",
+                "indices": [
+                    62,
+                    75
+                ],
+                "name": "Frontier Airlines",
+                "screen_name": "FrontierCare"
+            },
+            {
+                "id": 39787903,
+                "id_str": "39787903",
+                "indices": [
+                    121,
+                    135
+                ],
+                "name": "Sun Country Airlines",
+                "screen_name": "SunCountryAir"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 673035345412272129,
+    "id_str": "673035345412272129",
+    "in_reply_to_screen_name": "AmericanAir",
+    "in_reply_to_status_id": 672901926707687426,
+    "in_reply_to_status_id_str": "672901926707687426",
+    "in_reply_to_user_id": 22536055,
+    "in_reply_to_user_id_str": "22536055",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -93.520913,
+                        44.799239
+                    ],
+                    [
+                        -93.397928,
+                        44.799239
+                    ],
+                    [
+                        -93.397928,
+                        44.893162
+                    ],
+                    [
+                        -93.520913,
+                        44.893162
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Eden Prairie, MN",
+        "id": "a1a25de9f5efa69b",
+        "name": "Eden Prairie",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/a1a25de9f5efa69b.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@AmericanAir I already rebooked my flight with @FlyFrontier / @FrontierCare and return flight from SFO-MSP I plan to buy @SunCountryAir srry",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Mar 12 21:44:07 +0000 2010",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Solar Industry Advocate, Designer/Engineer, SF Bay Area native, non-profit enthusiast, general Awesomeness, Live Green and Sustainably http://t.co/A85FYAxN7a",
+        "entities": {
+            "description": {
+                "urls": [
+                    {
+                        "display_url": "goo.gl/ttULNb",
+                        "expanded_url": "http://goo.gl/ttULNb",
+                        "indices": [
+                            135,
+                            157
+                        ],
+                        "url": "http://t.co/A85FYAxN7a"
+                    }
+                ]
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "linkedin.com/in/luismhuang",
+                        "expanded_url": "http://www.linkedin.com/in/luismhuang",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/SGi6Pv4PM2"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 4190,
+        "follow_request_sent": false,
+        "followers_count": 349,
+        "following": false,
+        "friends_count": 730,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 122483291,
+        "id_str": "122483291",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 20,
+        "location": "San Francisco!",
+        "name": "Luis Huang",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/122483291/1417444348",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/3561558170/30d5d279bc4072cc0648b08b96757115_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/3561558170/30d5d279bc4072cc0648b08b96757115_normal.jpeg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "SolarLuis",
+        "statuses_count": 853,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "http://t.co/SGi6Pv4PM2",
+        "utc_offset": -28800,
+        "verified": false
+    }
+}

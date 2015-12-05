@@ -1,0 +1,136 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Nov 30 23:10:06 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 23756134,
+                "id_str": "23756134",
+                "indices": [
+                    0,
+                    10
+                ],
+                "name": "BlackRock\u00ae",
+                "screen_name": "blackrock"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 671466259746332676,
+    "id_str": "671466259746332676",
+    "in_reply_to_screen_name": "blackrock",
+    "in_reply_to_status_id": 671465755167358977,
+    "in_reply_to_status_id_str": "671465755167358977",
+    "in_reply_to_user_id": 23756134,
+    "in_reply_to_user_id_str": "23756134",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -83.67529,
+                        36.540739
+                    ],
+                    [
+                        -75.16644,
+                        36.540739
+                    ],
+                    [
+                        -75.16644,
+                        39.466012
+                    ],
+                    [
+                        -83.67529,
+                        39.466012
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Virginia, USA",
+        "id": "5635c19c2b5078d1",
+        "name": "Virginia",
+        "place_type": "admin",
+        "url": "https://api.twitter.com/1.1/geo/id/5635c19c2b5078d1.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@blackrock \"Like a man dating a supermodel.  When she dumps him, he's shocked, like he thought it might last.\" ~ Slim Fairview",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue May 18 18:02:28 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Armed only with an analytical mind and the ability to speak in metaphors, I share my view of the world seen through the magic glasses my parents gave me at 7.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "sidestreetjournal.blogspot.com",
+                        "expanded_url": "http://www.sidestreetjournal.blogspot.com",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/AimMs6N0Yu"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 1741,
+        "follow_request_sent": false,
+        "followers_count": 418,
+        "following": false,
+        "friends_count": 440,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 145328300,
+        "id_str": "145328300",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 18,
+        "location": "",
+        "name": "Slim Fairview",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/103676192/tn_1_.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/103676192/tn_1_.jpg",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/918697083/tn_1__normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/918697083/tn_1__normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Slimfairview",
+        "statuses_count": 22527,
+        "time_zone": "Eastern Time (US & Canada)",
+        "url": "https://t.co/AimMs6N0Yu",
+        "utc_offset": -18000,
+        "verified": false
+    }
+}

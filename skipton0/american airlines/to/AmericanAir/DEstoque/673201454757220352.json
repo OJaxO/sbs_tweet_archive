@@ -1,0 +1,147 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Dec 05 18:05:08 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 22536055,
+                "id_str": "22536055",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "American Airlines",
+                "screen_name": "AmericanAir"
+            },
+            {
+                "id": 52810109,
+                "id_str": "52810109",
+                "indices": [
+                    38,
+                    46
+                ],
+                "name": "cut copy",
+                "screen_name": "cutcopy"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 673201454757220352,
+    "id_str": "673201454757220352",
+    "in_reply_to_screen_name": "AmericanAir",
+    "in_reply_to_status_id": 673200750449790977,
+    "in_reply_to_status_id_str": "673200750449790977",
+    "in_reply_to_user_id": 22536055,
+    "in_reply_to_user_id_str": "22536055",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -124.482003,
+                        32.528832
+                    ],
+                    [
+                        -114.131212,
+                        32.528832
+                    ],
+                    [
+                        -114.131212,
+                        42.009519
+                    ],
+                    [
+                        -124.482003,
+                        42.009519
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "California, USA",
+        "id": "fbd6d2f5a4e4a15e",
+        "name": "California",
+        "place_type": "admin",
+        "url": "https://api.twitter.com/1.1/geo/id/fbd6d2f5a4e4a15e.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@AmericanAir if you guys keep playing @cutcopy on your flights I'll fly everyday v",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Feb 17 05:36:24 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Co-Founder, Engineer at SAE Technical Services, LLC. Writer at @onlythebeatedm #Hockey Fan. #music #sustainability",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "SAETechnicalServices.com",
+                        "expanded_url": "http://SAETechnicalServices.com",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/S4X9oHDQlY"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 283,
+        "follow_request_sent": false,
+        "followers_count": 137,
+        "following": false,
+        "friends_count": 351,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 253413276,
+        "id_str": "253413276",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 4,
+        "location": "San Jose, CA",
+        "name": "David Estoque",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/253413276/1405531900",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/489462384386666497/jpFMwHy__normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/489462384386666497/jpFMwHy__normal.jpeg",
+        "profile_link_color": "FF0800",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "DEstoque",
+        "statuses_count": 1301,
+        "time_zone": "Arizona",
+        "url": "http://t.co/S4X9oHDQlY",
+        "utc_offset": -25200,
+        "verified": false
+    }
+}

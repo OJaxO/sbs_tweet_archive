@@ -1,0 +1,191 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Dec 05 20:12:02 +0000 2015",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    22,
+                    29
+                ],
+                "text": "sunset"
+            },
+            {
+                "indices": [
+                    30,
+                    37
+                ],
+                "text": "beauty"
+            }
+        ],
+        "media": [
+            {
+                "display_url": "pic.twitter.com/wrUldiZ4sZ",
+                "expanded_url": "http://twitter.com/katiesmiledoc/status/673233388552241152/photo/1",
+                "id": 673233382705377280,
+                "id_str": "673233382705377280",
+                "indices": [
+                    38,
+                    61
+                ],
+                "media_url": "http://pbs.twimg.com/media/CVfOMdMWsAA8eyU.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/CVfOMdMWsAA8eyU.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 1024,
+                        "resize": "fit",
+                        "w": 768
+                    },
+                    "medium": {
+                        "h": 800,
+                        "resize": "fit",
+                        "w": 600
+                    },
+                    "small": {
+                        "h": 453,
+                        "resize": "fit",
+                        "w": 340
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/wrUldiZ4sZ"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 22536055,
+                "id_str": "22536055",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "American Airlines",
+                "screen_name": "AmericanAir"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 673233388552241152,
+    "id_str": "673233388552241152",
+    "in_reply_to_screen_name": "AmericanAir",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 22536055,
+    "in_reply_to_user_id_str": "22536055",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -87.910507,
+                        42.0983323
+                    ],
+                    [
+                        -87.77999,
+                        42.0983323
+                    ],
+                    [
+                        -87.77999,
+                        42.153178
+                    ],
+                    [
+                        -87.910507,
+                        42.153178
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Northbrook, IL",
+        "id": "ecbe21c16e88f161",
+        "name": "Northbrook",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/ecbe21c16e88f161.json"
+    },
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@AmericanAir  DFW-ORD #sunset #beauty https://t.co/wrUldiZ4sZ",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Feb 22 15:23:18 +0000 2015",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "grabersmiles.com",
+                        "expanded_url": "http://grabersmiles.com",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/cL1uRGPOux"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 88,
+        "follow_request_sent": false,
+        "followers_count": 17,
+        "following": false,
+        "friends_count": 51,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 3052927235,
+        "id_str": "3052927235",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 0,
+        "location": "Vernon Hills, Illinois",
+        "name": "Katie Graber",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3052927235/1424619164",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/569520809580847104/nKGNOtWp_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/569520809580847104/nKGNOtWp_normal.jpeg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "katiesmiledoc",
+        "statuses_count": 77,
+        "time_zone": null,
+        "url": "http://t.co/cL1uRGPOux",
+        "utc_offset": null,
+        "verified": false
+    }
+}

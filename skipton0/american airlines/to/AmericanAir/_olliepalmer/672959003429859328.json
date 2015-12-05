@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Dec 05 02:01:44 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 22536055,
+                "id_str": "22536055",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "American Airlines",
+                "screen_name": "AmericanAir"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 672959003429859328,
+    "id_str": "672959003429859328",
+    "in_reply_to_screen_name": "AmericanAir",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 22536055,
+    "in_reply_to_user_id_str": "22536055",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        2.2241006,
+                        48.8155214
+                    ],
+                    [
+                        2.4699053,
+                        48.8155214
+                    ],
+                    [
+                        2.4699053,
+                        48.9021461
+                    ],
+                    [
+                        2.2241006,
+                        48.9021461
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "France",
+        "country_code": "FR",
+        "full_name": "Paris, Ile-de-France",
+        "id": "09f6a7707f18e0b1",
+        "name": "Paris",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/09f6a7707f18e0b1.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@AmericanAir My partner can't check in to her flight online. I had the same problem last month. Sort it out.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Oct 04 19:32:44 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Artist-in-residence at @PalaisDeTokyo's Pavillon / also working on a PhD by Design at @BartlettArchUCL. Interested in control systems and absurd machines.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "olliepalmer.com",
+                        "expanded_url": "http://www.olliepalmer.com",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/NiQToBPwgJ"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 757,
+        "follow_request_sent": false,
+        "followers_count": 837,
+        "following": false,
+        "friends_count": 1166,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 79810720,
+        "id_str": "79810720",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 25,
+        "location": "Paris, Ile-de-France",
+        "name": "Ollie Palmer",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000107422833/7cf505692095012eb3e458c20dbc7696.png",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000107422833/7cf505692095012eb3e458c20dbc7696.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/79810720/1406807437",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1211993664/twitter-anigif_normal.gif",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1211993664/twitter-anigif_normal.gif",
+        "profile_link_color": "000000",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "6B6B6B",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "_olliepalmer",
+        "statuses_count": 4073,
+        "time_zone": "London",
+        "url": "https://t.co/NiQToBPwgJ",
+        "utc_offset": 0,
+        "verified": false
+    }
+}
