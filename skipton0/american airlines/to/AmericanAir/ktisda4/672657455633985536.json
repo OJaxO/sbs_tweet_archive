@@ -1,0 +1,124 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Dec 04 06:03:29 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 22536055,
+                "id_str": "22536055",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "American Airlines",
+                "screen_name": "AmericanAir"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 672657455633985536,
+    "id_str": "672657455633985536",
+    "in_reply_to_screen_name": "AmericanAir",
+    "in_reply_to_status_id": 672503858145320960,
+    "in_reply_to_status_id_str": "672503858145320960",
+    "in_reply_to_user_id": 22536055,
+    "in_reply_to_user_id_str": "22536055",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -94.2859346,
+                        36.307631
+                    ],
+                    [
+                        -94.1515543,
+                        36.307631
+                    ],
+                    [
+                        -94.1515543,
+                        36.4403601
+                    ],
+                    [
+                        -94.2859346,
+                        36.4403601
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Bentonville, AR",
+        "id": "0a0b9d7bcf6a59fa",
+        "name": "Bentonville",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/0a0b9d7bcf6a59fa.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@AmericanAir Bad news just connected through LGA today. Good news I will be back in a week!!",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Jan 30 01:29:23 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "I'm a continuous learner.. teach me something I don't know",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 1445,
+        "follow_request_sent": false,
+        "followers_count": 162,
+        "following": false,
+        "friends_count": 324,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 109722422,
+        "id_str": "109722422",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 6,
+        "location": "NW Arkansas",
+        "name": "Kimberly Tisdale",
+        "notifications": false,
+        "profile_background_color": "C6E2EE",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/109722422/1393140969",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/435595216213397504/JeZIjQRV_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/435595216213397504/JeZIjQRV_normal.jpeg",
+        "profile_link_color": "1F98C7",
+        "profile_sidebar_border_color": "C6E2EE",
+        "profile_sidebar_fill_color": "DAECF4",
+        "profile_text_color": "663B12",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "ktisda4",
+        "statuses_count": 2544,
+        "time_zone": "Mountain Time (US & Canada)",
+        "url": null,
+        "utc_offset": -25200,
+        "verified": false
+    }
+}

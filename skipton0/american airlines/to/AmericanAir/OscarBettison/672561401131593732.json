@@ -1,0 +1,147 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Dec 03 23:41:48 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 22536055,
+                "id_str": "22536055",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "American Airlines",
+                "screen_name": "AmericanAir"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 672561401131593732,
+    "id_str": "672561401131593732",
+    "in_reply_to_screen_name": "AmericanAir",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 22536055,
+    "in_reply_to_user_id_str": "22536055",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -75.280284,
+                        39.871811
+                    ],
+                    [
+                        -74.955712,
+                        39.871811
+                    ],
+                    [
+                        -74.955712,
+                        40.13792
+                    ],
+                    [
+                        -75.280284,
+                        40.13792
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Philadelphia, PA",
+        "id": "e4a0d228eb6be76b",
+        "name": "Philadelphia",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/e4a0d228eb6be76b.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@AmericanAir EWR-PHL delayed, so we missed our connection to CMH, rebooked now new flight delayed as crew's flight from EWR is delayed. Doh!",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat May 24 14:56:51 +0000 2008",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Composer. Peabody Composition Faculty. Fulham FC fan. Scores, etc.: http://t.co/xiIODDHJHg",
+        "entities": {
+            "description": {
+                "urls": [
+                    {
+                        "display_url": "boosey.com/composer/Oscar\u2026",
+                        "expanded_url": "http://www.boosey.com/composer/Oscar+Bettison",
+                        "indices": [
+                            68,
+                            90
+                        ],
+                        "url": "http://t.co/xiIODDHJHg"
+                    }
+                ]
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "oscarbettison.com",
+                        "expanded_url": "http://www.oscarbettison.com",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/nzbyNiK5Fq"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 3244,
+        "follow_request_sent": false,
+        "followers_count": 2882,
+        "following": false,
+        "friends_count": 1399,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 14891585,
+        "id_str": "14891585",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 108,
+        "location": "East Coast US/Europe",
+        "name": "Oscar Bettison",
+        "notifications": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/14891585/1398958243",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/500304287876919297/-BMRbl9Q_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/500304287876919297/-BMRbl9Q_normal.jpeg",
+        "profile_link_color": "009999",
+        "profile_sidebar_border_color": "EEEEEE",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "OscarBettison",
+        "statuses_count": 14957,
+        "time_zone": "Eastern Time (US & Canada)",
+        "url": "http://t.co/nzbyNiK5Fq",
+        "utc_offset": -18000,
+        "verified": false
+    }
+}

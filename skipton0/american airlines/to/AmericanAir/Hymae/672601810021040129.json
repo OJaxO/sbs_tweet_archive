@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Dec 04 02:22:22 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 22536055,
+                "id_str": "22536055",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "American Airlines",
+                "screen_name": "AmericanAir"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 672601810021040129,
+    "id_str": "672601810021040129",
+    "in_reply_to_screen_name": "AmericanAir",
+    "in_reply_to_status_id": 672601651828686849,
+    "in_reply_to_status_id_str": "672601651828686849",
+    "in_reply_to_user_id": 22536055,
+    "in_reply_to_user_id_str": "22536055",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -74.25136,
+                        40.679997
+                    ],
+                    [
+                        -74.118336,
+                        40.679997
+                    ],
+                    [
+                        -74.118336,
+                        40.788991
+                    ],
+                    [
+                        -74.25136,
+                        40.788991
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Newark, NJ",
+        "id": "fa3435044b52ecc7",
+        "name": "Newark",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/fa3435044b52ecc7.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@AmericanAir Newark, NJ. What ya got?",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Apr 28 00:16:28 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Father - Husband -Believer - Geek - Gamer - Georgia Sports Fan - Check out my Youtube Channel GlazeLife.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "youtube.com/user/glazelife",
+                        "expanded_url": "http://www.youtube.com/user/glazelife",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/xPuEASypRU"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 1558,
+        "follow_request_sent": false,
+        "followers_count": 207,
+        "following": false,
+        "friends_count": 206,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 35918782,
+        "id_str": "35918782",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 6,
+        "location": "McDonough, GA",
+        "name": "James Glaze",
+        "notifications": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/637716343236730880/Isz2lKot.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/637716343236730880/Isz2lKot.jpg",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/35918782/1421467085",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/672479000837640192/EBdjHVjA_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/672479000837640192/EBdjHVjA_normal.jpg",
+        "profile_link_color": "000000",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Hymae",
+        "statuses_count": 22524,
+        "time_zone": "Eastern Time (US & Canada)",
+        "url": "https://t.co/xPuEASypRU",
+        "utc_offset": -18000,
+        "verified": false
+    }
+}
