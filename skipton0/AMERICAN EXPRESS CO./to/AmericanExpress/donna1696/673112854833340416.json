@@ -1,0 +1,135 @@
+{
+    "contributors": null,
+    "coordinates": {
+        "coordinates": [
+            -74.05192296,
+            40.83950949
+        ],
+        "type": "Point"
+    },
+    "created_at": "Sat Dec 05 12:13:05 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 42712551,
+                "id_str": "42712551",
+                "indices": [
+                    0,
+                    16
+                ],
+                "name": "American Express",
+                "screen_name": "AmericanExpress"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": {
+        "coordinates": [
+            40.83950949,
+            -74.05192296
+        ],
+        "type": "Point"
+    },
+    "id": 673112854833340416,
+    "id_str": "673112854833340416",
+    "in_reply_to_screen_name": "AmericanExpress",
+    "in_reply_to_status_id": 649992258117312513,
+    "in_reply_to_status_id_str": "649992258117312513",
+    "in_reply_to_user_id": 42712551,
+    "in_reply_to_user_id_str": "42712551",
+    "is_quote_status": false,
+    "lang": "und",
+    "metadata": {
+        "iso_language_code": "und",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -74.07879,
+                        40.830802
+                    ],
+                    [
+                        -74.039019,
+                        40.830802
+                    ],
+                    [
+                        -74.039019,
+                        40.853527
+                    ],
+                    [
+                        -74.07879,
+                        40.853527
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Moonachie, NJ",
+        "id": "4244555da048ffbf",
+        "name": "Moonachie",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/4244555da048ffbf.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@AmericanExpress",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Sep 08 13:19:30 +0000 2009",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 66,
+        "follow_request_sent": false,
+        "followers_count": 30,
+        "following": false,
+        "friends_count": 286,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 72549793,
+        "id_str": "72549793",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 1,
+        "location": "",
+        "name": "Donna Cirillo",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/667772580913377281/4THAohQY_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/667772580913377281/4THAohQY_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "donna1696",
+        "statuses_count": 254,
+        "time_zone": null,
+        "url": null,
+        "utc_offset": null,
+        "verified": false
+    }
+}

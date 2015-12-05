@@ -1,0 +1,145 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Dec 04 18:08:41 +0000 2015",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    17,
+                    28
+                ],
+                "text": "AmexOffers"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 42712551,
+                "id_str": "42712551",
+                "indices": [
+                    0,
+                    16
+                ],
+                "name": "American Express",
+                "screen_name": "AmericanExpress"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 672839956973359104,
+    "id_str": "672839956973359104",
+    "in_reply_to_screen_name": "AmericanExpress",
+    "in_reply_to_status_id": 672830239093968900,
+    "in_reply_to_status_id_str": "672830239093968900",
+    "in_reply_to_user_id": 42712551,
+    "in_reply_to_user_id_str": "42712551",
+    "is_quote_status": false,
+    "lang": "und",
+    "metadata": {
+        "iso_language_code": "und",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -73.962582,
+                        40.541722
+                    ],
+                    [
+                        -73.699793,
+                        40.541722
+                    ],
+                    [
+                        -73.699793,
+                        40.8000371
+                    ],
+                    [
+                        -73.962582,
+                        40.8000371
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Queens, NY",
+        "id": "00c39537733fa112",
+        "name": "Queens",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/00c39537733fa112.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@AmericanExpress #AmexOffers \ud83d\udcb3",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat May 22 02:57:25 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Smart & friendly. Music & Photography... Always learning something new!!",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "aeth82.net",
+                        "expanded_url": "http://www.aeth82.net",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/hN4yZvl3xo"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 1056,
+        "follow_request_sent": false,
+        "followers_count": 160,
+        "following": false,
+        "friends_count": 49,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 146689752,
+        "id_str": "146689752",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 7,
+        "location": "New York City",
+        "name": "Aeth!!",
+        "notifications": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/146689752/1438970737",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/652672288723222529/3AuGoxdv_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/652672288723222529/3AuGoxdv_normal.jpg",
+        "profile_link_color": "009999",
+        "profile_sidebar_border_color": "EEEEEE",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Aeth82",
+        "statuses_count": 8938,
+        "time_zone": "Eastern Time (US & Canada)",
+        "url": "http://t.co/hN4yZvl3xo",
+        "utc_offset": -18000,
+        "verified": false
+    }
+}

@@ -1,0 +1,124 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Dec 05 14:10:06 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 42712551,
+                "id_str": "42712551",
+                "indices": [
+                    0,
+                    16
+                ],
+                "name": "American Express",
+                "screen_name": "AmericanExpress"
+            }
+        ]
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": null,
+    "id": 673142304941699072,
+    "id_str": "673142304941699072",
+    "in_reply_to_screen_name": "AmericanExpress",
+    "in_reply_to_status_id": 659111075762188288,
+    "in_reply_to_status_id_str": "659111075762188288",
+    "in_reply_to_user_id": 42712551,
+    "in_reply_to_user_id_str": "42712551",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -79.76259,
+                        40.477383
+                    ],
+                    [
+                        -71.777492,
+                        40.477383
+                    ],
+                    [
+                        -71.777492,
+                        45.015851
+                    ],
+                    [
+                        -79.76259,
+                        45.015851
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "New York, USA",
+        "id": "94965b2c45386f87",
+        "name": "New York",
+        "place_type": "admin",
+        "url": "https://api.twitter.com/1.1/geo/id/94965b2c45386f87.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@AmericanExpress \n i get 4% immediately and beats amex by a mile . amex is passe for gifts",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon May 25 00:43:19 +0000 2015",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "single intelligent man looking for a woman whos the same for long term marriage",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 799,
+        "follow_request_sent": false,
+        "followers_count": 60,
+        "following": false,
+        "friends_count": 1252,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 3297305842,
+        "id_str": "3297305842",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 4,
+        "location": "New York, USA",
+        "name": "robertkent",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3297305842/1446950177",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/663181367480578048/drGa2J_s_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/663181367480578048/drGa2J_s_normal.jpg",
+        "profile_link_color": "3B94D9",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "robertkent55",
+        "statuses_count": 8798,
+        "time_zone": "Mid-Atlantic",
+        "url": null,
+        "utc_offset": -7200,
+        "verified": false
+    }
+}
