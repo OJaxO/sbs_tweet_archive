@@ -1,0 +1,158 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Dec 03 13:44:48 +0000 2015",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    18,
+                    25
+                ],
+                "text": "coffee"
+            },
+            {
+                "indices": [
+                    26,
+                    34
+                ],
+                "text": "cortado"
+            }
+        ],
+        "media": [
+            {
+                "display_url": "pic.twitter.com/pUIqSTqEku",
+                "expanded_url": "http://twitter.com/deddokatana/status/672411160134709248/photo/1",
+                "id": 672411145244905472,
+                "id_str": "672411145244905472",
+                "indices": [
+                    35,
+                    58
+                ],
+                "media_url": "http://pbs.twimg.com/media/CVTiX79WEAAqghH.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/CVTiX79WEAAqghH.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 1815,
+                        "resize": "fit",
+                        "w": 1024
+                    },
+                    "medium": {
+                        "h": 1063,
+                        "resize": "fit",
+                        "w": 600
+                    },
+                    "small": {
+                        "h": 602,
+                        "resize": "fit",
+                        "w": 340
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/pUIqSTqEku"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 16696296,
+                "id_str": "16696296",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "Costa Coffee",
+                "screen_name": "CostaCoffee"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 672411160134709248,
+    "id_str": "672411160134709248",
+    "in_reply_to_screen_name": "CostaCoffee",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 16696296,
+    "in_reply_to_user_id_str": "16696296",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@CostaCoffee time #coffee #cortado https://t.co/pUIqSTqEku",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Oct 14 17:10:54 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Coder and Musician. Trying to sidestep a dead end.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "deddokatana.newgrounds.com/audio",
+                        "expanded_url": "http://deddokatana.newgrounds.com/audio",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/LWMoCVVg2k"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 15,
+        "follow_request_sent": false,
+        "followers_count": 53,
+        "following": false,
+        "friends_count": 190,
+        "geo_enabled": false,
+        "has_extended_profile": true,
+        "id": 390852769,
+        "id_str": "390852769",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 4,
+        "location": "Munching Vegan Pizza",
+        "name": "Jason Crockett",
+        "notifications": false,
+        "profile_background_color": "FFFFFF",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/459532085904945152/fF7pECcQ.png",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/459532085904945152/fF7pECcQ.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/390852769/1398417502",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/378800000377289002/7b82414fb01b80b0ca9419419342a43b_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000377289002/7b82414fb01b80b0ca9419419342a43b_normal.png",
+        "profile_link_color": "F57749",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "deddokatana",
+        "statuses_count": 1177,
+        "time_zone": null,
+        "url": "http://t.co/LWMoCVVg2k",
+        "utc_offset": null,
+        "verified": false
+    }
+}
