@@ -1,0 +1,147 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Dec 05 01:18:46 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 783214,
+                "id_str": "783214",
+                "indices": [
+                    0,
+                    8
+                ],
+                "name": "Twitter",
+                "screen_name": "twitter"
+            },
+            {
+                "id": 17874544,
+                "id_str": "17874544",
+                "indices": [
+                    9,
+                    17
+                ],
+                "name": "Twitter Support",
+                "screen_name": "Support"
+            }
+        ]
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": null,
+    "id": 672948194377129984,
+    "id_str": "672948194377129984",
+    "in_reply_to_screen_name": "twitter",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 783214,
+    "in_reply_to_user_id_str": "783214",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -87.634643,
+                        24.396308
+                    ],
+                    [
+                        -79.974307,
+                        24.396308
+                    ],
+                    [
+                        -79.974307,
+                        31.001056
+                    ],
+                    [
+                        -87.634643,
+                        31.001056
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Florida, USA",
+        "id": "4ec01c9dbc693497",
+        "name": "Florida",
+        "place_type": "admin",
+        "url": "https://api.twitter.com/1.1/geo/id/4ec01c9dbc693497.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for i\u039fS</a>",
+    "text": "@Twitter @Support Further harassment is being threatened by liltemple0. When will action be taken? Please help.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Mar 09 20:28:43 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Dark Departure filmmaker. Milla Jovovich stalker. Published entertainment writer/podcaster/etcetera. WWE tweets. Pronounced st-OWp.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "youtube.com/c/DarkDepartur\u2026",
+                        "expanded_url": "http://youtube.com/c/DarkDepartureMovies",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/hkIRFxhiGn"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 11105,
+        "follow_request_sent": false,
+        "followers_count": 2934,
+        "following": false,
+        "friends_count": 2708,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 23495288,
+        "id_str": "23495288",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 31,
+        "location": "United States",
+        "name": "Tom Stoup",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/389866322/Young_Adult_Twitter.png",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/389866322/Young_Adult_Twitter.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/23495288/1427392087",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/670100510184218625/ixu67MUB_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/670100510184218625/ixu67MUB_normal.jpg",
+        "profile_link_color": "F2B24B",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "4BCF65",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "TomStoup",
+        "statuses_count": 7869,
+        "time_zone": "Eastern Time (US & Canada)",
+        "url": "https://t.co/hkIRFxhiGn",
+        "utc_offset": -18000,
+        "verified": false
+    }
+}

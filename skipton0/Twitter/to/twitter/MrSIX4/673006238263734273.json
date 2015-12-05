@@ -1,0 +1,152 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Dec 05 05:09:25 +0000 2015",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    33,
+                    42
+                ],
+                "text": "Verified"
+            },
+            {
+                "indices": [
+                    49,
+                    63
+                ],
+                "text": "musicproducer"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 783214,
+                "id_str": "783214",
+                "indices": [
+                    0,
+                    8
+                ],
+                "name": "Twitter",
+                "screen_name": "twitter"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 673006238263734273,
+    "id_str": "673006238263734273",
+    "in_reply_to_screen_name": "twitter",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 783214,
+    "in_reply_to_user_id_str": "783214",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -179.231086,
+                        13.182335
+                    ],
+                    [
+                        179.859685,
+                        13.182335
+                    ],
+                    [
+                        179.859685,
+                        71.434357
+                    ],
+                    [
+                        -179.231086,
+                        71.434357
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "United States",
+        "id": "96683cc9126741d1",
+        "name": "United States",
+        "place_type": "country",
+        "url": "https://api.twitter.com/1.1/geo/id/96683cc9126741d1.json"
+    },
+    "retweet_count": 1,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@twitter I need my account to be #Verified i'm a #musicproducer",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Apr 18 04:17:22 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Producer x Engineer x Credited for a few major artist #YNSProducer #Beats #BADWORLD #64Productions Credits: @DaeDaeDGBSM @luck0713",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "64beats.com",
+                        "expanded_url": "http://www.64beats.com/",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/fvBct8JiJS"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 474,
+        "follow_request_sent": false,
+        "followers_count": 6505,
+        "following": false,
+        "friends_count": 2573,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 32779307,
+        "id_str": "32779307",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 19,
+        "location": "Richmond, VA",
+        "name": "Bad64",
+        "notifications": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/32779307/1433509903",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/658410794502107137/x7kOW9jH_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/658410794502107137/x7kOW9jH_normal.png",
+        "profile_link_color": "9266CC",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "MrSIX4",
+        "statuses_count": 10448,
+        "time_zone": "Central Time (US & Canada)",
+        "url": "https://t.co/fvBct8JiJS",
+        "utc_offset": -21600,
+        "verified": false
+    }
+}

@@ -1,0 +1,163 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Dec 05 05:11:26 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "media": [
+            {
+                "display_url": "pic.twitter.com/FWevgNvTNb",
+                "expanded_url": "http://twitter.com/Kelshey_/status/673006746797912064/photo/1",
+                "id": 673006738761732097,
+                "id_str": "673006738761732097",
+                "indices": [
+                    20,
+                    43
+                ],
+                "media_url": "http://pbs.twimg.com/media/CVcAECtWUAE6rq4.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/CVcAECtWUAE6rq4.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 1024,
+                        "resize": "fit",
+                        "w": 576
+                    },
+                    "medium": {
+                        "h": 1024,
+                        "resize": "fit",
+                        "w": 576
+                    },
+                    "small": {
+                        "h": 604,
+                        "resize": "fit",
+                        "w": 340
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/FWevgNvTNb"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 783214,
+                "id_str": "783214",
+                "indices": [
+                    0,
+                    8
+                ],
+                "name": "Twitter",
+                "screen_name": "twitter"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 673006746797912064,
+    "id_str": "673006746797912064",
+    "in_reply_to_screen_name": "twitter",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 783214,
+    "in_reply_to_user_id_str": "783214",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -77.40747,
+                        39.021548
+                    ],
+                    [
+                        -77.361724,
+                        39.021548
+                    ],
+                    [
+                        -77.361724,
+                        39.06483
+                    ],
+                    [
+                        -77.40747,
+                        39.06483
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Cascades, VA",
+        "id": "0128a31e4b8eea93",
+        "name": "Cascades",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/0128a31e4b8eea93.json"
+    },
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@twitter thanks bro https://t.co/FWevgNvTNb",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Oct 24 02:35:40 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Wife. Cat lover. Wine enthusiast. 06/21/14",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 3726,
+        "follow_request_sent": false,
+        "followers_count": 279,
+        "following": false,
+        "friends_count": 398,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 84748708,
+        "id_str": "84748708",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 6,
+        "location": "Virginia, USA",
+        "name": "Kelsey Smith",
+        "notifications": false,
+        "profile_background_color": "A3BC7E",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000086355897/39d891b5aa2eccff1856e39e2aa900da.png",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000086355897/39d891b5aa2eccff1856e39e2aa900da.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/84748708/1449085283",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/672643276571205632/zN6O8POy_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/672643276571205632/zN6O8POy_normal.jpg",
+        "profile_link_color": "EF3B3B",
+        "profile_sidebar_border_color": "E2EDA0",
+        "profile_sidebar_fill_color": "FDEFE3",
+        "profile_text_color": "2F1718",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Kelshey_",
+        "statuses_count": 12041,
+        "time_zone": "Eastern Time (US & Canada)",
+        "url": null,
+        "utc_offset": -18000,
+        "verified": false
+    }
+}

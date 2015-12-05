@@ -1,0 +1,230 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Dec 05 09:15:05 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/fatbellybella/\u2026",
+                "expanded_url": "https://twitter.com/fatbellybella/status/673031564356395008",
+                "indices": [
+                    33,
+                    56
+                ],
+                "url": "https://t.co/qtO4SiJzNE"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 783214,
+                "id_str": "783214",
+                "indices": [
+                    0,
+                    8
+                ],
+                "name": "Twitter",
+                "screen_name": "twitter"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 673068060593414144,
+    "id_str": "673068060593414144",
+    "in_reply_to_screen_name": "twitter",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 783214,
+    "in_reply_to_user_id_str": "783214",
+    "is_quote_status": true,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -118.668404,
+                        33.704538
+                    ],
+                    [
+                        -118.155409,
+                        33.704538
+                    ],
+                    [
+                        -118.155409,
+                        34.337041
+                    ],
+                    [
+                        -118.668404,
+                        34.337041
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Los Angeles, CA",
+        "id": "3b77caf94bfc81fe",
+        "name": "Los Angeles",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/3b77caf94bfc81fe.json"
+    },
+    "possibly_sensitive": false,
+    "quoted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Sat Dec 05 06:50:03 +0000 2015",
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "urls": [],
+            "user_mentions": []
+        },
+        "favorite_count": 2367,
+        "favorited": false,
+        "geo": null,
+        "id": 673031564356395008,
+        "id_str": "673031564356395008",
+        "in_reply_to_screen_name": null,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "is_quote_status": false,
+        "lang": "en",
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "place": null,
+        "retweet_count": 1776,
+        "retweeted": false,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "Don't need to be certified when you verified by the people . \n\n-Badu",
+        "truncated": false,
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Sun Dec 21 03:56:20 +0000 2008",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "See me in a fight with a bear? ...Help the bear. Po honey on me. :-)))",
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "erykah-badu.com",
+                            "expanded_url": "http://erykah-badu.com",
+                            "indices": [
+                                0,
+                                23
+                            ],
+                            "url": "https://t.co/qUBPWdsdrD"
+                        }
+                    ]
+                }
+            },
+            "favourites_count": 329,
+            "follow_request_sent": false,
+            "followers_count": 1578174,
+            "following": false,
+            "friends_count": 15875,
+            "geo_enabled": true,
+            "has_extended_profile": false,
+            "id": 18278629,
+            "id_str": "18278629",
+            "is_translation_enabled": false,
+            "is_translator": false,
+            "lang": "en",
+            "listed_count": 11354,
+            "location": "OBSERVATION DECK / FREAQLAB ",
+            "name": "ErykahBadoula",
+            "notifications": false,
+            "profile_background_color": "233FF5",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/356505669/x2_6035908.png",
+            "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/356505669/x2_6035908.png",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/18278629/1449170045",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/534116445698134016/J-_JCjbA_normal.jpeg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/534116445698134016/J-_JCjbA_normal.jpeg",
+            "profile_link_color": "B4DE0D",
+            "profile_sidebar_border_color": "0C2AEB",
+            "profile_sidebar_fill_color": "040512",
+            "profile_text_color": "0A0901",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "fatbellybella",
+            "statuses_count": 28101,
+            "time_zone": "Mountain Time (US & Canada)",
+            "url": "https://t.co/qUBPWdsdrD",
+            "utc_offset": -25200,
+            "verified": true
+        }
+    },
+    "quoted_status_id": 673031564356395008,
+    "quoted_status_id_str": "673031564356395008",
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@twitter YALL SOME HOEZ FOR THIS https://t.co/qtO4SiJzNE",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Dec 11 04:38:45 +0000 2013",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "radical feminist. \u2744ice princess\u2744 #BlackOutSA",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 15224,
+        "follow_request_sent": false,
+        "followers_count": 267,
+        "following": false,
+        "friends_count": 256,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 2240191694,
+        "id_str": "2240191694",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 6,
+        "location": "queen boulevard",
+        "name": ".",
+        "notifications": false,
+        "profile_background_color": "9266CC",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/440731510715318273/CjzKlRjI.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/440731510715318273/CjzKlRjI.jpeg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2240191694/1440546679",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/636324522086404096/13H38N1B_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/636324522086404096/13H38N1B_normal.jpg",
+        "profile_link_color": "F5ABB5",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "electricxlady",
+        "statuses_count": 26356,
+        "time_zone": "Eastern Time (US & Canada)",
+        "url": null,
+        "utc_offset": -18000,
+        "verified": false
+    }
+}

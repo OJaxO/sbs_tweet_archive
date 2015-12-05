@@ -1,0 +1,176 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Dec 05 09:53:32 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "media": [
+            {
+                "display_url": "pic.twitter.com/102Z1SedlD",
+                "expanded_url": "http://twitter.com/kankara_2008/status/673077737062588418/photo/1",
+                "id": 673077715671515136,
+                "id_str": "673077715671515136",
+                "indices": [
+                    53,
+                    76
+                ],
+                "media_url": "http://pbs.twimg.com/media/CVdAncTVAAAp_rP.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/CVdAncTVAAAp_rP.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 1024,
+                        "resize": "fit",
+                        "w": 575
+                    },
+                    "medium": {
+                        "h": 1024,
+                        "resize": "fit",
+                        "w": 575
+                    },
+                    "small": {
+                        "h": 605,
+                        "resize": "fit",
+                        "w": 340
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/102Z1SedlD"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 783214,
+                "id_str": "783214",
+                "indices": [
+                    0,
+                    8
+                ],
+                "name": "Twitter",
+                "screen_name": "twitter"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 673077737062588418,
+    "id_str": "673077737062588418",
+    "in_reply_to_screen_name": "twitter",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 783214,
+    "in_reply_to_user_id_str": "783214",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        7.572255,
+                        12.9329367
+                    ],
+                    [
+                        7.6744566,
+                        12.9329367
+                    ],
+                    [
+                        7.6744566,
+                        13.0211536
+                    ],
+                    [
+                        7.572255,
+                        13.0211536
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "Nigeria",
+        "country_code": "NG",
+        "full_name": "Katsina, Nigeria",
+        "id": "0102baa70911fc52",
+        "name": "Katsina",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/0102baa70911fc52.json"
+    },
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@twitter thanks for the birthday messages and wishes https://t.co/102Z1SedlD",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Mar 26 09:51:10 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "A Nigerian with a passion for change. Challenging myself to get better is my hobby. Member, NIGERIA COMPUTER SOCIETY. CERTIFIED COMPUTER PROFESSIONAL.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "kankara.tumblr.com",
+                        "expanded_url": "http://www.kankara.tumblr.com",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/ZrINw5OCi2"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 117,
+        "follow_request_sent": false,
+        "followers_count": 304,
+        "following": false,
+        "friends_count": 179,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 126582783,
+        "id_str": "126582783",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 2,
+        "location": "Loading.......",
+        "name": "BABA ILA",
+        "notifications": false,
+        "profile_background_color": "FFF04D",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme19/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme19/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/126582783/1405288676",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/669839825571287040/h-o1kbo6_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/669839825571287040/h-o1kbo6_normal.jpg",
+        "profile_link_color": "0099CC",
+        "profile_sidebar_border_color": "FFF8AD",
+        "profile_sidebar_fill_color": "F6FFD1",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "kankara_2008",
+        "statuses_count": 9228,
+        "time_zone": "Cairo",
+        "url": "https://t.co/ZrINw5OCi2",
+        "utc_offset": 7200,
+        "verified": false
+    }
+}

@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Dec 05 16:29:13 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 783214,
+                "id_str": "783214",
+                "indices": [
+                    0,
+                    8
+                ],
+                "name": "Twitter",
+                "screen_name": "twitter"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 673177315728338944,
+    "id_str": "673177315728338944",
+    "in_reply_to_screen_name": "twitter",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 783214,
+    "in_reply_to_user_id_str": "783214",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -70.967789,
+                        43.110605
+                    ],
+                    [
+                        -70.889686,
+                        43.110605
+                    ],
+                    [
+                        -70.889686,
+                        43.162719
+                    ],
+                    [
+                        -70.967789,
+                        43.162719
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Durham, NH",
+        "id": "00ead31815b6e5c1",
+        "name": "Durham",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/00ead31815b6e5c1.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@twitter Hi, My Great Twitter Family! ___ I\u00b4d Love You Let Us Use Our Full Name, I Mean, We Want You To Let Us Use Our Full Name On Twitter!",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Jan 05 15:52:21 +0000 2014",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": ":-) Yo Soy Bisexual Serio y Divertido, Tambi\u00e9n! Yo Adoro El Amor Pero NO Perdono La Infidelidad NI El Descaro! ___ LA NUEVA ORDEN MUNDIAL* ___ Primero Justicia*",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "Facebook.com/Bambino.Activo\u2026",
+                        "expanded_url": "http://www.Facebook.com/Bambino.Activo1988",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/Z1s8FKAUDh"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 42,
+        "follow_request_sent": false,
+        "followers_count": 16,
+        "following": false,
+        "friends_count": 68,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 2263791838,
+        "id_str": "2263791838",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 0,
+        "location": "Libertad, Cojedes, Venezuela",
+        "name": "Luis Eduardo Rojas *",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2263791838/1440709395",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/672989871359852545/M9NdG0i9_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/672989871359852545/M9NdG0i9_normal.jpg",
+        "profile_link_color": "FFCC4D",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "YoSoyAmanteDeTi",
+        "statuses_count": 55,
+        "time_zone": "Caracas",
+        "url": "http://t.co/Z1s8FKAUDh",
+        "utc_offset": -16200,
+        "verified": false
+    }
+}

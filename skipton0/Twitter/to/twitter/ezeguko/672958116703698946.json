@@ -1,0 +1,101 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Dec 05 01:58:12 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 783214,
+                "id_str": "783214",
+                "indices": [
+                    0,
+                    8
+                ],
+                "name": "Twitter",
+                "screen_name": "twitter"
+            },
+            {
+                "id": 20106852,
+                "id_str": "20106852",
+                "indices": [
+                    9,
+                    18
+                ],
+                "name": "Star Wars",
+                "screen_name": "starwars"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 672958116703698946,
+    "id_str": "672958116703698946",
+    "in_reply_to_screen_name": "twitter",
+    "in_reply_to_status_id": 672825212719620096,
+    "in_reply_to_status_id_str": "672825212719620096",
+    "in_reply_to_user_id": 783214,
+    "in_reply_to_user_id_str": "783214",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@twitter @starwars Oh, this is great! One for Harrison: who shot first? :P",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Dec 21 18:45:33 +0000 2008",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "No tengo SAP.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 3429,
+        "follow_request_sent": false,
+        "followers_count": 681,
+        "following": false,
+        "friends_count": 1506,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 18290362,
+        "id_str": "18290362",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "es",
+        "listed_count": 27,
+        "location": "Rosario, Argentina",
+        "name": "Mad Eze",
+        "notifications": false,
+        "profile_background_color": "6666EE",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/437308975961239552/sI2vHLfu.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/437308975961239552/sI2vHLfu.jpeg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/18290362/1447157466",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/564607675984384001/C3NzevZm_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/564607675984384001/C3NzevZm_normal.jpeg",
+        "profile_link_color": "FA743E",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "6633FF",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "ezeguko",
+        "statuses_count": 23812,
+        "time_zone": "Buenos Aires",
+        "url": null,
+        "utc_offset": -10800,
+        "verified": false
+    }
+}

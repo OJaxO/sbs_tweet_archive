@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Dec 05 01:35:28 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 783214,
+                "id_str": "783214",
+                "indices": [
+                    0,
+                    8
+                ],
+                "name": "Twitter",
+                "screen_name": "twitter"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 672952397149286400,
+    "id_str": "672952397149286400",
+    "in_reply_to_screen_name": "twitter",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 783214,
+    "in_reply_to_user_id_str": "783214",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -106.645646,
+                        25.837092
+                    ],
+                    [
+                        -93.508131,
+                        25.837092
+                    ],
+                    [
+                        -93.508131,
+                        36.500695
+                    ],
+                    [
+                        -106.645646,
+                        36.500695
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Texas, USA",
+        "id": "e0060cda70f5f341",
+        "name": "Texas",
+        "place_type": "admin",
+        "url": "https://api.twitter.com/1.1/geo/id/e0060cda70f5f341.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@twitter please add an \"edit post\" feature. Everyone else has this basic thing.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Jun 26 18:43:08 +0000 2013",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Wife. Mother. Trucker. Life is short, make it badass.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "tumblr.com/blog/updatesfr\u2026",
+                        "expanded_url": "https://www.tumblr.com/blog/updatesfromtumbleweed",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/zv3Bf2Wj1w"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 1776,
+        "follow_request_sent": false,
+        "followers_count": 91,
+        "following": false,
+        "friends_count": 30,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 1548848834,
+        "id_str": "1548848834",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 6,
+        "location": "Westbound and hammer down. ",
+        "name": "@truckmojo",
+        "notifications": false,
+        "profile_background_color": "022330",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1548848834/1439046515",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/630030718115123200/axgaIhxX_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/630030718115123200/axgaIhxX_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "A8C7F7",
+        "profile_sidebar_fill_color": "C0DFEC",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "truckmojo",
+        "statuses_count": 4087,
+        "time_zone": "Eastern Time (US & Canada)",
+        "url": "https://t.co/zv3Bf2Wj1w",
+        "utc_offset": -18000,
+        "verified": false
+    }
+}
