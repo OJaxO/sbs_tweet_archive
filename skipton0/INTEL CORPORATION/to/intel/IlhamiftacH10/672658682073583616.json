@@ -1,0 +1,124 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Dec 04 06:08:21 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 2803191,
+                "id_str": "2803191",
+                "indices": [
+                    0,
+                    6
+                ],
+                "name": "Intel",
+                "screen_name": "intel"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 672658682073583616,
+    "id_str": "672658682073583616",
+    "in_reply_to_screen_name": "intel",
+    "in_reply_to_status_id": 664836806723137536,
+    "in_reply_to_status_id_str": "664836806723137536",
+    "in_reply_to_user_id": 2803191,
+    "in_reply_to_user_id_str": "2803191",
+    "is_quote_status": false,
+    "lang": "und",
+    "metadata": {
+        "iso_language_code": "und",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        101.450409,
+                        0.462354
+                    ],
+                    [
+                        101.490776,
+                        0.462354
+                    ],
+                    [
+                        101.490776,
+                        0.502659
+                    ],
+                    [
+                        101.450409,
+                        0.502659
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "Indonesia",
+        "country_code": "ID",
+        "full_name": "Sail, Riau",
+        "id": "9cec2bf18aeefe8e",
+        "name": "Sail",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/9cec2bf18aeefe8e.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@intel a",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Sep 04 00:55:48 +0000 2013",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "[Football] #ViscaBarca #Mes que un club",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 305,
+        "follow_request_sent": false,
+        "followers_count": 93,
+        "following": false,
+        "friends_count": 247,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 1727115290,
+        "id_str": "1727115290",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 0,
+        "location": "Fairy Tail",
+        "name": "Ilham Miftach",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/462410649729892352/x4zK_kOB.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/462410649729892352/x4zK_kOB.jpeg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1727115290/1434277054",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/642702858626797568/mjyvnIN8_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/642702858626797568/mjyvnIN8_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "IlhamiftacH10",
+        "statuses_count": 1374,
+        "time_zone": "Bangkok",
+        "url": null,
+        "utc_offset": 25200,
+        "verified": false
+    }
+}
