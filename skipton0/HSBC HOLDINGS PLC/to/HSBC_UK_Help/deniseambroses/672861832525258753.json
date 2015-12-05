@@ -1,0 +1,147 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Dec 04 19:35:36 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 321471398,
+                "id_str": "321471398",
+                "indices": [
+                    0,
+                    13
+                ],
+                "name": "HSBC UK Help",
+                "screen_name": "HSBC_UK_Help"
+            },
+            {
+                "id": 207774201,
+                "id_str": "207774201",
+                "indices": [
+                    14,
+                    25
+                ],
+                "name": "Dan",
+                "screen_name": "ambrosedan"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 672861832525258753,
+    "id_str": "672861832525258753",
+    "in_reply_to_screen_name": "HSBC_UK_Help",
+    "in_reply_to_status_id": 672851685350490112,
+    "in_reply_to_status_id_str": "672851685350490112",
+    "in_reply_to_user_id": 321471398,
+    "in_reply_to_user_id_str": "321471398",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -2.0699356,
+                        52.3553437
+                    ],
+                    [
+                        -2.0344089,
+                        52.3553437
+                    ],
+                    [
+                        -2.0344089,
+                        52.3720846
+                    ],
+                    [
+                        -2.0699356,
+                        52.3720846
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United Kingdom",
+        "country_code": "GB",
+        "full_name": "Catshill, England",
+        "id": "44cfc67a4237cb80",
+        "name": "Catshill",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/44cfc67a4237cb80.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+    "text": "@HSBC_UK_Help @ambrosedan can't the bank phone you?",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Mar 19 17:07:19 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Animals don't hate, & we're supposed to be better than them Elvis P. For lots of Elvis pics visit my tumblr .I hate animal cruelty",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "elvisanddenise.tumblr.com",
+                        "expanded_url": "http://elvisanddenise.tumblr.com",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/SRR9nwx1J7"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 15005,
+        "follow_request_sent": false,
+        "followers_count": 660,
+        "following": false,
+        "friends_count": 301,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 25339132,
+        "id_str": "25339132",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 19,
+        "location": "  UK ",
+        "name": "Elvis never left",
+        "notifications": false,
+        "profile_background_color": "8A2D87",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/854786500/c4d7bdd89831c9851fb01f63c9dee101.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/854786500/c4d7bdd89831c9851fb01f63c9dee101.jpeg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/25339132/1446235040",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/666001116946108417/7oTleCcx_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/666001116946108417/7oTleCcx_normal.jpg",
+        "profile_link_color": "0055FF",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "7AC3EE",
+        "profile_text_color": "3D1957",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "deniseambroses",
+        "statuses_count": 18949,
+        "time_zone": "Casablanca",
+        "url": "https://t.co/SRR9nwx1J7",
+        "utc_offset": 0,
+        "verified": false
+    }
+}
