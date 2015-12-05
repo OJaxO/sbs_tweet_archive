@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Nov 30 22:32:58 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 23482357,
+                "id_str": "23482357",
+                "indices": [
+                    0,
+                    11
+                ],
+                "name": "The Coca-Cola Co.",
+                "screen_name": "CocaColaCo"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 671456914845409280,
+    "id_str": "671456914845409280",
+    "in_reply_to_screen_name": "CocaColaCo",
+    "in_reply_to_status_id": 671456667381440513,
+    "in_reply_to_status_id_str": "671456667381440513",
+    "in_reply_to_user_id": 23482357,
+    "in_reply_to_user_id_str": "23482357",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -0.080028,
+                        51.48432
+                    ],
+                    [
+                        0.009989,
+                        51.48432
+                    ],
+                    [
+                        0.009989,
+                        51.545341
+                    ],
+                    [
+                        -0.080028,
+                        51.545341
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United Kingdom",
+        "country_code": "GB",
+        "full_name": "Poplar, London",
+        "id": "08be9e4ebe3d037d",
+        "name": "Poplar",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/08be9e4ebe3d037d.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@CocaColaCo Reload Page!",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Jan 07 18:36:44 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Marketer who helps brands like Cadbury & Oreo make #DigitalSense. Global Digital Partner. #Carat #Mondelez #Eurovision #Olympics. Tweets my own",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "jerrydaykin.co.uk",
+                        "expanded_url": "http://www.jerrydaykin.co.uk",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/A4tm3HJZat"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 6567,
+        "follow_request_sent": false,
+        "followers_count": 4046,
+        "following": false,
+        "friends_count": 2404,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 18732047,
+        "id_str": "18732047",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 304,
+        "location": "Limehouse, East London",
+        "name": "Jerry Daykin",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/18732047/1448923115",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/536550715083468801/3z51wU6G_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/536550715083468801/3z51wU6G_normal.jpeg",
+        "profile_link_color": "4A913C",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "jdaykin",
+        "statuses_count": 15479,
+        "time_zone": "London",
+        "url": "https://t.co/A4tm3HJZat",
+        "utc_offset": 0,
+        "verified": false
+    }
+}

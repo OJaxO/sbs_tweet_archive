@@ -1,0 +1,157 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Dec 02 12:30:01 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 23482357,
+                "id_str": "23482357",
+                "indices": [
+                    0,
+                    11
+                ],
+                "name": "The Coca-Cola Co.",
+                "screen_name": "CocaColaCo"
+            },
+            {
+                "id": 208651977,
+                "id_str": "208651977",
+                "indices": [
+                    12,
+                    22
+                ],
+                "name": "Coca-Cola Music",
+                "screen_name": "CokeMusic"
+            },
+            {
+                "id": 632173,
+                "id_str": "632173",
+                "indices": [
+                    23,
+                    25
+                ],
+                "name": "Coley Cheng",
+                "screen_name": "c"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 672029956197580801,
+    "id_str": "672029956197580801",
+    "in_reply_to_screen_name": "CocaColaCo",
+    "in_reply_to_status_id": 671716892239904768,
+    "in_reply_to_status_id_str": "671716892239904768",
+    "in_reply_to_user_id": 23482357,
+    "in_reply_to_user_id_str": "23482357",
+    "is_quote_status": false,
+    "lang": "und",
+    "metadata": {
+        "iso_language_code": "und",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        121.1413017,
+                        14.5620847
+                    ],
+                    [
+                        121.37843,
+                        14.5620847
+                    ],
+                    [
+                        121.37843,
+                        14.7462079
+                    ],
+                    [
+                        121.1413017,
+                        14.7462079
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "Republika ng Pilipinas",
+        "country_code": "PH",
+        "full_name": "Antipolo City, Calabarzon",
+        "id": "00bcaba837867882",
+        "name": "Antipolo City",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/00bcaba837867882.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@CocaColaCo @CokeMusic @c",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Jun 25 11:19:58 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "No matter how weak you feel, keep going and don\u2019t give up.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "instagram.com/diannemalicdem",
+                        "expanded_url": "http://instagram.com/diannemalicdem",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/6QtpszNrXS"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 1171,
+        "follow_request_sent": false,
+        "followers_count": 70,
+        "following": false,
+        "friends_count": 389,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 159441230,
+        "id_str": "159441230",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 0,
+        "location": "Antipolo City, Philippines",
+        "name": "Diana Luz Malicdem \u30c3",
+        "notifications": false,
+        "profile_background_color": "1A1B1F",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000173910906/-59dehuj.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000173910906/-59dehuj.jpeg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/159441230/1415233310",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/630655292238249984/RtSgr7iY_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/630655292238249984/RtSgr7iY_normal.jpg",
+        "profile_link_color": "77218A",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "252429",
+        "profile_text_color": "666666",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "chianne_28",
+        "statuses_count": 4558,
+        "time_zone": "Singapore",
+        "url": "http://t.co/6QtpszNrXS",
+        "utc_offset": 28800,
+        "verified": false
+    }
+}
