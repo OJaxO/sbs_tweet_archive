@@ -1,0 +1,211 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Dec 04 14:27:13 +0000 2015",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    21,
+                    34
+                ],
+                "text": "fooddelivery"
+            },
+            {
+                "indices": [
+                    72,
+                    81
+                ],
+                "text": "FoodTech"
+            }
+        ],
+        "media": [
+            {
+                "display_url": "pic.twitter.com/cejno8ZoHm",
+                "expanded_url": "http://twitter.com/SEEDSandCHIPS/status/672784223661592576/photo/1",
+                "id": 672784222738714629,
+                "id_str": "672784222738714629",
+                "indices": [
+                    107,
+                    130
+                ],
+                "media_url": "http://pbs.twimg.com/media/CVY1r57UEAU7jP8.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/CVY1r57UEAU7jP8.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 168,
+                        "resize": "fit",
+                        "w": 299
+                    },
+                    "medium": {
+                        "h": 168,
+                        "resize": "fit",
+                        "w": 299
+                    },
+                    "small": {
+                        "h": 168,
+                        "resize": "fit",
+                        "w": 299
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/cejno8ZoHm"
+            }
+        ],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "bit.ly/1Itwmwj",
+                "expanded_url": "http://bit.ly/1Itwmwj",
+                "indices": [
+                    83,
+                    106
+                ],
+                "url": "https://t.co/sH76pwX0hm"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 20793816,
+                "id_str": "20793816",
+                "indices": [
+                    0,
+                    7
+                ],
+                "name": "Amazon",
+                "screen_name": "amazon"
+            },
+            {
+                "id": 3170646053,
+                "id_str": "3170646053",
+                "indices": [
+                    56,
+                    71
+                ],
+                "name": "Amazon Prime Now",
+                "screen_name": "amazonprimenow"
+            }
+        ]
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": null,
+    "id": 672784223661592576,
+    "id_str": "672784223661592576",
+    "in_reply_to_screen_name": "amazon",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 20793816,
+    "in_reply_to_user_id_str": "20793816",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        6.6266397,
+                        35.4928765
+                    ],
+                    [
+                        18.5203619,
+                        35.4928765
+                    ],
+                    [
+                        18.5203619,
+                        47.0924248
+                    ],
+                    [
+                        6.6266397,
+                        47.0924248
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "Italia",
+        "country_code": "IT",
+        "full_name": "Italy",
+        "id": "c799e2d3a79f810e",
+        "name": "Italy",
+        "place_type": "country",
+        "url": "https://api.twitter.com/1.1/geo/id/c799e2d3a79f810e.json"
+    },
+    "possibly_sensitive": false,
+    "retweet_count": 1,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@amazon launches new #fooddelivery service in Baltimore @amazonprimenow #FoodTech \nhttps://t.co/sH76pwX0hm https://t.co/cejno8ZoHm",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Dec 04 16:33:06 +0000 2014",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "The international exhibition and conference that brings food & technology together: Internet of Food 11- 14 May 2016 Milan - Italy | 2nd edition",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "seedsandchips.com",
+                        "expanded_url": "http://www.seedsandchips.com",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/wnXjoAuCXs"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 7770,
+        "follow_request_sent": false,
+        "followers_count": 2505,
+        "following": false,
+        "friends_count": 1248,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 2905258265,
+        "id_str": "2905258265",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "it",
+        "listed_count": 337,
+        "location": "Milan",
+        "name": "Seeds&Chips",
+        "notifications": false,
+        "profile_background_color": "D1B53E",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/544437778876866561/nhx9-3V6.png",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/544437778876866561/nhx9-3V6.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2905258265/1448524705",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/565186565094117376/6UxSn2cC_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/565186565094117376/6UxSn2cC_normal.jpeg",
+        "profile_link_color": "272C37",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "SEEDSandCHIPS",
+        "statuses_count": 8494,
+        "time_zone": null,
+        "url": "https://t.co/wnXjoAuCXs",
+        "utc_offset": null,
+        "verified": false
+    }
+}
