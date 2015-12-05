@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Dec 04 07:48:09 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 18332190,
+                "id_str": "18332190",
+                "indices": [
+                    0,
+                    16
+                ],
+                "name": "British Airways",
+                "screen_name": "British_Airways"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 672683798153293824,
+    "id_str": "672683798153293824",
+    "in_reply_to_screen_name": "British_Airways",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 18332190,
+    "in_reply_to_user_id_str": "18332190",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -0.457966,
+                        51.420633
+                    ],
+                    [
+                        -0.243419,
+                        51.420633
+                    ],
+                    [
+                        -0.243419,
+                        51.502851
+                    ],
+                    [
+                        -0.457966,
+                        51.502851
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United Kingdom",
+        "country_code": "GB",
+        "full_name": "Hounslow, London",
+        "id": "0b30aadf406d13cc",
+        "name": "Hounslow",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/0b30aadf406d13cc.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for i\u039fS</a>",
+    "text": "@British_Airways thank you to the cabin staff for looking after me this morning on my flight to Hannover.  Much appreciated",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat May 07 14:24:00 +0000 2011",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Commercial Director for Salmon, Shaping Future Commerce.  All views expressed are my own.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "salmon.com",
+                        "expanded_url": "http://www.salmon.com",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/df2QJWYkf4"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 0,
+        "follow_request_sent": false,
+        "followers_count": 258,
+        "following": false,
+        "friends_count": 117,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 294643925,
+        "id_str": "294643925",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 9,
+        "location": "London",
+        "name": "Iain Devine",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/294643925/1382444868",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/378800000632691339/67bf06f3eb3a89cf3436a82d11da5400_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000632691339/67bf06f3eb3a89cf3436a82d11da5400_normal.jpeg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "smartercommeu",
+        "statuses_count": 511,
+        "time_zone": "London",
+        "url": "http://t.co/df2QJWYkf4",
+        "utc_offset": 0,
+        "verified": false
+    }
+}

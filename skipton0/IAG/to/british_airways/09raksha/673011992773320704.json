@@ -1,0 +1,124 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Dec 05 05:32:17 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 18332190,
+                "id_str": "18332190",
+                "indices": [
+                    0,
+                    16
+                ],
+                "name": "British Airways",
+                "screen_name": "British_Airways"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 673011992773320704,
+    "id_str": "673011992773320704",
+    "in_reply_to_screen_name": "British_Airways",
+    "in_reply_to_status_id": 673011624458985472,
+    "in_reply_to_status_id_str": "673011624458985472",
+    "in_reply_to_user_id": 18332190,
+    "in_reply_to_user_id_str": "18332190",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        80.1830806,
+                        12.965942
+                    ],
+                    [
+                        80.252142,
+                        12.965942
+                    ],
+                    [
+                        80.252142,
+                        13.0604949
+                    ],
+                    [
+                        80.1830806,
+                        13.0604949
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "India",
+        "country_code": "IN",
+        "full_name": "Chennai, Tamil Nadu",
+        "id": "38ac902a28ee86da",
+        "name": "Chennai",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/38ac902a28ee86da.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@British_Airways Thanks for the follow back, I have sent you a DM with the required details.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Sep 16 04:35:28 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Social butterfly.Coffee addict. Music lover. Travel enthusiast",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 20,
+        "follow_request_sent": false,
+        "followers_count": 46,
+        "following": false,
+        "friends_count": 69,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 374341056,
+        "id_str": "374341056",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 2,
+        "location": "Toronto",
+        "name": "Raksha R",
+        "notifications": false,
+        "profile_background_color": "FC4B66",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000036169900/108d4c9919208ea5462f2abf28eaedcb.png",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000036169900/108d4c9919208ea5462f2abf28eaedcb.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/374341056/1375112416",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/414665083286200320/5B4jdwBf_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/414665083286200320/5B4jdwBf_normal.jpeg",
+        "profile_link_color": "FD695C",
+        "profile_sidebar_border_color": "A2DEAA",
+        "profile_sidebar_fill_color": "D1D1D1",
+        "profile_text_color": "ED9E5C",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "09raksha",
+        "statuses_count": 60,
+        "time_zone": null,
+        "url": null,
+        "utc_offset": null,
+        "verified": false
+    }
+}

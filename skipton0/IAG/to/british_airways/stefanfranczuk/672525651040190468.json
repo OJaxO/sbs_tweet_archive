@@ -1,0 +1,123 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Dec 03 21:19:44 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 18332190,
+                "id_str": "18332190",
+                "indices": [
+                    0,
+                    16
+                ],
+                "name": "British Airways",
+                "screen_name": "British_Airways"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 672525651040190468,
+    "id_str": "672525651040190468",
+    "in_reply_to_screen_name": "British_Airways",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 18332190,
+    "in_reply_to_user_id_str": "18332190",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -0.541868,
+                        51.46865
+                    ],
+                    [
+                        -0.503274,
+                        51.46865
+                    ],
+                    [
+                        -0.503274,
+                        51.4928698
+                    ],
+                    [
+                        -0.541868,
+                        51.4928698
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United Kingdom",
+        "country_code": "GB",
+        "full_name": "Colnbrook, England",
+        "id": "7b6dec9862c3bbc1",
+        "name": "Colnbrook",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/7b6dec9862c3bbc1.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@British_Airways travelled every week since July to Zurich and have never been more annoyed than tonight. Terrible attitude of all staff",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Feb 11 16:02:42 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "IT consultant & Big Data Scientist. PhD in Experimental Photo-Nuclear Physics, science & tech nut. Old PPL and motorcyclist, unpaid astronomer. Some politics.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 183,
+        "follow_request_sent": false,
+        "followers_count": 2398,
+        "following": false,
+        "friends_count": 2166,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 250686301,
+        "id_str": "250686301",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 129,
+        "location": "Scotland, UK",
+        "name": "Stefan Franczuk",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/311653670/newton.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/311653670/newton.jpg",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/574972265697308672/7HMiZkmg_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/574972265697308672/7HMiZkmg_normal.jpeg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "stefanfranczuk",
+        "statuses_count": 21307,
+        "time_zone": null,
+        "url": null,
+        "utc_offset": null,
+        "verified": false
+    }
+}

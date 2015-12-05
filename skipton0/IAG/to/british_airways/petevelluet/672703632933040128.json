@@ -1,0 +1,124 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Dec 04 09:06:58 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 18332190,
+                "id_str": "18332190",
+                "indices": [
+                    0,
+                    16
+                ],
+                "name": "British Airways",
+                "screen_name": "British_Airways"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 672703632933040128,
+    "id_str": "672703632933040128",
+    "in_reply_to_screen_name": "British_Airways",
+    "in_reply_to_status_id": 672538080688136192,
+    "in_reply_to_status_id_str": "672538080688136192",
+    "in_reply_to_user_id": 18332190,
+    "in_reply_to_user_id_str": "18332190",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        18.3180332,
+                        -34.35839
+                    ],
+                    [
+                        18.659787,
+                        -34.35839
+                    ],
+                    [
+                        18.659787,
+                        -33.8852384
+                    ],
+                    [
+                        18.3180332,
+                        -33.8852384
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "South Africa",
+        "country_code": "ZA",
+        "full_name": "Cape Town, South Africa",
+        "id": "8b9ec16fdc0d7e55",
+        "name": "Cape Town",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/8b9ec16fdc0d7e55.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@British_Airways BA59. Knackered old thing. Onboard crew where great as always",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Sep 23 21:00:32 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Cameraman for telly stuff. Views my own blah blah blah",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 54,
+        "follow_request_sent": false,
+        "followers_count": 1348,
+        "following": false,
+        "friends_count": 566,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 194310389,
+        "id_str": "194310389",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 35,
+        "location": "london, UK",
+        "name": "Peter Velluet",
+        "notifications": false,
+        "profile_background_color": "BADFCD",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme12/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme12/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/194310389/1441837253",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/522045275658264576/dW7NV8NU_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/522045275658264576/dW7NV8NU_normal.jpeg",
+        "profile_link_color": "FF0000",
+        "profile_sidebar_border_color": "F2E195",
+        "profile_sidebar_fill_color": "FFF7CC",
+        "profile_text_color": "0C3E53",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "petevelluet",
+        "statuses_count": 1881,
+        "time_zone": "London",
+        "url": null,
+        "utc_offset": 0,
+        "verified": false
+    }
+}

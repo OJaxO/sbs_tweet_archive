@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Dec 03 19:51:05 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 18332190,
+                "id_str": "18332190",
+                "indices": [
+                    0,
+                    16
+                ],
+                "name": "British Airways",
+                "screen_name": "British_Airways"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 672503339414913025,
+    "id_str": "672503339414913025",
+    "in_reply_to_screen_name": "British_Airways",
+    "in_reply_to_status_id": 672502939156545537,
+    "in_reply_to_status_id_str": "672502939156545537",
+    "in_reply_to_user_id": 18332190,
+    "in_reply_to_user_id_str": "18332190",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -0.213503,
+                        51.512805
+                    ],
+                    [
+                        -0.105303,
+                        51.512805
+                    ],
+                    [
+                        -0.105303,
+                        51.572068
+                    ],
+                    [
+                        -0.213503,
+                        51.572068
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United Kingdom",
+        "country_code": "GB",
+        "full_name": "Camden Town, London",
+        "id": "5de8cffc145c486b",
+        "name": "Camden Town",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/5de8cffc145c486b.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@British_Airways Please let me know to which email id can I send the details. Thanks",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Jul 01 16:28:31 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Chief Technology Officer, Omnivorous reader, Marked geek, Extrovert but shy, Innovation Pundit, Experiments new technology, Strong believer in God.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "linkedin.com/in/jagdishbhan\u2026",
+                        "expanded_url": "https://www.linkedin.com/in/jagdishbhandarkar",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/sqQYUJtzfO"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 9,
+        "follow_request_sent": false,
+        "followers_count": 96,
+        "following": false,
+        "friends_count": 294,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 52772183,
+        "id_str": "52772183",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 9,
+        "location": "Bangalore, India",
+        "name": "Jagdish Bhandarkar",
+        "notifications": false,
+        "profile_background_color": "0099B9",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/52772183/1407658166",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/2168158486/Jagdish_Profile_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/2168158486/Jagdish_Profile_normal.jpg",
+        "profile_link_color": "0099B9",
+        "profile_sidebar_border_color": "5ED4DC",
+        "profile_sidebar_fill_color": "95E8EC",
+        "profile_text_color": "3C3940",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "jbhandarkar",
+        "statuses_count": 360,
+        "time_zone": "New Delhi",
+        "url": "https://t.co/sqQYUJtzfO",
+        "utc_offset": 19800,
+        "verified": false
+    }
+}
