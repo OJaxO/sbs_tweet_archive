@@ -1,0 +1,124 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Dec 04 21:05:04 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 67418441,
+                "id_str": "67418441",
+                "indices": [
+                    0,
+                    7
+                ],
+                "name": "Disney",
+                "screen_name": "Disney"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 672884346886479873,
+    "id_str": "672884346886479873",
+    "in_reply_to_screen_name": "Disney",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 67418441,
+    "in_reply_to_user_id_str": "67418441",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -73.508143,
+                        41.187054
+                    ],
+                    [
+                        -69.858861,
+                        41.187054
+                    ],
+                    [
+                        -69.858861,
+                        42.8868114
+                    ],
+                    [
+                        -73.508143,
+                        42.8868114
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Massachusetts, USA",
+        "id": "cd450c94084cbf9b",
+        "name": "Massachusetts",
+        "place_type": "admin",
+        "url": "https://api.twitter.com/1.1/geo/id/cd450c94084cbf9b.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@Disney on our flight in an hour!",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Jan 02 15:38:44 +0000 2015",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "10-19-13",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 10090,
+        "follow_request_sent": false,
+        "followers_count": 473,
+        "following": false,
+        "friends_count": 467,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 2956776383,
+        "id_str": "2956776383",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 1,
+        "location": "508",
+        "name": "Draek",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2956776383/1445527994",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/667540682995822594/7z6oYFzm_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/667540682995822594/7z6oYFzm_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Alexrosado01",
+        "statuses_count": 5393,
+        "time_zone": null,
+        "url": null,
+        "utc_offset": null,
+        "verified": false
+    }
+}

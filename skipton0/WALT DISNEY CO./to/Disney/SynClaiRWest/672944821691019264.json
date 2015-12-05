@@ -1,0 +1,214 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Dec 05 01:05:22 +0000 2015",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    39,
+                    48
+                ],
+                "text": "StarWars"
+            }
+        ],
+        "media": [
+            {
+                "display_url": "pic.twitter.com/KPeEVotn28",
+                "expanded_url": "http://twitter.com/SynClaiRWest/status/672944821691019264/photo/1",
+                "id": 672944697812193281,
+                "id_str": "672944697812193281",
+                "indices": [
+                    115,
+                    138
+                ],
+                "media_url": "http://pbs.twimg.com/media/CVbHoyKUEAEZ7M4.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/CVbHoyKUEAEZ7M4.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 768,
+                        "resize": "fit",
+                        "w": 1024
+                    },
+                    "medium": {
+                        "h": 450,
+                        "resize": "fit",
+                        "w": 600
+                    },
+                    "small": {
+                        "h": 255,
+                        "resize": "fit",
+                        "w": 340
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/KPeEVotn28"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 67418441,
+                "id_str": "67418441",
+                "indices": [
+                    0,
+                    7
+                ],
+                "name": "Disney",
+                "screen_name": "Disney"
+            },
+            {
+                "id": 3165817215,
+                "id_str": "3165817215",
+                "indices": [
+                    72,
+                    83
+                ],
+                "name": "John Boyega",
+                "screen_name": "JohnBoyega"
+            },
+            {
+                "id": 75974281,
+                "id_str": "75974281",
+                "indices": [
+                    96,
+                    111
+                ],
+                "name": "Samuel L. Jackson",
+                "screen_name": "SamuelLJackson"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 672944821691019264,
+    "id_str": "672944821691019264",
+    "in_reply_to_screen_name": "Disney",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 67418441,
+    "in_reply_to_user_id_str": "67418441",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -118.250227,
+                        33.732905
+                    ],
+                    [
+                        -118.0631938,
+                        33.732905
+                    ],
+                    [
+                        -118.0631938,
+                        33.885438
+                    ],
+                    [
+                        -118.250227,
+                        33.885438
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Long Beach, CA",
+        "id": "01c060cf466c6ce3",
+        "name": "Long Beach",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/01c060cf466c6ce3.json"
+    },
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@Disney doing a terrible job marketing #StarWars ! I see ZERO of Finn ( @JohnBoyega ) or Mace ( @SamuelLJackson ). https://t.co/KPeEVotn28",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Jul 22 23:57:15 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Album THE NIGHT IS MINE available now! Visit http://t.co/1sUyoufjF4 . SynClaiR:RnB artist/ Gamer / Indie Actor",
+        "entities": {
+            "description": {
+                "urls": [
+                    {
+                        "display_url": "Calevolution.com/SynclaiR",
+                        "expanded_url": "http://Calevolution.com/SynclaiR",
+                        "indices": [
+                            45,
+                            67
+                        ],
+                        "url": "http://t.co/1sUyoufjF4"
+                    }
+                ]
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "calevolution.com/SynClaiR",
+                        "expanded_url": "http://www.calevolution.com/SynClaiR",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/nq3wlEbzXX"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 3367,
+        "follow_request_sent": false,
+        "followers_count": 782,
+        "following": false,
+        "friends_count": 2024,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 59296128,
+        "id_str": "59296128",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 22,
+        "location": "Long Beach, California",
+        "name": "SynClaiR",
+        "notifications": false,
+        "profile_background_color": "022330",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/567684153/pf11anofl235gkfy93vs.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/567684153/pf11anofl235gkfy93vs.jpeg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/59296128/1447987724",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/667536966573907969/T0RBF04f_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/667536966573907969/T0RBF04f_normal.jpg",
+        "profile_link_color": "0D0C0D",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "C0DFEC",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "SynClaiRWest",
+        "statuses_count": 6351,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "http://t.co/nq3wlEbzXX",
+        "utc_offset": -28800,
+        "verified": false
+    }
+}
