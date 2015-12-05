@@ -1,0 +1,155 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Dec 02 19:46:49 +0000 2015",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    26,
+                    37
+                ],
+                "text": "Manchester"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 19397351,
+                "id_str": "19397351",
+                "indices": [
+                    0,
+                    11
+                ],
+                "name": "Premier Inn",
+                "screen_name": "premierinn"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 672139877979455488,
+    "id_str": "672139877979455488",
+    "in_reply_to_screen_name": "premierinn",
+    "in_reply_to_status_id": 672133667477659648,
+    "in_reply_to_status_id_str": "672133667477659648",
+    "in_reply_to_user_id": 19397351,
+    "in_reply_to_user_id_str": "19397351",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -2.319934,
+                        53.343623
+                    ],
+                    [
+                        -2.147026,
+                        53.343623
+                    ],
+                    [
+                        -2.147026,
+                        53.5702824
+                    ],
+                    [
+                        -2.319934,
+                        53.5702824
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United Kingdom",
+        "country_code": "GB",
+        "full_name": "Manchester, England",
+        "id": "315b740b108481f6",
+        "name": "Manchester",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/315b740b108481f6.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@premierinn I always do ! #Manchester thank you \ud83d\udc90",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Oct 29 16:26:11 +0000 2008",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "#BBC #ITV #SKY #Parenting Expert #Broadcaster #Author & #Divorce Specialist. Here are my 'Parenting Made Easy' resources https://t.co/iwHKPsV7en",
+        "entities": {
+            "description": {
+                "urls": [
+                    {
+                        "display_url": "TheSueAtkins.com",
+                        "expanded_url": "http://www.TheSueAtkins.com",
+                        "indices": [
+                            121,
+                            144
+                        ],
+                        "url": "https://t.co/iwHKPsV7en"
+                    }
+                ]
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "TheSueAtkins.com",
+                        "expanded_url": "http://www.TheSueAtkins.com",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/iwHKPsV7en"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 10440,
+        "follow_request_sent": false,
+        "followers_count": 26318,
+        "following": false,
+        "friends_count": 9690,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 17044695,
+        "id_str": "17044695",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 1031,
+        "location": "Warlingham,Surrey",
+        "name": "Sue Atkins",
+        "notifications": false,
+        "profile_background_color": "BADFCD",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/255735817/Screen_shot_2011-05-03_at_20.24.23.png",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/255735817/Screen_shot_2011-05-03_at_20.24.23.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/17044695/1431970212",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/668502889086722048/0DyeP1zF_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/668502889086722048/0DyeP1zF_normal.jpg",
+        "profile_link_color": "FF0000",
+        "profile_sidebar_border_color": "F2E195",
+        "profile_sidebar_fill_color": "FFF7CC",
+        "profile_text_color": "0C3E53",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "SueAtkins",
+        "statuses_count": 110068,
+        "time_zone": "London",
+        "url": "https://t.co/iwHKPsV7en",
+        "utc_offset": 0,
+        "verified": false
+    }
+}

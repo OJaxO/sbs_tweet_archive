@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Dec 02 16:19:51 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 19397351,
+                "id_str": "19397351",
+                "indices": [
+                    0,
+                    11
+                ],
+                "name": "Premier Inn",
+                "screen_name": "premierinn"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 672087793691181056,
+    "id_str": "672087793691181056",
+    "in_reply_to_screen_name": "premierinn",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 19397351,
+    "in_reply_to_user_id_str": "19397351",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -2.1899763,
+                        57.107695
+                    ],
+                    [
+                        -2.0641046,
+                        57.107695
+                    ],
+                    [
+                        -2.0641046,
+                        57.2134174
+                    ],
+                    [
+                        -2.1899763,
+                        57.2134174
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United Kingdom",
+        "country_code": "GB",
+        "full_name": "Aberdeen, Scotland",
+        "id": "73cc26d418860ddd",
+        "name": "Aberdeen",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/73cc26d418860ddd.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@premierinn Afternoon \u2013 Can I eat at your restaurant at Aberdeen (Dyce) even though I am not a guest in the hotel? Thanks",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Feb 07 14:23:43 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Dad to Ruby + Bump, Husband to @claireypatchett, HR & Payroll Consultant for @Unit4_UK. Music & Car Lover! All views are of my own...",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "unit4.com/uki",
+                        "expanded_url": "http://www.unit4.com/uki",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/28J8ezMRmz"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 34,
+        "follow_request_sent": false,
+        "followers_count": 400,
+        "following": false,
+        "friends_count": 525,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 112178022,
+        "id_str": "112178022",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 11,
+        "location": "Bradford, West Yorkshire - UK",
+        "name": "Luke Patchett",
+        "notifications": false,
+        "profile_background_color": "022330",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/112178022/1412200313",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/616698520263720960/P0YpALtw_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/616698520263720960/P0YpALtw_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "A8C7F7",
+        "profile_sidebar_fill_color": "C0DFEC",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "lukepatchett",
+        "statuses_count": 10717,
+        "time_zone": "London",
+        "url": "https://t.co/28J8ezMRmz",
+        "utc_offset": 0,
+        "verified": false
+    }
+}

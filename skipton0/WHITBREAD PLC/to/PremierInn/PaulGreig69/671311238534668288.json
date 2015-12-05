@@ -1,0 +1,142 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Nov 30 12:54:06 +0000 2015",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    111,
+                    126
+                ],
+                "text": "Discrimination"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 19397351,
+                "id_str": "19397351",
+                "indices": [
+                    0,
+                    11
+                ],
+                "name": "Premier Inn",
+                "screen_name": "premierinn"
+            },
+            {
+                "id": 117463017,
+                "id_str": "117463017",
+                "indices": [
+                    128,
+                    140
+                ],
+                "name": "Disability Rights UK",
+                "screen_name": "DisRightsUK"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 671311238534668288,
+    "id_str": "671311238534668288",
+    "in_reply_to_screen_name": "premierinn",
+    "in_reply_to_status_id": 671257561589501952,
+    "in_reply_to_status_id_str": "671257561589501952",
+    "in_reply_to_user_id": 19397351,
+    "in_reply_to_user_id_str": "19397351",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -2.03410488116464,
+                        51.9772264213839
+                    ],
+                    [
+                        0.357994000542651,
+                        51.9772264213839
+                    ],
+                    [
+                        0.357994000542651,
+                        53.6163564980205
+                    ],
+                    [
+                        -2.03410488116464,
+                        53.6163564980205
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United Kingdom",
+        "country_code": "GB",
+        "full_name": "East Midlands, England",
+        "id": "50f2d0272381533f",
+        "name": "East Midlands",
+        "place_type": "admin",
+        "url": "https://api.twitter.com/1.1/geo/id/50f2d0272381533f.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@premierinn same hotel on the same nights had a \u00a310 per night difference. You do charge more for the disabled! #Discrimination  @DisRightsUK",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Mar 07 16:47:29 +0000 2012",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "A bit Edinburgh, a bit Hartlepool, a bit London, a bit Blackburn, a lot and always Dorset. Poole Pirate exile living in a Speedway backwater",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 15,
+        "follow_request_sent": false,
+        "followers_count": 39,
+        "following": false,
+        "friends_count": 110,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 517751900,
+        "id_str": "517751900",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 4,
+        "location": "",
+        "name": "Paul Greig",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/517751900/1372693896",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/378800000073441199/70d4be0a7330143d8c10c6c10d0c411b_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000073441199/70d4be0a7330143d8c10c6c10d0c411b_normal.jpeg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "PaulGreig69",
+        "statuses_count": 2068,
+        "time_zone": "London",
+        "url": null,
+        "utc_offset": 0,
+        "verified": false
+    }
+}

@@ -1,0 +1,134 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 01 17:58:32 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 19397351,
+                "id_str": "19397351",
+                "indices": [
+                    0,
+                    11
+                ],
+                "name": "Premier Inn",
+                "screen_name": "premierinn"
+            },
+            {
+                "id": 296890773,
+                "id_str": "296890773",
+                "indices": [
+                    12,
+                    26
+                ],
+                "name": "Shaun the Sheep",
+                "screen_name": "shaunthesheep"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 671750240563830785,
+    "id_str": "671750240563830785",
+    "in_reply_to_screen_name": "premierinn",
+    "in_reply_to_status_id": 671743080052088832,
+    "in_reply_to_status_id_str": "671743080052088832",
+    "in_reply_to_user_id": 19397351,
+    "in_reply_to_user_id_str": "19397351",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -5.35340678071236,
+                        51.3787780012005
+                    ],
+                    [
+                        -2.64982707940341,
+                        51.3787780012005
+                    ],
+                    [
+                        -2.64982707940341,
+                        53.4300939018827
+                    ],
+                    [
+                        -5.35340678071236,
+                        53.4300939018827
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United Kingdom",
+        "country_code": "GB",
+        "full_name": "Wales, United Kingdom",
+        "id": "208d28e57bdc12e9",
+        "name": "Wales",
+        "place_type": "admin",
+        "url": "https://api.twitter.com/1.1/geo/id/208d28e57bdc12e9.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@premierinn @shaunthesheep is one of the prizes going to be a Premier Inn bed? \ud83d\udc40",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Jun 04 12:12:56 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "sorry if do not like",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 1839,
+        "follow_request_sent": false,
+        "followers_count": 708,
+        "following": false,
+        "friends_count": 396,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 44601920,
+        "id_str": "44601920",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 31,
+        "location": "Welsh Wales",
+        "name": "Crossy",
+        "notifications": false,
+        "profile_background_color": "352726",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/44601920/1446931631",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/655811514683756544/bB90LaG5_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/655811514683756544/bB90LaG5_normal.jpg",
+        "profile_link_color": "D02B55",
+        "profile_sidebar_border_color": "829D5E",
+        "profile_sidebar_fill_color": "99CC33",
+        "profile_text_color": "3E4415",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "crossy33",
+        "statuses_count": 51542,
+        "time_zone": "London",
+        "url": null,
+        "utc_offset": 0,
+        "verified": false
+    }
+}

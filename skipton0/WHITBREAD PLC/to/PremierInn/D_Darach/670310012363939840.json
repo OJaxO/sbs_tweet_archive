@@ -1,0 +1,124 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Nov 27 18:35:35 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 19397351,
+                "id_str": "19397351",
+                "indices": [
+                    0,
+                    11
+                ],
+                "name": "Premier Inn",
+                "screen_name": "premierinn"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 670310012363939840,
+    "id_str": "670310012363939840",
+    "in_reply_to_screen_name": "premierinn",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 19397351,
+    "in_reply_to_user_id_str": "19397351",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -2.041679,
+                        53.9384247
+                    ],
+                    [
+                        -1.9951418,
+                        53.9384247
+                    ],
+                    [
+                        -1.9951418,
+                        53.9701066
+                    ],
+                    [
+                        -2.041679,
+                        53.9701066
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United Kingdom",
+        "country_code": "GB",
+        "full_name": "Skipton, England",
+        "id": "6f2dc53952e6f7a2",
+        "name": "Skipton",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/6f2dc53952e6f7a2.json"
+    },
+    "retweet_count": 1,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@premierinn cannot believe Premier Inn treat Corporate Customers so badly, vow and declare you've lost a customer",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Oct 10 12:14:05 +0000 2015",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 4,
+        "follow_request_sent": false,
+        "followers_count": 9,
+        "following": false,
+        "friends_count": 18,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 3918114561,
+        "id_str": "3918114561",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en-GB",
+        "listed_count": 0,
+        "location": "",
+        "name": "Darach MacDonnchadha",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3918114561/1444581738",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/652821499129274368/ugQsyVWR_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/652821499129274368/ugQsyVWR_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "D_Darach",
+        "statuses_count": 10,
+        "time_zone": null,
+        "url": null,
+        "utc_offset": null,
+        "verified": false
+    }
+}

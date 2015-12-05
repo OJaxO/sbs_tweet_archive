@@ -1,0 +1,145 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Nov 30 13:44:12 +0000 2015",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    67,
+                    75
+                ],
+                "text": "Typical"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 19397351,
+                "id_str": "19397351",
+                "indices": [
+                    0,
+                    11
+                ],
+                "name": "Premier Inn",
+                "screen_name": "premierinn"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 671323847044562944,
+    "id_str": "671323847044562944",
+    "in_reply_to_screen_name": "premierinn",
+    "in_reply_to_status_id": 671323707902660608,
+    "in_reply_to_status_id_str": "671323707902660608",
+    "in_reply_to_user_id": 19397351,
+    "in_reply_to_user_id_str": "19397351",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -1.257418,
+                        54.63917
+                    ],
+                    [
+                        -1.175446,
+                        54.63917
+                    ],
+                    [
+                        -1.175446,
+                        54.71881
+                    ],
+                    [
+                        -1.257418,
+                        54.71881
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United Kingdom",
+        "country_code": "GB",
+        "full_name": "Hartlepool, England",
+        "id": "1f3d386c66451137",
+        "name": "Hartlepool",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/1f3d386c66451137.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@premierinn I've DMed. I got a confirmation as soon as I tweeted \ud83d\ude02 #Typical",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Mar 04 09:13:48 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Be careful what you put on social media, for it is public and it will never die.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "mdochertyuk.wordpress.com",
+                        "expanded_url": "http://mdochertyuk.wordpress.com",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/idPuZeT24a"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 6127,
+        "follow_request_sent": false,
+        "followers_count": 1506,
+        "following": false,
+        "friends_count": 2085,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 119673750,
+        "id_str": "119673750",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 23,
+        "location": "UK",
+        "name": "Michael Docherty",
+        "notifications": false,
+        "profile_background_color": "BADFCD",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme12/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme12/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/119673750/1448989705",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/663467674815565825/mNkSmJn2_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/663467674815565825/mNkSmJn2_normal.jpg",
+        "profile_link_color": "22FF00",
+        "profile_sidebar_border_color": "F2E195",
+        "profile_sidebar_fill_color": "FFF7CC",
+        "profile_text_color": "0C3E53",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "mikedoc90",
+        "statuses_count": 72040,
+        "time_zone": "London",
+        "url": "https://t.co/idPuZeT24a",
+        "utc_offset": 0,
+        "verified": false
+    }
+}
