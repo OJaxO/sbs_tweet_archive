@@ -1,0 +1,178 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Nov 28 11:45:51 +0000 2015",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    5,
+                    11
+                ],
+                "text": "cloud"
+            },
+            {
+                "indices": [
+                    65,
+                    72
+                ],
+                "text": "Austin"
+            }
+        ],
+        "media": [
+            {
+                "display_url": "pic.twitter.com/IYldkwkhi6",
+                "expanded_url": "http://twitter.com/gassel/status/670569288537763842/photo/1",
+                "id": 670569288479039488,
+                "id_str": "670569288479039488",
+                "indices": [
+                    115,
+                    138
+                ],
+                "media_url": "http://pbs.twimg.com/media/CU5XNw0UYAAI30L.png",
+                "media_url_https": "https://pbs.twimg.com/media/CU5XNw0UYAAI30L.png",
+                "sizes": {
+                    "large": {
+                        "h": 250,
+                        "resize": "fit",
+                        "w": 250
+                    },
+                    "medium": {
+                        "h": 250,
+                        "resize": "fit",
+                        "w": 250
+                    },
+                    "small": {
+                        "h": 250,
+                        "resize": "fit",
+                        "w": 250
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/IYldkwkhi6"
+            }
+        ],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "bit.ly/1Q4bFYW",
+                "expanded_url": "http://bit.ly/1Q4bFYW",
+                "indices": [
+                    91,
+                    114
+                ],
+                "url": "https://t.co/JhwY7GKOy3"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 18994444,
+                "id_str": "18994444",
+                "indices": [
+                    0,
+                    4
+                ],
+                "name": "IBM",
+                "screen_name": "IBM"
+            },
+            {
+                "id": 171188928,
+                "id_str": "171188928",
+                "indices": [
+                    51,
+                    61
+                ],
+                "name": "Gravitant",
+                "screen_name": "Gravitant"
+            }
+        ]
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": null,
+    "id": 670569288537763842,
+    "id_str": "670569288537763842",
+    "in_reply_to_screen_name": "IBM",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 18994444,
+    "in_reply_to_user_id_str": "18994444",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 1,
+    "retweeted": false,
+    "source": "<a href=\"http://login.voicestorm.com\" rel=\"nofollow\">VoiceStorm</a>",
+    "text": "@IBM #cloud keeps growing! We acquire cloud broker @Gravitant in #Austin / Welcome to fam! https://t.co/JhwY7GKOy3 https://t.co/IYldkwkhi6",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Nov 05 19:43:32 +0000 2008",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "@IBM Ecosystem Development Partner - Developer, Startup, Academic & Business Partners - concentrated on City Engagement in the West. Tweets are my own. #IBMer",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "linkedin.com/in/dgassel",
+                        "expanded_url": "http://www.linkedin.com/in/dgassel",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/4pb819hhsa"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 1688,
+        "follow_request_sent": false,
+        "followers_count": 3994,
+        "following": false,
+        "friends_count": 5001,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 17195902,
+        "id_str": "17195902",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 174,
+        "location": "Newport Beach, CA USA",
+        "name": "Darcy",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/17195902/1436500604",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/564852451325386753/aJuJAb8i_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/564852451325386753/aJuJAb8i_normal.jpeg",
+        "profile_link_color": "3B94D9",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "gassel",
+        "statuses_count": 1932,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "http://t.co/4pb819hhsa",
+        "utc_offset": -28800,
+        "verified": false
+    }
+}

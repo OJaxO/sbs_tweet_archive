@@ -1,0 +1,264 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 01 16:25:51 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/BigData_paulz/\u2026",
+                "expanded_url": "https://twitter.com/BigData_paulz/status/671468929097850882",
+                "indices": [
+                    6,
+                    29
+                ],
+                "url": "https://t.co/jHRW2V7lWk"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 18994444,
+                "id_str": "18994444",
+                "indices": [
+                    0,
+                    4
+                ],
+                "name": "IBM",
+                "screen_name": "IBM"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 671726915737161730,
+    "id_str": "671726915737161730",
+    "in_reply_to_screen_name": "IBM",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 18994444,
+    "in_reply_to_user_id_str": "18994444",
+    "is_quote_status": true,
+    "lang": "und",
+    "metadata": {
+        "iso_language_code": "und",
+        "result_type": "recent"
+    },
+    "place": null,
+    "possibly_sensitive": false,
+    "quoted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Mon Nov 30 23:20:42 +0000 2015",
+        "entities": {
+            "hashtags": [
+                {
+                    "indices": [
+                        38,
+                        44
+                    ],
+                    "text": "Spark"
+                },
+                {
+                    "indices": [
+                        60,
+                        69
+                    ],
+                    "text": "Cloudera"
+                }
+            ],
+            "media": [
+                {
+                    "display_url": "pic.twitter.com/WxRRTON59B",
+                    "expanded_url": "http://twitter.com/BigData_paulz/status/671468929097850882/photo/1",
+                    "id": 671468928959422464,
+                    "id_str": "671468928959422464",
+                    "indices": [
+                        117,
+                        140
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/CVGJbuxWoAAaNrg.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/CVGJbuxWoAAaNrg.jpg",
+                    "sizes": {
+                        "large": {
+                            "h": 658,
+                            "resize": "fit",
+                            "w": 764
+                        },
+                        "medium": {
+                            "h": 516,
+                            "resize": "fit",
+                            "w": 600
+                        },
+                        "small": {
+                            "h": 292,
+                            "resize": "fit",
+                            "w": 340
+                        },
+                        "thumb": {
+                            "h": 150,
+                            "resize": "crop",
+                            "w": 150
+                        }
+                    },
+                    "type": "photo",
+                    "url": "https://t.co/WxRRTON59B"
+                }
+            ],
+            "symbols": [],
+            "urls": [],
+            "user_mentions": []
+        },
+        "favorite_count": 1,
+        "favorited": false,
+        "geo": null,
+        "id": 671468929097850882,
+        "id_str": "671468929097850882",
+        "in_reply_to_screen_name": null,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "is_quote_status": false,
+        "lang": "en",
+        "metadata": {
+            "iso_language_code": "und",
+            "result_type": "recent"
+        },
+        "place": null,
+        "possibly_sensitive": false,
+        "retweet_count": 5,
+        "retweeted": false,
+        "source": "<a href=\"http://www.apple.com/\" rel=\"nofollow\">OS X</a>",
+        "text": "Does this sound like industry leading #Spark support? (from #Cloudera Known Issues pg. wrt their press release today https://t.co/WxRRTON59B",
+        "truncated": false,
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Sat Sep 26 10:57:17 +0000 2009",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "Award winning speaker & author (19 books, 350+ articles). IBM VP. Trying to be best dad I can be (no manual provided at birth). Opinions boisterous but mine.",
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "about.me/BigData_paulz",
+                            "expanded_url": "http://about.me/BigData_paulz",
+                            "indices": [
+                                0,
+                                22
+                            ],
+                            "url": "http://t.co/vhYEPSAsrA"
+                        }
+                    ]
+                }
+            },
+            "favourites_count": 205,
+            "follow_request_sent": false,
+            "followers_count": 5196,
+            "following": false,
+            "friends_count": 407,
+            "geo_enabled": false,
+            "has_extended_profile": false,
+            "id": 77449588,
+            "id_str": "77449588",
+            "is_translation_enabled": false,
+            "is_translator": false,
+            "lang": "en",
+            "listed_count": 396,
+            "location": "Toronto",
+            "name": "Paul Zikopoulos",
+            "notifications": false,
+            "profile_background_color": "DBE9ED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/77449588/1426856891",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/577968220956672000/PzJd6KjZ_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/577968220956672000/PzJd6KjZ_normal.png",
+            "profile_link_color": "CC3366",
+            "profile_sidebar_border_color": "DBE9ED",
+            "profile_sidebar_fill_color": "E6F6F9",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "BigData_paulz",
+            "statuses_count": 4191,
+            "time_zone": "Eastern Time (US & Canada)",
+            "url": "http://t.co/vhYEPSAsrA",
+            "utc_offset": -18000,
+            "verified": false
+        }
+    },
+    "quoted_status_id": 671468929097850882,
+    "quoted_status_id_str": "671468929097850882",
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@IBM  https://t.co/jHRW2V7lWk",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Jul 01 13:38:39 +0000 2014",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "My tweets are my own.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "ibm.com/connect/ibm/us\u2026",
+                        "expanded_url": "http://www.ibm.com/connect/ibm/us/en/resources/rmcombs/",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/Em70tQIxoH"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 0,
+        "follow_request_sent": false,
+        "followers_count": 221,
+        "following": false,
+        "friends_count": 585,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 2598033085,
+        "id_str": "2598033085",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 6,
+        "location": "Coppell, TX",
+        "name": "Blue Suit",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2598033085/1433513596",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/621412568133808128/asVEFszg_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/621412568133808128/asVEFszg_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "BlueSuitSales",
+        "statuses_count": 484,
+        "time_zone": "Eastern Time (US & Canada)",
+        "url": "http://t.co/Em70tQIxoH",
+        "utc_offset": -18000,
+        "verified": false
+    }
+}

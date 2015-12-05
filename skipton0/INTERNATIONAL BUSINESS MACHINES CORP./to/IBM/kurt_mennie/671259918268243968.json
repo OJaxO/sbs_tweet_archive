@@ -1,0 +1,154 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Nov 30 09:30:10 +0000 2015",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    36,
+                    43
+                ],
+                "text": "Watson"
+            },
+            {
+                "indices": [
+                    55,
+                    65
+                ],
+                "text": "cognitive"
+            }
+        ],
+        "media": [
+            {
+                "display_url": "pic.twitter.com/5CX1MYrKjF",
+                "expanded_url": "http://twitter.com/kurt_mennie/status/671259918268243968/photo/1",
+                "id": 671259918159241217,
+                "id_str": "671259918159241217",
+                "indices": [
+                    90,
+                    113
+                ],
+                "media_url": "http://pbs.twimg.com/media/CVDLVs3W4AE0xXb.png",
+                "media_url_https": "https://pbs.twimg.com/media/CVDLVs3W4AE0xXb.png",
+                "sizes": {
+                    "large": {
+                        "h": 300,
+                        "resize": "fit",
+                        "w": 200
+                    },
+                    "medium": {
+                        "h": 300,
+                        "resize": "fit",
+                        "w": 200
+                    },
+                    "small": {
+                        "h": 300,
+                        "resize": "fit",
+                        "w": 200
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/5CX1MYrKjF"
+            }
+        ],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "bit.ly/1NDh8qS",
+                "expanded_url": "http://bit.ly/1NDh8qS",
+                "indices": [
+                    66,
+                    89
+                ],
+                "url": "https://t.co/YgEWNY6ewf"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 18994444,
+                "id_str": "18994444",
+                "indices": [
+                    0,
+                    4
+                ],
+                "name": "IBM",
+                "screen_name": "IBM"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 671259918268243968,
+    "id_str": "671259918268243968",
+    "in_reply_to_screen_name": "IBM",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 18994444,
+    "in_reply_to_user_id_str": "18994444",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://login.voicestorm.com\" rel=\"nofollow\">VoiceStorm</a>",
+    "text": "@IBM lays out massive potential for #Watson in the law #cognitive https://t.co/YgEWNY6ewf https://t.co/5CX1MYrKjF",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Oct 13 08:52:25 +0000 2015",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "IBMer Working in the IIC in Hursley! The posts I share are my own views and not affiliated with any organisation.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 4,
+        "follow_request_sent": false,
+        "followers_count": 37,
+        "following": false,
+        "friends_count": 106,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 3945058042,
+        "id_str": "3945058042",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 31,
+        "location": "",
+        "name": "Kurt Mennie",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/653856143727587328/k2ldDL5C_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/653856143727587328/k2ldDL5C_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "kurt_mennie",
+        "statuses_count": 391,
+        "time_zone": null,
+        "url": null,
+        "utc_offset": null,
+        "verified": false
+    }
+}

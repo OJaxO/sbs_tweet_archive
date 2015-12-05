@@ -1,0 +1,170 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Nov 26 13:33:11 +0000 2015",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    101,
+                    105
+                ],
+                "text": "IoT"
+            },
+            {
+                "indices": [
+                    106,
+                    109
+                ],
+                "text": "IA"
+            }
+        ],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "usine-digitale.fr/article/ibm-ve\u2026",
+                "expanded_url": "http://www.usine-digitale.fr/article/ibm-veut-mettre-watson-au-service-de-l-internet-des-objets-et-inversement.N360707",
+                "indices": [
+                    110,
+                    133
+                ],
+                "url": "https://t.co/bFt5ctdj9l"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 18994444,
+                "id_str": "18994444",
+                "indices": [
+                    0,
+                    4
+                ],
+                "name": "IBM",
+                "screen_name": "IBM"
+            },
+            {
+                "id": 29735775,
+                "id_str": "29735775",
+                "indices": [
+                    17,
+                    27
+                ],
+                "name": "IBM Watson",
+                "screen_name": "IBMWatson"
+            },
+            {
+                "id": 965694492,
+                "id_str": "965694492",
+                "indices": [
+                    85,
+                    100
+                ],
+                "name": "L'Usine Digitale",
+                "screen_name": "LUsineDigitale"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 669871522065080320,
+    "id_str": "669871522065080320",
+    "in_reply_to_screen_name": "IBM",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 18994444,
+    "in_reply_to_user_id_str": "18994444",
+    "is_quote_status": false,
+    "lang": "fr",
+    "metadata": {
+        "iso_language_code": "fr",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        2.2241006,
+                        48.8155214
+                    ],
+                    [
+                        2.4699053,
+                        48.8155214
+                    ],
+                    [
+                        2.4699053,
+                        48.9021461
+                    ],
+                    [
+                        2.2241006,
+                        48.9021461
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "France",
+        "country_code": "FR",
+        "full_name": "Paris, Ile-de-France",
+        "id": "09f6a7707f18e0b1",
+        "name": "Paris",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/09f6a7707f18e0b1.json"
+    },
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@IBM veut mettre @IBMWatson au service de l'internet des objets (et inversement) via @LUsineDigitale #IoT #IA https://t.co/bFt5ctdj9l",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Feb 03 11:14:17 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Amandine Mouillet, #Commmunication  #RP  #medias  #Digital  #passionn\u00e9e &  #curieuse #nouvellestechno",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 471,
+        "follow_request_sent": false,
+        "followers_count": 224,
+        "following": false,
+        "friends_count": 279,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 246740440,
+        "id_str": "246740440",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "fr",
+        "listed_count": 43,
+        "location": "Paris",
+        "name": "Amandine",
+        "notifications": false,
+        "profile_background_color": "D3D9DB",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000124158250/f9c3e1bda336b68c7c98b521ce1f61da.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000124158250/f9c3e1bda336b68c7c98b521ce1f61da.jpeg",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/246740440/1435925743",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/477143076071563264/LG1ZSrOX_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/477143076071563264/LG1ZSrOX_normal.jpeg",
+        "profile_link_color": "F5ABB5",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "2D1E29",
+        "profile_text_color": "DB6995",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "geeketteland",
+        "statuses_count": 1674,
+        "time_zone": "Paris",
+        "url": null,
+        "utc_offset": 3600,
+        "verified": false
+    }
+}

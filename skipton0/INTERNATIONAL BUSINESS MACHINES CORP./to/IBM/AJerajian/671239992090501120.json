@@ -1,0 +1,314 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Nov 30 08:10:59 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/nicolaslatour/\u2026",
+                "expanded_url": "https://twitter.com/nicolaslatour/status/671222134144913408",
+                "indices": [
+                    117,
+                    140
+                ],
+                "url": "https://t.co/Cv0gjcowlr"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 18994444,
+                "id_str": "18994444",
+                "indices": [
+                    0,
+                    4
+                ],
+                "name": "IBM",
+                "screen_name": "IBM"
+            }
+        ]
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": null,
+    "id": 671239992090501120,
+    "id_str": "671239992090501120",
+    "in_reply_to_screen_name": "IBM",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 18994444,
+    "in_reply_to_user_id_str": "18994444",
+    "is_quote_status": true,
+    "lang": "fr",
+    "metadata": {
+        "iso_language_code": "fr",
+        "result_type": "recent"
+    },
+    "place": null,
+    "possibly_sensitive": false,
+    "quoted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Mon Nov 30 07:00:02 +0000 2015",
+        "entities": {
+            "hashtags": [
+                {
+                    "indices": [
+                        13,
+                        23
+                    ],
+                    "text": "IBMWatson"
+                },
+                {
+                    "indices": [
+                        36,
+                        48
+                    ],
+                    "text": "BlackFriday"
+                },
+                {
+                    "indices": [
+                        65,
+                        80
+                    ],
+                    "text": "mobileshopping"
+                }
+            ],
+            "media": [
+                {
+                    "display_url": "pic.twitter.com/zH5mnDlLJx",
+                    "expanded_url": "http://twitter.com/nicolaslatour/status/671222134144913408/photo/1",
+                    "id": 671222132144214016,
+                    "id_str": "671222132144214016",
+                    "indices": [
+                        105,
+                        128
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/CVCo-Q_WEAAwzen.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/CVCo-Q_WEAAwzen.jpg",
+                    "sizes": {
+                        "large": {
+                            "h": 682,
+                            "resize": "fit",
+                            "w": 1024
+                        },
+                        "medium": {
+                            "h": 400,
+                            "resize": "fit",
+                            "w": 600
+                        },
+                        "small": {
+                            "h": 226,
+                            "resize": "fit",
+                            "w": 340
+                        },
+                        "thumb": {
+                            "h": 150,
+                            "resize": "crop",
+                            "w": 150
+                        }
+                    },
+                    "type": "photo",
+                    "url": "https://t.co/zH5mnDlLJx"
+                }
+            ],
+            "symbols": [],
+            "urls": [
+                {
+                    "display_url": "bit.ly/BlackFridayIBM\u2026",
+                    "expanded_url": "http://bit.ly/BlackFridayIBMWatsonReport",
+                    "indices": [
+                        81,
+                        104
+                    ],
+                    "url": "https://t.co/3mvJMc282A"
+                }
+            ],
+            "user_mentions": []
+        },
+        "favorite_count": 1,
+        "favorited": false,
+        "geo": null,
+        "id": 671222134144913408,
+        "id_str": "671222134144913408",
+        "in_reply_to_screen_name": null,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "is_quote_status": false,
+        "lang": "en",
+        "metadata": {
+            "iso_language_code": "fr",
+            "result_type": "recent"
+        },
+        "place": {
+            "attributes": {},
+            "bounding_box": {
+                "coordinates": [
+                    [
+                        [
+                            1.4465224,
+                            48.1204485
+                        ],
+                        [
+                            3.5588048,
+                            48.1204485
+                        ],
+                        [
+                            3.5588048,
+                            49.2339157
+                        ],
+                        [
+                            1.4465224,
+                            49.2339157
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "contained_within": [],
+            "country": "France",
+            "country_code": "FR",
+            "full_name": "\u00cele-de-France, France",
+            "id": "f9c4cad0af2337fa",
+            "name": "\u00cele-de-France",
+            "place_type": "admin",
+            "url": "https://api.twitter.com/1.1/geo/id/f9c4cad0af2337fa.json"
+        },
+        "possibly_sensitive": false,
+        "retweet_count": 2,
+        "retweeted": false,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": "According to #IBMWatson Trend, this #BlackFriday was a lot about #mobileshopping https://t.co/3mvJMc282A https://t.co/zH5mnDlLJx",
+        "truncated": false,
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Sat May 09 06:00:51 +0000 2009",
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "Curiosity is a hunger to explore and a delight in discovery #IoT #Wearables #Digital | Founder Fingal.me #BrandDisrupter | #Barca fan since I'm 8 | #i4Emploi",
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "bit.ly/nicolaslatour",
+                            "expanded_url": "http://bit.ly/nicolaslatour",
+                            "indices": [
+                                0,
+                                22
+                            ],
+                            "url": "http://t.co/uowUv43m2s"
+                        }
+                    ]
+                }
+            },
+            "favourites_count": 11397,
+            "follow_request_sent": false,
+            "followers_count": 1456,
+            "following": false,
+            "friends_count": 810,
+            "geo_enabled": true,
+            "has_extended_profile": false,
+            "id": 38808967,
+            "id_str": "38808967",
+            "is_translation_enabled": false,
+            "is_translator": false,
+            "lang": "en",
+            "listed_count": 412,
+            "location": "Paris",
+            "name": "McFingal",
+            "notifications": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/38808967/1429614348",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/661189139568730112/Ey2ovT15_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/661189139568730112/Ey2ovT15_normal.jpg",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "nicolaslatour",
+            "statuses_count": 19582,
+            "time_zone": "Athens",
+            "url": "http://t.co/uowUv43m2s",
+            "utc_offset": 7200,
+            "verified": false
+        }
+    },
+    "quoted_status_id": 671222134144913408,
+    "quoted_status_id_str": "671222134144913408",
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@IBM metrics qui montrent bien l'omnipr\u00e9sence des technologies mobiles ds nos vies Nico ! Merci d'avoir fait tourner https://t.co/Cv0gjcowlr",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Mar 31 21:03:20 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "ExperienceMaker ~ Passion for the digital ERA, making the complex simple, Retailgeek and country music fanatic.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "arthojerajianleblog.fr",
+                        "expanded_url": "http://arthojerajianleblog.fr",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/TK1qcjoOrr"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 3430,
+        "follow_request_sent": false,
+        "followers_count": 3017,
+        "following": false,
+        "friends_count": 1566,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 275211380,
+        "id_str": "275211380",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "fr",
+        "listed_count": 333,
+        "location": "Paris",
+        "name": "Retail Buzz",
+        "notifications": false,
+        "profile_background_color": "022330",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/275211380/1391206836",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/671288718368579584/V8LZsNUL_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/671288718368579584/V8LZsNUL_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "A8C7F7",
+        "profile_sidebar_fill_color": "C0DFEC",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "AJerajian",
+        "statuses_count": 7986,
+        "time_zone": "Greenland",
+        "url": "http://t.co/TK1qcjoOrr",
+        "utc_offset": -10800,
+        "verified": false
+    }
+}
