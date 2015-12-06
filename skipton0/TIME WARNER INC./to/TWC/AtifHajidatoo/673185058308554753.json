@@ -1,0 +1,123 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Dec 05 16:59:59 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 127975950,
+                "id_str": "127975950",
+                "indices": [
+                    0,
+                    4
+                ],
+                "name": "Time Warner Cable",
+                "screen_name": "TWC"
+            }
+        ]
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": null,
+    "id": 673185058308554753,
+    "id_str": "673185058308554753",
+    "in_reply_to_screen_name": "TWC",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 127975950,
+    "in_reply_to_user_id_str": "127975950",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -118.44253063201904,
+                        34.20754331272217
+                    ],
+                    [
+                        -118.44253063201904,
+                        34.20754331272217
+                    ],
+                    [
+                        -118.44253063201904,
+                        34.20754331272217
+                    ],
+                    [
+                        -118.44253063201904,
+                        34.20754331272217
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Time Warner Cable",
+        "id": "07d9db14d0886000",
+        "name": "Time Warner Cable",
+        "place_type": "poi",
+        "url": "https://api.twitter.com/1.1/geo/id/07d9db14d0886000.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@TWC Long line to return cable modem. Very BAD customer service.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Jul 02 15:08:48 +0000 2015",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 172,
+        "follow_request_sent": false,
+        "followers_count": 14,
+        "following": false,
+        "friends_count": 161,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 3266096094,
+        "id_str": "3266096094",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 1,
+        "location": "",
+        "name": "Atif Hajidatoo",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/616625817880113152/iuZT78xU_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/616625817880113152/iuZT78xU_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "AtifHajidatoo",
+        "statuses_count": 105,
+        "time_zone": null,
+        "url": null,
+        "utc_offset": null,
+        "verified": false
+    }
+}

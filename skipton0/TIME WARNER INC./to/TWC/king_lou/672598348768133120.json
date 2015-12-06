@@ -1,0 +1,147 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Dec 04 02:08:37 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 127975950,
+                "id_str": "127975950",
+                "indices": [
+                    0,
+                    4
+                ],
+                "name": "Time Warner Cable",
+                "screen_name": "TWC"
+            },
+            {
+                "id": 15170831,
+                "id_str": "15170831",
+                "indices": [
+                    5,
+                    14
+                ],
+                "name": "Lifetime Products",
+                "screen_name": "Lifetime"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 672598348768133120,
+    "id_str": "672598348768133120",
+    "in_reply_to_screen_name": "TWC",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 127975950,
+    "in_reply_to_user_id_str": "127975950",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -74.041878,
+                        40.570842
+                    ],
+                    [
+                        -73.855673,
+                        40.570842
+                    ],
+                    [
+                        -73.855673,
+                        40.739434
+                    ],
+                    [
+                        -74.041878,
+                        40.739434
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Brooklyn, NY",
+        "id": "011add077f4d2da3",
+        "name": "Brooklyn",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/011add077f4d2da3.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@twc @Lifetime channel is has unlistenable audio wobble.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Apr 06 15:19:35 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "I was born in the heart of a nuclear explosion. I'm a Brooklyn Dad, Voice Over Artist, Podcaster. Oh yeah, I work at Riot Games.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "loureads.com",
+                        "expanded_url": "http://loureads.com",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/TEtxNbkon4"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 922,
+        "follow_request_sent": false,
+        "followers_count": 599,
+        "following": false,
+        "friends_count": 270,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 29220457,
+        "id_str": "29220457",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 25,
+        "location": "Brooklyn, NYC",
+        "name": "King Lou Fernandez",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000166389399/rzEAuiQF.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000166389399/rzEAuiQF.jpeg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/29220457/1398220231",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/585446811738906624/g1X7IK5O_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/585446811738906624/g1X7IK5O_normal.jpg",
+        "profile_link_color": "03759E",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "king_lou",
+        "statuses_count": 5857,
+        "time_zone": "Quito",
+        "url": "http://t.co/TEtxNbkon4",
+        "utc_offset": -18000,
+        "verified": false
+    }
+}
