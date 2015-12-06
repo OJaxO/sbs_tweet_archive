@@ -1,0 +1,163 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Dec 05 06:13:52 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "media": [
+            {
+                "display_url": "pic.twitter.com/eFOBXZMAjZ",
+                "expanded_url": "http://twitter.com/Pyrepaw/status/673022455032774656/photo/1",
+                "id": 673022448292356096,
+                "id_str": "673022448292356096",
+                "indices": [
+                    114,
+                    137
+                ],
+                "media_url": "http://pbs.twimg.com/media/CVcOWdRUYAAVq6p.png",
+                "media_url_https": "https://pbs.twimg.com/media/CVcOWdRUYAAVq6p.png",
+                "sizes": {
+                    "large": {
+                        "h": 1820,
+                        "resize": "fit",
+                        "w": 1024
+                    },
+                    "medium": {
+                        "h": 1066,
+                        "resize": "fit",
+                        "w": 600
+                    },
+                    "small": {
+                        "h": 604,
+                        "resize": "fit",
+                        "w": 340
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/eFOBXZMAjZ"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 62601419,
+                "id_str": "62601419",
+                "indices": [
+                    0,
+                    11
+                ],
+                "name": "Verizon Wireless CS",
+                "screen_name": "VZWSupport"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 673022455032774656,
+    "id_str": "673022455032774656",
+    "in_reply_to_screen_name": "VZWSupport",
+    "in_reply_to_status_id": 673021193922994176,
+    "in_reply_to_status_id_str": "673021193922994176",
+    "in_reply_to_user_id": 62601419,
+    "in_reply_to_user_id_str": "62601419",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -84.19397,
+                        35.831436
+                    ],
+                    [
+                        -83.733713,
+                        35.831436
+                    ],
+                    [
+                        -83.733713,
+                        36.133505
+                    ],
+                    [
+                        -84.19397,
+                        36.133505
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Knoxville, TN",
+        "id": "6565298bcadb82a1",
+        "name": "Knoxville",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/6565298bcadb82a1.json"
+    },
+    "possibly_sensitive": true,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@VZWSupport Thank you! It showed temporary files that helped a lot, but 6gb of misc files still present a threat. https://t.co/eFOBXZMAjZ",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Mar 04 20:34:21 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "I'm a little rage monster but sometimes I like things.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 1872,
+        "follow_request_sent": false,
+        "followers_count": 202,
+        "following": false,
+        "friends_count": 327,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 260889364,
+        "id_str": "260889364",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 2,
+        "location": "Knoxville, TN",
+        "name": "Jennifer Dial",
+        "notifications": false,
+        "profile_background_color": "BBBBBB",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/474969820467716097/Mldvxd6G.png",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/474969820467716097/Mldvxd6G.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/260889364/1415917916",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/548325250119634944/BYRRPbMo_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/548325250119634944/BYRRPbMo_normal.jpeg",
+        "profile_link_color": "416D94",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "FFF020",
+        "profile_text_color": "B80E3E",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Pyrepaw",
+        "statuses_count": 5972,
+        "time_zone": "Eastern Time (US & Canada)",
+        "url": null,
+        "utc_offset": -18000,
+        "verified": false
+    }
+}
