@@ -1,0 +1,279 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Dec 05 17:04:51 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/airvuz/status/\u2026",
+                "expanded_url": "https://twitter.com/airvuz/status/672878023327133696",
+                "indices": [
+                    42,
+                    65
+                ],
+                "url": "https://t.co/2Q6xQWkN15"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 30973,
+                "id_str": "30973",
+                "indices": [
+                    0,
+                    10
+                ],
+                "name": "Starbucks Coffee",
+                "screen_name": "Starbucks"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 673186281392873472,
+    "id_str": "673186281392873472",
+    "in_reply_to_screen_name": "Starbucks",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 30973,
+    "in_reply_to_user_id_str": "30973",
+    "is_quote_status": true,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -90.418136,
+                        41.696088
+                    ],
+                    [
+                        -82.122971,
+                        41.696088
+                    ],
+                    [
+                        -82.122971,
+                        48.306272
+                    ],
+                    [
+                        -90.418136,
+                        48.306272
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Michigan, USA",
+        "id": "67d92742f1ebf307",
+        "name": "Michigan",
+        "place_type": "admin",
+        "url": "https://api.twitter.com/1.1/geo/id/67d92742f1ebf307.json"
+    },
+    "possibly_sensitive": false,
+    "quoted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Fri Dec 04 20:39:56 +0000 2015",
+        "entities": {
+            "hashtags": [],
+            "media": [
+                {
+                    "display_url": "pic.twitter.com/OBE6atIlcx",
+                    "expanded_url": "http://twitter.com/AirVuz/status/672878023327133696/photo/1",
+                    "id": 672878022744084480,
+                    "id_str": "672878022744084480",
+                    "indices": [
+                        42,
+                        65
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/CVaK_yLUEAAlXCp.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/CVaK_yLUEAAlXCp.jpg",
+                    "sizes": {
+                        "large": {
+                            "h": 514,
+                            "resize": "fit",
+                            "w": 432
+                        },
+                        "medium": {
+                            "h": 514,
+                            "resize": "fit",
+                            "w": 432
+                        },
+                        "small": {
+                            "h": 404,
+                            "resize": "fit",
+                            "w": 340
+                        },
+                        "thumb": {
+                            "h": 150,
+                            "resize": "crop",
+                            "w": 150
+                        }
+                    },
+                    "type": "photo",
+                    "url": "https://t.co/OBE6atIlcx"
+                }
+            ],
+            "symbols": [],
+            "urls": [],
+            "user_mentions": []
+        },
+        "favorite_count": 6,
+        "favorited": false,
+        "geo": null,
+        "id": 672878023327133696,
+        "id_str": "672878023327133696",
+        "in_reply_to_screen_name": null,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "is_quote_status": false,
+        "lang": "en",
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "place": null,
+        "possibly_sensitive": false,
+        "retweet_count": 9,
+        "retweeted": false,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": "Drone Coffee Delivery Could Be A Big Hit! https://t.co/OBE6atIlcx",
+        "truncated": false,
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Thu Apr 16 01:14:01 +0000 2015",
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "Celebrating the 'View From Up Here.' AirV\u016bz curates the BEST #Drone photos & videos from around the world! Create a profile on https://t.co/3Fq9bBoKMS today!!",
+            "entities": {
+                "description": {
+                    "urls": [
+                        {
+                            "display_url": "airvuz.com",
+                            "expanded_url": "http://airvuz.com",
+                            "indices": [
+                                127,
+                                150
+                            ],
+                            "url": "https://t.co/3Fq9bBoKMS"
+                        }
+                    ]
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "airvuz.com",
+                            "expanded_url": "http://www.airvuz.com",
+                            "indices": [
+                                0,
+                                22
+                            ],
+                            "url": "http://t.co/vfnUsug60O"
+                        }
+                    ]
+                }
+            },
+            "favourites_count": 1551,
+            "follow_request_sent": false,
+            "followers_count": 4675,
+            "following": false,
+            "friends_count": 4245,
+            "geo_enabled": true,
+            "has_extended_profile": false,
+            "id": 3171779308,
+            "id_str": "3171779308",
+            "is_translation_enabled": false,
+            "is_translator": false,
+            "lang": "en",
+            "listed_count": 69,
+            "location": "",
+            "name": "AirV\u016bz",
+            "notifications": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/3171779308/1431974135",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/598468949601193984/joCB00Hj_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/598468949601193984/joCB00Hj_normal.png",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "AirVuz",
+            "statuses_count": 2679,
+            "time_zone": null,
+            "url": "http://t.co/vfnUsug60O",
+            "utc_offset": null,
+            "verified": false
+        }
+    },
+    "quoted_status_id": 672878023327133696,
+    "quoted_status_id_str": "672878023327133696",
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@Starbucks you should get on this... Haha https://t.co/2Q6xQWkN15",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Jun 24 19:42:22 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Follower of The Christ, Husband, Father, Kentwood Campus Pastor @adabible",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 21,
+        "follow_request_sent": false,
+        "followers_count": 376,
+        "following": false,
+        "friends_count": 582,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 323409164,
+        "id_str": "323409164",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 7,
+        "location": "Grand Rapids, MI",
+        "name": "Mark Deering III",
+        "notifications": false,
+        "profile_background_color": "FFFFFF",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/658578820/2r8ds1uppl94j145ut5g.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/658578820/2r8ds1uppl94j145ut5g.jpeg",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/323409164/1409019283",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/604648190210637824/uHz3qKfh_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/604648190210637824/uHz3qKfh_normal.jpg",
+        "profile_link_color": "404040",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "999999",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "mdeeringiii",
+        "statuses_count": 1435,
+        "time_zone": "Central Time (US & Canada)",
+        "url": null,
+        "utc_offset": -21600,
+        "verified": false
+    }
+}

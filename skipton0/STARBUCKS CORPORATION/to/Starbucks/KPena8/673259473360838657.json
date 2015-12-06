@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Dec 05 21:55:41 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 30973,
+                "id_str": "30973",
+                "indices": [
+                    0,
+                    10
+                ],
+                "name": "Starbucks Coffee",
+                "screen_name": "Starbucks"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 673259473360838657,
+    "id_str": "673259473360838657",
+    "in_reply_to_screen_name": "Starbucks",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 30973,
+    "in_reply_to_user_id_str": "30973",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -74.026675,
+                        40.683935
+                    ],
+                    [
+                        -73.910408,
+                        40.683935
+                    ],
+                    [
+                        -73.910408,
+                        40.877483
+                    ],
+                    [
+                        -74.026675,
+                        40.877483
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Manhattan, NY",
+        "id": "01a9a39529b27f36",
+        "name": "Manhattan",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/01a9a39529b27f36.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@Starbucks is it true that the coffee frapp.mix contains dairy, even if made with soy milk?",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Nov 13 18:36:49 +0000 2012",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "digital strategist at mccann ny | @gwbusiness alum | #NYR fan | lover of all food and all whiskey\n\nTweets are imo",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "KatePena.com",
+                        "expanded_url": "http://www.KatePena.com",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/UyJJm4yVRK"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 168,
+        "follow_request_sent": false,
+        "followers_count": 385,
+        "following": false,
+        "friends_count": 974,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 946278624,
+        "id_str": "946278624",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 29,
+        "location": "new york, ny ",
+        "name": "Kate Pena",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000176660007/fykoAc4a.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000176660007/fykoAc4a.jpeg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/946278624/1434566043",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/605223602158510081/-BZT_ukW_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/605223602158510081/-BZT_ukW_normal.jpg",
+        "profile_link_color": "F657B8",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "KPena8",
+        "statuses_count": 3392,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "http://t.co/UyJJm4yVRK",
+        "utc_offset": -28800,
+        "verified": false
+    }
+}

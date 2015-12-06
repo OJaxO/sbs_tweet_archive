@@ -1,0 +1,273 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Dec 05 20:05:44 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/healthranger/s\u2026",
+                "expanded_url": "https://twitter.com/healthranger/status/673230399015813121",
+                "indices": [
+                    28,
+                    51
+                ],
+                "url": "https://t.co/sSGIgy3XPS"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 30973,
+                "id_str": "30973",
+                "indices": [
+                    0,
+                    10
+                ],
+                "name": "Starbucks Coffee",
+                "screen_name": "Starbucks"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 673231803856125958,
+    "id_str": "673231803856125958",
+    "in_reply_to_screen_name": "Starbucks",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 30973,
+    "in_reply_to_user_id_str": "30973",
+    "is_quote_status": true,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -111.842244,
+                        33.204608
+                    ],
+                    [
+                        -111.635016,
+                        33.204608
+                    ],
+                    [
+                        -111.635016,
+                        33.3858215
+                    ],
+                    [
+                        -111.842244,
+                        33.3858215
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Gilbert, AZ",
+        "id": "006b48995ede9bcc",
+        "name": "Gilbert",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/006b48995ede9bcc.json"
+    },
+    "possibly_sensitive": false,
+    "quoted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Sat Dec 05 20:00:09 +0000 2015",
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "urls": [
+                {
+                    "display_url": "bit.ly/1Q6mlb9",
+                    "expanded_url": "http://bit.ly/1Q6mlb9",
+                    "indices": [
+                        62,
+                        85
+                    ],
+                    "url": "https://t.co/lwvgEVha7B"
+                }
+            ],
+            "user_mentions": []
+        },
+        "favorite_count": 9,
+        "favorited": false,
+        "geo": null,
+        "id": 673230399015813121,
+        "id_str": "673230399015813121",
+        "in_reply_to_screen_name": null,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "is_quote_status": false,
+        "lang": "en",
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "place": null,
+        "possibly_sensitive": false,
+        "retweet_count": 16,
+        "retweeted": false,
+        "source": "<a href=\"http://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+        "text": "You are not drinking real coco! Starbucks\u2019 fake coconut milk: https://t.co/lwvgEVha7B",
+        "truncated": false,
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Wed Aug 13 22:02:23 +0000 2008",
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "Consumer health advocate and editor of http://t.co/Esaj5gcemr.     \r\nGet a free eBook (25 Amazing Facts about Food) by visiting http://t.co/LLQNTKEeVS",
+            "entities": {
+                "description": {
+                    "urls": [
+                        {
+                            "display_url": "NaturalNews.com",
+                            "expanded_url": "http://www.NaturalNews.com",
+                            "indices": [
+                                39,
+                                61
+                            ],
+                            "url": "http://t.co/Esaj5gcemr"
+                        },
+                        {
+                            "display_url": "tinyurl.com/nnebook",
+                            "expanded_url": "http://tinyurl.com/nnebook",
+                            "indices": [
+                                128,
+                                150
+                            ],
+                            "url": "http://t.co/LLQNTKEeVS"
+                        }
+                    ]
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "NaturalNews.com",
+                            "expanded_url": "http://www.NaturalNews.com",
+                            "indices": [
+                                0,
+                                22
+                            ],
+                            "url": "http://t.co/Esaj5gcemr"
+                        }
+                    ]
+                }
+            },
+            "favourites_count": 1,
+            "follow_request_sent": false,
+            "followers_count": 96560,
+            "following": false,
+            "friends_count": 28,
+            "geo_enabled": false,
+            "has_extended_profile": false,
+            "id": 15843059,
+            "id_str": "15843059",
+            "is_translation_enabled": false,
+            "is_translator": false,
+            "lang": "en",
+            "listed_count": 2808,
+            "location": "Tucson, AZ",
+            "name": "HealthRanger",
+            "notifications": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/15843059/1418774979",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/466669627947237377/qu4FUDr6_normal.jpeg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/466669627947237377/qu4FUDr6_normal.jpeg",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "HealthRanger",
+            "statuses_count": 17031,
+            "time_zone": "Arizona",
+            "url": "http://t.co/Esaj5gcemr",
+            "utc_offset": -25200,
+            "verified": false
+        }
+    },
+    "quoted_status_id": 673230399015813121,
+    "quoted_status_id_str": "673230399015813121",
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@Starbucks is this True?    https://t.co/sSGIgy3XPS",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Aug 06 16:21:07 +0000 2013",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Founder - Retail Tire Solutions & MyCarCareRewards - software developer by accident - working on the next big thing ;-)",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "mccrewards.com",
+                        "expanded_url": "http://mccrewards.com",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/U4IGl2s38I"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 213,
+        "follow_request_sent": false,
+        "followers_count": 84,
+        "following": false,
+        "friends_count": 235,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 1650661074,
+        "id_str": "1650661074",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 10,
+        "location": "Valley of the Sun",
+        "name": "Patrick Murphy",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1650661074/1432492029",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/653469858814947328/Y3GHpmJK_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/653469858814947328/Y3GHpmJK_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "patrickcmurphy",
+        "statuses_count": 708,
+        "time_zone": null,
+        "url": "http://t.co/U4IGl2s38I",
+        "utc_offset": null,
+        "verified": false
+    }
+}

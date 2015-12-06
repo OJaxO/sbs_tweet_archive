@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Dec 04 21:45:43 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 30973,
+                "id_str": "30973",
+                "indices": [
+                    0,
+                    10
+                ],
+                "name": "Starbucks Coffee",
+                "screen_name": "Starbucks"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 672894575854419968,
+    "id_str": "672894575854419968",
+    "in_reply_to_screen_name": "Starbucks",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 30973,
+    "in_reply_to_user_id_str": "30973",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -88.097892,
+                        37.771743
+                    ],
+                    [
+                        -84.78458,
+                        37.771743
+                    ],
+                    [
+                        -84.78458,
+                        41.761368
+                    ],
+                    [
+                        -88.097892,
+                        41.761368
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Indiana, USA",
+        "id": "1010ecfa7d3a40f8",
+        "name": "Indiana",
+        "place_type": "admin",
+        "url": "https://api.twitter.com/1.1/geo/id/1010ecfa7d3a40f8.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@Starbucks Are you planning in having college internships for summer 2016?",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Apr 11 23:02:43 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Ball State Jr. Public Relations & Leadership | Disney | Country Music | Park Hall Council President | DM Miracle Maker | E\u03a3A Sister | HOBY Alum #FTK #ChirpChirp",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "donate.rileykids.org/site/TR/Events\u2026",
+                        "expanded_url": "http://donate.rileykids.org/site/TR/Events/General?px=1385162&pg=personal&fr_id=2320",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/clWJ52QRzY"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 12292,
+        "follow_request_sent": false,
+        "followers_count": 453,
+        "following": false,
+        "friends_count": 709,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 30546425,
+        "id_str": "30546425",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 19,
+        "location": "Ball State University",
+        "name": "Theresa Barhorst",
+        "notifications": false,
+        "profile_background_color": "F5ABB5",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/594527520126414848/jIqiBggm.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/594527520126414848/jIqiBggm.jpg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/30546425/1447653080",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/671725543096741889/kqWqGEzU_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/671725543096741889/kqWqGEzU_normal.jpg",
+        "profile_link_color": "DD2E44",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "7AC3EE",
+        "profile_text_color": "3D1957",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Theresa_Gabi",
+        "statuses_count": 7872,
+        "time_zone": "Eastern Time (US & Canada)",
+        "url": "https://t.co/clWJ52QRzY",
+        "utc_offset": -18000,
+        "verified": false
+    }
+}

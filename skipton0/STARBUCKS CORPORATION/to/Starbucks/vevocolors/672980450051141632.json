@@ -1,0 +1,147 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Dec 05 03:26:57 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 30973,
+                "id_str": "30973",
+                "indices": [
+                    0,
+                    10
+                ],
+                "name": "Starbucks Coffee",
+                "screen_name": "Starbucks"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 672980450051141632,
+    "id_str": "672980450051141632",
+    "in_reply_to_screen_name": "Starbucks",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 30973,
+    "in_reply_to_user_id_str": "30973",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -118.668404,
+                        33.704538
+                    ],
+                    [
+                        -118.155409,
+                        33.704538
+                    ],
+                    [
+                        -118.155409,
+                        34.337041
+                    ],
+                    [
+                        -118.668404,
+                        34.337041
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Los Angeles, CA",
+        "id": "3b77caf94bfc81fe",
+        "name": "Los Angeles",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/3b77caf94bfc81fe.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@Starbucks peppermint mocha should be a year round flavor make this happen pls",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Oct 07 00:47:02 +0000 2013",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "https://t.co/WtbXavMTVw",
+        "entities": {
+            "description": {
+                "urls": [
+                    {
+                        "display_url": "vine.co/v/etjTeLgPqrW",
+                        "expanded_url": "https://vine.co/v/etjTeLgPqrW",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/WtbXavMTVw"
+                    }
+                ]
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "twitter.com/halseymusic/st\u2026",
+                        "expanded_url": "https://twitter.com/halseymusic/status/569006155483074560",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/f8OSY1KVcX"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 99327,
+        "follow_request_sent": false,
+        "followers_count": 4446,
+        "following": false,
+        "friends_count": 371,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 1942428762,
+        "id_str": "1942428762",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 21,
+        "location": "los angeles",
+        "name": "merry krismas",
+        "notifications": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/648039211044438018/zCTrIq8A.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/648039211044438018/zCTrIq8A.jpg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1942428762/1448075102",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/667902328997986305/Sxcp5OY0_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/667902328997986305/Sxcp5OY0_normal.jpg",
+        "profile_link_color": "009999",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "vevocolors",
+        "statuses_count": 96046,
+        "time_zone": "Arizona",
+        "url": "https://t.co/f8OSY1KVcX",
+        "utc_offset": -25200,
+        "verified": false
+    }
+}

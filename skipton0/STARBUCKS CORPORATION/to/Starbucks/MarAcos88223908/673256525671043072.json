@@ -1,0 +1,134 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Dec 05 21:43:58 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 30973,
+                "id_str": "30973",
+                "indices": [
+                    0,
+                    10
+                ],
+                "name": "Starbucks Coffee",
+                "screen_name": "Starbucks"
+            },
+            {
+                "id": 729605827,
+                "id_str": "729605827",
+                "indices": [
+                    11,
+                    23
+                ],
+                "name": "Kendra\u264c",
+                "screen_name": "kendraviana"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 673256525671043072,
+    "id_str": "673256525671043072",
+    "in_reply_to_screen_name": "Starbucks",
+    "in_reply_to_status_id": 672865121081810948,
+    "in_reply_to_status_id_str": "672865121081810948",
+    "in_reply_to_user_id": 30973,
+    "in_reply_to_user_id_str": "30973",
+    "is_quote_status": false,
+    "lang": "es",
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -55.959513,
+                        -27.4591698
+                    ],
+                    [
+                        -55.859437,
+                        -27.4591698
+                    ],
+                    [
+                        -55.859437,
+                        -27.350172
+                    ],
+                    [
+                        -55.959513,
+                        -27.350172
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "Argentina",
+        "country_code": "AR",
+        "full_name": "Posadas, Argentina",
+        "id": "01ef53325401a80c",
+        "name": "Posadas",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/01ef53325401a80c.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@Starbucks @kendraviana haceme uno asi",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Aug 18 01:49:33 +0000 2013",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "\u2655Directionr Forever\u2655 Sue\u00f1o Cumplido:03/05/14 , \u266a\u266b seguime y te sigo\u266a\u266b FollowMe , FollowBack",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 46,
+        "follow_request_sent": false,
+        "followers_count": 170,
+        "following": false,
+        "friends_count": 119,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 1679582390,
+        "id_str": "1679582390",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "es",
+        "listed_count": 4,
+        "location": "Argentina,Misiones ",
+        "name": "Maria(HarryFollowMe)",
+        "notifications": false,
+        "profile_background_color": "FDDBF6",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/589201129839284225/iKhul74K.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/589201129839284225/iKhul74K.jpg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1679582390/1448828366",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/635091667226234881/95VY70Ru_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/635091667226234881/95VY70Ru_normal.jpg",
+        "profile_link_color": "DF01A5",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "FFF7CC",
+        "profile_text_color": "0C3E53",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "MarAcos88223908",
+        "statuses_count": 6462,
+        "time_zone": "Buenos Aires",
+        "url": null,
+        "utc_offset": -10800,
+        "verified": false
+    }
+}

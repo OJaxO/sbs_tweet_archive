@@ -1,0 +1,134 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Dec 05 21:01:11 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 30973,
+                "id_str": "30973",
+                "indices": [
+                    0,
+                    10
+                ],
+                "name": "Starbucks Coffee",
+                "screen_name": "Starbucks"
+            },
+            {
+                "id": 1860691242,
+                "id_str": "1860691242",
+                "indices": [
+                    14,
+                    27
+                ],
+                "name": "Prairie Trail Hy-Vee",
+                "screen_name": "Ankeny2HyVee"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 673245757114200064,
+    "id_str": "673245757114200064",
+    "in_reply_to_screen_name": "Starbucks",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 30973,
+    "in_reply_to_user_id_str": "30973",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -93.668421,
+                        41.636286
+                    ],
+                    [
+                        -93.581216,
+                        41.636286
+                    ],
+                    [
+                        -93.581216,
+                        41.703815
+                    ],
+                    [
+                        -93.668421,
+                        41.703815
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Saylorville, IA",
+        "id": "016cbdbf2007ee0f",
+        "name": "Saylorville",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/016cbdbf2007ee0f.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@Starbucks in @Ankeny2HyVee doesn't seem 2 know Carmel Brul\u00e9 is NOT the correct drink if there is NO Brul\u00e9.... Tired of my drink being wrong",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Mar 21 02:29:51 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Parent, husband, family man, History buff, former radio guy, music snob,life Aficionado. and Beer!",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 347,
+        "follow_request_sent": false,
+        "followers_count": 146,
+        "following": false,
+        "friends_count": 292,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 25624520,
+        "id_str": "25624520",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 3,
+        "location": "Ankeny, IA",
+        "name": "Jaden Miller",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/25624520/1357694357",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1584156654/Jaden_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1584156654/Jaden_normal.jpg",
+        "profile_link_color": "4A913C",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "jadenmiller",
+        "statuses_count": 2851,
+        "time_zone": null,
+        "url": null,
+        "utc_offset": null,
+        "verified": false
+    }
+}
