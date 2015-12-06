@@ -1,0 +1,164 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 01 23:57:17 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 74594552,
+                "id_str": "74594552",
+                "indices": [
+                    0,
+                    9
+                ],
+                "name": "App Store",
+                "screen_name": "AppStore"
+            },
+            {
+                "id": 1020696116,
+                "id_str": "1020696116",
+                "indices": [
+                    10,
+                    24
+                ],
+                "name": "Apple \uf8ff",
+                "screen_name": "APPLEOFFIClAL"
+            },
+            {
+                "id": 59889953,
+                "id_str": "59889953",
+                "indices": [
+                    25,
+                    33
+                ],
+                "name": "Verizon",
+                "screen_name": "verizon"
+            },
+            {
+                "id": 97516929,
+                "id_str": "97516929",
+                "indices": [
+                    34,
+                    47
+                ],
+                "name": "Verizon Enterprise",
+                "screen_name": "VZEnterprise"
+            },
+            {
+                "id": 29852317,
+                "id_str": "29852317",
+                "indices": [
+                    48,
+                    60
+                ],
+                "name": "Verizon FiOS",
+                "screen_name": "verizonfios"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 671840522864955392,
+    "id_str": "671840522864955392",
+    "in_reply_to_screen_name": "AppStore",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 74594552,
+    "in_reply_to_user_id_str": "74594552",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -98.778559,
+                        29.141956
+                    ],
+                    [
+                        -98.302744,
+                        29.141956
+                    ],
+                    [
+                        -98.302744,
+                        29.693046
+                    ],
+                    [
+                        -98.778559,
+                        29.693046
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "San Antonio, TX",
+        "id": "3df4f427b5a60fea",
+        "name": "San Antonio",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/3df4f427b5a60fea.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@AppStore @APPLEOFFIClAL @verizon @VZEnterprise @verizonfios Please make sure all pics in my iPhone get to the AG of the US for lawsuit",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Aug 08 00:19:23 +0000 2014",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Former Marine",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 257,
+        "follow_request_sent": false,
+        "followers_count": 55,
+        "following": false,
+        "friends_count": 299,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 2715677228,
+        "id_str": "2715677228",
+        "is_translation_enabled": true,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 2,
+        "location": "San Antonio, TX",
+        "name": "Gary Dwayne Goins",
+        "notifications": false,
+        "profile_background_color": "9AE4E8",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2715677228/1410354790",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/510800413671428097/9TlK6CEa_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/510800413671428097/9TlK6CEa_normal.jpeg",
+        "profile_link_color": "DD2E44",
+        "profile_sidebar_border_color": "BDDCAD",
+        "profile_sidebar_fill_color": "DDFFCC",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "GaryUSMC1997",
+        "statuses_count": 442,
+        "time_zone": "Eastern Time (US & Canada)",
+        "url": null,
+        "utc_offset": -18000,
+        "verified": false
+    }
+}

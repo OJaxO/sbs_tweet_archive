@@ -1,0 +1,175 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Nov 30 16:52:36 +0000 2015",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    128,
+                    139
+                ],
+                "text": "IRoboPhone"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 74594552,
+                "id_str": "74594552",
+                "indices": [
+                    0,
+                    9
+                ],
+                "name": "App Store",
+                "screen_name": "AppStore"
+            },
+            {
+                "id": 1636590253,
+                "id_str": "1636590253",
+                "indices": [
+                    10,
+                    19
+                ],
+                "name": "Tim Cook",
+                "screen_name": "tim_cook"
+            },
+            {
+                "id": 14861285,
+                "id_str": "14861285",
+                "indices": [
+                    20,
+                    30
+                ],
+                "name": "MacRumors.com",
+                "screen_name": "MacRumors"
+            },
+            {
+                "id": 611823,
+                "id_str": "611823",
+                "indices": [
+                    31,
+                    40
+                ],
+                "name": "Macworld",
+                "screen_name": "macworld"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 671371257913344000,
+    "id_str": "671371257913344000",
+    "in_reply_to_screen_name": "AppStore",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 74594552,
+    "in_reply_to_user_id_str": "74594552",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        76.0197701,
+                        18.1513135
+                    ],
+                    [
+                        76.0690568,
+                        18.1513135
+                    ],
+                    [
+                        76.0690568,
+                        18.2229003
+                    ],
+                    [
+                        76.0197701,
+                        18.2229003
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "India",
+        "country_code": "IN",
+        "full_name": "Osmanabad, Maharashtra",
+        "id": "0c1395ae47919cc1",
+        "name": "Osmanabad",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/0c1395ae47919cc1.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@AppStore @tim_cook @MacRumors @macworld \nMake such iPhone which can easily detect and response to human voice like robot. Make #IRoboPhone",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Sep 29 17:36:24 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Pharmacist + WellWisher \nThe happiest people dont necessarily have the best of everything but they make the most of everything. \nWhatsApp: +919422935102",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "gandhigroup.org.in",
+                        "expanded_url": "http://www.gandhigroup.org.in",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/h6MJ1vFXYU"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 33,
+        "follow_request_sent": false,
+        "followers_count": 91,
+        "following": false,
+        "friends_count": 163,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 196684088,
+        "id_str": "196684088",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 1,
+        "location": "Osmanabad, Maharashtra. India.",
+        "name": "Kunal Kishor Gandhi",
+        "notifications": false,
+        "profile_background_color": "642D8B",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/442458841/logo.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/442458841/logo.jpg",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/196684088/1399105651",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/666057975417561088/WXpNmNNt_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/666057975417561088/WXpNmNNt_normal.jpg",
+        "profile_link_color": "FF0000",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "CADCE4",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Gandhi_Medical",
+        "statuses_count": 523,
+        "time_zone": "Mumbai",
+        "url": "https://t.co/h6MJ1vFXYU",
+        "utc_offset": 19800,
+        "verified": false
+    }
+}

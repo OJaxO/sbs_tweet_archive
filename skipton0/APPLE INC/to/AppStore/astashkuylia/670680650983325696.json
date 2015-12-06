@@ -1,0 +1,175 @@
+{
+    "contributors": null,
+    "coordinates": {
+        "coordinates": [
+            37.67584753,
+            55.58720635
+        ],
+        "type": "Point"
+    },
+    "created_at": "Sat Nov 28 19:08:22 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "media": [
+            {
+                "display_url": "pic.twitter.com/QxNxg73DOq",
+                "expanded_url": "http://twitter.com/astashkuylia/status/670680650983325696/photo/1",
+                "id": 670680650769424384,
+                "id_str": "670680650769424384",
+                "indices": [
+                    10,
+                    33
+                ],
+                "media_url": "http://pbs.twimg.com/media/CU68f5rW4AAzLP5.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/CU68f5rW4AAzLP5.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 577,
+                        "resize": "fit",
+                        "w": 1024
+                    },
+                    "medium": {
+                        "h": 338,
+                        "resize": "fit",
+                        "w": 600
+                    },
+                    "small": {
+                        "h": 191,
+                        "resize": "fit",
+                        "w": 340
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/QxNxg73DOq"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 74594552,
+                "id_str": "74594552",
+                "indices": [
+                    0,
+                    9
+                ],
+                "name": "App Store",
+                "screen_name": "AppStore"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": {
+        "coordinates": [
+            55.58720635,
+            37.67584753
+        ],
+        "type": "Point"
+    },
+    "id": 670680650983325696,
+    "id_str": "670680650983325696",
+    "in_reply_to_screen_name": "AppStore",
+    "in_reply_to_status_id": 670272622790332416,
+    "in_reply_to_status_id_str": "670272622790332416",
+    "in_reply_to_user_id": 74594552,
+    "in_reply_to_user_id_str": "74594552",
+    "is_quote_status": false,
+    "lang": "und",
+    "metadata": {
+        "iso_language_code": "und",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        37.1316733,
+                        55.4908342
+                    ],
+                    [
+                        37.9650116,
+                        55.4908342
+                    ],
+                    [
+                        37.9650116,
+                        56.0209192
+                    ],
+                    [
+                        37.1316733,
+                        56.0209192
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "Rossiya",
+        "country_code": "RU",
+        "full_name": "Moscow, Russia",
+        "id": "4303d1afc1e98c37",
+        "name": "Moscow",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/4303d1afc1e98c37.json"
+    },
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@AppStore https://t.co/QxNxg73DOq",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Dec 15 09:57:03 +0000 2013",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "\u0422\u0442\u0442",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 54,
+        "follow_request_sent": false,
+        "followers_count": 52,
+        "following": false,
+        "friends_count": 184,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 2246968880,
+        "id_str": "2246968880",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "ru",
+        "listed_count": 0,
+        "location": "",
+        "name": "\u042e\u043b\u044f  \u0410\u0441\u0442\u0430\u0448\u043a\u0438\u043d\u0430",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2246968880/1417981128",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/541678228818386944/7SdtTJzK_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/541678228818386944/7SdtTJzK_normal.jpeg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "astashkuylia",
+        "statuses_count": 6834,
+        "time_zone": null,
+        "url": null,
+        "utc_offset": null,
+        "verified": false
+    }
+}

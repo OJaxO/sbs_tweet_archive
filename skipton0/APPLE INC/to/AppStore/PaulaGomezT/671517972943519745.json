@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 01 02:35:35 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 74594552,
+                "id_str": "74594552",
+                "indices": [
+                    0,
+                    9
+                ],
+                "name": "App Store",
+                "screen_name": "AppStore"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 671517972943519745,
+    "id_str": "671517972943519745",
+    "in_reply_to_screen_name": "AppStore",
+    "in_reply_to_status_id": 667169915674038272,
+    "in_reply_to_status_id_str": "667169915674038272",
+    "in_reply_to_user_id": 74594552,
+    "in_reply_to_user_id_str": "74594552",
+    "is_quote_status": false,
+    "lang": "es",
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -70.6086941,
+                        -33.4861818
+                    ],
+                    [
+                        -70.4291408,
+                        -33.4861818
+                    ],
+                    [
+                        -70.4291408,
+                        -33.3647041
+                    ],
+                    [
+                        -70.6086941,
+                        -33.3647041
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "Chile",
+        "country_code": "CL",
+        "full_name": "Las Condes, Chile",
+        "id": "00c4b64e7affea25",
+        "name": "Las Condes",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/00c4b64e7affea25.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@AppStore adem\u00e1s d memoria interna y control touch, cu\u00e1l ser\u00eda la gran diferencia con el Apple TV actual? Para saber si lo cambio ... \ud83d\ude01",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Nov 03 01:07:23 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Soy de Arica! la ciudad de la eterna primavera! Embajadora de la marca @SantaBenditaCL en Chile soy de la red @linkcares creo en el cambio de la salud actual",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "facebook.com/santabendita.cl",
+                        "expanded_url": "http://www.facebook.com/santabendita.cl",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/Sbu7qA1kkE"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 412,
+        "follow_request_sent": false,
+        "followers_count": 1558,
+        "following": false,
+        "friends_count": 1230,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 87076102,
+        "id_str": "87076102",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "es",
+        "listed_count": 11,
+        "location": "Las Condes, Santiago Chile",
+        "name": "Paula Gomez",
+        "notifications": false,
+        "profile_background_color": "E8F0F0",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/170692161/Tord1_1366.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/170692161/Tord1_1366.jpg",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/87076102/1379001728",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/2739540432/acd27bf87c83394530dd4ba5d35b0a8e_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/2739540432/acd27bf87c83394530dd4ba5d35b0a8e_normal.jpeg",
+        "profile_link_color": "3E4142",
+        "profile_sidebar_border_color": "0AF5F5",
+        "profile_sidebar_fill_color": "B6B6B8",
+        "profile_text_color": "666666",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "PaulaGomezT",
+        "statuses_count": 11297,
+        "time_zone": "Santiago",
+        "url": "http://t.co/Sbu7qA1kkE",
+        "utc_offset": -10800,
+        "verified": false
+    }
+}

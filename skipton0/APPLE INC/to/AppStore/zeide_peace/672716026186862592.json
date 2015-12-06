@@ -1,0 +1,163 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Dec 04 09:56:13 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "media": [
+            {
+                "display_url": "pic.twitter.com/9fKpH8x8TB",
+                "expanded_url": "http://twitter.com/zeide_peace/status/672716026186862592/photo/1",
+                "id": 672716016854568960,
+                "id_str": "672716016854568960",
+                "indices": [
+                    29,
+                    52
+                ],
+                "media_url": "http://pbs.twimg.com/media/CVX3pzNVEAA_3Oo.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/CVX3pzNVEAA_3Oo.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 1024,
+                        "resize": "fit",
+                        "w": 575
+                    },
+                    "medium": {
+                        "h": 1024,
+                        "resize": "fit",
+                        "w": 575
+                    },
+                    "small": {
+                        "h": 605,
+                        "resize": "fit",
+                        "w": 340
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/9fKpH8x8TB"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 74594552,
+                "id_str": "74594552",
+                "indices": [
+                    0,
+                    9
+                ],
+                "name": "App Store",
+                "screen_name": "AppStore"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 672716026186862592,
+    "id_str": "672716026186862592",
+    "in_reply_to_screen_name": "AppStore",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 74594552,
+    "in_reply_to_user_id_str": "74594552",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        126.836926216961,
+                        37.4648784792737
+                    ],
+                    [
+                        126.901973645362,
+                        37.4648784792737
+                    ],
+                    [
+                        126.901973645362,
+                        37.5185204808273
+                    ],
+                    [
+                        126.836926216961,
+                        37.5185204808273
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "\ub300\ud55c\ubbfc\uad6d",
+        "country_code": "KR",
+        "full_name": "Guro-gu, Seoul",
+        "id": "01e66f462314cc0b",
+        "name": "Guro-gu",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/01e66f462314cc0b.json"
+    },
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@AppStore it's a redeem bug. https://t.co/9fKpH8x8TB",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Aug 18 06:34:01 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "using java, learning python",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 135,
+        "follow_request_sent": false,
+        "followers_count": 55,
+        "following": false,
+        "friends_count": 50,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 66615968,
+        "id_str": "66615968",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 0,
+        "location": "",
+        "name": "Z\u00e9ide Peace",
+        "notifications": false,
+        "profile_background_color": "9AE4E8",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/66615968/1399011085",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/367989275/pro_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/367989275/pro_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "BDDCAD",
+        "profile_sidebar_fill_color": "DDFFCC",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "zeide_peace",
+        "statuses_count": 5192,
+        "time_zone": "Seoul",
+        "url": null,
+        "utc_offset": 32400,
+        "verified": false
+    }
+}

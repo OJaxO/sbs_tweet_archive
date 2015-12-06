@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Dec 02 01:00:32 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 74594552,
+                "id_str": "74594552",
+                "indices": [
+                    0,
+                    9
+                ],
+                "name": "App Store",
+                "screen_name": "AppStore"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 671856438382223360,
+    "id_str": "671856438382223360",
+    "in_reply_to_screen_name": "AppStore",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 74594552,
+    "in_reply_to_user_id_str": "74594552",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -93.938883,
+                        32.332455
+                    ],
+                    [
+                        -93.679985,
+                        32.332455
+                    ],
+                    [
+                        -93.679985,
+                        32.589759
+                    ],
+                    [
+                        -93.938883,
+                        32.589759
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Shreveport, LA",
+        "id": "4ec71fc3f2579572",
+        "name": "Shreveport",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/4ec71fc3f2579572.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@AppStore Good night.  amen",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Aug 10 03:45:30 +0000 2013",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "I am an epileptic ;which is controlled by medicine.\r\nBoth of my parents were school teachers.\r\nMy mother and father loved their students.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "att.net",
+                        "expanded_url": "http://www.att.net",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/k7DDB0iQvi"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 179,
+        "follow_request_sent": false,
+        "followers_count": 18,
+        "following": false,
+        "friends_count": 163,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 1659196880,
+        "id_str": "1659196880",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 3,
+        "location": "Shreveport, LA",
+        "name": "Janchristian771",
+        "notifications": false,
+        "profile_background_color": "FF6699",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme11/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme11/bg.gif",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1659196880/1436217679",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/665881488987168768/rmKl8CcI_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/665881488987168768/rmKl8CcI_normal.jpg",
+        "profile_link_color": "B40B43",
+        "profile_sidebar_border_color": "CC3366",
+        "profile_sidebar_fill_color": "E5507E",
+        "profile_text_color": "362720",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "janchristian771",
+        "statuses_count": 6408,
+        "time_zone": null,
+        "url": "http://t.co/k7DDB0iQvi",
+        "utc_offset": null,
+        "verified": false
+    }
+}
