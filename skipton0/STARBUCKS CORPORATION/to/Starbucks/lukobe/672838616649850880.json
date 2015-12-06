@@ -1,0 +1,176 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Dec 04 18:03:21 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "media": [
+            {
+                "display_url": "pic.twitter.com/fx52yyjFbt",
+                "expanded_url": "http://twitter.com/lukobe/status/672838616649850880/photo/1",
+                "id": 672838607439134720,
+                "id_str": "672838607439134720",
+                "indices": [
+                    93,
+                    116
+                ],
+                "media_url": "http://pbs.twimg.com/media/CVZnJguUAAAYFuq.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/CVZnJguUAAAYFuq.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 265,
+                        "resize": "fit",
+                        "w": 639
+                    },
+                    "medium": {
+                        "h": 248,
+                        "resize": "fit",
+                        "w": 600
+                    },
+                    "small": {
+                        "h": 141,
+                        "resize": "fit",
+                        "w": 340
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/fx52yyjFbt"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 30973,
+                "id_str": "30973",
+                "indices": [
+                    0,
+                    10
+                ],
+                "name": "Starbucks Coffee",
+                "screen_name": "Starbucks"
+            }
+        ]
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": null,
+    "id": 672838616649850880,
+    "id_str": "672838616649850880",
+    "in_reply_to_screen_name": "Starbucks",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 30973,
+    "in_reply_to_user_id_str": "30973",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -122.376314,
+                        47.639549
+                    ],
+                    [
+                        -122.3495158,
+                        47.639549
+                    ],
+                    [
+                        -122.3495158,
+                        47.6589531
+                    ],
+                    [
+                        -122.376314,
+                        47.6589531
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "North Queen Anne, Seattle",
+        "id": "2c1e819fca23e522",
+        "name": "North Queen Anne",
+        "place_type": "neighborhood",
+        "url": "https://api.twitter.com/1.1/geo/id/2c1e819fca23e522.json"
+    },
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@Starbucks Might want to check on your geodata. University Way NE is the name of the street. https://t.co/fx52yyjFbt",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Oct 24 06:21:42 +0000 2008",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Writer, editor; author, Seattle Then & Now. Linguistics, books, music, media, maps, cities, photography, history, archives, et al. lukoff@gmail. \u05d1\u05e0\u05d9\u05de\u05d9\u05df \ub3d9\uc6b1 \u041b\u0443\u043a\u043e\u0432",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "linkedin.com/in/lukoff",
+                        "expanded_url": "http://www.linkedin.com/in/lukoff",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/tZvE9XcD7c"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 4066,
+        "follow_request_sent": false,
+        "followers_count": 1945,
+        "following": false,
+        "friends_count": 2124,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 16944688,
+        "id_str": "16944688",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 149,
+        "location": "Magnolia, Seattle, Washington",
+        "name": "Benjamin Lukoff",
+        "notifications": false,
+        "profile_background_color": "9AE4E8",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/694280969/f3f75306aa2a732b947a8f14a9e43461.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/694280969/f3f75306aa2a732b947a8f14a9e43461.jpeg",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/16944688/1398379141",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/470470179978113027/B647ZNT0_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/470470179978113027/B647ZNT0_normal.jpeg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDFFCC",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "lukobe",
+        "statuses_count": 28136,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "http://t.co/tZvE9XcD7c",
+        "utc_offset": -28800,
+        "verified": false
+    }
+}

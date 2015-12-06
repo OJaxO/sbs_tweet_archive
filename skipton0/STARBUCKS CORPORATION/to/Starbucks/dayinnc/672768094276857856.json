@@ -1,0 +1,124 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Dec 04 13:23:07 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 30973,
+                "id_str": "30973",
+                "indices": [
+                    0,
+                    10
+                ],
+                "name": "Starbucks Coffee",
+                "screen_name": "Starbucks"
+            }
+        ]
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": null,
+    "id": 672768094276857856,
+    "id_str": "672768094276857856",
+    "in_reply_to_screen_name": "Starbucks",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 30973,
+    "in_reply_to_user_id_str": "30973",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -78.9448945,
+                        35.6443837
+                    ],
+                    [
+                        -78.7291467,
+                        35.6443837
+                    ],
+                    [
+                        -78.7291467,
+                        35.867993
+                    ],
+                    [
+                        -78.9448945,
+                        35.867993
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Cary, NC",
+        "id": "5c6bd208d7ddf9f6",
+        "name": "Cary",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/5c6bd208d7ddf9f6.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@Starbucks the flat white alone is fabulous, add holiday spice and WOW that's outstanding!!!\ud83d\udc9f\u2615\ufe0f",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Apr 26 23:49:15 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Thankful to be so blessed",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 798,
+        "follow_request_sent": false,
+        "followers_count": 72,
+        "following": false,
+        "friends_count": 326,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 288502835,
+        "id_str": "288502835",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 0,
+        "location": "Cary, NC",
+        "name": "Dayana A Hering",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/288502835/1436145710",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/635176463495507968/-OaudLaI_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/635176463495507968/-OaudLaI_normal.jpg",
+        "profile_link_color": "F5ABB5",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "dayinnc",
+        "statuses_count": 199,
+        "time_zone": "Eastern Time (US & Canada)",
+        "url": null,
+        "utc_offset": -18000,
+        "verified": false
+    }
+}
