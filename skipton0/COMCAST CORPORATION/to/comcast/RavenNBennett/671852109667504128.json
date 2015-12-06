@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Dec 02 00:43:20 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 89587925,
+                "id_str": "89587925",
+                "indices": [
+                    0,
+                    8
+                ],
+                "name": "Comcast",
+                "screen_name": "comcast"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 671852109667504128,
+    "id_str": "671852109667504128",
+    "in_reply_to_screen_name": "comcast",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 89587925,
+    "in_reply_to_user_id_str": "89587925",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -85.605166,
+                        30.355644
+                    ],
+                    [
+                        -80.742567,
+                        30.355644
+                    ],
+                    [
+                        -80.742567,
+                        35.000771
+                    ],
+                    [
+                        -85.605166,
+                        35.000771
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Georgia, USA",
+        "id": "7142eb97ae21e839",
+        "name": "Georgia",
+        "place_type": "admin",
+        "url": "https://api.twitter.com/1.1/geo/id/7142eb97ae21e839.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@comcast \"device needs to be initialized before we can continue\"-- help!",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Oct 17 15:33:45 +0000 2013",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "#elon alum. pr in atlanta. scandal fanatic. unofficial foodie. chasing my dream in the atl while earning my masters at @americanu // all opinions = mine!",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "linkedin.com/pub/raven-benn\u2026",
+                        "expanded_url": "http://www.linkedin.com/pub/raven-bennett/31/977/176",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/STQqobw76I"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 105,
+        "follow_request_sent": false,
+        "followers_count": 107,
+        "following": false,
+        "friends_count": 270,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 1967030352,
+        "id_str": "1967030352",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 4,
+        "location": "Atlanta, GA",
+        "name": "Raven Bennett",
+        "notifications": false,
+        "profile_background_color": "FCEBB6",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000096537825/7d07c5ff77e7d5b9c94de4be2bd00125.png",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000096537825/7d07c5ff77e7d5b9c94de4be2bd00125.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1967030352/1402964543",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/659077733218172928/CLaK-tvi_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/659077733218172928/CLaK-tvi_normal.jpg",
+        "profile_link_color": "CE7834",
+        "profile_sidebar_border_color": "F0A830",
+        "profile_sidebar_fill_color": "78C0A8",
+        "profile_text_color": "5E412F",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "RavenNBennett",
+        "statuses_count": 249,
+        "time_zone": null,
+        "url": "https://t.co/STQqobw76I",
+        "utc_offset": null,
+        "verified": false
+    }
+}

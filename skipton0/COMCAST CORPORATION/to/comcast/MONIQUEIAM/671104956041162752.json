@@ -1,0 +1,146 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Nov 29 23:14:24 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 89587925,
+                "id_str": "89587925",
+                "indices": [
+                    0,
+                    8
+                ],
+                "name": "Comcast",
+                "screen_name": "comcast"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 671104956041162752,
+    "id_str": "671104956041162752",
+    "in_reply_to_screen_name": "comcast",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 89587925,
+    "in_reply_to_user_id_str": "89587925",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -75.280284,
+                        39.871811
+                    ],
+                    [
+                        -74.955712,
+                        39.871811
+                    ],
+                    [
+                        -74.955712,
+                        40.13792
+                    ],
+                    [
+                        -75.280284,
+                        40.13792
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Philadelphia, PA",
+        "id": "e4a0d228eb6be76b",
+        "name": "Philadelphia",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/e4a0d228eb6be76b.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@comcast WiFi be on some bullshit. In the house. but Isis can upload videos from a cave. I need the wifi service they got",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Aug 22 23:57:46 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "My name is Monique I am a Published model. Featured in ASIS, STRAIGHT STUNTIN,https://t.co/OzOM5k6VN7\u2026  BOOKINGS: BOOKINGmonique@gmail.com",
+        "entities": {
+            "description": {
+                "urls": [
+                    {
+                        "display_url": "instagram.com/moniqueiam_?mo",
+                        "expanded_url": "http://instagram.com/moniqueiam_?mo",
+                        "indices": [
+                            78,
+                            101
+                        ],
+                        "url": "https://t.co/OzOM5k6VN7"
+                    }
+                ]
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "moniquedamodel.com",
+                        "expanded_url": "http://www.moniquedamodel.com/",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/fcBrXv4M5n"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 3850,
+        "follow_request_sent": false,
+        "followers_count": 72452,
+        "following": false,
+        "friends_count": 97,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 68019183,
+        "id_str": "68019183",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 792,
+        "location": "SOUTH PHILLY",
+        "name": "Monique thephysique",
+        "notifications": false,
+        "profile_background_color": "FF6699",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/364843904/newlayout.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/364843904/newlayout.jpg",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/644990822652489728/tMNBwHvU_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/644990822652489728/tMNBwHvU_normal.jpg",
+        "profile_link_color": "B40B43",
+        "profile_sidebar_border_color": "CC3366",
+        "profile_sidebar_fill_color": "E5507E",
+        "profile_text_color": "F20865",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "MONIQUEIAM",
+        "statuses_count": 194902,
+        "time_zone": "Eastern Time (US & Canada)",
+        "url": "https://t.co/fcBrXv4M5n",
+        "utc_offset": -18000,
+        "verified": false
+    }
+}

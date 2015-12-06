@@ -1,0 +1,157 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Nov 30 02:11:45 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 89587925,
+                "id_str": "89587925",
+                "indices": [
+                    0,
+                    8
+                ],
+                "name": "Comcast",
+                "screen_name": "comcast"
+            },
+            {
+                "id": 257548783,
+                "id_str": "257548783",
+                "indices": [
+                    24,
+                    33
+                ],
+                "name": "Showtime",
+                "screen_name": "Showtime"
+            },
+            {
+                "id": 250205792,
+                "id_str": "250205792",
+                "indices": [
+                    50,
+                    63
+                ],
+                "name": "Homeland",
+                "screen_name": "SHO_Homeland"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 671149586665312257,
+    "id_str": "671149586665312257",
+    "in_reply_to_screen_name": "comcast",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 89587925,
+    "in_reply_to_user_id_str": "89587925",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -80.519851,
+                        39.719801
+                    ],
+                    [
+                        -74.689517,
+                        39.719801
+                    ],
+                    [
+                        -74.689517,
+                        42.516072
+                    ],
+                    [
+                        -80.519851,
+                        42.516072
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Pennsylvania, USA",
+        "id": "dd9c503d6c35364b",
+        "name": "Pennsylvania",
+        "place_type": "admin",
+        "url": "https://api.twitter.com/1.1/geo/id/dd9c503d6c35364b.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@comcast I can't access @Showtime and I'm missing @SHO_Homeland!",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu May 14 21:56:10 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "VP Of Digital Marketing at Stream Companies. I manage the daily #SEO, #InboundMarketing, #PPC & #SocialMedia Operations For Our Wonderful Clients.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "about.me/bill.parlaman",
+                        "expanded_url": "http://about.me/bill.parlaman",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/BNNK3x7EZm"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 279,
+        "follow_request_sent": false,
+        "followers_count": 3537,
+        "following": false,
+        "friends_count": 162,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 40095995,
+        "id_str": "40095995",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 123,
+        "location": "Philadelphia ",
+        "name": "Bill Parlaman",
+        "notifications": false,
+        "profile_background_color": "022330",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/40095995/1405947546",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/491205407390441473/CJZpj6Gz_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/491205407390441473/CJZpj6Gz_normal.jpeg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "A8C7F7",
+        "profile_sidebar_fill_color": "C0DFEC",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "BillParlaman",
+        "statuses_count": 3254,
+        "time_zone": "Eastern Time (US & Canada)",
+        "url": "http://t.co/BNNK3x7EZm",
+        "utc_offset": -18000,
+        "verified": false
+    }
+}

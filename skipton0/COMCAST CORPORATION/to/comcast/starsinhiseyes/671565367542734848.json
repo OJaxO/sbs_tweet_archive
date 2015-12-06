@@ -1,0 +1,147 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 01 05:43:55 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 89587925,
+                "id_str": "89587925",
+                "indices": [
+                    0,
+                    8
+                ],
+                "name": "Comcast",
+                "screen_name": "comcast"
+            },
+            {
+                "id": 14996251,
+                "id_str": "14996251",
+                "indices": [
+                    9,
+                    17
+                ],
+                "name": "XFINITY",
+                "screen_name": "XFINITY"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 671565367542734848,
+    "id_str": "671565367542734848",
+    "in_reply_to_screen_name": "comcast",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 89587925,
+    "in_reply_to_user_id_str": "89587925",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -81.6788325,
+                        31.782055
+                    ],
+                    [
+                        -81.561514,
+                        31.782055
+                    ],
+                    [
+                        -81.561514,
+                        31.87296
+                    ],
+                    [
+                        -81.6788325,
+                        31.87296
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Hinesville, GA",
+        "id": "6cc49882c2468f39",
+        "name": "Hinesville",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/6cc49882c2468f39.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@comcast @XFINITY I'm not sure why I pay so much when your internet fails daily,hourly lol oh that's right it's my only option.\ud83d\ude14",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed May 06 13:04:49 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "My Star on Hollywood Blvd. may have gum and spit and trash on it, But its my Star! Actor,Singer,Songwriter all around entertainer chasing dreams",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "facebook.com/BradfordMayfie\u2026",
+                        "expanded_url": "http://www.facebook.com/BradfordMayfield",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/4xL2Go215F"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 1103,
+        "follow_request_sent": false,
+        "followers_count": 155,
+        "following": false,
+        "friends_count": 338,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 38172809,
+        "id_str": "38172809",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 10,
+        "location": "Light Oak, NC",
+        "name": "Bradford Mayfield",
+        "notifications": false,
+        "profile_background_color": "0099B9",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/38172809/1435062678",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/607965855633305600/IiLFucrT_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/607965855633305600/IiLFucrT_normal.jpg",
+        "profile_link_color": "0099B9",
+        "profile_sidebar_border_color": "5ED4DC",
+        "profile_sidebar_fill_color": "95E8EC",
+        "profile_text_color": "3C3940",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "starsinhiseyes",
+        "statuses_count": 2030,
+        "time_zone": "Eastern Time (US & Canada)",
+        "url": "http://t.co/4xL2Go215F",
+        "utc_offset": -18000,
+        "verified": false
+    }
+}
