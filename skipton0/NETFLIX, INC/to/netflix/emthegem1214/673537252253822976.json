@@ -1,0 +1,148 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Dec 06 16:19:29 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "pic.twitter.com/LKO4xkyn8Z",
+                "expanded_url": "http://twitter.com/emthegem1214/status/673537252253822976/photo/1",
+                "indices": [
+                    35,
+                    58
+                ],
+                "url": "https://t.co/LKO4xkyn8Z"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 16573941,
+                "id_str": "16573941",
+                "indices": [
+                    0,
+                    8
+                ],
+                "name": "Netflix US",
+                "screen_name": "netflix"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 673537252253822976,
+    "id_str": "673537252253822976",
+    "in_reply_to_screen_name": "netflix",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 16573941,
+    "in_reply_to_user_id_str": "16573941",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -86.494918,
+                        42.000026
+                    ],
+                    [
+                        -86.465512,
+                        42.000026
+                    ],
+                    [
+                        -86.465512,
+                        42.028149
+                    ],
+                    [
+                        -86.494918,
+                        42.028149
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Derby, MI",
+        "id": "016e4b990937247f",
+        "name": "Derby",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/016e4b990937247f.json"
+    },
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@netflix season 7 of parks and rec https://t.co/LKO4xkyn8Z",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Feb 14 13:01:27 +0000 2013",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "shine on you crazy diamond",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "emilymartindale.vsco.co",
+                        "expanded_url": "http://emilymartindale.vsco.co",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/zgUMxELUlz"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 8773,
+        "follow_request_sent": false,
+        "followers_count": 264,
+        "following": false,
+        "friends_count": 454,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 1178980236,
+        "id_str": "1178980236",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 0,
+        "location": "",
+        "name": "Emily",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000094798883/cfe9d9d1adabfbb8052e0efd523c3ae3.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000094798883/cfe9d9d1adabfbb8052e0efd523c3ae3.jpeg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1178980236/1449035567",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/670786615933964288/9bnaryDC_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/670786615933964288/9bnaryDC_normal.jpg",
+        "profile_link_color": "9867A8",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "emthegem1214",
+        "statuses_count": 1788,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "https://t.co/zgUMxELUlz",
+        "utc_offset": -28800,
+        "verified": false
+    }
+}

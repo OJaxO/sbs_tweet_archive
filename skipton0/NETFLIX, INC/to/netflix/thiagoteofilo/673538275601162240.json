@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Dec 06 16:23:33 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 16573941,
+                "id_str": "16573941",
+                "indices": [
+                    0,
+                    8
+                ],
+                "name": "Netflix US",
+                "screen_name": "netflix"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 673538275601162240,
+    "id_str": "673538275601162240",
+    "in_reply_to_screen_name": "netflix",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 16573941,
+    "in_reply_to_user_id_str": "16573941",
+    "is_quote_status": false,
+    "lang": "pt",
+    "metadata": {
+        "iso_language_code": "pt",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -73.991482,
+                        -33.7510506
+                    ],
+                    [
+                        -32.378186,
+                        -33.7510506
+                    ],
+                    [
+                        -32.378186,
+                        5.27192
+                    ],
+                    [
+                        -73.991482,
+                        5.27192
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "Brasil",
+        "country_code": "BR",
+        "full_name": "Brazil",
+        "id": "1b107df3ccc0aaa1",
+        "name": "Brazil",
+        "place_type": "country",
+        "url": "https://api.twitter.com/1.1/geo/id/1b107df3ccc0aaa1.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@netflix obg por existir",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Jun 19 13:38:20 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "flickr.com/thiagoteofilo",
+                        "expanded_url": "http://www.flickr.com/thiagoteofilo",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/5J1FJpxatD"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 2,
+        "follow_request_sent": false,
+        "followers_count": 1035,
+        "following": false,
+        "friends_count": 79,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 157318052,
+        "id_str": "157318052",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 43,
+        "location": "",
+        "name": "Lord Te\u00f3filo",
+        "notifications": false,
+        "profile_background_color": "F7F7F7",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/434714365887909888/uwU_bv5a.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/434714365887909888/uwU_bv5a.jpeg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/157318052/1420774661",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/559562092123287552/maSEvG_i_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/559562092123287552/maSEvG_i_normal.jpeg",
+        "profile_link_color": "827F82",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DAECF4",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "thiagoteofilo",
+        "statuses_count": 21320,
+        "time_zone": "Santiago",
+        "url": "http://t.co/5J1FJpxatD",
+        "utc_offset": -10800,
+        "verified": false
+    }
+}
