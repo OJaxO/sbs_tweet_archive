@@ -1,0 +1,149 @@
+{
+    "contributors": null,
+    "coordinates": {
+        "coordinates": [
+            -79.89348358,
+            -2.12842279
+        ],
+        "type": "Point"
+    },
+    "created_at": "Sun Dec 06 00:36:26 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 80420672,
+                "id_str": "80420672",
+                "indices": [
+                    0,
+                    13
+                ],
+                "name": "EA Support",
+                "screen_name": "AskEASupport"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": {
+        "coordinates": [
+            -2.12842279,
+            -79.89348358
+        ],
+        "type": "Point"
+    },
+    "id": 673299925606735873,
+    "id_str": "673299925606735873",
+    "in_reply_to_screen_name": "AskEASupport",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 80420672,
+    "in_reply_to_user_id_str": "80420672",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -80.4676050033072,
+                        -3.06371600046572
+                    ],
+                    [
+                        -79.7147810026682,
+                        -3.06371600046572
+                    ],
+                    [
+                        -79.7147810026682,
+                        -1.96227400010509
+                    ],
+                    [
+                        -80.4676050033072,
+                        -1.96227400010509
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "Ecuador",
+        "country_code": "EC",
+        "full_name": "Guayaquil, Ecuador",
+        "id": "009924a469d7ace1",
+        "name": "Guayaquil",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/009924a469d7ace1.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://www.twitter.com\" rel=\"nofollow\">Twitter for Windows Phone</a>",
+    "text": "@AskEASupport Hi, I need help right now because I can't log in into my account due to that Authenticator app.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Jun 19 16:39:06 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Won't you give me a free ride",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "hugoskapunk9.blogspot.com",
+                        "expanded_url": "http://hugoskapunk9.blogspot.com/",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/AC4GK9FDwW"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 773,
+        "follow_request_sent": false,
+        "followers_count": 319,
+        "following": false,
+        "friends_count": 297,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 48753527,
+        "id_str": "48753527",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "es",
+        "listed_count": 0,
+        "location": "Guayakill",
+        "name": "Hugo Guill\u00e9n",
+        "notifications": false,
+        "profile_background_color": "BADFCD",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/754488142/52cae3440477524b2b22ea950f8c08fc.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/754488142/52cae3440477524b2b22ea950f8c08fc.jpeg",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/48753527/1428420191",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/585462824421486592/MzqUWzzw_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/585462824421486592/MzqUWzzw_normal.jpg",
+        "profile_link_color": "0048FF",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "252429",
+        "profile_text_color": "666666",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "lambdahugo",
+        "statuses_count": 10918,
+        "time_zone": "Quito",
+        "url": "http://t.co/AC4GK9FDwW",
+        "utc_offset": -18000,
+        "verified": false
+    }
+}
