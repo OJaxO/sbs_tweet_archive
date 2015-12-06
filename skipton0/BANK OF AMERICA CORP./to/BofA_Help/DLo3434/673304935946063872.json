@@ -1,0 +1,124 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Dec 06 00:56:20 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 18735040,
+                "id_str": "18735040",
+                "indices": [
+                    0,
+                    10
+                ],
+                "name": "Bank of America Help",
+                "screen_name": "BofA_Help"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 673304935946063872,
+    "id_str": "673304935946063872",
+    "in_reply_to_screen_name": "BofA_Help",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 18735040,
+    "in_reply_to_user_id_str": "18735040",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -115.2092535,
+                        35.984784
+                    ],
+                    [
+                        -115.0610763,
+                        35.984784
+                    ],
+                    [
+                        -115.0610763,
+                        36.137145
+                    ],
+                    [
+                        -115.2092535,
+                        36.137145
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Paradise, NV",
+        "id": "8fa6d7a33b83ef26",
+        "name": "Paradise",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/8fa6d7a33b83ef26.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@BofA_Help looking for help",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Jan 15 18:02:17 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Philadelphia Sports Crusader, Rutgers Football Fan, Crystal Palace Supporter, and Beer League Hockey Extraordinaire. IG: dlo3434",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 1670,
+        "follow_request_sent": false,
+        "followers_count": 332,
+        "following": false,
+        "friends_count": 708,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 238652832,
+        "id_str": "238652832",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 11,
+        "location": "New York, New York",
+        "name": "DLo34",
+        "notifications": false,
+        "profile_background_color": "1A1B1F",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000084644523/b214c4fc9c6d055e261a05084dc199e8.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000084644523/b214c4fc9c6d055e261a05084dc199e8.jpeg",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/238652832/1404185329",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/483813574993641472/3h-zXr6s_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/483813574993641472/3h-zXr6s_normal.jpeg",
+        "profile_link_color": "DD2E44",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "252429",
+        "profile_text_color": "666666",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "DLo3434",
+        "statuses_count": 5797,
+        "time_zone": "Eastern Time (US & Canada)",
+        "url": null,
+        "utc_offset": -18000,
+        "verified": false
+    }
+}

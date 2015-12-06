@@ -1,0 +1,134 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Dec 06 01:16:09 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 18735040,
+                "id_str": "18735040",
+                "indices": [
+                    0,
+                    10
+                ],
+                "name": "Bank of America Help",
+                "screen_name": "BofA_Help"
+            },
+            {
+                "id": 3031730806,
+                "id_str": "3031730806",
+                "indices": [
+                    11,
+                    22
+                ],
+                "name": "daisy",
+                "screen_name": "daisyaloza"
+            }
+        ]
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": null,
+    "id": 673309922721816576,
+    "id_str": "673309922721816576",
+    "in_reply_to_screen_name": "BofA_Help",
+    "in_reply_to_status_id": 673305427556343809,
+    "in_reply_to_status_id_str": "673305427556343809",
+    "in_reply_to_user_id": 18735040,
+    "in_reply_to_user_id_str": "18735040",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -97.233811,
+                        32.586565
+                    ],
+                    [
+                        -97.037464,
+                        32.586565
+                    ],
+                    [
+                        -97.037464,
+                        32.817135
+                    ],
+                    [
+                        -97.233811,
+                        32.817135
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Arlington, TX",
+        "id": "6e315e1f96e0450a",
+        "name": "Arlington",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/6e315e1f96e0450a.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@BofA_Help @daisyaloza i guess we have something in common \ud83d\ude44",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Feb 14 16:17:55 +0000 2012",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "\u3000",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 17,
+        "follow_request_sent": false,
+        "followers_count": 147,
+        "following": false,
+        "friends_count": 68,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 492340835,
+        "id_str": "492340835",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "ar",
+        "listed_count": 0,
+        "location": "\u062d\u064a\u062b\u064f \u0627\u0646\u062a .",
+        "name": "\u200c\u00a0Nawa\u017f\u00c5latawi",
+        "notifications": false,
+        "profile_background_color": "1A1B1F",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/492340835/1383773012",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/476635209610166273/6YroUgI7_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/476635209610166273/6YroUgI7_normal.jpeg",
+        "profile_link_color": "2FC2EF",
+        "profile_sidebar_border_color": "181A1E",
+        "profile_sidebar_fill_color": "252429",
+        "profile_text_color": "666666",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "l0b_",
+        "statuses_count": 1148,
+        "time_zone": "Riyadh",
+        "url": null,
+        "utc_offset": 10800,
+        "verified": false
+    }
+}
