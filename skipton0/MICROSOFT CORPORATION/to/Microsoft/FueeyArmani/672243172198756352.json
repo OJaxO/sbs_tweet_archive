@@ -1,0 +1,134 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Dec 03 02:37:16 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 74286565,
+                "id_str": "74286565",
+                "indices": [
+                    0,
+                    10
+                ],
+                "name": "Microsoft",
+                "screen_name": "Microsoft"
+            },
+            {
+                "id": 380749300,
+                "id_str": "380749300",
+                "indices": [
+                    11,
+                    17
+                ],
+                "name": "@apple",
+                "screen_name": "Apple"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 672243172198756352,
+    "id_str": "672243172198756352",
+    "in_reply_to_screen_name": "Microsoft",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 74286565,
+    "in_reply_to_user_id_str": "74286565",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -87.6850281,
+                        41.5790282
+                    ],
+                    [
+                        -87.621483,
+                        41.5790282
+                    ],
+                    [
+                        -87.621483,
+                        41.630059
+                    ],
+                    [
+                        -87.6850281,
+                        41.630059
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Harvey, IL",
+        "id": "6b029ca925395e1b",
+        "name": "Harvey",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/6b029ca925395e1b.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for i\u039fS</a>",
+    "text": "@Microsoft @Apple is still better \ud83d\udd95\ud83c\udffc fuck this commercial",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Apr 14 02:36:31 +0000 2013",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 1676,
+        "follow_request_sent": false,
+        "followers_count": 2120,
+        "following": false,
+        "friends_count": 2622,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 1350789355,
+        "id_str": "1350789355",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 2,
+        "location": "Chicago, IL",
+        "name": "\u2820\u280f\u2801\u2825\u2807 \u2820\u2801\u2817\u280d\u2801\u281d\u280a",
+        "notifications": false,
+        "profile_background_color": "ACDED6",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1350789355/1449109072",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/673264921564413952/0gnm5Cou_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/673264921564413952/0gnm5Cou_normal.jpg",
+        "profile_link_color": "038543",
+        "profile_sidebar_border_color": "EEEEEE",
+        "profile_sidebar_fill_color": "F6F6F6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "FueeyArmani",
+        "statuses_count": 10264,
+        "time_zone": "Eastern Time (US & Canada)",
+        "url": null,
+        "utc_offset": -18000,
+        "verified": false
+    }
+}

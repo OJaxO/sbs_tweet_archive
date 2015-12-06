@@ -1,0 +1,258 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Dec 03 18:20:02 +0000 2015",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    10,
+                    20
+                ],
+                "text": "inclusion"
+            },
+            {
+                "indices": [
+                    21,
+                    31
+                ],
+                "text": "diversity"
+            }
+        ],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/barclaysaccess\u2026",
+                "expanded_url": "https://twitter.com/barclaysaccess/status/672472568146829312",
+                "indices": [
+                    32,
+                    55
+                ],
+                "url": "https://t.co/Kdk3Pkf53Q"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 191781601,
+                "id_str": "191781601",
+                "indices": [
+                    0,
+                    9
+                ],
+                "name": "Barclays Bank",
+                "screen_name": "Barclays"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 672480424967471104,
+    "id_str": "672480424967471104",
+    "in_reply_to_screen_name": "Barclays",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 191781601,
+    "in_reply_to_user_id_str": "191781601",
+    "is_quote_status": true,
+    "lang": "und",
+    "metadata": {
+        "iso_language_code": "und",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -0.1114755,
+                        51.4194247
+                    ],
+                    [
+                        -0.0297308,
+                        51.4194247
+                    ],
+                    [
+                        -0.0297308,
+                        51.509947
+                    ],
+                    [
+                        -0.1114755,
+                        51.509947
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United Kingdom",
+        "country_code": "GB",
+        "full_name": "Camberwell, London",
+        "id": "7f55e839e1715da2",
+        "name": "Camberwell",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/7f55e839e1715da2.json"
+    },
+    "possibly_sensitive": false,
+    "quoted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Thu Dec 03 17:48:48 +0000 2015",
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "urls": [
+                {
+                    "display_url": "twitter.com/tribalseries/s\u2026",
+                    "expanded_url": "https://twitter.com/tribalseries/status/672471165877751809",
+                    "indices": [
+                        17,
+                        40
+                    ],
+                    "url": "https://t.co/TG9UhzFGVI"
+                }
+            ],
+            "user_mentions": []
+        },
+        "favorite_count": 4,
+        "favorited": false,
+        "geo": null,
+        "id": 672472568146829312,
+        "id_str": "672472568146829312",
+        "in_reply_to_screen_name": null,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "is_quote_status": true,
+        "lang": "en",
+        "metadata": {
+            "iso_language_code": "und",
+            "result_type": "recent"
+        },
+        "place": null,
+        "possibly_sensitive": false,
+        "quoted_status_id": 672471165877751809,
+        "quoted_status_id_str": "672471165877751809",
+        "retweet_count": 1,
+        "retweeted": false,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "Brilliant shot!! https://t.co/TG9UhzFGVI",
+        "truncated": false,
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Fri Feb 14 11:59:42 +0000 2014",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "'One of our ambitions is to become the most accessible and inclusive bank'. Tweets about Accessibility & Disability issues. For a/c queries use @BarclaysUKHelp.",
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "barclays.co.uk/accessibility",
+                            "expanded_url": "http://barclays.co.uk/accessibility",
+                            "indices": [
+                                0,
+                                22
+                            ],
+                            "url": "http://t.co/9GP1XwFpxp"
+                        }
+                    ]
+                }
+            },
+            "favourites_count": 1167,
+            "follow_request_sent": false,
+            "followers_count": 3586,
+            "following": false,
+            "friends_count": 2492,
+            "geo_enabled": true,
+            "has_extended_profile": false,
+            "id": 2343480356,
+            "id_str": "2343480356",
+            "is_translation_enabled": false,
+            "is_translator": false,
+            "lang": "en-gb",
+            "listed_count": 67,
+            "location": "UK",
+            "name": "Barclays Access",
+            "notifications": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/438373391641214976/zpdBPjiB.png",
+            "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/438373391641214976/zpdBPjiB.png",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/2343480356/1448871110",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/615524919770771456/59JL4lw9_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/615524919770771456/59JL4lw9_normal.jpg",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "BarclaysAccess",
+            "statuses_count": 2737,
+            "time_zone": null,
+            "url": "http://t.co/9GP1XwFpxp",
+            "utc_offset": null,
+            "verified": true
+        }
+    },
+    "quoted_status_id": 672472568146829312,
+    "quoted_status_id_str": "672472568146829312",
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+    "text": "@Barclays #inclusion #diversity https://t.co/Kdk3Pkf53Q",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Jul 25 12:11:48 +0000 2014",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Global Head of Diversity at Barclays, sharing perspectives on Diversity and Inclusion. My views and not those of Barclays.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 251,
+        "follow_request_sent": false,
+        "followers_count": 1002,
+        "following": false,
+        "friends_count": 1310,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 2679446808,
+        "id_str": "2679446808",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en-gb",
+        "listed_count": 34,
+        "location": "London/Ft Lauderdale",
+        "name": "Mark McLane",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2679446808/1406290973",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/492645362927017985/37kdDXU__normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/492645362927017985/37kdDXU__normal.jpeg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "MQMcLane",
+        "statuses_count": 972,
+        "time_zone": "London",
+        "url": null,
+        "utc_offset": 0,
+        "verified": false
+    }
+}
