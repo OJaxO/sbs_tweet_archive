@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Dec 04 12:30:47 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 3046525515,
+                "id_str": "3046525515",
+                "indices": [
+                    0,
+                    15
+                ],
+                "name": "Barclays UK Help",
+                "screen_name": "BarclaysUKHelp"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 672754921075286016,
+    "id_str": "672754921075286016",
+    "in_reply_to_screen_name": "BarclaysUKHelp",
+    "in_reply_to_status_id": 672754814430912512,
+    "in_reply_to_status_id_str": "672754814430912512",
+    "in_reply_to_user_id": 3046525515,
+    "in_reply_to_user_id_str": "3046525515",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        1.2077007,
+                        52.046594
+                    ],
+                    [
+                        1.265871,
+                        52.046594
+                    ],
+                    [
+                        1.265871,
+                        52.06897
+                    ],
+                    [
+                        1.2077007,
+                        52.06897
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United Kingdom",
+        "country_code": "GB",
+        "full_name": "Kesgrave, England",
+        "id": "05d04b40cad0b312",
+        "name": "Kesgrave",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/05d04b40cad0b312.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "text": "@BarclaysUKHelp Any idea as to how much later we are talking here?",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Mar 11 18:09:55 +0000 2012",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Ipswich Town supporter, tennis & boxing enthusiast, running, rock & roll dreams.\n\nFreelance offline video editor [@RyanKentEdits]",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "ryankentedits.com",
+                        "expanded_url": "http://ryankentedits.com",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/CyPeG6pfBh"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 319,
+        "follow_request_sent": false,
+        "followers_count": 115,
+        "following": false,
+        "friends_count": 137,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 521535153,
+        "id_str": "521535153",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 2,
+        "location": "Suffolk + London",
+        "name": "Ryan Kent",
+        "notifications": false,
+        "profile_background_color": "1A1B1F",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/521535153/1445592352",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/523931859903062018/KZ6Mm0Jg_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/523931859903062018/KZ6Mm0Jg_normal.jpeg",
+        "profile_link_color": "2FC2EF",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "252429",
+        "profile_text_color": "666666",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "__ryank",
+        "statuses_count": 1760,
+        "time_zone": "London",
+        "url": "https://t.co/CyPeG6pfBh",
+        "utc_offset": 0,
+        "verified": false
+    }
+}

@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Dec 04 14:12:44 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 3046525515,
+                "id_str": "3046525515",
+                "indices": [
+                    0,
+                    15
+                ],
+                "name": "Barclays UK Help",
+                "screen_name": "BarclaysUKHelp"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 672780578178121730,
+    "id_str": "672780578178121730",
+    "in_reply_to_screen_name": "BarclaysUKHelp",
+    "in_reply_to_status_id": 672777033345273856,
+    "in_reply_to_status_id_str": "672777033345273856",
+    "in_reply_to_user_id": 3046525515,
+    "in_reply_to_user_id_str": "3046525515",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -4.948333,
+                        50.532867
+                    ],
+                    [
+                        -4.934279,
+                        50.532867
+                    ],
+                    [
+                        -4.934279,
+                        50.544008
+                    ],
+                    [
+                        -4.948333,
+                        50.544008
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United Kingdom",
+        "country_code": "GB",
+        "full_name": "Padstow, England",
+        "id": "44fde5b847479572",
+        "name": "Padstow",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/44fde5b847479572.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@BarclaysUKHelp thanks, seems to be working now - was worried as everything was down!",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Jul 28 16:25:55 +0000 2012",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Padstow Photographer specialising in portraiture with that personal touch.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "deborahdoyle.co.uk",
+                        "expanded_url": "http://www.deborahdoyle.co.uk",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/f1mpACljPH"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 136,
+        "follow_request_sent": false,
+        "followers_count": 141,
+        "following": false,
+        "friends_count": 286,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 722451404,
+        "id_str": "722451404",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 2,
+        "location": "Padstow, Cornwall, UK",
+        "name": "Deborah Doyle",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/722451404/1369928987",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/672813196856684546/cl1M48hI_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/672813196856684546/cl1M48hI_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "PadstowBaby",
+        "statuses_count": 117,
+        "time_zone": null,
+        "url": "https://t.co/f1mpACljPH",
+        "utc_offset": null,
+        "verified": false
+    }
+}
