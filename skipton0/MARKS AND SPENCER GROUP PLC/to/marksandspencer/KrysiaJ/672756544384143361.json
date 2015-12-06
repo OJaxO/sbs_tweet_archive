@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Dec 04 12:37:14 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 37916167,
+                "id_str": "37916167",
+                "indices": [
+                    0,
+                    16
+                ],
+                "name": "M&S",
+                "screen_name": "marksandspencer"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 672756544384143361,
+    "id_str": "672756544384143361",
+    "in_reply_to_screen_name": "marksandspencer",
+    "in_reply_to_status_id": 672736361561137152,
+    "in_reply_to_status_id_str": "672736361561137152",
+    "in_reply_to_user_id": 37916167,
+    "in_reply_to_user_id_str": "37916167",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -4.3932845,
+                        55.796184
+                    ],
+                    [
+                        -4.0902182,
+                        55.796184
+                    ],
+                    [
+                        -4.0902182,
+                        55.9204214
+                    ],
+                    [
+                        -4.3932845,
+                        55.9204214
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United Kingdom",
+        "country_code": "GB",
+        "full_name": "Glasgow, Scotland",
+        "id": "791e00bcadc4615f",
+        "name": "Glasgow",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/791e00bcadc4615f.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@marksandspencer oh thanks, that would have been nice but chucked them away now \ud83d\ude10 appreciate the offer anyway.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Jan 05 14:34:35 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "UK expat living in Dubai. Founder & Editor of @ippandco",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "ippandco.com",
+                        "expanded_url": "http://www.ippandco.com",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/E31B2mXAXL"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 1648,
+        "follow_request_sent": false,
+        "followers_count": 1551,
+        "following": false,
+        "friends_count": 1798,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 18632869,
+        "id_str": "18632869",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 23,
+        "location": "Dubai",
+        "name": "Krysia McKechnie",
+        "notifications": false,
+        "profile_background_color": "0099B9",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000020067644/07563fd74ef5e42e44be8d7febecece8.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000020067644/07563fd74ef5e42e44be8d7febecece8.jpeg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/18632869/1392704242",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1780123053/Hed_Kandi_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1780123053/Hed_Kandi_normal.jpg",
+        "profile_link_color": "0099B9",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "95E8EC",
+        "profile_text_color": "3C3940",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "KrysiaJ",
+        "statuses_count": 12285,
+        "time_zone": "Abu Dhabi",
+        "url": "http://t.co/E31B2mXAXL",
+        "utc_offset": 14400,
+        "verified": false
+    }
+}

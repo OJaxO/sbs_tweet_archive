@@ -1,0 +1,124 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Dec 05 06:29:59 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 37916167,
+                "id_str": "37916167",
+                "indices": [
+                    0,
+                    16
+                ],
+                "name": "M&S",
+                "screen_name": "marksandspencer"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 673026513021870080,
+    "id_str": "673026513021870080",
+    "in_reply_to_screen_name": "marksandspencer",
+    "in_reply_to_status_id": 672918501296906240,
+    "in_reply_to_status_id_str": "672918501296906240",
+    "in_reply_to_user_id": 37916167,
+    "in_reply_to_user_id_str": "37916167",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -1.6355791,
+                        52.0518316
+                    ],
+                    [
+                        -1.6179931,
+                        52.0518316
+                    ],
+                    [
+                        -1.6179931,
+                        52.0700241
+                    ],
+                    [
+                        -1.6355791,
+                        52.0700241
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United Kingdom",
+        "country_code": "GB",
+        "full_name": "Shipston-on-Stour, England",
+        "id": "1559aa9cc8bcf9df",
+        "name": "Shipston-on-Stour",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/1559aa9cc8bcf9df.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@marksandspencer Very disappointed - I spend a lot of money in your stores, but not again.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Oct 11 11:09:45 +0000 2012",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Nurse, Shipston Food Festival organiser, bread maker & Leicester City fan. Views are my own and not held by another living person. Anywhere.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 274,
+        "follow_request_sent": false,
+        "followers_count": 473,
+        "following": false,
+        "friends_count": 444,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 873431167,
+        "id_str": "873431167",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 4,
+        "location": "Shipston on Stour",
+        "name": "Philip Vial",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/873431167/1431960907",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/626603033829462017/bSf0T2s5_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/626603033829462017/bSf0T2s5_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "ShipstonPhilip",
+        "statuses_count": 6315,
+        "time_zone": "Amsterdam",
+        "url": null,
+        "utc_offset": 3600,
+        "verified": false
+    }
+}
