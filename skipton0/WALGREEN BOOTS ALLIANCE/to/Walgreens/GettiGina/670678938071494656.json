@@ -1,0 +1,124 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Nov 28 19:01:34 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 46177695,
+                "id_str": "46177695",
+                "indices": [
+                    0,
+                    10
+                ],
+                "name": "Walgreens",
+                "screen_name": "Walgreens"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 670678938071494656,
+    "id_str": "670678938071494656",
+    "in_reply_to_screen_name": "Walgreens",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 46177695,
+    "in_reply_to_user_id_str": "46177695",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -74.377326,
+                        40.75774
+                    ],
+                    [
+                        -74.280592,
+                        40.75774
+                    ],
+                    [
+                        -74.280592,
+                        40.8183834
+                    ],
+                    [
+                        -74.377326,
+                        40.8183834
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Livingston, NJ",
+        "id": "24661d47b426cdac",
+        "name": "Livingston",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/24661d47b426cdac.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@Walgreens Shoutout to Roseland pharmacy for doing their job and helping a customer out! Awesome service!",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Apr 12 04:22:35 +0000 2015",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "how old would u b if u didn't kno how old you were? #satchelpaige",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 1029,
+        "follow_request_sent": false,
+        "followers_count": 125,
+        "following": false,
+        "friends_count": 378,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 3158390404,
+        "id_str": "3158390404",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 0,
+        "location": "New Jersey, USA",
+        "name": "G",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3158390404/1438127659",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/587320496867385344/doAHgq1b_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/587320496867385344/doAHgq1b_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "GettiGina",
+        "statuses_count": 327,
+        "time_zone": null,
+        "url": null,
+        "utc_offset": null,
+        "verified": false
+    }
+}

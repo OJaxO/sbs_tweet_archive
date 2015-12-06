@@ -1,0 +1,124 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 01 03:14:13 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 46177695,
+                "id_str": "46177695",
+                "indices": [
+                    0,
+                    10
+                ],
+                "name": "Walgreens",
+                "screen_name": "Walgreens"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 671527693226258432,
+    "id_str": "671527693226258432",
+    "in_reply_to_screen_name": "Walgreens",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 46177695,
+    "in_reply_to_user_id_str": "46177695",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -84.307688,
+                        39.695193
+                    ],
+                    [
+                        -84.093044,
+                        39.695193
+                    ],
+                    [
+                        -84.093044,
+                        39.865523
+                    ],
+                    [
+                        -84.307688,
+                        39.865523
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Dayton, OH",
+        "id": "8d742fb555fbff21",
+        "name": "Dayton",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/8d742fb555fbff21.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@Walgreens 25% cyber Monday sale should apply to insulin",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Mar 22 02:50:05 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "strong supporter of crocs, messy buns, and the oxford comma | university of dayton '16.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 13764,
+        "follow_request_sent": false,
+        "followers_count": 651,
+        "following": false,
+        "friends_count": 641,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 125213982,
+        "id_str": "125213982",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 2,
+        "location": "getting diet coke @ mcdonald's",
+        "name": "jillian marron.",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/467036240693317633/CkFJWp5Z.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/467036240693317633/CkFJWp5Z.jpeg",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/125213982/1444969540",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/672617728604307456/AalnxsVT_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/672617728604307456/AalnxsVT_normal.jpg",
+        "profile_link_color": "F75D0A",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "F5830A",
+        "profile_text_color": "2BB33F",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "thatgirl_June",
+        "statuses_count": 28930,
+        "time_zone": "Eastern Time (US & Canada)",
+        "url": null,
+        "utc_offset": -18000,
+        "verified": false
+    }
+}

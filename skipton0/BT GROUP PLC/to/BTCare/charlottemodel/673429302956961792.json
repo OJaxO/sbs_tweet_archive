@@ -1,0 +1,145 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Dec 06 09:10:32 +0000 2015",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    34,
+                    43
+                ],
+                "text": "engineer"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 35737385,
+                "id_str": "35737385",
+                "indices": [
+                    0,
+                    7
+                ],
+                "name": "BT",
+                "screen_name": "BTCare"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 673429302956961792,
+    "id_str": "673429302956961792",
+    "in_reply_to_screen_name": "BTCare",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 35737385,
+    "in_reply_to_user_id_str": "35737385",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -5.298278,
+                        50.254839
+                    ],
+                    [
+                        -5.281236,
+                        50.254839
+                    ],
+                    [
+                        -5.281236,
+                        50.263591
+                    ],
+                    [
+                        -5.298278,
+                        50.263591
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United Kingdom",
+        "country_code": "GB",
+        "full_name": "Portreath, England",
+        "id": "2750212274c3c916",
+        "name": "Portreath",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/2750212274c3c916.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@BTCare hello you've sent a fault #engineer out to us (thanks) but the fault is in the line 300m away, desperately need an UG engineer out?",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Mar 16 09:15:21 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Loving #fiancee #daughter & #sister. Owner of @loversretreats & #Marketing Manager of @falmouthbaycafe. #Animal lover. #PhotoEditor / #Retoucher",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "loversretreats.com",
+                        "expanded_url": "http://www.loversretreats.com",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/PO6vzWrV9y"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 45,
+        "follow_request_sent": false,
+        "followers_count": 13449,
+        "following": false,
+        "friends_count": 1364,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 24669500,
+        "id_str": "24669500",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 72,
+        "location": "Truro",
+        "name": "Charlotte Thomson",
+        "notifications": false,
+        "profile_background_color": "FFFFFF",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/581448754412199936/qg-jkHRP.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/581448754412199936/qg-jkHRP.jpg",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/24669500/1444064301",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/641250993150259200/fQzGwJPP_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/641250993150259200/fQzGwJPP_normal.jpg",
+        "profile_link_color": "B0B0B0",
+        "profile_sidebar_border_color": "8C8C8C",
+        "profile_sidebar_fill_color": "2B2B2B",
+        "profile_text_color": "707070",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "charlottemodel",
+        "statuses_count": 7612,
+        "time_zone": "London",
+        "url": "http://t.co/PO6vzWrV9y",
+        "utc_offset": 0,
+        "verified": false
+    }
+}

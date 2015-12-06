@@ -1,0 +1,166 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Dec 02 22:38:00 +0000 2015",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    33,
+                    45
+                ],
+                "text": "pharmacists"
+            },
+            {
+                "indices": [
+                    49,
+                    61
+                ],
+                "text": "Mooresville"
+            },
+            {
+                "indices": [
+                    79,
+                    87
+                ],
+                "text": "RiteAid"
+            },
+            {
+                "indices": [
+                    108,
+                    118
+                ],
+                "text": "rippedoff"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 46177695,
+                "id_str": "46177695",
+                "indices": [
+                    0,
+                    10
+                ],
+                "name": "Walgreens",
+                "screen_name": "Walgreens"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 672182957315137536,
+    "id_str": "672182957315137536",
+    "in_reply_to_screen_name": "Walgreens",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 46177695,
+    "in_reply_to_user_id_str": "46177695",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -80.90349197,
+                        35.56965605
+                    ],
+                    [
+                        -80.90349197,
+                        35.56965605
+                    ],
+                    [
+                        -80.90349197,
+                        35.56965605
+                    ],
+                    [
+                        -80.90349197,
+                        35.56965605
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Walgreens",
+        "id": "07d9e409c5888000",
+        "name": "Walgreens",
+        "place_type": "poi",
+        "url": "https://api.twitter.com/1.1/geo/id/07d9e409c5888000.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@Walgreens rude and inconsistent #pharmacists in #Mooresville NC. Switching to #RiteAid or Walmart. Feeling #rippedoff",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Mar 09 19:18:39 +0000 2010",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Diehard member of the ONLY real nation - THE Raidernation. Proud father of 3 perfect children, uncle to 3 beautiful girls. Life is good.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "facebook.com/ricksmiley27",
+                        "expanded_url": "http://www.facebook.com/ricksmiley27",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/xx8TzCCVbp"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 68,
+        "follow_request_sent": false,
+        "followers_count": 73,
+        "following": false,
+        "friends_count": 287,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 121520486,
+        "id_str": "121520486",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 0,
+        "location": "Charlotte, NC",
+        "name": "Rick Smiley",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/121520486/1410621558",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/671160151160840193/zYw8VVrj_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/671160151160840193/zYw8VVrj_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "ricksmiley27",
+        "statuses_count": 2108,
+        "time_zone": "Eastern Time (US & Canada)",
+        "url": "https://t.co/xx8TzCCVbp",
+        "utc_offset": -18000,
+        "verified": false
+    }
+}
