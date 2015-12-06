@@ -1,0 +1,157 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Dec 05 14:19:47 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 2425151,
+                "id_str": "2425151",
+                "indices": [
+                    0,
+                    9
+                ],
+                "name": "Facebook",
+                "screen_name": "facebook"
+            },
+            {
+                "id": 2425151,
+                "id_str": "2425151",
+                "indices": [
+                    128,
+                    137
+                ],
+                "name": "Facebook",
+                "screen_name": "facebook"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 673144740792025088,
+    "id_str": "673144740792025088",
+    "in_reply_to_screen_name": "facebook",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 2425151,
+    "in_reply_to_user_id_str": "2425151",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        89.3488235,
+                        22.8894691
+                    ],
+                    [
+                        91.3085938,
+                        22.8894691
+                    ],
+                    [
+                        91.3085938,
+                        25.3072923
+                    ],
+                    [
+                        89.3488235,
+                        25.3072923
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "Bangladesh",
+        "country_code": "BD",
+        "full_name": "Dhaka, Bangladesh",
+        "id": "001aff55522d96c9",
+        "name": "Dhaka",
+        "place_type": "admin",
+        "url": "https://api.twitter.com/1.1/geo/id/001aff55522d96c9.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@facebook We respect our governments Law but Please do something for us because we are Suffering for governments restriction on @facebook",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Jan 12 09:42:08 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "I am an Electrical and Electronic Engineer and I am Always happy and friendly. I love to create new friends.\nhttps://t.co/GmW4GnBxiX\nSkype: faisal.ahamed444",
+        "entities": {
+            "description": {
+                "urls": [
+                    {
+                        "display_url": "facebook.com/faisal.ahamed.\u2026",
+                        "expanded_url": "https://www.facebook.com/faisal.ahamed.eee",
+                        "indices": [
+                            109,
+                            132
+                        ],
+                        "url": "https://t.co/GmW4GnBxiX"
+                    }
+                ]
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "faisalahamedpueee.wix.com/faisal-ahamed-\u2026",
+                        "expanded_url": "http://faisalahamedpueee.wix.com/faisal-ahamed-pueee",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/tmPIuioTcg"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 1854,
+        "follow_request_sent": false,
+        "followers_count": 215,
+        "following": false,
+        "friends_count": 1264,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 104119531,
+        "id_str": "104119531",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 2,
+        "location": "Dhaka, Bangladesh",
+        "name": "Faisal Ahamed",
+        "notifications": false,
+        "profile_background_color": "EDECE9",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/104119531/1447955802",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/672319850472017921/wQlIde1m_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/672319850472017921/wQlIde1m_normal.png",
+        "profile_link_color": "088253",
+        "profile_sidebar_border_color": "D3D2CF",
+        "profile_sidebar_fill_color": "E3E2DE",
+        "profile_text_color": "634047",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "faisalahamedeee",
+        "statuses_count": 424,
+        "time_zone": "Dhaka",
+        "url": "http://t.co/tmPIuioTcg",
+        "utc_offset": 21600,
+        "verified": false
+    }
+}

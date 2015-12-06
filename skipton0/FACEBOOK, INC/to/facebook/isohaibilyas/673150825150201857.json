@@ -1,0 +1,184 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Dec 05 14:43:57 +0000 2015",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    10,
+                    13
+                ],
+                "text": "JS"
+            },
+            {
+                "indices": [
+                    75,
+                    87
+                ],
+                "text": "programming"
+            },
+            {
+                "indices": [
+                    88,
+                    99
+                ],
+                "text": "javascript"
+            },
+            {
+                "indices": [
+                    100,
+                    112
+                ],
+                "text": "facebookapi"
+            },
+            {
+                "indices": [
+                    113,
+                    122
+                ],
+                "text": "facebook"
+            }
+        ],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "youtube.com/watch?v=x_gLIL\u2026",
+                "expanded_url": "https://www.youtube.com/watch?v=x_gLILTRD_k",
+                "indices": [
+                    50,
+                    73
+                ],
+                "url": "https://t.co/M56yoUecLJ"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 2425151,
+                "id_str": "2425151",
+                "indices": [
+                    0,
+                    9
+                ],
+                "name": "Facebook",
+                "screen_name": "facebook"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 673150825150201857,
+    "id_str": "673150825150201857",
+    "in_reply_to_screen_name": "facebook",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 2425151,
+    "in_reply_to_user_id_str": "2425151",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        69.3288727,
+                        27.7082259
+                    ],
+                    [
+                        75.3821239,
+                        27.7082259
+                    ],
+                    [
+                        75.3821239,
+                        34.019989
+                    ],
+                    [
+                        69.3288727,
+                        34.019989
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "\u067e\u0627\u06a9\u0633\u062a\u0627\u0646",
+        "country_code": "PK",
+        "full_name": "Punjab, Pakistan",
+        "id": "00cc0d5640394308",
+        "name": "Punjab",
+        "place_type": "admin",
+        "url": "https://api.twitter.com/1.1/geo/id/00cc0d5640394308.json"
+    },
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@Facebook #JS SDK: Login and Get Basic User Info\n\nhttps://t.co/M56yoUecLJ\n\n#programming #javascript #facebookapi #facebook",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Aug 24 06:13:59 +0000 2012",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Human, Muslim, Pakistani, Programmer, Artist",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "sohaibilyas.com",
+                        "expanded_url": "http://sohaibilyas.com",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/i4RW5jx8Rs"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 428,
+        "follow_request_sent": false,
+        "followers_count": 173,
+        "following": false,
+        "friends_count": 15,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 777537367,
+        "id_str": "777537367",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 18,
+        "location": "Faisalabad, Pakistan",
+        "name": "Sohaib Ilyas (Roomi)",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/777537367/1444930098",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/647689388223279104/e7ODijvO_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/647689388223279104/e7ODijvO_normal.jpg",
+        "profile_link_color": "4A913C",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "isohaibilyas",
+        "statuses_count": 1268,
+        "time_zone": "Karachi",
+        "url": "http://t.co/i4RW5jx8Rs",
+        "utc_offset": 18000,
+        "verified": false
+    }
+}

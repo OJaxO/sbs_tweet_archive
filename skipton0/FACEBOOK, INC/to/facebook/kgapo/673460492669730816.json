@@ -1,0 +1,280 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Dec 06 11:14:28 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/ePatientDave/s\u2026",
+                "expanded_url": "https://twitter.com/ePatientDave/status/673338946005282816",
+                "indices": [
+                    116,
+                    139
+                ],
+                "url": "https://t.co/BGhc6sCEzO"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 2425151,
+                "id_str": "2425151",
+                "indices": [
+                    0,
+                    9
+                ],
+                "name": "Facebook",
+                "screen_name": "facebook"
+            },
+            {
+                "id": 783214,
+                "id_str": "783214",
+                "indices": [
+                    10,
+                    18
+                ],
+                "name": "Twitter",
+                "screen_name": "twitter"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 673460492669730816,
+    "id_str": "673460492669730816",
+    "in_reply_to_screen_name": "facebook",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 2425151,
+    "in_reply_to_user_id_str": "2425151",
+    "is_quote_status": true,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": null,
+    "possibly_sensitive": false,
+    "quoted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Sun Dec 06 03:11:29 +0000 2015",
+        "entities": {
+            "hashtags": [],
+            "media": [
+                {
+                    "display_url": "pic.twitter.com/fImGgoGlsz",
+                    "expanded_url": "http://twitter.com/ePatientDave/status/673338946005282816/photo/1",
+                    "id": 673338399194030080,
+                    "id_str": "673338399194030080",
+                    "indices": [
+                        116,
+                        139
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/CVgttOGXIAA-LM8.png",
+                    "media_url_https": "https://pbs.twimg.com/media/CVgttOGXIAA-LM8.png",
+                    "sizes": {
+                        "large": {
+                            "h": 525,
+                            "resize": "fit",
+                            "w": 1024
+                        },
+                        "medium": {
+                            "h": 307,
+                            "resize": "fit",
+                            "w": 600
+                        },
+                        "small": {
+                            "h": 174,
+                            "resize": "fit",
+                            "w": 340
+                        },
+                        "thumb": {
+                            "h": 150,
+                            "resize": "crop",
+                            "w": 150
+                        }
+                    },
+                    "type": "photo",
+                    "url": "https://t.co/fImGgoGlsz"
+                }
+            ],
+            "symbols": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "id": 2425151,
+                    "id_str": "2425151",
+                    "indices": [
+                        4,
+                        13
+                    ],
+                    "name": "Facebook",
+                    "screen_name": "facebook"
+                },
+                {
+                    "id": 18244332,
+                    "id_str": "18244332",
+                    "indices": [
+                        109,
+                        115
+                    ],
+                    "name": "Brian Ahier",
+                    "screen_name": "ahier"
+                }
+            ]
+        },
+        "favorite_count": 4,
+        "favorited": false,
+        "geo": null,
+        "id": 673338946005282816,
+        "id_str": "673338946005282816",
+        "in_reply_to_screen_name": null,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "is_quote_status": false,
+        "lang": "en",
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "place": null,
+        "possibly_sensitive": false,
+        "retweet_count": 1,
+        "retweeted": false,
+        "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+        "text": "For @Facebook's insane \"real names\" lockout I just submitted this: their own \"public figure\" page on me. Thx @Ahier https://t.co/fImGgoGlsz",
+        "truncated": false,
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Fri Feb 29 21:56:17 +0000 2008",
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "International patient engagement advocate, speaker, author of Let Patients Help: A Patient Engagement Handbook, blogger",
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "epatientdave.com",
+                            "expanded_url": "http://epatientdave.com",
+                            "indices": [
+                                0,
+                                22
+                            ],
+                            "url": "http://t.co/k7AHomqseC"
+                        }
+                    ]
+                }
+            },
+            "favourites_count": 212,
+            "follow_request_sent": false,
+            "followers_count": 30013,
+            "following": false,
+            "friends_count": 2306,
+            "geo_enabled": true,
+            "has_extended_profile": false,
+            "id": 14062221,
+            "id_str": "14062221",
+            "is_translation_enabled": false,
+            "is_translator": false,
+            "lang": "en",
+            "listed_count": 1771,
+            "location": "Boston based",
+            "name": "Dave deBronkart",
+            "notifications": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/14062221/1403795195",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/637611759273160706/WA6gB8f2_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/637611759273160706/WA6gB8f2_normal.jpg",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "ePatientDave",
+            "statuses_count": 54822,
+            "time_zone": "Eastern Time (US & Canada)",
+            "url": "http://t.co/k7AHomqseC",
+            "utc_offset": -18000,
+            "verified": false
+        }
+    },
+    "quoted_status_id": 673338946005282816,
+    "quoted_status_id_str": "673338946005282816",
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@facebook @twitter R just insane as u rightly said, i/o of protecting us fm spam they suspend more thn real persons https://t.co/BGhc6sCEzO",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Sep 06 08:02:19 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "@kgapo=@epatientGR swallowed by Twitter without excuse. Health policies, e-health, cancer & patient rights advocacy, NPs governance,SM for healthcare & NPs.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "about.me/kgapo",
+                        "expanded_url": "http://about.me/kgapo",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/wlJXwi3bFA"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 1636,
+        "follow_request_sent": false,
+        "followers_count": 2332,
+        "following": false,
+        "friends_count": 1251,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 187453356,
+        "id_str": "187453356",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 307,
+        "location": "Athens, Greece",
+        "name": "Kathi Apostolidis",
+        "notifications": false,
+        "profile_background_color": "8AD1AA",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/717501854/4678ad1048fd2a64c3b51bbc3705d3c6.png",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/717501854/4678ad1048fd2a64c3b51bbc3705d3c6.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/187453356/1404834215",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/662915447122079744/rGkrifO3_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/662915447122079744/rGkrifO3_normal.png",
+        "profile_link_color": "EF710D",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "DE795A",
+        "profile_text_color": "A6B48F",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "kgapo",
+        "statuses_count": 29271,
+        "time_zone": "Athens",
+        "url": "http://t.co/wlJXwi3bFA",
+        "utc_offset": 7200,
+        "verified": false
+    }
+}
