@@ -1,0 +1,124 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Dec 05 13:33:52 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 35737385,
+                "id_str": "35737385",
+                "indices": [
+                    0,
+                    7
+                ],
+                "name": "BT",
+                "screen_name": "BTCare"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 673133186713575424,
+    "id_str": "673133186713575424",
+    "in_reply_to_screen_name": "BTCare",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 35737385,
+    "in_reply_to_user_id_str": "35737385",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -0.259465,
+                        51.417277
+                    ],
+                    [
+                        -0.127974,
+                        51.417277
+                    ],
+                    [
+                        -0.127974,
+                        51.486036
+                    ],
+                    [
+                        -0.259465,
+                        51.486036
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United Kingdom",
+        "country_code": "GB",
+        "full_name": "Wandsworth, London",
+        "id": "460c5314e8a33c64",
+        "name": "Wandsworth",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/460c5314e8a33c64.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@BTCare 2 weeks since order &amp;still no internet, no phone, no callback on complaint, charged double what we signed up for. Sky anyone?",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Jan 06 16:40:32 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Irish girl in London, runner, dog person and nail-polish addict, eating my way around Brixton. Also Deputy Chief Sub-Editor @CosmopolitanUK",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 71,
+        "follow_request_sent": false,
+        "followers_count": 793,
+        "following": false,
+        "friends_count": 1356,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 234810800,
+        "id_str": "234810800",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 26,
+        "location": "London, UK",
+        "name": "Katie Teehan",
+        "notifications": false,
+        "profile_background_color": "ACDED6",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/234810800/1434983898",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/612992352328777729/cxTY1tfx_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/612992352328777729/cxTY1tfx_normal.jpg",
+        "profile_link_color": "038543",
+        "profile_sidebar_border_color": "EEEEEE",
+        "profile_sidebar_fill_color": "F6F6F6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Katie_Teehan",
+        "statuses_count": 3541,
+        "time_zone": "Dublin",
+        "url": null,
+        "utc_offset": 0,
+        "verified": false
+    }
+}
