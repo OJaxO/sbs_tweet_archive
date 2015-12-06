@@ -1,0 +1,151 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Dec 05 23:40:57 +0000 2015",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    58,
+                    68
+                ],
+                "text": "Liverpool"
+            },
+            {
+                "indices": [
+                    69,
+                    77
+                ],
+                "text": "airport"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 38676903,
+                "id_str": "38676903",
+                "indices": [
+                    0,
+                    8
+                ],
+                "name": "easyJet",
+                "screen_name": "easyJet"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 673285962412204032,
+    "id_str": "673285962412204032",
+    "in_reply_to_screen_name": "easyJet",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 38676903,
+    "in_reply_to_user_id_str": "38676903",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -2.940659,
+                        53.331287
+                    ],
+                    [
+                        -2.818002,
+                        53.331287
+                    ],
+                    [
+                        -2.818002,
+                        53.38523
+                    ],
+                    [
+                        -2.940659,
+                        53.38523
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United Kingdom",
+        "country_code": "GB",
+        "full_name": "Garston, England",
+        "id": "12f69ad404352073",
+        "name": "Garston",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/12f69ad404352073.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@easyJet left my duty free under seat 4B on a flight into #Liverpool #airport from Fuerteventura can I do anything to get it back?",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Oct 08 02:22:19 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Studying Journalism at LJMU",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "christy-jade.co.uk",
+                        "expanded_url": "http://www.christy-jade.co.uk",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/itm7o8pXRb"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 681,
+        "follow_request_sent": false,
+        "followers_count": 288,
+        "following": false,
+        "friends_count": 395,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 80743145,
+        "id_str": "80743145",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 2,
+        "location": "Wirral",
+        "name": "Christy Jade Biggar",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/101764750/OH__24_.JPG",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/101764750/OH__24_.JPG",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/488003201439117312/Bq2jodIQ_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/488003201439117312/Bq2jodIQ_normal.jpeg",
+        "profile_link_color": "0AF0F0",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "EB4D4D",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "CHRISTYJADE",
+        "statuses_count": 1917,
+        "time_zone": "London",
+        "url": "http://t.co/itm7o8pXRb",
+        "utc_offset": 0,
+        "verified": false
+    }
+}

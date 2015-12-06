@@ -1,0 +1,145 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Dec 05 20:33:28 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "theguardian.com/business/2015/\u2026",
+                "expanded_url": "http://www.theguardian.com/business/2015/dec/05/easyjet-complaints-compensation-claims-denied",
+                "indices": [
+                    112,
+                    135
+                ],
+                "url": "https://t.co/mLCwgZNL5D"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 38676903,
+                "id_str": "38676903",
+                "indices": [
+                    1,
+                    9
+                ],
+                "name": "easyJet",
+                "screen_name": "easyJet"
+            },
+            {
+                "id": 87818409,
+                "id_str": "87818409",
+                "indices": [
+                    52,
+                    61
+                ],
+                "name": "The Guardian",
+                "screen_name": "guardian"
+            }
+        ]
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": null,
+    "id": 673238782196477952,
+    "id_str": "673238782196477952",
+    "in_reply_to_screen_name": "easyJet",
+    "in_reply_to_status_id": 673227311362220033,
+    "in_reply_to_status_id_str": "673227311362220033",
+    "in_reply_to_user_id": 38676903,
+    "in_reply_to_user_id_str": "38676903",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -0.1420579,
+                        51.5185518
+                    ],
+                    [
+                        -0.076305,
+                        51.5185518
+                    ],
+                    [
+                        -0.076305,
+                        51.575301
+                    ],
+                    [
+                        -0.1420579,
+                        51.575301
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United Kingdom",
+        "country_code": "GB",
+        "full_name": "Islington, London",
+        "id": "544762ebf7fda780",
+        "name": "Islington",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/544762ebf7fda780.json"
+    },
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": ".@easyJet sorry not sure you read my 2nd tweet - tx @guardian today I know I'm not the only frustrated customer https://t.co/mLCwgZNL5D",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Nov 11 14:59:43 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "energising, networking, and socialising in Wales/ ychwanegu ynni, rhwydweithio a chymdeithasu yng Nghymru - my views/ fy marn",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 656,
+        "follow_request_sent": false,
+        "followers_count": 1847,
+        "following": false,
+        "friends_count": 1381,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 89202487,
+        "id_str": "89202487",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 67,
+        "location": "Wales",
+        "name": "Nick Speed",
+        "notifications": false,
+        "profile_background_color": "119977",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/137132349/Twitter_background_pic.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/137132349/Twitter_background_pic.jpg",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/89202487/1436727003",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/620309056306196480/SeeIR_Mm_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/620309056306196480/SeeIR_Mm_normal.jpg",
+        "profile_link_color": "119977",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "speedupdating",
+        "statuses_count": 6843,
+        "time_zone": "Amsterdam",
+        "url": null,
+        "utc_offset": 3600,
+        "verified": false
+    }
+}

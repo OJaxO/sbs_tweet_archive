@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Dec 05 12:24:28 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 38676903,
+                "id_str": "38676903",
+                "indices": [
+                    0,
+                    8
+                ],
+                "name": "easyJet",
+                "screen_name": "easyJet"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 673115723091353600,
+    "id_str": "673115723091353600",
+    "in_reply_to_screen_name": "easyJet",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 38676903,
+    "in_reply_to_user_id_str": "38676903",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        6.6794158,
+                        46.1379866
+                    ],
+                    [
+                        6.807108,
+                        46.1379866
+                    ],
+                    [
+                        6.807108,
+                        46.2059453
+                    ],
+                    [
+                        6.6794158,
+                        46.2059453
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "France",
+        "country_code": "FR",
+        "full_name": "Morzine, Rh\u00f4ne-Alpes",
+        "id": "3ba52dcfb52cfccf",
+        "name": "Morzine",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/3ba52dcfb52cfccf.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@easyJet how does it cost more for my baby to fly that it does me when he does not even have a seat? GVA to NCL in January.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu May 09 16:10:24 +0000 2013",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Independent clothing label born in the French Alps. Almost Authentic clothing range. #CounterfeitCo.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "counterfeit-clothing.com",
+                        "expanded_url": "http://www.counterfeit-clothing.com",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/ihayw6JHL8"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 3716,
+        "follow_request_sent": false,
+        "followers_count": 748,
+        "following": false,
+        "friends_count": 627,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 1415852340,
+        "id_str": "1415852340",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 9,
+        "location": "Morzine, France",
+        "name": "Counterfeit Clothing",
+        "notifications": false,
+        "profile_background_color": "FFFFFF",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/864282258/2c3a5bf529a1659cce249901a88dfc60.png",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/864282258/2c3a5bf529a1659cce249901a88dfc60.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1415852340/1430320214",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/593432007801176064/PRqNcQyN_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/593432007801176064/PRqNcQyN_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "CounterfeitCo",
+        "statuses_count": 3461,
+        "time_zone": "Paris",
+        "url": "http://t.co/ihayw6JHL8",
+        "utc_offset": 3600,
+        "verified": false
+    }
+}
