@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Dec 04 10:48:28 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 79962986,
+                "id_str": "79962986",
+                "indices": [
+                    0,
+                    6
+                ],
+                "name": "Total",
+                "screen_name": "Total"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 672729174239395841,
+    "id_str": "672729174239395841",
+    "in_reply_to_screen_name": "Total",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 79962986,
+    "in_reply_to_user_id_str": "79962986",
+    "is_quote_status": false,
+    "lang": "und",
+    "metadata": {
+        "iso_language_code": "und",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        120.9741053,
+                        14.4333272
+                    ],
+                    [
+                        121.0475014,
+                        14.4333272
+                    ],
+                    [
+                        121.0475014,
+                        14.5335013
+                    ],
+                    [
+                        120.9741053,
+                        14.5335013
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "Republika ng Pilipinas",
+        "country_code": "PH",
+        "full_name": "Paranaque City, National Capital Region",
+        "id": "004f3727016f9b5c",
+        "name": "Paranaque City",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/004f3727016f9b5c.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@total.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Nov 23 13:06:36 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Olivarian \u2716\ufe0f Princess \u2716\ufe0f dad's girl \u2716\ufe0f cool kid \u2716\ufe0f driver \u2716\ufe0f loyal \u2716\ufe0f bitch \u2763",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "facebook.com/kurt.alejo",
+                        "expanded_url": "http://www.facebook.com/kurt.alejo",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/uGQEYe3U8R"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 5518,
+        "follow_request_sent": false,
+        "followers_count": 260,
+        "following": false,
+        "friends_count": 108,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 92014430,
+        "id_str": "92014430",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 2,
+        "location": "",
+        "name": "LAURA ",
+        "notifications": false,
+        "profile_background_color": "FF6699",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/502830570963861504/3MPXRlAd.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/502830570963861504/3MPXRlAd.jpeg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/92014430/1448642606",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/672947787944747008/jlzCNrwG_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/672947787944747008/jlzCNrwG_normal.jpg",
+        "profile_link_color": "FF7DA8",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "E5507E",
+        "profile_text_color": "362720",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "iamcurtie",
+        "statuses_count": 5711,
+        "time_zone": "Singapore",
+        "url": "https://t.co/uGQEYe3U8R",
+        "utc_offset": 28800,
+        "verified": false
+    }
+}
