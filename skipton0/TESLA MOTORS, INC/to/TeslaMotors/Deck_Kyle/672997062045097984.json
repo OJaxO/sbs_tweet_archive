@@ -1,0 +1,341 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Dec 05 04:32:57 +0000 2015",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    13,
+                    21
+                ],
+                "text": "amazing"
+            },
+            {
+                "indices": [
+                    22,
+                    33
+                ],
+                "text": "technology"
+            },
+            {
+                "indices": [
+                    53,
+                    64
+                ],
+                "text": "worldclass"
+            },
+            {
+                "indices": [
+                    77,
+                    89
+                ],
+                "text": "GameChanger"
+            }
+        ],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/wired/status/6\u2026",
+                "expanded_url": "https://twitter.com/wired/status/672963187025793024",
+                "indices": [
+                    113,
+                    136
+                ],
+                "url": "https://t.co/0I1GGl6tIx"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 13298072,
+                "id_str": "13298072",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "Tesla Motors",
+                "screen_name": "TeslaMotors"
+            },
+            {
+                "id": 57016932,
+                "id_str": "57016932",
+                "indices": [
+                    65,
+                    73
+                ],
+                "name": "Porsche",
+                "screen_name": "Porsche"
+            },
+            {
+                "id": 95206260,
+                "id_str": "95206260",
+                "indices": [
+                    101,
+                    111
+                ],
+                "name": "MotorWeek",
+                "screen_name": "MotorWeek"
+            }
+        ]
+    },
+    "favorite_count": 2,
+    "favorited": false,
+    "geo": null,
+    "id": 672997062045097984,
+    "id_str": "672997062045097984",
+    "in_reply_to_screen_name": "TeslaMotors",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 13298072,
+    "in_reply_to_user_id_str": "13298072",
+    "is_quote_status": true,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -90.827471,
+                        38.740475
+                    ],
+                    [
+                        -90.745133,
+                        38.740475
+                    ],
+                    [
+                        -90.745133,
+                        38.818803
+                    ],
+                    [
+                        -90.827471,
+                        38.818803
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Lake St Louis, MO",
+        "id": "49d90677d36d121f",
+        "name": "Lake St Louis",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/49d90677d36d121f.json"
+    },
+    "possibly_sensitive": false,
+    "quoted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Sat Dec 05 02:18:21 +0000 2015",
+        "entities": {
+            "hashtags": [],
+            "media": [
+                {
+                    "display_url": "pic.twitter.com/3ryh2KvX4w",
+                    "expanded_url": "http://twitter.com/WIRED/status/672963187025793024/photo/1",
+                    "id": 672963186568667136,
+                    "id_str": "672963186568667136",
+                    "indices": [
+                        88,
+                        111
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/CVbYc-JXIAAeN6E.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/CVbYc-JXIAAeN6E.jpg",
+                    "sizes": {
+                        "large": {
+                            "h": 621,
+                            "resize": "fit",
+                            "w": 932
+                        },
+                        "medium": {
+                            "h": 399,
+                            "resize": "fit",
+                            "w": 600
+                        },
+                        "small": {
+                            "h": 226,
+                            "resize": "fit",
+                            "w": 340
+                        },
+                        "thumb": {
+                            "h": 150,
+                            "resize": "crop",
+                            "w": 150
+                        }
+                    },
+                    "type": "photo",
+                    "url": "https://t.co/3ryh2KvX4w"
+                }
+            ],
+            "symbols": [],
+            "urls": [
+                {
+                    "display_url": "wrd.cm/1R03gHM",
+                    "expanded_url": "http://wrd.cm/1R03gHM",
+                    "indices": [
+                        64,
+                        87
+                    ],
+                    "url": "https://t.co/SwUcfvLISX"
+                }
+            ],
+            "user_mentions": []
+        },
+        "favorite_count": 307,
+        "favorited": false,
+        "geo": null,
+        "id": 672963187025793024,
+        "id_str": "672963187025793024",
+        "in_reply_to_screen_name": null,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "is_quote_status": false,
+        "lang": "en",
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "place": null,
+        "possibly_sensitive": false,
+        "retweet_count": 225,
+        "retweeted": false,
+        "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+        "text": "Porsche\u2019s Electric Mission E is poised to whoop Tesla\u2019s Model S https://t.co/SwUcfvLISX https://t.co/3ryh2KvX4w",
+        "truncated": false,
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Sat Mar 17 09:57:25 +0000 2007",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "WIRED is where tomorrow is realized.",
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "WIRED.com",
+                            "expanded_url": "http://WIRED.com",
+                            "indices": [
+                                0,
+                                22
+                            ],
+                            "url": "http://t.co/AbRkBRjcYo"
+                        }
+                    ]
+                }
+            },
+            "favourites_count": 1685,
+            "follow_request_sent": false,
+            "followers_count": 5378234,
+            "following": false,
+            "friends_count": 249,
+            "geo_enabled": false,
+            "has_extended_profile": false,
+            "id": 1344951,
+            "id_str": "1344951",
+            "is_translation_enabled": true,
+            "is_translator": false,
+            "lang": "en",
+            "listed_count": 83698,
+            "location": "San Francisco/New York",
+            "name": "WIRED",
+            "notifications": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/734548027/5e5ee18945d22a9e2d9971208971bfdd.jpeg",
+            "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/734548027/5e5ee18945d22a9e2d9971208971bfdd.jpeg",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1344951/1447702560",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/615598832726970372/jsK-gBSt_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/615598832726970372/jsK-gBSt_normal.png",
+            "profile_link_color": "99DCF0",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "EEEEEE",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "protected": false,
+            "screen_name": "WIRED",
+            "statuses_count": 53588,
+            "time_zone": "Pacific Time (US & Canada)",
+            "url": "http://t.co/AbRkBRjcYo",
+            "utc_offset": -28800,
+            "verified": true
+        }
+    },
+    "quoted_status_id": 672963187025793024,
+    "quoted_status_id_str": "672963187025793024",
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@TeslaMotors #amazing #technology but adding that to #worldclass @Porsche... #GameChanger Can't wait @MotorWeek  https://t.co/0I1GGl6tIx",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Sep 20 17:44:48 +0000 2012",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Cisco Account Manager, Golfer, Gear head, Geek - My posts are my own.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "cisco.com",
+                        "expanded_url": "http://www.cisco.com",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/fbhKABiJPl"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 403,
+        "follow_request_sent": false,
+        "followers_count": 78,
+        "following": false,
+        "friends_count": 150,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 836034421,
+        "id_str": "836034421",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 4,
+        "location": "St Louis, MO",
+        "name": "Kyle Decker",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/836034421/1418398918",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/472934465065349120/AAcwfqTZ_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/472934465065349120/AAcwfqTZ_normal.jpeg",
+        "profile_link_color": "0051B3",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Deck_Kyle",
+        "statuses_count": 179,
+        "time_zone": null,
+        "url": "http://t.co/fbhKABiJPl",
+        "utc_offset": null,
+        "verified": false
+    }
+}
