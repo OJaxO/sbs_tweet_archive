@@ -1,0 +1,149 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Dec 03 23:41:45 +0000 2015",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    93,
+                    100
+                ],
+                "text": "TheWiz"
+            },
+            {
+                "indices": [
+                    101,
+                    114
+                ],
+                "text": "straightbull"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 89587925,
+                "id_str": "89587925",
+                "indices": [
+                    0,
+                    8
+                ],
+                "name": "Comcast",
+                "screen_name": "comcast"
+            },
+            {
+                "id": 3991222275,
+                "id_str": "3991222275",
+                "indices": [
+                    60,
+                    74
+                ],
+                "name": "The Wiz Live!",
+                "screen_name": "nbcthewizlive"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 672561388078895104,
+    "id_str": "672561388078895104",
+    "in_reply_to_screen_name": "comcast",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 89587925,
+    "in_reply_to_user_id_str": "89587925",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -81.631306,
+                        30.711204
+                    ],
+                    [
+                        -81.520794,
+                        30.711204
+                    ],
+                    [
+                        -81.520794,
+                        30.824365
+                    ],
+                    [
+                        -81.631306,
+                        30.824365
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "St Marys, GA",
+        "id": "0065a394186ea4c0",
+        "name": "St Marys",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/0065a394186ea4c0.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@comcast claims to be down until 9:45 P.M... how convenient @nbcthewizlive comes on at 8.. \ud83d\ude12 #TheWiz #straightbull",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun May 06 03:38:39 +0000 2012",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "IG: \u2192 @ibejazzie\u2190& \u2192@jazzieyoga \u2190",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 120,
+        "follow_request_sent": false,
+        "followers_count": 103,
+        "following": false,
+        "friends_count": 442,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 572282005,
+        "id_str": "572282005",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 3,
+        "location": "757\u2192904",
+        "name": "Chell\u00ed\u2122",
+        "notifications": false,
+        "profile_background_color": "FF96D5",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000090548376/ac77782ad7ef2a0edaa72deb3af115ae.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000090548376/ac77782ad7ef2a0edaa72deb3af115ae.jpeg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/572282005/1421521921",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/641280701757825031/owETnTMQ_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/641280701757825031/owETnTMQ_normal.jpg",
+        "profile_link_color": "D6C5DF",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "C6FFB8",
+        "profile_text_color": "8AFFF9",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "JasmineMichelli",
+        "statuses_count": 3904,
+        "time_zone": "Eastern Time (US & Canada)",
+        "url": null,
+        "utc_offset": -18000,
+        "verified": false
+    }
+}

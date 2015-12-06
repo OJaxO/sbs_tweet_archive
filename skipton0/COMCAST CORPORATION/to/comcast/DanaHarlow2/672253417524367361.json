@@ -1,0 +1,123 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Dec 03 03:17:59 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 89587925,
+                "id_str": "89587925",
+                "indices": [
+                    0,
+                    8
+                ],
+                "name": "Comcast",
+                "screen_name": "comcast"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 672253417524367361,
+    "id_str": "672253417524367361",
+    "in_reply_to_screen_name": "comcast",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 89587925,
+    "in_reply_to_user_id_str": "89587925",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -122.293347,
+                        38.060373
+                    ],
+                    [
+                        -122.1670984,
+                        38.060373
+                    ],
+                    [
+                        -122.1670984,
+                        38.169181
+                    ],
+                    [
+                        -122.293347,
+                        38.169181
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Vallejo, CA",
+        "id": "7b5667de9caf1b92",
+        "name": "Vallejo",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/7b5667de9caf1b92.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@comcast  advert for 25mps when u only give 4mps on a good day makes u a fraud, nvr showing up 2 fix your service makes u a douchebag.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Jun 21 02:59:59 +0000 2014",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Quite, funny, introverted traveler",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 69,
+        "follow_request_sent": false,
+        "followers_count": 2,
+        "following": false,
+        "friends_count": 16,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 2579714473,
+        "id_str": "2579714473",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 0,
+        "location": "",
+        "name": "Dana Harlow",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/480190583357464578/sdUxrb7o_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/480190583357464578/sdUxrb7o_normal.jpeg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "DanaHarlow2",
+        "statuses_count": 4,
+        "time_zone": "Tijuana",
+        "url": null,
+        "utc_offset": -28800,
+        "verified": false
+    }
+}

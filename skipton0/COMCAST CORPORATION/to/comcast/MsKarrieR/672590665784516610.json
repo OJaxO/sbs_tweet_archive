@@ -1,0 +1,132 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Dec 04 01:38:05 +0000 2015",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    53,
+                    60
+                ],
+                "text": "TheWiz"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 89587925,
+                "id_str": "89587925",
+                "indices": [
+                    0,
+                    8
+                ],
+                "name": "Comcast",
+                "screen_name": "comcast"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 672590665784516610,
+    "id_str": "672590665784516610",
+    "in_reply_to_screen_name": "comcast",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 89587925,
+    "in_reply_to_user_id_str": "89587925",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -84.197462,
+                        33.7142489
+                    ],
+                    [
+                        -84.115297,
+                        33.7142489
+                    ],
+                    [
+                        -84.115297,
+                        33.761826
+                    ],
+                    [
+                        -84.197462,
+                        33.761826
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Redan, GA",
+        "id": "b39bbbbd69b97fc0",
+        "name": "Redan",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/b39bbbbd69b97fc0.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@comcast better get it together! I'm trying to watch #TheWiz \ud83d\ude20\ud83d\ude20\ud83d\ude20",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Apr 15 18:23:56 +0000 2009",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Public Health Advocate/STD and HIV Disease Interventionist",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 736,
+        "follow_request_sent": false,
+        "followers_count": 251,
+        "following": false,
+        "friends_count": 910,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 31475497,
+        "id_str": "31475497",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 4,
+        "location": "Miami \u2708\u2708\u2708 Atlanta",
+        "name": "I'm Inspired",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/31475497/1440024478",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/597930488020520960/S9WqgAYT_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/597930488020520960/S9WqgAYT_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "MsKarrieR",
+        "statuses_count": 6083,
+        "time_zone": "Eastern Time (US & Canada)",
+        "url": null,
+        "utc_offset": -18000,
+        "verified": false
+    }
+}

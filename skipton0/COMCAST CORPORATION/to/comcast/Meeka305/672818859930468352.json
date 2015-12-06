@@ -1,0 +1,124 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Dec 04 16:44:51 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 89587925,
+                "id_str": "89587925",
+                "indices": [
+                    0,
+                    8
+                ],
+                "name": "Comcast",
+                "screen_name": "comcast"
+            }
+        ]
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": null,
+    "id": 672818859930468352,
+    "id_str": "672818859930468352",
+    "in_reply_to_screen_name": "comcast",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 89587925,
+    "in_reply_to_user_id_str": "89587925",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -80.20811,
+                        26.080935
+                    ],
+                    [
+                        -80.0902351,
+                        26.080935
+                    ],
+                    [
+                        -80.0902351,
+                        26.219801
+                    ],
+                    [
+                        -80.20811,
+                        26.219801
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Fort Lauderdale, FL",
+        "id": "6c686af766d8429c",
+        "name": "Fort Lauderdale",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/6c686af766d8429c.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@comcast WORST CUSTOMER SERVICE EVER! \n\nWas on the phone for an hour! 60 whole minutes! For nothing!",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Jun 04 17:17:19 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "If you have to ask if it's too early to drink wine. .you're an amateur and we can't be friends. | MBA 2016 |",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 398,
+        "follow_request_sent": false,
+        "followers_count": 292,
+        "following": false,
+        "friends_count": 265,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 151947042,
+        "id_str": "151947042",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 1,
+        "location": "S. FLA ",
+        "name": "\u2133.",
+        "notifications": false,
+        "profile_background_color": "0F3D37",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000005599074/1c7f1cc3f88e2d4384db43ecd5eb5abd.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000005599074/1c7f1cc3f88e2d4384db43ecd5eb5abd.jpeg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/151947042/1445893140",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/671512345743597568/yVUtyYR3_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/671512345743597568/yVUtyYR3_normal.jpg",
+        "profile_link_color": "078B28",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "0F3D37",
+        "profile_text_color": "D30D0D",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Meeka305",
+        "statuses_count": 14102,
+        "time_zone": "Eastern Time (US & Canada)",
+        "url": null,
+        "utc_offset": -18000,
+        "verified": false
+    }
+}
