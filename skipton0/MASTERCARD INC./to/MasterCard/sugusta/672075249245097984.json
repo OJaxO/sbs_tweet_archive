@@ -1,0 +1,163 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Dec 02 15:30:00 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "media": [
+            {
+                "display_url": "pic.twitter.com/o7gVQ2CngU",
+                "expanded_url": "http://twitter.com/sugusta/status/672075249245097984/photo/1",
+                "id": 672075240936251392,
+                "id_str": "672075240936251392",
+                "indices": [
+                    101,
+                    124
+                ],
+                "media_url": "http://pbs.twimg.com/media/CVOw3u5XIAARhYq.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/CVOw3u5XIAARhYq.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 1024,
+                        "resize": "fit",
+                        "w": 768
+                    },
+                    "medium": {
+                        "h": 800,
+                        "resize": "fit",
+                        "w": 600
+                    },
+                    "small": {
+                        "h": 453,
+                        "resize": "fit",
+                        "w": 340
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/o7gVQ2CngU"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 75014376,
+                "id_str": "75014376",
+                "indices": [
+                    0,
+                    11
+                ],
+                "name": "MasterCard ",
+                "screen_name": "MasterCard"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 672075249245097984,
+    "id_str": "672075249245097984",
+    "in_reply_to_screen_name": "MasterCard",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 75014376,
+    "in_reply_to_user_id_str": "75014376",
+    "is_quote_status": false,
+    "lang": "es",
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -58.5317922,
+                        -34.674453
+                    ],
+                    [
+                        -58.353494,
+                        -34.674453
+                    ],
+                    [
+                        -58.353494,
+                        -34.534177
+                    ],
+                    [
+                        -58.5317922,
+                        -34.534177
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "Argentina",
+        "country_code": "AR",
+        "full_name": "Ciudad Aut\u00f3noma de Buenos Aires, Argentina",
+        "id": "018f1cde6bad9747",
+        "name": "Ciudad Aut\u00f3noma de Buenos Aires",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/018f1cde6bad9747.json"
+    },
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@MasterCard son un papelon. Estoy hace 11 minutos colgada en el telefono. Falta de respeto absoluta. https://t.co/o7gVQ2CngU",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Mar 30 02:11:52 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Un poco de todo y mucho de nada. Veggie, pero *pulgar arriba* a las cosas que vienen de seres con ojos. Helado, sos todo \u2661.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 8395,
+        "follow_request_sent": false,
+        "followers_count": 259,
+        "following": false,
+        "friends_count": 207,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 274280722,
+        "id_str": "274280722",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 5,
+        "location": "Buenos Aires - Lincoln.",
+        "name": "Miss Agus",
+        "notifications": false,
+        "profile_background_color": "F5ABB5",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/559086077441351681/0tGOe0TM.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/559086077441351681/0tGOe0TM.jpeg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/274280722/1427428639",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/589934093065945088/ZGsRMEIU_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/589934093065945088/ZGsRMEIU_normal.jpg",
+        "profile_link_color": "DD2E44",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "7AC3EE",
+        "profile_text_color": "3D1957",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "sugusta",
+        "statuses_count": 7796,
+        "time_zone": "Buenos Aires",
+        "url": null,
+        "utc_offset": -10800,
+        "verified": false
+    }
+}
