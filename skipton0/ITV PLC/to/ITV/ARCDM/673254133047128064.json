@@ -1,0 +1,157 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Dec 05 21:34:28 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 86925202,
+                "id_str": "86925202",
+                "indices": [
+                    0,
+                    4
+                ],
+                "name": "ITV",
+                "screen_name": "ITV"
+            },
+            {
+                "id": 17310915,
+                "id_str": "17310915",
+                "indices": [
+                    5,
+                    18
+                ],
+                "name": "imacelebrity",
+                "screen_name": "imacelebrity"
+            },
+            {
+                "id": 17386885,
+                "id_str": "17386885",
+                "indices": [
+                    19,
+                    29
+                ],
+                "name": "antanddec",
+                "screen_name": "antanddec"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 673254133047128064,
+    "id_str": "673254133047128064",
+    "in_reply_to_screen_name": "ITV",
+    "in_reply_to_status_id": 673252280825593856,
+    "in_reply_to_status_id_str": "673252280825593856",
+    "in_reply_to_user_id": 86925202,
+    "in_reply_to_user_id_str": "86925202",
+    "is_quote_status": false,
+    "lang": "und",
+    "metadata": {
+        "iso_language_code": "und",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -1.744655,
+                        53.657326
+                    ],
+                    [
+                        -1.584689,
+                        53.657326
+                    ],
+                    [
+                        -1.584689,
+                        53.7463127
+                    ],
+                    [
+                        -1.744655,
+                        53.7463127
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United Kingdom",
+        "country_code": "GB",
+        "full_name": "Dewsbury, England",
+        "id": "43dacd36a372f0d8",
+        "name": "Dewsbury",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/43dacd36a372f0d8.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@ITV @imacelebrity @antanddec \ud83d\ude0a",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Jan 17 11:13:42 +0000 2013",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Embrace the power of the internet! @VictoriaIPhelan Email: victoria@arcdm.com #ITSecurity #Mentoring #SocialMedia Strategy and Support! Love good #Music",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "arcdm.com",
+                        "expanded_url": "http://www.arcdm.com",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/CekXyJFFw9"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 166288,
+        "follow_request_sent": false,
+        "followers_count": 3625,
+        "following": false,
+        "friends_count": 2660,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 1097881429,
+        "id_str": "1097881429",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 123,
+        "location": "Yorkshire",
+        "name": "ARC Digital Media",
+        "notifications": false,
+        "profile_background_color": "1A1B1F",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1097881429/1447877172",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/645130808672522240/4gnhQB4M_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/645130808672522240/4gnhQB4M_normal.jpg",
+        "profile_link_color": "0B8A71",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "252429",
+        "profile_text_color": "666666",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "ARCDM",
+        "statuses_count": 117428,
+        "time_zone": "Casablanca",
+        "url": "https://t.co/CekXyJFFw9",
+        "utc_offset": 0,
+        "verified": false
+    }
+}
