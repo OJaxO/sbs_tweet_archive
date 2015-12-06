@@ -1,0 +1,149 @@
+{
+    "contributors": null,
+    "coordinates": {
+        "coordinates": [
+            -118.14259165,
+            34.10810811
+        ],
+        "type": "Point"
+    },
+    "created_at": "Fri Dec 04 15:57:14 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 110782268,
+                "id_str": "110782268",
+                "indices": [
+                    0,
+                    9
+                ],
+                "name": "TWC Help",
+                "screen_name": "TWC_Help"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": {
+        "coordinates": [
+            34.10810811,
+            -118.14259165
+        ],
+        "type": "Point"
+    },
+    "id": 672806876828971009,
+    "id_str": "672806876828971009",
+    "in_reply_to_screen_name": "TWC_Help",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 110782268,
+    "in_reply_to_user_id_str": "110782268",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -118.1783453,
+                        34.0985693
+                    ],
+                    [
+                        -118.134694,
+                        34.0985693
+                    ],
+                    [
+                        -118.134694,
+                        34.125742
+                    ],
+                    [
+                        -118.1783453,
+                        34.125742
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "South Pasadena, CA",
+        "id": "e83d71e042bbfcf7",
+        "name": "South Pasadena",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/e83d71e042bbfcf7.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://www.tweetcaster.com\" rel=\"nofollow\">TweetCaster for Android</a>",
+    "text": "@TWC_Help Los Angeles area; internet has been out for ~4 hours. Map shows outage for nearly half of SoCal. Any ETA on a fix? :(",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Apr 16 17:06:52 +0000 2008",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Also known as Ink the Echidna.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "hamatokameko.com",
+                        "expanded_url": "http://hamatokameko.com",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/YNI7JGPvNJ"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 261,
+        "follow_request_sent": false,
+        "followers_count": 80,
+        "following": false,
+        "friends_count": 178,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 14410226,
+        "id_str": "14410226",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 9,
+        "location": "Los Angeles, California, USA",
+        "name": "Kameko Hamato",
+        "notifications": false,
+        "profile_background_color": "9266CC",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/523243450062233600/1nMIm8UY.png",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/523243450062233600/1nMIm8UY.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/14410226/1413180533",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/624188455799537664/Y99AkuMG_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/624188455799537664/Y99AkuMG_normal.png",
+        "profile_link_color": "4A913C",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "FFA200",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "HamatoKameko",
+        "statuses_count": 8842,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "http://t.co/YNI7JGPvNJ",
+        "utc_offset": -28800,
+        "verified": false
+    }
+}
