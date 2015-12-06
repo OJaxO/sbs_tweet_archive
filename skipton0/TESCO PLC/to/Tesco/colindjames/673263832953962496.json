@@ -1,0 +1,145 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Dec 05 22:13:01 +0000 2015",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    93,
+                    107
+                ],
+                "text": "notgoodenough"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 271986064,
+                "id_str": "271986064",
+                "indices": [
+                    0,
+                    6
+                ],
+                "name": "Tesco",
+                "screen_name": "Tesco"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 673263832953962496,
+    "id_str": "673263832953962496",
+    "in_reply_to_screen_name": "Tesco",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 271986064,
+    "in_reply_to_user_id_str": "271986064",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -0.352202,
+                        51.052243
+                    ],
+                    [
+                        -0.274807,
+                        51.052243
+                    ],
+                    [
+                        -0.274807,
+                        51.0892057
+                    ],
+                    [
+                        -0.352202,
+                        51.0892057
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United Kingdom",
+        "country_code": "GB",
+        "full_name": "Horsham, England",
+        "id": "074898ace1d8ef8a",
+        "name": "Horsham",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/074898ace1d8ef8a.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@Tesco any idea why Tesco Express Brighton Rd Horsham has closed over an hour early again ?? #notgoodenough",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Mar 06 16:27:24 +0000 2011",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "West Ham Season Ticket Holder , Proprietor of Colin James Courier Services and Licensee of The Foresters Arms in Horsham",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "theforestershorsham.co.uk",
+                        "expanded_url": "http://www.theforestershorsham.co.uk",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/UvVegXEbwp"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 1510,
+        "follow_request_sent": false,
+        "followers_count": 34,
+        "following": false,
+        "friends_count": 109,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 261746378,
+        "id_str": "261746378",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 3,
+        "location": "Horsham,West Sussex, UK",
+        "name": "Colin James ",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/261746378/1406066906",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/491706208470827008/EZKzB666_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/491706208470827008/EZKzB666_normal.jpeg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "colindjames",
+        "statuses_count": 557,
+        "time_zone": "London",
+        "url": "http://t.co/UvVegXEbwp",
+        "utc_offset": 0,
+        "verified": false
+    }
+}
