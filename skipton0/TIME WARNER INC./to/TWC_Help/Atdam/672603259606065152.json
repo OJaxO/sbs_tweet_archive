@@ -1,0 +1,147 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Dec 04 02:28:08 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 110782268,
+                "id_str": "110782268",
+                "indices": [
+                    0,
+                    9
+                ],
+                "name": "TWC Help",
+                "screen_name": "TWC_Help"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 672603259606065152,
+    "id_str": "672603259606065152",
+    "in_reply_to_screen_name": "TWC_Help",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 110782268,
+    "in_reply_to_user_id_str": "110782268",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -74.026675,
+                        40.683935
+                    ],
+                    [
+                        -73.910408,
+                        40.683935
+                    ],
+                    [
+                        -73.910408,
+                        40.877483
+                    ],
+                    [
+                        -74.026675,
+                        40.877483
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Manhattan, NY",
+        "id": "01a9a39529b27f36",
+        "name": "Manhattan",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/01a9a39529b27f36.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@TWC_Help sundance HD on channel 94 has no sound it goes in and out",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Sep 09 01:54:30 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Founder of Ballast Projects http://t.co/a6vOZpL5tr, artist, lover, curator, chef, Design Director at @mboothpr",
+        "entities": {
+            "description": {
+                "urls": [
+                    {
+                        "display_url": "ballastprojects.com",
+                        "expanded_url": "http://ballastprojects.com",
+                        "indices": [
+                            28,
+                            50
+                        ],
+                        "url": "http://t.co/a6vOZpL5tr"
+                    }
+                ]
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "ballastprojects.com",
+                        "expanded_url": "http://ballastprojects.com",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/a6vOZpL5tr"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 552,
+        "follow_request_sent": false,
+        "followers_count": 293,
+        "following": false,
+        "friends_count": 603,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 370455107,
+        "id_str": "370455107",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 36,
+        "location": "NEW YORK CITY",
+        "name": "Adam Mignanelli",
+        "notifications": false,
+        "profile_background_color": "1A1B1F",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000071478490/a5fb363aff50e3a7615790325b5b4f08.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000071478490/a5fb363aff50e3a7615790325b5b4f08.jpeg",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/370455107/1390751878",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/427470472507588608/aQEIj3tf_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/427470472507588608/aQEIj3tf_normal.jpeg",
+        "profile_link_color": "2FC2EF",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "Atdam",
+        "statuses_count": 3267,
+        "time_zone": "Quito",
+        "url": "http://t.co/a6vOZpL5tr",
+        "utc_offset": -18000,
+        "verified": false
+    }
+}
