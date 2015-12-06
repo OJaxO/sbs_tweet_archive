@@ -1,0 +1,134 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Dec 05 10:03:00 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 1567914936,
+                "id_str": "1567914936",
+                "indices": [
+                    0,
+                    15
+                ],
+                "name": "Vodafone UK Help",
+                "screen_name": "VodafoneUKhelp"
+            },
+            {
+                "id": 497340309,
+                "id_str": "497340309",
+                "indices": [
+                    85,
+                    98
+                ],
+                "name": "SpotifyCares",
+                "screen_name": "SpotifyCares"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 673080120400322560,
+    "id_str": "673080120400322560",
+    "in_reply_to_screen_name": "VodafoneUKhelp",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 1567914936,
+    "in_reply_to_user_id_str": "1567914936",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -0.3229167,
+                        51.3428601
+                    ],
+                    [
+                        -0.234011,
+                        51.3428601
+                    ],
+                    [
+                        -0.234011,
+                        51.437266
+                    ],
+                    [
+                        -0.3229167,
+                        51.437266
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United Kingdom",
+        "country_code": "GB",
+        "full_name": "Kingston upon Thames, London",
+        "id": "65b23b0045f450f6",
+        "name": "Kingston upon Thames",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/65b23b0045f450f6.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@VodafoneUKhelp How do I get my Spotify included on my account, I've been cut off by @SpotifyCares ? On going saga! \ud83d\ude01\ud83d\ude01\ud83d\ude01",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Mar 09 22:12:17 +0000 2011",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Accountant, 'Imaginary' Accordian player, Tennis Nut, LGBT advocate & Party Girl",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 2764,
+        "follow_request_sent": false,
+        "followers_count": 508,
+        "following": false,
+        "friends_count": 918,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 263360127,
+        "id_str": "263360127",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 10,
+        "location": "Surrey",
+        "name": "Julia Who?",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/263360127/1361733066",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/586606970943234048/EOHioxfZ_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/586606970943234048/EOHioxfZ_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "WhoJulia",
+        "statuses_count": 5553,
+        "time_zone": "London",
+        "url": null,
+        "utc_offset": 0,
+        "verified": false
+    }
+}
