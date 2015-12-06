@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Dec 05 17:26:05 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 13058772,
+                "id_str": "13058772",
+                "indices": [
+                    0,
+                    9
+                ],
+                "name": "LinkedIn",
+                "screen_name": "LinkedIn"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 673191626756374528,
+    "id_str": "673191626756374528",
+    "in_reply_to_screen_name": "LinkedIn",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 13058772,
+    "in_reply_to_user_id_str": "13058772",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -122.7900653,
+                        45.421863
+                    ],
+                    [
+                        -122.471751,
+                        45.421863
+                    ],
+                    [
+                        -122.471751,
+                        45.6509405
+                    ],
+                    [
+                        -122.7900653,
+                        45.6509405
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Portland, OR",
+        "id": "ac88a4f17a51c7fc",
+        "name": "Portland",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/ac88a4f17a51c7fc.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@LinkedIn I create a test account to try some ad features, and you email everyone I've ever emailed with gmail I've joined? What the hell?",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Jul 02 13:18:09 +0000 2008",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "marketing person / Medill IMC alum / tattooer's wife / mom-to-be / book critic / Halloween enthusiast. opinions are my own and usually right.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "jivesoftware.com",
+                        "expanded_url": "http://www.jivesoftware.com",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/lWz0CGOr8d"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 174,
+        "follow_request_sent": false,
+        "followers_count": 515,
+        "following": false,
+        "friends_count": 644,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 15297790,
+        "id_str": "15297790",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 49,
+        "location": "Portland, OR",
+        "name": "alex larralde",
+        "notifications": false,
+        "profile_background_color": "F7FCFB",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/449594292781084672/-ZWadsUl.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/449594292781084672/-ZWadsUl.jpeg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/15297790/1398203723",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/668210450245419008/VIS5TufT_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/668210450245419008/VIS5TufT_normal.jpg",
+        "profile_link_color": "038543",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "F6F6F6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "awlarralde",
+        "statuses_count": 1608,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "https://t.co/lWz0CGOr8d",
+        "utc_offset": -28800,
+        "verified": false
+    }
+}
