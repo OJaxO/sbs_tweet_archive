@@ -1,0 +1,124 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Dec 04 15:42:06 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 96965958,
+                "id_str": "96965958",
+                "indices": [
+                    0,
+                    10
+                ],
+                "name": "Royal Mail",
+                "screen_name": "RoyalMail"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 672803070603100160,
+    "id_str": "672803070603100160",
+    "in_reply_to_screen_name": "RoyalMail",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 96965958,
+    "in_reply_to_user_id_str": "96965958",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -82.290128,
+                        27.9784943
+                    ],
+                    [
+                        -82.256856,
+                        27.9784943
+                    ],
+                    [
+                        -82.256856,
+                        28.019497
+                    ],
+                    [
+                        -82.290128,
+                        28.019497
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Seffner, FL",
+        "id": "1c8f1d0ca53ff6fb",
+        "name": "Seffner",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/1c8f1d0ca53ff6fb.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@RoyalMail I emailed you on the 1st and have had no reply re. FG589385609GB. Please respond so I can provide full details",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Jan 06 19:04:25 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "#IamWales",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 4659,
+        "follow_request_sent": false,
+        "followers_count": 151,
+        "following": false,
+        "friends_count": 894,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 234857878,
+        "id_str": "234857878",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 5,
+        "location": "",
+        "name": "Steph",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/234857878/1448833767",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/671083692530495489/56XBlJZM_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/671083692530495489/56XBlJZM_normal.jpg",
+        "profile_link_color": "9266CC",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "skp1708",
+        "statuses_count": 2180,
+        "time_zone": "London",
+        "url": null,
+        "utc_offset": 0,
+        "verified": false
+    }
+}

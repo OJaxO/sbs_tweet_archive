@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Dec 04 15:23:50 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 96965958,
+                "id_str": "96965958",
+                "indices": [
+                    0,
+                    10
+                ],
+                "name": "Royal Mail",
+                "screen_name": "RoyalMail"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 672798473977245697,
+    "id_str": "672798473977245697",
+    "in_reply_to_screen_name": "RoyalMail",
+    "in_reply_to_status_id": 672796917068341249,
+    "in_reply_to_status_id_str": "672796917068341249",
+    "in_reply_to_user_id": 96965958,
+    "in_reply_to_user_id_str": "96965958",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -0.187894,
+                        51.483718
+                    ],
+                    [
+                        -0.109978,
+                        51.483718
+                    ],
+                    [
+                        -0.109978,
+                        51.5164655
+                    ],
+                    [
+                        -0.187894,
+                        51.5164655
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United Kingdom",
+        "country_code": "GB",
+        "full_name": "London, England",
+        "id": "457b4814b4240d87",
+        "name": "London",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/457b4814b4240d87.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@RoyalMail thank you, shall I DM you?",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Oct 13 11:51:00 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Basil Hallward painted my portrait \u2022 we live by the choices that we make \u2022 #bearingup #wanderlust #workinginthearts #xavitat",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "Instagram.com/xavitat",
+                        "expanded_url": "http://Instagram.com/xavitat",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/FUPH4am9iV"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 2295,
+        "follow_request_sent": false,
+        "followers_count": 277,
+        "following": false,
+        "friends_count": 445,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 202141861,
+        "id_str": "202141861",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 6,
+        "location": "London \u2022 the World",
+        "name": "xavier",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000021120831/72243c4e6e711302fa3172fb1c87a540.png",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000021120831/72243c4e6e711302fa3172fb1c87a540.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/202141861/1447150792",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/668369845902290944/HOwNjwb__normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/668369845902290944/HOwNjwb__normal.jpg",
+        "profile_link_color": "D02B55",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "99CC33",
+        "profile_text_color": "3E4415",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "xavitat",
+        "statuses_count": 20320,
+        "time_zone": "London",
+        "url": "https://t.co/FUPH4am9iV",
+        "utc_offset": 0,
+        "verified": false
+    }
+}

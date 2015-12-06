@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Dec 04 17:55:07 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 96965958,
+                "id_str": "96965958",
+                "indices": [
+                    0,
+                    10
+                ],
+                "name": "Royal Mail",
+                "screen_name": "RoyalMail"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 672836543250329600,
+    "id_str": "672836543250329600",
+    "in_reply_to_screen_name": "RoyalMail",
+    "in_reply_to_status_id": 672039968190160896,
+    "in_reply_to_status_id_str": "672039968190160896",
+    "in_reply_to_user_id": 96965958,
+    "in_reply_to_user_id_str": "96965958",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -2.013326,
+                        50.682612
+                    ],
+                    [
+                        -1.891233,
+                        50.682612
+                    ],
+                    [
+                        -1.891233,
+                        50.774097
+                    ],
+                    [
+                        -2.013326,
+                        50.774097
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United Kingdom",
+        "country_code": "GB",
+        "full_name": "Poole, England",
+        "id": "1c4cd8e4ae3a1959",
+        "name": "Poole",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/1c4cd8e4ae3a1959.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@RoyalMail I spoke to Lisa Hawkins today asking her to check for last time the Kumasi PO box office for parcel, still nothing? what next",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Mar 19 17:34:34 +0000 2013",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "After 25 yrs in solar system design/ development + exports , I now want to see my latest design, a PV +Thermal solar panel system design working in USA & Africa",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "solar-speed-flex.com",
+                        "expanded_url": "http://www.solar-speed-flex.com",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/nkSbjwArUF"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 320,
+        "follow_request_sent": false,
+        "followers_count": 311,
+        "following": false,
+        "friends_count": 997,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 1281042793,
+        "id_str": "1281042793",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 5,
+        "location": "Wimborne, Dorset, UK",
+        "name": "Eric Hawkins",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1281042793/1423674527",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/565559694450630657/OzDdIxa0_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/565559694450630657/OzDdIxa0_normal.jpeg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "eric_hawkins9",
+        "statuses_count": 1571,
+        "time_zone": "London",
+        "url": "http://t.co/nkSbjwArUF",
+        "utc_offset": 0,
+        "verified": false
+    }
+}
