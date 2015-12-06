@@ -1,0 +1,136 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Dec 05 16:53:16 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 15234657,
+                "id_str": "15234657",
+                "indices": [
+                    0,
+                    3
+                ],
+                "name": "Electronic Arts",
+                "screen_name": "EA"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 673183367949639680,
+    "id_str": "673183367949639680",
+    "in_reply_to_screen_name": "EA",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 15234657,
+    "in_reply_to_user_id_str": "15234657",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -47.1271495,
+                        -24.4440651
+                    ],
+                    [
+                        -46.9001025,
+                        -24.4440651
+                    ],
+                    [
+                        -46.9001025,
+                        -24.1224992
+                    ],
+                    [
+                        -47.1271495,
+                        -24.1224992
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "Brasil",
+        "country_code": "BR",
+        "full_name": "Peru\u00edbe, S\u00e3o Paulo",
+        "id": "da9c6146b85b2a63",
+        "name": "Peru\u00edbe",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/da9c6146b85b2a63.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@EA estou com problemas no meu Battlefield Hardline",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Nov 25 18:58:25 +0000 2012",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "ME SEGUE QUE TE PAGO UMA COXINHA E UMA COCA COLA, Sou doente e fa\u00e7o videos pro youtube!!! SE INSCREVE L\u00c1!!!!!",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "expanded_url": null,
+                        "indices": [
+                            0,
+                            20
+                        ],
+                        "url": "http://goo.gl/zTkpkI"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 10057,
+        "follow_request_sent": false,
+        "followers_count": 1530,
+        "following": false,
+        "friends_count": 555,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 970577502,
+        "id_str": "970577502",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "pt",
+        "listed_count": 1,
+        "location": "contatocanalmaroto@gmail.com",
+        "name": "Canal Guto Tv",
+        "notifications": false,
+        "profile_background_color": "E2DCBA",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/638374323737227264/iSECXE5l.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/638374323737227264/iSECXE5l.jpg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/970577502/1444936570",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/632895016948658176/BDKyKixa_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/632895016948658176/BDKyKixa_normal.jpg",
+        "profile_link_color": "3B94D9",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Guto_tv",
+        "statuses_count": 5885,
+        "time_zone": "Mid-Atlantic",
+        "url": "http://goo.gl/zTkpkI",
+        "utc_offset": -7200,
+        "verified": false
+    }
+}
