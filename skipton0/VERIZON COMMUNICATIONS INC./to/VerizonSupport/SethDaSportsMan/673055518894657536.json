@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Dec 05 08:25:15 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 37435412,
+                "id_str": "37435412",
+                "indices": [
+                    0,
+                    15
+                ],
+                "name": "Verizon Support",
+                "screen_name": "VerizonSupport"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 673055518894657536,
+    "id_str": "673055518894657536",
+    "in_reply_to_screen_name": "VerizonSupport",
+    "in_reply_to_status_id": 673048260852994048,
+    "in_reply_to_status_id_str": "673048260852994048",
+    "in_reply_to_user_id": 37435412,
+    "in_reply_to_user_id_str": "37435412",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -118.668404,
+                        33.704538
+                    ],
+                    [
+                        -118.155409,
+                        33.704538
+                    ],
+                    [
+                        -118.155409,
+                        34.337041
+                    ],
+                    [
+                        -118.668404,
+                        34.337041
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Los Angeles, CA",
+        "id": "3b77caf94bfc81fe",
+        "name": "Los Angeles",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/3b77caf94bfc81fe.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@VerizonSupport moving to new house and interested in seeing what your Fios rates are but shows it's not available in my location",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun May 20 05:36:01 +0000 2012",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Writer at @TheFantasyFix and @Razzball. DFS at @FantasyDraft. Ranker at FantasyPros. The Justin Timberlake of the @AllStarFiveNBA Team. It's OBJ, not ODB.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "thefantasyfix.com",
+                        "expanded_url": "http://thefantasyfix.com",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/48eJSxohhD"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 1038,
+        "follow_request_sent": false,
+        "followers_count": 3269,
+        "following": false,
+        "friends_count": 551,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 585391355,
+        "id_str": "585391355",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 158,
+        "location": "Los Angeles, CA",
+        "name": "Seth Klein",
+        "notifications": false,
+        "profile_background_color": "080D0F",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000180199973/AHB69ZDi.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000180199973/AHB69ZDi.jpeg",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/585391355/1434848711",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/670138255233277952/8kjtZbwh_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/670138255233277952/8kjtZbwh_normal.jpg",
+        "profile_link_color": "0E50B3",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "E0E4DB",
+        "profile_text_color": "010101",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "SethDaSportsMan",
+        "statuses_count": 113514,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "https://t.co/48eJSxohhD",
+        "utc_offset": -28800,
+        "verified": false
+    }
+}
