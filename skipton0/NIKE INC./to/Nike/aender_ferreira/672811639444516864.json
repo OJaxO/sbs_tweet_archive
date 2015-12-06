@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Dec 04 16:16:09 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 415859364,
+                "id_str": "415859364",
+                "indices": [
+                    0,
+                    5
+                ],
+                "name": "Nike",
+                "screen_name": "Nike"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 672811639444516864,
+    "id_str": "672811639444516864",
+    "in_reply_to_screen_name": "Nike",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 415859364,
+    "in_reply_to_user_id_str": "415859364",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -48.285982,
+                        -16.0524045
+                    ],
+                    [
+                        -47.307264,
+                        -16.0524045
+                    ],
+                    [
+                        -47.307264,
+                        -15.5001029
+                    ],
+                    [
+                        -48.285982,
+                        -15.5001029
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "Brasil",
+        "country_code": "BR",
+        "full_name": "Bras\u00edlia, Distrito Federal",
+        "id": "5722ff20ba67083b",
+        "name": "Bras\u00edlia",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/5722ff20ba67083b.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@Nike thanks to selling products that can't receive in the estimated date, wainting for ages in help chat queue and be disconeted in my turn",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Jun 22 01:45:11 +0000 2008",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Visual Artist, Photographer & Graphic Designer",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "issuu.com/aenderferreira\u2026",
+                        "expanded_url": "http://issuu.com/aenderferreira/docs/portifolio",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/V3y0oKPwO4"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 18,
+        "follow_request_sent": false,
+        "followers_count": 144,
+        "following": false,
+        "friends_count": 395,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 15194158,
+        "id_str": "15194158",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "pt",
+        "listed_count": 6,
+        "location": "Brasil",
+        "name": "Aender Ferreira",
+        "notifications": false,
+        "profile_background_color": "9AE4E8",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/614131613513969664/A-C4YY0t.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/614131613513969664/A-C4YY0t.jpg",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/15194158/1390221348",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/425245049203331072/gzDqaBOy_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/425245049203331072/gzDqaBOy_normal.png",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "DDFFCC",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "aender_ferreira",
+        "statuses_count": 1073,
+        "time_zone": "Santiago",
+        "url": "http://t.co/V3y0oKPwO4",
+        "utc_offset": -10800,
+        "verified": false
+    }
+}

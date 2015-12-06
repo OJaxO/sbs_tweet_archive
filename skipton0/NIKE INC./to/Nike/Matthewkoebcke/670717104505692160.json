@@ -1,0 +1,165 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Nov 28 21:33:13 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/fballposts/sta\u2026",
+                "expanded_url": "https://twitter.com/fballposts/status/670710928053170176",
+                "indices": [
+                    52,
+                    75
+                ],
+                "url": "https://t.co/rpYE0Kkrkx"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 415859364,
+                "id_str": "415859364",
+                "indices": [
+                    0,
+                    5
+                ],
+                "name": "Nike",
+                "screen_name": "Nike"
+            },
+            {
+                "id": 41147159,
+                "id_str": "41147159",
+                "indices": [
+                    6,
+                    19
+                ],
+                "name": "Nike Football",
+                "screen_name": "nikefootball"
+            },
+            {
+                "id": 17351972,
+                "id_str": "17351972",
+                "indices": [
+                    20,
+                    30
+                ],
+                "name": "Nike.com",
+                "screen_name": "nikestore"
+            },
+            {
+                "id": 5885732,
+                "id_str": "5885732",
+                "indices": [
+                    31,
+                    46
+                ],
+                "name": "Nike Basketball",
+                "screen_name": "nikebasketball"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 670717104505692160,
+    "id_str": "670717104505692160",
+    "in_reply_to_screen_name": "Nike",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 415859364,
+    "in_reply_to_user_id_str": "415859364",
+    "is_quote_status": true,
+    "lang": "und",
+    "metadata": {
+        "iso_language_code": "und",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -87.124014,
+                        41.434556
+                    ],
+                    [
+                        -86.988343,
+                        41.434556
+                    ],
+                    [
+                        -86.988343,
+                        41.52125
+                    ],
+                    [
+                        -87.124014,
+                        41.52125
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Valparaiso, IN",
+        "id": "fcb1fb67eef60e00",
+        "name": "Valparaiso",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/fcb1fb67eef60e00.json"
+    },
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@Nike @nikefootball @nikestore @nikebasketball oh\ud83d\udd25\ud83d\udd25 https://t.co/rpYE0Kkrkx",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Feb 15 05:31:37 +0000 2014",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "I got the world in my wingspan",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 2032,
+        "follow_request_sent": false,
+        "followers_count": 466,
+        "following": false,
+        "friends_count": 351,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 2344602240,
+        "id_str": "2344602240",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 1,
+        "location": "Valparaiso, IN",
+        "name": "Matthew",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2344602240/1449204317",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/656274014357364738/LOXFNmCI_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/656274014357364738/LOXFNmCI_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Matthewkoebcke",
+        "statuses_count": 1137,
+        "time_zone": null,
+        "url": null,
+        "utc_offset": null,
+        "verified": false
+    }
+}

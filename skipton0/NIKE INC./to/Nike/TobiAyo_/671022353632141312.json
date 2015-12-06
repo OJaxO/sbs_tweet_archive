@@ -1,0 +1,277 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Nov 29 17:46:10 +0000 2015",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    31,
+                    38
+                ],
+                "text": "Adidas"
+            }
+        ],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/socialrmadrid/\u2026",
+                "expanded_url": "https://twitter.com/socialrmadrid/status/670563228498333696",
+                "indices": [
+                    41,
+                    64
+                ],
+                "url": "https://t.co/pt6sywXvrM"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 415859364,
+                "id_str": "415859364",
+                "indices": [
+                    0,
+                    5
+                ],
+                "name": "Nike",
+                "screen_name": "Nike"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 671022353632141312,
+    "id_str": "671022353632141312",
+    "in_reply_to_screen_name": "Nike",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 415859364,
+    "in_reply_to_user_id_str": "415859364",
+    "is_quote_status": true,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        3.198942,
+                        6.4826762
+                    ],
+                    [
+                        3.43719,
+                        6.4826762
+                    ],
+                    [
+                        3.43719,
+                        6.6985461
+                    ],
+                    [
+                        3.198942,
+                        6.6985461
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "Nigeria",
+        "country_code": "NG",
+        "full_name": "Ikeja, Nigeria",
+        "id": "01eddd9d0dbec2c8",
+        "name": "Ikeja",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/01eddd9d0dbec2c8.json"
+    },
+    "possibly_sensitive": false,
+    "quoted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Sat Nov 28 11:21:46 +0000 2015",
+        "entities": {
+            "hashtags": [],
+            "media": [
+                {
+                    "display_url": "pic.twitter.com/cIKfXGExI6",
+                    "expanded_url": "http://twitter.com/SocialRMadrid/status/670563228498333696/photo/1",
+                    "id": 670563219270860800,
+                    "id_str": "670563219270860800",
+                    "indices": [
+                        112,
+                        135
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/CU5RsfQVAAAINgQ.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/CU5RsfQVAAAINgQ.jpg",
+                    "sizes": {
+                        "large": {
+                            "h": 576,
+                            "resize": "fit",
+                            "w": 1024
+                        },
+                        "medium": {
+                            "h": 337,
+                            "resize": "fit",
+                            "w": 600
+                        },
+                        "small": {
+                            "h": 191,
+                            "resize": "fit",
+                            "w": 340
+                        },
+                        "thumb": {
+                            "h": 150,
+                            "resize": "crop",
+                            "w": 150
+                        }
+                    },
+                    "type": "photo",
+                    "url": "https://t.co/cIKfXGExI6"
+                }
+            ],
+            "symbols": [],
+            "urls": [],
+            "user_mentions": []
+        },
+        "favorite_count": 602,
+        "favorited": false,
+        "geo": null,
+        "id": 670563228498333696,
+        "id_str": "670563228498333696",
+        "in_reply_to_screen_name": null,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "is_quote_status": false,
+        "lang": "en",
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "place": null,
+        "possibly_sensitive": false,
+        "retweet_count": 867,
+        "retweeted": false,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "Nike have decided that starting from next summer Neymar will become the face of their brand ahead of Cristiano. https://t.co/cIKfXGExI6",
+        "truncated": false,
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Sat Feb 11 20:08:49 +0000 2012",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "Real Madrid? I think it's a feeling. - Don Alfredo Di St\u00e9fano.",
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "SocialRMadrid.com",
+                            "expanded_url": "http://www.SocialRMadrid.com",
+                            "indices": [
+                                0,
+                                23
+                            ],
+                            "url": "https://t.co/jrhLtsuWIV"
+                        }
+                    ]
+                }
+            },
+            "favourites_count": 1840,
+            "follow_request_sent": false,
+            "followers_count": 192258,
+            "following": false,
+            "friends_count": 190,
+            "geo_enabled": true,
+            "has_extended_profile": false,
+            "id": 489705506,
+            "id_str": "489705506",
+            "is_translation_enabled": false,
+            "is_translator": false,
+            "lang": "en",
+            "listed_count": 922,
+            "location": "Worldwide",
+            "name": "SocialRMadrid",
+            "notifications": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/489705506/1446396024",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/666546455319093248/mQrZeI8l_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/666546455319093248/mQrZeI8l_normal.jpg",
+            "profile_link_color": "89C9FA",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "protected": false,
+            "screen_name": "SocialRMadrid",
+            "statuses_count": 122937,
+            "time_zone": "Central Time (US & Canada)",
+            "url": "https://t.co/jrhLtsuWIV",
+            "utc_offset": -21600,
+            "verified": false
+        }
+    },
+    "quoted_status_id": 670563228498333696,
+    "quoted_status_id_str": "670563228498333696",
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@Nike Is Actually Very Stupid. #Adidas \ud83d\udcaf https://t.co/pt6sywXvrM",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Oct 25 18:36:29 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 3143,
+        "follow_request_sent": false,
+        "followers_count": 1548,
+        "following": false,
+        "friends_count": 892,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 85137548,
+        "id_str": "85137548",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 5,
+        "location": "",
+        "name": "Tobs",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000114655843/1f9f3edbf845c1d72451888696f7161e.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000114655843/1f9f3edbf845c1d72451888696f7161e.jpeg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/85137548/1449299839",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/650712632631107585/tKizrqSQ_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/650712632631107585/tKizrqSQ_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "TobiAyo_",
+        "statuses_count": 27472,
+        "time_zone": "London",
+        "url": null,
+        "utc_offset": 0,
+        "verified": false
+    }
+}
