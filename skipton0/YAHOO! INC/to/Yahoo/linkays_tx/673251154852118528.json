@@ -1,0 +1,144 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Dec 05 21:22:38 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 19380829,
+                "id_str": "19380829",
+                "indices": [
+                    0,
+                    6
+                ],
+                "name": "Yahoo",
+                "screen_name": "Yahoo"
+            },
+            {
+                "id": 2423000214,
+                "id_str": "2423000214",
+                "indices": [
+                    7,
+                    20
+                ],
+                "name": "Christine Garcia",
+                "screen_name": "Underdog_413"
+            },
+            {
+                "id": 2542600555,
+                "id_str": "2542600555",
+                "indices": [
+                    21,
+                    36
+                ],
+                "name": "YahooParenting",
+                "screen_name": "YahooParenting"
+            }
+        ]
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": null,
+    "id": 673251154852118528,
+    "id_str": "673251154852118528",
+    "in_reply_to_screen_name": "Yahoo",
+    "in_reply_to_status_id": 673027033765715968,
+    "in_reply_to_status_id_str": "673027033765715968",
+    "in_reply_to_user_id": 19380829,
+    "in_reply_to_user_id_str": "19380829",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -106.645646,
+                        25.837092
+                    ],
+                    [
+                        -93.508131,
+                        25.837092
+                    ],
+                    [
+                        -93.508131,
+                        36.500695
+                    ],
+                    [
+                        -106.645646,
+                        36.500695
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Texas, USA",
+        "id": "e0060cda70f5f341",
+        "name": "Texas",
+        "place_type": "admin",
+        "url": "https://api.twitter.com/1.1/geo/id/e0060cda70f5f341.json"
+    },
+    "retweet_count": 1,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@Yahoo @Underdog_413 @YahooParenting honestly? Who cares? What about the toddler with no mom or 6 innocent kids with no dad?",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed May 04 17:55:44 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Born and raised TX girl.  Have way too many donkeys...16!  Also have way too many dogs.....7!  Hmmmm...think I need to re-think things....hahaha",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 51,
+        "follow_request_sent": false,
+        "followers_count": 3,
+        "following": false,
+        "friends_count": 12,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 293061354,
+        "id_str": "293061354",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 0,
+        "location": "South Texas",
+        "name": "Linda Kay Snyder",
+        "notifications": false,
+        "profile_background_color": "C6E2EE",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/293061354/1443288387",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1338854726/lks_spring_2011_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1338854726/lks_spring_2011_normal.jpg",
+        "profile_link_color": "1F98C7",
+        "profile_sidebar_border_color": "C6E2EE",
+        "profile_sidebar_fill_color": "DAECF4",
+        "profile_text_color": "663B12",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "linkays_tx",
+        "statuses_count": 57,
+        "time_zone": "Central Time (US & Canada)",
+        "url": null,
+        "utc_offset": -21600,
+        "verified": false
+    }
+}

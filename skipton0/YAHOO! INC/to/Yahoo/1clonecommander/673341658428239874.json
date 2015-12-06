@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Dec 06 03:22:16 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 19380829,
+                "id_str": "19380829",
+                "indices": [
+                    0,
+                    6
+                ],
+                "name": "Yahoo",
+                "screen_name": "Yahoo"
+            }
+        ]
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": null,
+    "id": 673341658428239874,
+    "id_str": "673341658428239874",
+    "in_reply_to_screen_name": "Yahoo",
+    "in_reply_to_status_id": 673341360490041344,
+    "in_reply_to_status_id_str": "673341360490041344",
+    "in_reply_to_user_id": 19380829,
+    "in_reply_to_user_id_str": "19380829",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -82.620093,
+                        27.821353
+                    ],
+                    [
+                        -82.2652945,
+                        27.821353
+                    ],
+                    [
+                        -82.2652945,
+                        28.171836
+                    ],
+                    [
+                        -82.620093,
+                        28.171836
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Tampa, FL",
+        "id": "dc62519fda13b4ec",
+        "name": "Tampa",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/dc62519fda13b4ec.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@Yahoo is that the husband in disguise???",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Aug 19 00:54:57 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "USMC-NBC Instructor & bad guy killer-bounty hunters or Terrorists any Galaxy! Star Wars & Pop Art collector w/ thousands of pieces & autographs. JJ Machado BJJ",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "clonecommander.com",
+                        "expanded_url": "http://clonecommander.com",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/pcpCCY0Ysi"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 1535,
+        "follow_request_sent": false,
+        "followers_count": 294,
+        "following": false,
+        "friends_count": 911,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 180181151,
+        "id_str": "180181151",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 18,
+        "location": "Jacksonville Florida",
+        "name": "THE CLONE COMMANDER",
+        "notifications": false,
+        "profile_background_color": "642D8B",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/180181151/1448837048",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/671097336462860288/R-p5iPB8_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/671097336462860288/R-p5iPB8_normal.jpg",
+        "profile_link_color": "FF0000",
+        "profile_sidebar_border_color": "65B0DA",
+        "profile_sidebar_fill_color": "7AC3EE",
+        "profile_text_color": "3D1957",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "1clonecommander",
+        "statuses_count": 12422,
+        "time_zone": "Eastern Time (US & Canada)",
+        "url": "https://t.co/pcpCCY0Ysi",
+        "utc_offset": -18000,
+        "verified": false
+    }
+}
