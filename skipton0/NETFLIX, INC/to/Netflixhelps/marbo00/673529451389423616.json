@@ -1,0 +1,124 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Dec 06 15:48:29 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 21454307,
+                "id_str": "21454307",
+                "indices": [
+                    0,
+                    13
+                ],
+                "name": "Netflix CS",
+                "screen_name": "Netflixhelps"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 673529451389423616,
+    "id_str": "673529451389423616",
+    "in_reply_to_screen_name": "Netflixhelps",
+    "in_reply_to_status_id": 673525556403679232,
+    "in_reply_to_status_id_str": "673525556403679232",
+    "in_reply_to_user_id": 21454307,
+    "in_reply_to_user_id_str": "21454307",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -104.778398,
+                        50.39659
+                    ],
+                    [
+                        -104.50339,
+                        50.39659
+                    ],
+                    [
+                        -104.50339,
+                        50.513682
+                    ],
+                    [
+                        -104.778398,
+                        50.513682
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "Canada",
+        "country_code": "CA",
+        "full_name": "Regina, Saskatchewan",
+        "id": "2c1be03622fe39b8",
+        "name": "Regina",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/2c1be03622fe39b8.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@Netflixhelps What changed? Seasons 1 and 2 were available last week. Seasons 3 and 4 are still available",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Mar 02 03:14:11 +0000 2009",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "An over 40 victim of fate.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 1321,
+        "follow_request_sent": false,
+        "followers_count": 186,
+        "following": false,
+        "friends_count": 663,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 22444001,
+        "id_str": "22444001",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 1,
+        "location": "Saskatchewan, Canada",
+        "name": "Marcel B.",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/22444001/1356661585",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/551095155604721664/U5drOc8R_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/551095155604721664/U5drOc8R_normal.jpeg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "marbo00",
+        "statuses_count": 1643,
+        "time_zone": "Mountain Time (US & Canada)",
+        "url": null,
+        "utc_offset": -25200,
+        "verified": false
+    }
+}
