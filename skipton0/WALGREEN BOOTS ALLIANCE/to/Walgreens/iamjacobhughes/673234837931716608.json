@@ -1,0 +1,124 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Dec 05 20:17:48 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 46177695,
+                "id_str": "46177695",
+                "indices": [
+                    0,
+                    10
+                ],
+                "name": "Walgreens",
+                "screen_name": "Walgreens"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 673234837931716608,
+    "id_str": "673234837931716608",
+    "in_reply_to_screen_name": "Walgreens",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 46177695,
+    "in_reply_to_user_id_str": "46177695",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -91.42088,
+                        39.879982
+                    ],
+                    [
+                        -91.315192,
+                        39.879982
+                    ],
+                    [
+                        -91.315192,
+                        39.972396
+                    ],
+                    [
+                        -91.42088,
+                        39.972396
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Quincy, IL",
+        "id": "833d51949e9c0bfb",
+        "name": "Quincy",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/833d51949e9c0bfb.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@Walgreens pharmacy never fails to piss me off. \ud83d\ude44",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Jul 25 20:51:47 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 6471,
+        "follow_request_sent": false,
+        "followers_count": 441,
+        "following": false,
+        "friends_count": 770,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 170811614,
+        "id_str": "170811614",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 0,
+        "location": "illinois",
+        "name": "Jacob Hughes",
+        "notifications": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/875245766/3dc72f2275eec97173e6d3e2c40d9757.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/875245766/3dc72f2275eec97173e6d3e2c40d9757.jpeg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/170811614/1443124877",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/664191696364785664/fBSQdc7a_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/664191696364785664/fBSQdc7a_normal.jpg",
+        "profile_link_color": "009999",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "iamjacobhughes",
+        "statuses_count": 24462,
+        "time_zone": "Central America",
+        "url": null,
+        "utc_offset": -21600,
+        "verified": false
+    }
+}

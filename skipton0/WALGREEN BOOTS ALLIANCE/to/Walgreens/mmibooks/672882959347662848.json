@@ -1,0 +1,176 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Dec 04 20:59:33 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "media": [
+            {
+                "display_url": "pic.twitter.com/v0Jypvd48y",
+                "expanded_url": "http://twitter.com/mmibooks/status/672882959347662848/photo/1",
+                "id": 672882952057913345,
+                "id_str": "672882952057913345",
+                "indices": [
+                    18,
+                    41
+                ],
+                "media_url": "http://pbs.twimg.com/media/CVaPetTUAAENch8.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/CVaPetTUAAENch8.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 122,
+                        "resize": "fit",
+                        "w": 162
+                    },
+                    "medium": {
+                        "h": 122,
+                        "resize": "fit",
+                        "w": 162
+                    },
+                    "small": {
+                        "h": 122,
+                        "resize": "fit",
+                        "w": 162
+                    },
+                    "thumb": {
+                        "h": 122,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/v0Jypvd48y"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 46177695,
+                "id_str": "46177695",
+                "indices": [
+                    7,
+                    17
+                ],
+                "name": "Walgreens",
+                "screen_name": "Walgreens"
+            }
+        ]
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": null,
+    "id": 672882959347662848,
+    "id_str": "672882959347662848",
+    "in_reply_to_screen_name": "Walgreens",
+    "in_reply_to_status_id": 672520688264179713,
+    "in_reply_to_status_id_str": "672520688264179713",
+    "in_reply_to_user_id": 46177695,
+    "in_reply_to_user_id_str": "46177695",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -85.336872,
+                        40.95926
+                    ],
+                    [
+                        -85.003231,
+                        40.95926
+                    ],
+                    [
+                        -85.003231,
+                        41.214574
+                    ],
+                    [
+                        -85.336872,
+                        41.214574
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Fort Wayne, IN",
+        "id": "3877d6c867447819",
+        "name": "Fort Wayne",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/3877d6c867447819.json"
+    },
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "Thanks @Walgreens https://t.co/v0Jypvd48y",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Feb 26 20:07:59 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Today\u2019s workers should be saving more for retirement because the decks are stacked against them in ways they weren\u2019t 30 years ago",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "tiny.cc/eqst1x",
+                        "expanded_url": "http://tiny.cc/eqst1x",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/tA8wL8R8cv"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 4711,
+        "follow_request_sent": false,
+        "followers_count": 351,
+        "following": false,
+        "friends_count": 1005,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 22054364,
+        "id_str": "22054364",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 26,
+        "location": "",
+        "name": "Top News Daily",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/22054364/1424937804",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/571158583955447809/FLykujHY_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/571158583955447809/FLykujHY_normal.jpeg",
+        "profile_link_color": "4A913C",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "mmibooks",
+        "statuses_count": 4576,
+        "time_zone": "Central Time (US & Canada)",
+        "url": "https://t.co/tA8wL8R8cv",
+        "utc_offset": -21600,
+        "verified": false
+    }
+}
