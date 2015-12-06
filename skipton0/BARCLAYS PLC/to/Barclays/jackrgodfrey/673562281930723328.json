@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Dec 06 17:58:56 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 191781601,
+                "id_str": "191781601",
+                "indices": [
+                    0,
+                    9
+                ],
+                "name": "Barclays Bank",
+                "screen_name": "Barclays"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 673562281930723328,
+    "id_str": "673562281930723328",
+    "in_reply_to_screen_name": "Barclays",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 191781601,
+    "in_reply_to_user_id_str": "191781601",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        54.8939725,
+                        24.6182526
+                    ],
+                    [
+                        56.2083722,
+                        24.6182526
+                    ],
+                    [
+                        56.2083722,
+                        25.3686719
+                    ],
+                    [
+                        54.8939725,
+                        25.3686719
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "\u0627\u0644\u0627\u0645\u0627\u0631\u0627\u062a \u0627\u0644\u0639\u0631\u0628\u064a\u0629 \u0627\u0644\u0645\u062a\u062d\u062f\u0629",
+        "country_code": "AE",
+        "full_name": "Dubai, United Arab Emirates",
+        "id": "001907e868d06e24",
+        "name": "Dubai",
+        "place_type": "admin",
+        "url": "https://api.twitter.com/1.1/geo/id/001907e868d06e24.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@Barclays please can you call me my friends card has been blocked on holiday",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Jan 24 03:09:06 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "UK Head of Sales. Here to have fun! Make your work enjoyable and the rest will follow...",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "capstoneconnects.com",
+                        "expanded_url": "http://capstoneconnects.com",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/2ePJMtxfLD"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 255,
+        "follow_request_sent": false,
+        "followers_count": 378,
+        "following": false,
+        "friends_count": 1206,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 107888156,
+        "id_str": "107888156",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 7,
+        "location": "London",
+        "name": "Jack R Godfrey",
+        "notifications": false,
+        "profile_background_color": "1C1C1C",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/107888156/1408915375",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/480853487568576512/L7SfNJ40_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/480853487568576512/L7SfNJ40_normal.jpeg",
+        "profile_link_color": "2FC2EF",
+        "profile_sidebar_border_color": "FF0048",
+        "profile_sidebar_fill_color": "591721",
+        "profile_text_color": "7DB031",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "jackrgodfrey",
+        "statuses_count": 502,
+        "time_zone": "London",
+        "url": "http://t.co/2ePJMtxfLD",
+        "utc_offset": 0,
+        "verified": false
+    }
+}
