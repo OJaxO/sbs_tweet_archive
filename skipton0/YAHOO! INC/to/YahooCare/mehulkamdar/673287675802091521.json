@@ -1,0 +1,124 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Dec 05 23:47:45 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 26265894,
+                "id_str": "26265894",
+                "indices": [
+                    0,
+                    10
+                ],
+                "name": "Yahoo Customer Care",
+                "screen_name": "YahooCare"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 673287675802091521,
+    "id_str": "673287675802091521",
+    "in_reply_to_screen_name": "YahooCare",
+    "in_reply_to_status_id": 673272894470819840,
+    "in_reply_to_status_id_str": "673272894470819840",
+    "in_reply_to_user_id": 26265894,
+    "in_reply_to_user_id_str": "26265894",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -95.438435,
+                        29.497739
+                    ],
+                    [
+                        -95.215364,
+                        29.497739
+                    ],
+                    [
+                        -95.215364,
+                        29.59803
+                    ],
+                    [
+                        -95.438435,
+                        29.59803
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Pearland, TX",
+        "id": "bcb210d6cf34438a",
+        "name": "Pearland",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/bcb210d6cf34438a.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@YahooCare Sorry - I had an old man moment. DM sent to you. Please check. Thank you.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Dec 08 00:21:19 +0000 2008",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Opsimath, libertarian. gun owner, lover of the outdoors, dogs, good food, books and music.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 19851,
+        "follow_request_sent": false,
+        "followers_count": 1448,
+        "following": false,
+        "friends_count": 1011,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 17951262,
+        "id_str": "17951262",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 85,
+        "location": "Houston, TX",
+        "name": "mehulkamdar",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/17951262/1365970088",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/308118923/springfield_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/308118923/springfield_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "mehulkamdar",
+        "statuses_count": 25306,
+        "time_zone": "Central Time (US & Canada)",
+        "url": null,
+        "utc_offset": -21600,
+        "verified": false
+    }
+}
