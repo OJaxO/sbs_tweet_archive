@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Nov 29 20:00:47 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 110647540,
+                "id_str": "110647540",
+                "indices": [
+                    0,
+                    6
+                ],
+                "name": "B&Q",
+                "screen_name": "BandQ"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 671056231637893120,
+    "id_str": "671056231637893120",
+    "in_reply_to_screen_name": "BandQ",
+    "in_reply_to_status_id": 669946230231932932,
+    "in_reply_to_status_id_str": "669946230231932932",
+    "in_reply_to_user_id": 110647540,
+    "in_reply_to_user_id_str": "110647540",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        0.657961,
+                        51.7113628
+                    ],
+                    [
+                        0.6938593,
+                        51.7113628
+                    ],
+                    [
+                        0.6938593,
+                        51.735038
+                    ],
+                    [
+                        0.657961,
+                        51.735038
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United Kingdom",
+        "country_code": "GB",
+        "full_name": "Maldon, England",
+        "id": "0a6a5d0f6d3e4e55",
+        "name": "Maldon",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/0a6a5d0f6d3e4e55.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@BandQ Superb!",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Jan 08 16:31:44 +0000 2012",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Very proud mum & devoted wife. Appreciates great music,beauty treats, fine wine & delicious food.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "twitter.com/#!/Clarbo18",
+                        "expanded_url": "https://twitter.com/#!/Clarbo18",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/cbtOOPycM2"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 8348,
+        "follow_request_sent": false,
+        "followers_count": 1519,
+        "following": false,
+        "friends_count": 2766,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 458487500,
+        "id_str": "458487500",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 108,
+        "location": "Maldon, England",
+        "name": "Clair Dukes",
+        "notifications": false,
+        "profile_background_color": "9AE4E8",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/666790560217366528/mg6jJVFT.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/666790560217366528/mg6jJVFT.jpg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/458487500/1447427594",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/673246405952151553/Am1rskF8_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/673246405952151553/Am1rskF8_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Clarbo18",
+        "statuses_count": 112638,
+        "time_zone": "London",
+        "url": "https://t.co/cbtOOPycM2",
+        "utc_offset": 0,
+        "verified": false
+    }
+}

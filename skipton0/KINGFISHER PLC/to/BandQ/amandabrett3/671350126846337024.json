@@ -1,0 +1,132 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Nov 30 15:28:37 +0000 2015",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    130,
+                    140
+                ],
+                "text": "HopeToWin"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 110647540,
+                "id_str": "110647540",
+                "indices": [
+                    0,
+                    6
+                ],
+                "name": "B&Q",
+                "screen_name": "BandQ"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 671350126846337024,
+    "id_str": "671350126846337024",
+    "in_reply_to_screen_name": "BandQ",
+    "in_reply_to_status_id": 669946230231932932,
+    "in_reply_to_status_id_str": "669946230231932932",
+    "in_reply_to_user_id": 110647540,
+    "in_reply_to_user_id_str": "110647540",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -1.9355331,
+                        53.696167
+                    ],
+                    [
+                        -1.844528,
+                        53.696167
+                    ],
+                    [
+                        -1.844528,
+                        53.762979
+                    ],
+                    [
+                        -1.9355331,
+                        53.762979
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United Kingdom",
+        "country_code": "GB",
+        "full_name": "Halifax, England",
+        "id": "7a998c6fcc0867eb",
+        "name": "Halifax",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/7a998c6fcc0867eb.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@BandQ This would be perfect for the DIhace th ecY jobs that need doing,in our new home,Thank you for to enter,Please count me in #HopeToWin",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Feb 25 21:38:44 +0000 2014",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Hey i'm 38,wife,mother and bubbly northern bird :)",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 127,
+        "follow_request_sent": false,
+        "followers_count": 431,
+        "following": false,
+        "friends_count": 1832,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 2361684746,
+        "id_str": "2361684746",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 3,
+        "location": "west yorkshire uk",
+        "name": "amanda brett",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2361684746/1427567722",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/581887158274908160/l4GbbibN_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/581887158274908160/l4GbbibN_normal.jpg",
+        "profile_link_color": "DD2E44",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "amandabrett3",
+        "statuses_count": 12111,
+        "time_zone": null,
+        "url": null,
+        "utc_offset": null,
+        "verified": false
+    }
+}

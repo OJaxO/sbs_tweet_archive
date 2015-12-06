@@ -1,0 +1,178 @@
+{
+    "contributors": null,
+    "coordinates": {
+        "coordinates": [
+            -2.26841927,
+            53.593218
+        ],
+        "type": "Point"
+    },
+    "created_at": "Sun Nov 29 13:06:41 +0000 2015",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    7,
+                    18
+                ],
+                "text": "DIYSundays"
+            }
+        ],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "swarmapp.com/c/7fyTH23uphD",
+                "expanded_url": "https://www.swarmapp.com/c/7fyTH23uphD",
+                "indices": [
+                    77,
+                    100
+                ],
+                "url": "https://t.co/pXrxCkTIWJ"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 110647540,
+                "id_str": "110647540",
+                "indices": [
+                    0,
+                    6
+                ],
+                "name": "B&Q",
+                "screen_name": "BandQ"
+            },
+            {
+                "id": 110647540,
+                "id_str": "110647540",
+                "indices": [
+                    44,
+                    50
+                ],
+                "name": "B&Q",
+                "screen_name": "BandQ"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": {
+        "coordinates": [
+            53.593218,
+            -2.26841927
+        ],
+        "type": "Point"
+    },
+    "id": 670952018677260288,
+    "id_str": "670952018677260288",
+    "in_reply_to_screen_name": "BandQ",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 110647540,
+    "in_reply_to_user_id_str": "110647540",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -2.364483,
+                        53.535082
+                    ],
+                    [
+                        -2.2450333,
+                        53.535082
+                    ],
+                    [
+                        -2.2450333,
+                        53.6263139
+                    ],
+                    [
+                        -2.364483,
+                        53.6263139
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United Kingdom",
+        "country_code": "GB",
+        "full_name": "Bury, England",
+        "id": "282652abfa70c570",
+        "name": "Bury",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/282652abfa70c570.json"
+    },
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://foursquare.com\" rel=\"nofollow\">Foursquare</a>",
+    "text": "@BandQ #DIYSundays \ud83d\ude01 (@ B&amp;Q Warehouse - @bandq in Bury, Borough of Bury) https://t.co/pXrxCkTIWJ",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Feb 04 15:58:46 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "#BJJ White Belt. I play #RugbyUnion for @SedgleyTigers 3/4XV. Fan of @ManUtd, @49ers & @ufc. #Bookcrossing #MMA #BJJ #deathsquad #JRE #DTFH #SkepticTank",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "about.me/stubee",
+                        "expanded_url": "http://about.me/stubee",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/9CcgmLiq3P"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 1740,
+        "follow_request_sent": false,
+        "followers_count": 784,
+        "following": false,
+        "friends_count": 2085,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 20063514,
+        "id_str": "20063514",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 29,
+        "location": "Lancashire / Azeroth",
+        "name": "Stuart Browning",
+        "notifications": false,
+        "profile_background_color": "3F420D",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/449571526962991105/zRosvdTo.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/449571526962991105/zRosvdTo.jpeg",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/20063514/1416755702",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/668450756723351552/eLzQfmoN_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/668450756723351552/eLzQfmoN_normal.jpg",
+        "profile_link_color": "7D0418",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "A4D6C6",
+        "profile_text_color": "635026",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "StuEdB",
+        "statuses_count": 17416,
+        "time_zone": "London",
+        "url": "http://t.co/9CcgmLiq3P",
+        "utc_offset": 0,
+        "verified": false
+    }
+}
