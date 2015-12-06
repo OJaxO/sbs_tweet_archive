@@ -1,0 +1,163 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Dec 04 20:01:09 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "media": [
+            {
+                "display_url": "pic.twitter.com/lpDD5RKbS0",
+                "expanded_url": "http://twitter.com/ChrisRagan99/status/672868262670147584/photo/1",
+                "id": 672868253861961728,
+                "id_str": "672868253861961728",
+                "indices": [
+                    10,
+                    33
+                ],
+                "media_url": "http://pbs.twimg.com/media/CVaCHKQUYAAeAwU.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/CVaCHKQUYAAeAwU.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 871,
+                        "resize": "fit",
+                        "w": 1024
+                    },
+                    "medium": {
+                        "h": 510,
+                        "resize": "fit",
+                        "w": 600
+                    },
+                    "small": {
+                        "h": 289,
+                        "resize": "fit",
+                        "w": 340
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/lpDD5RKbS0"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 2425151,
+                "id_str": "2425151",
+                "indices": [
+                    0,
+                    9
+                ],
+                "name": "Facebook",
+                "screen_name": "facebook"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 672868262670147584,
+    "id_str": "672868262670147584",
+    "in_reply_to_screen_name": "facebook",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 2425151,
+    "in_reply_to_user_id_str": "2425151",
+    "is_quote_status": false,
+    "lang": "und",
+    "metadata": {
+        "iso_language_code": "und",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -81.6788325,
+                        31.782055
+                    ],
+                    [
+                        -81.561514,
+                        31.782055
+                    ],
+                    [
+                        -81.561514,
+                        31.87296
+                    ],
+                    [
+                        -81.6788325,
+                        31.87296
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Hinesville, GA",
+        "id": "6cc49882c2468f39",
+        "name": "Hinesville",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/6cc49882c2468f39.json"
+    },
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@facebook https://t.co/lpDD5RKbS0",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Jan 25 21:30:00 +0000 2012",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Houston Texans, Rockets, Astros, Cougars Texas Rangers, Longhorns & Dale Earnhardt Jr. Fan",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 32139,
+        "follow_request_sent": false,
+        "followers_count": 513,
+        "following": false,
+        "friends_count": 1216,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 474310832,
+        "id_str": "474310832",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 30,
+        "location": "United States",
+        "name": "Chris Ragan",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/413861811/Houston_Texans_12.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/413861811/Houston_Texans_12.jpg",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/474310832/1448919591",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/652931196930822144/ywUDf-N__normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/652931196930822144/ywUDf-N__normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "ChrisRagan99",
+        "statuses_count": 40489,
+        "time_zone": "America/Detroit",
+        "url": null,
+        "utc_offset": -18000,
+        "verified": false
+    }
+}

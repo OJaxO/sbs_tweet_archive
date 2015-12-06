@@ -1,0 +1,184 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Dec 04 14:04:02 +0000 2015",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    111,
+                    120
+                ],
+                "text": "Facebook"
+            }
+        ],
+        "media": [
+            {
+                "display_url": "pic.twitter.com/BqbdzyoZJW",
+                "expanded_url": "http://twitter.com/specialist_m/status/672778390294953984/photo/1",
+                "id": 672778389409964032,
+                "id_str": "672778389409964032",
+                "indices": [
+                    121,
+                    144
+                ],
+                "media_url": "http://pbs.twimg.com/media/CVYwYXFXIAA7JfI.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/CVYwYXFXIAA7JfI.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 381,
+                        "resize": "fit",
+                        "w": 462
+                    },
+                    "medium": {
+                        "h": 381,
+                        "resize": "fit",
+                        "w": 462
+                    },
+                    "small": {
+                        "h": 280,
+                        "resize": "fit",
+                        "w": 340
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/BqbdzyoZJW"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 2425151,
+                "id_str": "2425151",
+                "indices": [
+                    0,
+                    9
+                ],
+                "name": "Facebook",
+                "screen_name": "facebook"
+            }
+        ]
+    },
+    "favorite_count": 3,
+    "favorited": false,
+    "geo": null,
+    "id": 672778390294953984,
+    "id_str": "672778390294953984",
+    "in_reply_to_screen_name": "facebook",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 2425151,
+    "in_reply_to_user_id_str": "2425151",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -3.0812071,
+                        51.549936
+                    ],
+                    [
+                        -2.970463,
+                        51.549936
+                    ],
+                    [
+                        -2.970463,
+                        51.621386
+                    ],
+                    [
+                        -3.0812071,
+                        51.621386
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United Kingdom",
+        "country_code": "GB",
+        "full_name": "Newport, Wales",
+        "id": "1da00c8852cc9da2",
+        "name": "Newport",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/1da00c8852cc9da2.json"
+    },
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@facebook Customer care?My page was disabled due to a glitch. I've waited 24 days &amp; now told to be patient.#Facebook https://t.co/BqbdzyoZJW",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Sep 03 09:48:05 +0000 2012",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Est.1989 |  Industry leading designers & model-makers of props, large-scale displays & models for Film+TV+Theatre, Ad Campaigns, Events & more.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "specialistmodels.co.uk",
+                        "expanded_url": "http://www.specialistmodels.co.uk",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/rdLMNol803"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 17,
+        "follow_request_sent": false,
+        "followers_count": 329,
+        "following": false,
+        "friends_count": 1165,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 800058254,
+        "id_str": "800058254",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 5,
+        "location": "Cardiff, Wales, United Kingdom",
+        "name": "Specialist Models",
+        "notifications": false,
+        "profile_background_color": "FFFFFF",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/435498073679077376/2vWp_QoH.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/435498073679077376/2vWp_QoH.jpeg",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/800058254/1426756176",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/2814027005/c7fd7dc137065ff64eede3d67b592dc9_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/2814027005/c7fd7dc137065ff64eede3d67b592dc9_normal.jpeg",
+        "profile_link_color": "3C3C3C",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "specialist_m",
+        "statuses_count": 169,
+        "time_zone": "London",
+        "url": "http://t.co/rdLMNol803",
+        "utc_offset": 0,
+        "verified": false
+    }
+}

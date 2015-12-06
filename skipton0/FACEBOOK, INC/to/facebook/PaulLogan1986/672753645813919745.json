@@ -1,0 +1,147 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Dec 04 12:25:42 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 2425151,
+                "id_str": "2425151",
+                "indices": [
+                    0,
+                    9
+                ],
+                "name": "Facebook",
+                "screen_name": "facebook"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 672753645813919745,
+    "id_str": "672753645813919745",
+    "in_reply_to_screen_name": "facebook",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 2425151,
+    "in_reply_to_user_id_str": "2425151",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -1.558785,
+                        54.982911
+                    ],
+                    [
+                        -1.4842805,
+                        54.982911
+                    ],
+                    [
+                        -1.4842805,
+                        55.019406
+                    ],
+                    [
+                        -1.558785,
+                        55.019406
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United Kingdom",
+        "country_code": "GB",
+        "full_name": "Wallsend, England",
+        "id": "5ba94c65bc914393",
+        "name": "Wallsend",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/5ba94c65bc914393.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@facebook how long until FB is back up?",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Jan 26 09:35:40 +0000 2012",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "I make films and talk nonsense, Check out #Geordie https://t.co/XW9htb8m2p episode one now! JUST CLICK HERE^^^",
+        "entities": {
+            "description": {
+                "urls": [
+                    {
+                        "display_url": "youtube.com/watch?v=-xiCF4\u2026",
+                        "expanded_url": "https://www.youtube.com/watch?v=-xiCF4mNQAk",
+                        "indices": [
+                            51,
+                            74
+                        ],
+                        "url": "https://t.co/XW9htb8m2p"
+                    }
+                ]
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "youtube.com/channel/UCOK50\u2026",
+                        "expanded_url": "https://www.youtube.com/channel/UCOK50s41I6ZnAZo0WSTg3Tg",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/gZd4ebqjaQ"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 484,
+        "follow_request_sent": false,
+        "followers_count": 669,
+        "following": false,
+        "friends_count": 1827,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 474753259,
+        "id_str": "474753259",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 15,
+        "location": "newcastle england",
+        "name": "LazyBurglar",
+        "notifications": false,
+        "profile_background_color": "1A1B1F",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/474753259/1446722165",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/660414000203767808/BJEpk-cW_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/660414000203767808/BJEpk-cW_normal.png",
+        "profile_link_color": "4A913C",
+        "profile_sidebar_border_color": "181A1E",
+        "profile_sidebar_fill_color": "252429",
+        "profile_text_color": "666666",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "PaulLogan1986",
+        "statuses_count": 3406,
+        "time_zone": "Amsterdam",
+        "url": "https://t.co/gZd4ebqjaQ",
+        "utc_offset": 3600,
+        "verified": false
+    }
+}
