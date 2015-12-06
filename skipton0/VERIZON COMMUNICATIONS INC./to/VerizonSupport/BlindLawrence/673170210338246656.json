@@ -1,0 +1,146 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Dec 05 16:00:59 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 37435412,
+                "id_str": "37435412",
+                "indices": [
+                    0,
+                    15
+                ],
+                "name": "Verizon Support",
+                "screen_name": "VerizonSupport"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 673170210338246656,
+    "id_str": "673170210338246656",
+    "in_reply_to_screen_name": "VerizonSupport",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 37435412,
+    "in_reply_to_user_id_str": "37435412",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -82.29976,
+                        27.857254
+                    ],
+                    [
+                        -82.211304,
+                        27.857254
+                    ],
+                    [
+                        -82.211304,
+                        27.8937442
+                    ],
+                    [
+                        -82.29976,
+                        27.8937442
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Bloomingdale, FL",
+        "id": "75a3d7a592190ec9",
+        "name": "Bloomingdale",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/75a3d7a592190ec9.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@VerizonSupport I am in Tampa with no service.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Oct 25 01:06:03 +0000 2009",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "#Mohrrior, 2X #thtc winner, check out my radio show every Friday 7-9 PM EDT on http://t.co/Ic2w2tnNfb",
+        "entities": {
+            "description": {
+                "urls": [
+                    {
+                        "display_url": "TF52.com",
+                        "expanded_url": "http://TF52.com",
+                        "indices": [
+                            79,
+                            101
+                        ],
+                        "url": "http://t.co/Ic2w2tnNfb"
+                    }
+                ]
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "facebook.com/blindlawrence",
+                        "expanded_url": "https://www.facebook.com/blindlawrence",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/qlu4nqoH73"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 1126,
+        "follow_request_sent": false,
+        "followers_count": 2222,
+        "following": false,
+        "friends_count": 2214,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 84977587,
+        "id_str": "84977587",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 60,
+        "location": "Valrico, Florida",
+        "name": "Lawrence",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/626617809481662464/_ng5HCfY_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/626617809481662464/_ng5HCfY_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "BlindLawrence",
+        "statuses_count": 39239,
+        "time_zone": "Eastern Time (US & Canada)",
+        "url": "https://t.co/qlu4nqoH73",
+        "utc_offset": -18000,
+        "verified": false
+    }
+}
