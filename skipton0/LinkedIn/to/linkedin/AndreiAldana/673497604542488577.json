@@ -1,0 +1,124 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Dec 06 13:41:56 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 13058772,
+                "id_str": "13058772",
+                "indices": [
+                    0,
+                    9
+                ],
+                "name": "LinkedIn",
+                "screen_name": "LinkedIn"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 673497604542488577,
+    "id_str": "673497604542488577",
+    "in_reply_to_screen_name": "LinkedIn",
+    "in_reply_to_status_id": 673306131159244801,
+    "in_reply_to_status_id_str": "673306131159244801",
+    "in_reply_to_user_id": 13058772,
+    "in_reply_to_user_id_str": "13058772",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -84.5919495,
+                        9.0655537
+                    ],
+                    [
+                        -83.4294586,
+                        9.0655537
+                    ],
+                    [
+                        -83.4294586,
+                        10.1991653
+                    ],
+                    [
+                        -84.5919495,
+                        10.1991653
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "Costa Rica",
+        "country_code": "CR",
+        "full_name": "San Jos\u00e9, Costa Rica",
+        "id": "0003557c7b244fd3",
+        "name": "San Jos\u00e9",
+        "place_type": "admin",
+        "url": "https://api.twitter.com/1.1/geo/id/0003557c7b244fd3.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@LinkedIn great article",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Jul 24 19:20:10 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Personal account. Family, sports, technology & nature. #IBM. Proud fan of Saprissa & FCBarcelona. Tweets are my own.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 2119,
+        "follow_request_sent": false,
+        "followers_count": 68,
+        "following": false,
+        "friends_count": 403,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 341669849,
+        "id_str": "341669849",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 5,
+        "location": "Costa Rica",
+        "name": "Andrei Aldana",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/341669849/1420156563",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/640261298886848513/gyk9roDe_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/640261298886848513/gyk9roDe_normal.png",
+        "profile_link_color": "3B94D9",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "AndreiAldana",
+        "statuses_count": 1668,
+        "time_zone": "Central Time (US & Canada)",
+        "url": null,
+        "utc_offset": -21600,
+        "verified": false
+    }
+}
