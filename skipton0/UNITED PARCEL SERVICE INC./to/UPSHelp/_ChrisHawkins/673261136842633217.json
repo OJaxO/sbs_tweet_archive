@@ -1,0 +1,186 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Dec 05 22:02:18 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "media": [
+            {
+                "display_url": "pic.twitter.com/0moiddr00B",
+                "expanded_url": "http://twitter.com/_ChrisHawkins/status/673261136842633217/photo/1",
+                "id": 673261134611255296,
+                "id_str": "673261134611255296",
+                "indices": [
+                    70,
+                    93
+                ],
+                "media_url": "http://pbs.twimg.com/media/CVfnb1GUkAAVkX9.png",
+                "media_url_https": "https://pbs.twimg.com/media/CVfnb1GUkAAVkX9.png",
+                "sizes": {
+                    "large": {
+                        "h": 1334,
+                        "resize": "fit",
+                        "w": 750
+                    },
+                    "medium": {
+                        "h": 1067,
+                        "resize": "fit",
+                        "w": 600
+                    },
+                    "small": {
+                        "h": 604,
+                        "resize": "fit",
+                        "w": 340
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/0moiddr00B"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 271516607,
+                "id_str": "271516607",
+                "indices": [
+                    0,
+                    8
+                ],
+                "name": "UPS Customer Support",
+                "screen_name": "UPSHelp"
+            },
+            {
+                "id": 89084561,
+                "id_str": "89084561",
+                "indices": [
+                    9,
+                    16
+                ],
+                "name": "Target",
+                "screen_name": "Target"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 673261136842633217,
+    "id_str": "673261136842633217",
+    "in_reply_to_screen_name": "UPSHelp",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 271516607,
+    "in_reply_to_user_id_str": "271516607",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -122.035311,
+                        37.193164
+                    ],
+                    [
+                        -121.71215,
+                        37.193164
+                    ],
+                    [
+                        -121.71215,
+                        37.469154
+                    ],
+                    [
+                        -122.035311,
+                        37.469154
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "San Jose, CA",
+        "id": "7d62cffe6f98f349",
+        "name": "San Jose",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/7d62cffe6f98f349.json"
+    },
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for i\u039fS</a>",
+    "text": "@UPSHelp @Target This is a very confused package. Is everything okay? https://t.co/0moiddr00B",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Jan 17 00:42:56 +0000 2007",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Ex-Melbournian in Silicon Valley leading personalisation platform R&D @AccentureLabs. Views are my own. Caffeine withdrawal may affect content.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "medium.com/@chrishawkins",
+                        "expanded_url": "http://www.medium.com/@chrishawkins",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/s2L3rr1K1T"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 309,
+        "follow_request_sent": false,
+        "followers_count": 683,
+        "following": false,
+        "friends_count": 482,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 650933,
+        "id_str": "650933",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 37,
+        "location": "San Jose, CA",
+        "name": "Chris Hawkins",
+        "notifications": false,
+        "profile_background_color": "111111",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/251884380/TwitterBackground.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/251884380/TwitterBackground.jpg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/650933/1398255718",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/668367620106616833/99ziJWyQ_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/668367620106616833/99ziJWyQ_normal.png",
+        "profile_link_color": "CC3300",
+        "profile_sidebar_border_color": "999999",
+        "profile_sidebar_fill_color": "EEEEEE",
+        "profile_text_color": "666666",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "_ChrisHawkins",
+        "statuses_count": 13406,
+        "time_zone": "Melbourne",
+        "url": "https://t.co/s2L3rr1K1T",
+        "utc_offset": 39600,
+        "verified": false
+    }
+}
