@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Nov 28 22:13:55 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 14462333,
+                "id_str": "14462333",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "Nike Support",
+                "screen_name": "NikeSupport"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 670727346517733376,
+    "id_str": "670727346517733376",
+    "in_reply_to_screen_name": "NikeSupport",
+    "in_reply_to_status_id": 670721830441910272,
+    "in_reply_to_status_id_str": "670721830441910272",
+    "in_reply_to_user_id": 14462333,
+    "in_reply_to_user_id_str": "14462333",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        150.520928608,
+                        -34.1183470085
+                    ],
+                    [
+                        151.343020992,
+                        -34.1183470085
+                    ],
+                    [
+                        151.343020992,
+                        -33.578140996
+                    ],
+                    [
+                        150.520928608,
+                        -33.578140996
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "Australia",
+        "country_code": "AU",
+        "full_name": "Sydney, New South Wales",
+        "id": "0073b76548e5984f",
+        "name": "Sydney",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/0073b76548e5984f.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@NikeSupport thank you! It's just linked to my iTunes. It always ran my iTunes playlists but stopped and only plays shuffle or spotify.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Mar 17 04:28:49 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "PR agency director at Bec Brown Communications. Media, music, travel, food & fitness fan. SYDNEY & MELBOURNE.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "becbrowncommunications.com.au",
+                        "expanded_url": "http://www.becbrowncommunications.com.au",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/o2rkTbevY6"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 4308,
+        "follow_request_sent": false,
+        "followers_count": 1688,
+        "following": false,
+        "friends_count": 2155,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 123760342,
+        "id_str": "123760342",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 51,
+        "location": "Sydney",
+        "name": "Bec Brown",
+        "notifications": false,
+        "profile_background_color": "352726",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000152614344/Nml0plWY.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000152614344/Nml0plWY.jpeg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/123760342/1435482805",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/487203224357580802/t185Y1t3_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/487203224357580802/t185Y1t3_normal.jpeg",
+        "profile_link_color": "D02B55",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "99CC33",
+        "profile_text_color": "3E4415",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "BecBrownComms",
+        "statuses_count": 5092,
+        "time_zone": "Sydney",
+        "url": "https://t.co/o2rkTbevY6",
+        "utc_offset": 39600,
+        "verified": false
+    }
+}
