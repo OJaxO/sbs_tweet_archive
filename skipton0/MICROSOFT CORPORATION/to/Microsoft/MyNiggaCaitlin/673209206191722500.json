@@ -1,0 +1,279 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Dec 05 18:35:57 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/polygon/status\u2026",
+                "expanded_url": "https://twitter.com/polygon/status/672914365146886145",
+                "indices": [
+                    20,
+                    43
+                ],
+                "url": "https://t.co/odWGnJjC4V"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 74286565,
+                "id_str": "74286565",
+                "indices": [
+                    0,
+                    10
+                ],
+                "name": "Microsoft",
+                "screen_name": "Microsoft"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 673209206191722500,
+    "id_str": "673209206191722500",
+    "in_reply_to_screen_name": "Microsoft",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 74286565,
+    "in_reply_to_user_id_str": "74286565",
+    "is_quote_status": true,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -95.823268,
+                        29.522325
+                    ],
+                    [
+                        -95.069705,
+                        29.522325
+                    ],
+                    [
+                        -95.069705,
+                        30.1546646
+                    ],
+                    [
+                        -95.823268,
+                        30.1546646
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Houston, TX",
+        "id": "1c69a67ad480e1b1",
+        "name": "Houston",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/1c69a67ad480e1b1.json"
+    },
+    "possibly_sensitive": false,
+    "quoted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Fri Dec 04 23:04:21 +0000 2015",
+        "entities": {
+            "hashtags": [],
+            "media": [
+                {
+                    "display_url": "pic.twitter.com/XSd3WJIgM0",
+                    "expanded_url": "http://twitter.com/Polygon/status/672914365146886145/photo/1",
+                    "id": 672914364874293248,
+                    "id_str": "672914364874293248",
+                    "indices": [
+                        67,
+                        90
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/CVasDLKXAAAN3-u.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/CVasDLKXAAAN3-u.jpg",
+                    "sizes": {
+                        "large": {
+                            "h": 576,
+                            "resize": "fit",
+                            "w": 1024
+                        },
+                        "medium": {
+                            "h": 337,
+                            "resize": "fit",
+                            "w": 600
+                        },
+                        "small": {
+                            "h": 191,
+                            "resize": "fit",
+                            "w": 340
+                        },
+                        "thumb": {
+                            "h": 150,
+                            "resize": "crop",
+                            "w": 150
+                        }
+                    },
+                    "type": "photo",
+                    "url": "https://t.co/XSd3WJIgM0"
+                }
+            ],
+            "symbols": [],
+            "urls": [
+                {
+                    "display_url": "polygon.com/2015/12/4/9851\u2026",
+                    "expanded_url": "http://www.polygon.com/2015/12/4/9851808/ps2-games-ps4-1080p-upscale?utm_campaign=polygon&utm_content=chorus&utm_medium=social&utm_source=twitter",
+                    "indices": [
+                        43,
+                        66
+                    ],
+                    "url": "https://t.co/OU9AA1Td6F"
+                }
+            ],
+            "user_mentions": []
+        },
+        "favorite_count": 149,
+        "favorited": false,
+        "geo": null,
+        "id": 672914365146886145,
+        "id_str": "672914365146886145",
+        "in_reply_to_screen_name": null,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "is_quote_status": false,
+        "lang": "en",
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "place": null,
+        "possibly_sensitive": false,
+        "retweet_count": 167,
+        "retweeted": false,
+        "source": "<a href=\"http://www.sbnation.com\" rel=\"nofollow\">SB Nation</a>",
+        "text": "PlayStation 2 games launch on PS4 tomorrow https://t.co/OU9AA1Td6F https://t.co/XSd3WJIgM0",
+        "truncated": false,
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Tue Jan 03 21:59:02 +0000 2012",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "Polygon is a website for the renaissance gamer. That's a fancy way of saying we write about Game of Thrones sometimes. But usually games.",
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "polygon.com",
+                            "expanded_url": "http://www.polygon.com",
+                            "indices": [
+                                0,
+                                22
+                            ],
+                            "url": "http://t.co/spnJZ1sf2z"
+                        }
+                    ]
+                }
+            },
+            "favourites_count": 234,
+            "follow_request_sent": false,
+            "followers_count": 327736,
+            "following": false,
+            "friends_count": 80,
+            "geo_enabled": false,
+            "has_extended_profile": false,
+            "id": 454340464,
+            "id_str": "454340464",
+            "is_translation_enabled": false,
+            "is_translator": false,
+            "lang": "en",
+            "listed_count": 5104,
+            "location": "",
+            "name": "Polygon",
+            "notifications": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/782147434/9abf080177b641a5dd717824fd93fbdb.jpeg",
+            "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/782147434/9abf080177b641a5dd717824fd93fbdb.jpeg",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/454340464/1360006750",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/2785670422/b0f08dd3b999bd0debb5352a058707aa_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/2785670422/b0f08dd3b999bd0debb5352a058707aa_normal.png",
+            "profile_link_color": "FF0054",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "Polygon",
+            "statuses_count": 31459,
+            "time_zone": "Eastern Time (US & Canada)",
+            "url": "http://t.co/spnJZ1sf2z",
+            "utc_offset": -18000,
+            "verified": true
+        }
+    },
+    "quoted_status_id": 672914365146886145,
+    "quoted_status_id_str": "672914365146886145",
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@Microsoft catch up https://t.co/odWGnJjC4V",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Mar 11 00:10:51 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "basketball. 19.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 52993,
+        "follow_request_sent": false,
+        "followers_count": 6997,
+        "following": false,
+        "friends_count": 4986,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 263913649,
+        "id_str": "263913649",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 26,
+        "location": "HTX",
+        "name": "#JColeHive",
+        "notifications": false,
+        "profile_background_color": "EB1212",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/694612062/83c60b1ecabd0b74ef9f6751fb6936e0.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/694612062/83c60b1ecabd0b74ef9f6751fb6936e0.jpeg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/263913649/1449382128",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/672620446009856000/J169-tz-_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/672620446009856000/J169-tz-_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "DDFFCC",
+        "profile_text_color": "F000F0",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "MyNiggaCaitlin",
+        "statuses_count": 167442,
+        "time_zone": "Central Time (US & Canada)",
+        "url": null,
+        "utc_offset": -21600,
+        "verified": false
+    }
+}

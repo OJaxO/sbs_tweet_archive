@@ -1,0 +1,176 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Dec 05 08:40:25 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "media": [
+            {
+                "display_url": "pic.twitter.com/xtaU5JMlTc",
+                "expanded_url": "http://twitter.com/PieroWin1/status/673059335493193729/photo/1",
+                "id": 673059334134304768,
+                "id_str": "673059334134304768",
+                "indices": [
+                    115,
+                    138
+                ],
+                "media_url": "http://pbs.twimg.com/media/CVcv5fvWEAAqCe2.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/CVcv5fvWEAAqCe2.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 524,
+                        "resize": "fit",
+                        "w": 800
+                    },
+                    "medium": {
+                        "h": 393,
+                        "resize": "fit",
+                        "w": 600
+                    },
+                    "small": {
+                        "h": 222,
+                        "resize": "fit",
+                        "w": 340
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/xtaU5JMlTc"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 74286565,
+                "id_str": "74286565",
+                "indices": [
+                    0,
+                    10
+                ],
+                "name": "Microsoft",
+                "screen_name": "Microsoft"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 673059335493193729,
+    "id_str": "673059335493193729",
+    "in_reply_to_screen_name": "Microsoft",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 74286565,
+    "in_reply_to_user_id_str": "74286565",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        9.6580421,
+                        45.1415769
+                    ],
+                    [
+                        9.7305518,
+                        45.1415769
+                    ],
+                    [
+                        9.7305518,
+                        45.1919595
+                    ],
+                    [
+                        9.6580421,
+                        45.1919595
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "Italia",
+        "country_code": "IT",
+        "full_name": "Codogno, Lombardia",
+        "id": "4ccc62dac8105511",
+        "name": "Codogno",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/4ccc62dac8105511.json"
+    },
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@Microsoft I am very happy of Windows 10 and Office 2016 but i with you since 1994 with old Windows 3.1- THANK YOU https://t.co/xtaU5JMlTc",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Nov 18 05:45:29 +0000 2015",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Single",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "webalice.it/tpfast",
+                        "expanded_url": "http://www.webalice.it/tpfast",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/CfDq8DI5xd"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 6,
+        "follow_request_sent": false,
+        "followers_count": 35,
+        "following": false,
+        "friends_count": 200,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 4215722536,
+        "id_str": "4215722536",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "it",
+        "listed_count": 0,
+        "location": "Codogno, Lombardia",
+        "name": "Piero",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/4215722536/1448873560",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/671250148501168128/ckxtDPQN_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/671250148501168128/ckxtDPQN_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "PieroWin1",
+        "statuses_count": 129,
+        "time_zone": null,
+        "url": "https://t.co/CfDq8DI5xd",
+        "utc_offset": null,
+        "verified": false
+    }
+}

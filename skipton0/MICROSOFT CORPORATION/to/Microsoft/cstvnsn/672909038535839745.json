@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Dec 04 22:43:11 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 74286565,
+                "id_str": "74286565",
+                "indices": [
+                    0,
+                    10
+                ],
+                "name": "Microsoft",
+                "screen_name": "Microsoft"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 672909038535839745,
+    "id_str": "672909038535839745",
+    "in_reply_to_screen_name": "Microsoft",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 74286565,
+    "in_reply_to_user_id_str": "74286565",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -79.639319,
+                        43.403221
+                    ],
+                    [
+                        -78.90582,
+                        43.403221
+                    ],
+                    [
+                        -78.90582,
+                        43.855401
+                    ],
+                    [
+                        -79.639319,
+                        43.855401
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "Canada",
+        "country_code": "CA",
+        "full_name": "Toronto, Ontario",
+        "id": "3797791ff9c0e4c6",
+        "name": "Toronto",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/3797791ff9c0e4c6.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@Microsoft Hello there. Word for Mac crashes every time I try to save. I need Word to make a living. Can you help please? El Capitain. TY",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Apr 17 23:33:13 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Communications, content & integrated creative strategy guy. Arts, music, film and culture geek. Digital enthusiast. Founder: @ripplecreatives.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "ripplecreatives.com",
+                        "expanded_url": "http://www.ripplecreatives.com",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/LdKctVozrc"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 88,
+        "follow_request_sent": false,
+        "followers_count": 839,
+        "following": false,
+        "friends_count": 2008,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 32660950,
+        "id_str": "32660950",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 40,
+        "location": "Toronto, Canada",
+        "name": "Chris Stevenson",
+        "notifications": false,
+        "profile_background_color": "DFECD4",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/818148669/65ed72c7a6b7b81fdac036114b6b130c.png",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/818148669/65ed72c7a6b7b81fdac036114b6b130c.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/32660950/1439265264",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/378800000689438065/372bd2782e2508fcf730581be6ca1573_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000689438065/372bd2782e2508fcf730581be6ca1573_normal.jpeg",
+        "profile_link_color": "13851A",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "E99D86",
+        "profile_text_color": "F9D89B",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "cstvnsn",
+        "statuses_count": 3149,
+        "time_zone": "Eastern Time (US & Canada)",
+        "url": "http://t.co/LdKctVozrc",
+        "utc_offset": -18000,
+        "verified": false
+    }
+}

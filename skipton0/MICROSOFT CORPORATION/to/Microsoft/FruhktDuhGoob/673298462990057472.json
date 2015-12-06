@@ -1,0 +1,124 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Dec 06 00:30:37 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 74286565,
+                "id_str": "74286565",
+                "indices": [
+                    0,
+                    10
+                ],
+                "name": "Microsoft",
+                "screen_name": "Microsoft"
+            }
+        ]
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": null,
+    "id": 673298462990057472,
+    "id_str": "673298462990057472",
+    "in_reply_to_screen_name": "Microsoft",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 74286565,
+    "in_reply_to_user_id_str": "74286565",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -80.526237,
+                        25.440567
+                    ],
+                    [
+                        -80.3779961,
+                        25.440567
+                    ],
+                    [
+                        -80.3779961,
+                        25.5183308
+                    ],
+                    [
+                        -80.526237,
+                        25.5183308
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Homestead, FL",
+        "id": "9519f2018bb6585b",
+        "name": "Homestead",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/9519f2018bb6585b.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@Microsoft are u hosting a xbox one league?",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Oct 31 10:47:15 +0000 2014",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Link Up",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 6004,
+        "follow_request_sent": false,
+        "followers_count": 570,
+        "following": false,
+        "friends_count": 327,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 2884753728,
+        "id_str": "2884753728",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 8,
+        "location": "Homestead, FL",
+        "name": "#2",
+        "notifications": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2884753728/1447041749",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/671522433208315905/Ngkot3_-_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/671522433208315905/Ngkot3_-_normal.jpg",
+        "profile_link_color": "009999",
+        "profile_sidebar_border_color": "EEEEEE",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "FruhktDuhGoob",
+        "statuses_count": 23631,
+        "time_zone": "Eastern Time (US & Canada)",
+        "url": null,
+        "utc_offset": -18000,
+        "verified": false
+    }
+}

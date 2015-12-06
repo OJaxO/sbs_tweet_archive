@@ -1,0 +1,134 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Dec 05 18:36:47 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 74286565,
+                "id_str": "74286565",
+                "indices": [
+                    0,
+                    10
+                ],
+                "name": "Microsoft",
+                "screen_name": "Microsoft"
+            },
+            {
+                "id": 15670515,
+                "id_str": "15670515",
+                "indices": [
+                    33,
+                    41
+                ],
+                "name": "Windows",
+                "screen_name": "Windows"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 673209419669356544,
+    "id_str": "673209419669356544",
+    "in_reply_to_screen_name": "Microsoft",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 74286565,
+    "in_reply_to_user_id_str": "74286565",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -0.799282,
+                        51.5837849
+                    ],
+                    [
+                        -0.676246,
+                        51.5837849
+                    ],
+                    [
+                        -0.676246,
+                        51.651902
+                    ],
+                    [
+                        -0.799282,
+                        51.651902
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United Kingdom",
+        "country_code": "GB",
+        "full_name": "High Wycombe, England",
+        "id": "3abd70ca60af5075",
+        "name": "High Wycombe",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/3abd70ca60af5075.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@Microsoft since you forced your @Windows update on me, Windows 10 is totally unstable and broken. Solution in 24 hours or I'm rolling back!",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Jan 02 12:43:10 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Love the latest in new music and live entertainment!",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 97,
+        "follow_request_sent": false,
+        "followers_count": 112,
+        "following": false,
+        "friends_count": 183,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 101213261,
+        "id_str": "101213261",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 2,
+        "location": "United Kingdom",
+        "name": "Omar Smith",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/556165062/Blue_Neon_Nights.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/556165062/Blue_Neon_Nights.jpg",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/101213261/1444133124",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/651366794687414272/Jr71G9cD_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/651366794687414272/Jr71G9cD_normal.jpg",
+        "profile_link_color": "002E93",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "omarsmith",
+        "statuses_count": 626,
+        "time_zone": "Europe/London",
+        "url": null,
+        "utc_offset": 0,
+        "verified": false
+    }
+}

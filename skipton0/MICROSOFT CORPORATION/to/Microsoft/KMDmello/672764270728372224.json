@@ -1,0 +1,170 @@
+{
+    "contributors": null,
+    "coordinates": {
+        "coordinates": [
+            77.64417972,
+            12.9572632
+        ],
+        "type": "Point"
+    },
+    "created_at": "Fri Dec 04 13:07:56 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "swarmapp.com/c/bIVadxhGSqF",
+                "expanded_url": "https://www.swarmapp.com/c/bIVadxhGSqF",
+                "indices": [
+                    65,
+                    88
+                ],
+                "url": "https://t.co/m4L9rrl8gW"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 74286565,
+                "id_str": "74286565",
+                "indices": [
+                    0,
+                    10
+                ],
+                "name": "Microsoft",
+                "screen_name": "Microsoft"
+            },
+            {
+                "id": 53026945,
+                "id_str": "53026945",
+                "indices": [
+                    26,
+                    39
+                ],
+                "name": "Royal Orchid Hotels",
+                "screen_name": "Royal_Orchid"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": {
+        "coordinates": [
+            12.9572632,
+            77.64417972
+        ],
+        "type": "Point"
+    },
+    "id": 672764270728372224,
+    "id_str": "672764270728372224",
+    "in_reply_to_screen_name": "Microsoft",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 74286565,
+    "in_reply_to_user_id_str": "74286565",
+    "is_quote_status": false,
+    "lang": "in",
+    "metadata": {
+        "iso_language_code": "in",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        77.3305776,
+                        12.731936
+                    ],
+                    [
+                        77.7863188,
+                        12.731936
+                    ],
+                    [
+                        77.7863188,
+                        13.1142933
+                    ],
+                    [
+                        77.3305776,
+                        13.1142933
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "India",
+        "country_code": "IN",
+        "full_name": "Bengaluru South, Karnataka",
+        "id": "5f55bb82cf16ac81",
+        "name": "Bengaluru South",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/5f55bb82cf16ac81.json"
+    },
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://foursquare.com\" rel=\"nofollow\">Foursquare</a>",
+    "text": "@Microsoft Azure (@ Hotel @Royal_Orchid in Bengaluru, Karnataka) https://t.co/m4L9rrl8gW",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Mar 12 08:33:58 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Market is what I love and Marketing is my job.  Being different that's what defines me. Traveling-I Love U. Always believe in 'To be something, To be yourself.!",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "kmdmello.in",
+                        "expanded_url": "http://www.kmdmello.in",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/gp5NoiUYTs"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 120,
+        "follow_request_sent": false,
+        "followers_count": 324,
+        "following": false,
+        "friends_count": 502,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 23921562,
+        "id_str": "23921562",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 10,
+        "location": "Dubai",
+        "name": "K M D'mello - morri7",
+        "notifications": false,
+        "profile_background_color": "C6E2EE",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/319244462/royalty-free-stock-images-wood-textures.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/319244462/royalty-free-stock-images-wood-textures.jpg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/23921562/1439692630",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/653177490366566401/eGzIPbUZ_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/653177490366566401/eGzIPbUZ_normal.jpg",
+        "profile_link_color": "1F98C7",
+        "profile_sidebar_border_color": "C6E2EE",
+        "profile_sidebar_fill_color": "DAECF4",
+        "profile_text_color": "663B12",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "KMDmello",
+        "statuses_count": 2260,
+        "time_zone": null,
+        "url": "http://t.co/gp5NoiUYTs",
+        "utc_offset": null,
+        "verified": false
+    }
+}

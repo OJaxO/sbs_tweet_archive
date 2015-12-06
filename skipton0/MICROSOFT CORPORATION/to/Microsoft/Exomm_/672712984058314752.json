@@ -1,0 +1,157 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Dec 04 09:44:08 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 74286565,
+                "id_str": "74286565",
+                "indices": [
+                    0,
+                    10
+                ],
+                "name": "Microsoft",
+                "screen_name": "Microsoft"
+            },
+            {
+                "id": 59414975,
+                "id_str": "59414975",
+                "indices": [
+                    15,
+                    20
+                ],
+                "name": "Halo",
+                "screen_name": "Halo"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 672712984058314752,
+    "id_str": "672712984058314752",
+    "in_reply_to_screen_name": "Microsoft",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 74286565,
+    "in_reply_to_user_id_str": "74286565",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -76.711517,
+                        39.197211
+                    ],
+                    [
+                        -76.529388,
+                        39.197211
+                    ],
+                    [
+                        -76.529388,
+                        39.372215
+                    ],
+                    [
+                        -76.711517,
+                        39.372215
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Baltimore, MD",
+        "id": "c0b8e8dc81930292",
+        "name": "Baltimore",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/c0b8e8dc81930292.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@Microsoft and @Halo if I get into the pro division or even semi pro division does it like mean I'm a semi pro really? Or is it in game?",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Dec 04 02:18:32 +0000 2014",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Comp Player For @MervoEsports| Aspiring Part Time Streamer And Youtuber|GT: Exomm|Visionary Behind @MervoEsports | #thegrind https://t.co/1jUKuywi39",
+        "entities": {
+            "description": {
+                "urls": [
+                    {
+                        "display_url": "Twitch.tv/Exomm",
+                        "expanded_url": "http://Twitch.tv/Exomm",
+                        "indices": [
+                            125,
+                            148
+                        ],
+                        "url": "https://t.co/1jUKuywi39"
+                    }
+                ]
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "youtube.com/exomm",
+                        "expanded_url": "http://youtube.com/exomm",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/mGIOzgD9Rg"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 6212,
+        "follow_request_sent": false,
+        "followers_count": 1849,
+        "following": false,
+        "friends_count": 728,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 2904586667,
+        "id_str": "2904586667",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 3,
+        "location": "Maryland With The Bro's",
+        "name": "Exomm",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/628463073834213376/2W7qWr4J.png",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/628463073834213376/2W7qWr4J.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2904586667/1443497512",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/619336664880709632/O77gsdfr_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/619336664880709632/O77gsdfr_normal.jpg",
+        "profile_link_color": "4A913C",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Exomm_",
+        "statuses_count": 4317,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "https://t.co/mGIOzgD9Rg",
+        "utc_offset": -28800,
+        "verified": false
+    }
+}

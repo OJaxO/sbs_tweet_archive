@@ -1,0 +1,132 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Dec 04 08:55:23 +0000 2015",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    18,
+                    38
+                ],
+                "text": "microsoftanswertech"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 74286565,
+                "id_str": "74286565",
+                "indices": [
+                    0,
+                    10
+                ],
+                "name": "Microsoft",
+                "screen_name": "Microsoft"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 672700715580567552,
+    "id_str": "672700715580567552",
+    "in_reply_to_screen_name": "Microsoft",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 74286565,
+    "in_reply_to_user_id_str": "74286565",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        101.6682318,
+                        3.1049064
+                    ],
+                    [
+                        101.7423782,
+                        3.1049064
+                    ],
+                    [
+                        101.7423782,
+                        3.1921549
+                    ],
+                    [
+                        101.6682318,
+                        3.1921549
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "Malaysia",
+        "country_code": "MY",
+        "full_name": "Bandar Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur",
+        "id": "7b02fbddf4d9f2c6",
+        "name": "Bandar Kuala Lumpur",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/7b02fbddf4d9f2c6.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@Microsoft thanks #microsoftanswertech Redel S helping me fix the issues.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu May 07 08:27:38 +0000 2009",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "\u53cb\u5bff\u7406\u591a\u5922\u51db : conspirator in cloud environment",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 7022,
+        "follow_request_sent": false,
+        "followers_count": 205,
+        "following": false,
+        "friends_count": 318,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 38395973,
+        "id_str": "38395973",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 7,
+        "location": "Sydney, New South Wales",
+        "name": "yusritamrin",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/38395973/1447751605",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/644203717714022400/5DO5-sUn_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/644203717714022400/5DO5-sUn_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "yusritamrin",
+        "statuses_count": 12755,
+        "time_zone": "Kuala Lumpur",
+        "url": null,
+        "utc_offset": 28800,
+        "verified": false
+    }
+}
