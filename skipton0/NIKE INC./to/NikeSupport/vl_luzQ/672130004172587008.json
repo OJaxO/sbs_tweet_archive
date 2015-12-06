@@ -1,0 +1,124 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Dec 02 19:07:35 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 14462333,
+                "id_str": "14462333",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "Nike Support",
+                "screen_name": "NikeSupport"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 672130004172587008,
+    "id_str": "672130004172587008",
+    "in_reply_to_screen_name": "NikeSupport",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 14462333,
+    "in_reply_to_user_id_str": "14462333",
+    "is_quote_status": false,
+    "lang": "es",
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -80.1016390768039,
+                        -6.76340495968228
+                    ],
+                    [
+                        -79.781928121233,
+                        -6.76340495968228
+                    ],
+                    [
+                        -79.781928121233,
+                        -6.59442501302773
+                    ],
+                    [
+                        -80.1016390768039,
+                        -6.59442501302773
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "Peru",
+        "country_code": "PE",
+        "full_name": "Lambayeque, Peru",
+        "id": "017ae77d558a92b9",
+        "name": "Lambayeque",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/017ae77d558a92b9.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@NikeSupport c\u00f3mo hago foto con la app Nike+ Running en Android",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Jun 09 03:13:04 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 153,
+        "follow_request_sent": false,
+        "followers_count": 120,
+        "following": false,
+        "friends_count": 249,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 45750176,
+        "id_str": "45750176",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "es",
+        "listed_count": 2,
+        "location": "Lambayeque-Per\u00fa",
+        "name": "Victor Luzqui\u00f1os Q",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/45750176/1449003353",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/496367513396322305/v-FGQDtE_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/496367513396322305/v-FGQDtE_normal.jpeg",
+        "profile_link_color": "ABB8C2",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "vl_luzQ",
+        "statuses_count": 109,
+        "time_zone": "Lima",
+        "url": null,
+        "utc_offset": -18000,
+        "verified": false
+    }
+}

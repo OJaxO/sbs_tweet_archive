@@ -1,0 +1,124 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 01 23:08:13 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 14462333,
+                "id_str": "14462333",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "Nike Support",
+                "screen_name": "NikeSupport"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 671828174871883777,
+    "id_str": "671828174871883777",
+    "in_reply_to_screen_name": "NikeSupport",
+    "in_reply_to_status_id": 671827616714915840,
+    "in_reply_to_status_id_str": "671827616714915840",
+    "in_reply_to_user_id": 14462333,
+    "in_reply_to_user_id_str": "14462333",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -2.1899763,
+                        57.107695
+                    ],
+                    [
+                        -2.0641046,
+                        57.107695
+                    ],
+                    [
+                        -2.0641046,
+                        57.2134174
+                    ],
+                    [
+                        -2.1899763,
+                        57.2134174
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United Kingdom",
+        "country_code": "GB",
+        "full_name": "Aberdeen, Scotland",
+        "id": "73cc26d418860ddd",
+        "name": "Aberdeen",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/73cc26d418860ddd.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@NikeSupport That's awesome! I'm just \"Tom Heavens\" but I don't have a Nike+ account. Have always used fb. Can you help? \ud83c\udf1f\ud83d\udca5",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Nov 27 12:47:39 +0000 2015",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Working towards Contract Management for Aker Solutions (AKSO). Studying Business Management at RGU. Love chilling with my lady, family and my friends.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 3,
+        "follow_request_sent": false,
+        "followers_count": 8,
+        "following": false,
+        "friends_count": 41,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 4296290843,
+        "id_str": "4296290843",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 0,
+        "location": "Scotland, United Kingdom",
+        "name": "Tom Heavens",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/4296290843/1449011718",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/670222877619261440/SMIiIz9O_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/670222877619261440/SMIiIz9O_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "tom_heavens",
+        "statuses_count": 6,
+        "time_zone": null,
+        "url": null,
+        "utc_offset": null,
+        "verified": false
+    }
+}

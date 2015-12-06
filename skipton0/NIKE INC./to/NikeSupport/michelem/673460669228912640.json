@@ -1,0 +1,147 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Dec 06 11:15:10 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 14462333,
+                "id_str": "14462333",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "Nike Support",
+                "screen_name": "NikeSupport"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 673460669228912640,
+    "id_str": "673460669228912640",
+    "in_reply_to_screen_name": "NikeSupport",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 14462333,
+    "in_reply_to_user_id_str": "14462333",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        6.6266397,
+                        35.4928765
+                    ],
+                    [
+                        18.5203619,
+                        35.4928765
+                    ],
+                    [
+                        18.5203619,
+                        47.0924248
+                    ],
+                    [
+                        6.6266397,
+                        47.0924248
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "Italia",
+        "country_code": "IT",
+        "full_name": "Italy",
+        "id": "c799e2d3a79f810e",
+        "name": "Italy",
+        "place_type": "country",
+        "url": "https://api.twitter.com/1.1/geo/id/c799e2d3a79f810e.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@NikeSupport I can't find anymore how to set the running app (iOS) to share also the workout map in Facebook. Can you help me? Thanks",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Jan 02 10:09:36 +0000 2007",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Senior Linux system administrator and Web Architect @simplicissimus. A passionate runner. #bitcoin and #javascript addicted. Check out https://t.co/DA4NMhDRDS",
+        "entities": {
+            "description": {
+                "urls": [
+                    {
+                        "display_url": "getminera.com",
+                        "expanded_url": "http://getminera.com",
+                        "indices": [
+                            135,
+                            158
+                        ],
+                        "url": "https://t.co/DA4NMhDRDS"
+                    }
+                ]
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "michelem.org",
+                        "expanded_url": "http://www.michelem.org",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/keGq4VRuS2"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 91,
+        "follow_request_sent": false,
+        "followers_count": 1628,
+        "following": false,
+        "friends_count": 733,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 440403,
+        "id_str": "440403",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 77,
+        "location": "Ancona, Italy",
+        "name": "Michele Marcucci",
+        "notifications": false,
+        "profile_background_color": "C0DCF1",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/671525243/a6edfb7e3d68e87264874ca185a65dd1.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/671525243/a6edfb7e3d68e87264874ca185a65dd1.jpeg",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/440403/1348839965",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/537665141387456513/wULwahpM_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/537665141387456513/wULwahpM_normal.jpeg",
+        "profile_link_color": "487A9E",
+        "profile_sidebar_border_color": "C0DCF1",
+        "profile_sidebar_fill_color": "1C1C1C",
+        "profile_text_color": "5C91B9",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "michelem",
+        "statuses_count": 7171,
+        "time_zone": "Rome",
+        "url": "https://t.co/keGq4VRuS2",
+        "utc_offset": 3600,
+        "verified": false
+    }
+}
