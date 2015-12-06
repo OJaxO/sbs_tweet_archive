@@ -1,0 +1,163 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Dec 06 21:17:08 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "media": [
+            {
+                "display_url": "pic.twitter.com/G3Rd346KW4",
+                "expanded_url": "http://twitter.com/bbstew44/status/673612157360218112/photo/1",
+                "id": 673612151827914752,
+                "id_str": "673612151827914752",
+                "indices": [
+                    99,
+                    122
+                ],
+                "media_url": "http://pbs.twimg.com/media/CVkmruIW4AANpa9.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/CVkmruIW4AANpa9.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 768,
+                        "resize": "fit",
+                        "w": 1024
+                    },
+                    "medium": {
+                        "h": 450,
+                        "resize": "fit",
+                        "w": 600
+                    },
+                    "small": {
+                        "h": 255,
+                        "resize": "fit",
+                        "w": 340
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/G3Rd346KW4"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 21454307,
+                "id_str": "21454307",
+                "indices": [
+                    0,
+                    13
+                ],
+                "name": "Netflix CS",
+                "screen_name": "Netflixhelps"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 673612157360218112,
+    "id_str": "673612157360218112",
+    "in_reply_to_screen_name": "Netflixhelps",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 21454307,
+    "in_reply_to_user_id_str": "21454307",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -0.368615,
+                        51.729772
+                    ],
+                    [
+                        -0.272269,
+                        51.729772
+                    ],
+                    [
+                        -0.272269,
+                        51.775108
+                    ],
+                    [
+                        -0.368615,
+                        51.775108
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United Kingdom",
+        "country_code": "GB",
+        "full_name": "Saint Albans, England",
+        "id": "536ff8978c2dae6b",
+        "name": "Saint Albans",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/536ff8978c2dae6b.json"
+    },
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@Netflixhelps for the last 3 days get this message on everything we try to watch. Any suggestions? https://t.co/G3Rd346KW4",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat May 05 20:18:40 +0000 2012",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 15,
+        "follow_request_sent": false,
+        "followers_count": 16,
+        "following": false,
+        "friends_count": 58,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 572043127,
+        "id_str": "572043127",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 0,
+        "location": "St Albans",
+        "name": "Brian Stewart",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/572043127/1394999549",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/445286500100743170/pDaQaIg-_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/445286500100743170/pDaQaIg-_normal.jpeg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "bbstew44",
+        "statuses_count": 93,
+        "time_zone": null,
+        "url": null,
+        "utc_offset": null,
+        "verified": false
+    }
+}
