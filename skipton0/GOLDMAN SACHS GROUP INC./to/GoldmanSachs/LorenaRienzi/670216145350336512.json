@@ -1,0 +1,147 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Nov 27 12:22:35 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 253167239,
+                "id_str": "253167239",
+                "indices": [
+                    0,
+                    13
+                ],
+                "name": "Goldman Sachs",
+                "screen_name": "GoldmanSachs"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 670216145350336512,
+    "id_str": "670216145350336512",
+    "in_reply_to_screen_name": "GoldmanSachs",
+    "in_reply_to_status_id": 651468208390602752,
+    "in_reply_to_status_id_str": "651468208390602752",
+    "in_reply_to_user_id": 253167239,
+    "in_reply_to_user_id_str": "253167239",
+    "is_quote_status": false,
+    "lang": "und",
+    "metadata": {
+        "iso_language_code": "und",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        2.0524766,
+                        41.3199988
+                    ],
+                    [
+                        2.2261223,
+                        41.3199988
+                    ],
+                    [
+                        2.2261223,
+                        41.4682658
+                    ],
+                    [
+                        2.0524766,
+                        41.4682658
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "Espa\u00f1a",
+        "country_code": "ES",
+        "full_name": "Barcelona, Catalonia",
+        "id": "1a27537478dd8e38",
+        "name": "Barcelona",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/1a27537478dd8e38.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@GoldmanSachs Wowww!",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Jul 25 13:43:26 +0000 2013",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Overlap Business Director http://t.co/YQ99lxSljZ | Specialist in Leadership,Change Management and Executive Coaching |Writer| Speaker & Internations Consul",
+        "entities": {
+            "description": {
+                "urls": [
+                    {
+                        "display_url": "web.overlap.net",
+                        "expanded_url": "http://www.web.overlap.net/",
+                        "indices": [
+                            26,
+                            48
+                        ],
+                        "url": "http://t.co/YQ99lxSljZ"
+                    }
+                ]
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "linkedin.com/in/lorenarienzi",
+                        "expanded_url": "https://www.linkedin.com/in/lorenarienzi",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/uP1obSDP1m"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 334,
+        "follow_request_sent": false,
+        "followers_count": 636,
+        "following": false,
+        "friends_count": 2095,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 1620424477,
+        "id_str": "1620424477",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "es",
+        "listed_count": 18,
+        "location": "Barcelona, Catalu\u00f1a",
+        "name": "Lorena Rienzi",
+        "notifications": false,
+        "profile_background_color": "FCEBB6",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000033559174/5c1e81f0551a21d5179240310972c574.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000033559174/5c1e81f0551a21d5179240310972c574.jpeg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1620424477/1374760500",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/639582222081740800/0hNAOiCM_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/639582222081740800/0hNAOiCM_normal.jpg",
+        "profile_link_color": "DD2E44",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "78C0A8",
+        "profile_text_color": "5E412F",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "LorenaRienzi",
+        "statuses_count": 461,
+        "time_zone": "Athens",
+        "url": "https://t.co/uP1obSDP1m",
+        "utc_offset": 7200,
+        "verified": false
+    }
+}

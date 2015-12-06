@@ -1,0 +1,123 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Dec 03 10:55:30 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 253167239,
+                "id_str": "253167239",
+                "indices": [
+                    0,
+                    13
+                ],
+                "name": "Goldman Sachs",
+                "screen_name": "GoldmanSachs"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 672368555858481152,
+    "id_str": "672368555858481152",
+    "in_reply_to_screen_name": "GoldmanSachs",
+    "in_reply_to_status_id": 661249854811668480,
+    "in_reply_to_status_id_str": "661249854811668480",
+    "in_reply_to_user_id": 253167239,
+    "in_reply_to_user_id_str": "253167239",
+    "is_quote_status": false,
+    "lang": "und",
+    "metadata": {
+        "iso_language_code": "und",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -40.139664,
+                        -12.520636
+                    ],
+                    [
+                        -39.396858,
+                        -12.520636
+                    ],
+                    [
+                        -39.396858,
+                        -11.905022
+                    ],
+                    [
+                        -40.139664,
+                        -11.905022
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "Brasil",
+        "country_code": "BR",
+        "full_name": "Ipir\u00e1, Bahia",
+        "id": "ca7252f071b53ff5",
+        "name": "Ipir\u00e1",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/ca7252f071b53ff5.json"
+    },
+    "retweet_count": 2,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@GoldmanSachs",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Sep 12 12:20:33 +0000 2015",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 708,
+        "follow_request_sent": false,
+        "followers_count": 2490,
+        "following": false,
+        "friends_count": 3659,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 3631036815,
+        "id_str": "3631036815",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "pt",
+        "listed_count": 48,
+        "location": "",
+        "name": "Ismael#Timbeta",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/648973370520940546/fEmGd3kP_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/648973370520940546/fEmGd3kP_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "IsmaelC00185373",
+        "statuses_count": 14534,
+        "time_zone": null,
+        "url": null,
+        "utc_offset": null,
+        "verified": false
+    }
+}

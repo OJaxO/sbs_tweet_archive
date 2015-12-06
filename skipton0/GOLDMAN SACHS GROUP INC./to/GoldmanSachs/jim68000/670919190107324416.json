@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Nov 29 10:56:14 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 253167239,
+                "id_str": "253167239",
+                "indices": [
+                    0,
+                    13
+                ],
+                "name": "Goldman Sachs",
+                "screen_name": "GoldmanSachs"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 670919190107324416,
+    "id_str": "670919190107324416",
+    "in_reply_to_screen_name": "GoldmanSachs",
+    "in_reply_to_status_id": 661269808135041024,
+    "in_reply_to_status_id_str": "661269808135041024",
+    "in_reply_to_user_id": 253167239,
+    "in_reply_to_user_id_str": "253167239",
+    "is_quote_status": false,
+    "lang": "und",
+    "metadata": {
+        "iso_language_code": "und",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -0.351597,
+                        51.491866
+                    ],
+                    [
+                        -0.243263,
+                        51.491866
+                    ],
+                    [
+                        -0.243263,
+                        51.537638
+                    ],
+                    [
+                        -0.351597,
+                        51.537638
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United Kingdom",
+        "country_code": "GB",
+        "full_name": "Ealing, London",
+        "id": "7093398a4249d151",
+        "name": "Ealing",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/7093398a4249d151.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@GoldmanSachs subprime car insurance?",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Jun 06 08:10:51 +0000 2007",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Reluctant web engineer, slide guitarist",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "bentsand.tumblr.com",
+                        "expanded_url": "http://bentsand.tumblr.com/",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/087KSYK3MH"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 1887,
+        "follow_request_sent": false,
+        "followers_count": 435,
+        "following": false,
+        "friends_count": 262,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 6613562,
+        "id_str": "6613562",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en-gb",
+        "listed_count": 16,
+        "location": "London",
+        "name": "Jim Smith",
+        "notifications": false,
+        "profile_background_color": "339900",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/405198119/jocout.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/405198119/jocout.jpg",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/6613562/1431522105",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/2575795135/yt910zfjozy62itzpgxk_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/2575795135/yt910zfjozy62itzpgxk_normal.png",
+        "profile_link_color": "ABB8C2",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "BDBDBD",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "jim68000",
+        "statuses_count": 17127,
+        "time_zone": "London",
+        "url": "http://t.co/087KSYK3MH",
+        "utc_offset": 0,
+        "verified": false
+    }
+}

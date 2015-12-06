@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Dec 04 15:48:30 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 253167239,
+                "id_str": "253167239",
+                "indices": [
+                    0,
+                    13
+                ],
+                "name": "Goldman Sachs",
+                "screen_name": "GoldmanSachs"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 672804682042052609,
+    "id_str": "672804682042052609",
+    "in_reply_to_screen_name": "GoldmanSachs",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 253167239,
+    "in_reply_to_user_id_str": "253167239",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -87.634643,
+                        24.396308
+                    ],
+                    [
+                        -79.974307,
+                        24.396308
+                    ],
+                    [
+                        -79.974307,
+                        31.001056
+                    ],
+                    [
+                        -87.634643,
+                        31.001056
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Florida, USA",
+        "id": "4ec01c9dbc693497",
+        "name": "Florida",
+        "place_type": "admin",
+        "url": "https://api.twitter.com/1.1/geo/id/4ec01c9dbc693497.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@GoldmanSachs do u guys do a mix series on your soundcloud page?",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Sep 26 17:48:16 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "driving music & additional drum programming @letterracerny | @truants | pigalleDTW",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "soundcloud.com/2lanes",
+                        "expanded_url": "http://soundcloud.com/2lanes",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/81uhITBYZg"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 6249,
+        "follow_request_sent": false,
+        "followers_count": 642,
+        "following": false,
+        "friends_count": 571,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 195429541,
+        "id_str": "195429541",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 11,
+        "location": "Detroit ",
+        "name": "used 2be peak",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000110453169/754a845ed25232a2b6a4d44fb69b10bf.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000110453169/754a845ed25232a2b6a4d44fb69b10bf.jpeg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/195429541/1442035439",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/659389264006938625/DjOhdMXD_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/659389264006938625/DjOhdMXD_normal.jpg",
+        "profile_link_color": "2E1A1A",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Joey2lanes",
+        "statuses_count": 15071,
+        "time_zone": "Quito",
+        "url": "https://t.co/81uhITBYZg",
+        "utc_offset": -18000,
+        "verified": false
+    }
+}
