@@ -1,0 +1,182 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Nov 28 10:22:23 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "media": [
+            {
+                "display_url": "pic.twitter.com/VztOp9NZCu",
+                "expanded_url": "http://twitter.com/AnkitKankar/status/670548281261432832/photo/1",
+                "id": 670548277994065920,
+                "id_str": "670548277994065920",
+                "indices": [
+                    43,
+                    66
+                ],
+                "media_url": "http://pbs.twimg.com/media/CU5EGyqWEAAoy1U.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/CU5EGyqWEAAoy1U.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 423,
+                        "resize": "fit",
+                        "w": 634
+                    },
+                    "medium": {
+                        "h": 400,
+                        "resize": "fit",
+                        "w": 600
+                    },
+                    "small": {
+                        "h": 226,
+                        "resize": "fit",
+                        "w": 340
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/VztOp9NZCu"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 27025414,
+                "id_str": "27025414",
+                "indices": [
+                    0,
+                    14
+                ],
+                "name": "P&G",
+                "screen_name": "ProcterGamble"
+            },
+            {
+                "id": 30281599,
+                "id_str": "30281599",
+                "indices": [
+                    15,
+                    29
+                ],
+                "name": "Fountain Square",
+                "screen_name": "MyFountainSqr"
+            },
+            {
+                "id": 438803220,
+                "id_str": "438803220",
+                "indices": [
+                    31,
+                    38
+                ],
+                "name": "Always",
+                "screen_name": "Always"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 670548281261432832,
+    "id_str": "670548281261432832",
+    "in_reply_to_screen_name": "ProcterGamble",
+    "in_reply_to_status_id": 670416620993531904,
+    "in_reply_to_status_id_str": "670416620993531904",
+    "in_reply_to_user_id": 27025414,
+    "in_reply_to_user_id_str": "27025414",
+    "is_quote_status": false,
+    "lang": "und",
+    "metadata": {
+        "iso_language_code": "und",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        68.1061138,
+                        6.7604429
+                    ],
+                    [
+                        97.4152924,
+                        6.7604429
+                    ],
+                    [
+                        97.4152924,
+                        37.07827
+                    ],
+                    [
+                        68.1061138,
+                        37.07827
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "India",
+        "country_code": "IN",
+        "full_name": "India",
+        "id": "b850c1bfd38f30e0",
+        "name": "India",
+        "place_type": "country",
+        "url": "https://api.twitter.com/1.1/geo/id/b850c1bfd38f30e0.json"
+    },
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@ProcterGamble @MyFountainSqr  @Always (y) https://t.co/VztOp9NZCu",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Oct 03 03:30:16 +0000 2013",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 2,
+        "follow_request_sent": false,
+        "followers_count": 2,
+        "following": false,
+        "friends_count": 10,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 1929126870,
+        "id_str": "1929126870",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 0,
+        "location": "",
+        "name": "Ankit Kankar",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/668514738821689346/-HWYH7jE_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/668514738821689346/-HWYH7jE_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "AnkitKankar",
+        "statuses_count": 3,
+        "time_zone": null,
+        "url": null,
+        "utc_offset": null,
+        "verified": false
+    }
+}

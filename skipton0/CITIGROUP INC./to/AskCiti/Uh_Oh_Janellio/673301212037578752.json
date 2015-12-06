@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Dec 06 00:41:32 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 82151473,
+                "id_str": "82151473",
+                "indices": [
+                    0,
+                    8
+                ],
+                "name": "Citi",
+                "screen_name": "AskCiti"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 673301212037578752,
+    "id_str": "673301212037578752",
+    "in_reply_to_screen_name": "AskCiti",
+    "in_reply_to_status_id": 673300955300016129,
+    "in_reply_to_status_id_str": "673300955300016129",
+    "in_reply_to_user_id": 82151473,
+    "in_reply_to_user_id_str": "82151473",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -80.321683,
+                        25.7090404
+                    ],
+                    [
+                        -80.144974,
+                        25.7090404
+                    ],
+                    [
+                        -80.144974,
+                        25.855667
+                    ],
+                    [
+                        -80.321683,
+                        25.855667
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Miami, FL",
+        "id": "04cb31bae3b3af93",
+        "name": "Miami",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/04cb31bae3b3af93.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@AskCiti I know, thanks! I just mean when will bank account holders be able to place these alerts online. CCs can do it, but we can't.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Mar 25 01:49:47 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Travel. Books. Food. (a)Fros.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "uhohjanellio.com",
+                        "expanded_url": "http://uhohjanellio.com",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/ZoepbqsePA"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 4406,
+        "follow_request_sent": false,
+        "followers_count": 698,
+        "following": false,
+        "friends_count": 593,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 271715677,
+        "id_str": "271715677",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 22,
+        "location": "New York, NY (Queens!)",
+        "name": "Janelle",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/441041863173107712/C3NoMea-.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/441041863173107712/C3NoMea-.jpeg",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/271715677/1431145783",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/632698348282114048/V8STixkb_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/632698348282114048/V8STixkb_normal.png",
+        "profile_link_color": "3FD85B",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "0F0F0F",
+        "profile_text_color": "B9B9B9",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "Uh_Oh_Janellio",
+        "statuses_count": 6279,
+        "time_zone": "Quito",
+        "url": "http://t.co/ZoepbqsePA",
+        "utc_offset": -18000,
+        "verified": false
+    }
+}
