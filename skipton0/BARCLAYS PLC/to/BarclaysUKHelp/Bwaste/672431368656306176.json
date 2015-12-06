@@ -1,0 +1,124 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Dec 03 15:05:06 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 3046525515,
+                "id_str": "3046525515",
+                "indices": [
+                    0,
+                    15
+                ],
+                "name": "Barclays UK Help",
+                "screen_name": "BarclaysUKHelp"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 672431368656306176,
+    "id_str": "672431368656306176",
+    "in_reply_to_screen_name": "BarclaysUKHelp",
+    "in_reply_to_status_id": 672422271080906752,
+    "in_reply_to_status_id_str": "672422271080906752",
+    "in_reply_to_user_id": 3046525515,
+    "in_reply_to_user_id_str": "3046525515",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -0.6855663,
+                        51.514857
+                    ],
+                    [
+                        -0.64688,
+                        51.514857
+                    ],
+                    [
+                        -0.64688,
+                        51.5668567
+                    ],
+                    [
+                        -0.6855663,
+                        51.5668567
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United Kingdom",
+        "country_code": "GB",
+        "full_name": "Burnham, England",
+        "id": "36b39da94dce3531",
+        "name": "Burnham",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/36b39da94dce3531.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@BarclaysUKHelp yeah I have. Hopefully now I won't get declined again for absolutely no reason.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun May 03 18:11:55 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Man of business, adventure and culture. Just a normal joker having normal jokes.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 110,
+        "follow_request_sent": false,
+        "followers_count": 107,
+        "following": false,
+        "friends_count": 211,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 37466404,
+        "id_str": "37466404",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 1,
+        "location": "Burnham/Bournemouth",
+        "name": "Captain Potato",
+        "notifications": false,
+        "profile_background_color": "352726",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000162419967/Dkn5dXns.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000162419967/Dkn5dXns.jpeg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/37466404/1388844335",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/467379943337644032/JU9eRR4v_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/467379943337644032/JU9eRR4v_normal.jpeg",
+        "profile_link_color": "D02B55",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "99CC33",
+        "profile_text_color": "3E4415",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Bwaste",
+        "statuses_count": 3017,
+        "time_zone": "Amsterdam",
+        "url": null,
+        "utc_offset": 3600,
+        "verified": false
+    }
+}
