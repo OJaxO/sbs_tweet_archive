@@ -1,0 +1,171 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Dec 06 15:51:09 +0000 2015",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    12,
+                    22
+                ],
+                "text": "ambleside"
+            }
+        ],
+        "media": [
+            {
+                "display_url": "pic.twitter.com/E5b0yEdLWk",
+                "expanded_url": "http://twitter.com/pjmcd66/status/673530121970692096/photo/1",
+                "id": 673530108829941760,
+                "id_str": "673530108829941760",
+                "indices": [
+                    60,
+                    83
+                ],
+                "media_url": "http://pbs.twimg.com/media/CVjcEMJWwAAhkr2.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/CVjcEMJWwAAhkr2.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 1024,
+                        "resize": "fit",
+                        "w": 768
+                    },
+                    "medium": {
+                        "h": 800,
+                        "resize": "fit",
+                        "w": 600
+                    },
+                    "small": {
+                        "h": 453,
+                        "resize": "fit",
+                        "w": 340
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/E5b0yEdLWk"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 19397351,
+                "id_str": "19397351",
+                "indices": [
+                    0,
+                    11
+                ],
+                "name": "Premier Inn",
+                "screen_name": "premierinn"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 673530121970692096,
+    "id_str": "673530121970692096",
+    "in_reply_to_screen_name": "premierinn",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 19397351,
+    "in_reply_to_user_id_str": "19397351",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -2.9712901,
+                        54.4174392
+                    ],
+                    [
+                        -2.954343,
+                        54.4174392
+                    ],
+                    [
+                        -2.954343,
+                        54.439488
+                    ],
+                    [
+                        -2.9712901,
+                        54.439488
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United Kingdom",
+        "country_code": "GB",
+        "full_name": "Ambleside, England",
+        "id": "20e4de6437023ced",
+        "name": "Ambleside",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/20e4de6437023ced.json"
+    },
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@premierinn #ambleside welcomes you to their leisure pool!! https://t.co/E5b0yEdLWk",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Sep 12 21:49:55 +0000 2013",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Working in Hospitality since the 80's. Chef, partner then owner of Elder Grove with a bit of Firefighting on the side!",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 1770,
+        "follow_request_sent": false,
+        "followers_count": 389,
+        "following": false,
+        "friends_count": 396,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 1858628538,
+        "id_str": "1858628538",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 7,
+        "location": "Ambleside, England",
+        "name": "Paul McDougall",
+        "notifications": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1858628538/1443106437",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/636997903546982400/v5fs-lJT_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/636997903546982400/v5fs-lJT_normal.jpg",
+        "profile_link_color": "430661",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "pjmcd66",
+        "statuses_count": 4139,
+        "time_zone": "Amsterdam",
+        "url": null,
+        "utc_offset": 3600,
+        "verified": false
+    }
+}
