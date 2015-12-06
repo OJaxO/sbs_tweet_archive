@@ -1,0 +1,134 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Dec 06 02:14:48 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 17137891,
+                "id_str": "17137891",
+                "indices": [
+                    0,
+                    8
+                ],
+                "name": "Walmart",
+                "screen_name": "Walmart"
+            },
+            {
+                "id": 1616864694,
+                "id_str": "1616864694",
+                "indices": [
+                    9,
+                    24
+                ],
+                "name": "Yes Its Me",
+                "screen_name": "yessmithmorris"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 673324680107810816,
+    "id_str": "673324680107810816",
+    "in_reply_to_screen_name": "Walmart",
+    "in_reply_to_status_id": 673320019070197761,
+    "in_reply_to_status_id_str": "673320019070197761",
+    "in_reply_to_user_id": 17137891,
+    "in_reply_to_user_id_str": "17137891",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -117.184394,
+                        33.447541
+                    ],
+                    [
+                        -117.054639,
+                        33.447541
+                    ],
+                    [
+                        -117.054639,
+                        33.554501
+                    ],
+                    [
+                        -117.184394,
+                        33.554501
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Temecula, CA",
+        "id": "f95304ef80fecc3f",
+        "name": "Temecula",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/f95304ef80fecc3f.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@Walmart @yessmithmorris ship-to-store is a epic FAILURE in my area, ordered two items IN STOCK and it still takes over 24 hours process?",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Jul 07 16:53:22 +0000 2013",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Charger & Navy Football, Padres, A flock of Hockey (Ducks & Gulls) Camping and Amateur Astronomy",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 175,
+        "follow_request_sent": false,
+        "followers_count": 25,
+        "following": false,
+        "friends_count": 74,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 1575556452,
+        "id_str": "1575556452",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 0,
+        "location": "",
+        "name": "Tim Deardorff",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1575556452/1441476593",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/668581919488012288/UbKh_4Qz_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/668581919488012288/UbKh_4Qz_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Temecula_Bolts",
+        "statuses_count": 251,
+        "time_zone": null,
+        "url": null,
+        "utc_offset": null,
+        "verified": false
+    }
+}

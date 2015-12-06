@@ -1,0 +1,176 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Dec 06 13:12:56 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "media": [
+            {
+                "display_url": "pic.twitter.com/mu8I9obFVS",
+                "expanded_url": "http://twitter.com/djdarenc/status/673490304129851392/photo/1",
+                "id": 673490296911429632,
+                "id_str": "673490296911429632",
+                "indices": [
+                    116,
+                    139
+                ],
+                "media_url": "http://pbs.twimg.com/media/CVi321MUAAAG-tf.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/CVi321MUAAAG-tf.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 768,
+                        "resize": "fit",
+                        "w": 1024
+                    },
+                    "medium": {
+                        "h": 450,
+                        "resize": "fit",
+                        "w": 600
+                    },
+                    "small": {
+                        "h": 255,
+                        "resize": "fit",
+                        "w": 340
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/mu8I9obFVS"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 17137891,
+                "id_str": "17137891",
+                "indices": [
+                    0,
+                    8
+                ],
+                "name": "Walmart",
+                "screen_name": "Walmart"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 673490304129851392,
+    "id_str": "673490304129851392",
+    "in_reply_to_screen_name": "Walmart",
+    "in_reply_to_status_id": 673489730177249280,
+    "in_reply_to_status_id_str": "673489730177249280",
+    "in_reply_to_user_id": 17137891,
+    "in_reply_to_user_id_str": "17137891",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -90.335118,
+                        38.598822
+                    ],
+                    [
+                        -90.310114,
+                        38.598822
+                    ],
+                    [
+                        -90.310114,
+                        38.622771
+                    ],
+                    [
+                        -90.335118,
+                        38.622771
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Maplewood, MO",
+        "id": "22c274ed5c4f6463",
+        "name": "Maplewood",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/22c274ed5c4f6463.json"
+    },
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@Walmart Tammi - props for replying to Twitter in a lightning fast manner.   I may be pissed about my hour here but https://t.co/mu8I9obFVS",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Feb 02 05:21:37 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Father to Maxx and Emma, NBA fan, retired DJ, love music, movies, and the Utah Jazz.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "facebook.com/darenleecortez",
+                        "expanded_url": "http://www.facebook.com/darenleecortez",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/lJ6jcEuuEq"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 646,
+        "follow_request_sent": false,
+        "followers_count": 213,
+        "following": false,
+        "friends_count": 940,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 19894503,
+        "id_str": "19894503",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 13,
+        "location": "St. Louis ",
+        "name": "Daren Cortez",
+        "notifications": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/670536110/8d9fd237e0abcb3c985b690a6ab62e6d.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/670536110/8d9fd237e0abcb3c985b690a6ab62e6d.jpeg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/19894503/1428561606",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/460062803164815362/PeWq97g1_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/460062803164815362/PeWq97g1_normal.jpeg",
+        "profile_link_color": "009999",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "djdarenc",
+        "statuses_count": 5183,
+        "time_zone": "Central Time (US & Canada)",
+        "url": "http://t.co/lJ6jcEuuEq",
+        "utc_offset": -21600,
+        "verified": false
+    }
+}

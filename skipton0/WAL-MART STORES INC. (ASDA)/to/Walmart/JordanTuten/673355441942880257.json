@@ -1,0 +1,144 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Dec 06 04:17:02 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 17137891,
+                "id_str": "17137891",
+                "indices": [
+                    0,
+                    8
+                ],
+                "name": "Walmart",
+                "screen_name": "Walmart"
+            },
+            {
+                "id": 80700514,
+                "id_str": "80700514",
+                "indices": [
+                    40,
+                    56
+                ],
+                "name": "Tracy Morgan",
+                "screen_name": "RealTracyMorgan"
+            },
+            {
+                "id": 14423603,
+                "id_str": "14423603",
+                "indices": [
+                    59,
+                    70
+                ],
+                "name": "Beats By Dre",
+                "screen_name": "beatsbydre"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 673355441942880257,
+    "id_str": "673355441942880257",
+    "in_reply_to_screen_name": "Walmart",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 17137891,
+    "in_reply_to_user_id_str": "17137891",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -112.3239143,
+                        33.29026
+                    ],
+                    [
+                        -111.9254391,
+                        33.29026
+                    ],
+                    [
+                        -111.9254391,
+                        33.8154652
+                    ],
+                    [
+                        -112.3239143,
+                        33.8154652
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Phoenix, AZ",
+        "id": "5c62ffb0f0f3479d",
+        "name": "Phoenix",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/5c62ffb0f0f3479d.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@Walmart paid for that big ole house in @RealTracyMorgan's @beatsbydre Christmas commercial",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Apr 26 03:24:40 +0000 2012",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Bee Keeper",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 2286,
+        "follow_request_sent": false,
+        "followers_count": 273,
+        "following": false,
+        "friends_count": 347,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 563485515,
+        "id_str": "563485515",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 2,
+        "location": "Nashville, TN",
+        "name": "Jordan Tuten",
+        "notifications": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/537834056/Reds.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/537834056/Reds.jpg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/563485515/1355422102",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/3752660622/9eb4dc220e9ce017097e1b286ce13b5e_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/3752660622/9eb4dc220e9ce017097e1b286ce13b5e_normal.jpeg",
+        "profile_link_color": "009999",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "JordanTuten",
+        "statuses_count": 4266,
+        "time_zone": "Central Time (US & Canada)",
+        "url": null,
+        "utc_offset": -21600,
+        "verified": false
+    }
+}
