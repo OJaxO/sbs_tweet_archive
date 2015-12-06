@@ -1,0 +1,302 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Dec 05 21:49:59 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/bemdv/status/6\u2026",
+                "expanded_url": "https://twitter.com/bemdv/status/673161984620298240",
+                "indices": [
+                    78,
+                    101
+                ],
+                "url": "https://t.co/C4RnJb0SsK"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 378623571,
+                "id_str": "378623571",
+                "indices": [
+                    0,
+                    16
+                ],
+                "name": "Asda Service Team",
+                "screen_name": "AsdaServiceTeam"
+            },
+            {
+                "id": 20123366,
+                "id_str": "20123366",
+                "indices": [
+                    17,
+                    22
+                ],
+                "name": "Asda",
+                "screen_name": "asda"
+            },
+            {
+                "id": 19932359,
+                "id_str": "19932359",
+                "indices": [
+                    43,
+                    58
+                ],
+                "name": "Greggs",
+                "screen_name": "GreggsOfficial"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 673258037491146753,
+    "id_str": "673258037491146753",
+    "in_reply_to_screen_name": "AsdaServiceTeam",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 378623571,
+    "in_reply_to_user_id_str": "378623571",
+    "is_quote_status": true,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": null,
+    "possibly_sensitive": false,
+    "quoted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Sat Dec 05 15:28:18 +0000 2015",
+        "entities": {
+            "hashtags": [
+                {
+                    "indices": [
+                        32,
+                        42
+                    ],
+                    "text": "Fairtrade"
+                },
+                {
+                    "indices": [
+                        43,
+                        50
+                    ],
+                    "text": "coffee"
+                }
+            ],
+            "media": [
+                {
+                    "display_url": "pic.twitter.com/adu9RKAWwt",
+                    "expanded_url": "http://twitter.com/bemdv/status/673161984620298240/photo/1",
+                    "id": 673161982544072705,
+                    "id_str": "673161982544072705",
+                    "indices": [
+                        94,
+                        117
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/CVeNQa3WUAED_qA.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/CVeNQa3WUAED_qA.jpg",
+                    "sizes": {
+                        "large": {
+                            "h": 1024,
+                            "resize": "fit",
+                            "w": 576
+                        },
+                        "medium": {
+                            "h": 1024,
+                            "resize": "fit",
+                            "w": 576
+                        },
+                        "small": {
+                            "h": 604,
+                            "resize": "fit",
+                            "w": 340
+                        },
+                        "thumb": {
+                            "h": 150,
+                            "resize": "crop",
+                            "w": 150
+                        }
+                    },
+                    "type": "photo",
+                    "url": "https://t.co/adu9RKAWwt"
+                }
+            ],
+            "symbols": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "id": 19932359,
+                    "id_str": "19932359",
+                    "indices": [
+                        9,
+                        24
+                    ],
+                    "name": "Greggs",
+                    "screen_name": "GreggsOfficial"
+                },
+                {
+                    "id": 101808249,
+                    "id_str": "101808249",
+                    "indices": [
+                        65,
+                        80
+                    ],
+                    "name": "Fair Trade Wales",
+                    "screen_name": "FairTradeWales"
+                },
+                {
+                    "id": 17765323,
+                    "id_str": "17765323",
+                    "indices": [
+                        81,
+                        93
+                    ],
+                    "name": "Fairtrade Foundation",
+                    "screen_name": "FairtradeUK"
+                }
+            ]
+        },
+        "favorite_count": 4,
+        "favorited": false,
+        "geo": null,
+        "id": 673161984620298240,
+        "id_str": "673161984620298240",
+        "in_reply_to_screen_name": null,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "is_quote_status": false,
+        "lang": "en",
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "place": null,
+        "possibly_sensitive": false,
+        "retweet_count": 4,
+        "retweeted": false,
+        "source": "<a href=\"http://www.twitter.com\" rel=\"nofollow\">Twitter for Windows Phone</a>",
+        "text": "Who knew @greggsofficial serves #Fairtrade #coffee great to see! @FairTradeWales @FairtradeUK https://t.co/adu9RKAWwt",
+        "truncated": false,
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Thu Dec 02 11:45:36 +0000 2010",
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "A welshman with a passion for sport, current affairs, the outdoors and the environment.   Comms professional for @hubcymruafrica. Views here are my own.",
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "favourites_count": 56,
+            "follow_request_sent": false,
+            "followers_count": 128,
+            "following": false,
+            "friends_count": 286,
+            "geo_enabled": false,
+            "has_extended_profile": false,
+            "id": 222076109,
+            "id_str": "222076109",
+            "is_translation_enabled": false,
+            "is_translator": false,
+            "lang": "en",
+            "listed_count": 9,
+            "location": "",
+            "name": "braned",
+            "notifications": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/222076109/1440584637",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/636484044721627136/RhTcTlKJ_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/636484044721627136/RhTcTlKJ_normal.jpg",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "bemdv",
+            "statuses_count": 1357,
+            "time_zone": null,
+            "url": null,
+            "utc_offset": null,
+            "verified": false
+        }
+    },
+    "quoted_status_id": 673161984620298240,
+    "quoted_status_id_str": "673161984620298240",
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+    "text": "@AsdaServiceTeam @asda.   Good to see that @GreggsOfficial can get it right!  https://t.co/C4RnJb0SsK",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Sep 14 10:18:25 +0000 2014",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "The Twitter Page of the Rectorial Benefice of Aberavon.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "parishofaberavon.org",
+                        "expanded_url": "http://www.parishofaberavon.org/",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/s5RlFwJvS6"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 163,
+        "follow_request_sent": false,
+        "followers_count": 95,
+        "following": false,
+        "friends_count": 136,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 2809175432,
+        "id_str": "2809175432",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 0,
+        "location": "Port Talbot",
+        "name": "Benefice of Aberavon",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2809175432/1410690111",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/593878056080642048/4NjfVsWa_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/593878056080642048/4NjfVsWa_normal.jpg",
+        "profile_link_color": "3B94D9",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "BenofAberavon",
+        "statuses_count": 265,
+        "time_zone": null,
+        "url": "http://t.co/s5RlFwJvS6",
+        "utc_offset": null,
+        "verified": false
+    }
+}
