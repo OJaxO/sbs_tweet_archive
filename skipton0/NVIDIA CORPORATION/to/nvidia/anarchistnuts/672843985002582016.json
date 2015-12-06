@@ -1,0 +1,185 @@
+{
+    "contributors": null,
+    "coordinates": {
+        "coordinates": [
+            12.51980532,
+            55.66527583
+        ],
+        "type": "Point"
+    },
+    "created_at": "Fri Dec 04 18:24:41 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "media": [
+            {
+                "display_url": "pic.twitter.com/RpvS7duuAH",
+                "expanded_url": "http://twitter.com/anarchistnuts/status/672843985002582016/photo/1",
+                "id": 672843974055297024,
+                "id_str": "672843974055297024",
+                "indices": [
+                    85,
+                    108
+                ],
+                "media_url": "http://pbs.twimg.com/media/CVZsB47UAAAtRCz.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/CVZsB47UAAAtRCz.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 576,
+                        "resize": "fit",
+                        "w": 1024
+                    },
+                    "medium": {
+                        "h": 337,
+                        "resize": "fit",
+                        "w": 600
+                    },
+                    "small": {
+                        "h": 191,
+                        "resize": "fit",
+                        "w": 340
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/RpvS7duuAH"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 61559439,
+                "id_str": "61559439",
+                "indices": [
+                    0,
+                    7
+                ],
+                "name": "NVIDIA",
+                "screen_name": "nvidia"
+            },
+            {
+                "id": 2667257574,
+                "id_str": "2667257574",
+                "indices": [
+                    8,
+                    21
+                ],
+                "name": "NVIDIA SHIELD",
+                "screen_name": "nvidiashield"
+            }
+        ]
+    },
+    "favorite_count": 7,
+    "favorited": false,
+    "geo": {
+        "coordinates": [
+            55.66527583,
+            12.51980532
+        ],
+        "type": "Point"
+    },
+    "id": 672843985002582016,
+    "id_str": "672843985002582016",
+    "in_reply_to_screen_name": "nvidia",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 61559439,
+    "in_reply_to_user_id_str": "61559439",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        12.453064,
+                        55.613717
+                    ],
+                    [
+                        12.6511441,
+                        55.613717
+                    ],
+                    [
+                        12.6511441,
+                        55.731834
+                    ],
+                    [
+                        12.453064,
+                        55.731834
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "Danmark",
+        "country_code": "DK",
+        "full_name": "Copenhagen, Capital Region of Denmark",
+        "id": "936b83f20956cd4c",
+        "name": "Copenhagen",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/936b83f20956cd4c.json"
+    },
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://www.twitter.com\" rel=\"nofollow\">Twitter for Windows Phone</a>",
+    "text": "@nvidia @nvidiashield Thank you for making this grateful product. You are the best \ud83d\ude0a https://t.co/RpvS7duuAH",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun May 10 08:15:48 +0000 2015",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Last seen @ (55.6653838, 12.5193827)",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 2960,
+        "follow_request_sent": false,
+        "followers_count": 169,
+        "following": false,
+        "friends_count": 378,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 3244650184,
+        "id_str": "3244650184",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "da",
+        "listed_count": 39,
+        "location": "Copenhagen, Capital Region of ",
+        "name": "Fener Hotspur's",
+        "notifications": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3244650184/1443518473",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/673179112731713537/7kmz-0p2_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/673179112731713537/7kmz-0p2_normal.jpg",
+        "profile_link_color": "009999",
+        "profile_sidebar_border_color": "EEEEEE",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "anarchistnuts",
+        "statuses_count": 11406,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": null,
+        "utc_offset": -28800,
+        "verified": false
+    }
+}
