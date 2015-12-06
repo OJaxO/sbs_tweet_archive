@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Nov 30 23:05:36 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 15234657,
+                "id_str": "15234657",
+                "indices": [
+                    0,
+                    3
+                ],
+                "name": "Electronic Arts",
+                "screen_name": "EA"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 671465127158415360,
+    "id_str": "671465127158415360",
+    "in_reply_to_screen_name": "EA",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 15234657,
+    "in_reply_to_user_id_str": "15234657",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -46.826039,
+                        -24.008814
+                    ],
+                    [
+                        -46.365052,
+                        -24.008814
+                    ],
+                    [
+                        -46.365052,
+                        -23.356792
+                    ],
+                    [
+                        -46.826039,
+                        -23.356792
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "Brasil",
+        "country_code": "BR",
+        "full_name": "Sao Paulo, Brazil",
+        "id": "68e019afec7d0ba5",
+        "name": "Sao Paulo",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/68e019afec7d0ba5.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@EA please spore2",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Aug 13 02:44:30 +0000 2012",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "O cara das piadas ruins, que inventa sentimentos, chamado de idiota, as vezes desnecess\u00e1rio, p\u00e9ssimo em entender indireta e que prefere um role q horas no whats",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "fuck--you-bitch.tumblr.com",
+                        "expanded_url": "http://fuck--you-bitch.tumblr.com/",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/B3G1UyfNLP"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 5400,
+        "follow_request_sent": false,
+        "followers_count": 335,
+        "following": false,
+        "friends_count": 125,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 754263948,
+        "id_str": "754263948",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "pt",
+        "listed_count": 2,
+        "location": "",
+        "name": "Como o Mar",
+        "notifications": false,
+        "profile_background_color": "EBEBEB",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000172383842/yd_o6nv1.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000172383842/yd_o6nv1.jpeg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/754263948/1444608946",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/662799645433835524/dxfOl4m-_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/662799645433835524/dxfOl4m-_normal.jpg",
+        "profile_link_color": "00FFFF",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "SouUmPolvo",
+        "statuses_count": 47386,
+        "time_zone": "Brasilia",
+        "url": "http://t.co/B3G1UyfNLP",
+        "utc_offset": -7200,
+        "verified": false
+    }
+}

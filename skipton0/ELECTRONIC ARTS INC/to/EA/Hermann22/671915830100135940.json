@@ -1,0 +1,124 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Dec 02 04:56:32 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 15234657,
+                "id_str": "15234657",
+                "indices": [
+                    0,
+                    3
+                ],
+                "name": "Electronic Arts",
+                "screen_name": "EA"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 671915830100135940,
+    "id_str": "671915830100135940",
+    "in_reply_to_screen_name": "EA",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 15234657,
+    "in_reply_to_user_id_str": "15234657",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -122.436232,
+                        47.4953154
+                    ],
+                    [
+                        -122.2249728,
+                        47.4953154
+                    ],
+                    [
+                        -122.2249728,
+                        47.734561
+                    ],
+                    [
+                        -122.436232,
+                        47.734561
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Seattle, WA",
+        "id": "300bcc6e23a88361",
+        "name": "Seattle",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/300bcc6e23a88361.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@EA Sweet...I pre-order the game and I can't get the DLC to work. Thanks, guys \ud83d\udc4d",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Dec 08 07:13:52 +0000 2008",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Podcaster for @Forcecast / @Makinminemarvel / @SWWithFriends / @Unmutedpodcast. 12th Man. Failed pop musician. @pictureascene = my wife / @wimerek = my bro.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 28446,
+        "follow_request_sent": false,
+        "followers_count": 1120,
+        "following": false,
+        "friends_count": 279,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 17958367,
+        "id_str": "17958367",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 51,
+        "location": "Seattle, Wa",
+        "name": "P-Thug",
+        "notifications": false,
+        "profile_background_color": "B2DFDA",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/122619119/Old_and_new_logo.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/122619119/Old_and_new_logo.jpg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/17958367/1447182474",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/670106457023651844/-0HypzWP_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/670106457023651844/-0HypzWP_normal.jpg",
+        "profile_link_color": "93A644",
+        "profile_sidebar_border_color": "EEEEEE",
+        "profile_sidebar_fill_color": "FFFFFF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Hermann22",
+        "statuses_count": 36462,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": null,
+        "utc_offset": -28800,
+        "verified": false
+    }
+}
