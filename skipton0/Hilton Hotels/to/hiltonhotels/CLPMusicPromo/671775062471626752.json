@@ -1,0 +1,179 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 01 19:37:10 +0000 2015",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    62,
+                    73
+                ],
+                "text": "Montgomery"
+            },
+            {
+                "indices": [
+                    74,
+                    77
+                ],
+                "text": "Al"
+            },
+            {
+                "indices": [
+                    95,
+                    102
+                ],
+                "text": "bestof"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 64510593,
+                "id_str": "64510593",
+                "indices": [
+                    0,
+                    13
+                ],
+                "name": "Hilton Hotels",
+                "screen_name": "HiltonHotels"
+            },
+            {
+                "id": 18667222,
+                "id_str": "18667222",
+                "indices": [
+                    47,
+                    58
+                ],
+                "name": "DoubleTree by Hilton",
+                "screen_name": "doubletree"
+            },
+            {
+                "id": 163936383,
+                "id_str": "163936383",
+                "indices": [
+                    78,
+                    94
+                ],
+                "name": "Curtis Lee Putman\u2122",
+                "screen_name": "CurtisLeePutman"
+            }
+        ]
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": null,
+    "id": 671775062471626752,
+    "id_str": "671775062471626752",
+    "in_reply_to_screen_name": "HiltonHotels",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 64510593,
+    "in_reply_to_user_id_str": "64510593",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -86.30677382428135,
+                        32.37941374179794
+                    ],
+                    [
+                        -86.30677382428135,
+                        32.37941374179794
+                    ],
+                    [
+                        -86.30677382428135,
+                        32.37941374179794
+                    ],
+                    [
+                        -86.30677382428135,
+                        32.37941374179794
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "DoubleTree by Hilton\u2122 Hotel \u2013 Montgomery Downtown",
+        "id": "07d9f6c8cf483004",
+        "name": "DoubleTree by Hilton\u2122 Hotel \u2013 Montgomery Downtown",
+        "place_type": "poi",
+        "url": "https://api.twitter.com/1.1/geo/id/07d9f6c8cf483004.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@HiltonHotels Thank you for another great stay @doubletree in #Montgomery #Al @CurtisLeePutman #bestof due to the staff.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Jan 01 17:50:01 +0000 2014",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "MUSIC BAND AND SOLO ARTIST MARKETING DISTRIBUTION AND PRODUCTION RECORD LABEL.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "clpmusicpromotions.com",
+                        "expanded_url": "http://www.clpmusicpromotions.com",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/Oq7REDkKK3"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 543,
+        "follow_request_sent": false,
+        "followers_count": 1084,
+        "following": false,
+        "friends_count": 1636,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 2256641475,
+        "id_str": "2256641475",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 18,
+        "location": "Montgomery,Alabama",
+        "name": "CLP Music Promotions",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2256641475/1412202139",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/649804239812861952/DpeHDqGq_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/649804239812861952/DpeHDqGq_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "CLPMusicPromo",
+        "statuses_count": 1809,
+        "time_zone": null,
+        "url": "http://t.co/Oq7REDkKK3",
+        "utc_offset": null,
+        "verified": false
+    }
+}

@@ -1,0 +1,225 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Dec 04 06:03:44 +0000 2015",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    78,
+                    88
+                ],
+                "text": "gardeninn"
+            },
+            {
+                "indices": [
+                    89,
+                    94
+                ],
+                "text": "nola"
+            },
+            {
+                "indices": [
+                    95,
+                    100
+                ],
+                "text": "fail"
+            },
+            {
+                "indices": [
+                    101,
+                    114
+                ],
+                "text": "shortcircuit"
+            }
+        ],
+        "media": [
+            {
+                "display_url": "pic.twitter.com/M6a1RdqJoe",
+                "expanded_url": "http://twitter.com/pierrepham/status/672657517026156544/photo/1",
+                "id": 672657515671330816,
+                "id_str": "672657515671330816",
+                "indices": [
+                    115,
+                    138
+                ],
+                "media_url": "http://pbs.twimg.com/media/CVXCclUWIAAUS2u.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/CVXCclUWIAAUS2u.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 1365,
+                        "resize": "fit",
+                        "w": 1024
+                    },
+                    "medium": {
+                        "h": 800,
+                        "resize": "fit",
+                        "w": 600
+                    },
+                    "small": {
+                        "h": 453,
+                        "resize": "fit",
+                        "w": 340
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/M6a1RdqJoe"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 64510593,
+                "id_str": "64510593",
+                "indices": [
+                    0,
+                    13
+                ],
+                "name": "Hilton Hotels",
+                "screen_name": "HiltonHotels"
+            },
+            {
+                "id": 562190552,
+                "id_str": "562190552",
+                "indices": [
+                    14,
+                    25
+                ],
+                "name": "Hilton Help",
+                "screen_name": "HiltonHelp"
+            },
+            {
+                "id": 57018084,
+                "id_str": "57018084",
+                "indices": [
+                    26,
+                    40
+                ],
+                "name": "Hilton HHonors",
+                "screen_name": "HiltonHHonors"
+            }
+        ]
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": null,
+    "id": 672657517026156544,
+    "id_str": "672657517026156544",
+    "in_reply_to_screen_name": "HiltonHotels",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 64510593,
+    "in_reply_to_user_id_str": "64510593",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -90.137908,
+                        29.889574
+                    ],
+                    [
+                        -89.884108,
+                        29.889574
+                    ],
+                    [
+                        -89.884108,
+                        30.075628
+                    ],
+                    [
+                        -90.137908,
+                        30.075628
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "New Orleans, LA",
+        "id": "dd3b100831dd1763",
+        "name": "New Orleans",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/dd3b100831dd1763.json"
+    },
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for i\u039fS</a>",
+    "text": "@hiltonhotels @hiltonhelp @hiltonhhonors Is this some type of new light bulb? #gardeninn #nola #fail #shortcircuit https://t.co/M6a1RdqJoe",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Feb 27 21:43:47 +0000 2009",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Making the world a better place. Entrepreneur. Small Empires. We are the future.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "revolutionnetworks.com",
+                        "expanded_url": "http://www.revolutionnetworks.com",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/av2h74mh7c"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 5,
+        "follow_request_sent": false,
+        "followers_count": 40,
+        "following": false,
+        "friends_count": 32,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 22194681,
+        "id_str": "22194681",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 8,
+        "location": "iPhone: 29.746279,-95.366162",
+        "name": "Pierre Pham",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/22194681/1440992675",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/659200013273137152/myf2Q-Yy_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/659200013273137152/myf2Q-Yy_normal.png",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "pierrepham",
+        "statuses_count": 1434,
+        "time_zone": "Central Time (US & Canada)",
+        "url": "http://t.co/av2h74mh7c",
+        "utc_offset": -21600,
+        "verified": false
+    }
+}

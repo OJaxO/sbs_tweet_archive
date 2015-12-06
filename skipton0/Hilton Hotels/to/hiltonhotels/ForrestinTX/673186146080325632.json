@@ -1,0 +1,123 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Dec 05 17:04:19 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 64510593,
+                "id_str": "64510593",
+                "indices": [
+                    0,
+                    13
+                ],
+                "name": "Hilton Hotels",
+                "screen_name": "HiltonHotels"
+            }
+        ]
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": null,
+    "id": 673186146080325632,
+    "id_str": "673186146080325632",
+    "in_reply_to_screen_name": "HiltonHotels",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 64510593,
+    "in_reply_to_user_id_str": "64510593",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -97.768683,
+                        35.290722
+                    ],
+                    [
+                        -97.335639,
+                        35.290722
+                    ],
+                    [
+                        -97.335639,
+                        35.674965
+                    ],
+                    [
+                        -97.768683,
+                        35.674965
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Oklahoma City, OK",
+        "id": "9531d4e3bbafc09d",
+        "name": "Oklahoma City",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/9531d4e3bbafc09d.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@HiltonHotels just a quick recognition for Nancy at OKC airport Garden Inn gr8 customer service!!!!!",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Feb 10 15:18:10 +0000 2009",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Expat Californian, born again in  Texas!  If it's smaller government, aviation, guns, guitars, cigars, craft beers or cars I'm in!",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 679,
+        "follow_request_sent": false,
+        "followers_count": 156,
+        "following": false,
+        "friends_count": 314,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 20519028,
+        "id_str": "20519028",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 5,
+        "location": "The Republic of Texas",
+        "name": "Forrest Swonsen",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/560079842398310401/rf0_LgK2_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/560079842398310401/rf0_LgK2_normal.jpeg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "ForrestinTX",
+        "statuses_count": 1281,
+        "time_zone": "Mountain Time (US & Canada)",
+        "url": null,
+        "utc_offset": -25200,
+        "verified": false
+    }
+}
