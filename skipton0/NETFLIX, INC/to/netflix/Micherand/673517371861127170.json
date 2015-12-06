@@ -1,0 +1,304 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Dec 06 15:00:29 +0000 2015",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    9,
+                    17
+                ],
+                "text": "netflix"
+            },
+            {
+                "indices": [
+                    18,
+                    27
+                ],
+                "text": "Dominion"
+            },
+            {
+                "indices": [
+                    109,
+                    116
+                ],
+                "text": "Julian"
+            }
+        ],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/Rebeccaslink/s\u2026",
+                "expanded_url": "https://twitter.com/Rebeccaslink/status/673496422084452352",
+                "indices": [
+                    117,
+                    140
+                ],
+                "url": "https://t.co/JN2FF0hboR"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 16573941,
+                "id_str": "16573941",
+                "indices": [
+                    0,
+                    8
+                ],
+                "name": "Netflix US",
+                "screen_name": "netflix"
+            }
+        ]
+    },
+    "favorite_count": 2,
+    "favorited": false,
+    "geo": null,
+    "id": 673517371861127170,
+    "id_str": "673517371861127170",
+    "in_reply_to_screen_name": "netflix",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 16573941,
+    "in_reply_to_user_id_str": "16573941",
+    "is_quote_status": true,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        28.0010585,
+                        -25.9448996
+                    ],
+                    [
+                        28.2724125,
+                        -25.9448996
+                    ],
+                    [
+                        28.2724125,
+                        -25.7768617
+                    ],
+                    [
+                        28.0010585,
+                        -25.7768617
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "South Africa",
+        "country_code": "ZA",
+        "full_name": "Centurion, South Africa",
+        "id": "cc95b56a28712044",
+        "name": "Centurion",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/cc95b56a28712044.json"
+    },
+    "possibly_sensitive": false,
+    "quoted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Sun Dec 06 13:37:14 +0000 2015",
+        "entities": {
+            "hashtags": [
+                {
+                    "indices": [
+                        84,
+                        93
+                    ],
+                    "text": "Dominion"
+                },
+                {
+                    "indices": [
+                        94,
+                        102
+                    ],
+                    "text": "Netflix"
+                }
+            ],
+            "media": [
+                {
+                    "display_url": "pic.twitter.com/BDest8mCai",
+                    "expanded_url": "http://twitter.com/Rebeccaslink/status/673496422084452352/photo/1",
+                    "id": 673496411720159232,
+                    "id_str": "673496411720159232",
+                    "indices": [
+                        107,
+                        130
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/CVi9awoUkAArVfu.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/CVi9awoUkAArVfu.jpg",
+                    "sizes": {
+                        "large": {
+                            "h": 1024,
+                            "resize": "fit",
+                            "w": 1024
+                        },
+                        "medium": {
+                            "h": 600,
+                            "resize": "fit",
+                            "w": 600
+                        },
+                        "small": {
+                            "h": 340,
+                            "resize": "fit",
+                            "w": 340
+                        },
+                        "thumb": {
+                            "h": 150,
+                            "resize": "crop",
+                            "w": 150
+                        }
+                    },
+                    "type": "photo",
+                    "url": "https://t.co/BDest8mCai"
+                }
+            ],
+            "symbols": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "id": 16573941,
+                    "id_str": "16573941",
+                    "indices": [
+                        75,
+                        83
+                    ],
+                    "name": "Netflix US",
+                    "screen_name": "netflix"
+                }
+            ]
+        },
+        "favorite_count": 6,
+        "favorited": false,
+        "geo": null,
+        "id": 673496422084452352,
+        "id_str": "673496422084452352",
+        "in_reply_to_screen_name": null,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "is_quote_status": false,
+        "lang": "en",
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "place": null,
+        "possibly_sensitive": false,
+        "retweet_count": 6,
+        "retweeted": false,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "I'm curious what is going to happen to Julian. Please continue our journey @netflix #Dominion #Netflix \ud83d\ude4f\ud83c\udffc\ud83d\ude07 https://t.co/BDest8mCai",
+        "truncated": false,
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Thu Sep 10 01:08:21 +0000 2015",
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "#Dominion #SaveDominion #Netflix",
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "favourites_count": 5439,
+            "follow_request_sent": false,
+            "followers_count": 87,
+            "following": false,
+            "friends_count": 109,
+            "geo_enabled": false,
+            "has_extended_profile": true,
+            "id": 3604042636,
+            "id_str": "3604042636",
+            "is_translation_enabled": false,
+            "is_translator": false,
+            "lang": "en",
+            "listed_count": 4,
+            "location": "Ohio, USA",
+            "name": "Becky",
+            "notifications": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/3604042636/1446773262",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/670436816160497664/r4CpkGw2_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/670436816160497664/r4CpkGw2_normal.jpg",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "Rebeccaslink",
+            "statuses_count": 5112,
+            "time_zone": null,
+            "url": null,
+            "utc_offset": null,
+            "verified": false
+        }
+    },
+    "quoted_status_id": 673496422084452352,
+    "quoted_status_id_str": "673496422084452352",
+    "retweet_count": 2,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@netflix #netflix #Dominion you will have to search far and wide to find a brilliant actor than this to play #Julian https://t.co/JN2FF0hboR",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Jun 15 14:35:23 +0000 2010",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Just a normal, average, single mom, who loves life, men & everything in-between. Love to laugh, love & live.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 8299,
+        "follow_request_sent": false,
+        "followers_count": 161,
+        "following": false,
+        "friends_count": 314,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 155924612,
+        "id_str": "155924612",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 8,
+        "location": "Centurion, South Africa",
+        "name": "Michelle Randall",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/155924612/1445800210",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/649229858883665920/6CKQCfnH_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/649229858883665920/6CKQCfnH_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Micherand",
+        "statuses_count": 5905,
+        "time_zone": "Harare",
+        "url": null,
+        "utc_offset": 7200,
+        "verified": false
+    }
+}

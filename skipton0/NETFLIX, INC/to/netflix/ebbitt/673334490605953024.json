@@ -1,0 +1,124 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Dec 06 02:53:47 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 16573941,
+                "id_str": "16573941",
+                "indices": [
+                    0,
+                    8
+                ],
+                "name": "Netflix US",
+                "screen_name": "netflix"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 673334490605953024,
+    "id_str": "673334490605953024",
+    "in_reply_to_screen_name": "netflix",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 16573941,
+    "in_reply_to_user_id_str": "16573941",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -77.373778,
+                        38.845651
+                    ],
+                    [
+                        -77.329668,
+                        38.845651
+                    ],
+                    [
+                        -77.329668,
+                        38.8810215
+                    ],
+                    [
+                        -77.373778,
+                        38.8810215
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Fair Oaks, VA",
+        "id": "00a6ce430727193c",
+        "name": "Fair Oaks",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/00a6ce430727193c.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+    "text": "@netflix I get well into a show or series and then the buffing starts...what the fuck!?!",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Jan 10 03:52:59 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "New Englander on a long trip to DC. Political and Sports junkie.\n\n \u201cA conservative government is an organized hypocrisy.\u201d",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 981,
+        "follow_request_sent": false,
+        "followers_count": 239,
+        "following": false,
+        "friends_count": 1286,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 18826013,
+        "id_str": "18826013",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 8,
+        "location": "Washington DC",
+        "name": "Robert",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/72302309/florence_bridge.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/72302309/florence_bridge.jpg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/18826013/1366541368",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/453843886042284032/QhgSl11Z_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/453843886042284032/QhgSl11Z_normal.jpeg",
+        "profile_link_color": "37084A",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "ebbitt",
+        "statuses_count": 17678,
+        "time_zone": "Eastern Time (US & Canada)",
+        "url": null,
+        "utc_offset": -18000,
+        "verified": false
+    }
+}

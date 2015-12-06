@@ -1,0 +1,124 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Dec 06 06:59:35 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 16573941,
+                "id_str": "16573941",
+                "indices": [
+                    0,
+                    8
+                ],
+                "name": "Netflix US",
+                "screen_name": "netflix"
+            }
+        ]
+    },
+    "favorite_count": 2,
+    "favorited": false,
+    "geo": null,
+    "id": 673396351057584128,
+    "id_str": "673396351057584128",
+    "in_reply_to_screen_name": "netflix",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 16573941,
+    "in_reply_to_user_id_str": "16573941",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -96.0656278,
+                        35.968624
+                    ],
+                    [
+                        -95.761656,
+                        35.968624
+                    ],
+                    [
+                        -95.761656,
+                        36.250159
+                    ],
+                    [
+                        -96.0656278,
+                        36.250159
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Tulsa, OK",
+        "id": "cb74aaf709812e0f",
+        "name": "Tulsa",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/cb74aaf709812e0f.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@netflix has the worst customer service! Just called to get help 4 sign in issue, but I'm just going to permanently log off.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Aug 13 16:01:32 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Trying to get movies out of my head isn't that easy,but interesting on some days. Yes it's time for supernatural movie or TV sh about black witches not bitches!",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 114,
+        "follow_request_sent": false,
+        "followers_count": 481,
+        "following": false,
+        "friends_count": 1578,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 354365312,
+        "id_str": "354365312",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 3,
+        "location": "Tulsa ",
+        "name": "Angela",
+        "notifications": false,
+        "profile_background_color": "EBEBEB",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/448995129517305856/3lBXgFQX.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/448995129517305856/3lBXgFQX.jpeg",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/354365312/1427357537",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/3214969495/fee27d0f352cfeb3d222e93a821fe919_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/3214969495/fee27d0f352cfeb3d222e93a821fe919_normal.jpeg",
+        "profile_link_color": "94D487",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "F3F3F3",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Anga32",
+        "statuses_count": 2908,
+        "time_zone": "Mountain Time (US & Canada)",
+        "url": null,
+        "utc_offset": -25200,
+        "verified": false
+    }
+}

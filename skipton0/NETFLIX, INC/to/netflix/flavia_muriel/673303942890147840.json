@@ -1,0 +1,139 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Dec 06 00:52:24 +0000 2015",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    30,
+                    41
+                ],
+                "text": "TheBorgias"
+            },
+            {
+                "indices": [
+                    127,
+                    140
+                ],
+                "text": "MakeItHappen"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 16573941,
+                "id_str": "16573941",
+                "indices": [
+                    0,
+                    8
+                ],
+                "name": "Netflix US",
+                "screen_name": "netflix"
+            }
+        ]
+    },
+    "favorite_count": 5,
+    "favorited": false,
+    "geo": null,
+    "id": 673303942890147840,
+    "id_str": "673303942890147840",
+    "in_reply_to_screen_name": "netflix",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 16573941,
+    "in_reply_to_user_id_str": "16573941",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -58.5317922,
+                        -34.674453
+                    ],
+                    [
+                        -58.353494,
+                        -34.674453
+                    ],
+                    [
+                        -58.353494,
+                        -34.534177
+                    ],
+                    [
+                        -58.5317922,
+                        -34.534177
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "Argentina",
+        "country_code": "AR",
+        "full_name": "Ciudad Aut\u00f3noma de Buenos Aires, Argentina",
+        "id": "018f1cde6bad9747",
+        "name": "Ciudad Aut\u00f3noma de Buenos Aires",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/018f1cde6bad9747.json"
+    },
+    "retweet_count": 7,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@netflix plz,give us ssn 4 of #TheBorgias.We need to see it end properly.There's a whole audience waiting for the announcement.#MakeItHappen",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Aug 03 20:42:49 +0000 2014",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 35143,
+        "follow_request_sent": false,
+        "followers_count": 413,
+        "following": false,
+        "friends_count": 226,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 2704873664,
+        "id_str": "2704873664",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en-gb",
+        "listed_count": 58,
+        "location": "argentina",
+        "name": "flavia muriel",
+        "notifications": false,
+        "profile_background_color": "FFF04D",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme19/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme19/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2704873664/1428090364",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/549588391042367488/2ejHJrw8_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/549588391042367488/2ejHJrw8_normal.jpeg",
+        "profile_link_color": "9266CC",
+        "profile_sidebar_border_color": "65B0DA",
+        "profile_sidebar_fill_color": "7AC3EE",
+        "profile_text_color": "3D1957",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "flavia_muriel",
+        "statuses_count": 35811,
+        "time_zone": "Buenos Aires",
+        "url": null,
+        "utc_offset": -10800,
+        "verified": false
+    }
+}

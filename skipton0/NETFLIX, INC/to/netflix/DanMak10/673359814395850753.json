@@ -1,0 +1,124 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Dec 06 04:34:24 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 16573941,
+                "id_str": "16573941",
+                "indices": [
+                    0,
+                    8
+                ],
+                "name": "Netflix US",
+                "screen_name": "netflix"
+            }
+        ]
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": null,
+    "id": 673359814395850753,
+    "id_str": "673359814395850753",
+    "in_reply_to_screen_name": "netflix",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 16573941,
+    "in_reply_to_user_id_str": "16573941",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -80.239991,
+                        42.018414
+                    ],
+                    [
+                        -79.934073,
+                        42.018414
+                    ],
+                    [
+                        -79.934073,
+                        42.202992
+                    ],
+                    [
+                        -80.239991,
+                        42.202992
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Erie, PA",
+        "id": "29aaa88d9fe74b50",
+        "name": "Erie",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/29aaa88d9fe74b50.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@netflix you're my best friend",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Aug 11 16:10:29 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Isn't it weird how we cook bacon and bake cookies?",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 3447,
+        "follow_request_sent": false,
+        "followers_count": 339,
+        "following": false,
+        "friends_count": 398,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 353135377,
+        "id_str": "353135377",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 3,
+        "location": "Erie, PA",
+        "name": "Dan Makowski",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/309393750/cleveland-indians.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/309393750/cleveland-indians.jpg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/353135377/1438269962",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/659211506056347648/WA2s3ztu_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/659211506056347648/WA2s3ztu_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "DanMak10",
+        "statuses_count": 15403,
+        "time_zone": "Central Time (US & Canada)",
+        "url": null,
+        "utc_offset": -21600,
+        "verified": false
+    }
+}

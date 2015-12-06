@@ -1,0 +1,134 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Dec 06 08:56:56 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 16573941,
+                "id_str": "16573941",
+                "indices": [
+                    0,
+                    8
+                ],
+                "name": "Netflix US",
+                "screen_name": "netflix"
+            },
+            {
+                "id": 2180170945,
+                "id_str": "2180170945",
+                "indices": [
+                    31,
+                    44
+                ],
+                "name": "Jessica Jones",
+                "screen_name": "JessicaJones"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 673425882942455808,
+    "id_str": "673425882942455808",
+    "in_reply_to_screen_name": "netflix",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 16573941,
+    "in_reply_to_user_id_str": "16573941",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        4.6077302,
+                        51.2191072
+                    ],
+                    [
+                        4.7438867,
+                        51.2191072
+                    ],
+                    [
+                        4.7438867,
+                        51.2940609
+                    ],
+                    [
+                        4.6077302,
+                        51.2940609
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "Belgi\u00eb",
+        "country_code": "BE",
+        "full_name": "Zoersel, Belgi\u00eb",
+        "id": "9bdffc9e3036603d",
+        "name": "Zoersel",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/9bdffc9e3036603d.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@netflix Can I have a date for @JessicaJones season 2, please. :3",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Jul 27 08:52:37 +0000 2012",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Masterbuilder student. lvl18 at life. \u2652. Casual gamer. Music addict. Hobby archer. righteous villain?",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 9721,
+        "follow_request_sent": false,
+        "followers_count": 243,
+        "following": false,
+        "friends_count": 200,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 719780713,
+        "id_str": "719780713",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "nl",
+        "listed_count": 14,
+        "location": "Earth 616. Belgium.",
+        "name": "Quinn",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/719780713/1449081716",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/671076397247561730/uIebRIDg_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/671076397247561730/uIebRIDg_normal.jpg",
+        "profile_link_color": "3B94D9",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "PlantaeRex",
+        "statuses_count": 36330,
+        "time_zone": "Brussels",
+        "url": null,
+        "utc_offset": 3600,
+        "verified": false
+    }
+}

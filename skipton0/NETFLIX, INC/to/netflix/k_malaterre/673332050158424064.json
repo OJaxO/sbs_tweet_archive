@@ -1,0 +1,124 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Dec 06 02:44:05 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 16573941,
+                "id_str": "16573941",
+                "indices": [
+                    0,
+                    8
+                ],
+                "name": "Netflix US",
+                "screen_name": "netflix"
+            }
+        ]
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": null,
+    "id": 673332050158424064,
+    "id_str": "673332050158424064",
+    "in_reply_to_screen_name": "netflix",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 16573941,
+    "in_reply_to_user_id_str": "16573941",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -104.048915,
+                        45.935021
+                    ],
+                    [
+                        -96.554508,
+                        45.935021
+                    ],
+                    [
+                        -96.554508,
+                        49.000693
+                    ],
+                    [
+                        -104.048915,
+                        49.000693
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "North Dakota, USA",
+        "id": "7d893ca2441b0c21",
+        "name": "North Dakota",
+        "place_type": "admin",
+        "url": "https://api.twitter.com/1.1/geo/id/7d893ca2441b0c21.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@netflix should put Hannah Montana back on there or I'm done with it, aye lol",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu May 30 20:46:49 +0000 2013",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 511,
+        "follow_request_sent": false,
+        "followers_count": 314,
+        "following": false,
+        "friends_count": 471,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 1470644251,
+        "id_str": "1470644251",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 0,
+        "location": "",
+        "name": "kywin",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1470644251/1449369985",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/672997235680931840/t0x1M7Rc_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/672997235680931840/t0x1M7Rc_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "k_malaterre",
+        "statuses_count": 1218,
+        "time_zone": null,
+        "url": null,
+        "utc_offset": null,
+        "verified": false
+    }
+}
