@@ -1,0 +1,124 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Dec 05 19:43:23 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 17137891,
+                "id_str": "17137891",
+                "indices": [
+                    0,
+                    8
+                ],
+                "name": "Walmart",
+                "screen_name": "Walmart"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 673226178069594112,
+    "id_str": "673226178069594112",
+    "in_reply_to_screen_name": "Walmart",
+    "in_reply_to_status_id": 673193648104804352,
+    "in_reply_to_status_id_str": "673193648104804352",
+    "in_reply_to_user_id": 17137891,
+    "in_reply_to_user_id_str": "17137891",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -97.662618,
+                        27.578509
+                    ],
+                    [
+                        -97.202232,
+                        27.578509
+                    ],
+                    [
+                        -97.202232,
+                        27.895793
+                    ],
+                    [
+                        -97.662618,
+                        27.895793
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Corpus Christi, TX",
+        "id": "a3d770a00f15bcb1",
+        "name": "Corpus Christi",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/a3d770a00f15bcb1.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@Walmart I don't think they care! People were waiting 2-4 hours for them to find their orders, some even longer!",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Feb 22 04:32:25 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Husband| Campus Pastor | Intern Director | Church Unlimited",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 1084,
+        "follow_request_sent": false,
+        "followers_count": 356,
+        "following": false,
+        "friends_count": 289,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 255844498,
+        "id_str": "255844498",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 6,
+        "location": "Corpus Christi, TX",
+        "name": "Mathew Moreno",
+        "notifications": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/255844498/1352697073",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/642807075152596992/MplB8Vtw_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/642807075152596992/MplB8Vtw_normal.jpg",
+        "profile_link_color": "009999",
+        "profile_sidebar_border_color": "EEEEEE",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "mathewmoreno",
+        "statuses_count": 2422,
+        "time_zone": "Central Time (US & Canada)",
+        "url": null,
+        "utc_offset": -21600,
+        "verified": false
+    }
+}

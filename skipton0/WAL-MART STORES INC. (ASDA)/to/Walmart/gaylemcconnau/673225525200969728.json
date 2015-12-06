@@ -1,0 +1,124 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Dec 05 19:40:47 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 17137891,
+                "id_str": "17137891",
+                "indices": [
+                    0,
+                    8
+                ],
+                "name": "Walmart",
+                "screen_name": "Walmart"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 673225525200969728,
+    "id_str": "673225525200969728",
+    "in_reply_to_screen_name": "Walmart",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 17137891,
+    "in_reply_to_user_id_str": "17137891",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -94.901766,
+                        38.825503
+                    ],
+                    [
+                        -94.714404,
+                        38.825503
+                    ],
+                    [
+                        -94.714404,
+                        38.9477434
+                    ],
+                    [
+                        -94.901766,
+                        38.9477434
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Olathe, KS",
+        "id": "06d6054b42e6575f",
+        "name": "Olathe",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/06d6054b42e6575f.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@Walmart Are you kidding me!! How can you cut down your staff and checkers this time of year? Disappointed",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Feb 08 17:53:40 +0000 2014",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "I joined Twitter to follow @ChrisMaloney77 I'm part of his lovely family including @alanefc71_alan & @GaryDoran00 They've enriched my life tremendously! @jbmt1",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 71035,
+        "follow_request_sent": false,
+        "followers_count": 1184,
+        "following": false,
+        "friends_count": 1634,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 2332255570,
+        "id_str": "2332255570",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 27,
+        "location": "Kansas, USA ",
+        "name": "Gayle McConnaughey",
+        "notifications": false,
+        "profile_background_color": "EBCBC3",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/438737416619184128/ACYk6loG.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/438737416619184128/ACYk6loG.jpeg",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2332255570/1448335496",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/515545974471950337/mzt0qYsO_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/515545974471950337/mzt0qYsO_normal.jpeg",
+        "profile_link_color": "9266CC",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "gaylemcconnau",
+        "statuses_count": 44702,
+        "time_zone": null,
+        "url": null,
+        "utc_offset": null,
+        "verified": false
+    }
+}

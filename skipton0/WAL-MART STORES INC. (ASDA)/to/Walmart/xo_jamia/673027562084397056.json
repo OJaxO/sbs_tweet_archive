@@ -1,0 +1,163 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Dec 05 06:34:09 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "media": [
+            {
+                "display_url": "pic.twitter.com/glazr3PACn",
+                "expanded_url": "http://twitter.com/xo_jamia/status/673027562084397056/photo/1",
+                "id": 673027546326298626,
+                "id_str": "673027546326298626",
+                "indices": [
+                    9,
+                    32
+                ],
+                "media_url": "http://pbs.twimg.com/media/CVcS_M7U8AI4uFo.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/CVcS_M7U8AI4uFo.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 1024,
+                        "resize": "fit",
+                        "w": 768
+                    },
+                    "medium": {
+                        "h": 800,
+                        "resize": "fit",
+                        "w": 600
+                    },
+                    "small": {
+                        "h": 453,
+                        "resize": "fit",
+                        "w": 340
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/glazr3PACn"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 17137891,
+                "id_str": "17137891",
+                "indices": [
+                    0,
+                    8
+                ],
+                "name": "Walmart",
+                "screen_name": "Walmart"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 673027562084397056,
+    "id_str": "673027562084397056",
+    "in_reply_to_screen_name": "Walmart",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 17137891,
+    "in_reply_to_user_id_str": "17137891",
+    "is_quote_status": false,
+    "lang": "und",
+    "metadata": {
+        "iso_language_code": "und",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -87.626729,
+                        33.098411
+                    ],
+                    [
+                        -87.440084,
+                        33.098411
+                    ],
+                    [
+                        -87.440084,
+                        33.29479
+                    ],
+                    [
+                        -87.626729,
+                        33.29479
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Tuscaloosa, AL",
+        "id": "3a22597bb94d08bd",
+        "name": "Tuscaloosa",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/3a22597bb94d08bd.json"
+    },
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@Walmart https://t.co/glazr3PACn",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Jan 10 00:34:14 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "19.\nQUEEN.\u2764\ufe0f",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 2380,
+        "follow_request_sent": false,
+        "followers_count": 828,
+        "following": false,
+        "friends_count": 817,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 236180941,
+        "id_str": "236180941",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 1,
+        "location": "",
+        "name": "Ja'Mia \ue329\u2122",
+        "notifications": false,
+        "profile_background_color": "F3E5B8",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/683333305/cbc60986ff347c87b74a119b995b6ffc.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/683333305/cbc60986ff347c87b74a119b995b6ffc.jpeg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/236180941/1439553370",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/659627729306976256/5d3eElrt_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/659627729306976256/5d3eElrt_normal.jpg",
+        "profile_link_color": "E02D9B",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "291C0D",
+        "profile_text_color": "53AB8D",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "xo_jamia",
+        "statuses_count": 25671,
+        "time_zone": "Central Time (US & Canada)",
+        "url": null,
+        "utc_offset": -21600,
+        "verified": false
+    }
+}

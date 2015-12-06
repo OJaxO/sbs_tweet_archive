@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Dec 05 02:55:53 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 17137891,
+                "id_str": "17137891",
+                "indices": [
+                    0,
+                    8
+                ],
+                "name": "Walmart",
+                "screen_name": "Walmart"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 672972634213232640,
+    "id_str": "672972634213232640",
+    "in_reply_to_screen_name": "Walmart",
+    "in_reply_to_status_id": 672970308324839424,
+    "in_reply_to_status_id_str": "672970308324839424",
+    "in_reply_to_user_id": 17137891,
+    "in_reply_to_user_id_str": "17137891",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -72.093466,
+                        41.312122
+                    ],
+                    [
+                        -72.018387,
+                        41.312122
+                    ],
+                    [
+                        -72.018387,
+                        41.400455
+                    ],
+                    [
+                        -72.093466,
+                        41.400455
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Groton, CT",
+        "id": "280ad9d1d1fe1d71",
+        "name": "Groton",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/280ad9d1d1fe1d71.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@Walmart Yes. The wait time wasn't nearly as frustrating for me as the cross reference between high end electronic models in the system.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Mar 14 22:41:56 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Father, Husband, Screenwriter, Submariner, and lover of Christ",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "facebook.com/geoffbreedwell",
+                        "expanded_url": "http://facebook.com/geoffbreedwell",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/DXuhHvITJL"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 3425,
+        "follow_request_sent": false,
+        "followers_count": 721,
+        "following": false,
+        "friends_count": 348,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 24443405,
+        "id_str": "24443405",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 41,
+        "location": "Groton, CT",
+        "name": "Geoff Breedwell",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/24443405/1442427751",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/644214968032825345/jB20P9Q4_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/644214968032825345/jB20P9Q4_normal.jpg",
+        "profile_link_color": "3B94D9",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "GeoffBreedwell",
+        "statuses_count": 21072,
+        "time_zone": "Central Time (US & Canada)",
+        "url": "http://t.co/DXuhHvITJL",
+        "utc_offset": -21600,
+        "verified": false
+    }
+}

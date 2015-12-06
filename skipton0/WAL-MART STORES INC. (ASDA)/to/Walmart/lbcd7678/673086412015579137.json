@@ -1,0 +1,258 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Dec 05 10:28:00 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/SamsungMobileU\u2026",
+                "expanded_url": "https://twitter.com/SamsungMobileUS/status/670285870650519552",
+                "indices": [
+                    102,
+                    125
+                ],
+                "url": "https://t.co/ojCngIaDU5"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 17137891,
+                "id_str": "17137891",
+                "indices": [
+                    0,
+                    8
+                ],
+                "name": "Walmart",
+                "screen_name": "Walmart"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 673086412015579137,
+    "id_str": "673086412015579137",
+    "in_reply_to_screen_name": "Walmart",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 17137891,
+    "in_reply_to_user_id_str": "17137891",
+    "is_quote_status": true,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -106.645646,
+                        25.837092
+                    ],
+                    [
+                        -93.508131,
+                        25.837092
+                    ],
+                    [
+                        -93.508131,
+                        36.500695
+                    ],
+                    [
+                        -106.645646,
+                        36.500695
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Texas, USA",
+        "id": "e0060cda70f5f341",
+        "name": "Texas",
+        "place_type": "admin",
+        "url": "https://api.twitter.com/1.1/geo/id/e0060cda70f5f341.json"
+    },
+    "possibly_sensitive": false,
+    "quoted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Fri Nov 27 16:59:39 +0000 2015",
+        "entities": {
+            "hashtags": [
+                {
+                    "indices": [
+                        21,
+                        37
+                    ],
+                    "text": "SamsungWishList"
+                }
+            ],
+            "symbols": [],
+            "urls": [
+                {
+                    "display_url": "smsng.us/WishListRules",
+                    "expanded_url": "http://smsng.us/WishListRules",
+                    "indices": [
+                        92,
+                        115
+                    ],
+                    "url": "https://t.co/pVsquarKxy"
+                },
+                {
+                    "display_url": "smsng.us/SamsungWishList",
+                    "expanded_url": "http://smsng.us/SamsungWishList",
+                    "indices": [
+                        116,
+                        139
+                    ],
+                    "url": "https://t.co/fS6rt2Y36b"
+                }
+            ],
+            "user_mentions": []
+        },
+        "favorite_count": 4092,
+        "favorited": false,
+        "geo": null,
+        "id": 670285870650519552,
+        "id_str": "670285870650519552",
+        "in_reply_to_screen_name": null,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "is_quote_status": false,
+        "lang": "en",
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "place": null,
+        "possibly_sensitive": false,
+        "retweet_count": 1543,
+        "retweeted": false,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": "Choose your favorite #SamsungWishList bundle and tweet for the chance to win it! See rules: https://t.co/pVsquarKxy https://t.co/fS6rt2Y36b",
+        "truncated": false,
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Mon Mar 10 21:49:36 +0000 2008",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "Official tweets from #TheNextBigThing. For device assistance, say hello to @SamsungSupport.",
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "facebook.com/SamsungMobileU\u2026",
+                            "expanded_url": "http://www.facebook.com/SamsungMobileUSA",
+                            "indices": [
+                                0,
+                                22
+                            ],
+                            "url": "http://t.co/wuId6XmZ05"
+                        }
+                    ]
+                }
+            },
+            "favourites_count": 58090,
+            "follow_request_sent": false,
+            "followers_count": 5286521,
+            "following": false,
+            "friends_count": 21113,
+            "geo_enabled": true,
+            "has_extended_profile": false,
+            "id": 14117843,
+            "id_str": "14117843",
+            "is_translation_enabled": false,
+            "is_translator": false,
+            "lang": "en",
+            "listed_count": 8820,
+            "location": "USA",
+            "name": "Samsung Mobile US",
+            "notifications": false,
+            "profile_background_color": "292B2D",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/482684612582182913/GevPW6aH.jpeg",
+            "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/482684612582182913/GevPW6aH.jpeg",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/14117843/1445652414",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/643947811713757184/bxtDR38l_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/643947811713757184/bxtDR38l_normal.jpg",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "C0DFEC",
+            "profile_text_color": "333333",
+            "profile_use_background_image": false,
+            "protected": false,
+            "screen_name": "SamsungMobileUS",
+            "statuses_count": 113231,
+            "time_zone": "Central Time (US & Canada)",
+            "url": "http://t.co/wuId6XmZ05",
+            "utc_offset": -21600,
+            "verified": true
+        }
+    },
+    "quoted_status_id": 670285870650519552,
+    "quoted_status_id_str": "670285870650519552",
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@Walmart Adopted, Rebels, Now\nWill bring you to INFINITY alongside Saints and Sinners, Chrome Edition https://t.co/ojCngIaDU5",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Dec 01 18:26:40 +0000 2015",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "In the End, Love Wins.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 417,
+        "follow_request_sent": false,
+        "followers_count": 187,
+        "following": false,
+        "friends_count": 798,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 4423056674,
+        "id_str": "4423056674",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 0,
+        "location": "Marshall, TX",
+        "name": "LBCD69JC",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/4423056674/1449366006",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/673315951857688578/hxup73SU_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/673315951857688578/hxup73SU_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "lbcd7678",
+        "statuses_count": 314,
+        "time_zone": null,
+        "url": null,
+        "utc_offset": null,
+        "verified": false
+    }
+}
