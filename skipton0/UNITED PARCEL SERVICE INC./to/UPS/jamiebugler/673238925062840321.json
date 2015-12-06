@@ -1,0 +1,134 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Dec 05 20:34:02 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 158129535,
+                "id_str": "158129535",
+                "indices": [
+                    0,
+                    4
+                ],
+                "name": "UPS",
+                "screen_name": "UPS"
+            },
+            {
+                "id": 271516607,
+                "id_str": "271516607",
+                "indices": [
+                    5,
+                    13
+                ],
+                "name": "UPS Customer Support",
+                "screen_name": "UPSHelp"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 673238925062840321,
+    "id_str": "673238925062840321",
+    "in_reply_to_screen_name": "UPS",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 158129535,
+    "in_reply_to_user_id_str": "158129535",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -0.43596,
+                        52.003912
+                    ],
+                    [
+                        -0.421661,
+                        52.003912
+                    ],
+                    [
+                        -0.421661,
+                        52.02992
+                    ],
+                    [
+                        -0.43596,
+                        52.02992
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United Kingdom",
+        "country_code": "GB",
+        "full_name": "Silsoe, England",
+        "id": "4d7636d024aaf049",
+        "name": "Silsoe",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/4d7636d024aaf049.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@UPS @UPSHelp worst delivery company I've come across what's the point of leaving alternative instructions if you don't deliver anyway!!!",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Jan 17 23:10:33 +0000 2010",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 41,
+        "follow_request_sent": false,
+        "followers_count": 190,
+        "following": false,
+        "friends_count": 653,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 105919994,
+        "id_str": "105919994",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 4,
+        "location": "",
+        "name": "JB",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/105919994/1360276050",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/661095799078699008/hejwqP1q_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/661095799078699008/hejwqP1q_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "jamiebugler",
+        "statuses_count": 411,
+        "time_zone": "London",
+        "url": null,
+        "utc_offset": 0,
+        "verified": false
+    }
+}

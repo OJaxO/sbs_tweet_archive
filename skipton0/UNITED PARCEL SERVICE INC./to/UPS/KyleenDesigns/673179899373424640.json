@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Dec 05 16:39:29 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 158129535,
+                "id_str": "158129535",
+                "indices": [
+                    0,
+                    4
+                ],
+                "name": "UPS",
+                "screen_name": "UPS"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 673179899373424640,
+    "id_str": "673179899373424640",
+    "in_reply_to_screen_name": "UPS",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 158129535,
+    "in_reply_to_user_id_str": "158129535",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -71.44554090578772,
+                        41.735169429726405
+                    ],
+                    [
+                        -71.44554090578772,
+                        41.735169429726405
+                    ],
+                    [
+                        -71.44554090578772,
+                        41.735169429726405
+                    ],
+                    [
+                        -71.44554090578772,
+                        41.735169429726405
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "UPS Customer Center",
+        "id": "07d9c98da1086000",
+        "name": "UPS Customer Center",
+        "place_type": "poi",
+        "url": "https://api.twitter.com/1.1/geo/id/07d9c98da1086000.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@UPS 2 people working and a line out the door.  Love when the driver says they attempt delivery and I am home the whole time.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Apr 25 02:00:46 +0000 2014",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "I am a mom to an amazing 3 yr old and  the owner and designer of Kyleen Designs, specializing in baby products and layette through toddler apparel.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "kyleendesigns.com",
+                        "expanded_url": "http://www.kyleendesigns.com",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/voPGIywcxv"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 407,
+        "follow_request_sent": false,
+        "followers_count": 275,
+        "following": false,
+        "friends_count": 493,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 2462507762,
+        "id_str": "2462507762",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 2,
+        "location": "Rhode island",
+        "name": "Kyleen Designs",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2462507762/1443998125",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/650801635753496576/au-FgrZV_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/650801635753496576/au-FgrZV_normal.jpg",
+        "profile_link_color": "89C9FA",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "KyleenDesigns",
+        "statuses_count": 1022,
+        "time_zone": null,
+        "url": "http://t.co/voPGIywcxv",
+        "utc_offset": null,
+        "verified": false
+    }
+}
