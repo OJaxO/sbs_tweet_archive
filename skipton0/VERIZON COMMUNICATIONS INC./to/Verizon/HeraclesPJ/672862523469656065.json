@@ -1,0 +1,124 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Dec 04 19:38:21 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 59889953,
+                "id_str": "59889953",
+                "indices": [
+                    0,
+                    8
+                ],
+                "name": "Verizon",
+                "screen_name": "verizon"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 672862523469656065,
+    "id_str": "672862523469656065",
+    "in_reply_to_screen_name": "verizon",
+    "in_reply_to_status_id": 672862435720757248,
+    "in_reply_to_status_id_str": "672862435720757248",
+    "in_reply_to_user_id": 59889953,
+    "in_reply_to_user_id_str": "59889953",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -111.921221,
+                        40.664889
+                    ],
+                    [
+                        -111.839259,
+                        40.664889
+                    ],
+                    [
+                        -111.839259,
+                        40.7121472
+                    ],
+                    [
+                        -111.921221,
+                        40.7121472
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Millcreek, UT",
+        "id": "5af91023ed39df89",
+        "name": "Millcreek",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/5af91023ed39df89.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@verizon yeah I have",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Oct 10 03:31:33 +0000 2015",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "My sons are EVERYTHING to me\u2764\ufe0f #HeraclesKaiFolauMoetao #PeiholaniStevenJr #RiLMySweetAngelBabyPeiJr",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 2597,
+        "follow_request_sent": false,
+        "followers_count": 244,
+        "following": false,
+        "friends_count": 220,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 3843242474,
+        "id_str": "3843242474",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 0,
+        "location": "909\u2708\ufe0f801",
+        "name": "Mia",
+        "notifications": false,
+        "profile_background_color": "BADFCD",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/657424836717744128/YN7ZEPJU.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/657424836717744128/YN7ZEPJU.jpg",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3843242474/1446582347",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/673052580562382848/SMf59Qng_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/673052580562382848/SMf59Qng_normal.jpg",
+        "profile_link_color": "9266CC",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "HeraclesPJ",
+        "statuses_count": 4182,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": null,
+        "utc_offset": -28800,
+        "verified": false
+    }
+}
