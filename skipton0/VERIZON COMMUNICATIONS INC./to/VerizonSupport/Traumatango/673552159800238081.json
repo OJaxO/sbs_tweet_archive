@@ -1,0 +1,144 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Dec 06 17:18:43 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 37435412,
+                "id_str": "37435412",
+                "indices": [
+                    0,
+                    15
+                ],
+                "name": "Verizon Support",
+                "screen_name": "VerizonSupport"
+            },
+            {
+                "id": 62601419,
+                "id_str": "62601419",
+                "indices": [
+                    16,
+                    27
+                ],
+                "name": "Verizon Wireless CS",
+                "screen_name": "VZWSupport"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 673552159800238081,
+    "id_str": "673552159800238081",
+    "in_reply_to_screen_name": "VerizonSupport",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 37435412,
+    "in_reply_to_user_id_str": "37435412",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -82.608838,
+                        28.360973
+                    ],
+                    [
+                        -82.517548,
+                        28.360973
+                    ],
+                    [
+                        -82.517548,
+                        28.4339116
+                    ],
+                    [
+                        -82.608838,
+                        28.4339116
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Shady Hills, FL",
+        "id": "0159c4115ad819dd",
+        "name": "Shady Hills",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/0159c4115ad819dd.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@VerizonSupport @VZWSupport Curious I thought my bill would decrease once out of contract?",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Jul 15 22:34:37 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "I have a strong interest in medicine and law. I like to travel, love theme parks. http://t.co/xML1a6EZun",
+        "entities": {
+            "description": {
+                "urls": [
+                    {
+                        "display_url": "Instagram.com/traumatango",
+                        "expanded_url": "http://Instagram.com/traumatango",
+                        "indices": [
+                            82,
+                            104
+                        ],
+                        "url": "http://t.co/xML1a6EZun"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 11949,
+        "follow_request_sent": false,
+        "followers_count": 451,
+        "following": false,
+        "friends_count": 1337,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 57159482,
+        "id_str": "57159482",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 10,
+        "location": "Tampa, Florida",
+        "name": "\u03b2\u03c3\u0432\u0432\u028f \u042f\u03b1\u028f",
+        "notifications": false,
+        "profile_background_color": "4A913C",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/57159482/1420126875",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/506614028085760000/4Jlp4wjg_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/506614028085760000/4Jlp4wjg_normal.jpeg",
+        "profile_link_color": "93A644",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Traumatango",
+        "statuses_count": 3491,
+        "time_zone": "Eastern Time (US & Canada)",
+        "url": null,
+        "utc_offset": -18000,
+        "verified": false
+    }
+}
