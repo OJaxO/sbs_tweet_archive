@@ -1,0 +1,124 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Dec 06 06:22:22 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 89084561,
+                "id_str": "89084561",
+                "indices": [
+                    0,
+                    7
+                ],
+                "name": "Target",
+                "screen_name": "Target"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 673386985717899264,
+    "id_str": "673386985717899264",
+    "in_reply_to_screen_name": "Target",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 89084561,
+    "in_reply_to_user_id_str": "89084561",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -77.601044,
+                        37.447046
+                    ],
+                    [
+                        -77.385297,
+                        37.447046
+                    ],
+                    [
+                        -77.385297,
+                        37.61272
+                    ],
+                    [
+                        -77.601044,
+                        37.61272
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Richmond, VA",
+        "id": "00f751614d8ce37b",
+        "name": "Richmond",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/00f751614d8ce37b.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@Target why is bratz styling head Yasmin(dark skin) only sold in stores but you have Cloe(white) for sale online? All my stores are sold out",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu May 05 18:59:50 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "just the thoughts and views of everyone's favorite professional aviator \u00a91\u20e39\u20e38\u20e30\u20e3",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 14,
+        "follow_request_sent": false,
+        "followers_count": 45,
+        "following": false,
+        "friends_count": 226,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 293660099,
+        "id_str": "293660099",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 9,
+        "location": "RVA",
+        "name": "Ev Wats",
+        "notifications": false,
+        "profile_background_color": "1A1B1F",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/293660099/1430976642",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/609909770502451201/VeRfANti_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/609909770502451201/VeRfANti_normal.jpg",
+        "profile_link_color": "2FC2EF",
+        "profile_sidebar_border_color": "181A1E",
+        "profile_sidebar_fill_color": "252429",
+        "profile_text_color": "666666",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "CessnaFo",
+        "statuses_count": 3870,
+        "time_zone": "Eastern Time (US & Canada)",
+        "url": null,
+        "utc_offset": -18000,
+        "verified": false
+    }
+}

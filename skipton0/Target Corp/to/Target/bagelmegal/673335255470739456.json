@@ -1,0 +1,168 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Dec 06 02:56:49 +0000 2015",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    72,
+                    80
+                ],
+                "text": "scrooge"
+            },
+            {
+                "indices": [
+                    81,
+                    88
+                ],
+                "text": "grinch"
+            },
+            {
+                "indices": [
+                    89,
+                    103
+                ],
+                "text": "hollynotjolly"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 89084561,
+                "id_str": "89084561",
+                "indices": [
+                    0,
+                    7
+                ],
+                "name": "Target",
+                "screen_name": "Target"
+            },
+            {
+                "id": 15162193,
+                "id_str": "15162193",
+                "indices": [
+                    12,
+                    22
+                ],
+                "name": "Nordstrom",
+                "screen_name": "Nordstrom"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 673335255470739456,
+    "id_str": "673335255470739456",
+    "in_reply_to_screen_name": "Target",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 89084561,
+    "in_reply_to_user_id_str": "89084561",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -82.670558,
+                        39.681924
+                    ],
+                    [
+                        -82.522696,
+                        39.681924
+                    ],
+                    [
+                        -82.522696,
+                        39.792026
+                    ],
+                    [
+                        -82.670558,
+                        39.792026
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Lancaster, OH",
+        "id": "bec4732d440b4c03",
+        "name": "Lancaster",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/bec4732d440b4c03.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@Target and @Nordstrom win the most passive-aggressive cashiers awards! #scrooge #grinch #hollynotjolly",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Apr 19 18:36:47 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "cyberspeechie.weebly.com",
+                        "expanded_url": "http://cyberspeechie.weebly.com",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/mzU5omeMxa"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 4150,
+        "follow_request_sent": false,
+        "followers_count": 188,
+        "following": false,
+        "friends_count": 135,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 33273932,
+        "id_str": "33273932",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 2,
+        "location": "",
+        "name": "Meghan J",
+        "notifications": false,
+        "profile_background_color": "BDA3CC",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/708350090/78eddd8e9482bdce134df043674bdccd.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/708350090/78eddd8e9482bdce134df043674bdccd.jpeg",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/625274465270792192/Vj0DCtPv_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/625274465270792192/Vj0DCtPv_normal.jpg",
+        "profile_link_color": "93E08F",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "525148",
+        "profile_text_color": "94BBE9",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "bagelmegal",
+        "statuses_count": 12245,
+        "time_zone": "Eastern Time (US & Canada)",
+        "url": "https://t.co/mzU5omeMxa",
+        "utc_offset": -18000,
+        "verified": false
+    }
+}

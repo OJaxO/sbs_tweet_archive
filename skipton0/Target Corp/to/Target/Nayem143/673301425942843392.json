@@ -1,0 +1,145 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Dec 06 00:42:23 +0000 2015",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    126,
+                    134
+                ],
+                "text": "Redcard"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 89084561,
+                "id_str": "89084561",
+                "indices": [
+                    0,
+                    7
+                ],
+                "name": "Target",
+                "screen_name": "Target"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 673301425942843392,
+    "id_str": "673301425942843392",
+    "in_reply_to_screen_name": "Target",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 89084561,
+    "in_reply_to_user_id_str": "89084561",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -85.605166,
+                        30.355644
+                    ],
+                    [
+                        -80.742567,
+                        30.355644
+                    ],
+                    [
+                        -80.742567,
+                        35.000771
+                    ],
+                    [
+                        -85.605166,
+                        35.000771
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Georgia, USA",
+        "id": "7142eb97ae21e839",
+        "name": "Georgia",
+        "place_type": "admin",
+        "url": "https://api.twitter.com/1.1/geo/id/7142eb97ae21e839.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@Target Yo give the Mall of GA store 1206 extra payroll! We've  been working so hard these past 2 months! We deserve a bonus! #Redcard",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Sep 01 23:15:03 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "\u00ba\u2022You only got one life, don't  waste it\u2022\u00ba",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "instagram.com/Nayem143",
+                        "expanded_url": "http://www.instagram.com/Nayem143",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/uAP7f9gXpM"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 4525,
+        "follow_request_sent": false,
+        "followers_count": 189,
+        "following": false,
+        "friends_count": 202,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 185832393,
+        "id_str": "185832393",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 1,
+        "location": "Atlanta, GA",
+        "name": "Nayem Rahman",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/767825285/af10f65095c98fc1af788e5d2f6ca219.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/767825285/af10f65095c98fc1af788e5d2f6ca219.jpeg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/185832393/1437623221",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/667204290050568192/czmUFKLa_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/667204290050568192/czmUFKLa_normal.jpg",
+        "profile_link_color": "08619C",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "326ED6",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Nayem143",
+        "statuses_count": 3971,
+        "time_zone": "Eastern Time (US & Canada)",
+        "url": "https://t.co/uAP7f9gXpM",
+        "utc_offset": -18000,
+        "verified": false
+    }
+}

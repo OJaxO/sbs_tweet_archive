@@ -1,0 +1,124 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Dec 06 18:49:54 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 89084561,
+                "id_str": "89084561",
+                "indices": [
+                    0,
+                    7
+                ],
+                "name": "Target",
+                "screen_name": "Target"
+            }
+        ]
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": null,
+    "id": 673575105017028608,
+    "id_str": "673575105017028608",
+    "in_reply_to_screen_name": "Target",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 89084561,
+    "in_reply_to_user_id_str": "89084561",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -80.3893437,
+                        25.628844
+                    ],
+                    [
+                        -80.304896,
+                        25.628844
+                    ],
+                    [
+                        -80.304896,
+                        25.7151276
+                    ],
+                    [
+                        -80.3893437,
+                        25.7151276
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Kendall, FL",
+        "id": "9b46dccb3cfb880c",
+        "name": "Kendall",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/9b46dccb3cfb880c.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@Target has the WORST customer service at their 800 number ever! Never ordering from them again.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Sep 21 14:28:27 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Random Musings of God, Life & TV Shows. Oh & I'm a Jesus Freak. I live, eat and speak about Jesus... There is nothing I'd rather do than to talk about Jesus.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 1377,
+        "follow_request_sent": false,
+        "followers_count": 215,
+        "following": false,
+        "friends_count": 553,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 76039954,
+        "id_str": "76039954",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 3,
+        "location": "Miami, FL",
+        "name": "Eileen",
+        "notifications": false,
+        "profile_background_color": "070A0A",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/454413048766152704/jWUGLAGg.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/454413048766152704/jWUGLAGg.jpeg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/76039954/1442781924",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/645699465895014400/2g0lJYk__normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/645699465895014400/2g0lJYk__normal.jpg",
+        "profile_link_color": "1D2BC4",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "0D0806",
+        "profile_text_color": "332D23",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "leenystrumz",
+        "statuses_count": 5262,
+        "time_zone": "Eastern Time (US & Canada)",
+        "url": null,
+        "utc_offset": -18000,
+        "verified": false
+    }
+}
