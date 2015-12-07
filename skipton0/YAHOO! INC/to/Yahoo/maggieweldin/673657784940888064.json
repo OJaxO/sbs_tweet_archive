@@ -1,0 +1,124 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 07 00:18:26 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 19380829,
+                "id_str": "19380829",
+                "indices": [
+                    0,
+                    6
+                ],
+                "name": "Yahoo",
+                "screen_name": "Yahoo"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 673657784940888064,
+    "id_str": "673657784940888064",
+    "in_reply_to_screen_name": "Yahoo",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 19380829,
+    "in_reply_to_user_id_str": "19380829",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -90.781325,
+                        42.442191
+                    ],
+                    [
+                        -90.639614,
+                        42.442191
+                    ],
+                    [
+                        -90.639614,
+                        42.579121
+                    ],
+                    [
+                        -90.781325,
+                        42.579121
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Dubuque, IA",
+        "id": "7704cecc1f8f59e3",
+        "name": "Dubuque",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/7704cecc1f8f59e3.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@Yahoo 's Marissa Mayer's severance package is enough to send 4,250 students to public universities for four years. Just wow.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Jun 20 20:38:07 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Young PR practitioner | President of PR Solutions at @LorasCollege | Marketing and PR Coordinator at @PlaidSwan",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 517,
+        "follow_request_sent": false,
+        "followers_count": 103,
+        "following": false,
+        "friends_count": 165,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 320974774,
+        "id_str": "320974774",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 0,
+        "location": "",
+        "name": "Maggie Weldin",
+        "notifications": false,
+        "profile_background_color": "DBE9ED",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/428007257/clark_mean_shore.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/428007257/clark_mean_shore.jpg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/320974774/1396110714",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/543561051342901248/gOqqDFid_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/543561051342901248/gOqqDFid_normal.jpeg",
+        "profile_link_color": "CC3366",
+        "profile_sidebar_border_color": "DBE9ED",
+        "profile_sidebar_fill_color": "E6F6F9",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "maggieweldin",
+        "statuses_count": 116,
+        "time_zone": "Eastern Time (US & Canada)",
+        "url": null,
+        "utc_offset": -18000,
+        "verified": false
+    }
+}

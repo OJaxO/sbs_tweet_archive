@@ -1,0 +1,124 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 07 01:22:38 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 19380829,
+                "id_str": "19380829",
+                "indices": [
+                    0,
+                    6
+                ],
+                "name": "Yahoo",
+                "screen_name": "Yahoo"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 673673940573622272,
+    "id_str": "673673940573622272",
+    "in_reply_to_screen_name": "Yahoo",
+    "in_reply_to_status_id": 673673039477940225,
+    "in_reply_to_status_id_str": "673673039477940225",
+    "in_reply_to_user_id": 19380829,
+    "in_reply_to_user_id_str": "19380829",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -13.4307965,
+                        6.7938865
+                    ],
+                    [
+                        -10.2747536,
+                        6.7938865
+                    ],
+                    [
+                        -10.2747536,
+                        10.0002944
+                    ],
+                    [
+                        -13.4307965,
+                        10.0002944
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "Sierra Leone",
+        "country_code": "SL",
+        "full_name": "Sierra Leone",
+        "id": "1e228be254cad957",
+        "name": "Sierra Leone",
+        "place_type": "country",
+        "url": "https://api.twitter.com/1.1/geo/id/1e228be254cad957.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@Yahoo Boy sitting aside is me :) cheers",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Jun 24 13:12:44 +0000 2014",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "works at Afro international foreign exchange bureau ! I can afford to live very comfortably.Resolution never waste food. I\u2019m incredibly fortunate.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 3125,
+        "follow_request_sent": false,
+        "followers_count": 262,
+        "following": false,
+        "friends_count": 1989,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 2585769613,
+        "id_str": "2585769613",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 5,
+        "location": "sierra leone  west africa",
+        "name": "Sanjay Navilgon.007",
+        "notifications": false,
+        "profile_background_color": "DD2E44",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/631157512499277824/ztGI-wjE.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/631157512499277824/ztGI-wjE.jpg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2585769613/1403902066",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/667808008756424704/Kz31khRu_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/667808008756424704/Kz31khRu_normal.jpg",
+        "profile_link_color": "DD2E44",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "sanjaynavilgon1",
+        "statuses_count": 16959,
+        "time_zone": "Casablanca",
+        "url": null,
+        "utc_offset": 0,
+        "verified": false
+    }
+}
