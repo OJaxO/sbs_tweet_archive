@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Dec 06 21:30:16 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 62601419,
+                "id_str": "62601419",
+                "indices": [
+                    0,
+                    11
+                ],
+                "name": "Verizon Wireless CS",
+                "screen_name": "VZWSupport"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 673615465726410753,
+    "id_str": "673615465726410753",
+    "in_reply_to_screen_name": "VZWSupport",
+    "in_reply_to_status_id": 673615265389813760,
+    "in_reply_to_status_id_str": "673615265389813760",
+    "in_reply_to_user_id": 62601419,
+    "in_reply_to_user_id_str": "62601419",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -124.482003,
+                        32.528832
+                    ],
+                    [
+                        -114.131212,
+                        32.528832
+                    ],
+                    [
+                        -114.131212,
+                        42.009519
+                    ],
+                    [
+                        -124.482003,
+                        42.009519
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "California, USA",
+        "id": "fbd6d2f5a4e4a15e",
+        "name": "California",
+        "place_type": "admin",
+        "url": "https://api.twitter.com/1.1/geo/id/fbd6d2f5a4e4a15e.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@VZWSupport &gt;&gt; one device only at a time.  Either my iPhone or Mac",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Mar 20 01:59:23 +0000 2011",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "CTO-Americas, Father, and GeekFu Expert focussed on Flash Technology Awesomesauce *Tweets* are my own and not a reflection of my employer",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "dweebiak.com/geekfu",
+                        "expanded_url": "http://www.dweebiak.com/geekfu",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/XFp4dcbY1f"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 729,
+        "follow_request_sent": false,
+        "followers_count": 927,
+        "following": false,
+        "friends_count": 610,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 269075147,
+        "id_str": "269075147",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 21,
+        "location": "Mountain View, CA",
+        "name": "Aaron Skogsberg",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/269075147/1444165212",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/662486782534004737/VmY6JP9s_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/662486782534004737/VmY6JP9s_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "DweebiaK",
+        "statuses_count": 4867,
+        "time_zone": "Eastern Time (US & Canada)",
+        "url": "https://t.co/XFp4dcbY1f",
+        "utc_offset": -18000,
+        "verified": false
+    }
+}
