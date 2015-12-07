@@ -1,0 +1,175 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Dec 06 22:55:30 +0000 2015",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    136,
+                    140
+                ],
+                "text": "SOS"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 20793816,
+                "id_str": "20793816",
+                "indices": [
+                    0,
+                    7
+                ],
+                "name": "Amazon",
+                "screen_name": "amazon"
+            },
+            {
+                "id": 85741735,
+                "id_str": "85741735",
+                "indices": [
+                    8,
+                    19
+                ],
+                "name": "Amazon Help",
+                "screen_name": "AmazonHelp"
+            },
+            {
+                "id": 386507775,
+                "id_str": "386507775",
+                "indices": [
+                    105,
+                    110
+                ],
+                "name": "U.S. Postal Service",
+                "screen_name": "USPS"
+            },
+            {
+                "id": 2872571512,
+                "id_str": "2872571512",
+                "indices": [
+                    111,
+                    120
+                ],
+                "name": "USPS Help",
+                "screen_name": "USPSHelp"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 673636912645672961,
+    "id_str": "673636912645672961",
+    "in_reply_to_screen_name": "amazon",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 20793816,
+    "in_reply_to_user_id_str": "20793816",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -80.0295184,
+                        35.962623
+                    ],
+                    [
+                        -79.6852086,
+                        35.962623
+                    ],
+                    [
+                        -79.6852086,
+                        36.218171
+                    ],
+                    [
+                        -80.0295184,
+                        36.218171
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Greensboro, NC",
+        "id": "a6c257c61f294ec1",
+        "name": "Greensboro",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/a6c257c61f294ec1.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@amazon @AmazonHelp your app says my package delivered TWO DAYS ago, and it's yet to make an appearance. @USPS @USPSHelp, your page too #SOS",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Dec 03 16:04:56 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "no bay-sics #NCAT18",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "instagram.com/hrhtiwa",
+                        "expanded_url": "http://instagram.com/hrhtiwa",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/xoTDrMbc3f"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 4862,
+        "follow_request_sent": false,
+        "followers_count": 630,
+        "following": false,
+        "friends_count": 392,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 94357658,
+        "id_str": "94357658",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 8,
+        "location": "",
+        "name": "ti-wa",
+        "notifications": false,
+        "profile_background_color": "F5ABB5",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/654114184536264704/ly0dNNzS.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/654114184536264704/ly0dNNzS.jpg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/94357658/1448054094",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/671867497843441664/VCeFx1qt_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/671867497843441664/VCeFx1qt_normal.jpg",
+        "profile_link_color": "FFCC4D",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "2A2536",
+        "profile_text_color": "C2C2C2",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "hrhtiwa",
+        "statuses_count": 48466,
+        "time_zone": "Eastern Time (US & Canada)",
+        "url": "https://t.co/xoTDrMbc3f",
+        "utc_offset": -18000,
+        "verified": false
+    }
+}

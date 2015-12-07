@@ -1,0 +1,184 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Dec 06 19:14:16 +0000 2015",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    21,
+                    28
+                ],
+                "text": "drones"
+            }
+        ],
+        "media": [
+            {
+                "display_url": "pic.twitter.com/qPsanFjd93",
+                "expanded_url": "http://twitter.com/chrissyoakesTV/status/673581238574292992/photo/1",
+                "id": 673581232844750848,
+                "id_str": "673581232844750848",
+                "indices": [
+                    119,
+                    142
+                ],
+                "media_url": "http://pbs.twimg.com/media/CVkKj_8UwAAtmdv.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/CVkKj_8UwAAtmdv.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 1024,
+                        "resize": "fit",
+                        "w": 688
+                    },
+                    "medium": {
+                        "h": 893,
+                        "resize": "fit",
+                        "w": 600
+                    },
+                    "small": {
+                        "h": 506,
+                        "resize": "fit",
+                        "w": 340
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/qPsanFjd93"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 20793816,
+                "id_str": "20793816",
+                "indices": [
+                    0,
+                    7
+                ],
+                "name": "Amazon",
+                "screen_name": "amazon"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 673581238574292992,
+    "id_str": "673581238574292992",
+    "in_reply_to_screen_name": "amazon",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 20793816,
+    "in_reply_to_user_id_str": "20793816",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -74.312288,
+                        40.670152
+                    ],
+                    [
+                        -74.222196,
+                        40.670152
+                    ],
+                    [
+                        -74.222196,
+                        40.722201
+                    ],
+                    [
+                        -74.312288,
+                        40.722201
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Union, NJ",
+        "id": "e4faa50d904ab815",
+        "name": "Union",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/e4faa50d904ab815.json"
+    },
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@Amazon wants to fly #drones but can't master normal delivery! 26 hrs late &amp; it's been in NJ-PA-NJ now back in PA. https://t.co/qPsanFjd93",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Jul 18 15:08:04 +0000 2012",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "On Camera Host|Event Emcee|Actor|Dancer|Sports Junkie who puts mayonaise on everything",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "chrissyoakes.com",
+                        "expanded_url": "http://www.chrissyoakes.com",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/E4l0xB4kFD"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 2577,
+        "follow_request_sent": false,
+        "followers_count": 9366,
+        "following": false,
+        "friends_count": 7833,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 703225627,
+        "id_str": "703225627",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 64,
+        "location": "New York",
+        "name": "Chrissy Oakes",
+        "notifications": false,
+        "profile_background_color": "FFFFFF",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/801424972/0e336338b94f4c38a8d6f0ac65d3153c.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/801424972/0e336338b94f4c38a8d6f0ac65d3153c.jpeg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/703225627/1437103543",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/642479886372892672/-_NsgMsU_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/642479886372892672/-_NsgMsU_normal.jpg",
+        "profile_link_color": "333333",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "CC3366",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "chrissyoakesTV",
+        "statuses_count": 5140,
+        "time_zone": "Eastern Time (US & Canada)",
+        "url": "http://t.co/E4l0xB4kFD",
+        "utc_offset": -18000,
+        "verified": false
+    }
+}

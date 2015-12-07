@@ -1,0 +1,157 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Dec 05 21:50:21 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 20793816,
+                "id_str": "20793816",
+                "indices": [
+                    0,
+                    7
+                ],
+                "name": "Amazon",
+                "screen_name": "amazon"
+            },
+            {
+                "id": 952293073,
+                "id_str": "952293073",
+                "indices": [
+                    12,
+                    22
+                ],
+                "name": "FedEx Help",
+                "screen_name": "FedExHelp"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 673258129304379392,
+    "id_str": "673258129304379392",
+    "in_reply_to_screen_name": "amazon",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 20793816,
+    "in_reply_to_user_id_str": "20793816",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -83.661476,
+                        42.165629
+                    ],
+                    [
+                        -83.542129,
+                        42.165629
+                    ],
+                    [
+                        -83.542129,
+                        42.32554
+                    ],
+                    [
+                        -83.661476,
+                        42.32554
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Ypsilanti, MI",
+        "id": "0049088b1906e51b",
+        "name": "Ypsilanti",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/0049088b1906e51b.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@amazon and @FedExHelp say my order was delivered this morning. Guys... It hasn't been delivered. \ud83d\ude22\ud83d\ude28",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Mar 29 03:32:41 +0000 2008",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Pastor of the Antioch Movement in Ypsilanti. Figuring out how to #PracticeResurrection. Learn more at http://t.co/S3EIhbhQbo.",
+        "entities": {
+            "description": {
+                "urls": [
+                    {
+                        "display_url": "theantiochmovement.org",
+                        "expanded_url": "http://theantiochmovement.org",
+                        "indices": [
+                            102,
+                            124
+                        ],
+                        "url": "http://t.co/S3EIhbhQbo"
+                    }
+                ]
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "danielmrose.tumblr.com",
+                        "expanded_url": "http://danielmrose.tumblr.com",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/55xLLn9LEb"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 1773,
+        "follow_request_sent": false,
+        "followers_count": 1019,
+        "following": false,
+        "friends_count": 1484,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 14249046,
+        "id_str": "14249046",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 60,
+        "location": "Ypsilanti, MI",
+        "name": "Daniel Rose",
+        "notifications": false,
+        "profile_background_color": "231F21",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/529278504/antiochtwitterresized.png",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/529278504/antiochtwitterresized.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/14249046/1442094198",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/649666176147021824/BFPBVCQq_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/649666176147021824/BFPBVCQq_normal.jpg",
+        "profile_link_color": "006940",
+        "profile_sidebar_border_color": "000515",
+        "profile_sidebar_fill_color": "061127",
+        "profile_text_color": "52555C",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "danielmrose",
+        "statuses_count": 25078,
+        "time_zone": "Eastern Time (US & Canada)",
+        "url": "https://t.co/55xLLn9LEb",
+        "utc_offset": -18000,
+        "verified": false
+    }
+}
