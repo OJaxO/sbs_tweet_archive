@@ -1,0 +1,217 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Dec 05 18:15:07 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/casey_meuleman\u2026",
+                "expanded_url": "https://twitter.com/casey_meulemans/status/673202752852463618",
+                "indices": [
+                    9,
+                    32
+                ],
+                "url": "https://t.co/M09h6L3cm5"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 67418441,
+                "id_str": "67418441",
+                "indices": [
+                    0,
+                    7
+                ],
+                "name": "Disney",
+                "screen_name": "Disney"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 673203963496431621,
+    "id_str": "673203963496431621",
+    "in_reply_to_screen_name": "Disney",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 67418441,
+    "in_reply_to_user_id_str": "67418441",
+    "is_quote_status": true,
+    "lang": "und",
+    "metadata": {
+        "iso_language_code": "und",
+        "result_type": "recent"
+    },
+    "place": null,
+    "possibly_sensitive": false,
+    "quoted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Sat Dec 05 18:10:18 +0000 2015",
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "urls": [],
+            "user_mentions": []
+        },
+        "favorite_count": 4,
+        "favorited": false,
+        "geo": null,
+        "id": 673202752852463618,
+        "id_str": "673202752852463618",
+        "in_reply_to_screen_name": null,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "is_quote_status": false,
+        "lang": "en",
+        "metadata": {
+            "iso_language_code": "und",
+            "result_type": "recent"
+        },
+        "place": {
+            "attributes": {},
+            "bounding_box": {
+                "coordinates": [
+                    [
+                        [
+                            -85.605166,
+                            30.355644
+                        ],
+                        [
+                            -80.742567,
+                            30.355644
+                        ],
+                        [
+                            -80.742567,
+                            35.000771
+                        ],
+                        [
+                            -85.605166,
+                            35.000771
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "contained_within": [],
+            "country": "United States",
+            "country_code": "US",
+            "full_name": "Georgia, USA",
+            "id": "7142eb97ae21e839",
+            "name": "Georgia",
+            "place_type": "admin",
+            "url": "https://api.twitter.com/1.1/geo/id/7142eb97ae21e839.json"
+        },
+        "retweet_count": 0,
+        "retweeted": false,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "I was really hoping the disney princess tramp stamp I got last night was a dream...... It wasn't. It's still there. \ud83d\ude15",
+        "truncated": false,
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Tue Aug 09 00:55:01 +0000 2011",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "So Hold your head high gorgeous, Show the world youre fine, Don\u2019t give in to the heartache, Because People would kill to see you fall\u2026",
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "favourites_count": 3838,
+            "follow_request_sent": false,
+            "followers_count": 571,
+            "following": false,
+            "friends_count": 979,
+            "geo_enabled": true,
+            "has_extended_profile": false,
+            "id": 351266736,
+            "id_str": "351266736",
+            "is_translation_enabled": false,
+            "is_translator": false,
+            "lang": "en",
+            "listed_count": 1,
+            "location": "Valdosta, Ga",
+            "name": "Casey Meulemans",
+            "notifications": false,
+            "profile_background_color": "260426",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/332576863/pattern_18.jpg",
+            "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/332576863/pattern_18.jpg",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/351266736/1409269440",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/638869723585884160/c-2naZ-s_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/638869723585884160/c-2naZ-s_normal.jpg",
+            "profile_link_color": "EB26EB",
+            "profile_sidebar_border_color": "64FABE",
+            "profile_sidebar_fill_color": "571C57",
+            "profile_text_color": "3FF5B8",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "Casey_Meulemans",
+            "statuses_count": 4372,
+            "time_zone": null,
+            "url": null,
+            "utc_offset": null,
+            "verified": false
+        }
+    },
+    "quoted_status_id": 673202752852463618,
+    "quoted_status_id_str": "673202752852463618",
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@Disney  https://t.co/M09h6L3cm5",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Jun 14 19:54:44 +0000 2012",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Valdosta State 2012 National Champion Atychiphobia [Look It Up] Warner Robins, GA Future Football Coach",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 32691,
+        "follow_request_sent": false,
+        "followers_count": 1402,
+        "following": false,
+        "friends_count": 995,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 608525253,
+        "id_str": "608525253",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 10,
+        "location": "Warner Robins, GA",
+        "name": "Steven Ruzic",
+        "notifications": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/580144420/6maibus8rfhotyc1x01o.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/580144420/6maibus8rfhotyc1x01o.jpeg",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/608525253/1448226695",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/414566715952222209/3fZH1WwA_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/414566715952222209/3fZH1WwA_normal.jpeg",
+        "profile_link_color": "ABB8C2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "S_Ruzic",
+        "statuses_count": 48717,
+        "time_zone": null,
+        "url": null,
+        "utc_offset": null,
+        "verified": false
+    }
+}

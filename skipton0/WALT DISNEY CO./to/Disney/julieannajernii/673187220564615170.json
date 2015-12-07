@@ -1,0 +1,177 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Dec 05 17:08:35 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "media": [
+            {
+                "display_url": "pic.twitter.com/xgEiw5NCt0",
+                "expanded_url": "http://twitter.com/Disney/status/673154887115530240/photo/1",
+                "id": 673154886905798656,
+                "id_str": "673154886905798656",
+                "indices": [
+                    67,
+                    90
+                ],
+                "media_url": "http://pbs.twimg.com/media/CVeGzZjWoAATtKF.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/CVeGzZjWoAATtKF.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 1000,
+                        "resize": "fit",
+                        "w": 1000
+                    },
+                    "medium": {
+                        "h": 600,
+                        "resize": "fit",
+                        "w": 600
+                    },
+                    "small": {
+                        "h": 340,
+                        "resize": "fit",
+                        "w": 340
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "source_status_id": 673154887115530240,
+                "source_status_id_str": "673154887115530240",
+                "source_user_id": 67418441,
+                "source_user_id_str": "67418441",
+                "type": "photo",
+                "url": "https://t.co/xgEiw5NCt0"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 67418441,
+                "id_str": "67418441",
+                "indices": [
+                    1,
+                    8
+                ],
+                "name": "Disney",
+                "screen_name": "Disney"
+            },
+            {
+                "id": 3177798881,
+                "id_str": "3177798881",
+                "indices": [
+                    91,
+                    104
+                ],
+                "name": "Carly Popham",
+                "screen_name": "carly_popham"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 673187220564615170,
+    "id_str": "673187220564615170",
+    "in_reply_to_screen_name": "Disney",
+    "in_reply_to_status_id": 673154887115530240,
+    "in_reply_to_status_id_str": "673154887115530240",
+    "in_reply_to_user_id": 67418441,
+    "in_reply_to_user_id_str": "67418441",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -85.605166,
+                        30.355644
+                    ],
+                    [
+                        -80.742567,
+                        30.355644
+                    ],
+                    [
+                        -80.742567,
+                        35.000771
+                    ],
+                    [
+                        -85.605166,
+                        35.000771
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Georgia, USA",
+        "id": "7142eb97ae21e839",
+        "name": "Georgia",
+        "place_type": "admin",
+        "url": "https://api.twitter.com/1.1/geo/id/7142eb97ae21e839.json"
+    },
+    "possibly_sensitive": false,
+    "retweet_count": 1,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "\u201c@Disney: Happy Birthday to the man behind the magic, Walt Disney. https://t.co/xgEiw5NCt0\u201d@carly_popham",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Apr 14 22:55:37 +0000 2015",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 3012,
+        "follow_request_sent": false,
+        "followers_count": 405,
+        "following": false,
+        "friends_count": 291,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 3167431877,
+        "id_str": "3167431877",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 0,
+        "location": "Blackshear, GA",
+        "name": "Julieanna Jernigan",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3167431877/1449370282",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/673619142713454592/wtALypzM_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/673619142713454592/wtALypzM_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "julieannajernii",
+        "statuses_count": 1070,
+        "time_zone": null,
+        "url": null,
+        "utc_offset": null,
+        "verified": false
+    }
+}
