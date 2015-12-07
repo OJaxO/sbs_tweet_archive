@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Dec 06 14:51:46 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 2917968139,
+                "id_str": "2917968139",
+                "indices": [
+                    0,
+                    14
+                ],
+                "name": "Starbucks Help",
+                "screen_name": "starbuckshelp"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 673515177560686592,
+    "id_str": "673515177560686592",
+    "in_reply_to_screen_name": "starbuckshelp",
+    "in_reply_to_status_id": 673253684449574912,
+    "in_reply_to_status_id_str": "673253684449574912",
+    "in_reply_to_user_id": 2917968139,
+    "in_reply_to_user_id_str": "2917968139",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -83.67529,
+                        36.540739
+                    ],
+                    [
+                        -75.16644,
+                        36.540739
+                    ],
+                    [
+                        -75.16644,
+                        39.466012
+                    ],
+                    [
+                        -83.67529,
+                        39.466012
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Virginia, USA",
+        "id": "5635c19c2b5078d1",
+        "name": "Virginia",
+        "place_type": "admin",
+        "url": "https://api.twitter.com/1.1/geo/id/5635c19c2b5078d1.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@starbuckshelp I emailed yesterday. No reply. So far, no reply to calls or email. I'm down $10 and my sister still doesn't have her drink.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Oct 22 22:54:42 +0000 2008",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "VCU Brandcenter chair: Creative Brand Management and professor. PadillaCRT partner. Organizational brand strategist, artist, author and entrepreneur.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "brandcenter.vcu.edu",
+                        "expanded_url": "http://www.brandcenter.vcu.edu/",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/e4wjZhNPHj"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 332,
+        "follow_request_sent": false,
+        "followers_count": 4168,
+        "following": false,
+        "friends_count": 2441,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 16914680,
+        "id_str": "16914680",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 377,
+        "location": "Richmond, Virginia",
+        "name": "Kelly O'Keefe",
+        "notifications": false,
+        "profile_background_color": "C6E2EE",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/76478699/bigboy_restore.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/76478699/bigboy_restore.jpeg",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/16914680/1435584973",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/613316626461536256/EJ2NDf9X_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/613316626461536256/EJ2NDf9X_normal.jpg",
+        "profile_link_color": "3B94D9",
+        "profile_sidebar_border_color": "C6E2EE",
+        "profile_sidebar_fill_color": "DAECF4",
+        "profile_text_color": "663B12",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "kellyokeefe",
+        "statuses_count": 2657,
+        "time_zone": "Hawaii",
+        "url": "http://t.co/e4wjZhNPHj",
+        "utc_offset": -36000,
+        "verified": false
+    }
+}
