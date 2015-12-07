@@ -1,0 +1,124 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Dec 06 13:15:26 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 30973,
+                "id_str": "30973",
+                "indices": [
+                    0,
+                    10
+                ],
+                "name": "Starbucks Coffee",
+                "screen_name": "Starbucks"
+            }
+        ]
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": null,
+    "id": 673490937205669892,
+    "id_str": "673490937205669892",
+    "in_reply_to_screen_name": "Starbucks",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 30973,
+    "in_reply_to_user_id_str": "30973",
+    "is_quote_status": false,
+    "lang": "tr",
+    "metadata": {
+        "iso_language_code": "tr",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        28.9585691,
+                        41.0391922
+                    ],
+                    [
+                        29.025841,
+                        41.0391922
+                    ],
+                    [
+                        29.025841,
+                        41.149973
+                    ],
+                    [
+                        28.9585691,
+                        41.149973
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "T\u00fcrkiye",
+        "country_code": "TR",
+        "full_name": "\u015ei\u015fli, \u0130stanbul",
+        "id": "06a20e9a3487cc48",
+        "name": "\u015ei\u015fli",
+        "place_type": "admin",
+        "url": "https://api.twitter.com/1.1/geo/id/06a20e9a3487cc48.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@Starbucks \u015ei\u015fli \u0130stanbul",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Jul 04 11:01:24 +0000 2014",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "G\u00dcZELTEPE. #BE\u015e\u0130KTA\u015e \u0130STANBUL.HAYAT HEP FUTBOL",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 44531,
+        "follow_request_sent": false,
+        "followers_count": 2959,
+        "following": false,
+        "friends_count": 278,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 2603268374,
+        "id_str": "2603268374",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "tr",
+        "listed_count": 1,
+        "location": "",
+        "name": "Okann El\u00fcst\u00fc",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/485020477002223616/fIiVvWUr.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/485020477002223616/fIiVvWUr.jpeg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2603268374/1449355387",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/671983487486939136/M5FfXpMk_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/671983487486939136/M5FfXpMk_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "VinnDieselll",
+        "statuses_count": 2770,
+        "time_zone": "Baghdad",
+        "url": null,
+        "utc_offset": 10800,
+        "verified": false
+    }
+}

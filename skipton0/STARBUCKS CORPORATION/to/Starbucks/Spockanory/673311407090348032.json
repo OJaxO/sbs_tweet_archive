@@ -1,0 +1,134 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Dec 06 01:22:03 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 30973,
+                "id_str": "30973",
+                "indices": [
+                    0,
+                    10
+                ],
+                "name": "Starbucks Coffee",
+                "screen_name": "Starbucks"
+            },
+            {
+                "id": 1898395128,
+                "id_str": "1898395128",
+                "indices": [
+                    61,
+                    77
+                ],
+                "name": "Hello Internet",
+                "screen_name": "HelloInternetFM"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 673311407090348032,
+    "id_str": "673311407090348032",
+    "in_reply_to_screen_name": "Starbucks",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 30973,
+    "in_reply_to_user_id_str": "30973",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -0.12149,
+                        50.979306
+                    ],
+                    [
+                        -0.07077,
+                        50.979306
+                    ],
+                    [
+                        -0.07077,
+                        51.016568
+                    ],
+                    [
+                        -0.12149,
+                        51.016568
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United Kingdom",
+        "country_code": "GB",
+        "full_name": "Haywards Heath, England",
+        "id": "086f3fef1238538b",
+        "name": "Haywards Heath",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/086f3fef1238538b.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@Starbucks where are my hot stoppers? I demand hot stoppers! @HelloInternetFM",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Dec 09 12:35:56 +0000 2012",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Just a guy who like to ride bikes.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 130,
+        "follow_request_sent": false,
+        "followers_count": 97,
+        "following": false,
+        "friends_count": 448,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 999201380,
+        "id_str": "999201380",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 0,
+        "location": "Haywards Heath",
+        "name": "Jack Dunne",
+        "notifications": false,
+        "profile_background_color": "0099B9",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/999201380/1408378707",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/664052066537598976/Gw2QPt5z_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/664052066537598976/Gw2QPt5z_normal.jpg",
+        "profile_link_color": "0099B9",
+        "profile_sidebar_border_color": "5ED4DC",
+        "profile_sidebar_fill_color": "95E8EC",
+        "profile_text_color": "3C3940",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Spockanory",
+        "statuses_count": 278,
+        "time_zone": "London",
+        "url": null,
+        "utc_offset": 0,
+        "verified": false
+    }
+}

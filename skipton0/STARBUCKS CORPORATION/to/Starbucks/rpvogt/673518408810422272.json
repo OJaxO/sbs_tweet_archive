@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Dec 06 15:04:36 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 30973,
+                "id_str": "30973",
+                "indices": [
+                    0,
+                    10
+                ],
+                "name": "Starbucks Coffee",
+                "screen_name": "Starbucks"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 673518408810422272,
+    "id_str": "673518408810422272",
+    "in_reply_to_screen_name": "Starbucks",
+    "in_reply_to_status_id": 661431193829699584,
+    "in_reply_to_status_id_str": "661431193829699584",
+    "in_reply_to_user_id": 30973,
+    "in_reply_to_user_id_str": "30973",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -90.320464,
+                        38.533149
+                    ],
+                    [
+                        -90.175132,
+                        38.533149
+                    ],
+                    [
+                        -90.175132,
+                        38.774349
+                    ],
+                    [
+                        -90.320464,
+                        38.774349
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "St Louis, MO",
+        "id": "0570f015c264cbd9",
+        "name": "St Louis",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/0570f015c264cbd9.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@Starbucks I love using my app and the bonus star programs. But I have to email customer service for about 50% of bonus stars. Please fix!",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Oct 03 02:16:50 +0000 2012",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Writer, IT professional, geek. Author of The Stargazer Journal (YA-MG Fantasy) and Crosshairs (Coming of Age)",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "amazon.com/RP-Vogt/e/B00F\u2026",
+                        "expanded_url": "http://www.amazon.com/RP-Vogt/e/B00F8MJONE/ref=ntt_dp_epwbk_0",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/MjRdfeX6Ww"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 50,
+        "follow_request_sent": false,
+        "followers_count": 231,
+        "following": false,
+        "friends_count": 323,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 859052797,
+        "id_str": "859052797",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 8,
+        "location": "St Louis, MO",
+        "name": "Rick Vogt",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/859052797/1380923980",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/669852309015392260/on-oSsy1_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/669852309015392260/on-oSsy1_normal.jpg",
+        "profile_link_color": "ABB8C2",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "rpvogt",
+        "statuses_count": 496,
+        "time_zone": null,
+        "url": "https://t.co/MjRdfeX6Ww",
+        "utc_offset": null,
+        "verified": false
+    }
+}

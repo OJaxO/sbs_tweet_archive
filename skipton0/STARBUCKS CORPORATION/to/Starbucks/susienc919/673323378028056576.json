@@ -1,0 +1,124 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Dec 06 02:09:37 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 30973,
+                "id_str": "30973",
+                "indices": [
+                    0,
+                    10
+                ],
+                "name": "Starbucks Coffee",
+                "screen_name": "Starbucks"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 673323378028056576,
+    "id_str": "673323378028056576",
+    "in_reply_to_screen_name": "Starbucks",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 30973,
+    "in_reply_to_user_id_str": "30973",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -78.9448945,
+                        35.6443837
+                    ],
+                    [
+                        -78.7291467,
+                        35.6443837
+                    ],
+                    [
+                        -78.7291467,
+                        35.867993
+                    ],
+                    [
+                        -78.9448945,
+                        35.867993
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Cary, NC",
+        "id": "5c6bd208d7ddf9f6",
+        "name": "Cary",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/5c6bd208d7ddf9f6.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@Starbucks Please add cream base option for frappucinos! It's needed :)",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Aug 08 02:58:18 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Fall in love with your own life and be amazed at who you are! I love being a wife, mom, Christian, cooking, coffees and teas, the beach and music",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 3931,
+        "follow_request_sent": false,
+        "followers_count": 199,
+        "following": false,
+        "friends_count": 206,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 350642896,
+        "id_str": "350642896",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 17,
+        "location": "Raleigh, NC ",
+        "name": "Susie",
+        "notifications": false,
+        "profile_background_color": "FAFAFA",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/415335522/423952_2950554656939_1653543306_2634433_1059207716_n.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/415335522/423952_2950554656939_1653543306_2634433_1059207716_n.jpg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/350642896/1449132061",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/665595352960131072/Et-ZNSzH_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/665595352960131072/Et-ZNSzH_normal.jpg",
+        "profile_link_color": "241880",
+        "profile_sidebar_border_color": "2E34DB",
+        "profile_sidebar_fill_color": "C3DFFA",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "susienc919",
+        "statuses_count": 4940,
+        "time_zone": "Quito",
+        "url": null,
+        "utc_offset": -18000,
+        "verified": false
+    }
+}

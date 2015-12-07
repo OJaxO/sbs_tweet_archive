@@ -1,0 +1,164 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 07 01:10:14 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 30973,
+                "id_str": "30973",
+                "indices": [
+                    0,
+                    10
+                ],
+                "name": "Starbucks Coffee",
+                "screen_name": "Starbucks"
+            },
+            {
+                "id": 212374670,
+                "id_str": "212374670",
+                "indices": [
+                    11,
+                    25
+                ],
+                "name": "Assembly Row",
+                "screen_name": "AtAssemblyRow"
+            },
+            {
+                "id": 399032253,
+                "id_str": "399032253",
+                "indices": [
+                    41,
+                    57
+                ],
+                "name": "Rx Strength Training",
+                "screen_name": "RxStrengthTrain"
+            },
+            {
+                "id": 402856118,
+                "id_str": "402856118",
+                "indices": [
+                    106,
+                    122
+                ],
+                "name": "Family Reach",
+                "screen_name": "FamilyReachFndt"
+            },
+            {
+                "id": 321974233,
+                "id_str": "321974233",
+                "indices": [
+                    128,
+                    143
+                ],
+                "name": "Takeda Oncology",
+                "screen_name": "TakedaOncology"
+            }
+        ]
+    },
+    "favorite_count": 3,
+    "favorited": false,
+    "geo": null,
+    "id": 673670820187799552,
+    "id_str": "673670820187799552",
+    "in_reply_to_screen_name": "Starbucks",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 30973,
+    "in_reply_to_user_id_str": "30973",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -71.149807,
+                        42.396145
+                    ],
+                    [
+                        -71.071833,
+                        42.396145
+                    ],
+                    [
+                        -71.071833,
+                        42.453759
+                    ],
+                    [
+                        -71.149807,
+                        42.453759
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Medford, MA",
+        "id": "c8e7273a81fab7c0",
+        "name": "Medford",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/c8e7273a81fab7c0.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@Starbucks @AtAssemblyRow WE DID IT!!!!! @RxStrengthTrain hit over 15K burpees &amp; raised over $20K for @FamilyReachFndt!!!!!\n@TakedaOncology",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Feb 19 16:01:22 +0000 2012",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Both personal+professional, all tweets are my own and do not reflect the views of my company or its affiliates.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 676,
+        "follow_request_sent": false,
+        "followers_count": 3070,
+        "following": false,
+        "friends_count": 226,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 497078510,
+        "id_str": "497078510",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 26,
+        "location": "Boston, MA",
+        "name": "Jena Tang",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/497078510/1447365217",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/664924383337701376/qdoCPQlv_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/664924383337701376/qdoCPQlv_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "jenatang",
+        "statuses_count": 4160,
+        "time_zone": "Eastern Time (US & Canada)",
+        "url": null,
+        "utc_offset": -18000,
+        "verified": false
+    }
+}

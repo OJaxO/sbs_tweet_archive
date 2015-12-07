@@ -1,0 +1,173 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Dec 06 11:56:32 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "media": [
+            {
+                "display_url": "pic.twitter.com/KHZcMrpZyW",
+                "expanded_url": "http://twitter.com/gosia7129/status/673471081030787072/photo/1",
+                "id": 673471070557618176,
+                "id_str": "673471070557618176",
+                "indices": [
+                    69,
+                    92
+                ],
+                "media_url": "http://pbs.twimg.com/media/CVimXtcWwAAQseX.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/CVimXtcWwAAQseX.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 1024,
+                        "resize": "fit",
+                        "w": 768
+                    },
+                    "medium": {
+                        "h": 800,
+                        "resize": "fit",
+                        "w": 600
+                    },
+                    "small": {
+                        "h": 453,
+                        "resize": "fit",
+                        "w": 340
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/KHZcMrpZyW"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 30973,
+                "id_str": "30973",
+                "indices": [
+                    0,
+                    10
+                ],
+                "name": "Starbucks Coffee",
+                "screen_name": "Starbucks"
+            },
+            {
+                "id": 154591990,
+                "id_str": "154591990",
+                "indices": [
+                    11,
+                    19
+                ],
+                "name": "Rydel Lynch",
+                "screen_name": "rydelR5"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 673471081030787072,
+    "id_str": "673471081030787072",
+    "in_reply_to_screen_name": "Starbucks",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 30973,
+    "in_reply_to_user_id_str": "30973",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        22.220645,
+                        52.127552
+                    ],
+                    [
+                        22.331043,
+                        52.127552
+                    ],
+                    [
+                        22.331043,
+                        52.19585
+                    ],
+                    [
+                        22.220645,
+                        52.19585
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "Polska",
+        "country_code": "PL",
+        "full_name": "Siedlce, Mazowieckie",
+        "id": "a984456677fc5dfe",
+        "name": "Siedlce",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/a984456677fc5dfe.json"
+    },
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@Starbucks @rydelR5 a little gift for mom, for hot tea or coffee\u2764\ufe0f\u2764\ufe0f https://t.co/KHZcMrpZyW",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Oct 22 20:02:16 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "R5 family -gosieq18",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 1128,
+        "follow_request_sent": false,
+        "followers_count": 137,
+        "following": false,
+        "friends_count": 232,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 206357407,
+        "id_str": "206357407",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "pl",
+        "listed_count": 2,
+        "location": "",
+        "name": "MeganR5",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/826909334/1a9ee0b089e2baaf229b37297e38b4bc.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/826909334/1a9ee0b089e2baaf229b37297e38b4bc.jpeg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/206357407/1445781929",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/668876510141530112/YMXnMsqI_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/668876510141530112/YMXnMsqI_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "gosia7129",
+        "statuses_count": 4088,
+        "time_zone": "Amsterdam",
+        "url": null,
+        "utc_offset": 3600,
+        "verified": false
+    }
+}

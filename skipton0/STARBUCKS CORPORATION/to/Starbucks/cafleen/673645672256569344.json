@@ -1,0 +1,185 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Dec 06 23:30:18 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "media": [
+            {
+                "display_url": "pic.twitter.com/JgOn3xswQF",
+                "expanded_url": "http://twitter.com/cafleen/status/673645672256569344/photo/1",
+                "id": 673645657253502976,
+                "id_str": "673645657253502976",
+                "indices": [
+                    69,
+                    92
+                ],
+                "media_url": "http://pbs.twimg.com/media/CVlFJ_kUYAASzME.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/CVlFJ_kUYAASzME.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 1024,
+                        "resize": "fit",
+                        "w": 575
+                    },
+                    "medium": {
+                        "h": 1024,
+                        "resize": "fit",
+                        "w": 575
+                    },
+                    "small": {
+                        "h": 605,
+                        "resize": "fit",
+                        "w": 340
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/JgOn3xswQF"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 30973,
+                "id_str": "30973",
+                "indices": [
+                    0,
+                    10
+                ],
+                "name": "Starbucks Coffee",
+                "screen_name": "Starbucks"
+            },
+            {
+                "id": 21845792,
+                "id_str": "21845792",
+                "indices": [
+                    56,
+                    68
+                ],
+                "name": "VIRGIL ABLOH",
+                "screen_name": "virgilabloh"
+            }
+        ]
+    },
+    "favorite_count": 2,
+    "favorited": false,
+    "geo": null,
+    "id": 673645672256569344,
+    "id_str": "673645672256569344",
+    "in_reply_to_screen_name": "Starbucks",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 30973,
+    "in_reply_to_user_id_str": "30973",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -118.668404,
+                        33.704538
+                    ],
+                    [
+                        -118.155409,
+                        33.704538
+                    ],
+                    [
+                        -118.155409,
+                        34.337041
+                    ],
+                    [
+                        -118.668404,
+                        34.337041
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Los Angeles, CA",
+        "id": "3b77caf94bfc81fe",
+        "name": "Los Angeles",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/3b77caf94bfc81fe.json"
+    },
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@starbucks has a holiday drink named after your DJ sets @virgilabloh https://t.co/JgOn3xswQF",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Jun 06 23:57:18 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "I'm impulsive.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "cathleencher.com",
+                        "expanded_url": "http://www.cathleencher.com",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/fc6ABGSM69"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 710,
+        "follow_request_sent": false,
+        "followers_count": 409,
+        "following": false,
+        "friends_count": 353,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 45243185,
+        "id_str": "45243185",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 5,
+        "location": "LA LA land",
+        "name": "Cathleen Cher Chen",
+        "notifications": false,
+        "profile_background_color": "1A1B1F",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/103229473/mevegas.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/103229473/mevegas.jpg",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/2258392737/meheadphones_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/2258392737/meheadphones_normal.jpg",
+        "profile_link_color": "2FC2EF",
+        "profile_sidebar_border_color": "181A1E",
+        "profile_sidebar_fill_color": "252429",
+        "profile_text_color": "666666",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "cafleen",
+        "statuses_count": 2469,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "http://t.co/fc6ABGSM69",
+        "utc_offset": -28800,
+        "verified": false
+    }
+}

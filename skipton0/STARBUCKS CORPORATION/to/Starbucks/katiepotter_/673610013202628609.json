@@ -1,0 +1,149 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Dec 06 21:08:36 +0000 2015",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    81,
+                    91
+                ],
+                "text": "youdecide"
+            },
+            {
+                "indices": [
+                    92,
+                    102
+                ],
+                "text": "StarSUCKS"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 30973,
+                "id_str": "30973",
+                "indices": [
+                    0,
+                    10
+                ],
+                "name": "Starbucks Coffee",
+                "screen_name": "Starbucks"
+            },
+            {
+                "id": 593911098,
+                "id_str": "593911098",
+                "indices": [
+                    103,
+                    116
+                ],
+                "name": "Frankie Nethery",
+                "screen_name": "frankieneths"
+            }
+        ]
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": null,
+    "id": 673610013202628609,
+    "id_str": "673610013202628609",
+    "in_reply_to_screen_name": "Starbucks",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 30973,
+    "in_reply_to_user_id_str": "30973",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -88.183146,
+                        44.393313
+                    ],
+                    [
+                        -88.000825,
+                        44.393313
+                    ],
+                    [
+                        -88.000825,
+                        44.466126
+                    ],
+                    [
+                        -88.183146,
+                        44.466126
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "De Pere, WI",
+        "id": "0180d52e7d92734f",
+        "name": "De Pere",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/0180d52e7d92734f.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@Starbucks is on some bullshit today. Chestnut Praline Latte or a glass of milk? #youdecide #StarSUCKS @frankieneths",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Jul 08 19:31:04 +0000 2012",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "You miss 100% of the shots you never take.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 1607,
+        "follow_request_sent": false,
+        "followers_count": 135,
+        "following": false,
+        "friends_count": 149,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 630541707,
+        "id_str": "630541707",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 0,
+        "location": "USA ",
+        "name": "katie potter",
+        "notifications": false,
+        "profile_background_color": "9AE4E8",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/630541707/1448724186",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/673392303105556480/H9nwQNRx_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/673392303105556480/H9nwQNRx_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "BDDCAD",
+        "profile_sidebar_fill_color": "DDFFCC",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "katiepotter_",
+        "statuses_count": 1158,
+        "time_zone": null,
+        "url": null,
+        "utc_offset": null,
+        "verified": false
+    }
+}

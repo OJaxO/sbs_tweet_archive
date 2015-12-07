@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Dec 06 12:12:52 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 30973,
+                "id_str": "30973",
+                "indices": [
+                    0,
+                    10
+                ],
+                "name": "Starbucks Coffee",
+                "screen_name": "Starbucks"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 673475189544366081,
+    "id_str": "673475189544366081",
+    "in_reply_to_screen_name": "Starbucks",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 30973,
+    "in_reply_to_user_id_str": "30973",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        144.624196811,
+                        13.2410342470001
+                    ],
+                    [
+                        144.95215905,
+                        13.2410342470001
+                    ],
+                    [
+                        144.95215905,
+                        13.6541201840001
+                    ],
+                    [
+                        144.624196811,
+                        13.6541201840001
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "Guam",
+        "country_code": "GU",
+        "full_name": "Guam",
+        "id": "eb1b809cd6457a58",
+        "name": "Guam",
+        "place_type": "country",
+        "url": "https://api.twitter.com/1.1/geo/id/eb1b809cd6457a58.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@Starbucks Hey, Starbucks!\nGuam needs you!!! We don't have one!!\nI've only had Starbucks out of a bottle. I need fresh Starbies!! &lt;3",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Oct 16 13:53:02 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Soul mauled by music!!",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "instagram.com/hellish_condit\u2026",
+                        "expanded_url": "http://instagram.com/hellish_conditions",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/tJBoeE6JjB"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 494,
+        "follow_request_sent": false,
+        "followers_count": 177,
+        "following": false,
+        "friends_count": 718,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 82883583,
+        "id_str": "82883583",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 4,
+        "location": "Guam",
+        "name": "Jarynn Quintanilla",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/106302064/I_Love_You.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/106302064/I_Love_You.jpg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/82883583/1448190375",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1674822219/090910Thursday_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1674822219/090910Thursday_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "JarynnQ",
+        "statuses_count": 316,
+        "time_zone": "Guam",
+        "url": "http://t.co/tJBoeE6JjB",
+        "utc_offset": 36000,
+        "verified": false
+    }
+}
