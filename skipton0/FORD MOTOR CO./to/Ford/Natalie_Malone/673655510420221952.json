@@ -1,0 +1,176 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 07 00:09:24 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "media": [
+            {
+                "display_url": "pic.twitter.com/5kPp4ETW1z",
+                "expanded_url": "http://twitter.com/Natalie_Malone/status/673655510420221952/photo/1",
+                "id": 673655488584638464,
+                "id_str": "673655488584638464",
+                "indices": [
+                    110,
+                    133
+                ],
+                "media_url": "http://pbs.twimg.com/media/CVlOGQIUYAAFDRT.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/CVlOGQIUYAAFDRT.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 596,
+                        "resize": "fit",
+                        "w": 1024
+                    },
+                    "medium": {
+                        "h": 349,
+                        "resize": "fit",
+                        "w": 600
+                    },
+                    "small": {
+                        "h": 197,
+                        "resize": "fit",
+                        "w": 340
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/5kPp4ETW1z"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 15676492,
+                "id_str": "15676492",
+                "indices": [
+                    0,
+                    5
+                ],
+                "name": "Ford Motor Company",
+                "screen_name": "Ford"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 673655510420221952,
+    "id_str": "673655510420221952",
+    "in_reply_to_screen_name": "Ford",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 15676492,
+    "in_reply_to_user_id_str": "15676492",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -96.938694,
+                        32.895548
+                    ],
+                    [
+                        -96.821221,
+                        32.895548
+                    ],
+                    [
+                        -96.821221,
+                        32.953548
+                    ],
+                    [
+                        -96.938694,
+                        32.953548
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Farmers Branch, TX",
+        "id": "97b70992556c6354",
+        "name": "Farmers Branch",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/97b70992556c6354.json"
+    },
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@Ford tell me why do I need a new engine in this nice car? I'll tell you why because your cars are worthless! https://t.co/5kPp4ETW1z",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Nov 05 23:00:05 +0000 2008",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "I love my President Barak Obama!",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "facebook.com",
+                        "expanded_url": "http://www.facebook.com",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/t3WPVPf5Gg"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 68,
+        "follow_request_sent": false,
+        "followers_count": 64,
+        "following": false,
+        "friends_count": 101,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 17199905,
+        "id_str": "17199905",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 0,
+        "location": "\u00dcT: 29.808446,-95.306628",
+        "name": "Natalie",
+        "notifications": false,
+        "profile_background_color": "352726",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/17199905/1447825312",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/625203472187572224/LRspdEch_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/625203472187572224/LRspdEch_normal.jpg",
+        "profile_link_color": "D02B55",
+        "profile_sidebar_border_color": "829D5E",
+        "profile_sidebar_fill_color": "99CC33",
+        "profile_text_color": "3E4415",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Natalie_Malone",
+        "statuses_count": 937,
+        "time_zone": null,
+        "url": "http://t.co/t3WPVPf5Gg",
+        "utc_offset": null,
+        "verified": false
+    }
+}

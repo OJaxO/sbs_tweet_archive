@@ -1,0 +1,147 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Dec 06 15:46:50 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 15676492,
+                "id_str": "15676492",
+                "indices": [
+                    0,
+                    5
+                ],
+                "name": "Ford Motor Company",
+                "screen_name": "Ford"
+            },
+            {
+                "id": 17054003,
+                "id_str": "17054003",
+                "indices": [
+                    6,
+                    16
+                ],
+                "name": "Jodie Smith",
+                "screen_name": "MissJodie"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 673529037105455105,
+    "id_str": "673529037105455105",
+    "in_reply_to_screen_name": "Ford",
+    "in_reply_to_status_id": 662454179265298433,
+    "in_reply_to_status_id_str": "662454179265298433",
+    "in_reply_to_user_id": 15676492,
+    "in_reply_to_user_id_str": "15676492",
+    "is_quote_status": false,
+    "lang": "ht",
+    "metadata": {
+        "iso_language_code": "ht",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -96.977527,
+                        32.620678
+                    ],
+                    [
+                        -96.54598,
+                        32.620678
+                    ],
+                    [
+                        -96.54598,
+                        33.019039
+                    ],
+                    [
+                        -96.977527,
+                        33.019039
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Dallas, TX",
+        "id": "18810aa5b43e76c7",
+        "name": "Dallas",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/18810aa5b43e76c7.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@Ford @MissJodie go Jodie \ud83d\ude0d\ud83d\udc95",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Jul 16 19:01:18 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "my name is Tiana. I'm a \u2651\ufe0fCapricorn with a \u264d\ufe0fVirgo rising, \u264f\ufe0fScorpio Moon, \u2653\ufe0fPisces Venus, & \u264b\ufe0fCancer Mars. organic earth/turbulent waters.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "astro.cafeastrology.com/natal.php",
+                        "expanded_url": "http://astro.cafeastrology.com/natal.php",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/vm611Gr7RY"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 811,
+        "follow_request_sent": false,
+        "followers_count": 235,
+        "following": false,
+        "friends_count": 179,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 57414827,
+        "id_str": "57414827",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 2,
+        "location": "dallas",
+        "name": "V I R G I N",
+        "notifications": false,
+        "profile_background_color": "FFFFFF",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/264891317/tumblr_l894wuGE7g1qah39lo1_500.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/264891317/tumblr_l894wuGE7g1qah39lo1_500.jpg",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/57414827/1433731557",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/669673108064735232/mS_WOzXE_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/669673108064735232/mS_WOzXE_normal.jpg",
+        "profile_link_color": "E32D4F",
+        "profile_sidebar_border_color": "D3D2CF",
+        "profile_sidebar_fill_color": "E3E2DE",
+        "profile_text_color": "634047",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "IMUSTBEACAT",
+        "statuses_count": 13891,
+        "time_zone": "Central Time (US & Canada)",
+        "url": "https://t.co/vm611Gr7RY",
+        "utc_offset": -21600,
+        "verified": false
+    }
+}
