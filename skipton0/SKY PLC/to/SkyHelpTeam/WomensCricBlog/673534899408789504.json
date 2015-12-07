@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Dec 06 16:10:08 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 403522137,
+                "id_str": "403522137",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "Sky Help Team",
+                "screen_name": "SkyHelpTeam"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 673534899408789504,
+    "id_str": "673534899408789504",
+    "in_reply_to_screen_name": "SkyHelpTeam",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 403522137,
+    "in_reply_to_user_id_str": "403522137",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -0.559316,
+                        50.8023182
+                    ],
+                    [
+                        -0.44007,
+                        50.8023182
+                    ],
+                    [
+                        -0.44007,
+                        50.837863
+                    ],
+                    [
+                        -0.559316,
+                        50.837863
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United Kingdom",
+        "country_code": "GB",
+        "full_name": "Littlehampton, England",
+        "id": "776bc3a7f14c1999",
+        "name": "Littlehampton",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/776bc3a7f14c1999.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@SkyHelpTeam Series record no longer works - have cleared deleted progs &amp; reset and also rebuilt planner. Still no good. Help please.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Sep 09 08:20:49 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Martin Davies - was a solicitor & web entrepreneur; always a cricketer; now cricket writer and broadcaster on the women's game.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "womens-cricket.blogspot.co.uk",
+                        "expanded_url": "http://womens-cricket.blogspot.co.uk",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/ityCLydu2l"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 377,
+        "follow_request_sent": false,
+        "followers_count": 2156,
+        "following": false,
+        "friends_count": 395,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 370580753,
+        "id_str": "370580753",
+        "is_translation_enabled": true,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 41,
+        "location": "Chichester, England",
+        "name": "Women's Cricket Blog",
+        "notifications": false,
+        "profile_background_color": "FFCC4D",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/603919943181148161/HQuwVF-p.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/603919943181148161/HQuwVF-p.jpg",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/370580753/1399989880",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/664439262293704705/Mz_cZPEL_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/664439262293704705/Mz_cZPEL_normal.png",
+        "profile_link_color": "3B94D9",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "WomensCricBlog",
+        "statuses_count": 15551,
+        "time_zone": "London",
+        "url": "http://t.co/ityCLydu2l",
+        "utc_offset": 0,
+        "verified": false
+    }
+}
