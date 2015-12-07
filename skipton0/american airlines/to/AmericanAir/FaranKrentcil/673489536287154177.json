@@ -1,0 +1,136 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Dec 06 13:09:52 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 22536055,
+                "id_str": "22536055",
+                "indices": [
+                    1,
+                    13
+                ],
+                "name": "American Airlines",
+                "screen_name": "AmericanAir"
+            }
+        ]
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": null,
+    "id": 673489536287154177,
+    "id_str": "673489536287154177",
+    "in_reply_to_screen_name": "AmericanAir",
+    "in_reply_to_status_id": 673488852590403584,
+    "in_reply_to_status_id_str": "673488852590403584",
+    "in_reply_to_user_id": 22536055,
+    "in_reply_to_user_id_str": "22536055",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -80.321683,
+                        25.7090404
+                    ],
+                    [
+                        -80.144974,
+                        25.7090404
+                    ],
+                    [
+                        -80.144974,
+                        25.855667
+                    ],
+                    [
+                        -80.321683,
+                        25.855667
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Miami, FL",
+        "id": "04cb31bae3b3af93",
+        "name": "Miami",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/04cb31bae3b3af93.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": ".@AmericanAir they have been honestly lovely, professional people. It's the way it's organized that's insane. On you, not them.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Feb 26 04:44:45 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "kids table @ellemagazine + @yahoostyle. @nylonmag alum. @fashionista_com founding editor. playwright + illustrator. My tweets aren't my work's. #CrashAndLearn",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "elle.com",
+                        "expanded_url": "http://www.elle.com",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/GT80C7krbs"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 19,
+        "follow_request_sent": false,
+        "followers_count": 10436,
+        "following": false,
+        "friends_count": 1274,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 21971649,
+        "id_str": "21971649",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 234,
+        "location": "Soho, NYC",
+        "name": "Faran Krentcil",
+        "notifications": false,
+        "profile_background_color": "0099B9",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/50422894/twitter.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/50422894/twitter.jpg",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/562342665/12847_210450520675_661310675_4167255_6673011_n_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/562342665/12847_210450520675_661310675_4167255_6673011_n_normal.jpg",
+        "profile_link_color": "0099B9",
+        "profile_sidebar_border_color": "5ED4DC",
+        "profile_sidebar_fill_color": "95E8EC",
+        "profile_text_color": "3C3940",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "FaranKrentcil",
+        "statuses_count": 10162,
+        "time_zone": "Quito",
+        "url": "http://t.co/GT80C7krbs",
+        "utc_offset": -18000,
+        "verified": false
+    }
+}

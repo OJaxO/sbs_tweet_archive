@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Dec 06 20:44:40 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 22536055,
+                "id_str": "22536055",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "American Airlines",
+                "screen_name": "AmericanAir"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 673603990060269568,
+    "id_str": "673603990060269568",
+    "in_reply_to_screen_name": "AmericanAir",
+    "in_reply_to_status_id": 671865394156539904,
+    "in_reply_to_status_id_str": "671865394156539904",
+    "in_reply_to_user_id": 22536055,
+    "in_reply_to_user_id_str": "22536055",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -115.2092535,
+                        35.984784
+                    ],
+                    [
+                        -115.0610763,
+                        35.984784
+                    ],
+                    [
+                        -115.0610763,
+                        36.137145
+                    ],
+                    [
+                        -115.2092535,
+                        36.137145
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Paradise, NV",
+        "id": "8fa6d7a33b83ef26",
+        "name": "Paradise",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/8fa6d7a33b83ef26.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@AmericanAir Nothing I can do about it. Your podium at the gate had no agents to watch people walking in and out freely in AR LIT airport",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Apr 09 23:51:36 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Traveling Announcer and Tweetcaster for Roller Derby, Author, cat lady, MMA enthusiast, PodCast Host, and blogger. nikkidbelanger@gmail.com",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "nikkidsunnytea.wordpress.com",
+                        "expanded_url": "http://nikkidsunnytea.wordpress.com",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/fjYHqLudTv"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 799,
+        "follow_request_sent": false,
+        "followers_count": 330,
+        "following": false,
+        "friends_count": 795,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 30101186,
+        "id_str": "30101186",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 19,
+        "location": "Las Vegas, NV, USA",
+        "name": "NiKKi D",
+        "notifications": false,
+        "profile_background_color": "352726",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/30101186/1400084112",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/2467125653/nn1z34jm68q8ml6142y9_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/2467125653/nn1z34jm68q8ml6142y9_normal.jpeg",
+        "profile_link_color": "D02B55",
+        "profile_sidebar_border_color": "829D5E",
+        "profile_sidebar_fill_color": "99CC33",
+        "profile_text_color": "3E4415",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "NiKKiDSuNNyTeA",
+        "statuses_count": 3733,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "http://t.co/fjYHqLudTv",
+        "utc_offset": -28800,
+        "verified": false
+    }
+}
