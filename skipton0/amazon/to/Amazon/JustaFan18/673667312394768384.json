@@ -1,0 +1,123 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 07 00:56:18 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 20793816,
+                "id_str": "20793816",
+                "indices": [
+                    112,
+                    119
+                ],
+                "name": "Amazon",
+                "screen_name": "amazon"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 673667312394768384,
+    "id_str": "673667312394768384",
+    "in_reply_to_screen_name": "amazon",
+    "in_reply_to_status_id": 672520000675053568,
+    "in_reply_to_status_id_str": "672520000675053568",
+    "in_reply_to_user_id": 20793816,
+    "in_reply_to_user_id_str": "20793816",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -122.7134422,
+                        45.5825007
+                    ],
+                    [
+                        -122.4645067,
+                        45.5825007
+                    ],
+                    [
+                        -122.4645067,
+                        45.6786765
+                    ],
+                    [
+                        -122.7134422,
+                        45.6786765
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Vancouver, WA",
+        "id": "5a16f6443a850916",
+        "name": "Vancouver",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/5a16f6443a850916.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "Only 11 inch &amp; no CD or DVD?  not everthing we want or need.  BS Oh &amp; Chrome books are half a computer. @amazon",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Feb 19 02:44:07 +0000 2012",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Working for a more healthy planet for future generations.  Regulation keeps power in check. I NEVER send DMs.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 13959,
+        "follow_request_sent": false,
+        "followers_count": 6522,
+        "following": false,
+        "friends_count": 6508,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 496557454,
+        "id_str": "496557454",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 120,
+        "location": "",
+        "name": "Justa Fan",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1964434944/vintage_mothers_day_card_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1964434944/vintage_mothers_day_card_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "JustaFan18",
+        "statuses_count": 45415,
+        "time_zone": "Arizona",
+        "url": null,
+        "utc_offset": -25200,
+        "verified": false
+    }
+}
