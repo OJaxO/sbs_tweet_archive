@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 07 04:47:45 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 76117579,
+                "id_str": "76117579",
+                "indices": [
+                    0,
+                    4
+                ],
+                "name": "SAP",
+                "screen_name": "SAP"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 673725561491996672,
+    "id_str": "673725561491996672",
+    "in_reply_to_screen_name": "SAP",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 76117579,
+    "in_reply_to_user_id_str": "76117579",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -122.035311,
+                        37.193164
+                    ],
+                    [
+                        -121.71215,
+                        37.193164
+                    ],
+                    [
+                        -121.71215,
+                        37.469154
+                    ],
+                    [
+                        -122.035311,
+                        37.469154
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "San Jose, CA",
+        "id": "7d62cffe6f98f349",
+        "name": "San Jose",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/7d62cffe6f98f349.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@SAP staff tells us there is a bar downstairs. Hundreds of people with three bartenders",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Mar 07 18:19:24 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "A lover of glam, fitness, and good conversation. Bay area grown. Chasing my dreams and living a life of possibilty and adventure.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "pintrest.com/jillenemarieg/",
+                        "expanded_url": "http://pintrest.com/jillenemarieg/",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/xkdjURsgbb"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 247,
+        "follow_request_sent": false,
+        "followers_count": 163,
+        "following": false,
+        "friends_count": 203,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 23218235,
+        "id_str": "23218235",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 8,
+        "location": "",
+        "name": "jillene",
+        "notifications": false,
+        "profile_background_color": "B380AD",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/23218235/1369813100",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/620459148191207424/-70Wj19r_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/620459148191207424/-70Wj19r_normal.jpg",
+        "profile_link_color": "664C90",
+        "profile_sidebar_border_color": "C459C9",
+        "profile_sidebar_fill_color": "AEB8E5",
+        "profile_text_color": "330D4F",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "Jillenegol",
+        "statuses_count": 2722,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "http://t.co/xkdjURsgbb",
+        "utc_offset": -28800,
+        "verified": false
+    }
+}
