@@ -1,0 +1,175 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Dec 06 20:10:59 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "media": [
+            {
+                "display_url": "pic.twitter.com/T0b7saqO1o",
+                "expanded_url": "http://twitter.com/jkorosec/status/673595511736279040/photo/1",
+                "id": 673595501367848960,
+                "id_str": "673595501367848960",
+                "indices": [
+                    40,
+                    63
+                ],
+                "media_url": "http://pbs.twimg.com/media/CVkXiiVU8AAdeaT.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/CVkXiiVU8AAdeaT.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 1024,
+                        "resize": "fit",
+                        "w": 768
+                    },
+                    "medium": {
+                        "h": 800,
+                        "resize": "fit",
+                        "w": 600
+                    },
+                    "small": {
+                        "h": 453,
+                        "resize": "fit",
+                        "w": 340
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/T0b7saqO1o"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 75014376,
+                "id_str": "75014376",
+                "indices": [
+                    0,
+                    11
+                ],
+                "name": "MasterCard ",
+                "screen_name": "MasterCard"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 673595511736279040,
+    "id_str": "673595511736279040",
+    "in_reply_to_screen_name": "MasterCard",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 75014376,
+    "in_reply_to_user_id_str": "75014376",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -73.97855217526512,
+                        40.75875657405104
+                    ],
+                    [
+                        -73.97855217526512,
+                        40.75875657405104
+                    ],
+                    [
+                        -73.97855217526512,
+                        40.75875657405104
+                    ],
+                    [
+                        -73.97855217526512,
+                        40.75875657405104
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Rockefeller Center",
+        "id": "07d9ec76e7882000",
+        "name": "Rockefeller Center",
+        "place_type": "poi",
+        "url": "https://api.twitter.com/1.1/geo/id/07d9ec76e7882000.json"
+    },
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@MasterCard Priceless NY window display https://t.co/T0b7saqO1o",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Jun 16 17:02:40 +0000 2008",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Entrepreneur in Payments and Identity",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "linkedin.com/in/jasonkorosec",
+                        "expanded_url": "http://www.linkedin.com/in/jasonkorosec",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/xbEV3CY6h9"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 3,
+        "follow_request_sent": false,
+        "followers_count": 139,
+        "following": false,
+        "friends_count": 245,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 15136080,
+        "id_str": "15136080",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 10,
+        "location": "San Jose, California",
+        "name": "Jason Korosec",
+        "notifications": false,
+        "profile_background_color": "9AE4E8",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/31468873/IMG_0002_compressed.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/31468873/IMG_0002_compressed.jpg",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/377747206/HeadShot_Jason_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/377747206/HeadShot_Jason_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "BDDCAD",
+        "profile_sidebar_fill_color": "DDFFCC",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "jkorosec",
+        "statuses_count": 220,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "http://t.co/xbEV3CY6h9",
+        "utc_offset": -28800,
+        "verified": false
+    }
+}
