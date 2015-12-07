@@ -1,0 +1,152 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Dec 06 11:10:44 +0000 2015",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    82,
+                    90
+                ],
+                "text": "inspire"
+            },
+            {
+                "indices": [
+                    91,
+                    100
+                ],
+                "text": "GLFCOP21"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 109224937,
+                "id_str": "109224937",
+                "indices": [
+                    0,
+                    9
+                ],
+                "name": "Unilever",
+                "screen_name": "Unilever"
+            }
+        ]
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": null,
+    "id": 673459554793992193,
+    "id_str": "673459554793992193",
+    "in_reply_to_screen_name": "Unilever",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 109224937,
+    "in_reply_to_user_id_str": "109224937",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        2.2241006,
+                        48.8155214
+                    ],
+                    [
+                        2.4699053,
+                        48.8155214
+                    ],
+                    [
+                        2.4699053,
+                        48.9021461
+                    ],
+                    [
+                        2.2241006,
+                        48.9021461
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "France",
+        "country_code": "FR",
+        "full_name": "Paris, Ile-de-France",
+        "id": "09f6a7707f18e0b1",
+        "name": "Paris",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/09f6a7707f18e0b1.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@Unilever Sigismondi \"creating a movement\" for sustainable biz for others to join #inspire #GLFCOP21",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Jan 31 02:08:04 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Founder & CEO of @2degreesnetwork - helping global corporations achieve fully-linked #collaboration to cut costs & deliver smarter, faster, #sustainable growth.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "2degreesnetwork.com",
+                        "expanded_url": "http://www.2degreesnetwork.com",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/lKabphD613"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 14,
+        "follow_request_sent": false,
+        "followers_count": 880,
+        "following": false,
+        "friends_count": 127,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 19800656,
+        "id_str": "19800656",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 61,
+        "location": "Oxford, UK",
+        "name": "Martin Chilcott",
+        "notifications": false,
+        "profile_background_color": "ED2078",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/215638834/2D_twitterbg.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/215638834/2D_twitterbg.jpg",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/19800656/1414060568",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/525231273078300672/9SbT0mov_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/525231273078300672/9SbT0mov_normal.jpeg",
+        "profile_link_color": "39C0C3",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "EE2670",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "2degreesMartinc",
+        "statuses_count": 455,
+        "time_zone": "London",
+        "url": "http://t.co/lKabphD613",
+        "utc_offset": 0,
+        "verified": false
+    }
+}
