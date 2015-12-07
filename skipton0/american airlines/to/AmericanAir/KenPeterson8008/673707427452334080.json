@@ -1,0 +1,123 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 07 03:35:42 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 22536055,
+                "id_str": "22536055",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "American Airlines",
+                "screen_name": "AmericanAir"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 673707427452334080,
+    "id_str": "673707427452334080",
+    "in_reply_to_screen_name": "AmericanAir",
+    "in_reply_to_status_id": 673706916707602434,
+    "in_reply_to_status_id_str": "673706916707602434",
+    "in_reply_to_user_id": 22536055,
+    "in_reply_to_user_id_str": "22536055",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -77.144435,
+                        38.789907
+                    ],
+                    [
+                        -77.037304,
+                        38.789907
+                    ],
+                    [
+                        -77.037304,
+                        38.8448531
+                    ],
+                    [
+                        -77.144435,
+                        38.8448531
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Alexandria, VA",
+        "id": "d6819fe60643ebc1",
+        "name": "Alexandria",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/d6819fe60643ebc1.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@AmericanAir got to terminal but 1/2 hr to sit and do nothing is ridiculous",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Jan 31 17:39:52 +0000 2012",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Quinnipiac and Simsbury High School grad, former resident of Houston, TX / Simsbury, CT / Cherry Hill, NJ, now living in Chicago, IL area.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 31,
+        "follow_request_sent": false,
+        "followers_count": 29,
+        "following": false,
+        "friends_count": 127,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 479707447,
+        "id_str": "479707447",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 0,
+        "location": "Chicago, IL ",
+        "name": "Ken Peterson",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1794943474/IMG00093-20110820-1023_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1794943474/IMG00093-20110820-1023_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "KenPeterson8008",
+        "statuses_count": 708,
+        "time_zone": "Central Time (US & Canada)",
+        "url": null,
+        "utc_offset": -21600,
+        "verified": false
+    }
+}
