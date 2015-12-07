@@ -1,0 +1,145 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Dec 06 17:21:53 +0000 2015",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    76,
+                    91
+                ],
+                "text": "BanEnviroKooks"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 36665547,
+                "id_str": "36665547",
+                "indices": [
+                    0,
+                    11
+                ],
+                "name": "ExxonMobil",
+                "screen_name": "exxonmobil"
+            }
+        ]
+    },
+    "favorite_count": 3,
+    "favorited": false,
+    "geo": null,
+    "id": 673552955199590401,
+    "id_str": "673552955199590401",
+    "in_reply_to_screen_name": "exxonmobil",
+    "in_reply_to_status_id": 672806820797280256,
+    "in_reply_to_status_id_str": "672806820797280256",
+    "in_reply_to_user_id": 36665547,
+    "in_reply_to_user_id_str": "36665547",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -84.32187,
+                        33.752879
+                    ],
+                    [
+                        -75.40012,
+                        33.752879
+                    ],
+                    [
+                        -75.40012,
+                        36.588118
+                    ],
+                    [
+                        -84.32187,
+                        36.588118
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "North Carolina, USA",
+        "id": "3b98b02fba3f9753",
+        "name": "North Carolina",
+        "place_type": "admin",
+        "url": "https://api.twitter.com/1.1/geo/id/3b98b02fba3f9753.json"
+    },
+    "retweet_count": 4,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@exxonmobil No one cares.  Get rid of ethanol and bring back real gasoline. #BanEnviroKooks.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Jan 20 05:00:40 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "We do polling and media for conservatives with the guts to win.   Views Posted Here Are My Own",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "youtube.com/mountaintopmed\u2026",
+                        "expanded_url": "http://www.youtube.com/mountaintopmedia",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/AFcZfFap83"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 88,
+        "follow_request_sent": false,
+        "followers_count": 4871,
+        "following": false,
+        "friends_count": 3994,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 19220761,
+        "id_str": "19220761",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 111,
+        "location": "The American Sector of America",
+        "name": "Rick Shaftan",
+        "notifications": false,
+        "profile_background_color": "EBEBEB",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/531610543086243840/WLKRrDIP.png",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/531610543086243840/WLKRrDIP.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/19220761/1387223040",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/666989674850832392/QSBvHjLF_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/666989674850832392/QSBvHjLF_normal.jpg",
+        "profile_link_color": "3B94D9",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "F3F3F3",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Shaftan",
+        "statuses_count": 29131,
+        "time_zone": "Eastern Time (US & Canada)",
+        "url": "http://t.co/AFcZfFap83",
+        "utc_offset": -18000,
+        "verified": false
+    }
+}
