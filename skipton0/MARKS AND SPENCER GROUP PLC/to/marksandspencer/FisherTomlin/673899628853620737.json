@@ -1,0 +1,191 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 07 16:19:26 +0000 2015",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    28,
+                    33
+                ],
+                "text": "afro"
+            },
+            {
+                "indices": [
+                    34,
+                    41
+                ],
+                "text": "Prague"
+            }
+        ],
+        "media": [
+            {
+                "display_url": "pic.twitter.com/GLK9kKf4tz",
+                "expanded_url": "http://twitter.com/FisherTomlin/status/673899628853620737/photo/1",
+                "id": 673899621572321280,
+                "id_str": "673899621572321280",
+                "indices": [
+                    42,
+                    65
+                ],
+                "media_url": "http://pbs.twimg.com/media/CVosIqYWoAA-Zis.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/CVosIqYWoAA-Zis.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 768,
+                        "resize": "fit",
+                        "w": 1024
+                    },
+                    "medium": {
+                        "h": 450,
+                        "resize": "fit",
+                        "w": 600
+                    },
+                    "small": {
+                        "h": 255,
+                        "resize": "fit",
+                        "w": 340
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/GLK9kKf4tz"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 37916167,
+                "id_str": "37916167",
+                "indices": [
+                    0,
+                    16
+                ],
+                "name": "M&S",
+                "screen_name": "marksandspencer"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 673899628853620737,
+    "id_str": "673899628853620737",
+    "in_reply_to_screen_name": "marksandspencer",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 37916167,
+    "in_reply_to_user_id_str": "37916167",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        14.2252428,
+                        49.9419037
+                    ],
+                    [
+                        14.7065078,
+                        49.9419037
+                    ],
+                    [
+                        14.7065078,
+                        50.1772562
+                    ],
+                    [
+                        14.2252428,
+                        50.1772562
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "\u010cesk\u00e1 republika",
+        "country_code": "CZ",
+        "full_name": "Prague, Czech Republic",
+        "id": "018e2bf71a3ef896",
+        "name": "Prague",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/018e2bf71a3ef896.json"
+    },
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@marksandspencer gets funky #afro #Prague https://t.co/GLK9kKf4tz",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Apr 01 13:55:15 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "London garden design and landscape architecture office collaborating with some fantastic architects and designers. Supporting @boweldiseaseuk @blindveterans",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "andrewfishertomlin.com",
+                        "expanded_url": "http://www.andrewfishertomlin.com",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/8A3j25PQPn"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 3973,
+        "follow_request_sent": false,
+        "followers_count": 5441,
+        "following": false,
+        "friends_count": 4121,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 28109350,
+        "id_str": "28109350",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 126,
+        "location": "London & Worldwide",
+        "name": "Andrew Fisher Tomlin",
+        "notifications": false,
+        "profile_background_color": "1A1B1F",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/49924998/Aubergine.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/49924998/Aubergine.jpg",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/28109350/1449318549",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/667597893252087808/dGmb3fWw_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/667597893252087808/dGmb3fWw_normal.jpg",
+        "profile_link_color": "2FC2EF",
+        "profile_sidebar_border_color": "181A1E",
+        "profile_sidebar_fill_color": "252429",
+        "profile_text_color": "666666",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "FisherTomlin",
+        "statuses_count": 9635,
+        "time_zone": "London",
+        "url": "https://t.co/8A3j25PQPn",
+        "utc_offset": 0,
+        "verified": false
+    }
+}

@@ -1,0 +1,145 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 08 20:39:09 +0000 2015",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    129,
+                    135
+                ],
+                "text": "leaks"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 2917968139,
+                "id_str": "2917968139",
+                "indices": [
+                    0,
+                    14
+                ],
+                "name": "Starbucks Help",
+                "screen_name": "starbuckshelp"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 674327374595493893,
+    "id_str": "674327374595493893",
+    "in_reply_to_screen_name": "starbuckshelp",
+    "in_reply_to_status_id": 673494798834225152,
+    "in_reply_to_status_id_str": "673494798834225152",
+    "in_reply_to_user_id": 2917968139,
+    "in_reply_to_user_id_str": "2917968139",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -87.634643,
+                        24.396308
+                    ],
+                    [
+                        -79.974307,
+                        24.396308
+                    ],
+                    [
+                        -79.974307,
+                        31.001056
+                    ],
+                    [
+                        -87.634643,
+                        31.001056
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Florida, USA",
+        "id": "4ec01c9dbc693497",
+        "name": "Florida",
+        "place_type": "admin",
+        "url": "https://api.twitter.com/1.1/geo/id/4ec01c9dbc693497.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@starbuckshelp - the challenge on sundays has both been Winter Garden FL store, but your cups in general cause stress 2-4x week. #leaks",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Oct 24 11:51:07 +0000 2006",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Creativity + Leadership + Human Capacity = Future // Digital Native Addicted to Paper // @KensingtonOrl Arts // M",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "chrismarsden.com",
+                        "expanded_url": "http://www.chrismarsden.com",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/czkb5jJnaQ"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 351,
+        "follow_request_sent": false,
+        "followers_count": 2164,
+        "following": false,
+        "friends_count": 929,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 10285,
+        "id_str": "10285",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 69,
+        "location": "Orlando, FL",
+        "name": "Chris Marsden",
+        "notifications": false,
+        "profile_background_color": "2B2816",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/783111475/ba3fcbc15301df932b067bac268fc97f.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/783111475/ba3fcbc15301df932b067bac268fc97f.jpeg",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/10285/1423338939",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/2289652785/k9sbz4wqjg6t02xfjje3_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/2289652785/k9sbz4wqjg6t02xfjje3_normal.jpeg",
+        "profile_link_color": "ABB8C2",
+        "profile_sidebar_border_color": "89B5A2",
+        "profile_sidebar_fill_color": "24210E",
+        "profile_text_color": "89B5A2",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "cruciformity",
+        "statuses_count": 9544,
+        "time_zone": "Eastern Time (US & Canada)",
+        "url": "http://t.co/czkb5jJnaQ",
+        "utc_offset": -18000,
+        "verified": false
+    }
+}

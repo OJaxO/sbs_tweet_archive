@@ -1,0 +1,149 @@
+{
+    "contributors": null,
+    "coordinates": {
+        "coordinates": [
+            77.0822092,
+            28.5127255
+        ],
+        "type": "Point"
+    },
+    "created_at": "Mon Dec 07 16:46:00 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 74286565,
+                "id_str": "74286565",
+                "indices": [
+                    0,
+                    10
+                ],
+                "name": "Microsoft",
+                "screen_name": "Microsoft"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": {
+        "coordinates": [
+            28.5127255,
+            77.0822092
+        ],
+        "type": "Point"
+    },
+    "id": 673906312132997120,
+    "id_str": "673906312132997120",
+    "in_reply_to_screen_name": "Microsoft",
+    "in_reply_to_status_id": 671690839643389952,
+    "in_reply_to_status_id_str": "671690839643389952",
+    "in_reply_to_user_id": 74286565,
+    "in_reply_to_user_id_str": "74286565",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        76.7076711,
+                        28.1995294
+                    ],
+                    [
+                        77.2417111,
+                        28.1995294
+                    ],
+                    [
+                        77.2417111,
+                        28.5375209
+                    ],
+                    [
+                        76.7076711,
+                        28.5375209
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "India",
+        "country_code": "IN",
+        "full_name": "Gurgaon, Haryana",
+        "id": "64231a922dea526e",
+        "name": "Gurgaon",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/64231a922dea526e.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://www.twitter.com\" rel=\"nofollow\">Twitter for Windows Phone</a>",
+    "text": "@Microsoft nice",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Nov 15 01:58:13 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Innoccy, Intensive, Frank, Sensitive and Perfectionist, also so caring for those who takes care of #PEINVAG.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "facebook.com/mbpeinvag",
+                        "expanded_url": "https://www.facebook.com/mbpeinvag",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/hQMBRtiBOU"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 159,
+        "follow_request_sent": false,
+        "followers_count": 54,
+        "following": false,
+        "friends_count": 324,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 412712774,
+        "id_str": "412712774",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 0,
+        "location": "Gurgaon",
+        "name": "Manas Behera",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/598184417/xe6360a4315002d9e8c405111446fa96.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/598184417/xe6360a4315002d9e8c405111446fa96.jpg",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/412712774/1446841453",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/662707689881862144/nQuYuN62_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/662707689881862144/nQuYuN62_normal.jpg",
+        "profile_link_color": "FFCC4D",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "373737",
+        "profile_text_color": "FB840E",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "peinvag",
+        "statuses_count": 191,
+        "time_zone": "New Delhi",
+        "url": "https://t.co/hQMBRtiBOU",
+        "utc_offset": 19800,
+        "verified": false
+    }
+}

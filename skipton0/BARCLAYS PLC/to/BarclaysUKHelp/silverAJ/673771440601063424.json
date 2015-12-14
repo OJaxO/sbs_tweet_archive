@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 07 07:50:04 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 3046525515,
+                "id_str": "3046525515",
+                "indices": [
+                    0,
+                    15
+                ],
+                "name": "Barclays UK Help",
+                "screen_name": "BarclaysUKHelp"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 673771440601063424,
+    "id_str": "673771440601063424",
+    "in_reply_to_screen_name": "BarclaysUKHelp",
+    "in_reply_to_status_id": 673730205844942848,
+    "in_reply_to_status_id_str": "673730205844942848",
+    "in_reply_to_user_id": 3046525515,
+    "in_reply_to_user_id_str": "3046525515",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        139.397184004689,
+                        35.2966649989796
+                    ],
+                    [
+                        139.515164001648,
+                        35.2966649989796
+                    ],
+                    [
+                        139.515164001648,
+                        35.4310369986092
+                    ],
+                    [
+                        139.397184004689,
+                        35.4310369986092
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "\u65e5\u672c",
+        "country_code": "JP",
+        "full_name": "Fujisawa City, Kanagawa",
+        "id": "61774861ea700565",
+        "name": "Fujisawa-shi",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/61774861ea700565.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for i\u039fS</a>",
+    "text": "@BarclaysUKHelp Yes, I have wifi but no phone credit.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Aug 20 08:03:05 +0000 2008",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "All drawing, cats & cycling, all the time. I do design for a living & illustrate for fun. Most of my tweets are sketches of nude people, to be honest.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "facebook.com/silverAJ",
+                        "expanded_url": "http://www.facebook.com/silverAJ",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/XeoEBtYyj5"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 6979,
+        "follow_request_sent": false,
+        "followers_count": 1247,
+        "following": false,
+        "friends_count": 362,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 15915257,
+        "id_str": "15915257",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 66,
+        "location": "Forest Gate, East London, UK",
+        "name": "Aaron Jacob Jones",
+        "notifications": false,
+        "profile_background_color": "DFE3E4",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/6155518/twitter1.png",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/6155518/twitter1.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/15915257/1398843380",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/477420221511524352/yjpFpVxH_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/477420221511524352/yjpFpVxH_normal.jpeg",
+        "profile_link_color": "00ADE6",
+        "profile_sidebar_border_color": "7D848C",
+        "profile_sidebar_fill_color": "EDF1F8",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "silverAJ",
+        "statuses_count": 9977,
+        "time_zone": "London",
+        "url": "http://t.co/XeoEBtYyj5",
+        "utc_offset": 0,
+        "verified": false
+    }
+}

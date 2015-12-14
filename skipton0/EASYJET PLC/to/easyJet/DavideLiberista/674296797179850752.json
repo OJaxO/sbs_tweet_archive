@@ -1,0 +1,218 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 08 18:37:38 +0000 2015",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    14,
+                    24
+                ],
+                "text": "Barcelona"
+            },
+            {
+                "indices": [
+                    28,
+                    37
+                ],
+                "text": "Malpensa"
+            },
+            {
+                "indices": [
+                    50,
+                    57
+                ],
+                "text": "Linate"
+            }
+        ],
+        "media": [
+            {
+                "display_url": "pic.twitter.com/msz25rlarU",
+                "expanded_url": "http://twitter.com/DavideLiberista/status/674296797179850752/photo/1",
+                "id": 674296787558129668,
+                "id_str": "674296787558129668",
+                "indices": [
+                    99,
+                    122
+                ],
+                "media_url": "http://pbs.twimg.com/media/CVuVWw-W4AQp9cj.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/CVuVWw-W4AQp9cj.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 1024,
+                        "resize": "fit",
+                        "w": 664
+                    },
+                    "medium": {
+                        "h": 925,
+                        "resize": "fit",
+                        "w": 600
+                    },
+                    "small": {
+                        "h": 524,
+                        "resize": "fit",
+                        "w": 340
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/msz25rlarU"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 38676903,
+                "id_str": "38676903",
+                "indices": [
+                    0,
+                    8
+                ],
+                "name": "easyJet",
+                "screen_name": "easyJet"
+            },
+            {
+                "id": 494273497,
+                "id_str": "494273497",
+                "indices": [
+                    72,
+                    84
+                ],
+                "name": "Aeroporti Lombardi",
+                "screen_name": "aptlombardi"
+            },
+            {
+                "id": 866853126,
+                "id_str": "866853126",
+                "indices": [
+                    85,
+                    98
+                ],
+                "name": "Malpensa News 24",
+                "screen_name": "infoMalpensa"
+            }
+        ]
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": null,
+    "id": 674296797179850752,
+    "id_str": "674296797179850752",
+    "in_reply_to_screen_name": "easyJet",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 38676903,
+    "in_reply_to_user_id_str": "38676903",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        9.040628,
+                        45.3867262
+                    ],
+                    [
+                        9.2780451,
+                        45.3867262
+                    ],
+                    [
+                        9.2780451,
+                        45.5359644
+                    ],
+                    [
+                        9.040628,
+                        45.5359644
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "Italia",
+        "country_code": "IT",
+        "full_name": "Milan, Lombardy",
+        "id": "1ea588c12abd39d7",
+        "name": "Milan",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/1ea588c12abd39d7.json"
+    },
+    "possibly_sensitive": false,
+    "retweet_count": 1,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@easyJet from #Barcelona to #Malpensa diverted to #Linate. Reason? Fog? @aptlombardi @infoMalpensa https://t.co/msz25rlarU",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Jul 15 12:32:07 +0000 2013",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Keep Strong. 'Till The End.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "valentinidavide.com",
+                        "expanded_url": "http://www.valentinidavide.com",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/o73PG5N0we"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 3116,
+        "follow_request_sent": false,
+        "followers_count": 612,
+        "following": false,
+        "friends_count": 2035,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 1595718348,
+        "id_str": "1595718348",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "it",
+        "listed_count": 10,
+        "location": "",
+        "name": "Davide Valentini",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1595718348/1432828778",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/614917599151960064/iwZ-kjeh_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/614917599151960064/iwZ-kjeh_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "DavideLiberista",
+        "statuses_count": 4817,
+        "time_zone": null,
+        "url": "http://t.co/o73PG5N0we",
+        "utc_offset": null,
+        "verified": false
+    }
+}

@@ -1,0 +1,134 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 08 05:30:31 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 13058772,
+                "id_str": "13058772",
+                "indices": [
+                    0,
+                    9
+                ],
+                "name": "LinkedIn",
+                "screen_name": "LinkedIn"
+            },
+            {
+                "id": 252792134,
+                "id_str": "252792134",
+                "indices": [
+                    48,
+                    61
+                ],
+                "name": "LinkedIn Help",
+                "screen_name": "LinkedInHelp"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 674098711698407424,
+    "id_str": "674098711698407424",
+    "in_reply_to_screen_name": "LinkedIn",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 13058772,
+    "in_reply_to_user_id_str": "13058772",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -118.4038571,
+                        14.5319181
+                    ],
+                    [
+                        -86.7122178,
+                        14.5319181
+                    ],
+                    [
+                        -86.7122178,
+                        32.718919
+                    ],
+                    [
+                        -118.4038571,
+                        32.718919
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "M\u00e9xico",
+        "country_code": "MX",
+        "full_name": "Mexico",
+        "id": "25530ba03b7d90c6",
+        "name": "Mexico",
+        "place_type": "country",
+        "url": "https://api.twitter.com/1.1/geo/id/25530ba03b7d90c6.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@LinkedIn HAVE THE WORST CUSTOMER SERVICES EVER @LinkedInHelp How many tickets do I have to send you, to get an answer?",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Apr 20 03:45:09 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Musician - Content Curator - Boston Celtics - Tech Enthusiast.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 1283,
+        "follow_request_sent": false,
+        "followers_count": 456,
+        "following": false,
+        "friends_count": 518,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 135024055,
+        "id_str": "135024055",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 15,
+        "location": "Mexico",
+        "name": "Rocky Raccoon",
+        "notifications": false,
+        "profile_background_color": "ABB8C2",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000085831884/5e1dfacabd8bafbcd3967a4f53e7402f.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000085831884/5e1dfacabd8bafbcd3967a4f53e7402f.jpeg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/135024055/1439820956",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/671155241765638144/2eq-Kbr-_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/671155241765638144/2eq-Kbr-_normal.jpg",
+        "profile_link_color": "AFAFAF",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "050505",
+        "profile_text_color": "ADA6AD",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "LegenDxrio",
+        "statuses_count": 16268,
+        "time_zone": "Mexico City",
+        "url": null,
+        "utc_offset": -21600,
+        "verified": false
+    }
+}

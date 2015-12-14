@@ -1,0 +1,124 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 08 08:31:07 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 38676903,
+                "id_str": "38676903",
+                "indices": [
+                    0,
+                    8
+                ],
+                "name": "easyJet",
+                "screen_name": "easyJet"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 674144159813472256,
+    "id_str": "674144159813472256",
+    "in_reply_to_screen_name": "easyJet",
+    "in_reply_to_status_id": 673894819073146881,
+    "in_reply_to_status_id_str": "673894819073146881",
+    "in_reply_to_user_id": 38676903,
+    "in_reply_to_user_id_str": "38676903",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -4.3932845,
+                        55.796184
+                    ],
+                    [
+                        -4.0902182,
+                        55.796184
+                    ],
+                    [
+                        -4.0902182,
+                        55.9204214
+                    ],
+                    [
+                        -4.3932845,
+                        55.9204214
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United Kingdom",
+        "country_code": "GB",
+        "full_name": "Glasgow, Scotland",
+        "id": "791e00bcadc4615f",
+        "name": "Glasgow",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/791e00bcadc4615f.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@easyJet *slow hand clap*",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Sep 22 12:27:57 +0000 2013",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Fighting for Scottish Independence. No party affiliation.  Snarky snark snark",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 753,
+        "follow_request_sent": false,
+        "followers_count": 409,
+        "following": false,
+        "friends_count": 418,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 1893547884,
+        "id_str": "1893547884",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 13,
+        "location": "Glasgow",
+        "name": "Ian Anderson",
+        "notifications": false,
+        "profile_background_color": "9AE4E8",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/460871403286192128/jn53zXH5.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/460871403286192128/jn53zXH5.jpeg",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1893547884/1398715050",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/669913393218895872/SaZXvilC_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/669913393218895872/SaZXvilC_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "edoian1",
+        "statuses_count": 4291,
+        "time_zone": null,
+        "url": null,
+        "utc_offset": null,
+        "verified": false
+    }
+}

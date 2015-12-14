@@ -1,0 +1,309 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 07 15:32:11 +0000 2015",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    8,
+                    14
+                ],
+                "text": "DB12c"
+            }
+        ],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/OracleDatabase\u2026",
+                "expanded_url": "https://twitter.com/OracleDatabase/status/673875890019799040",
+                "indices": [
+                    72,
+                    95
+                ],
+                "url": "https://t.co/3V59wQD5hY"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 809273,
+                "id_str": "809273",
+                "indices": [
+                    0,
+                    7
+                ],
+                "name": "Oracle",
+                "screen_name": "Oracle"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 673887738677080068,
+    "id_str": "673887738677080068",
+    "in_reply_to_screen_name": "Oracle",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 809273,
+    "in_reply_to_user_id_str": "809273",
+    "is_quote_status": true,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": null,
+    "possibly_sensitive": false,
+    "quoted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Mon Dec 07 14:45:06 +0000 2015",
+        "entities": {
+            "hashtags": [
+                {
+                    "indices": [
+                        1,
+                        4
+                    ],
+                    "text": "WP"
+                },
+                {
+                    "indices": [
+                        38,
+                        44
+                    ],
+                    "text": "DB12c"
+                },
+                {
+                    "indices": [
+                        45,
+                        53
+                    ],
+                    "text": "DBIM12c"
+                }
+            ],
+            "media": [
+                {
+                    "display_url": "pic.twitter.com/RblR4KVm7D",
+                    "expanded_url": "http://twitter.com/OracleDatabase/status/673875890019799040/photo/1",
+                    "id": 673873277891166208,
+                    "id_str": "673873277891166208",
+                    "indices": [
+                        103,
+                        126
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/CVoULQhUwAAzhv1.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/CVoULQhUwAAzhv1.jpg",
+                    "sizes": {
+                        "large": {
+                            "h": 481,
+                            "resize": "fit",
+                            "w": 643
+                        },
+                        "medium": {
+                            "h": 448,
+                            "resize": "fit",
+                            "w": 600
+                        },
+                        "small": {
+                            "h": 254,
+                            "resize": "fit",
+                            "w": 340
+                        },
+                        "thumb": {
+                            "h": 150,
+                            "resize": "crop",
+                            "w": 150
+                        }
+                    },
+                    "type": "photo",
+                    "url": "https://t.co/RblR4KVm7D"
+                }
+            ],
+            "symbols": [],
+            "urls": [
+                {
+                    "display_url": "oracle.com/us/products/da\u2026",
+                    "expanded_url": "http://www.oracle.com/us/products/database/idc-business-agility-with-oracle-db-2641912.pdf",
+                    "indices": [
+                        79,
+                        102
+                    ],
+                    "url": "https://t.co/9F7RGE8ACq"
+                }
+            ],
+            "user_mentions": [
+                {
+                    "id": 2670321,
+                    "id_str": "2670321",
+                    "indices": [
+                        58,
+                        62
+                    ],
+                    "name": "IDC",
+                    "screen_name": "IDC"
+                },
+                {
+                    "id": 81155551,
+                    "id_str": "81155551",
+                    "indices": [
+                        65,
+                        78
+                    ],
+                    "name": "Carl Olofson",
+                    "screen_name": "databaseguru"
+                }
+            ]
+        },
+        "favorite_count": 3,
+        "favorited": false,
+        "geo": null,
+        "id": 673875890019799040,
+        "id_str": "673875890019799040",
+        "in_reply_to_screen_name": null,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "is_quote_status": false,
+        "lang": "en",
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "place": null,
+        "possibly_sensitive": false,
+        "retweet_count": 4,
+        "retweeted": false,
+        "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+        "text": "[#WP] Achieving Business Agility with #DB12c #DBIM12c via @IDC's @databaseguru https://t.co/9F7RGE8ACq https://t.co/RblR4KVm7D",
+        "truncated": false,
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Mon Feb 16 18:23:04 +0000 2009",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "Oracle Database news, events, learning resources, and lots more.",
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "oracle.com/database",
+                            "expanded_url": "http://www.oracle.com/database",
+                            "indices": [
+                                0,
+                                22
+                            ],
+                            "url": "http://t.co/0E66BtfyA1"
+                        }
+                    ]
+                }
+            },
+            "favourites_count": 821,
+            "follow_request_sent": false,
+            "followers_count": 94240,
+            "following": false,
+            "friends_count": 139,
+            "geo_enabled": true,
+            "has_extended_profile": false,
+            "id": 21010243,
+            "id_str": "21010243",
+            "is_translation_enabled": false,
+            "is_translator": false,
+            "lang": "en",
+            "listed_count": 1663,
+            "location": "Redwood Shores, CA",
+            "name": "Oracle Database",
+            "notifications": false,
+            "profile_background_color": "FF0000",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/125877306/db11g_twitter_bg.jpg",
+            "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/125877306/db11g_twitter_bg.jpg",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/378800000050225258/c8aaaa5340b591f180d4ddb3acc2f64a_normal.jpeg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000050225258/c8aaaa5340b591f180d4ddb3acc2f64a_normal.jpeg",
+            "profile_link_color": "FF0000",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "666666",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "protected": false,
+            "screen_name": "OracleDatabase",
+            "statuses_count": 8223,
+            "time_zone": "Pacific Time (US & Canada)",
+            "url": "http://t.co/0E66BtfyA1",
+            "utc_offset": -28800,
+            "verified": true
+        }
+    },
+    "quoted_status_id": 673875890019799040,
+    "quoted_status_id_str": "673875890019799040",
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "text": "@Oracle #DB12c allows business agility through quick in-memory option.  https://t.co/3V59wQD5hY",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Jul 26 20:51:51 +0000 2012",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Development @Oracle; #Database; #Middleware; #Cloudcomputing; #BigData; Also #Running; #Travelling; #Philosophy; #Education; Tweets are mine.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "ie.linkedin.com/in/henrykroeger",
+                        "expanded_url": "https://ie.linkedin.com/in/henrykroeger",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/B3BxTr91TO"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 0,
+        "follow_request_sent": false,
+        "followers_count": 173,
+        "following": false,
+        "friends_count": 349,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 718742802,
+        "id_str": "718742802",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 82,
+        "location": "Dublin City, Ireland",
+        "name": "Henry Kr\u00f6ger",
+        "notifications": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/718742802/1441964683",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/651462182404816896/6OCobo4Z_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/651462182404816896/6OCobo4Z_normal.jpg",
+        "profile_link_color": "009999",
+        "profile_sidebar_border_color": "EEEEEE",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "hkroeger_",
+        "statuses_count": 1436,
+        "time_zone": "Bern",
+        "url": "https://t.co/B3BxTr91TO",
+        "utc_offset": 3600,
+        "verified": false
+    }
+}

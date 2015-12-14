@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 08 17:18:20 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 89587925,
+                "id_str": "89587925",
+                "indices": [
+                    0,
+                    8
+                ],
+                "name": "Comcast",
+                "screen_name": "comcast"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 674276839796404224,
+    "id_str": "674276839796404224",
+    "in_reply_to_screen_name": "comcast",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 89587925,
+    "in_reply_to_user_id_str": "89587925",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -86.869446,
+                        35.939893
+                    ],
+                    [
+                        -86.686525,
+                        35.939893
+                    ],
+                    [
+                        -86.686525,
+                        36.05065
+                    ],
+                    [
+                        -86.869446,
+                        36.05065
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Brentwood, TN",
+        "id": "42835dec78de1327",
+        "name": "Brentwood",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/42835dec78de1327.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@comcast is there an outage in Savannah Georgia",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Jan 09 21:05:19 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "about.me/cragsdale",
+                        "expanded_url": "http://about.me/cragsdale",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/QlVWle88eJ"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 91,
+        "follow_request_sent": false,
+        "followers_count": 74,
+        "following": false,
+        "friends_count": 235,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 18815403,
+        "id_str": "18815403",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 7,
+        "location": "Nashville, TN",
+        "name": "Chris Ragsdale",
+        "notifications": false,
+        "profile_background_color": "01022D",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/7029770/water.JPG",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/7029770/water.JPG",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/18815403/1421192371",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/555147349253558272/TzqOj6JC_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/555147349253558272/TzqOj6JC_normal.jpeg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "BDDCAD",
+        "profile_sidebar_fill_color": "DDFFCC",
+        "profile_text_color": "333333",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "cgragsdale",
+        "statuses_count": 1946,
+        "time_zone": "Central Time (US & Canada)",
+        "url": "http://t.co/QlVWle88eJ",
+        "utc_offset": -21600,
+        "verified": false
+    }
+}

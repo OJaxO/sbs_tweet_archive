@@ -1,0 +1,131 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 07 02:34:21 +0000 2015",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    129,
+                    134
+                ],
+                "text": "poor"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 19397351,
+                "id_str": "19397351",
+                "indices": [
+                    0,
+                    11
+                ],
+                "name": "Premier Inn",
+                "screen_name": "premierinn"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 673691989968228352,
+    "id_str": "673691989968228352",
+    "in_reply_to_screen_name": "premierinn",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 19397351,
+    "in_reply_to_user_id_str": "19397351",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        103.749959507073,
+                        1.2123138339349
+                    ],
+                    [
+                        103.918426999964,
+                        1.2123138339349
+                    ],
+                    [
+                        103.918426999964,
+                        1.36874499902569
+                    ],
+                    [
+                        103.749959507073,
+                        1.36874499902569
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "Singapore",
+        "country_code": "SG",
+        "full_name": "Central Region, Singapore",
+        "id": "58a4c3a0d54e1400",
+        "name": "Central Region",
+        "place_type": "admin",
+        "url": "https://api.twitter.com/1.1/geo/id/58a4c3a0d54e1400.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@premierinn why does your website give no details how a customer transfers from an airport terminal to one of ur airport hotels? #poor",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Oct 03 03:07:50 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Singapore's first expat, well not really, but tweeting when dead for 185 years is an achievement - mostly mindless drivel, not a bellend (apparently)",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 92,
+        "follow_request_sent": false,
+        "followers_count": 1334,
+        "following": false,
+        "friends_count": 1133,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 198013980,
+        "id_str": "198013980",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 107,
+        "location": "Singapore",
+        "name": "stamford raffles",
+        "notifications": false,
+        "profile_background_color": "642D8B",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/658911540679077889/RbHL1ZxH_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/658911540679077889/RbHL1ZxH_normal.png",
+        "profile_link_color": "FF0000",
+        "profile_sidebar_border_color": "65B0DA",
+        "profile_sidebar_fill_color": "7AC3EE",
+        "profile_text_color": "3D1957",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "AskSirStamford",
+        "statuses_count": 85777,
+        "time_zone": "Singapore",
+        "url": null,
+        "utc_offset": 28800,
+        "verified": false
+    }
+}

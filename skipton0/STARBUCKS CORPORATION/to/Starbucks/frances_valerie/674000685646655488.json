@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 07 23:01:00 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 30973,
+                "id_str": "30973",
+                "indices": [
+                    0,
+                    10
+                ],
+                "name": "Starbucks Coffee",
+                "screen_name": "Starbucks"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 674000685646655488,
+    "id_str": "674000685646655488",
+    "in_reply_to_screen_name": "Starbucks",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 30973,
+    "in_reply_to_user_id_str": "30973",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -80.94337971004553,
+                        35.219881427871556
+                    ],
+                    [
+                        -80.94337971004553,
+                        35.219881427871556
+                    ],
+                    [
+                        -80.94337971004553,
+                        35.219881427871556
+                    ],
+                    [
+                        -80.94337971004553,
+                        35.219881427871556
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Charlotte Douglas International Airport (CLT)",
+        "id": "07d9db0951887002",
+        "name": "Charlotte Douglas International Airport (CLT)",
+        "place_type": "poi",
+        "url": "https://api.twitter.com/1.1/geo/id/07d9db0951887002.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@Starbucks FYI, I ran back to Concourse B to return the spoiled fruit salad. Didn't ask for my money back, just really wanted to alert them.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Mar 08 10:13:13 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "He never promised me a rose garden,but He promised me the Garden of Eden|Half-full,yet fully redeemed|Not a photog but shoots film|His grace alone sustains me|",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "hereternalperspective.blogspot.ae",
+                        "expanded_url": "http://hereternalperspective.blogspot.ae/",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/LjAt4oBKrn"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 163,
+        "follow_request_sent": false,
+        "followers_count": 218,
+        "following": false,
+        "friends_count": 355,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 121063874,
+        "id_str": "121063874",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 3,
+        "location": "Dubai",
+        "name": "frances valerie n.",
+        "notifications": false,
+        "profile_background_color": "022330",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/527482152/DSCF0577a.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/527482152/DSCF0577a.jpg",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/121063874/1431497693",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1878672383/image_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1878672383/image_normal.jpg",
+        "profile_link_color": "ED802D",
+        "profile_sidebar_border_color": "149119",
+        "profile_sidebar_fill_color": "1B381F",
+        "profile_text_color": "DCE0DE",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "frances_valerie",
+        "statuses_count": 2553,
+        "time_zone": "Abu Dhabi",
+        "url": "http://t.co/LjAt4oBKrn",
+        "utc_offset": 14400,
+        "verified": false
+    }
+}

@@ -1,0 +1,147 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 07 20:39:49 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 20793816,
+                "id_str": "20793816",
+                "indices": [
+                    0,
+                    7
+                ],
+                "name": "Amazon",
+                "screen_name": "amazon"
+            },
+            {
+                "id": 320954770,
+                "id_str": "320954770",
+                "indices": [
+                    25,
+                    35
+                ],
+                "name": "Pierre",
+                "screen_name": "Pierre__H"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 673965155634520065,
+    "id_str": "673965155634520065",
+    "in_reply_to_screen_name": "amazon",
+    "in_reply_to_status_id": 673964950625370113,
+    "in_reply_to_status_id_str": "673964950625370113",
+    "in_reply_to_user_id": 20793816,
+    "in_reply_to_user_id_str": "20793816",
+    "is_quote_status": false,
+    "lang": "fr",
+    "metadata": {
+        "iso_language_code": "fr",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        6.2084512,
+                        48.6275438
+                    ],
+                    [
+                        6.2857871,
+                        48.6275438
+                    ],
+                    [
+                        6.2857871,
+                        48.6730515
+                    ],
+                    [
+                        6.2084512,
+                        48.6730515
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "France",
+        "country_code": "FR",
+        "full_name": "Laneuveville-devant-Nancy, Lorraine",
+        "id": "07924658c3530603",
+        "name": "Laneuveville-devant-Nancy",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/07924658c3530603.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+    "text": "@amazon J'ai pens\u00e9 \u00e0 toi @Pierre__H xD",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Feb 13 15:13:06 +0000 2012",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Apple Fan \u2022 Archive Apple \u2022 Computing enthusiast \u2022 #BackToTheFuture \u2022 Future SysAdmin \u2022 Collector of retro computers \u2022 Blogger \u2022 Student \u2022 Think Different \u2022 \uf8ff",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "theapplefanboy.fr",
+                        "expanded_url": "http://theapplefanboy.fr",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/tuzCkxClZD"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 16192,
+        "follow_request_sent": false,
+        "followers_count": 602,
+        "following": false,
+        "friends_count": 878,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 491364155,
+        "id_str": "491364155",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "fr",
+        "listed_count": 86,
+        "location": "Palo Alto \u2600\ufe0e",
+        "name": "Ludovic \u30c4",
+        "notifications": false,
+        "profile_background_color": "3B94D9",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/602571011070906369/dUVzwCNM.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/602571011070906369/dUVzwCNM.jpg",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/491364155/1439155675",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/669988203059879937/Tf8W9MLC_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/669988203059879937/Tf8W9MLC_normal.jpg",
+        "profile_link_color": "3B94D9",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "99CC33",
+        "profile_text_color": "3E4415",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "lion54410",
+        "statuses_count": 24552,
+        "time_zone": "Paris",
+        "url": "http://t.co/tuzCkxClZD",
+        "utc_offset": 3600,
+        "verified": false
+    }
+}

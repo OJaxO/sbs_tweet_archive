@@ -1,0 +1,115 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 07 15:40:40 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/IBM/status/672\u2026",
+                "expanded_url": "https://twitter.com/IBM/status/672809095213113344",
+                "indices": [
+                    24,
+                    47
+                ],
+                "url": "https://t.co/vVPRmze4f6"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 18994444,
+                "id_str": "18994444",
+                "indices": [
+                    18,
+                    22
+                ],
+                "name": "IBM",
+                "screen_name": "IBM"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 673889872902561792,
+    "id_str": "673889872902561792",
+    "in_reply_to_screen_name": "IBM",
+    "in_reply_to_status_id": 672809095213113344,
+    "in_reply_to_status_id_str": "672809095213113344",
+    "in_reply_to_user_id": 18994444,
+    "in_reply_to_user_id_str": "18994444",
+    "is_quote_status": true,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "text": "Swing and a miss, @IBM  https://t.co/vVPRmze4f6",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Jan 07 23:01:31 +0000 2008",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Graphics Interchange Formatter.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "jordanmerrick.com",
+                        "expanded_url": "http://www.jordanmerrick.com",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/9ffeao716Z"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 937,
+        "follow_request_sent": false,
+        "followers_count": 558,
+        "following": false,
+        "friends_count": 164,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 11963872,
+        "id_str": "11963872",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 27,
+        "location": "UK / NY",
+        "name": "Jordan Merrick",
+        "notifications": false,
+        "profile_background_color": "022330",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/11963872/1443289777",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/650522026499674112/UzahsVyO_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/650522026499674112/UzahsVyO_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "C0DFEC",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "jordanmerrick",
+        "statuses_count": 19703,
+        "time_zone": "London",
+        "url": "http://t.co/9ffeao716Z",
+        "utc_offset": 0,
+        "verified": false
+    }
+}

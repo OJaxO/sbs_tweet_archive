@@ -1,0 +1,124 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 08 18:36:37 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 28312115,
+                "id_str": "28312115",
+                "indices": [
+                    0,
+                    8
+                ],
+                "name": "Severn Trent",
+                "screen_name": "stwater"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 674296539087552517,
+    "id_str": "674296539087552517",
+    "in_reply_to_screen_name": "stwater",
+    "in_reply_to_status_id": 674295156913381381,
+    "in_reply_to_status_id_str": "674295156913381381",
+    "in_reply_to_user_id": 28312115,
+    "in_reply_to_user_id_str": "28312115",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -1.6128929,
+                        52.3653979
+                    ],
+                    [
+                        -1.4244104,
+                        52.3653979
+                    ],
+                    [
+                        -1.4244104,
+                        52.458428
+                    ],
+                    [
+                        -1.6128929,
+                        52.458428
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United Kingdom",
+        "country_code": "GB",
+        "full_name": "Coventry, England",
+        "id": "52bb236ce4bb9be1",
+        "name": "Coventry",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/52bb236ce4bb9be1.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@stwater wow thanks, will do",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Feb 26 16:07:36 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "When you catch the firefly, enter through the pod bay doors. Here I'll stand, paintbrush in one hand, in my tectonic rocket ship with your periwinkle tea.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 335,
+        "follow_request_sent": false,
+        "followers_count": 109,
+        "following": false,
+        "friends_count": 234,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 22025522,
+        "id_str": "22025522",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 15,
+        "location": "England",
+        "name": "Karen.M.L.",
+        "notifications": false,
+        "profile_background_color": "FFF04D",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme19/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme19/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/22025522/1397545210",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/661823119305351168/9Ch7zAXr_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/661823119305351168/9Ch7zAXr_normal.jpg",
+        "profile_link_color": "0099CC",
+        "profile_sidebar_border_color": "FFF8AD",
+        "profile_sidebar_fill_color": "F6FFD1",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Anansi_",
+        "statuses_count": 17371,
+        "time_zone": "London",
+        "url": null,
+        "utc_offset": 0,
+        "verified": false
+    }
+}

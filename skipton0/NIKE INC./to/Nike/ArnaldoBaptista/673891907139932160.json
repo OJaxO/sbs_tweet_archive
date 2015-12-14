@@ -1,0 +1,148 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 07 15:48:45 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "web.nike.com/vemjunto/index\u2026",
+                "expanded_url": "https://web.nike.com/vemjunto/index.html#/?cp=brrn_brm_120615_ho15_vemjunto_sd_FB_VemJunto_Brand_Film",
+                "indices": [
+                    33,
+                    56
+                ],
+                "url": "https://t.co/Ubq6igdXjx"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 415859364,
+                "id_str": "415859364",
+                "indices": [
+                    0,
+                    5
+                ],
+                "name": "Nike",
+                "screen_name": "Nike"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 673891907139932160,
+    "id_str": "673891907139932160",
+    "in_reply_to_screen_name": "Nike",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 415859364,
+    "in_reply_to_user_id_str": "415859364",
+    "is_quote_status": false,
+    "lang": "pt",
+    "metadata": {
+        "iso_language_code": "pt",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -44.062789,
+                        -20.059816
+                    ],
+                    [
+                        -43.856856,
+                        -20.059816
+                    ],
+                    [
+                        -43.856856,
+                        -19.777568
+                    ],
+                    [
+                        -44.062789,
+                        -19.777568
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "Brasil",
+        "country_code": "BR",
+        "full_name": "Belo Horizonte, Minas Gerais",
+        "id": "d9d978b087a92583",
+        "name": "Belo Horizonte",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/d9d978b087a92583.json"
+    },
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@Nike N\u00e3o v\u00e1 se perder por a\u00ed...\nhttps://t.co/Ubq6igdXjx",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Jul 14 22:34:49 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "El Justiciero",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "arnaldobaptista.com.br",
+                        "expanded_url": "http://www.arnaldobaptista.com.br",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/UOultpoRVK"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 731,
+        "follow_request_sent": false,
+        "followers_count": 13048,
+        "following": false,
+        "friends_count": 0,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 166748490,
+        "id_str": "166748490",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "pt",
+        "listed_count": 206,
+        "location": "Brazil",
+        "name": "Arnaldo Baptista",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/128761510/fundo2.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/128761510/fundo2.jpg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/166748490/1398787854",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1103495144/C_pia_de_SPE-88_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1103495144/C_pia_de_SPE-88_normal.jpg",
+        "profile_link_color": "0F9E38",
+        "profile_sidebar_border_color": "FF7A83",
+        "profile_sidebar_fill_color": "FAFAD2",
+        "profile_text_color": "202121",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "ArnaldoBaptista",
+        "statuses_count": 11139,
+        "time_zone": "Brasilia",
+        "url": "http://t.co/UOultpoRVK",
+        "utc_offset": -7200,
+        "verified": false
+    }
+}

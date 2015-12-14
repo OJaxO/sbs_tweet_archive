@@ -1,0 +1,168 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 08 15:36:55 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "goo.gl/NlGOY2",
+                "expanded_url": "https://goo.gl/NlGOY2",
+                "indices": [
+                    116,
+                    139
+                ],
+                "url": "https://t.co/8uUfisboSH"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 109224937,
+                "id_str": "109224937",
+                "indices": [
+                    0,
+                    9
+                ],
+                "name": "Unilever",
+                "screen_name": "Unilever"
+            },
+            {
+                "id": 3028252336,
+                "id_str": "3028252336",
+                "indices": [
+                    16,
+                    27
+                ],
+                "name": "Paul Polman",
+                "screen_name": "PaulPolman"
+            },
+            {
+                "id": 2617471956,
+                "id_str": "2617471956",
+                "indices": [
+                    62,
+                    68
+                ],
+                "name": "COP21 - Paris 2015",
+                "screen_name": "COP21"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 674251318555316225,
+    "id_str": "674251318555316225",
+    "in_reply_to_screen_name": "Unilever",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 109224937,
+    "in_reply_to_user_id_str": "109224937",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        100.4876158,
+                        13.73866
+                    ],
+                    [
+                        100.5090067,
+                        13.73866
+                    ],
+                    [
+                        100.5090067,
+                        13.7727926
+                    ],
+                    [
+                        100.4876158,
+                        13.7727926
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "\u0e1b\u0e23\u0e30\u0e40\u0e17\u0e28\u0e44\u0e17\u0e22",
+        "country_code": "TH",
+        "full_name": "Phra Nakhon, Bangkok",
+        "id": "01208b8e0007895e",
+        "name": "Phra Nakhon",
+        "place_type": "admin",
+        "url": "https://api.twitter.com/1.1/geo/id/01208b8e0007895e.json"
+    },
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@Unilever chief @PaulPolman urges business to take bold steps @COP21. Unilever commit to be carbon positive by 2030 https://t.co/8uUfisboSH",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Jun 22 13:55:54 +0000 2014",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Irish Hong-Kong mathematician. i like creative solutions and compassionate business that contributes to a more peaceful world | @pathfindersHK | @forgoodcompany",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "imaginepeace.today",
+                        "expanded_url": "http://www.imaginepeace.today",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/05Ay432yGq"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 55,
+        "follow_request_sent": false,
+        "followers_count": 79,
+        "following": false,
+        "friends_count": 247,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 2582269460,
+        "id_str": "2582269460",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 2,
+        "location": "Hong Kong",
+        "name": "Rachel Ganly",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2582269460/1441906200",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/642026003645100033/Vncuanir_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/642026003645100033/Vncuanir_normal.jpg",
+        "profile_link_color": "3B94D9",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "ganlyr",
+        "statuses_count": 201,
+        "time_zone": "Hong Kong",
+        "url": "http://t.co/05Ay432yGq",
+        "utc_offset": 28800,
+        "verified": false
+    }
+}

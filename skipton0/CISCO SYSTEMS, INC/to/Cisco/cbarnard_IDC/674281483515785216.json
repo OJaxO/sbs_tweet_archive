@@ -1,0 +1,154 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 08 17:36:47 +0000 2015",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    21,
+                    29
+                ],
+                "text": "csummit"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 15749983,
+                "id_str": "15749983",
+                "indices": [
+                    0,
+                    6
+                ],
+                "name": "Cisco",
+                "screen_name": "Cisco"
+            },
+            {
+                "id": 1449951,
+                "id_str": "1449951",
+                "indices": [
+                    31,
+                    45
+                ],
+                "name": "Rowan Trollope",
+                "screen_name": "rowantrollope"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 674281483515785216,
+    "id_str": "674281483515785216",
+    "in_reply_to_screen_name": "Cisco",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 15749983,
+    "in_reply_to_user_id_str": "15749983",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -87.634643,
+                        24.396308
+                    ],
+                    [
+                        -79.974307,
+                        24.396308
+                    ],
+                    [
+                        -79.974307,
+                        31.001056
+                    ],
+                    [
+                        -87.634643,
+                        31.001056
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Florida, USA",
+        "id": "4ec01c9dbc693497",
+        "name": "Florida",
+        "place_type": "admin",
+        "url": "https://api.twitter.com/1.1/geo/id/4ec01c9dbc693497.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@Cisco Collaboration #csummit: @rowantrollope introducing new updates to Spark application.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Dec 15 11:15:14 +0000 2010",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Vice President, European Telecoms and Networking at IDC. Interested in networking, datacenter, UC&C, services and the role of the channel.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "idc.com",
+                        "expanded_url": "http://www.idc.com",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/zXtVGWuDTt"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 11,
+        "follow_request_sent": false,
+        "followers_count": 1188,
+        "following": false,
+        "friends_count": 180,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 226902098,
+        "id_str": "226902098",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 94,
+        "location": "Amsterdam",
+        "name": "Chris Barnard",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1191825595/Photo_normal.JPG",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1191825595/Photo_normal.JPG",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "cbarnard_IDC",
+        "statuses_count": 1808,
+        "time_zone": "Amsterdam",
+        "url": "http://t.co/zXtVGWuDTt",
+        "utc_offset": 3600,
+        "verified": false
+    }
+}

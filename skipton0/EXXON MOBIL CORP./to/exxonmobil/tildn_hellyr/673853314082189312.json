@@ -1,0 +1,124 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 07 13:15:24 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 36665547,
+                "id_str": "36665547",
+                "indices": [
+                    0,
+                    11
+                ],
+                "name": "ExxonMobil",
+                "screen_name": "exxonmobil"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 673853314082189312,
+    "id_str": "673853314082189312",
+    "in_reply_to_screen_name": "exxonmobil",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 36665547,
+    "in_reply_to_user_id_str": "36665547",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        18.3180332,
+                        -34.35839
+                    ],
+                    [
+                        18.659787,
+                        -34.35839
+                    ],
+                    [
+                        18.659787,
+                        -33.8852384
+                    ],
+                    [
+                        18.3180332,
+                        -33.8852384
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "South Africa",
+        "country_code": "ZA",
+        "full_name": "Cape Town, South Africa",
+        "id": "8b9ec16fdc0d7e55",
+        "name": "Cape Town",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/8b9ec16fdc0d7e55.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@exxonmobil Please assist with a contact number for ExxonMobil in Lagos, Nigeria. There is nothing available online",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Feb 09 20:23:26 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Passionate about all things difficult and inspiring. Tea. A logophile at heart. Looking for a hobby, bee keeping? Hmmmm",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 38,
+        "follow_request_sent": false,
+        "followers_count": 336,
+        "following": false,
+        "friends_count": 558,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 249801830,
+        "id_str": "249801830",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 2,
+        "location": "Cape Town",
+        "name": "Tilden Hellyer",
+        "notifications": false,
+        "profile_background_color": "F00909",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/852968606/3891d8f7a529f04c871d167e2c691750.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/852968606/3891d8f7a529f04c871d167e2c691750.jpeg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/249801830/1434351218",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/639751745652985856/j1PZIju-_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/639751745652985856/j1PZIju-_normal.jpg",
+        "profile_link_color": "109ACC",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "tildn_hellyr",
+        "statuses_count": 1781,
+        "time_zone": "Harare",
+        "url": null,
+        "utc_offset": 7200,
+        "verified": false
+    }
+}

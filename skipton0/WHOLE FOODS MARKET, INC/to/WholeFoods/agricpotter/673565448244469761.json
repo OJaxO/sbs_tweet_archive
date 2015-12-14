@@ -1,0 +1,134 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Dec 06 18:11:31 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 15131310,
+                "id_str": "15131310",
+                "indices": [
+                    0,
+                    11
+                ],
+                "name": "Whole Foods Market",
+                "screen_name": "WholeFoods"
+            },
+            {
+                "id": 496377411,
+                "id_str": "496377411",
+                "indices": [
+                    12,
+                    21
+                ],
+                "name": "Emily Potter",
+                "screen_name": "_emilyap"
+            }
+        ]
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": null,
+    "id": 673565448244469761,
+    "id_str": "673565448244469761",
+    "in_reply_to_screen_name": "WholeFoods",
+    "in_reply_to_status_id": 673562596281344000,
+    "in_reply_to_status_id_str": "673562596281344000",
+    "in_reply_to_user_id": 15131310,
+    "in_reply_to_user_id_str": "15131310",
+    "is_quote_status": false,
+    "lang": "und",
+    "metadata": {
+        "iso_language_code": "und",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -1.515317,
+                        51.6334085
+                    ],
+                    [
+                        -1.5013209,
+                        51.6334085
+                    ],
+                    [
+                        -1.5013209,
+                        51.646888
+                    ],
+                    [
+                        -1.515317,
+                        51.646888
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United Kingdom",
+        "country_code": "GB",
+        "full_name": "Stanford in the Vale, England",
+        "id": "05a22edfaa45330b",
+        "name": "Stanford in the Vale",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/05a22edfaa45330b.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@WholeFoods @_emilyap \ud83d\ude02\ud83d\ude48",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Dec 02 23:37:20 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Run run run run run run running.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 1096,
+        "follow_request_sent": false,
+        "followers_count": 232,
+        "following": false,
+        "friends_count": 389,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 426988173,
+        "id_str": "426988173",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 1,
+        "location": "Reading",
+        "name": "Hannah Potter",
+        "notifications": false,
+        "profile_background_color": "642D8B",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/426988173/1443729035",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/649672780246614017/_M3H_Ue-_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/649672780246614017/_M3H_Ue-_normal.jpg",
+        "profile_link_color": "FF0000",
+        "profile_sidebar_border_color": "65B0DA",
+        "profile_sidebar_fill_color": "7AC3EE",
+        "profile_text_color": "3D1957",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "agricpotter",
+        "statuses_count": 10363,
+        "time_zone": "Casablanca",
+        "url": null,
+        "utc_offset": 0,
+        "verified": false
+    }
+}

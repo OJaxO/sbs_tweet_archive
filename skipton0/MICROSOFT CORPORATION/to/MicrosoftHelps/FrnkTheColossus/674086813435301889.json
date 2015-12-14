@@ -1,0 +1,147 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 08 04:43:14 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 75691804,
+                "id_str": "75691804",
+                "indices": [
+                    0,
+                    15
+                ],
+                "name": "Microsoft Support",
+                "screen_name": "MicrosoftHelps"
+            },
+            {
+                "id": 139239482,
+                "id_str": "139239482",
+                "indices": [
+                    16,
+                    29
+                ],
+                "name": "Xbox Support",
+                "screen_name": "XboxSupport1"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 674086813435301889,
+    "id_str": "674086813435301889",
+    "in_reply_to_screen_name": "MicrosoftHelps",
+    "in_reply_to_status_id": 674086601862086656,
+    "in_reply_to_status_id_str": "674086601862086656",
+    "in_reply_to_user_id": 75691804,
+    "in_reply_to_user_id_str": "75691804",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -88.294633,
+                        41.4444088
+                    ],
+                    [
+                        -87.99039,
+                        41.4444088
+                    ],
+                    [
+                        -87.99039,
+                        41.5947247
+                    ],
+                    [
+                        -88.294633,
+                        41.5947247
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Joliet, IL",
+        "id": "741e21eeea82f00a",
+        "name": "Joliet",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/741e21eeea82f00a.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@MicrosoftHelps @XboxSupport1 sounds wonderful is there an email address to contact or should I tweet it",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Aug 17 05:31:02 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Obnoxious. Swine of the Universe. @ithecolossus",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "instagram.com/frank_monte",
+                        "expanded_url": "http://instagram.com/frank_monte",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/IdQnUvi0TP"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 2338,
+        "follow_request_sent": false,
+        "followers_count": 260,
+        "following": false,
+        "friends_count": 165,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 66286484,
+        "id_str": "66286484",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 1,
+        "location": "Illinois",
+        "name": "Father Frank",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/511199327226572800/r30Ax5bE.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/511199327226572800/r30Ax5bE.jpeg",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/66286484/1435082138",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/632768909989556224/ltY76zdI_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/632768909989556224/ltY76zdI_normal.jpg",
+        "profile_link_color": "000000",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "C0DFEC",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "FrnkTheColossus",
+        "statuses_count": 5100,
+        "time_zone": "Mountain Time (US & Canada)",
+        "url": "https://t.co/IdQnUvi0TP",
+        "utc_offset": -25200,
+        "verified": false
+    }
+}

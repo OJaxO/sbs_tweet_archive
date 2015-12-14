@@ -1,0 +1,238 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 08 05:31:06 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/_imyourpusha_/\u2026",
+                "expanded_url": "https://twitter.com/_imyourpusha_/status/674098179521044480",
+                "indices": [
+                    48,
+                    71
+                ],
+                "url": "https://t.co/uYfk5yY8mJ"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 89587925,
+                "id_str": "89587925",
+                "indices": [
+                    0,
+                    8
+                ],
+                "name": "Comcast",
+                "screen_name": "comcast"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 674098858654175232,
+    "id_str": "674098858654175232",
+    "in_reply_to_screen_name": "comcast",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 89587925,
+    "in_reply_to_user_id_str": "89587925",
+    "is_quote_status": true,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": null,
+    "possibly_sensitive": true,
+    "quoted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Tue Dec 08 05:28:24 +0000 2015",
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "id": 127975950,
+                    "id_str": "127975950",
+                    "indices": [
+                        23,
+                        27
+                    ],
+                    "name": "Time Warner Cable",
+                    "screen_name": "TWC"
+                }
+            ]
+        },
+        "favorite_count": 0,
+        "favorited": false,
+        "geo": null,
+        "id": 674098179521044480,
+        "id_str": "674098179521044480",
+        "in_reply_to_screen_name": null,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "is_quote_status": false,
+        "lang": "en",
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "place": {
+            "attributes": {},
+            "bounding_box": {
+                "coordinates": [
+                    [
+                        [
+                            -80.0295184,
+                            35.962623
+                        ],
+                        [
+                            -79.6852086,
+                            35.962623
+                        ],
+                        [
+                            -79.6852086,
+                            36.218171
+                        ],
+                        [
+                            -80.0295184,
+                            36.218171
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "contained_within": [],
+            "country": "United States",
+            "country_code": "US",
+            "full_name": "Greensboro, NC",
+            "id": "a6c257c61f294ec1",
+            "name": "Greensboro",
+            "place_type": "city",
+            "url": "https://api.twitter.com/1.1/geo/id/a6c257c61f294ec1.json"
+        },
+        "retweet_count": 0,
+        "retweeted": false,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "This wack ass box from @TWC is fucking up. FaceTime anyone?",
+        "truncated": false,
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Thu Feb 18 06:46:27 +0000 2010",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "A regula degula shmegula dude with some wifi. Be blessed. Stay pressed. #Panthers #Tarheels #Hornets",
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "favourites_count": 1425,
+            "follow_request_sent": false,
+            "followers_count": 1186,
+            "following": false,
+            "friends_count": 484,
+            "geo_enabled": true,
+            "has_extended_profile": false,
+            "id": 115297136,
+            "id_str": "115297136",
+            "is_translation_enabled": false,
+            "is_translator": false,
+            "lang": "en",
+            "listed_count": 31,
+            "location": "9\u20e31\u20e30\u20e3\u27a1\ufe0f3\u20e33\u20e36\u20e3",
+            "name": "Being Mary Lame",
+            "notifications": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000073729129/4165df324e5817a7cb6403a896993cd3.jpeg",
+            "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000073729129/4165df324e5817a7cb6403a896993cd3.jpeg",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/115297136/1449437737",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/671214366323302400/IJADHCaC_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/671214366323302400/IJADHCaC_normal.jpg",
+            "profile_link_color": "990000",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "8A0808",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "_ImYourPusha_",
+            "statuses_count": 198289,
+            "time_zone": "Mountain Time (US & Canada)",
+            "url": null,
+            "utc_offset": -25200,
+            "verified": false
+        }
+    },
+    "quoted_status_id": 674098179521044480,
+    "quoted_status_id_str": "674098179521044480",
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@Comcast ain't no better . Try U-Verse or Fios  https://t.co/uYfk5yY8mJ",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Jan 30 15:47:58 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "I eat carcinogenic bacon ... clearly I give no fucks! #BlackLivesMatter https://t.co/spOFt7D7bi",
+        "entities": {
+            "description": {
+                "urls": [
+                    {
+                        "display_url": "Instagram.com/deifrankone",
+                        "expanded_url": "http://Instagram.com/deifrankone",
+                        "indices": [
+                            72,
+                            95
+                        ],
+                        "url": "https://t.co/spOFt7D7bi"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 11105,
+        "follow_request_sent": false,
+        "followers_count": 832,
+        "following": false,
+        "friends_count": 536,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 244977545,
+        "id_str": "244977545",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 33,
+        "location": "Bayou City",
+        "name": "~! Mr. DANGGGG !~",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/199236580/baltimore-inner-harbor1.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/199236580/baltimore-inner-harbor1.jpg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/244977545/1430187235",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/610583404111859713/ZQon96DN_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/610583404111859713/ZQon96DN_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "DeiFrankOne",
+        "statuses_count": 119884,
+        "time_zone": "Central Time (US & Canada)",
+        "url": null,
+        "utc_offset": -21600,
+        "verified": false
+    }
+}

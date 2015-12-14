@@ -1,0 +1,166 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 07 18:33:03 +0000 2015",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    88,
+                    95
+                ],
+                "text": "retail"
+            },
+            {
+                "indices": [
+                    96,
+                    102
+                ],
+                "text": "Tesco"
+            },
+            {
+                "indices": [
+                    103,
+                    109
+                ],
+                "text": "Vinyl"
+            }
+        ],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "musicbusinessworldwide.com/tesco-gets-int\u2026",
+                "expanded_url": "http://www.musicbusinessworldwide.com/tesco-gets-into-vinyl-after-iron-maiden-trial-sells-out/",
+                "indices": [
+                    64,
+                    87
+                ],
+                "url": "https://t.co/x8xcvxAkTE"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 271986064,
+                "id_str": "271986064",
+                "indices": [
+                    0,
+                    6
+                ],
+                "name": "Tesco",
+                "screen_name": "Tesco"
+            },
+            {
+                "id": 19114743,
+                "id_str": "19114743",
+                "indices": [
+                    29,
+                    40
+                ],
+                "name": "Iron Maiden",
+                "screen_name": "IronMaiden"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 673933255205363712,
+    "id_str": "673933255205363712",
+    "in_reply_to_screen_name": "Tesco",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 271986064,
+    "in_reply_to_user_id_str": "271986064",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -2.319934,
+                        53.343623
+                    ],
+                    [
+                        -2.147026,
+                        53.343623
+                    ],
+                    [
+                        -2.147026,
+                        53.5702824
+                    ],
+                    [
+                        -2.319934,
+                        53.5702824
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United Kingdom",
+        "country_code": "GB",
+        "full_name": "Manchester, England",
+        "id": "315b740b108481f6",
+        "name": "Manchester",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/315b740b108481f6.json"
+    },
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@Tesco gets into vinyl after @IronMaiden Maiden trial sells out https://t.co/x8xcvxAkTE #retail #Tesco #Vinyl",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Feb 19 18:39:40 +0000 2012",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Fought the law and the law won. Musing of a nerdy entertainment, sports, media & fashion lawyer. My views are my own and not the firm's.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 16,
+        "follow_request_sent": false,
+        "followers_count": 456,
+        "following": false,
+        "friends_count": 462,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 497199098,
+        "id_str": "497199098",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 11,
+        "location": "Manchester",
+        "name": "Rude Dawg",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/631589193/hh1c9xjdar9s0jl5ywf8.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/631589193/hh1c9xjdar9s0jl5ywf8.jpeg",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1854847768/R._Kidd_Photo.01_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1854847768/R._Kidd_Photo.01_normal.jpg",
+        "profile_link_color": "B300AD",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "RudiKidd",
+        "statuses_count": 5089,
+        "time_zone": "London",
+        "url": null,
+        "utc_offset": 0,
+        "verified": false
+    }
+}

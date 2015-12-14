@@ -1,0 +1,269 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 08 00:56:45 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/ailmatte/statu\u2026",
+                "expanded_url": "https://twitter.com/ailmatte/status/666622524986265600",
+                "indices": [
+                    14,
+                    37
+                ],
+                "url": "https://t.co/RRSm8PyoDK"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 30973,
+                "id_str": "30973",
+                "indices": [
+                    0,
+                    10
+                ],
+                "name": "Starbucks Coffee",
+                "screen_name": "Starbucks"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 674029814932742144,
+    "id_str": "674029814932742144",
+    "in_reply_to_screen_name": "Starbucks",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 30973,
+    "in_reply_to_user_id_str": "30973",
+    "is_quote_status": true,
+    "lang": "und",
+    "metadata": {
+        "iso_language_code": "und",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        31.2009591,
+                        28.9638508
+                    ],
+                    [
+                        31.9402534,
+                        28.9638508
+                    ],
+                    [
+                        31.9402534,
+                        30.2286469
+                    ],
+                    [
+                        31.2009591,
+                        30.2286469
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "\u0645\u0635\u0631",
+        "country_code": "EG",
+        "full_name": "Cairo, Egypt",
+        "id": "01d0cd182297354e",
+        "name": "Cairo",
+        "place_type": "admin",
+        "url": "https://api.twitter.com/1.1/geo/id/01d0cd182297354e.json"
+    },
+    "possibly_sensitive": true,
+    "quoted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Tue Nov 17 14:22:49 +0000 2015",
+        "entities": {
+            "hashtags": [],
+            "media": [
+                {
+                    "display_url": "pic.twitter.com/wusviEfEgT",
+                    "expanded_url": "http://twitter.com/AIlMatte/status/666622524986265600/photo/1",
+                    "id": 666622517474234370,
+                    "id_str": "666622517474234370",
+                    "indices": [
+                        14,
+                        37
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/CUBRpdFUEAITvAz.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/CUBRpdFUEAITvAz.jpg",
+                    "sizes": {
+                        "large": {
+                            "h": 1024,
+                            "resize": "fit",
+                            "w": 768
+                        },
+                        "medium": {
+                            "h": 800,
+                            "resize": "fit",
+                            "w": 600
+                        },
+                        "small": {
+                            "h": 453,
+                            "resize": "fit",
+                            "w": 340
+                        },
+                        "thumb": {
+                            "h": 150,
+                            "resize": "crop",
+                            "w": 150
+                        }
+                    },
+                    "type": "photo",
+                    "url": "https://t.co/wusviEfEgT"
+                }
+            ],
+            "symbols": [],
+            "urls": [],
+            "user_mentions": []
+        },
+        "favorite_count": 3545,
+        "favorited": false,
+        "geo": null,
+        "id": 666622524986265600,
+        "id_str": "666622524986265600",
+        "in_reply_to_screen_name": null,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "is_quote_status": false,
+        "lang": "en",
+        "metadata": {
+            "iso_language_code": "und",
+            "result_type": "recent"
+        },
+        "place": null,
+        "possibly_sensitive": false,
+        "retweet_count": 2504,
+        "retweeted": false,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "I need this \ud83d\ude29 https://t.co/wusviEfEgT",
+        "truncated": false,
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Thu Oct 22 03:41:52 +0000 2015",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "Join the dark side of Twitter | *Copyrighted content can be taken down by request of owners through dms* | Turn notifications on",
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "favourites_count": 14,
+            "follow_request_sent": false,
+            "followers_count": 21126,
+            "following": false,
+            "friends_count": 15,
+            "geo_enabled": false,
+            "has_extended_profile": false,
+            "id": 3976036514,
+            "id_str": "3976036514",
+            "is_translation_enabled": false,
+            "is_translator": false,
+            "lang": "en",
+            "listed_count": 6,
+            "location": "",
+            "name": "Black",
+            "notifications": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/3976036514/1447701163",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/666333171063984128/ynToGAl6_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/666333171063984128/ynToGAl6_normal.jpg",
+            "profile_link_color": "000000",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "protected": false,
+            "screen_name": "AIlMatte",
+            "statuses_count": 32,
+            "time_zone": null,
+            "url": null,
+            "utc_offset": null,
+            "verified": false
+        }
+    },
+    "quoted_status_id": 666622524986265600,
+    "quoted_status_id_str": "666622524986265600",
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@Starbucks \ud83d\ude0d\ud83d\ude0d https://t.co/RRSm8PyoDK",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Jul 10 19:01:59 +0000 2012",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "#\u062b\u0627\u0646\u0648\u064a\u0629_\u0639\u0627\u0645\u0629. \u0641\u0627 \u0647\u0647 \u064a\u0639\u0646\u0649 \u0648\u0643\u062f\u0629 ..",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "Facebook.com/hamode.official",
+                        "expanded_url": "http://Facebook.com/hamode.official",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/85c2WmfSXe"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 266,
+        "follow_request_sent": false,
+        "followers_count": 182,
+        "following": false,
+        "friends_count": 143,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 632228744,
+        "id_str": "632228744",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 0,
+        "location": "Shubra Cairo",
+        "name": "Muu.",
+        "notifications": false,
+        "profile_background_color": "A19BA1",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000061819082/1d866b4adfe03ab619896169ac19a429.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000061819082/1d866b4adfe03ab619896169ac19a429.jpeg",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/632228744/1449536390",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/672952201099243521/4uEQg3gI_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/672952201099243521/4uEQg3gI_normal.jpg",
+        "profile_link_color": "000000",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "hamuuddii",
+        "statuses_count": 265,
+        "time_zone": "Cairo",
+        "url": "https://t.co/85c2WmfSXe",
+        "utc_offset": 7200,
+        "verified": false
+    }
+}

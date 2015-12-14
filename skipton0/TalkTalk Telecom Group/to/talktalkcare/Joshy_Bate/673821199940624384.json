@@ -1,0 +1,123 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 07 11:07:47 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 258719649,
+                "id_str": "258719649",
+                "indices": [
+                    0,
+                    13
+                ],
+                "name": "TalkTalk",
+                "screen_name": "TalkTalkCare"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 673821199940624384,
+    "id_str": "673821199940624384",
+    "in_reply_to_screen_name": "TalkTalkCare",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 258719649,
+    "in_reply_to_user_id_str": "258719649",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -2.829936,
+                        54.020096
+                    ],
+                    [
+                        -2.775624,
+                        54.020096
+                    ],
+                    [
+                        -2.775624,
+                        54.0681
+                    ],
+                    [
+                        -2.829936,
+                        54.0681
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United Kingdom",
+        "country_code": "GB",
+        "full_name": "Lancaster, England",
+        "id": "37aa02b9b040fa60",
+        "name": "Lancaster",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/37aa02b9b040fa60.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@TalkTalkCare Having some problems with our internet! Router has power but no broadband &amp; internet light on the router! HELP!",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Dec 06 10:21:59 +0000 2015",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 4,
+        "follow_request_sent": false,
+        "followers_count": 1,
+        "following": false,
+        "friends_count": 11,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 4392825015,
+        "id_str": "4392825015",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 0,
+        "location": "",
+        "name": "Joshua Edmund Bate",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/673762651701452801/D5UcFXL4_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/673762651701452801/D5UcFXL4_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Joshy_Bate",
+        "statuses_count": 4,
+        "time_zone": null,
+        "url": null,
+        "utc_offset": null,
+        "verified": false
+    }
+}

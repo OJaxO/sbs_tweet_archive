@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Dec 06 02:33:25 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 80420672,
+                "id_str": "80420672",
+                "indices": [
+                    0,
+                    13
+                ],
+                "name": "EA Support",
+                "screen_name": "AskEASupport"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 673329365418180608,
+    "id_str": "673329365418180608",
+    "in_reply_to_screen_name": "AskEASupport",
+    "in_reply_to_status_id": 673232987501166594,
+    "in_reply_to_status_id_str": "673232987501166594",
+    "in_reply_to_user_id": 80420672,
+    "in_reply_to_user_id_str": "80420672",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -71.136186,
+                        42.500059
+                    ],
+                    [
+                        -71.071029,
+                        42.500059
+                    ],
+                    [
+                        -71.071029,
+                        42.566505
+                    ],
+                    [
+                        -71.136186,
+                        42.566505
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Reading, MA",
+        "id": "1be3ea48ab1430e8",
+        "name": "Reading",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/1be3ea48ab1430e8.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@AskEASupport oh ok. Having a season pass is still needed for these expansions though right?",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Apr 06 20:46:13 +0000 2008",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Work in #Boston - Enjoy #SQL - #CSharp - #Gaming - #Cigars - Travel\nRT \u2260 Endorsement | Opinions are mine.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "jamesmcgowan.org",
+                        "expanded_url": "http://jamesmcgowan.org",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/jhxcm33AnP"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 29,
+        "follow_request_sent": false,
+        "followers_count": 1417,
+        "following": false,
+        "friends_count": 1446,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 14317663,
+        "id_str": "14317663",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 24,
+        "location": "Boston, MA",
+        "name": "James McGowan",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/14317663/1366385510",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/378800000425604930/9af185878ca28093792fae151a2de412_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000425604930/9af185878ca28093792fae151a2de412_normal.jpeg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "jamesmcgowan",
+        "statuses_count": 904,
+        "time_zone": "Eastern Time (US & Canada)",
+        "url": "http://t.co/jhxcm33AnP",
+        "utc_offset": -18000,
+        "verified": false
+    }
+}

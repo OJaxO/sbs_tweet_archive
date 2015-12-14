@@ -1,0 +1,165 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 07 15:14:01 +0000 2015",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    32,
+                    45
+                ],
+                "text": "VivePoniente"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 61744008,
+                "id_str": "61744008",
+                "indices": [
+                    0,
+                    11
+                ],
+                "name": "Telef\u00f3nica",
+                "screen_name": "Telefonica"
+            },
+            {
+                "id": 1951973071,
+                "id_str": "1951973071",
+                "indices": [
+                    49,
+                    65
+                ],
+                "name": "CANAL+ Series",
+                "screen_name": "canalplusseries"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 673883166357213187,
+    "id_str": "673883166357213187",
+    "in_reply_to_screen_name": "Telefonica",
+    "in_reply_to_status_id": 673167720582504448,
+    "in_reply_to_status_id_str": "673167720582504448",
+    "in_reply_to_user_id": 61744008,
+    "in_reply_to_user_id_str": "61744008",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -5.6313015,
+                        42.5471618
+                    ],
+                    [
+                        -5.5337727,
+                        42.5471618
+                    ],
+                    [
+                        -5.5337727,
+                        42.6401017
+                    ],
+                    [
+                        -5.6313015,
+                        42.6401017
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "Espa\u00f1a",
+        "country_code": "ES",
+        "full_name": "Leon, Castille and Leon",
+        "id": "a87ad701b9cd8f8a",
+        "name": "Leon",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/a87ad701b9cd8f8a.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@Telefonica Winter is coming!!! #VivePoniente en @canalplusseries",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Apr 14 09:52:10 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Twitter oficial de 'Juego de Tronos' en Espa\u00f1a (Movistar+) || Quinta temporada, en @canalplusseries || Uso de comentarios: http://t.co/5bMzlqGgIT",
+        "entities": {
+            "description": {
+                "urls": [
+                    {
+                        "display_url": "bit.ly/1dLIIBa",
+                        "expanded_url": "http://bit.ly/1dLIIBa",
+                        "indices": [
+                            123,
+                            145
+                        ],
+                        "url": "http://t.co/5bMzlqGgIT"
+                    }
+                ]
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "plus.es/juegodetronos",
+                        "expanded_url": "http://plus.es/juegodetronos",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/XiecG4gfPZ"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 6525,
+        "follow_request_sent": false,
+        "followers_count": 63771,
+        "following": false,
+        "friends_count": 176,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 281965700,
+        "id_str": "281965700",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "es",
+        "listed_count": 423,
+        "location": "Poniente",
+        "name": "Juego de Tronos",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/507476405207068672/FE3WskmI.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/507476405207068672/FE3WskmI.jpeg",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/281965700/1428325360",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/481383179190685696/QO4zNh4E_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/481383179190685696/QO4zNh4E_normal.png",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "juegotronosplus",
+        "statuses_count": 19133,
+        "time_zone": "Madrid",
+        "url": "http://t.co/XiecG4gfPZ",
+        "utc_offset": 3600,
+        "verified": true
+    }
+}

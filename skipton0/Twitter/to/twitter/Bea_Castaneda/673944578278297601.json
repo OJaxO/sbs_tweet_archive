@@ -1,0 +1,293 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 07 19:18:03 +0000 2015",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    63,
+                    75
+                ],
+                "text": "socialmedia"
+            },
+            {
+                "indices": [
+                    76,
+                    93
+                ],
+                "text": "contentmarketing"
+            }
+        ],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/twitter/status\u2026",
+                "expanded_url": "https://twitter.com/twitter/status/673882166980284416",
+                "indices": [
+                    95,
+                    118
+                ],
+                "url": "https://t.co/vPP4wLX5hj"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 783214,
+                "id_str": "783214",
+                "indices": [
+                    0,
+                    8
+                ],
+                "name": "Twitter",
+                "screen_name": "twitter"
+            }
+        ]
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": null,
+    "id": 673944578278297601,
+    "id_str": "673944578278297601",
+    "in_reply_to_screen_name": "twitter",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 783214,
+    "in_reply_to_user_id_str": "783214",
+    "is_quote_status": true,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": null,
+    "possibly_sensitive": false,
+    "quoted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Mon Dec 07 15:10:03 +0000 2015",
+        "entities": {
+            "hashtags": [],
+            "media": [
+                {
+                    "display_url": "pic.twitter.com/Jn2jgOVDfc",
+                    "expanded_url": "http://twitter.com/twitter/status/673882166980284416/photo/1",
+                    "id": 673882166225342464,
+                    "id_str": "673882166225342464",
+                    "indices": [
+                        112,
+                        135
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/CVocQoJVEAA0RWQ.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/CVocQoJVEAA0RWQ.jpg",
+                    "sizes": {
+                        "large": {
+                            "h": 570,
+                            "resize": "fit",
+                            "w": 1024
+                        },
+                        "medium": {
+                            "h": 334,
+                            "resize": "fit",
+                            "w": 600
+                        },
+                        "small": {
+                            "h": 189,
+                            "resize": "fit",
+                            "w": 340
+                        },
+                        "thumb": {
+                            "h": 150,
+                            "resize": "crop",
+                            "w": 150
+                        }
+                    },
+                    "type": "photo",
+                    "url": "https://t.co/Jn2jgOVDfc"
+                }
+            ],
+            "symbols": [],
+            "urls": [
+                {
+                    "display_url": "twitter.com",
+                    "expanded_url": "http://twitter.com",
+                    "indices": [
+                        63,
+                        86
+                    ],
+                    "url": "https://t.co/mIbPaWDIYL"
+                },
+                {
+                    "display_url": "blog.twitter.com/2015/a-new-loo\u2026",
+                    "expanded_url": "https://blog.twitter.com/2015/a-new-look-for-your-twittercom-photos",
+                    "indices": [
+                        88,
+                        111
+                    ],
+                    "url": "https://t.co/w8zA0s1mQ9"
+                }
+            ],
+            "user_mentions": []
+        },
+        "favorite_count": 2111,
+        "favorited": false,
+        "geo": null,
+        "id": 673882166980284416,
+        "id_str": "673882166980284416",
+        "in_reply_to_screen_name": null,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "is_quote_status": false,
+        "lang": "en",
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "place": null,
+        "possibly_sensitive": false,
+        "retweet_count": 1346,
+        "retweeted": false,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": "Starting today, we\u2019re introducing a richer photo experience on https://t.co/mIbPaWDIYL: https://t.co/w8zA0s1mQ9 https://t.co/Jn2jgOVDfc",
+        "truncated": false,
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Tue Feb 20 14:35:54 +0000 2007",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "Your official source for news, updates and tips from Twitter, Inc.\n\n\nNeed help? Visit http://t.co/qq1HEzvnrA.",
+            "entities": {
+                "description": {
+                    "urls": [
+                        {
+                            "display_url": "support.twitter.com",
+                            "expanded_url": "http://support.twitter.com",
+                            "indices": [
+                                86,
+                                108
+                            ],
+                            "url": "http://t.co/qq1HEzvnrA"
+                        }
+                    ]
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "blog.twitter.com",
+                            "expanded_url": "http://blog.twitter.com/",
+                            "indices": [
+                                0,
+                                22
+                            ],
+                            "url": "http://t.co/5iRhy7wTgu"
+                        }
+                    ]
+                }
+            },
+            "favourites_count": 127,
+            "follow_request_sent": false,
+            "followers_count": 48676081,
+            "following": true,
+            "friends_count": 141,
+            "geo_enabled": true,
+            "has_extended_profile": false,
+            "id": 783214,
+            "id_str": "783214",
+            "is_translation_enabled": false,
+            "is_translator": false,
+            "lang": "en",
+            "listed_count": 88955,
+            "location": "San Francisco, CA",
+            "name": "Twitter",
+            "notifications": false,
+            "profile_background_color": "ACDED6",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/657090062/l1uqey5sy82r9ijhke1i.png",
+            "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/657090062/l1uqey5sy82r9ijhke1i.png",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/783214/1449510861",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/666407537084796928/YBGgi9BO_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/666407537084796928/YBGgi9BO_normal.png",
+            "profile_link_color": "226699",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "F6F6F6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "twitter",
+            "statuses_count": 2270,
+            "time_zone": "Pacific Time (US & Canada)",
+            "url": "http://t.co/5iRhy7wTgu",
+            "utc_offset": -28800,
+            "verified": true
+        }
+    },
+    "quoted_status_id": 673882166980284416,
+    "quoted_status_id_str": "673882166980284416",
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@Twitter has changed photo experience! Pretty exciting change. #socialmedia #contentmarketing  https://t.co/vPP4wLX5hj",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Dec 30 19:10:54 +0000 2008",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "UTEP Alumna | Storyteller | Truth seeker | All I need is a little bit of coffee and a whole lot of Jesus | Content Marketer for @SimpleMovers",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "flickr.com/photos/bea_cas\u2026",
+                        "expanded_url": "http://www.flickr.com/photos/bea_castaneda/",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/QmFcCaop6t"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 697,
+        "follow_request_sent": false,
+        "followers_count": 230,
+        "following": false,
+        "friends_count": 320,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 18484971,
+        "id_str": "18484971",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 4,
+        "location": "Dallas, Tx",
+        "name": "Beatriz Casta\u00f1eda",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/18484971/1428634781",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/673894834298470400/AG9ZXkXO_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/673894834298470400/AG9ZXkXO_normal.jpg",
+        "profile_link_color": "9266CC",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "Bea_Castaneda",
+        "statuses_count": 4806,
+        "time_zone": "Central Time (US & Canada)",
+        "url": "https://t.co/QmFcCaop6t",
+        "utc_offset": -21600,
+        "verified": false
+    }
+}

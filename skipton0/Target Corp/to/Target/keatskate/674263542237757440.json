@@ -1,0 +1,162 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 08 16:25:30 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "media": [
+            {
+                "display_url": "pic.twitter.com/MjoYlUQbZV",
+                "expanded_url": "http://twitter.com/keatskate/status/674263542237757440/photo/1",
+                "id": 674263542023913473,
+                "id_str": "674263542023913473",
+                "indices": [
+                    84,
+                    107
+                ],
+                "media_url": "http://pbs.twimg.com/media/CVt3HntVAAEYd_x.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/CVt3HntVAAEYd_x.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 1024,
+                        "resize": "fit",
+                        "w": 575
+                    },
+                    "medium": {
+                        "h": 1024,
+                        "resize": "fit",
+                        "w": 575
+                    },
+                    "small": {
+                        "h": 605,
+                        "resize": "fit",
+                        "w": 340
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/MjoYlUQbZV"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 89084561,
+                "id_str": "89084561",
+                "indices": [
+                    0,
+                    7
+                ],
+                "name": "Target",
+                "screen_name": "Target"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 674263542237757440,
+    "id_str": "674263542237757440",
+    "in_reply_to_screen_name": "Target",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 89084561,
+    "in_reply_to_user_id_str": "89084561",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -93.27598571777344,
+                        44.973117164225506
+                    ],
+                    [
+                        -93.27598571777344,
+                        44.973117164225506
+                    ],
+                    [
+                        -93.27598571777344,
+                        44.973117164225506
+                    ],
+                    [
+                        -93.27598571777344,
+                        44.973117164225506
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Target HQ - Target Plaza South",
+        "id": "07d9e3c206c81004",
+        "name": "Target HQ - Target Plaza South",
+        "place_type": "poi",
+        "url": "https://api.twitter.com/1.1/geo/id/07d9e3c206c81004.json"
+    },
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@Target.  Spot on meeting this morning with Targeting Marketing &amp; social teams. https://t.co/MjoYlUQbZV",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Feb 19 21:03:30 +0000 2012",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "an optimist sees the opportunity in every difficulty - Winston Churchill",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 7,
+        "follow_request_sent": false,
+        "followers_count": 57,
+        "following": false,
+        "friends_count": 131,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 497306889,
+        "id_str": "497306889",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 1,
+        "location": "",
+        "name": "John Murphy",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1839220800/IMG_4028_normal.JPG",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1839220800/IMG_4028_normal.JPG",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "keatskate",
+        "statuses_count": 387,
+        "time_zone": "Eastern Time (US & Canada)",
+        "url": null,
+        "utc_offset": -18000,
+        "verified": false
+    }
+}

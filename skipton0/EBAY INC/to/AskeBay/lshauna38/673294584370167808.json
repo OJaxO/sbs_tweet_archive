@@ -1,0 +1,123 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Dec 06 00:15:12 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 430158505,
+                "id_str": "430158505",
+                "indices": [
+                    0,
+                    8
+                ],
+                "name": "Ask eBay",
+                "screen_name": "AskeBay"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 673294584370167808,
+    "id_str": "673294584370167808",
+    "in_reply_to_screen_name": "AskeBay",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 430158505,
+    "in_reply_to_user_id_str": "430158505",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -91.655009,
+                        30.146096
+                    ],
+                    [
+                        -88.097889,
+                        30.146096
+                    ],
+                    [
+                        -88.097889,
+                        34.995968
+                    ],
+                    [
+                        -91.655009,
+                        34.995968
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Mississippi, USA",
+        "id": "43d2418301bf1a49",
+        "name": "Mississippi",
+        "place_type": "admin",
+        "url": "https://api.twitter.com/1.1/geo/id/43d2418301bf1a49.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@AskeBay eBay App is not loading pictures to listings correctly. \nI listed 2 hrs ago &amp; pics still not loaded. Thanks",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Dec 22 01:21:26 +0000 2008",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "I enjoy reading the WORD & 1001 PROMISES, Meeting New People, A BIG TECH-GEEK and BLESSING OTHERS. #SHOPPING, SHOPPING & MORE SHOPPING.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 134,
+        "follow_request_sent": false,
+        "followers_count": 66,
+        "following": false,
+        "friends_count": 384,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 18297276,
+        "id_str": "18297276",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 0,
+        "location": "In The Sippi",
+        "name": "Leshauna L.",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme19/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme19/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/612579580415586306/1BIbaWK-_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/612579580415586306/1BIbaWK-_normal.jpg",
+        "profile_link_color": "4A913C",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "lshauna38",
+        "statuses_count": 683,
+        "time_zone": "Central Time (US & Canada)",
+        "url": null,
+        "utc_offset": -21600,
+        "verified": false
+    }
+}

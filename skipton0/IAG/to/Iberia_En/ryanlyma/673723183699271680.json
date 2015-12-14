@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 07 04:38:18 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 142608485,
+                "id_str": "142608485",
+                "indices": [
+                    0,
+                    10
+                ],
+                "name": "Iberia English",
+                "screen_name": "Iberia_en"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 673723183699271680,
+    "id_str": "673723183699271680",
+    "in_reply_to_screen_name": "Iberia_en",
+    "in_reply_to_status_id": 673722629929480192,
+    "in_reply_to_status_id_str": "673722629929480192",
+    "in_reply_to_user_id": 142608485,
+    "in_reply_to_user_id_str": "142608485",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -71.191505,
+                        42.227797
+                    ],
+                    [
+                        -70.986004,
+                        42.227797
+                    ],
+                    [
+                        -70.986004,
+                        42.399542
+                    ],
+                    [
+                        -71.191505,
+                        42.399542
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Boston, MA",
+        "id": "67b98f17fdcf20be",
+        "name": "Boston",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/67b98f17fdcf20be.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@Iberia_en I bought it with AA, but both flights are operated by IB.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Jan 12 04:25:50 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Marketing @neuscout, Design @northeastern. Previously interned at @Facebook and @Pillpack.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "ryan.ma",
+                        "expanded_url": "http://ryan.ma",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/wdQZoTEWch"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 149,
+        "follow_request_sent": false,
+        "followers_count": 305,
+        "following": false,
+        "friends_count": 645,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 237133730,
+        "id_str": "237133730",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 12,
+        "location": "Boston",
+        "name": "Ryan Ma",
+        "notifications": false,
+        "profile_background_color": "AAAAAA",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/504802673678229504/9yy2hOZn.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/504802673678229504/9yy2hOZn.jpeg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/237133730/1442942258",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/646372636319027200/6dVuH6NJ_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/646372636319027200/6dVuH6NJ_normal.jpg",
+        "profile_link_color": "ABB8C2",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "FFFFFF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "ryanlyma",
+        "statuses_count": 1499,
+        "time_zone": "Eastern Time (US & Canada)",
+        "url": "http://t.co/wdQZoTEWch",
+        "utc_offset": -18000,
+        "verified": false
+    }
+}

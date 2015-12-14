@@ -1,0 +1,194 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 07 18:35:48 +0000 2015",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    46,
+                    53
+                ],
+                "text": "Photos"
+            }
+        ],
+        "media": [
+            {
+                "display_url": "pic.twitter.com/Fxy4DEFPLV",
+                "expanded_url": "http://twitter.com/obeymarketing/status/673933946518810624/photo/1",
+                "id": 673933946124505088,
+                "id_str": "673933946124505088",
+                "indices": [
+                    95,
+                    118
+                ],
+                "media_url": "http://pbs.twimg.com/media/CVpLWnTUEAAdumD.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/CVpLWnTUEAAdumD.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 450,
+                        "resize": "fit",
+                        "w": 800
+                    },
+                    "medium": {
+                        "h": 337,
+                        "resize": "fit",
+                        "w": 600
+                    },
+                    "small": {
+                        "h": 191,
+                        "resize": "fit",
+                        "w": 340
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/Fxy4DEFPLV"
+            }
+        ],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "obeymarketinggroup.com/twitter-is-now\u2026",
+                "expanded_url": "http://obeymarketinggroup.com/twitter-is-now-displaying-fuller-versions-of-photos-in-your-web-feed/",
+                "indices": [
+                    71,
+                    94
+                ],
+                "url": "https://t.co/SlJ7ISYzyx"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 783214,
+                "id_str": "783214",
+                "indices": [
+                    0,
+                    8
+                ],
+                "name": "Twitter",
+                "screen_name": "twitter"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 673933946518810624,
+    "id_str": "673933946518810624",
+    "in_reply_to_screen_name": "twitter",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 783214,
+    "in_reply_to_user_id_str": "783214",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -115.384091,
+                        36.129459
+                    ],
+                    [
+                        -115.062159,
+                        36.129459
+                    ],
+                    [
+                        -115.062159,
+                        36.336251
+                    ],
+                    [
+                        -115.384091,
+                        36.336251
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Las Vegas, NV",
+        "id": "5c2b5e46ab891f07",
+        "name": "Las Vegas",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/5c2b5e46ab891f07.json"
+    },
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@Twitter Is Now Displaying Fuller Versions Of #Photos In Your Web Feed https://t.co/SlJ7ISYzyx https://t.co/Fxy4DEFPLV",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Oct 05 20:02:20 +0000 2014",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "OBEY Marketing is an #InboundMarketing Agency. What does that mean? We listen. We create. We measure.\nphone: (702) 489- 5010\nmail: info@obey.vegas",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "obey.vegas",
+                        "expanded_url": "http://www.obey.vegas",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/QbgSld18c9"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 318,
+        "follow_request_sent": false,
+        "followers_count": 1058,
+        "following": false,
+        "friends_count": 1850,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 2808953475,
+        "id_str": "2808953475",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 151,
+        "location": "Las Vegas, NV",
+        "name": "Obey Marketing Group",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2808953475/1437798587",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/624789046288474112/216gwYjV_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/624789046288474112/216gwYjV_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "obeymarketing",
+        "statuses_count": 817,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "http://t.co/QbgSld18c9",
+        "utc_offset": -28800,
+        "verified": false
+    }
+}

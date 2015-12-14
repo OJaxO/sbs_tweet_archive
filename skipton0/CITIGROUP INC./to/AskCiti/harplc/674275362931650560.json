@@ -1,0 +1,163 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 08 17:12:28 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "media": [
+            {
+                "display_url": "pic.twitter.com/tOo2EzY75o",
+                "expanded_url": "http://twitter.com/harplc/status/674275362931650560/photo/1",
+                "id": 674275356698918912,
+                "id_str": "674275356698918912",
+                "indices": [
+                    86,
+                    109
+                ],
+                "media_url": "http://pbs.twimg.com/media/CVuB3UzWwAA9ELA.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/CVuB3UzWwAA9ELA.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 768,
+                        "resize": "fit",
+                        "w": 1024
+                    },
+                    "medium": {
+                        "h": 450,
+                        "resize": "fit",
+                        "w": 600
+                    },
+                    "small": {
+                        "h": 255,
+                        "resize": "fit",
+                        "w": 340
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/tOo2EzY75o"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 82151473,
+                "id_str": "82151473",
+                "indices": [
+                    0,
+                    8
+                ],
+                "name": "Citi",
+                "screen_name": "AskCiti"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 674275362931650560,
+    "id_str": "674275362931650560",
+    "in_reply_to_screen_name": "AskCiti",
+    "in_reply_to_status_id": 674275120786067456,
+    "in_reply_to_status_id_str": "674275120786067456",
+    "in_reply_to_user_id": 82151473,
+    "in_reply_to_user_id_str": "82151473",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -43.795449,
+                        -23.08302
+                    ],
+                    [
+                        -43.0877068,
+                        -23.08302
+                    ],
+                    [
+                        -43.0877068,
+                        -22.7398234
+                    ],
+                    [
+                        -43.795449,
+                        -22.7398234
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "Brasil",
+        "country_code": "BR",
+        "full_name": "Rio de Janeiro, Brasil",
+        "id": "97bcdfca1a2dca59",
+        "name": "Rio de Janeiro",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/97bcdfca1a2dca59.json"
+    },
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@AskCiti my son is sleeping right now. Can u call me in 3 hours? I'll send my number. https://t.co/tOo2EzY75o",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Dec 26 21:16:01 +0000 2013",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "fuck milk.. got beer?",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 98,
+        "follow_request_sent": false,
+        "followers_count": 9246,
+        "following": false,
+        "friends_count": 127,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 2263341506,
+        "id_str": "2263341506",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 17,
+        "location": "",
+        "name": "ralph | \uf8ff",
+        "notifications": false,
+        "profile_background_color": "3B94D9",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2263341506/1437370870",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/666348566819053570/Zq9IS4X7_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/666348566819053570/Zq9IS4X7_normal.jpg",
+        "profile_link_color": "DD2E44",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "harplc",
+        "statuses_count": 7748,
+        "time_zone": "Brasilia",
+        "url": null,
+        "utc_offset": -7200,
+        "verified": false
+    }
+}

@@ -1,0 +1,307 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 07 14:08:08 +0000 2015",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    43,
+                    47
+                ],
+                "text": "lpg"
+            },
+            {
+                "indices": [
+                    48,
+                    60
+                ],
+                "text": "cleanenergy"
+            }
+        ],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/RobDoby/status\u2026",
+                "expanded_url": "https://twitter.com/RobDoby/status/672887433705336832",
+                "indices": [
+                    61,
+                    84
+                ],
+                "url": "https://t.co/w9AbAbsGmD"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 158129535,
+                "id_str": "158129535",
+                "indices": [
+                    0,
+                    4
+                ],
+                "name": "UPS",
+                "screen_name": "UPS"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 673866587586342913,
+    "id_str": "673866587586342913",
+    "in_reply_to_screen_name": "UPS",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 158129535,
+    "in_reply_to_user_id_str": "158129535",
+    "is_quote_status": true,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": null,
+    "possibly_sensitive": false,
+    "quoted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Fri Dec 04 21:17:20 +0000 2015",
+        "entities": {
+            "hashtags": [],
+            "media": [
+                {
+                    "display_url": "pic.twitter.com/1c7bx2gZSf",
+                    "expanded_url": "http://twitter.com/RobDoby/status/672887433705336832/photo/1",
+                    "id": 672887280185434112,
+                    "id_str": "672887280185434112",
+                    "indices": [
+                        31,
+                        54
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/CVaTao1U4AAmWya.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/CVaTao1U4AAmWya.jpg",
+                    "sizes": {
+                        "large": {
+                            "h": 576,
+                            "resize": "fit",
+                            "w": 1024
+                        },
+                        "medium": {
+                            "h": 337,
+                            "resize": "fit",
+                            "w": 600
+                        },
+                        "small": {
+                            "h": 191,
+                            "resize": "fit",
+                            "w": 340
+                        },
+                        "thumb": {
+                            "h": 150,
+                            "resize": "crop",
+                            "w": 150
+                        }
+                    },
+                    "type": "photo",
+                    "url": "https://t.co/1c7bx2gZSf"
+                }
+            ],
+            "symbols": [],
+            "urls": [],
+            "user_mentions": []
+        },
+        "favorite_count": 1,
+        "favorited": false,
+        "geo": null,
+        "id": 672887433705336832,
+        "id_str": "672887433705336832",
+        "in_reply_to_screen_name": null,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "is_quote_status": false,
+        "lang": "en",
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "place": {
+            "attributes": {},
+            "bounding_box": {
+                "coordinates": [
+                    [
+                        [
+                            -106.645646,
+                            25.837092
+                        ],
+                        [
+                            -93.508131,
+                            25.837092
+                        ],
+                        [
+                            -93.508131,
+                            36.500695
+                        ],
+                        [
+                            -106.645646,
+                            36.500695
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "contained_within": [],
+            "country": "United States",
+            "country_code": "US",
+            "full_name": "Texas, USA",
+            "id": "e0060cda70f5f341",
+            "name": "Texas",
+            "place_type": "admin",
+            "url": "https://api.twitter.com/1.1/geo/id/e0060cda70f5f341.json"
+        },
+        "possibly_sensitive": false,
+        "retweet_count": 0,
+        "retweeted": false,
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "text": "Brown Santa! Propane delivers! https://t.co/1c7bx2gZSf",
+        "truncated": false,
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Tue Oct 16 12:32:14 +0000 2012",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "CEO https://t.co/Q0BAZphzpJ - A & D Propane, Inc. - started via crowdfunding in 2003 with only $100 in the bank! 3 locations & expanding fast! #Propane",
+            "entities": {
+                "description": {
+                    "urls": [
+                        {
+                            "display_url": "PropaneExchange.com",
+                            "expanded_url": "http://PropaneExchange.com",
+                            "indices": [
+                                4,
+                                27
+                            ],
+                            "url": "https://t.co/Q0BAZphzpJ"
+                        }
+                    ]
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "propane.us",
+                            "expanded_url": "http://www.propane.us",
+                            "indices": [
+                                0,
+                                23
+                            ],
+                            "url": "https://t.co/keZYQ9B8h7"
+                        }
+                    ]
+                }
+            },
+            "favourites_count": 270,
+            "follow_request_sent": false,
+            "followers_count": 303,
+            "following": false,
+            "friends_count": 58,
+            "geo_enabled": true,
+            "has_extended_profile": false,
+            "id": 884351401,
+            "id_str": "884351401",
+            "is_translation_enabled": false,
+            "is_translator": false,
+            "lang": "en",
+            "listed_count": 21,
+            "location": "H-Town, Tx, Texas, Houston",
+            "name": "Robert Dobyns",
+            "notifications": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/884351401/1389315784",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/378800000748775423/5d9983ee8f675982ba59368cc1290213_normal.jpeg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000748775423/5d9983ee8f675982ba59368cc1290213_normal.jpeg",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "RobDoby",
+            "statuses_count": 1042,
+            "time_zone": "Central Time (US & Canada)",
+            "url": "https://t.co/keZYQ9B8h7",
+            "utc_offset": -21600,
+            "verified": false
+        }
+    },
+    "quoted_status_id": 672887433705336832,
+    "quoted_status_id_str": "672887433705336832",
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+    "text": "@UPS runs propane powered delivery trucks! #lpg #cleanenergy https://t.co/w9AbAbsGmD",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Jun 14 15:25:41 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Tarantin Industries is a full line wholesale distributor of propane, natural gas equipment, tanks, hearth products and grills.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "tarantin.com",
+                        "expanded_url": "http://www.tarantin.com",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/D8lKBCHG1v"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 45,
+        "follow_request_sent": false,
+        "followers_count": 112,
+        "following": false,
+        "friends_count": 185,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 317187712,
+        "id_str": "317187712",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 4,
+        "location": "Freehold, NJ 07728",
+        "name": "Tarantin Industries",
+        "notifications": false,
+        "profile_background_color": "0084B4",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/885628367/e527bd18f317a2da70a1978294fe1571.gif",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/885628367/e527bd18f317a2da70a1978294fe1571.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/317187712/1447339848",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/512235108988764160/KntfFJ3N_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/512235108988764160/KntfFJ3N_normal.png",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "TarantinInd",
+        "statuses_count": 357,
+        "time_zone": "Quito",
+        "url": "http://t.co/D8lKBCHG1v",
+        "utc_offset": -18000,
+        "verified": false
+    }
+}

@@ -1,0 +1,152 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 07 19:44:53 +0000 2015",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    85,
+                    91
+                ],
+                "text": "Irony"
+            },
+            {
+                "indices": [
+                    93,
+                    108
+                ],
+                "text": "HackAHairDryer"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 18994444,
+                "id_str": "18994444",
+                "indices": [
+                    0,
+                    4
+                ],
+                "name": "IBM",
+                "screen_name": "IBM"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 673951330797543425,
+    "id_str": "673951330797543425",
+    "in_reply_to_screen_name": "IBM",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 18994444,
+    "in_reply_to_user_id_str": "18994444",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -10.2254601,
+                        51.4192154
+                    ],
+                    [
+                        -7.8419121,
+                        51.4192154
+                    ],
+                    [
+                        -7.8419121,
+                        52.388492
+                    ],
+                    [
+                        -10.2254601,
+                        52.388492
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "Ireland",
+        "country_code": "IE",
+        "full_name": "Cork, Ireland",
+        "id": "c500c6f8494a90ac",
+        "name": "Cork",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/c500c6f8494a90ac.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@IBM Thanks for speaking to women in the only way we understand. Beauty and fashion. #Irony  #HackAHairDryer",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Jun 08 18:48:35 +0000 2013",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "International Development student @ UCC. Social Issues Activist. Webmaster of UCC IntDev Society. Cork.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "instagram.com/porridgeoatz",
+                        "expanded_url": "http://instagram.com/porridgeoatz",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/H8VPC3gw4N"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 1144,
+        "follow_request_sent": false,
+        "followers_count": 197,
+        "following": false,
+        "friends_count": 524,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 1493616174,
+        "id_str": "1493616174",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 3,
+        "location": "Ireland",
+        "name": "Maria Flavin",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1493616174/1433453728",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/663150382009491456/aFUSZSUk_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/663150382009491456/aFUSZSUk_normal.jpg",
+        "profile_link_color": "3B94D9",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "MariaKateFlavin",
+        "statuses_count": 684,
+        "time_zone": null,
+        "url": "https://t.co/H8VPC3gw4N",
+        "utc_offset": null,
+        "verified": false
+    }
+}

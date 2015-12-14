@@ -1,0 +1,124 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 07 12:26:11 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 258719649,
+                "id_str": "258719649",
+                "indices": [
+                    0,
+                    13
+                ],
+                "name": "TalkTalk",
+                "screen_name": "TalkTalkCare"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 673840930080735233,
+    "id_str": "673840930080735233",
+    "in_reply_to_screen_name": "TalkTalkCare",
+    "in_reply_to_status_id": 673838919407017985,
+    "in_reply_to_status_id_str": "673838919407017985",
+    "in_reply_to_user_id": 258719649,
+    "in_reply_to_user_id_str": "258719649",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -4.097243,
+                        51.686618
+                    ],
+                    [
+                        -4.072721,
+                        51.686618
+                    ],
+                    [
+                        -4.072721,
+                        51.706715
+                    ],
+                    [
+                        -4.097243,
+                        51.706715
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United Kingdom",
+        "country_code": "GB",
+        "full_name": "Llangennech, Wales",
+        "id": "7670b277e73fb3f3",
+        "name": "Llangennech",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/7670b277e73fb3f3.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@TalkTalkCare it's fixed now. Internet service went down for 45 minutes. Lots of your customers locally were affected.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Nov 28 22:56:14 +0000 2008",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "I like Dessert, and Curry. (**Opinions are my own**)",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 599,
+        "follow_request_sent": false,
+        "followers_count": 140,
+        "following": false,
+        "friends_count": 295,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 17722087,
+        "id_str": "17722087",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 3,
+        "location": "Llangennech",
+        "name": "Yeederbaall",
+        "notifications": false,
+        "profile_background_color": "9AE4E8",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/392648128/800px-Magers_League_Rugby_Ball.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/392648128/800px-Magers_League_Rugby_Ball.jpg",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/17722087/1443957274",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/650630037553680384/3TjEKP8H_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/650630037553680384/3TjEKP8H_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "BDDCAD",
+        "profile_sidebar_fill_color": "DDFFCC",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Yeederbaall",
+        "statuses_count": 7555,
+        "time_zone": "London",
+        "url": null,
+        "utc_offset": 0,
+        "verified": false
+    }
+}

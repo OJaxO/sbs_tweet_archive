@@ -1,0 +1,171 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 08 21:25:09 +0000 2015",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    35,
+                    60
+                ],
+                "text": "AmazonHolidaySweepstakes"
+            }
+        ],
+        "media": [
+            {
+                "display_url": "pic.twitter.com/LDhGI32Qi2",
+                "expanded_url": "http://twitter.com/nicbran74/status/674338951075905536/photo/1",
+                "id": 674338930062299136,
+                "id_str": "674338930062299136",
+                "indices": [
+                    61,
+                    84
+                ],
+                "media_url": "http://pbs.twimg.com/media/CVu7ryCUkAAUJSV.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/CVu7ryCUkAAUJSV.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 1024,
+                        "resize": "fit",
+                        "w": 768
+                    },
+                    "medium": {
+                        "h": 800,
+                        "resize": "fit",
+                        "w": 600
+                    },
+                    "small": {
+                        "h": 453,
+                        "resize": "fit",
+                        "w": 340
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/LDhGI32Qi2"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 20793816,
+                "id_str": "20793816",
+                "indices": [
+                    0,
+                    7
+                ],
+                "name": "Amazon",
+                "screen_name": "amazon"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 674338951075905536,
+    "id_str": "674338951075905536",
+    "in_reply_to_screen_name": "amazon",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 20793816,
+    "in_reply_to_user_id_str": "20793816",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -73.727776,
+                        40.950918
+                    ],
+                    [
+                        -71.786994,
+                        40.950918
+                    ],
+                    [
+                        -71.786994,
+                        42.050588
+                    ],
+                    [
+                        -73.727776,
+                        42.050588
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Connecticut, USA",
+        "id": "e86b380cfefcced5",
+        "name": "Connecticut",
+        "place_type": "admin",
+        "url": "https://api.twitter.com/1.1/geo/id/e86b380cfefcced5.json"
+    },
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@amazon visit to Santa's Village!  #AmazonHolidaySweepstakes https://t.co/LDhGI32Qi2",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Nov 16 04:21:35 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "CEO of my house of boys! Love to chat about everything even though nobody listens! :-)",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 45651,
+        "follow_request_sent": false,
+        "followers_count": 1464,
+        "following": false,
+        "friends_count": 2187,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 90322693,
+        "id_str": "90322693",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 54,
+        "location": "",
+        "name": "Nicole",
+        "notifications": false,
+        "profile_background_color": "FF6699",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/833304338/7153052adda6f84e40033c7e38dbbc4c.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/833304338/7153052adda6f84e40033c7e38dbbc4c.jpeg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/90322693/1445737061",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/666055500681895937/9vEgy6bd_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/666055500681895937/9vEgy6bd_normal.jpg",
+        "profile_link_color": "B40B43",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "E5507E",
+        "profile_text_color": "362720",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "nicbran74",
+        "statuses_count": 75673,
+        "time_zone": "Eastern Time (US & Canada)",
+        "url": null,
+        "utc_offset": -18000,
+        "verified": false
+    }
+}

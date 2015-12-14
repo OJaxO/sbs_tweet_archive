@@ -1,0 +1,162 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 07 01:27:14 +0000 2015",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    49,
+                    57
+                ],
+                "text": "AppleTV"
+            },
+            {
+                "indices": [
+                    58,
+                    65
+                ],
+                "text": "HBONOW"
+            }
+        ],
+        "media": [
+            {
+                "display_url": "pic.twitter.com/DwgI5xRv1N",
+                "expanded_url": "http://twitter.com/AppStore/status/673674790239141888/photo/1",
+                "id": 673674790109118467,
+                "id_str": "673674790109118467",
+                "indices": [
+                    66,
+                    89
+                ],
+                "media_url": "http://pbs.twimg.com/media/CVlfpv6XAAMnOMA.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/CVlfpv6XAAMnOMA.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 583,
+                        "resize": "fit",
+                        "w": 1024
+                    },
+                    "medium": {
+                        "h": 341,
+                        "resize": "fit",
+                        "w": 600
+                    },
+                    "small": {
+                        "h": 193,
+                        "resize": "fit",
+                        "w": 340
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "source_status_id": 673674790239141888,
+                "source_status_id_str": "673674790239141888",
+                "source_user_id": 74594552,
+                "source_user_id_str": "74594552",
+                "type": "photo",
+                "url": "https://t.co/DwgI5xRv1N"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 74594552,
+                "id_str": "74594552",
+                "indices": [
+                    1,
+                    10
+                ],
+                "name": "App Store",
+                "screen_name": "AppStore"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 673675099279482880,
+    "id_str": "673675099279482880",
+    "in_reply_to_screen_name": "AppStore",
+    "in_reply_to_status_id": 673674790239141888,
+    "in_reply_to_status_id_str": "673674790239141888",
+    "in_reply_to_user_id": 74594552,
+    "in_reply_to_user_id_str": "74594552",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "text": "\u201c@AppStore: \"Siri, let's watch Game of Thrones.\" #AppleTV #HBONOW https://t.co/DwgI5xRv1N\u201d",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Mar 29 04:42:38 +0000 2008",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Respekt! check out my podcast Founder of TechWebCast.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "bradsblog.org",
+                        "expanded_url": "http://www.bradsblog.org/",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/gWC2DmECH1"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 14867,
+        "follow_request_sent": false,
+        "followers_count": 1764,
+        "following": false,
+        "friends_count": 1949,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 14249335,
+        "id_str": "14249335",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 192,
+        "location": "Melbourne Australia",
+        "name": "Brad",
+        "notifications": false,
+        "profile_background_color": "232626",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/14249335/1388734754",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1227636841/image_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1227636841/image_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "BDDCAD",
+        "profile_sidebar_fill_color": "CDD4C9",
+        "profile_text_color": "333333",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "bradaus",
+        "statuses_count": 146467,
+        "time_zone": "Melbourne",
+        "url": "http://t.co/gWC2DmECH1",
+        "utc_offset": 39600,
+        "verified": false
+    }
+}

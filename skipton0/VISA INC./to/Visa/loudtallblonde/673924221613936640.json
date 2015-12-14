@@ -1,0 +1,277 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 07 17:57:09 +0000 2015",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    85,
+                    95
+                ],
+                "text": "marketing"
+            },
+            {
+                "indices": [
+                    96,
+                    108
+                ],
+                "text": "advertising"
+            }
+        ],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/VisaNews/statu\u2026",
+                "expanded_url": "https://twitter.com/VisaNews/status/672928865703055360",
+                "indices": [
+                    109,
+                    132
+                ],
+                "url": "https://t.co/HDVzbB1C8Z"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 551373363,
+                "id_str": "551373363",
+                "indices": [
+                    0,
+                    5
+                ],
+                "name": "Visa",
+                "screen_name": "Visa"
+            },
+            {
+                "id": 7410282,
+                "id_str": "7410282",
+                "indices": [
+                    16,
+                    28
+                ],
+                "name": "T3 (The Think Tank)",
+                "screen_name": "T3thinktank"
+            }
+        ]
+    },
+    "favorite_count": 3,
+    "favorited": false,
+    "geo": null,
+    "id": 673924221613936640,
+    "id_str": "673924221613936640",
+    "in_reply_to_screen_name": "Visa",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 551373363,
+    "in_reply_to_user_id_str": "551373363",
+    "is_quote_status": true,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": null,
+    "possibly_sensitive": false,
+    "quoted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Sat Dec 05 00:01:58 +0000 2015",
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "urls": [
+                {
+                    "display_url": "vi.sa/1NMJAXs",
+                    "expanded_url": "http://vi.sa/1NMJAXs",
+                    "indices": [
+                        78,
+                        101
+                    ],
+                    "url": "https://t.co/eiXqBrWrPv"
+                }
+            ],
+            "user_mentions": [
+                {
+                    "id": 7410282,
+                    "id_str": "7410282",
+                    "indices": [
+                        38,
+                        50
+                    ],
+                    "name": "T3 (The Think Tank)",
+                    "screen_name": "T3thinktank"
+                }
+            ]
+        },
+        "favorite_count": 8,
+        "favorited": false,
+        "geo": null,
+        "id": 672928865703055360,
+        "id_str": "672928865703055360",
+        "in_reply_to_screen_name": null,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "is_quote_status": false,
+        "lang": "en",
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "place": {
+            "attributes": {},
+            "bounding_box": {
+                "coordinates": [
+                    [
+                        [
+                            -122.514926,
+                            37.708075
+                        ],
+                        [
+                            -122.357031,
+                            37.708075
+                        ],
+                        [
+                            -122.357031,
+                            37.833238
+                        ],
+                        [
+                            -122.514926,
+                            37.833238
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "contained_within": [],
+            "country": "United States",
+            "country_code": "US",
+            "full_name": "San Francisco, CA",
+            "id": "5a110d312052166f",
+            "name": "San Francisco",
+            "place_type": "city",
+            "url": "https://api.twitter.com/1.1/geo/id/5a110d312052166f.json"
+        },
+        "possibly_sensitive": false,
+        "retweet_count": 8,
+        "retweeted": false,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": "Visa is honored to be in the top 5 of @T3thinktank's Useful Brand 100 report: https://t.co/eiXqBrWrPv",
+        "truncated": false,
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Wed Jun 01 20:59:22 +0000 2011",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "Company news and commentary from the official @Visa Corporate Social Media team. #LifeAtVisa",
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "visacorporate.tumblr.com",
+                            "expanded_url": "http://visacorporate.tumblr.com/",
+                            "indices": [
+                                0,
+                                22
+                            ],
+                            "url": "http://t.co/1htqcF4TPv"
+                        }
+                    ]
+                }
+            },
+            "favourites_count": 464,
+            "follow_request_sent": false,
+            "followers_count": 67715,
+            "following": false,
+            "friends_count": 2335,
+            "geo_enabled": true,
+            "has_extended_profile": false,
+            "id": 309285803,
+            "id_str": "309285803",
+            "is_translation_enabled": false,
+            "is_translator": false,
+            "lang": "en",
+            "listed_count": 536,
+            "location": "San Francisco, CA",
+            "name": "VisaNews",
+            "notifications": false,
+            "profile_background_color": "FFFFFF",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/784030833/959a176ac676ea0a8f01e0d23ca469c3.jpeg",
+            "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/784030833/959a176ac676ea0a8f01e0d23ca469c3.jpeg",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/309285803/1426522739",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/423212694729003008/pysTROTb_normal.jpeg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/423212694729003008/pysTROTb_normal.jpeg",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "DFECF2",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "VisaNews",
+            "statuses_count": 3332,
+            "time_zone": "Pacific Time (US & Canada)",
+            "url": "http://t.co/1htqcF4TPv",
+            "utc_offset": -28800,
+            "verified": true
+        }
+    },
+    "quoted_status_id": 672928865703055360,
+    "quoted_status_id_str": "672928865703055360",
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@Visa loved our @T3thinktank Useful Brand Report. Did your company make the Top 100? #marketing #advertising https://t.co/HDVzbB1C8Z",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Feb 26 02:01:56 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "| Marketing @t3thinktank |\nI enjoy long walks on the Netflix, hanging out in the wine aisle, pretending I'm still an athlete, & designing my next blog-venture.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 1643,
+        "follow_request_sent": false,
+        "followers_count": 620,
+        "following": false,
+        "friends_count": 941,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 21955952,
+        "id_str": "21955952",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 9,
+        "location": "\u2022 ATX \u2022",
+        "name": "Morgan Hendrix",
+        "notifications": false,
+        "profile_background_color": "B2DFDA",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/703442726/f3d543fce1081ebfa78f17e103f7e348.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/703442726/f3d543fce1081ebfa78f17e103f7e348.jpeg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/21955952/1348425332",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/499031155560431617/wYHM3QLh_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/499031155560431617/wYHM3QLh_normal.jpeg",
+        "profile_link_color": "F013BC",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "FFFFFF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "loudtallblonde",
+        "statuses_count": 10654,
+        "time_zone": "Central Time (US & Canada)",
+        "url": null,
+        "utc_offset": -21600,
+        "verified": false
+    }
+}

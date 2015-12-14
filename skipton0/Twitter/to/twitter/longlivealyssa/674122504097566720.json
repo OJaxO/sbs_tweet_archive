@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 08 07:05:04 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 783214,
+                "id_str": "783214",
+                "indices": [
+                    0,
+                    8
+                ],
+                "name": "Twitter",
+                "screen_name": "twitter"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 674122504097566720,
+    "id_str": "674122504097566720",
+    "in_reply_to_screen_name": "twitter",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 783214,
+    "in_reply_to_user_id_str": "783214",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -124.482003,
+                        32.528832
+                    ],
+                    [
+                        -114.131212,
+                        32.528832
+                    ],
+                    [
+                        -114.131212,
+                        42.009519
+                    ],
+                    [
+                        -124.482003,
+                        42.009519
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "California, USA",
+        "id": "fbd6d2f5a4e4a15e",
+        "name": "California",
+        "place_type": "admin",
+        "url": "https://api.twitter.com/1.1/geo/id/fbd6d2f5a4e4a15e.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@twitter i cant open profiles on desktop mode please fix this.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Feb 29 06:45:01 +0000 2012",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Be a voice for the voiceless. Speak for the Children, Animals, and Trees.              \n\nMexican / Cherokee",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "Instagram.com/LongLiveAlyssa",
+                        "expanded_url": "http://Instagram.com/LongLiveAlyssa",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/qGm9uAkKqP"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 87181,
+        "follow_request_sent": false,
+        "followers_count": 7026,
+        "following": false,
+        "friends_count": 5265,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 508486838,
+        "id_str": "508486838",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 86,
+        "location": "\u2600Silly-con Valley, CA\u2600 ",
+        "name": "for the \u24e5oiceless",
+        "notifications": false,
+        "profile_background_color": "000303",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/777136497/e1c727654de8715bf4792ff7063f8beb.png",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/777136497/e1c727654de8715bf4792ff7063f8beb.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/508486838/1443484453",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/671084342941057024/Rs_gLoy5_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/671084342941057024/Rs_gLoy5_normal.jpg",
+        "profile_link_color": "94D487",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "95E8EC",
+        "profile_text_color": "3C3940",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "longlivealyssa",
+        "statuses_count": 121830,
+        "time_zone": "Central Time (US & Canada)",
+        "url": "https://t.co/qGm9uAkKqP",
+        "utc_offset": -21600,
+        "verified": false
+    }
+}

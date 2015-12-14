@@ -1,0 +1,144 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 07 22:46:02 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 78613092,
+                "id_str": "78613092",
+                "indices": [
+                    0,
+                    8
+                ],
+                "name": "Staples US",
+                "screen_name": "Staples"
+            },
+            {
+                "id": 66515223,
+                "id_str": "66515223",
+                "indices": [
+                    19,
+                    26
+                ],
+                "name": "iTunes",
+                "screen_name": "iTunes"
+            },
+            {
+                "id": 17193794,
+                "id_str": "17193794",
+                "indices": [
+                    41,
+                    44
+                ],
+                "name": "HP",
+                "screen_name": "HP"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 673996920944103424,
+    "id_str": "673996920944103424",
+    "in_reply_to_screen_name": "Staples",
+    "in_reply_to_status_id": 673996716153139200,
+    "in_reply_to_status_id_str": "673996716153139200",
+    "in_reply_to_user_id": 78613092,
+    "in_reply_to_user_id_str": "78613092",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -73.715895,
+                        40.7712344
+                    ],
+                    [
+                        -73.667433,
+                        40.7712344
+                    ],
+                    [
+                        -73.667433,
+                        40.803543
+                    ],
+                    [
+                        -73.715895,
+                        40.803543
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Manhasset, NY",
+        "id": "a6953c8c4e525219",
+        "name": "Manhasset",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/a6953c8c4e525219.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@Staples I have an @iTunes library on my @HP and I need it transferred to my MacBook",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Mar 22 19:01:46 +0000 2014",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "This is the Official Twitter account of The Rebel. Tweets are posted by The Rebel himself",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 6890,
+        "follow_request_sent": false,
+        "followers_count": 719,
+        "following": false,
+        "friends_count": 1333,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 2429413145,
+        "id_str": "2429413145",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 9,
+        "location": "The Seventh Circle of Hell",
+        "name": "The Rebel",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2429413145/1403200632",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/658767415174692864/K5ADMKUA_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/658767415174692864/K5ADMKUA_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "RockNRebl87",
+        "statuses_count": 21476,
+        "time_zone": null,
+        "url": null,
+        "utc_offset": null,
+        "verified": false
+    }
+}

@@ -1,0 +1,149 @@
+{
+    "contributors": null,
+    "coordinates": {
+        "coordinates": [
+            -6.11844955,
+            53.26753092
+        ],
+        "type": "Point"
+    },
+    "created_at": "Sun Dec 06 18:24:04 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 46640060,
+                "id_str": "46640060",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "Halfords",
+                "screen_name": "Halfords_uk"
+            }
+        ]
+    },
+    "favorite_count": 2,
+    "favorited": false,
+    "geo": {
+        "coordinates": [
+            53.26753092,
+            -6.11844955
+        ],
+        "type": "Point"
+    },
+    "id": 673568606454685696,
+    "id_str": "673568606454685696",
+    "in_reply_to_screen_name": "Halfords_uk",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 46640060,
+    "in_reply_to_user_id_str": "46640060",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -6.2820377,
+                        53.1992829
+                    ],
+                    [
+                        -6.0667589,
+                        53.1992829
+                    ],
+                    [
+                        -6.0667589,
+                        53.315283
+                    ],
+                    [
+                        -6.2820377,
+                        53.315283
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "Ireland",
+        "country_code": "IE",
+        "full_name": "Dun Laoghaire-Rathdown, Ireland",
+        "id": "723427e351a01e72",
+        "name": "Dun Laoghaire-Rathdown",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/723427e351a01e72.json"
+    },
+    "retweet_count": 1,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@Halfords_uk Carrickmines....... You guys are amazing, thanks for fitting wiper blades and bulbs. Great service \ud83d\ude04",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Dec 24 20:37:32 +0000 2014",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Kite Surfer, Mountain Biker, One Time Triathlete, Wannabe Iron Man, love all things digital.........and my darling Ossama & my fabulous kids.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "graboneescapes.ie",
+                        "expanded_url": "http://www.graboneescapes.ie",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/3xFQls0CL0"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 326,
+        "follow_request_sent": false,
+        "followers_count": 228,
+        "following": false,
+        "friends_count": 975,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 2939952795,
+        "id_str": "2939952795",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 4,
+        "location": "Dublin ",
+        "name": "Olivia Haikal Karrar",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2939952795/1444982990",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/658254765739155460/lCJGzMjd_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/658254765739155460/lCJGzMjd_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "BrophyOlivia",
+        "statuses_count": 341,
+        "time_zone": null,
+        "url": "http://t.co/3xFQls0CL0",
+        "utc_offset": null,
+        "verified": false
+    }
+}

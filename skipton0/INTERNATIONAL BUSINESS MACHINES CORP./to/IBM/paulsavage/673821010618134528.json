@@ -1,0 +1,156 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 07 11:07:02 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 18994444,
+                "id_str": "18994444",
+                "indices": [
+                    2,
+                    6
+                ],
+                "name": "IBM",
+                "screen_name": "IBM"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 673821010618134528,
+    "id_str": "673821010618134528",
+    "in_reply_to_screen_name": "IBM",
+    "in_reply_to_status_id": 672809095213113344,
+    "in_reply_to_status_id_str": "672809095213113344",
+    "in_reply_to_user_id": 18994444,
+    "in_reply_to_user_id_str": "18994444",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -71.093301,
+                        42.2042941
+                    ],
+                    [
+                        -70.949379,
+                        42.2042941
+                    ],
+                    [
+                        -70.949379,
+                        42.307954
+                    ],
+                    [
+                        -71.093301,
+                        42.307954
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Quincy, MA",
+        "id": "7948fec74f58e8cd",
+        "name": "Quincy",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/7948fec74f58e8cd.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": ". @IBM I would love to known who came up with this \"fantastic\" idea. And what they spent on the video. Idiots.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Oct 21 21:42:06 +0000 2008",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Irish. Programmer & IT consultant. Runs https://t.co/rRJwS1BHpN & https://t.co/zOHcsaTdTR & a few more! Working on @emailTrainercom",
+        "entities": {
+            "description": {
+                "urls": [
+                    {
+                        "display_url": "dogs.ie",
+                        "expanded_url": "https://dogs.ie",
+                        "indices": [
+                            40,
+                            63
+                        ],
+                        "url": "https://t.co/rRJwS1BHpN"
+                    },
+                    {
+                        "display_url": "VPN.ie",
+                        "expanded_url": "https://www.VPN.ie",
+                        "indices": [
+                            66,
+                            89
+                        ],
+                        "url": "https://t.co/zOHcsaTdTR"
+                    }
+                ]
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "blackdog.ie",
+                        "expanded_url": "http://blackdog.ie",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/Sq87vKqdBV"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 3188,
+        "follow_request_sent": false,
+        "followers_count": 2279,
+        "following": false,
+        "friends_count": 810,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 16894585,
+        "id_str": "16894585",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 218,
+        "location": "Boston",
+        "name": "Paul\u2b50\ufe0f",
+        "notifications": false,
+        "profile_background_color": "FFBA00",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000116408408/b1eeac70849a56c1c2f88d55ebcfdb41.png",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000116408408/b1eeac70849a56c1c2f88d55ebcfdb41.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/16894585/1399298750",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/378800000005798263/137db11954fa4a4f98fed911d20653e8_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000005798263/137db11954fa4a4f98fed911d20653e8_normal.jpeg",
+        "profile_link_color": "373F43",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DAECF4",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "paulsavage",
+        "statuses_count": 32964,
+        "time_zone": "Berlin",
+        "url": "https://t.co/Sq87vKqdBV",
+        "utc_offset": 3600,
+        "verified": false
+    }
+}

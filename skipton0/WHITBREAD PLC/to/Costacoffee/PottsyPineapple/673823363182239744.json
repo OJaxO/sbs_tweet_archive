@@ -1,0 +1,124 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 07 11:16:23 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 16696296,
+                "id_str": "16696296",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "Costa Coffee",
+                "screen_name": "CostaCoffee"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 673823363182239744,
+    "id_str": "673823363182239744",
+    "in_reply_to_screen_name": "CostaCoffee",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 16696296,
+    "in_reply_to_user_id_str": "16696296",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -1.457159,
+                        54.858506
+                    ],
+                    [
+                        -1.390099,
+                        54.858506
+                    ],
+                    [
+                        -1.390099,
+                        54.90471
+                    ],
+                    [
+                        -1.457159,
+                        54.90471
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United Kingdom",
+        "country_code": "GB",
+        "full_name": "Doxford Park, England",
+        "id": "413337d3bda70024",
+        "name": "Doxford Park",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/413337d3bda70024.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@CostaCoffee Hey, still haven't got my 300 points after spending over \u00a35 on the 27th?\nClub Card number is: 633780 96836 26216074 3, cheers.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Nov 15 03:28:47 +0000 2012",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "MMA & NBA & Football. 'Opportunity be knocking, gotta let that motherfucker in' Joanna J\u0119drzejczyk is bae. #FreeNickDiaz",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 5333,
+        "follow_request_sent": false,
+        "followers_count": 235,
+        "following": false,
+        "friends_count": 681,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 948984997,
+        "id_str": "948984997",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 4,
+        "location": "S'Land",
+        "name": "Stephen Potts",
+        "notifications": false,
+        "profile_background_color": "FF2265",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/514837054707228672/z2Ez3Btg.png",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/514837054707228672/z2Ez3Btg.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/948984997/1448112664",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/668139800659144704/O5OGo0ex_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/668139800659144704/O5OGo0ex_normal.jpg",
+        "profile_link_color": "9266CC",
+        "profile_sidebar_border_color": "4A4A4A",
+        "profile_sidebar_fill_color": "9C9C9A",
+        "profile_text_color": "FFFFFF",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "PottsyPineapple",
+        "statuses_count": 18694,
+        "time_zone": "London",
+        "url": null,
+        "utc_offset": 0,
+        "verified": false
+    }
+}

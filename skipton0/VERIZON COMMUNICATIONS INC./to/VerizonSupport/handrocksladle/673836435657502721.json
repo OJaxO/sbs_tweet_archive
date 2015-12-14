@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 07 12:08:20 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 37435412,
+                "id_str": "37435412",
+                "indices": [
+                    0,
+                    15
+                ],
+                "name": "Verizon Support",
+                "screen_name": "VerizonSupport"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 673836435657502721,
+    "id_str": "673836435657502721",
+    "in_reply_to_screen_name": "VerizonSupport",
+    "in_reply_to_status_id": 673834574137413633,
+    "in_reply_to_status_id_str": "673834574137413633",
+    "in_reply_to_user_id": 37435412,
+    "in_reply_to_user_id_str": "37435412",
+    "is_quote_status": false,
+    "lang": "und",
+    "metadata": {
+        "iso_language_code": "und",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -68.9241709539501,
+                        18.4812633016093
+                    ],
+                    [
+                        -68.3227847681842,
+                        18.4812633016093
+                    ],
+                    [
+                        -68.3227847681842,
+                        18.9703672455281
+                    ],
+                    [
+                        -68.9241709539501,
+                        18.9703672455281
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "Dominican Republic",
+        "country_code": "DO",
+        "full_name": "Hig\u00fcey, La Altagracia",
+        "id": "0103d4375c78ffad",
+        "name": "Hig\u00fcey",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/0103d4375c78ffad.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@VerizonSupport thx!",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Jan 09 23:05:57 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "wife + home chef + avid reader + dubstep listener + world traveler + runner + pit bull lover + UGA football fan",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "thehandthatrockstheladle.wordpress.com",
+                        "expanded_url": "http://thehandthatrockstheladle.wordpress.com/",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/hDyNe1iAfP"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 409,
+        "follow_request_sent": false,
+        "followers_count": 1170,
+        "following": false,
+        "friends_count": 2007,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 103408695,
+        "id_str": "103408695",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 59,
+        "location": "Decatur, GA",
+        "name": "Elisabeth",
+        "notifications": false,
+        "profile_background_color": "07090B",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/71269294/ladle.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/71269294/ladle.jpg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/103408695/1439817423",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/553417153987510272/hxoKBYqX_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/553417153987510272/hxoKBYqX_normal.jpeg",
+        "profile_link_color": "C34242",
+        "profile_sidebar_border_color": "BFBFBF",
+        "profile_sidebar_fill_color": "C9C9C9",
+        "profile_text_color": "1C1F23",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "handrocksladle",
+        "statuses_count": 8882,
+        "time_zone": "Eastern Time (US & Canada)",
+        "url": "http://t.co/hDyNe1iAfP",
+        "utc_offset": -18000,
+        "verified": false
+    }
+}

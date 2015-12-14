@@ -1,0 +1,124 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Dec 09 00:53:23 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 20793816,
+                "id_str": "20793816",
+                "indices": [
+                    0,
+                    7
+                ],
+                "name": "Amazon",
+                "screen_name": "amazon"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 674391354575822848,
+    "id_str": "674391354575822848",
+    "in_reply_to_screen_name": "amazon",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 20793816,
+    "in_reply_to_user_id_str": "20793816",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -73.9945565,
+                        40.865695
+                    ],
+                    [
+                        -73.949202,
+                        40.865695
+                    ],
+                    [
+                        -73.949202,
+                        40.913406
+                    ],
+                    [
+                        -73.9945565,
+                        40.913406
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Englewood, NJ",
+        "id": "65e3a577f1940550",
+        "name": "Englewood",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/65e3a577f1940550.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@amazon the for a perfect order",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Dec 10 16:31:06 +0000 2014",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Knowing too much & knowing too little can be determential.\n\n50, yikes, that age did not happen.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 20126,
+        "follow_request_sent": false,
+        "followers_count": 629,
+        "following": false,
+        "friends_count": 1478,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 2914023112,
+        "id_str": "2914023112",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 12,
+        "location": "New Jersey not born & raised",
+        "name": "LJ Johnson",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2914023112/1448978604",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/671691068602195968/TW4Oa7jT_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/671691068602195968/TW4Oa7jT_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "lorrainej1227",
+        "statuses_count": 17488,
+        "time_zone": null,
+        "url": null,
+        "utc_offset": null,
+        "verified": false
+    }
+}

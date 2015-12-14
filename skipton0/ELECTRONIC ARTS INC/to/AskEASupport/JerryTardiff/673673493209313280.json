@@ -1,0 +1,123 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 07 01:20:51 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 80420672,
+                "id_str": "80420672",
+                "indices": [
+                    0,
+                    13
+                ],
+                "name": "EA Support",
+                "screen_name": "AskEASupport"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 673673493209313280,
+    "id_str": "673673493209313280",
+    "in_reply_to_screen_name": "AskEASupport",
+    "in_reply_to_status_id": 673670300253327360,
+    "in_reply_to_status_id_str": "673670300253327360",
+    "in_reply_to_user_id": 80420672,
+    "in_reply_to_user_id_str": "80420672",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -73.606436,
+                        41.016898
+                    ],
+                    [
+                        -73.501758,
+                        41.016898
+                    ],
+                    [
+                        -73.501758,
+                        41.179771
+                    ],
+                    [
+                        -73.606436,
+                        41.179771
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Stamford, CT",
+        "id": "468bfe7c705fbc37",
+        "name": "Stamford",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/468bfe7c705fbc37.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@AskEASupport I can never connect to vs mode online . My internet works . I can connect to everything else but this",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat May 07 02:56:43 +0000 2011",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 217,
+        "follow_request_sent": false,
+        "followers_count": 98,
+        "following": false,
+        "friends_count": 154,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 294404945,
+        "id_str": "294404945",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 0,
+        "location": "",
+        "name": "Jerry Tardiff",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/480469328274661376/oVYWmCW3_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/480469328274661376/oVYWmCW3_normal.jpeg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "JerryTardiff",
+        "statuses_count": 594,
+        "time_zone": null,
+        "url": null,
+        "utc_offset": null,
+        "verified": false
+    }
+}

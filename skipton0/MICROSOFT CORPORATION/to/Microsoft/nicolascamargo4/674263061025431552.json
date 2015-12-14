@@ -1,0 +1,154 @@
+{
+    "contributors": null,
+    "coordinates": {
+        "coordinates": [
+            -56.4541436,
+            -30.3874899
+        ],
+        "type": "Point"
+    },
+    "created_at": "Tue Dec 08 16:23:35 +0000 2015",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    37,
+                    46
+                ],
+                "text": "VoltaMSN"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 74286565,
+                "id_str": "74286565",
+                "indices": [
+                    0,
+                    10
+                ],
+                "name": "Microsoft",
+                "screen_name": "Microsoft"
+            },
+            {
+                "id": 63823019,
+                "id_str": "63823019",
+                "indices": [
+                    11,
+                    23
+                ],
+                "name": "Microsoft Brasil",
+                "screen_name": "MicrosoftBr"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": {
+        "coordinates": [
+            -30.3874899,
+            -56.4541436
+        ],
+        "type": "Point"
+    },
+    "id": 674263061025431552,
+    "id_str": "674263061025431552",
+    "in_reply_to_screen_name": "Microsoft",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 74286565,
+    "in_reply_to_user_id_str": "74286565",
+    "is_quote_status": false,
+    "lang": "pt",
+    "metadata": {
+        "iso_language_code": "pt",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -56.6676738,
+                        -30.5347467
+                    ],
+                    [
+                        -55.6568577,
+                        -30.5347467
+                    ],
+                    [
+                        -55.6568577,
+                        -30.047387
+                    ],
+                    [
+                        -56.6676738,
+                        -30.047387
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "Brasil",
+        "country_code": "BR",
+        "full_name": "Quara\u00ed, Rio Grande do Sul",
+        "id": "93702d3d3c318305",
+        "name": "Quara\u00ed",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/93702d3d3c318305.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@Microsoft @MicrosoftBr sdds MSN :'( #VoltaMSN",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Aug 15 19:20:37 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Ga\u00facho, colorado, um ningu\u00e9m em algum lugar tentando ser qualquer coisa! WWE, John Mayer e The Walking Dead \u2665",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 10343,
+        "follow_request_sent": false,
+        "followers_count": 1202,
+        "following": false,
+        "friends_count": 975,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 355702769,
+        "id_str": "355702769",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "pt",
+        "listed_count": 2,
+        "location": "Quarai - RS ",
+        "name": "knees 2 faces\u2122",
+        "notifications": false,
+        "profile_background_color": "3B94D9",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/669659095381745664/90-fPMQR.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/669659095381745664/90-fPMQR.jpg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/355702769/1447372833",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/660984911743045637/O2gS6AXU_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/660984911743045637/O2gS6AXU_normal.jpg",
+        "profile_link_color": "89C9FA",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "nicolascamargo4",
+        "statuses_count": 40226,
+        "time_zone": null,
+        "url": null,
+        "utc_offset": null,
+        "verified": false
+    }
+}

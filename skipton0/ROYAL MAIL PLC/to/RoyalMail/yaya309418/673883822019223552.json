@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 07 15:16:37 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 96965958,
+                "id_str": "96965958",
+                "indices": [
+                    0,
+                    10
+                ],
+                "name": "Royal Mail",
+                "screen_name": "RoyalMail"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 673883822019223552,
+    "id_str": "673883822019223552",
+    "in_reply_to_screen_name": "RoyalMail",
+    "in_reply_to_status_id": 673865950702227456,
+    "in_reply_to_status_id_str": "673865950702227456",
+    "in_reply_to_user_id": 96965958,
+    "in_reply_to_user_id_str": "96965958",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -0.351597,
+                        51.491866
+                    ],
+                    [
+                        -0.243263,
+                        51.491866
+                    ],
+                    [
+                        -0.243263,
+                        51.537638
+                    ],
+                    [
+                        -0.351597,
+                        51.537638
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United Kingdom",
+        "country_code": "GB",
+        "full_name": "Ealing, London",
+        "id": "7093398a4249d151",
+        "name": "Ealing",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/7093398a4249d151.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@RoyalMail i wont be in tomorrow. Will i be able to arrange for redelivery on my preferred date as i wont be in on wednesday as well?",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Dec 14 10:10:52 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "To live without despair, and to be without disdain.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "temporaryirrelevance.tumblr.com",
+                        "expanded_url": "http://temporaryirrelevance.tumblr.com/",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/4zQ1w17ZMM"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 549,
+        "follow_request_sent": false,
+        "followers_count": 372,
+        "following": false,
+        "friends_count": 341,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 226509252,
+        "id_str": "226509252",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 0,
+        "location": "Socially Awkward in London",
+        "name": "yaya mahazir",
+        "notifications": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/226509252/1444782077",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/642836988475875328/J1DkhcUL_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/642836988475875328/J1DkhcUL_normal.jpg",
+        "profile_link_color": "009999",
+        "profile_sidebar_border_color": "EEEEEE",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "yaya309418",
+        "statuses_count": 34184,
+        "time_zone": "Beijing",
+        "url": "http://t.co/4zQ1w17ZMM",
+        "utc_offset": 28800,
+        "verified": false
+    }
+}

@@ -1,0 +1,152 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 08 02:02:31 +0000 2015",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    36,
+                    44
+                ],
+                "text": "Surface"
+            },
+            {
+                "indices": [
+                    74,
+                    78
+                ],
+                "text": "MNF"
+            },
+            {
+                "indices": [
+                    105,
+                    113
+                ],
+                "text": "Cowboys"
+            },
+            {
+                "indices": [
+                    130,
+                    135
+                ],
+                "text": "fail"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 75691804,
+                "id_str": "75691804",
+                "indices": [
+                    0,
+                    15
+                ],
+                "name": "Microsoft Support",
+                "screen_name": "MicrosoftHelps"
+            }
+        ]
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": null,
+    "id": 674046364381274112,
+    "id_str": "674046364381274112",
+    "in_reply_to_screen_name": "MicrosoftHelps",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 75691804,
+    "in_reply_to_user_id_str": "75691804",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -81.391672,
+                        41.640241
+                    ],
+                    [
+                        -81.288901,
+                        41.640241
+                    ],
+                    [
+                        -81.288901,
+                        41.75771
+                    ],
+                    [
+                        -81.391672,
+                        41.75771
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Mentor, OH",
+        "id": "a47c7932f8997705",
+        "name": "Mentor",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/a47c7932f8997705.json"
+    },
+    "retweet_count": 1,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+    "text": "@MicrosoftHelps Great publicity for #Surface tablet on national TV during #MNF; tablet wasn't working on #Cowboys sideline...lol. #fail",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Feb 24 14:09:29 +0000 2010",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "West Point Grad...U.S. Army veteran. I love my family, I love America and I absolutely love all things Cleveland!!! Duty, Honor, Country...",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 95,
+        "follow_request_sent": false,
+        "followers_count": 76,
+        "following": false,
+        "friends_count": 93,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 117089515,
+        "id_str": "117089515",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 9,
+        "location": "",
+        "name": "HLG",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/378800000620101361/e4d539a14badb1868f13aa6d82c5e188_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000620101361/e4d539a14badb1868f13aa6d82c5e188_normal.jpeg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "ArmyBlue70",
+        "statuses_count": 10078,
+        "time_zone": "Central Time (US & Canada)",
+        "url": null,
+        "utc_offset": -21600,
+        "verified": false
+    }
+}

@@ -1,0 +1,146 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 07 16:43:36 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 62601419,
+                "id_str": "62601419",
+                "indices": [
+                    0,
+                    11
+                ],
+                "name": "Verizon Wireless CS",
+                "screen_name": "VZWSupport"
+            },
+            {
+                "id": 106133171,
+                "id_str": "106133171",
+                "indices": [
+                    12,
+                    22
+                ],
+                "name": "PaulB",
+                "screen_name": "Dustoff00"
+            }
+        ]
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": null,
+    "id": 673905709143093248,
+    "id_str": "673905709143093248",
+    "in_reply_to_screen_name": "VZWSupport",
+    "in_reply_to_status_id": 673905041439371264,
+    "in_reply_to_status_id_str": "673905041439371264",
+    "in_reply_to_user_id": 62601419,
+    "in_reply_to_user_id_str": "62601419",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -112.3239143,
+                        33.29026
+                    ],
+                    [
+                        -111.9254391,
+                        33.29026
+                    ],
+                    [
+                        -111.9254391,
+                        33.8154652
+                    ],
+                    [
+                        -112.3239143,
+                        33.8154652
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Phoenix, AZ",
+        "id": "5c62ffb0f0f3479d",
+        "name": "Phoenix",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/5c62ffb0f0f3479d.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@VZWSupport @Dustoff00 yes but my $180 credit for returning my old IPhone has not shown up on my cc even though it was processed a week ago",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Jun 16 16:32:03 +0000 2009",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Author of Alignment for Success: Bringing Out the Best in Yourself, Your Teams and Your Company",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "halpincompany.com",
+                        "expanded_url": "http://www.halpincompany.com",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/6bxjItdKBp"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 264,
+        "follow_request_sent": false,
+        "followers_count": 864,
+        "following": false,
+        "friends_count": 1613,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 47668178,
+        "id_str": "47668178",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 13,
+        "location": "Phoenix",
+        "name": "Katharine",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/612433639/KH_02_b-w_smaller_normal.JPG",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/612433639/KH_02_b-w_smaller_normal.JPG",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "KatharineHalpin",
+        "statuses_count": 1524,
+        "time_zone": "Arizona",
+        "url": "http://t.co/6bxjItdKBp",
+        "utc_offset": -25200,
+        "verified": false
+    }
+}

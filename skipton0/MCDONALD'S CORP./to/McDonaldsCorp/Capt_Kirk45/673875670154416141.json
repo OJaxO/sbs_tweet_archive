@@ -1,0 +1,145 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 07 14:44:14 +0000 2015",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    15,
+                    23
+                ],
+                "text": "Eyeroll"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 111679943,
+                "id_str": "111679943",
+                "indices": [
+                    0,
+                    14
+                ],
+                "name": "McDonald's",
+                "screen_name": "McDonaldsCorp"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 673875670154416141,
+    "id_str": "673875670154416141",
+    "in_reply_to_screen_name": "McDonaldsCorp",
+    "in_reply_to_status_id": 673713587991404544,
+    "in_reply_to_status_id_str": "673713587991404544",
+    "in_reply_to_user_id": 111679943,
+    "in_reply_to_user_id_str": "111679943",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -97.534889,
+                        37.562483
+                    ],
+                    [
+                        -97.152924,
+                        37.562483
+                    ],
+                    [
+                        -97.152924,
+                        37.80531
+                    ],
+                    [
+                        -97.534889,
+                        37.80531
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Wichita, KS",
+        "id": "1661ada9b2b18024",
+        "name": "Wichita",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/1661ada9b2b18024.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+    "text": "@McDonaldsCorp #Eyeroll are you seriously that scared of the federal gov you have to go along with the proven lie? I'll skip McDonalds!",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Apr 24 22:30:20 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "PatriotUSAFVet. Husband of Karen Sue (The Love of My Life) Father of 3, Grandpa of 2. Productive Class, #2A #2016 Cruz/Carson? (Lets discuss it) #Conservatarian",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "TedCruz.org",
+                        "expanded_url": "http://www.TedCruz.org",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/3RZGjGT1yn"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 9000,
+        "follow_request_sent": false,
+        "followers_count": 9127,
+        "following": false,
+        "friends_count": 9854,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 35062313,
+        "id_str": "35062313",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 306,
+        "location": "Wichita, KS",
+        "name": "Justin Cessna",
+        "notifications": false,
+        "profile_background_color": "642D8B",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/636962054004449280/zoxXZixi.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/636962054004449280/zoxXZixi.jpg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/35062313/1440698948",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/559868009213591553/9gC8zcik_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/559868009213591553/9gC8zcik_normal.jpeg",
+        "profile_link_color": "FF0000",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "7AC3EE",
+        "profile_text_color": "3D1957",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Capt_Kirk45",
+        "statuses_count": 31693,
+        "time_zone": "Central Time (US & Canada)",
+        "url": "https://t.co/3RZGjGT1yn",
+        "utc_offset": -21600,
+        "verified": false
+    }
+}

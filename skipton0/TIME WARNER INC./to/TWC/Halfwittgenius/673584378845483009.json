@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Dec 06 19:26:45 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 127975950,
+                "id_str": "127975950",
+                "indices": [
+                    0,
+                    4
+                ],
+                "name": "Time Warner Cable",
+                "screen_name": "TWC"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 673584378845483009,
+    "id_str": "673584378845483009",
+    "in_reply_to_screen_name": "TWC",
+    "in_reply_to_status_id": 672037862666313728,
+    "in_reply_to_status_id_str": "672037862666313728",
+    "in_reply_to_user_id": 127975950,
+    "in_reply_to_user_id_str": "127975950",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -77.753839,
+                        43.145239
+                    ],
+                    [
+                        -77.671295,
+                        43.145239
+                    ],
+                    [
+                        -77.671295,
+                        43.18008
+                    ],
+                    [
+                        -77.753839,
+                        43.18008
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "North Gates, NY",
+        "id": "01a1131f78a94ed7",
+        "name": "North Gates",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/01a1131f78a94ed7.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@TWC  bout time you get the cable working",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri May 01 19:01:07 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "I eat cereal and climb mountains\n~Goldie~",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "The-Myth-and-Legend.tumblr.com",
+                        "expanded_url": "http://The-Myth-and-Legend.tumblr.com/",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/na65YDFhMV"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 810,
+        "follow_request_sent": false,
+        "followers_count": 259,
+        "following": false,
+        "friends_count": 340,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 37013480,
+        "id_str": "37013480",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 0,
+        "location": "Rochester, NY",
+        "name": "Smoooth D",
+        "notifications": false,
+        "profile_background_color": "030303",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000108313700/775469fd98a90400c8ded5e887961b94.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000108313700/775469fd98a90400c8ded5e887961b94.jpeg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/37013480/1349633261",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/465966873537179650/cNrITUFH_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/465966873537179650/cNrITUFH_normal.jpeg",
+        "profile_link_color": "007896",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "99CC33",
+        "profile_text_color": "3E4415",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Halfwittgenius",
+        "statuses_count": 1611,
+        "time_zone": null,
+        "url": "http://t.co/na65YDFhMV",
+        "utc_offset": null,
+        "verified": false
+    }
+}

@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Dec 06 16:39:23 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 37916167,
+                "id_str": "37916167",
+                "indices": [
+                    0,
+                    16
+                ],
+                "name": "M&S",
+                "screen_name": "marksandspencer"
+            }
+        ]
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": null,
+    "id": 673542259170758660,
+    "id_str": "673542259170758660",
+    "in_reply_to_screen_name": "marksandspencer",
+    "in_reply_to_status_id": 673541858115604480,
+    "in_reply_to_status_id_str": "673541858115604480",
+    "in_reply_to_user_id": 37916167,
+    "in_reply_to_user_id_str": "37916167",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -0.5093057,
+                        51.286606
+                    ],
+                    [
+                        0.334433,
+                        51.286606
+                    ],
+                    [
+                        0.334433,
+                        51.6916388
+                    ],
+                    [
+                        -0.5093057,
+                        51.6916388
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United Kingdom",
+        "country_code": "GB",
+        "full_name": "London, England",
+        "id": "5d838f7a011f4a2d",
+        "name": "London",
+        "place_type": "admin",
+        "url": "https://api.twitter.com/1.1/geo/id/5d838f7a011f4a2d.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@marksandspencer thanks it was Oxford Street store by Selfridges.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Oct 07 20:20:09 +0000 2015",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Reviews of London's various eateries - and occasionally other places! Get in touch if you'd like your product/restaurant to be reviewed",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "london-restaurant-reviews.com",
+                        "expanded_url": "http://www.london-restaurant-reviews.com",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/El21TyVi5Q"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 70,
+        "follow_request_sent": false,
+        "followers_count": 620,
+        "following": false,
+        "friends_count": 2752,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 3817862053,
+        "id_str": "3817862053",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 3,
+        "location": "London, England",
+        "name": "London Food Reviews",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/659868871193575424/vbci7JFv.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/659868871193575424/vbci7JFv.jpg",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3817862053/1446159793",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/659868468951384064/O5aroxAz_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/659868468951384064/O5aroxAz_normal.jpg",
+        "profile_link_color": "3B94D9",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "LDNresreviews",
+        "statuses_count": 100,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "https://t.co/El21TyVi5Q",
+        "utc_offset": -28800,
+        "verified": false
+    }
+}

@@ -1,0 +1,230 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 07 20:53:19 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/abicardenas_/s\u2026",
+                "expanded_url": "https://twitter.com/abicardenas_/status/673968055160991744",
+                "indices": [
+                    27,
+                    50
+                ],
+                "url": "https://t.co/CTmuNTXrmm"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 15131310,
+                "id_str": "15131310",
+                "indices": [
+                    0,
+                    11
+                ],
+                "name": "Whole Foods Market",
+                "screen_name": "WholeFoods"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 673968552366374912,
+    "id_str": "673968552366374912",
+    "in_reply_to_screen_name": "WholeFoods",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 15131310,
+    "in_reply_to_user_id_str": "15131310",
+    "is_quote_status": true,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -116.374494,
+                        43.510172
+                    ],
+                    [
+                        -116.101508,
+                        43.510172
+                    ],
+                    [
+                        -116.101508,
+                        43.685894
+                    ],
+                    [
+                        -116.374494,
+                        43.685894
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Boise, ID",
+        "id": "737fcb9daae404ac",
+        "name": "Boise",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/737fcb9daae404ac.json"
+    },
+    "possibly_sensitive": false,
+    "quoted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Mon Dec 07 20:51:20 +0000 2015",
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "urls": [],
+            "user_mentions": []
+        },
+        "favorite_count": 1,
+        "favorited": false,
+        "geo": null,
+        "id": 673968055160991744,
+        "id_str": "673968055160991744",
+        "in_reply_to_screen_name": null,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "is_quote_status": false,
+        "lang": "en",
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "place": null,
+        "retweet_count": 1,
+        "retweeted": false,
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "text": "All food is organic because food is made out of carbon and carbon is an organic compound.",
+        "truncated": false,
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Wed Nov 07 04:54:21 +0000 2012",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "The lord made me hard to handle.\n\u0394\u0394\u0394.",
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "favourites_count": 3515,
+            "follow_request_sent": false,
+            "followers_count": 310,
+            "following": false,
+            "friends_count": 268,
+            "geo_enabled": false,
+            "has_extended_profile": false,
+            "id": 931249370,
+            "id_str": "931249370",
+            "is_translation_enabled": false,
+            "is_translator": false,
+            "lang": "en",
+            "listed_count": 0,
+            "location": "BoiseState.",
+            "name": "Abi",
+            "notifications": false,
+            "profile_background_color": "FFFFFF",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/484734777954553856/tft6U4lT.jpeg",
+            "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/484734777954553856/tft6U4lT.jpeg",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/931249370/1427392925",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/664686360117145600/P4DdUz_k_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/664686360117145600/P4DdUz_k_normal.jpg",
+            "profile_link_color": "0099B9",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "EFEFEF",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "AbiCardenas_",
+            "statuses_count": 8603,
+            "time_zone": "Hawaii",
+            "url": null,
+            "utc_offset": -36000,
+            "verified": false
+        }
+    },
+    "quoted_status_id": 673968055160991744,
+    "quoted_status_id_str": "673968055160991744",
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@WholeFoods science bitch! https://t.co/CTmuNTXrmm",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Apr 02 17:48:27 +0000 2015",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "EDM & Alyssa",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "etsy.com/shop/TrippyCre\u2026",
+                        "expanded_url": "https://www.etsy.com/shop/TrippyCreatives?ref=s2-header-shopname",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/nhoRjBXO7s"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 3127,
+        "follow_request_sent": false,
+        "followers_count": 197,
+        "following": false,
+        "friends_count": 219,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 3132363846,
+        "id_str": "3132363846",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 2,
+        "location": "",
+        "name": "Daddy",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3132363846/1445977874",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/657619405816238080/gCmbQHBI_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/657619405816238080/gCmbQHBI_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "DaddyAllDay",
+        "statuses_count": 3283,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "https://t.co/nhoRjBXO7s",
+        "utc_offset": -28800,
+        "verified": false
+    }
+}

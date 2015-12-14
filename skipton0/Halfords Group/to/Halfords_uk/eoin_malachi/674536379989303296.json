@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Dec 09 10:29:39 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 46640060,
+                "id_str": "46640060",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "Halfords",
+                "screen_name": "Halfords_uk"
+            }
+        ]
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": null,
+    "id": 674536379989303296,
+    "id_str": "674536379989303296",
+    "in_reply_to_screen_name": "Halfords_uk",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 46640060,
+    "in_reply_to_user_id_str": "46640060",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -7.7339934,
+                        52.7810737
+                    ],
+                    [
+                        -6.9316907,
+                        52.7810737
+                    ],
+                    [
+                        -6.9316907,
+                        53.2144624
+                    ],
+                    [
+                        -7.7339934,
+                        53.2144624
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "Ireland",
+        "country_code": "IE",
+        "full_name": "Laois, Ireland",
+        "id": "1429a18b742b8ca5",
+        "name": "Laois",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/1429a18b742b8ca5.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@Halfords_uk hi I'm trying to apply for the portlaoise store job but every time I try to upload my cv it says something has gone wrong",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Jul 03 12:44:18 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Jack of one or two trades, mastering some\r\n        Looking for my place in the world",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "eoinmckenna.eu",
+                        "expanded_url": "http://www.eoinmckenna.eu",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/KVgHxs33WD"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 686,
+        "follow_request_sent": false,
+        "followers_count": 533,
+        "following": false,
+        "friends_count": 626,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 328470138,
+        "id_str": "328470138",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 8,
+        "location": "",
+        "name": "Bigpapaeoin",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/464023589323149312/AyseqXIc.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/464023589323149312/AyseqXIc.jpeg",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/328470138/1399465856",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/450737819355340800/yxkrFDKj_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/450737819355340800/yxkrFDKj_normal.jpeg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "eoin_malachi",
+        "statuses_count": 2938,
+        "time_zone": "Dublin",
+        "url": "http://t.co/KVgHxs33WD",
+        "utc_offset": 0,
+        "verified": false
+    }
+}

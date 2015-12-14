@@ -1,0 +1,145 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 07 09:22:02 +0000 2015",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    47,
+                    58
+                ],
+                "text": "DoitForMat"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 16573941,
+                "id_str": "16573941",
+                "indices": [
+                    0,
+                    8
+                ],
+                "name": "Netflix US",
+                "screen_name": "netflix"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 673794584099459072,
+    "id_str": "673794584099459072",
+    "in_reply_to_screen_name": "netflix",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 16573941,
+    "in_reply_to_user_id_str": "16573941",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -90.135782,
+                        34.994192
+                    ],
+                    [
+                        -89.708276,
+                        34.994192
+                    ],
+                    [
+                        -89.708276,
+                        35.2728491
+                    ],
+                    [
+                        -90.135782,
+                        35.2728491
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Memphis, TN",
+        "id": "f995a9bd45d4a867",
+        "name": "Memphis",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/f995a9bd45d4a867.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@netflix put Fresh Prince of Bel-Air on there. #DoitForMat",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Jan 25 04:40:57 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "9O1 #LongLiveZQ",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "Matt.com",
+                        "expanded_url": "http://www.Matt.com",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/Qek6SPN8SL"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 20390,
+        "follow_request_sent": false,
+        "followers_count": 1515,
+        "following": false,
+        "friends_count": 1912,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 108196139,
+        "id_str": "108196139",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 5,
+        "location": "",
+        "name": "#DoitForMat",
+        "notifications": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/326366010/319253_276323272378168_100000014931309_1187937_8054267_n.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/326366010/319253_276323272378168_100000014931309_1187937_8054267_n.jpg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/108196139/1441100878",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/673733094122397696/HIQWMaCA_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/673733094122397696/HIQWMaCA_normal.jpg",
+        "profile_link_color": "009999",
+        "profile_sidebar_border_color": "EEEEEE",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "Matt_iAm_",
+        "statuses_count": 46617,
+        "time_zone": "Mountain Time (US & Canada)",
+        "url": "https://t.co/Qek6SPN8SL",
+        "utc_offset": -25200,
+        "verified": false
+    }
+}

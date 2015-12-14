@@ -1,0 +1,145 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 08 14:45:13 +0000 2015",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    76,
+                    89
+                ],
+                "text": "needhelpASAP"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 35737385,
+                "id_str": "35737385",
+                "indices": [
+                    0,
+                    7
+                ],
+                "name": "BT",
+                "screen_name": "BTCare"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 674238307497336832,
+    "id_str": "674238307497336832",
+    "in_reply_to_screen_name": "BTCare",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 35737385,
+    "in_reply_to_user_id_str": "35737385",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -2.675408,
+                        53.341661
+                    ],
+                    [
+                        -2.511193,
+                        53.341661
+                    ],
+                    [
+                        -2.511193,
+                        53.423555
+                    ],
+                    [
+                        -2.675408,
+                        53.423555
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United Kingdom",
+        "country_code": "GB",
+        "full_name": "Warrington, England",
+        "id": "16a7928fc7d1075a",
+        "name": "Warrington",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/16a7928fc7d1075a.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@BTCare I keep losing internet signal on my BT box, can you help me please? #needhelpASAP",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed May 27 19:46:39 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Just a 24 year old girl babbling on about life :) #gingerwithagoodarse #scorpio #partygirl #hairdresser #istheretoomanyhashtags",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "facebook.com/katiewainy",
+                        "expanded_url": "http://www.facebook.com/katiewainy",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/Z5PAX9w5eA"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 692,
+        "follow_request_sent": false,
+        "followers_count": 302,
+        "following": false,
+        "friends_count": 629,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 42955507,
+        "id_str": "42955507",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 1,
+        "location": "Warrington, Great Sankey",
+        "name": "Katie Wainwright \u2702",
+        "notifications": false,
+        "profile_background_color": "89C9FA",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/882712359/445e7c4576de206abfb86dbb48aa5744.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/882712359/445e7c4576de206abfb86dbb48aa5744.jpeg",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/42955507/1415649582",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/640635045628264448/WH5NrnvD_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/640635045628264448/WH5NrnvD_normal.jpg",
+        "profile_link_color": "009999",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "EADEAA",
+        "profile_text_color": "333333",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "KatieWainy",
+        "statuses_count": 1478,
+        "time_zone": "London",
+        "url": "https://t.co/Z5PAX9w5eA",
+        "utc_offset": 0,
+        "verified": false
+    }
+}

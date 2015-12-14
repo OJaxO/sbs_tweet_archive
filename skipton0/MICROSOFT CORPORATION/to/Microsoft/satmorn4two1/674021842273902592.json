@@ -1,0 +1,134 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 08 00:25:04 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 74286565,
+                "id_str": "74286565",
+                "indices": [
+                    0,
+                    10
+                ],
+                "name": "Microsoft",
+                "screen_name": "Microsoft"
+            },
+            {
+                "id": 24742040,
+                "id_str": "24742040",
+                "indices": [
+                    11,
+                    16
+                ],
+                "name": "Xbox",
+                "screen_name": "Xbox"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 674021842273902592,
+    "id_str": "674021842273902592",
+    "in_reply_to_screen_name": "Microsoft",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 74286565,
+    "in_reply_to_user_id_str": "74286565",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -79.920972,
+                        35.3443541
+                    ],
+                    [
+                        -79.868404,
+                        35.3443541
+                    ],
+                    [
+                        -79.868404,
+                        35.389591
+                    ],
+                    [
+                        -79.920972,
+                        35.389591
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Troy, NC",
+        "id": "7dc8991aefc10585",
+        "name": "Troy",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/7dc8991aefc10585.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@Microsoft @Xbox I just opened my Xbox 1 and plugged it all in and nothing happened. It turned on but no sound no picture no anything.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Jan 21 07:25:04 +0000 2015",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Over complicated & undefineable",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 456,
+        "follow_request_sent": false,
+        "followers_count": 188,
+        "following": false,
+        "friends_count": 701,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 2989207960,
+        "id_str": "2989207960",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 2,
+        "location": "Not where i'd like to be",
+        "name": "Ethan Explicit",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2989207960/1445989325",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/645398079282266113/2-zf4Efo_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/645398079282266113/2-zf4Efo_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "satmorn4two1",
+        "statuses_count": 1080,
+        "time_zone": null,
+        "url": null,
+        "utc_offset": null,
+        "verified": false
+    }
+}

@@ -1,0 +1,147 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 08 02:14:55 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 64510593,
+                "id_str": "64510593",
+                "indices": [
+                    0,
+                    13
+                ],
+                "name": "Hilton Hotels",
+                "screen_name": "HiltonHotels"
+            },
+            {
+                "id": 4330609275,
+                "id_str": "4330609275",
+                "indices": [
+                    66,
+                    77
+                ],
+                "name": "Transglobal",
+                "screen_name": "Tansglobal"
+            }
+        ]
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": null,
+    "id": 674049487279534082,
+    "id_str": "674049487279534082",
+    "in_reply_to_screen_name": "HiltonHotels",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 64510593,
+    "in_reply_to_user_id_str": "64510593",
+    "is_quote_status": false,
+    "lang": "es",
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -99.1843501,
+                        19.3998346
+                    ],
+                    [
+                        -99.122382,
+                        19.3998346
+                    ],
+                    [
+                        -99.122382,
+                        19.4658366
+                    ],
+                    [
+                        -99.1843501,
+                        19.4658366
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "M\u00e9xico",
+        "country_code": "MX",
+        "full_name": "Cuauht\u00e9moc, Distrito Federal",
+        "id": "bfc35dcc7e63252a",
+        "name": "Cuauht\u00e9moc",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/bfc35dcc7e63252a.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@HiltonHotels enemos renta de autobuses y camionetas sprinter con @Tansglobal dale RT y Like.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Sep 08 19:59:51 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Comercializadora Ens\u00e1stigue te hace la vida m\u00e1s f\u00e1cil, vis\u00edtanos en nuestra p\u00e1gina. Renta de autobuses @transglobal",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "facebook.com/pages/Comercia\u2026",
+                        "expanded_url": "https://www.facebook.com/pages/Comercializadora-Ens%C3%A1stigue/852227341526899",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/4WBi6eE37r"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 1896,
+        "follow_request_sent": false,
+        "followers_count": 556,
+        "following": false,
+        "friends_count": 1498,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 188462874,
+        "id_str": "188462874",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "es",
+        "listed_count": 4,
+        "location": "DF y Queretaro",
+        "name": "\uf8ff Ens\u00e1stigue \uf8ff",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/654584167/mvld9z7l8yp4oiag7b3l.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/654584167/mvld9z7l8yp4oiag7b3l.jpeg",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/188462874/1448508028",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/650361285264060416/e1DY4WCb_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/650361285264060416/e1DY4WCb_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "EEEEEE",
+        "profile_sidebar_fill_color": "F6F6F6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "jesusensastigue",
+        "statuses_count": 7775,
+        "time_zone": "Mexico City",
+        "url": "https://t.co/4WBi6eE37r",
+        "utc_offset": -21600,
+        "verified": false
+    }
+}

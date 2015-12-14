@@ -1,0 +1,134 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 07 22:05:05 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 258719649,
+                "id_str": "258719649",
+                "indices": [
+                    0,
+                    13
+                ],
+                "name": "TalkTalk",
+                "screen_name": "TalkTalkCare"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 673986612389421058,
+    "id_str": "673986612389421058",
+    "in_reply_to_screen_name": "TalkTalkCare",
+    "in_reply_to_status_id": 673969615765159936,
+    "in_reply_to_status_id_str": "673969615765159936",
+    "in_reply_to_user_id": 258719649,
+    "in_reply_to_user_id_str": "258719649",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -0.104501,
+                        51.518605
+                    ],
+                    [
+                        -0.015834,
+                        51.518605
+                    ],
+                    [
+                        -0.015834,
+                        51.5766844
+                    ],
+                    [
+                        -0.104501,
+                        51.5766844
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United Kingdom",
+        "country_code": "GB",
+        "full_name": "Hackney, London",
+        "id": "2a3f152d1ac5044a",
+        "name": "Hackney",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/2a3f152d1ac5044a.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@TalkTalkCare Hi It was fixed today by a BTopenworld technician fixed it today after 3 days.Was v. frustrating &amp; data quota exhausted 7/1/16",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Mar 11 10:48:48 +0000 2010",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Ex-journalist,foodie, maven via Uganda, Goa, England, USA & back again Views my own.RTs not endorsements or views of my employer E8 http://t.co/bsf6NMkcZo",
+        "entities": {
+            "description": {
+                "urls": [
+                    {
+                        "display_url": "tinyurl.com/btarwl7",
+                        "expanded_url": "http://tinyurl.com/btarwl7",
+                        "indices": [
+                            132,
+                            154
+                        ],
+                        "url": "http://t.co/bsf6NMkcZo"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 2217,
+        "follow_request_sent": false,
+        "followers_count": 1186,
+        "following": false,
+        "friends_count": 2119,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 122029066,
+        "id_str": "122029066",
+        "is_translation_enabled": true,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 33,
+        "location": "London",
+        "name": "Manuela Fernandes",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/122029066/1434727822",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/611918648572276737/FphbnnMC_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/611918648572276737/FphbnnMC_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "ManuelaFern1",
+        "statuses_count": 10426,
+        "time_zone": "Casablanca",
+        "url": null,
+        "utc_offset": 0,
+        "verified": false
+    }
+}

@@ -1,0 +1,131 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 08 03:33:06 +0000 2015",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    31,
+                    42
+                ],
+                "text": "masterpass"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 79320096,
+                "id_str": "79320096",
+                "indices": [
+                    0,
+                    5
+                ],
+                "name": "Citi",
+                "screen_name": "Citi"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 674069160226365441,
+    "id_str": "674069160226365441",
+    "in_reply_to_screen_name": "Citi",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 79320096,
+    "in_reply_to_user_id_str": "79320096",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -73.603756,
+                        40.624428
+                    ],
+                    [
+                        -73.564775,
+                        40.624428
+                    ],
+                    [
+                        -73.564775,
+                        40.673546
+                    ],
+                    [
+                        -73.603756,
+                        40.673546
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Freeport, NY",
+        "id": "5c7686d4c90a9bb0",
+        "name": "Freeport",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/5c7686d4c90a9bb0.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@Citi stop showing that stupid #masterpass commercial two times in a row!!",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Apr 08 13:20:48 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Driven",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 2529,
+        "follow_request_sent": false,
+        "followers_count": 311,
+        "following": false,
+        "friends_count": 843,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 29712495,
+        "id_str": "29712495",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 5,
+        "location": "Freeport",
+        "name": "evey h",
+        "notifications": false,
+        "profile_background_color": "0099B9",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/3092746497/72a2f77f9ba4c9a7368d9a048c4674e3_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/3092746497/72a2f77f9ba4c9a7368d9a048c4674e3_normal.jpeg",
+        "profile_link_color": "0099B9",
+        "profile_sidebar_border_color": "5ED4DC",
+        "profile_sidebar_fill_color": "95E8EC",
+        "profile_text_color": "3C3940",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "omgmari1",
+        "statuses_count": 4802,
+        "time_zone": "Quito",
+        "url": null,
+        "utc_offset": -18000,
+        "verified": false
+    }
+}

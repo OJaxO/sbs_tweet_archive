@@ -1,0 +1,135 @@
+{
+    "contributors": null,
+    "coordinates": {
+        "coordinates": [
+            -91.1346597,
+            14.4598227
+        ],
+        "type": "Point"
+    },
+    "created_at": "Tue Dec 08 03:10:41 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 74594552,
+                "id_str": "74594552",
+                "indices": [
+                    0,
+                    9
+                ],
+                "name": "App Store",
+                "screen_name": "AppStore"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": {
+        "coordinates": [
+            14.4598227,
+            -91.1346597
+        ],
+        "type": "Point"
+    },
+    "id": 674063520879632384,
+    "id_str": "674063520879632384",
+    "in_reply_to_screen_name": "AppStore",
+    "in_reply_to_status_id": 661718761049858048,
+    "in_reply_to_status_id_str": "661718761049858048",
+    "in_reply_to_user_id": 74594552,
+    "in_reply_to_user_id_str": "74594552",
+    "is_quote_status": false,
+    "lang": "und",
+    "metadata": {
+        "iso_language_code": "und",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -92.2273874,
+                        13.72873
+                    ],
+                    [
+                        -88.2210552,
+                        13.72873
+                    ],
+                    [
+                        -88.2210552,
+                        17.816205
+                    ],
+                    [
+                        -92.2273874,
+                        17.816205
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "Guatemala",
+        "country_code": "GT",
+        "full_name": "Guatemala",
+        "id": "13d479b108707983",
+        "name": "Guatemala",
+        "place_type": "country",
+        "url": "https://api.twitter.com/1.1/geo/id/13d479b108707983.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@AppStore",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Dec 07 03:04:32 +0000 2015",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 0,
+        "follow_request_sent": false,
+        "followers_count": 1,
+        "following": false,
+        "friends_count": 2,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 4481695873,
+        "id_str": "4481695873",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "es",
+        "listed_count": 0,
+        "location": "",
+        "name": "Kevin  montejo",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/673704135103934464/6lxFOnwa_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/673704135103934464/6lxFOnwa_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Kevin40685671",
+        "statuses_count": 8,
+        "time_zone": null,
+        "url": null,
+        "utc_offset": null,
+        "verified": false
+    }
+}

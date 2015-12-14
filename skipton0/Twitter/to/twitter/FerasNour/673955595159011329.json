@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 07 20:01:50 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 783214,
+                "id_str": "783214",
+                "indices": [
+                    0,
+                    8
+                ],
+                "name": "Twitter",
+                "screen_name": "twitter"
+            }
+        ]
+    },
+    "favorite_count": 2,
+    "favorited": false,
+    "geo": null,
+    "id": 673955595159011329,
+    "id_str": "673955595159011329",
+    "in_reply_to_screen_name": "twitter",
+    "in_reply_to_status_id": 673955339813842946,
+    "in_reply_to_status_id_str": "673955339813842946",
+    "in_reply_to_user_id": 783214,
+    "in_reply_to_user_id_str": "783214",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        35.6797295,
+                        31.2567877
+                    ],
+                    [
+                        37.2500185,
+                        31.2567877
+                    ],
+                    [
+                        37.2500185,
+                        32.088612
+                    ],
+                    [
+                        35.6797295,
+                        32.088612
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "\u0627\u0644\u0645\u0645\u0644\u0643\u0629 \u0627\u0644\u0623\u0631\u062f\u0646\u064a\u0629 \u0627\u0644\u0647\u0627\u0634\u0645\u064a\u0629",
+        "country_code": "JO",
+        "full_name": "Amman, Hashemite Kingdom of Jordan",
+        "id": "01490cd33ff0f963",
+        "name": "Amman",
+        "place_type": "admin",
+        "url": "https://api.twitter.com/1.1/geo/id/01490cd33ff0f963.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@twitter What a year!",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Feb 16 22:19:06 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "#Architecture in #JU | [feras.nour95@gmail.com] | #SocialMedia & #PR | #Architect | #Truecrew | #JoTweeps | #LoveJo | #Anabta, #Palestine | Snapchat: Feras95",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "1feras.wordpress.com",
+                        "expanded_url": "https://1feras.wordpress.com/",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/MGg5TpgnEo"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 3281,
+        "follow_request_sent": false,
+        "followers_count": 10934,
+        "following": false,
+        "friends_count": 1443,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 253269514,
+        "id_str": "253269514",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 112,
+        "location": "Amman, Hashemite Kingdom of Jordan",
+        "name": "\u0641\u0631\u0627\u0633 \u0646\u0648\u0631  Feras Nour",
+        "notifications": false,
+        "profile_background_color": "FFFFFF",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/875813087/8915aaa74b393d5efe53bfdbe9cf15f8.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/875813087/8915aaa74b393d5efe53bfdbe9cf15f8.jpeg",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/253269514/1411500738",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/670339498203602944/pKeiDQNW_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/670339498203602944/pKeiDQNW_normal.jpg",
+        "profile_link_color": "3B94D9",
+        "profile_sidebar_border_color": "A0EEF5",
+        "profile_sidebar_fill_color": "1A3F57",
+        "profile_text_color": "9DDD95",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "FerasNour",
+        "statuses_count": 36012,
+        "time_zone": "Jerusalem",
+        "url": "https://t.co/MGg5TpgnEo",
+        "utc_offset": 7200,
+        "verified": false
+    }
+}

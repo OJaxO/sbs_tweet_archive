@@ -1,0 +1,165 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 07 22:39:50 +0000 2015",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    8,
+                    25
+                ],
+                "text": "KewSlowBroadband"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 35737385,
+                "id_str": "35737385",
+                "indices": [
+                    0,
+                    7
+                ],
+                "name": "BT",
+                "screen_name": "BTCare"
+            },
+            {
+                "id": 22159580,
+                "id_str": "22159580",
+                "indices": [
+                    117,
+                    130
+                ],
+                "name": "Zac Goldsmith",
+                "screen_name": "ZacGoldsmith"
+            },
+            {
+                "id": 84105845,
+                "id_str": "84105845",
+                "indices": [
+                    131,
+                    137
+                ],
+                "name": "Richmond Council",
+                "screen_name": "LBRUT"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 673995361019654144,
+    "id_str": "673995361019654144",
+    "in_reply_to_screen_name": "BTCare",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 35737385,
+    "in_reply_to_user_id_str": "35737385",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -0.39216,
+                        51.391383
+                    ],
+                    [
+                        -0.221832,
+                        51.391383
+                    ],
+                    [
+                        -0.221832,
+                        51.489646
+                    ],
+                    [
+                        -0.39216,
+                        51.489646
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United Kingdom",
+        "country_code": "GB",
+        "full_name": "Richmond, London",
+        "id": "1c37515518593fe3",
+        "name": "Richmond",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/1c37515518593fe3.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+    "text": "@BTCare #KewSlowBroadband Why only 5 MB broadband in Kew TW9 3 HR when 150 Mb in Chiswick W4 1JG? Fix it now please! @ZacGoldsmith @LBRUT",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon May 09 16:52:19 +0000 2011",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Scott Annan. Independent global Convenience commentator. Non Executive Director. Principal at Blue Ananta. Founder Convenience & Drug Retail Leaders.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "blueananta.com",
+                        "expanded_url": "http://www.blueananta.com",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/95g9c8ftDJ"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 27,
+        "follow_request_sent": false,
+        "followers_count": 113,
+        "following": false,
+        "friends_count": 121,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 295771141,
+        "id_str": "295771141",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 5,
+        "location": "London",
+        "name": "Blue Ananta",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/295771141/1428161635",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1900834423/SFA_Linked_In_090303_normal.JPG",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1900834423/SFA_Linked_In_090303_normal.JPG",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "scott_annan",
+        "statuses_count": 201,
+        "time_zone": "London",
+        "url": "https://t.co/95g9c8ftDJ",
+        "utc_offset": 0,
+        "verified": false
+    }
+}

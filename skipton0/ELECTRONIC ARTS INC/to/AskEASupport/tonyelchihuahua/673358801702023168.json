@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Dec 06 04:30:23 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 80420672,
+                "id_str": "80420672",
+                "indices": [
+                    0,
+                    13
+                ],
+                "name": "EA Support",
+                "screen_name": "AskEASupport"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 673358801702023168,
+    "id_str": "673358801702023168",
+    "in_reply_to_screen_name": "AskEASupport",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 80420672,
+    "in_reply_to_user_id_str": "80420672",
+    "is_quote_status": false,
+    "lang": "es",
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -106.619964,
+                        28.0966079
+                    ],
+                    [
+                        -105.705833,
+                        28.0966079
+                    ],
+                    [
+                        -105.705833,
+                        29.7871239
+                    ],
+                    [
+                        -106.619964,
+                        29.7871239
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "M\u00e9xico",
+        "country_code": "MX",
+        "full_name": "Chihuahua, M\u00e9xico",
+        "id": "7efb0e99097064ea",
+        "name": "Chihuahua",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/7efb0e99097064ea.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@AskEASupport no puedo jugar en temporada, que pedo con su juego tengo 3 d\u00edas as\u00ed no puedo dar c\u00e1tedras",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Jan 14 22:20:05 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "2 de agosto",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "facebook.com/#!/pages/Chihu\u2026",
+                        "expanded_url": "http://www.facebook.com/#!/pages/Chihuahua-Mexico/tony-garcia-el-chihuahua-torero/96641173242?ref=ts",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/IN0tKbwaab"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 2915,
+        "follow_request_sent": false,
+        "followers_count": 4933,
+        "following": false,
+        "friends_count": 874,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 104951439,
+        "id_str": "104951439",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "es",
+        "listed_count": 39,
+        "location": "chihuahua mexico",
+        "name": "antonio el chihuahua",
+        "notifications": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/104951439/1381378763",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/606529453729169409/mUYlmaNI_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/606529453729169409/mUYlmaNI_normal.jpg",
+        "profile_link_color": "009999",
+        "profile_sidebar_border_color": "EEEEEE",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "tonyelchihuahua",
+        "statuses_count": 7218,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "http://t.co/IN0tKbwaab",
+        "utc_offset": -28800,
+        "verified": false
+    }
+}

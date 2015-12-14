@@ -1,0 +1,135 @@
+{
+    "contributors": null,
+    "coordinates": {
+        "coordinates": [
+            -95.0695275,
+            16.8055671
+        ],
+        "type": "Point"
+    },
+    "created_at": "Tue Dec 08 00:00:54 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 20536157,
+                "id_str": "20536157",
+                "indices": [
+                    0,
+                    7
+                ],
+                "name": "Google",
+                "screen_name": "google"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": {
+        "coordinates": [
+            16.8055671,
+            -95.0695275
+        ],
+        "type": "Point"
+    },
+    "id": 674015760977559554,
+    "id_str": "674015760977559554",
+    "in_reply_to_screen_name": "google",
+    "in_reply_to_status_id": 673979928367390720,
+    "in_reply_to_status_id_str": "673979928367390720",
+    "in_reply_to_user_id": 20536157,
+    "in_reply_to_user_id_str": "20536157",
+    "is_quote_status": false,
+    "lang": "es",
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -95.172297,
+                        16.675105
+                    ],
+                    [
+                        -94.890379,
+                        16.675105
+                    ],
+                    [
+                        -94.890379,
+                        16.906024
+                    ],
+                    [
+                        -95.172297,
+                        16.906024
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "M\u00e9xico",
+        "country_code": "MX",
+        "full_name": "El Barrio de la Soledad, Oaxaca",
+        "id": "6bb437b563a048c7",
+        "name": "El Barrio de la Soledad",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/6bb437b563a048c7.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@google yo participo :)",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Nov 22 20:56:40 +0000 2015",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 672,
+        "follow_request_sent": false,
+        "followers_count": 36,
+        "following": false,
+        "friends_count": 155,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 4326872239,
+        "id_str": "4326872239",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 1,
+        "location": "Neverland",
+        "name": "Journalist#cero",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/672061816839667712/-oWPRt37_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/672061816839667712/-oWPRt37_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "betoescobar1917",
+        "statuses_count": 330,
+        "time_zone": null,
+        "url": null,
+        "utc_offset": null,
+        "verified": false
+    }
+}

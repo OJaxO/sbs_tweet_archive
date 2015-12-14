@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 08 12:46:22 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 30973,
+                "id_str": "30973",
+                "indices": [
+                    0,
+                    10
+                ],
+                "name": "Starbucks Coffee",
+                "screen_name": "Starbucks"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 674208395063336960,
+    "id_str": "674208395063336960",
+    "in_reply_to_screen_name": "Starbucks",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 30973,
+    "in_reply_to_user_id_str": "30973",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -83.353955,
+                        32.04683
+                    ],
+                    [
+                        -78.499301,
+                        32.04683
+                    ],
+                    [
+                        -78.499301,
+                        35.215449
+                    ],
+                    [
+                        -83.353955,
+                        35.215449
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "South Carolina, USA",
+        "id": "6057f1e35bcc6c20",
+        "name": "South Carolina",
+        "place_type": "admin",
+        "url": "https://api.twitter.com/1.1/geo/id/6057f1e35bcc6c20.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@Starbucks defies logic. Must be 25 people crammed in this cafe waiting for up to 5 minutes for a beverage. Guessing it's because it's good.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Jan 12 19:58:09 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Formerly @SECPRGuy, now Sr. Associate AD at University of South Carolina. These tweets are my own viewpoints. For official USC news, follow @GamecocksOnline.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "gamecocksonline.com",
+                        "expanded_url": "http://www.gamecocksonline.com",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/qtACHlR1Cg"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 6017,
+        "follow_request_sent": false,
+        "followers_count": 12202,
+        "following": false,
+        "friends_count": 1759,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 104256723,
+        "id_str": "104256723",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 412,
+        "location": "Columbia, SC",
+        "name": "Charles Bloom",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/735412971/54b5af46955edb14adfeece7d39f2620.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/735412971/54b5af46955edb14adfeece7d39f2620.jpeg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/104256723/1398254798",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/667918188173217792/jaT4LkE9_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/667918188173217792/jaT4LkE9_normal.jpg",
+        "profile_link_color": "4A913C",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "D5F0A7",
+        "profile_text_color": "B9E997",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "CharlesBloomSC",
+        "statuses_count": 20786,
+        "time_zone": "Eastern Time (US & Canada)",
+        "url": "https://t.co/qtACHlR1Cg",
+        "utc_offset": -18000,
+        "verified": false
+    }
+}

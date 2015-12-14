@@ -1,0 +1,156 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 07 17:49:02 +0000 2015",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    20,
+                    27
+                ],
+                "text": "Indian"
+            }
+        ],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "trak.in/tags/business/\u2026",
+                "expanded_url": "http://trak.in/tags/business/2015/01/20/facebook-impact-indian-economy/",
+                "indices": [
+                    65,
+                    88
+                ],
+                "url": "https://t.co/jCPmViz1Eu"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 2425151,
+                "id_str": "2425151",
+                "indices": [
+                    0,
+                    9
+                ],
+                "name": "Facebook",
+                "screen_name": "facebook"
+            }
+        ]
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": null,
+    "id": 673922174827151362,
+    "id_str": "673922174827151362",
+    "in_reply_to_screen_name": "facebook",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 2425151,
+    "in_reply_to_user_id_str": "2425151",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        89.3488235,
+                        22.8894691
+                    ],
+                    [
+                        91.3085938,
+                        22.8894691
+                    ],
+                    [
+                        91.3085938,
+                        25.3072923
+                    ],
+                    [
+                        89.3488235,
+                        25.3072923
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "Bangladesh",
+        "country_code": "BD",
+        "full_name": "Dhaka, Bangladesh",
+        "id": "001aff55522d96c9",
+        "name": "Dhaka",
+        "place_type": "admin",
+        "url": "https://api.twitter.com/1.1/geo/id/001aff55522d96c9.json"
+    },
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@Facebook impact on #Indian economy, $4B &amp; 335K jobs in 2014 https://t.co/jCPmViz1Eu",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Mar 26 13:43:24 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "An Ashoka Fellow, independent journalist, media rights defender, micro-blogger & messy work desk but secular humanist. saleemsamad@gmail.com",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "bangladeshwatchdog.blogspot.com",
+                        "expanded_url": "http://bangladeshwatchdog.blogspot.com",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/v6iYNNhYQ5"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 1531,
+        "follow_request_sent": false,
+        "followers_count": 1858,
+        "following": false,
+        "friends_count": 466,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 26751288,
+        "id_str": "26751288",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 36,
+        "location": "Dhaka, Bangladesh",
+        "name": "SALEEM SAMAD",
+        "notifications": false,
+        "profile_background_color": "642D8B",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/699428051/5574d97ba406a72021e00aa157053503.png",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/699428051/5574d97ba406a72021e00aa157053503.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/26751288/1367401595",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/673919481299599360/U339HrrB_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/673919481299599360/U339HrrB_normal.jpg",
+        "profile_link_color": "FF0000",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "7AC3EE",
+        "profile_text_color": "3D1957",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "saleemsamad",
+        "statuses_count": 7721,
+        "time_zone": "Dhaka",
+        "url": "http://t.co/v6iYNNhYQ5",
+        "utc_offset": 21600,
+        "verified": false
+    }
+}

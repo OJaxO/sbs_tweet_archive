@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Dec 06 15:11:43 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 147932302,
+                "id_str": "147932302",
+                "indices": [
+                    0,
+                    14
+                ],
+                "name": "Lloyds Bank",
+                "screen_name": "AskLloydsBank"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 673520198339702785,
+    "id_str": "673520198339702785",
+    "in_reply_to_screen_name": "AskLloydsBank",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 147932302,
+    "in_reply_to_user_id_str": "147932302",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -1.065041,
+                        51.4123385
+                    ],
+                    [
+                        -0.8990196,
+                        51.4123385
+                    ],
+                    [
+                        -0.8990196,
+                        51.4927093
+                    ],
+                    [
+                        -1.065041,
+                        51.4927093
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United Kingdom",
+        "country_code": "GB",
+        "full_name": "Reading, England",
+        "id": "5028e25dc94f3898",
+        "name": "Reading",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/5028e25dc94f3898.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@AskLloydsBank the cash machine has eaten our money and receipt but spat the card back :( Help!!!",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Apr 06 17:56:23 +0000 2008",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Evertonian who loves the fells, mobile development, and learning. Quite keen on kettlebells, weights, photography, cooking, beer, wine. Also found at @moggytech",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "krider.co.uk",
+                        "expanded_url": "http://www.krider.co.uk/",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/Q0sJdcd0rz"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 85,
+        "follow_request_sent": false,
+        "followers_count": 815,
+        "following": false,
+        "friends_count": 801,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 14316713,
+        "id_str": "14316713",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 64,
+        "location": "Berkshire, England",
+        "name": "krider2010",
+        "notifications": false,
+        "profile_background_color": "022330",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/14316713/1435173506",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/523518348718776320/Jix_IOJ3_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/523518348718776320/Jix_IOJ3_normal.jpeg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "A8C7F7",
+        "profile_sidebar_fill_color": "C0DFEC",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "krider2010",
+        "statuses_count": 22636,
+        "time_zone": "London",
+        "url": "http://t.co/Q0sJdcd0rz",
+        "utc_offset": 0,
+        "verified": false
+    }
+}

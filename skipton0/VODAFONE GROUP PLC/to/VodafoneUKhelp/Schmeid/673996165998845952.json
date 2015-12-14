@@ -1,0 +1,124 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 07 22:43:02 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 1567914936,
+                "id_str": "1567914936",
+                "indices": [
+                    0,
+                    15
+                ],
+                "name": "Vodafone UK Help",
+                "screen_name": "VodafoneUKhelp"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 673996165998845952,
+    "id_str": "673996165998845952",
+    "in_reply_to_screen_name": "VodafoneUKhelp",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 1567914936,
+    "in_reply_to_user_id_str": "1567914936",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -0.259465,
+                        51.417277
+                    ],
+                    [
+                        -0.127974,
+                        51.417277
+                    ],
+                    [
+                        -0.127974,
+                        51.486036
+                    ],
+                    [
+                        -0.259465,
+                        51.486036
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United Kingdom",
+        "country_code": "GB",
+        "full_name": "Wandsworth, London",
+        "id": "460c5314e8a33c64",
+        "name": "Wandsworth",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/460c5314e8a33c64.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@VodafoneUKhelp I've had 3G problems in Croydon for few weeks now. Very frustrating. What is going on?",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Apr 14 15:33:13 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "BSc (Hons) Health & Fitness. FdSc Sports Therapy. PAFC. FIFA FAP Cup - Winner x1 '14, Runner-up x1 '12, 3rd place x1 '15\nLondon janner.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 226,
+        "follow_request_sent": false,
+        "followers_count": 143,
+        "following": false,
+        "friends_count": 293,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 31147681,
+        "id_str": "31147681",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 8,
+        "location": "Plymouth / London",
+        "name": "Tom Smith",
+        "notifications": false,
+        "profile_background_color": "352726",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/31147681/1430823582",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/572704406946381824/6GF_QzSS_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/572704406946381824/6GF_QzSS_normal.jpeg",
+        "profile_link_color": "D02B55",
+        "profile_sidebar_border_color": "829D5E",
+        "profile_sidebar_fill_color": "99CC33",
+        "profile_text_color": "3E4415",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Schmeid",
+        "statuses_count": 1735,
+        "time_zone": "London",
+        "url": null,
+        "utc_offset": 0,
+        "verified": false
+    }
+}

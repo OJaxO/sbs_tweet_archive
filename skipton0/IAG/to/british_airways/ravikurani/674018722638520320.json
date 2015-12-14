@@ -1,0 +1,149 @@
+{
+    "contributors": null,
+    "coordinates": {
+        "coordinates": [
+            72.5115449,
+            23.0347727
+        ],
+        "type": "Point"
+    },
+    "created_at": "Tue Dec 08 00:12:40 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 18332190,
+                "id_str": "18332190",
+                "indices": [
+                    0,
+                    16
+                ],
+                "name": "British Airways",
+                "screen_name": "British_Airways"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": {
+        "coordinates": [
+            23.0347727,
+            72.5115449
+        ],
+        "type": "Point"
+    },
+    "id": 674018722638520320,
+    "id_str": "674018722638520320",
+    "in_reply_to_screen_name": "British_Airways",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 18332190,
+    "in_reply_to_user_id_str": "18332190",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        72.4300806,
+                        22.797559
+                    ],
+                    [
+                        72.8432746,
+                        22.797559
+                    ],
+                    [
+                        72.8432746,
+                        23.1642953
+                    ],
+                    [
+                        72.4300806,
+                        23.1642953
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "India",
+        "country_code": "IN",
+        "full_name": "Daskroi, Gujarat",
+        "id": "29df412574636590",
+        "name": "Daskroi",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/29df412574636590.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@British_Airways..got the luggage. Thank you for all the help.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Jun 25 07:15:22 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Providing vital insights and guidance for businesses looking to establish themselves in India and the UK. Views are pesonal",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "qxadvisors.com",
+                        "expanded_url": "http://www.qxadvisors.com/",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/klWzJ0U3Cz"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 45,
+        "follow_request_sent": false,
+        "followers_count": 277,
+        "following": false,
+        "friends_count": 650,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 50579251,
+        "id_str": "50579251",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 8,
+        "location": "Ahmedabad,India. Skipton, UK",
+        "name": "Ravi Kurani",
+        "notifications": false,
+        "profile_background_color": "022330",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/50579251/1386048123",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/484675913179594752/CRdOj7DN_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/484675913179594752/CRdOj7DN_normal.jpeg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "A8C7F7",
+        "profile_sidebar_fill_color": "C0DFEC",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "ravikurani",
+        "statuses_count": 1770,
+        "time_zone": null,
+        "url": "http://t.co/klWzJ0U3Cz",
+        "utc_offset": null,
+        "verified": false
+    }
+}

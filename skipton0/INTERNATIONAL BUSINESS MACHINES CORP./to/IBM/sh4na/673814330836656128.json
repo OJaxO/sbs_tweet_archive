@@ -1,0 +1,156 @@
+{
+    "contributors": null,
+    "coordinates": {
+        "coordinates": [
+            12.57926288,
+            55.68114476
+        ],
+        "type": "Point"
+    },
+    "created_at": "Mon Dec 07 10:40:29 +0000 2015",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    75,
+                    87
+                ],
+                "text": "womenintech"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 18994444,
+                "id_str": "18994444",
+                "indices": [
+                    0,
+                    4
+                ],
+                "name": "IBM",
+                "screen_name": "IBM"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": {
+        "coordinates": [
+            55.68114476,
+            12.57926288
+        ],
+        "type": "Point"
+    },
+    "id": 673814330836656128,
+    "id_str": "673814330836656128",
+    "in_reply_to_screen_name": "IBM",
+    "in_reply_to_status_id": 672809095213113344,
+    "in_reply_to_status_id_str": "672809095213113344",
+    "in_reply_to_user_id": 18994444,
+    "in_reply_to_user_id_str": "18994444",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        12.453064,
+                        55.613717
+                    ],
+                    [
+                        12.6511441,
+                        55.613717
+                    ],
+                    [
+                        12.6511441,
+                        55.731834
+                    ],
+                    [
+                        12.453064,
+                        55.731834
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "Danmark",
+        "country_code": "DK",
+        "full_name": "Copenhagen, Capital Region of Denmark",
+        "id": "936b83f20956cd4c",
+        "name": "Copenhagen",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/936b83f20956cd4c.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for i\u039fS</a>",
+    "text": "@IBM I don\u2019t own a hair dryer. Why would you assume women == hair dryer?!? #womenintech",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Apr 09 17:34:22 +0000 2008",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Doing fun things at GitHub.\nCoder, open source hacker, mono/unity ninja, indie dev, typing C, C++ and C# most of the day, VR enthusiast.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "blog.worldofcoding.com",
+                        "expanded_url": "http://blog.worldofcoding.com",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/8bPLeXkDsJ"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 3361,
+        "follow_request_sent": false,
+        "followers_count": 1495,
+        "following": false,
+        "friends_count": 501,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 14343621,
+        "id_str": "14343621",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 94,
+        "location": "Lisbon",
+        "name": "Andreia Gaita",
+        "notifications": false,
+        "profile_background_color": "C6E2EE",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/14170785/ratos_garfield2.png",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/14170785/ratos_garfield2.png",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/502932413316861953/nsJ2XwNT_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/502932413316861953/nsJ2XwNT_normal.jpeg",
+        "profile_link_color": "1F98C7",
+        "profile_sidebar_border_color": "C6E2EE",
+        "profile_sidebar_fill_color": "DAECF4",
+        "profile_text_color": "663B12",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "sh4na",
+        "statuses_count": 5316,
+        "time_zone": "Lisbon",
+        "url": "http://t.co/8bPLeXkDsJ",
+        "utc_offset": 0,
+        "verified": false
+    }
+}

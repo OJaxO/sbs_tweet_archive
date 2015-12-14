@@ -1,0 +1,156 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 08 05:53:43 +0000 2015",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    16,
+                    30
+                ],
+                "text": "cybersecurity"
+            }
+        ],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "reuters.com/article/idUSKB\u2026",
+                "expanded_url": "http://www.reuters.com/article/idUSKBN0TQ2TL20151208",
+                "indices": [
+                    33,
+                    56
+                ],
+                "url": "https://t.co/PHGLKaXSpk"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 19380829,
+                "id_str": "19380829",
+                "indices": [
+                    0,
+                    6
+                ],
+                "name": "Yahoo",
+                "screen_name": "Yahoo"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 674104550513582081,
+    "id_str": "674104550513582081",
+    "in_reply_to_screen_name": "Yahoo",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 19380829,
+    "in_reply_to_user_id_str": "19380829",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        22.3313101,
+                        36.4066118
+                    ],
+                    [
+                        22.482776,
+                        36.4066118
+                    ],
+                    [
+                        22.482776,
+                        36.7488819
+                    ],
+                    [
+                        22.3313101,
+                        36.7488819
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "Hellas",
+        "country_code": "GR",
+        "full_name": "Oitylo, Peloponnisos",
+        "id": "00a3a0b62edb8f94",
+        "name": "Oitylo",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/00a3a0b62edb8f94.json"
+    },
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+    "text": "@Yahoo: This is #cybersecurity \n\nhttps://t.co/PHGLKaXSpk",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Oct 08 09:32:04 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "twitter.com/Areopolis",
+                        "expanded_url": "http://twitter.com/Areopolis",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/dxOPv1O3dD"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 6844,
+        "follow_request_sent": false,
+        "followers_count": 250,
+        "following": false,
+        "friends_count": 0,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 387011349,
+        "id_str": "387011349",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "el",
+        "listed_count": 214,
+        "location": "\u1f08\u03c1\u03b5\u03cc\u03c0\u03bf\u03bb\u03b9\u03c2",
+        "name": "\u2022",
+        "notifications": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/387011349/1444880601",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/645998385053474816/7bekz7ot_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/645998385053474816/7bekz7ot_normal.jpg",
+        "profile_link_color": "ABB8C2",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "Areopolis",
+        "statuses_count": 77740,
+        "time_zone": "Kyiv",
+        "url": "https://t.co/dxOPv1O3dD",
+        "utc_offset": 7200,
+        "verified": false
+    }
+}

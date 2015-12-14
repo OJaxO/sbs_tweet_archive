@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 08 00:46:30 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 17226612,
+                "id_str": "17226612",
+                "indices": [
+                    0,
+                    9
+                ],
+                "name": "Novartis",
+                "screen_name": "Novartis"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 674027234819223556,
+    "id_str": "674027234819223556",
+    "in_reply_to_screen_name": "Novartis",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 17226612,
+    "in_reply_to_user_id_str": "17226612",
+    "is_quote_status": false,
+    "lang": "es",
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -58.500948,
+                        -34.817177
+                    ],
+                    [
+                        -58.336764,
+                        -34.817177
+                    ],
+                    [
+                        -58.336764,
+                        -34.688414
+                    ],
+                    [
+                        -58.500948,
+                        -34.688414
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "Argentina",
+        "country_code": "AR",
+        "full_name": "Lomas de Zamora, Argentina",
+        "id": "000ceddc32916a4c",
+        "name": "Lomas de Zamora",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/000ceddc32916a4c.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@Novartis xq no se vende el vibragel en argentina ??",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Feb 19 21:53:13 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Abogado, especializado en Derecho Laboral, Docente Universitario, Hincha de LANUS .M\u00e1s vale ser vencido diciendo la verdad que triunfar por la mentira'",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "estudioarturi.es.tl",
+                        "expanded_url": "http://www.estudioarturi.es.tl",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/2za6imHlxq"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 15150,
+        "follow_request_sent": false,
+        "followers_count": 681,
+        "following": false,
+        "friends_count": 1012,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 254727812,
+        "id_str": "254727812",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "es",
+        "listed_count": 16,
+        "location": "Gran Buenos Aires, Argentina",
+        "name": "Gustavo Arturi",
+        "notifications": false,
+        "profile_background_color": "3B94D9",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/254727812/1397948127",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/672951540089532416/en5nBrxd_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/672951540089532416/en5nBrxd_normal.jpg",
+        "profile_link_color": "3B94D9",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "gdarturi",
+        "statuses_count": 12364,
+        "time_zone": "Buenos Aires",
+        "url": "https://t.co/2za6imHlxq",
+        "utc_offset": -10800,
+        "verified": false
+    }
+}

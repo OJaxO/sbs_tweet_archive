@@ -1,0 +1,163 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Dec 09 03:19:44 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "media": [
+            {
+                "display_url": "pic.twitter.com/URkBvsVOmM",
+                "expanded_url": "http://twitter.com/DlNODAN/status/674428184197074944/photo/1",
+                "id": 674428182095773696,
+                "id_str": "674428182095773696",
+                "indices": [
+                    41,
+                    64
+                ],
+                "media_url": "http://pbs.twimg.com/media/CVwM27xUwAACcYL.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/CVwM27xUwAACcYL.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 259,
+                        "resize": "fit",
+                        "w": 742
+                    },
+                    "medium": {
+                        "h": 209,
+                        "resize": "fit",
+                        "w": 600
+                    },
+                    "small": {
+                        "h": 118,
+                        "resize": "fit",
+                        "w": 340
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/URkBvsVOmM"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 20793816,
+                "id_str": "20793816",
+                "indices": [
+                    0,
+                    7
+                ],
+                "name": "Amazon",
+                "screen_name": "amazon"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 674428184197074944,
+    "id_str": "674428184197074944",
+    "in_reply_to_screen_name": "amazon",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 20793816,
+    "in_reply_to_user_id_str": "20793816",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -122.248238,
+                        47.732453
+                    ],
+                    [
+                        -122.163654,
+                        47.732453
+                    ],
+                    [
+                        -122.163654,
+                        47.814554
+                    ],
+                    [
+                        -122.248238,
+                        47.814554
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Bothell, WA",
+        "id": "a285b156487ecf55",
+        "name": "Bothell",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/a285b156487ecf55.json"
+    },
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@amazon u have 41 minutes. dont be late. https://t.co/URkBvsVOmM",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Oct 26 22:52:33 +0000 2013",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "sc // calebryden",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 43488,
+        "follow_request_sent": false,
+        "followers_count": 852,
+        "following": false,
+        "friends_count": 338,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 2157672884,
+        "id_str": "2157672884",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 7,
+        "location": "PNW",
+        "name": "c    hild",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2157672884/1448754325",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/670750213108174848/4YC9MRiH_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/670750213108174848/4YC9MRiH_normal.jpg",
+        "profile_link_color": "4A913C",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "DlNODAN",
+        "statuses_count": 35352,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": null,
+        "utc_offset": -28800,
+        "verified": false
+    }
+}

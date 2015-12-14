@@ -1,0 +1,147 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 07 16:45:24 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "track.mobetrack.com/aff_c?offer_id\u2026",
+                "expanded_url": "http://track.mobetrack.com/aff_c?offer_id=986&aff_id=483810&aff_sub=PayDays",
+                "indices": [
+                    11,
+                    34
+                ],
+                "url": "https://t.co/MoYiEa619J"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 20536157,
+                "id_str": "20536157",
+                "indices": [
+                    0,
+                    7
+                ],
+                "name": "Google",
+                "screen_name": "google"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 673906164212604928,
+    "id_str": "673906164212604928",
+    "in_reply_to_screen_name": "google",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 20536157,
+    "in_reply_to_user_id_str": "20536157",
+    "is_quote_status": false,
+    "lang": "und",
+    "metadata": {
+        "iso_language_code": "und",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -141.5610942,
+                        41.676329
+                    ],
+                    [
+                        -51.053519,
+                        41.676329
+                    ],
+                    [
+                        -51.053519,
+                        89.9999
+                    ],
+                    [
+                        -141.5610942,
+                        89.9999
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "Canada",
+        "country_code": "CA",
+        "full_name": "Canada",
+        "id": "3376992a082d67c7",
+        "name": "Canada",
+        "place_type": "country",
+        "url": "https://api.twitter.com/1.1/geo/id/3376992a082d67c7.json"
+    },
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@google    https://t.co/MoYiEa619J",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Apr 29 21:25:07 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "My name is Veneranda Nik. I help anyone to find the best of life!  Feel healthy, strong and good looking by doing what is important.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "about.me/goodlink",
+                        "expanded_url": "http://about.me/goodlink",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/ARqEjg6lkF"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 37,
+        "follow_request_sent": false,
+        "followers_count": 398,
+        "following": false,
+        "friends_count": 550,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 36486468,
+        "id_str": "36486468",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 15,
+        "location": "",
+        "name": "Veneranda",
+        "notifications": false,
+        "profile_background_color": "ACDED6",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/635799695571324928/amxD1pib_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/635799695571324928/amxD1pib_normal.jpg",
+        "profile_link_color": "038543",
+        "profile_sidebar_border_color": "EEEEEE",
+        "profile_sidebar_fill_color": "F6F6F6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "venenik",
+        "statuses_count": 1874,
+        "time_zone": "Central Time (US & Canada)",
+        "url": "https://t.co/ARqEjg6lkF",
+        "utc_offset": -21600,
+        "verified": false
+    }
+}

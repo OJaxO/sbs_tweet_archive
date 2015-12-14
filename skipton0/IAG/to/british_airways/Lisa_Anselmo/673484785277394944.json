@@ -1,0 +1,149 @@
+{
+    "contributors": null,
+    "coordinates": {
+        "coordinates": [
+            2.35709351,
+            48.72748121
+        ],
+        "type": "Point"
+    },
+    "created_at": "Sun Dec 06 12:51:00 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 18332190,
+                "id_str": "18332190",
+                "indices": [
+                    0,
+                    16
+                ],
+                "name": "British Airways",
+                "screen_name": "British_Airways"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": {
+        "coordinates": [
+            48.72748121,
+            2.35709351
+        ],
+        "type": "Point"
+    },
+    "id": 673484785277394944,
+    "id_str": "673484785277394944",
+    "in_reply_to_screen_name": "British_Airways",
+    "in_reply_to_status_id": 673481532590456832,
+    "in_reply_to_status_id_str": "673481532590456832",
+    "in_reply_to_user_id": 18332190,
+    "in_reply_to_user_id_str": "18332190",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        2.3437641,
+                        48.7017271
+                    ],
+                    [
+                        2.3713557,
+                        48.7017271
+                    ],
+                    [
+                        2.3713557,
+                        48.7462166
+                    ],
+                    [
+                        2.3437641,
+                        48.7462166
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "France",
+        "country_code": "FR",
+        "full_name": "Paray-Vieille-Poste, Ile-de-France",
+        "id": "7d4c44d97745bb48",
+        "name": "Paray-Vieille-Poste",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/7d4c44d97745bb48.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@British_Airways oh I know I will!",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Apr 17 21:30:57 +0000 2012",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Writer, branding guru, New Yorker, (Parttime) Parisian. There are other Lisa Anselmos out there, but I'm the real thing. Accept no substitutes.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "myparttimeparislife.com",
+                        "expanded_url": "http://myparttimeparislife.com/",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/p5aEyTIJWH"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 851,
+        "follow_request_sent": false,
+        "followers_count": 453,
+        "following": false,
+        "friends_count": 653,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 556381917,
+        "id_str": "556381917",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 17,
+        "location": "New York & Paris",
+        "name": "Lisa Anselmo",
+        "notifications": false,
+        "profile_background_color": "F5D8B6",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/528323046/Paris-pic-4.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/528323046/Paris-pic-4.jpg",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/556381917/1446527587",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/661412143879888896/CWZnIeOP_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/661412143879888896/CWZnIeOP_normal.jpg",
+        "profile_link_color": "FE1E07",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Lisa_Anselmo",
+        "statuses_count": 900,
+        "time_zone": "Atlantic Time (Canada)",
+        "url": "http://t.co/p5aEyTIJWH",
+        "utc_offset": -14400,
+        "verified": false
+    }
+}

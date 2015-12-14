@@ -1,0 +1,147 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 08 23:00:17 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 30973,
+                "id_str": "30973",
+                "indices": [
+                    0,
+                    10
+                ],
+                "name": "Starbucks Coffee",
+                "screen_name": "Starbucks"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 674362892364283912,
+    "id_str": "674362892364283912",
+    "in_reply_to_screen_name": "Starbucks",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 30973,
+    "in_reply_to_user_id_str": "30973",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -112.0383105,
+                        40.6998952
+                    ],
+                    [
+                        -111.795741,
+                        40.6998952
+                    ],
+                    [
+                        -111.795741,
+                        40.8317151
+                    ],
+                    [
+                        -112.0383105,
+                        40.8317151
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Salt Lake City, UT",
+        "id": "bd7c511e9f8bc5da",
+        "name": "Salt Lake City",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/bd7c511e9f8bc5da.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@Starbucks should deliver to my office since it's right next door and I can't leave in the middle of a sales pitch",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon May 02 08:26:03 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "| Little Miss Socialite | BYU/UVU Alumni | DC/SLC | Global Affairs |  BusDev Evangelist |  https://t.co/9DontXYA88.Fury. |",
+        "entities": {
+            "description": {
+                "urls": [
+                    {
+                        "display_url": "Passion.Drive",
+                        "expanded_url": "http://Passion.Drive",
+                        "indices": [
+                            91,
+                            114
+                        ],
+                        "url": "https://t.co/9DontXYA88"
+                    }
+                ]
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "facebook.com/bgraceharringt\u2026",
+                        "expanded_url": "https://www.facebook.com/bgraceharrington",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/OjR1lcJmcx"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 416,
+        "follow_request_sent": false,
+        "followers_count": 409,
+        "following": false,
+        "friends_count": 420,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 291586449,
+        "id_str": "291586449",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 24,
+        "location": "DC and Utah",
+        "name": "Grace Harrington",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/291586449/1427857203",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1335434420/me001_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1335434420/me001_normal.jpg",
+        "profile_link_color": "DD2E44",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "mmmazingGrace",
+        "statuses_count": 1481,
+        "time_zone": "Mountain Time (US & Canada)",
+        "url": "https://t.co/OjR1lcJmcx",
+        "utc_offset": -25200,
+        "verified": false
+    }
+}

@@ -1,0 +1,124 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 07 06:51:01 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 20536157,
+                "id_str": "20536157",
+                "indices": [
+                    0,
+                    7
+                ],
+                "name": "Google",
+                "screen_name": "google"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 673756582803410945,
+    "id_str": "673756582803410945",
+    "in_reply_to_screen_name": "google",
+    "in_reply_to_status_id": 672834508434104320,
+    "in_reply_to_status_id_str": "672834508434104320",
+    "in_reply_to_user_id": 20536157,
+    "in_reply_to_user_id_str": "20536157",
+    "is_quote_status": false,
+    "lang": "in",
+    "metadata": {
+        "iso_language_code": "in",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        108.191432,
+                        -7.583478
+                    ],
+                    [
+                        108.338921,
+                        -7.583478
+                    ],
+                    [
+                        108.338921,
+                        -7.431779
+                    ],
+                    [
+                        108.191432,
+                        -7.431779
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "Indonesia",
+        "country_code": "ID",
+        "full_name": "Salopa, West Java",
+        "id": "cbe9151b6fafe9a2",
+        "name": "Salopa",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/cbe9151b6fafe9a2.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@google kapan google loon project hadir di Indonesia?",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Sep 27 05:06:06 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Part time trader. Full time learner.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 1317,
+        "follow_request_sent": false,
+        "followers_count": 508,
+        "following": false,
+        "friends_count": 401,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 77665660,
+        "id_str": "77665660",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 0,
+        "location": "Parallel Universe",
+        "name": "Firboy",
+        "notifications": false,
+        "profile_background_color": "022330",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/582106747969495040/6ZI1MTDH.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/582106747969495040/6ZI1MTDH.jpg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/77665660/1438791825",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/673225410641981440/JVD55Vc3_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/673225410641981440/JVD55Vc3_normal.jpg",
+        "profile_link_color": "89C9FA",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "C0DFEC",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Firman__",
+        "statuses_count": 7998,
+        "time_zone": "Hawaii",
+        "url": null,
+        "utc_offset": -36000,
+        "verified": false
+    }
+}

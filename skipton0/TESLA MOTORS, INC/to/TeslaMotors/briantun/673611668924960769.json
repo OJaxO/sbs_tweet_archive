@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Dec 06 21:15:11 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 13298072,
+                "id_str": "13298072",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "Tesla Motors",
+                "screen_name": "TeslaMotors"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 673611668924960769,
+    "id_str": "673611668924960769",
+    "in_reply_to_screen_name": "TeslaMotors",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 13298072,
+    "in_reply_to_user_id_str": "13298072",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -121.788114,
+                        37.299085
+                    ],
+                    [
+                        -121.771314,
+                        37.299085
+                    ],
+                    [
+                        -121.771314,
+                        37.310702
+                    ],
+                    [
+                        -121.788114,
+                        37.310702
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Creekside, San Jose",
+        "id": "1c70325e544f4106",
+        "name": "Creekside",
+        "place_type": "neighborhood",
+        "url": "https://api.twitter.com/1.1/geo/id/1c70325e544f4106.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for i\u039fS</a>",
+    "text": "@TeslaMotors feature idea: use rear camera to detect and avoid inattentive drivers to prevent being rear ended",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Nov 02 03:13:46 +0000 2007",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "enjoys making things with software & hardware to solve everyday problems, running, music",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "flippybits.com",
+                        "expanded_url": "http://www.flippybits.com",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/fbOx5gzpf5"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 13,
+        "follow_request_sent": false,
+        "followers_count": 169,
+        "following": false,
+        "friends_count": 79,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 9873542,
+        "id_str": "9873542",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 9,
+        "location": "San Jose, CA ",
+        "name": "brian tunning",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/9873542/1444702446",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/653757322720776192/mDKB2xF4_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/653757322720776192/mDKB2xF4_normal.jpg",
+        "profile_link_color": "94D487",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "briantun",
+        "statuses_count": 349,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "http://t.co/fbOx5gzpf5",
+        "utc_offset": -28800,
+        "verified": false
+    }
+}

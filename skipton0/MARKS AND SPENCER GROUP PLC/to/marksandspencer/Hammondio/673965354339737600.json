@@ -1,0 +1,124 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 07 20:40:36 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 37916167,
+                "id_str": "37916167",
+                "indices": [
+                    0,
+                    16
+                ],
+                "name": "M&S",
+                "screen_name": "marksandspencer"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 673965354339737600,
+    "id_str": "673965354339737600",
+    "in_reply_to_screen_name": "marksandspencer",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 37916167,
+    "in_reply_to_user_id_str": "37916167",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -0.519818,
+                        51.356614
+                    ],
+                    [
+                        -0.470621,
+                        51.356614
+                    ],
+                    [
+                        -0.470621,
+                        51.380895
+                    ],
+                    [
+                        -0.519818,
+                        51.380895
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United Kingdom",
+        "country_code": "GB",
+        "full_name": "Addlestone, England",
+        "id": "1e60688f224f6d5f",
+        "name": "Addlestone",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/1e60688f224f6d5f.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@marksandspencer Really unfair you can only use unique code once! I forgot to add something to order and now can't get 20% off!!",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Aug 26 10:20:33 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Big \u2764\ufe0f",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 43,
+        "follow_request_sent": false,
+        "followers_count": 57,
+        "following": false,
+        "friends_count": 236,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 68946120,
+        "id_str": "68946120",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 0,
+        "location": "Weybridge, Surrey",
+        "name": "Miss Shelley",
+        "notifications": false,
+        "profile_background_color": "FF6699",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme11/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme11/bg.gif",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/68946120/1404943759",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/627972959265759236/bLq5TlhG_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/627972959265759236/bLq5TlhG_normal.jpg",
+        "profile_link_color": "B40B43",
+        "profile_sidebar_border_color": "CC3366",
+        "profile_sidebar_fill_color": "E5507E",
+        "profile_text_color": "362720",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Hammondio",
+        "statuses_count": 636,
+        "time_zone": "London",
+        "url": null,
+        "utc_offset": 0,
+        "verified": false
+    }
+}

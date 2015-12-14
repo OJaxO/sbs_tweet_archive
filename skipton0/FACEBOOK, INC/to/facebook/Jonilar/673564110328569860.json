@@ -1,0 +1,225 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Dec 06 18:06:12 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "media": [
+            {
+                "display_url": "pic.twitter.com/F05RGmwo6k",
+                "expanded_url": "http://twitter.com/Jonilar/status/673564110328569860/photo/1",
+                "id": 673564063163654144,
+                "id_str": "673564063163654144",
+                "indices": [
+                    108,
+                    131
+                ],
+                "media_url": "http://pbs.twimg.com/media/CVj68l5WoAAOx1T.png",
+                "media_url_https": "https://pbs.twimg.com/media/CVj68l5WoAAOx1T.png",
+                "sizes": {
+                    "large": {
+                        "h": 800,
+                        "resize": "fit",
+                        "w": 480
+                    },
+                    "medium": {
+                        "h": 800,
+                        "resize": "fit",
+                        "w": 480
+                    },
+                    "small": {
+                        "h": 566,
+                        "resize": "fit",
+                        "w": 340
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/F05RGmwo6k"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 2425151,
+                "id_str": "2425151",
+                "indices": [
+                    0,
+                    9
+                ],
+                "name": "Facebook",
+                "screen_name": "facebook"
+            },
+            {
+                "id": 310709509,
+                "id_str": "310709509",
+                "indices": [
+                    77,
+                    90
+                ],
+                "name": "SHATTA WALE",
+                "screen_name": "shattawalegh"
+            },
+            {
+                "id": 359462620,
+                "id_str": "359462620",
+                "indices": [
+                    91,
+                    99
+                ],
+                "name": "4X4 GHANA",
+                "screen_name": "Real4x4"
+            },
+            {
+                "id": 33209330,
+                "id_str": "33209330",
+                "indices": [
+                    100,
+                    107
+                ],
+                "name": "R2b's(Refus2BeBroke)",
+                "screen_name": "r2bees"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 673564110328569860,
+    "id_str": "673564110328569860",
+    "in_reply_to_screen_name": "facebook",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 2425151,
+    "in_reply_to_user_id_str": "2425151",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        0.5713466,
+                        5.7705773
+                    ],
+                    [
+                        0.6618681,
+                        5.7705773
+                    ],
+                    [
+                        0.6618681,
+                        5.7867683
+                    ],
+                    [
+                        0.5713466,
+                        5.7867683
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "Ghana",
+        "country_code": "GH",
+        "full_name": "Ada, Ghana",
+        "id": "00b220412fc2e8af",
+        "name": "Ada",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/00b220412fc2e8af.json"
+    },
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@facebook do something about this. Too much hacking of verified accounts cc: @shattawalegh @Real4x4 @r2bees https://t.co/F05RGmwo6k",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Apr 17 04:15:54 +0000 2013",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Brand Manager/Blogger/Promoter/Publicist :@ShowbizGHLive|Prov 22| +233246106248|Fb: http://t.co/Ov89sydM2r | http://t.co/jXqv3gfHCj",
+        "entities": {
+            "description": {
+                "urls": [
+                    {
+                        "display_url": "Facebook.com/JonilarGH",
+                        "expanded_url": "http://Facebook.com/JonilarGH",
+                        "indices": [
+                            84,
+                            106
+                        ],
+                        "url": "http://t.co/Ov89sydM2r"
+                    },
+                    {
+                        "display_url": "Jonilar.tumblr.com",
+                        "expanded_url": "http://Jonilar.tumblr.com",
+                        "indices": [
+                            109,
+                            131
+                        ],
+                        "url": "http://t.co/jXqv3gfHCj"
+                    }
+                ]
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "jonilar.net",
+                        "expanded_url": "http://www.jonilar.net",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/Qda9AnW091"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 580,
+        "follow_request_sent": false,
+        "followers_count": 17413,
+        "following": false,
+        "friends_count": 18510,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 1358545663,
+        "id_str": "1358545663",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 30,
+        "location": "Accra, Ghana",
+        "name": "Jonilar\u2122",
+        "notifications": false,
+        "profile_background_color": "1A1B1F",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/659601795644157952/L8XO1Mrw.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/659601795644157952/L8XO1Mrw.jpg",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1358545663/1443209188",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/670709230740090880/hYT0b2yT_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/670709230740090880/hYT0b2yT_normal.jpg",
+        "profile_link_color": "2FC2EF",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Jonilar",
+        "statuses_count": 23860,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "https://t.co/Qda9AnW091",
+        "utc_offset": -28800,
+        "verified": false
+    }
+}

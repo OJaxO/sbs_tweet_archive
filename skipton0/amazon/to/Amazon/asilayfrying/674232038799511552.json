@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 08 14:20:19 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 20793816,
+                "id_str": "20793816",
+                "indices": [
+                    0,
+                    7
+                ],
+                "name": "Amazon",
+                "screen_name": "amazon"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 674232038799511552,
+    "id_str": "674232038799511552",
+    "in_reply_to_screen_name": "amazon",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 20793816,
+    "in_reply_to_user_id_str": "20793816",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -106.10308,
+                        35.586659
+                    ],
+                    [
+                        -105.895133,
+                        35.586659
+                    ],
+                    [
+                        -105.895133,
+                        35.726444
+                    ],
+                    [
+                        -106.10308,
+                        35.726444
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Santa Fe, NM",
+        "id": "ebdd9f30d3abfc43",
+        "name": "Santa Fe",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/ebdd9f30d3abfc43.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@amazon I love having prime but there isn't a point if USPS struggles to make deliveries by the promised day ... every order ... \ud83d\ude21",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Mar 28 02:49:17 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "I am a dreamer living in the high desert. I love, I write, I adventure every chance I get, I live the good life & I'm a hippie at heart \u0950",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "facebook.com/alison.gamache",
+                        "expanded_url": "https://www.facebook.com/alison.gamache",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/GGFlbK174N"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 608,
+        "follow_request_sent": false,
+        "followers_count": 484,
+        "following": false,
+        "friends_count": 1431,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 273232622,
+        "id_str": "273232622",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 6,
+        "location": "New Mexico ",
+        "name": "\u273f\u263ddesertflower\u263c\u0950",
+        "notifications": false,
+        "profile_background_color": "352726",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/518975489772236801/h5UCU0rw.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/518975489772236801/h5UCU0rw.jpeg",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/273232622/1434412457",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/664826257612279809/z2w71ptV_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/664826257612279809/z2w71ptV_normal.jpg",
+        "profile_link_color": "9266CC",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "BF22C7",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "asilayfrying",
+        "statuses_count": 4333,
+        "time_zone": "Mountain Time (US & Canada)",
+        "url": "https://t.co/GGFlbK174N",
+        "utc_offset": -25200,
+        "verified": false
+    }
+}

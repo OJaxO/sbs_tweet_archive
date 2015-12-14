@@ -1,0 +1,251 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 08 02:45:06 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/josecristancho\u2026",
+                "expanded_url": "https://twitter.com/josecristancho/status/674023637154967552",
+                "indices": [
+                    104,
+                    127
+                ],
+                "url": "https://t.co/NI2mTZwfty"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 783214,
+                "id_str": "783214",
+                "indices": [
+                    0,
+                    8
+                ],
+                "name": "Twitter",
+                "screen_name": "twitter"
+            },
+            {
+                "id": 85426644,
+                "id_str": "85426644",
+                "indices": [
+                    9,
+                    24
+                ],
+                "name": "Twitter en espa\u00f1ol",
+                "screen_name": "TwitterEspanol"
+            }
+        ]
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": null,
+    "id": 674057080584708096,
+    "id_str": "674057080584708096",
+    "in_reply_to_screen_name": "twitter",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 783214,
+    "in_reply_to_user_id_str": "783214",
+    "is_quote_status": true,
+    "lang": "es",
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "place": null,
+    "possibly_sensitive": false,
+    "quoted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Tue Dec 08 00:32:12 +0000 2015",
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "id": 783214,
+                    "id_str": "783214",
+                    "indices": [
+                        3,
+                        11
+                    ],
+                    "name": "Twitter",
+                    "screen_name": "twitter"
+                }
+            ]
+        },
+        "favorite_count": 1,
+        "favorited": false,
+        "geo": null,
+        "id": 674023637154967552,
+        "id_str": "674023637154967552",
+        "in_reply_to_screen_name": null,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "is_quote_status": false,
+        "lang": "es",
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "place": {
+            "attributes": {},
+            "bounding_box": {
+                "coordinates": [
+                    [
+                        [
+                            -72.2442398,
+                            7.7418295
+                        ],
+                        [
+                            -72.195282,
+                            7.7418295
+                        ],
+                        [
+                            -72.195282,
+                            7.7971587
+                        ],
+                        [
+                            -72.2442398,
+                            7.7971587
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "contained_within": [],
+            "country": "Venezuela",
+            "country_code": "VE",
+            "full_name": "San Crist\u00f3bal, T\u00e1chira",
+            "id": "01a73d6169f504ac",
+            "name": "San Crist\u00f3bal",
+            "place_type": "city",
+            "url": "https://api.twitter.com/1.1/geo/id/01a73d6169f504ac.json"
+        },
+        "retweet_count": 2,
+        "retweeted": false,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "En @twitter hace falta un bot\u00f3n de \"no me gusta\".",
+        "truncated": false,
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Thu Apr 16 02:54:37 +0000 2009",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "Venezolano, profesor universitario, investigador, doctor en educaci\u00f3n. Sonr\u00ede, haz el bien y s\u00e9 feliz.",
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "josecristancho.wordpress.com",
+                            "expanded_url": "http://josecristancho.wordpress.com",
+                            "indices": [
+                                0,
+                                23
+                            ],
+                            "url": "https://t.co/TNmeMc9J3J"
+                        }
+                    ]
+                }
+            },
+            "favourites_count": 14330,
+            "follow_request_sent": false,
+            "followers_count": 2255,
+            "following": false,
+            "friends_count": 935,
+            "geo_enabled": true,
+            "has_extended_profile": true,
+            "id": 31616575,
+            "id_str": "31616575",
+            "is_translation_enabled": false,
+            "is_translator": false,
+            "lang": "es",
+            "listed_count": 54,
+            "location": "Venezuela / Colombia",
+            "name": "Jos\u00e9 A. Cristancho",
+            "notifications": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/31616575/1449501745",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/673873591004479488/UYjzVIbz_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/673873591004479488/UYjzVIbz_normal.jpg",
+            "profile_link_color": "3B94D9",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "protected": false,
+            "screen_name": "JoseCristancho",
+            "statuses_count": 22069,
+            "time_zone": "Caracas",
+            "url": "https://t.co/TNmeMc9J3J",
+            "utc_offset": -16200,
+            "verified": false
+        }
+    },
+    "quoted_status_id": 674023637154967552,
+    "quoted_status_id_str": "674023637154967552",
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@twitter @TwitterEspanol es cierto le falta un bot\u00f3n de \"no me gusta\" Twitter needs a dislike bottom... https://t.co/NI2mTZwfty",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Oct 07 01:37:07 +0000 2012",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "abogado, opositor radical, totalmente en contra de este desgobierno que acabo con VZLA! cuando un comunista me bloquea significa que no tiene mas argumentos!",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 38,
+        "follow_request_sent": false,
+        "followers_count": 134,
+        "following": false,
+        "friends_count": 228,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 865581192,
+        "id_str": "865581192",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "es",
+        "listed_count": 1,
+        "location": "",
+        "name": "carlos mujica",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/865581192/1448252173",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/673718859178893313/zuZ_Ul3Y_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/673718859178893313/zuZ_Ul3Y_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "cmujicah",
+        "statuses_count": 3938,
+        "time_zone": null,
+        "url": null,
+        "utc_offset": null,
+        "verified": false
+    }
+}

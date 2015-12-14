@@ -1,0 +1,167 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 07 21:36:55 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 30973,
+                "id_str": "30973",
+                "indices": [
+                    0,
+                    10
+                ],
+                "name": "Starbucks Coffee",
+                "screen_name": "Starbucks"
+            },
+            {
+                "id": 73200694,
+                "id_str": "73200694",
+                "indices": [
+                    12,
+                    18
+                ],
+                "name": "Coach, Inc.",
+                "screen_name": "Coach"
+            },
+            {
+                "id": 69396147,
+                "id_str": "69396147",
+                "indices": [
+                    20,
+                    31
+                ],
+                "name": "Fujifilm",
+                "screen_name": "FujifilmUS"
+            },
+            {
+                "id": 15846407,
+                "id_str": "15846407",
+                "indices": [
+                    60,
+                    73
+                ],
+                "name": "Ellen DeGeneres",
+                "screen_name": "TheEllenShow"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 673979523919163392,
+    "id_str": "673979523919163392",
+    "in_reply_to_screen_name": "Starbucks",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 30973,
+    "in_reply_to_user_id_str": "30973",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -84.820272,
+                        38.403186
+                    ],
+                    [
+                        -80.518626,
+                        38.403186
+                    ],
+                    [
+                        -80.518626,
+                        42.327133
+                    ],
+                    [
+                        -84.820272,
+                        42.327133
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Ohio, USA",
+        "id": "de599025180e2ee7",
+        "name": "Ohio",
+        "place_type": "admin",
+        "url": "https://api.twitter.com/1.1/geo/id/de599025180e2ee7.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@Starbucks, @Coach, @FujifilmUS, what I would give to be at @TheEllenShow 12-Days of Giveaways today!",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Feb 15 21:37:35 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "@OhioU environmental biology aluma & amateur photographer | adventuring from hiking boots to heels | Passionate about sustainability & sea creatures.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "instagram.com/beccamathews",
+                        "expanded_url": "http://instagram.com/beccamathews",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/aD602nFqSp"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 1067,
+        "follow_request_sent": false,
+        "followers_count": 466,
+        "following": false,
+        "friends_count": 708,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 114570838,
+        "id_str": "114570838",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 13,
+        "location": "Columbus, OH",
+        "name": "Becca Mathews",
+        "notifications": false,
+        "profile_background_color": "FFCC4D",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/580088435412594688/WztL00K4.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/580088435412594688/WztL00K4.jpg",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/114570838/1447983124",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/667514336626106368/UuH5HDlM_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/667514336626106368/UuH5HDlM_normal.jpg",
+        "profile_link_color": "3B94D9",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "9FA3A6",
+        "profile_text_color": "0F0F0E",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "BeccaAMathews",
+        "statuses_count": 3175,
+        "time_zone": "Eastern Time (US & Canada)",
+        "url": "https://t.co/aD602nFqSp",
+        "utc_offset": -18000,
+        "verified": false
+    }
+}

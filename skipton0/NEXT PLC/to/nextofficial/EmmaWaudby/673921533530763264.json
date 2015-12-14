@@ -1,0 +1,124 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 07 17:46:29 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 43299388,
+                "id_str": "43299388",
+                "indices": [
+                    0,
+                    13
+                ],
+                "name": "Next",
+                "screen_name": "nextofficial"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 673921533530763264,
+    "id_str": "673921533530763264",
+    "in_reply_to_screen_name": "nextofficial",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 43299388,
+    "in_reply_to_user_id_str": "43299388",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -0.422572,
+                        53.719616
+                    ],
+                    [
+                        -0.2453134,
+                        53.719616
+                    ],
+                    [
+                        -0.2453134,
+                        53.812018
+                    ],
+                    [
+                        -0.422572,
+                        53.812018
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United Kingdom",
+        "country_code": "GB",
+        "full_name": "Hull, England",
+        "id": "7bc0da87641dd821",
+        "name": "Hull",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/7bc0da87641dd821.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@nextofficial what time do your couriers finish?  Been waiting all day for a delivery that still hasn't arrived \ud83d\ude15",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Oct 09 20:40:17 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "\u201cGive a girl the right shoes and she can conquer the world.\u201d \u2014Marilyn Monroe",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 59,
+        "follow_request_sent": false,
+        "followers_count": 146,
+        "following": false,
+        "friends_count": 461,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 387889513,
+        "id_str": "387889513",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 1,
+        "location": "Hull",
+        "name": "Emma Waudby",
+        "notifications": false,
+        "profile_background_color": "1A1B1F",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/601011897/oejxmyied7gd9js4ln5c.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/601011897/oejxmyied7gd9js4ln5c.jpeg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/387889513/1367189137",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/673253416450289664/-Fed7I8u_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/673253416450289664/-Fed7I8u_normal.jpg",
+        "profile_link_color": "2FC2EF",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "252429",
+        "profile_text_color": "666666",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "EmmaWaudby",
+        "statuses_count": 929,
+        "time_zone": "London",
+        "url": null,
+        "utc_offset": 0,
+        "verified": false
+    }
+}

@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Nov 30 11:20:14 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 21021891,
+                "id_str": "21021891",
+                "indices": [
+                    0,
+                    8
+                ],
+                "name": "Chevron",
+                "screen_name": "Chevron"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 671287617896452096,
+    "id_str": "671287617896452096",
+    "in_reply_to_screen_name": "Chevron",
+    "in_reply_to_status_id": 668934321072242688,
+    "in_reply_to_status_id_str": "668934321072242688",
+    "in_reply_to_user_id": 21021891,
+    "in_reply_to_user_id_str": "21021891",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -106.645646,
+                        25.837092
+                    ],
+                    [
+                        -93.508131,
+                        25.837092
+                    ],
+                    [
+                        -93.508131,
+                        36.500695
+                    ],
+                    [
+                        -106.645646,
+                        36.500695
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Texas, USA",
+        "id": "e0060cda70f5f341",
+        "name": "Texas",
+        "place_type": "admin",
+        "url": "https://api.twitter.com/1.1/geo/id/e0060cda70f5f341.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@Chevron More typical, some 40 or 50 something white guy with a a construction biz sweating to keep the IRS and EPA off his back.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Feb 08 13:21:04 +0000 2015",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "USSKittyhawk CV-63 & USSLuce DDG-38, USN hon '81-85. Pro-Military Libertarian, Snr Aide US Rep Ron Paul '97-'03 FSU grad, vistd 25 nations/5 conts, spk 6+ langs",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "libertarianrepublican.net",
+                        "expanded_url": "http://www.libertarianrepublican.net",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/3yIsUrQ7oJ"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 2485,
+        "follow_request_sent": false,
+        "followers_count": 388,
+        "following": false,
+        "friends_count": 188,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 3013468825,
+        "id_str": "3013468825",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 50,
+        "location": "Texas Gulf Coast",
+        "name": "Eric Dondero R.",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3013468825/1423403926",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/564415333461536768/feKZX4U9_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/564415333461536768/feKZX4U9_normal.jpeg",
+        "profile_link_color": "3B94D9",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "DonderolibtR",
+        "statuses_count": 19457,
+        "time_zone": null,
+        "url": "http://t.co/3yIsUrQ7oJ",
+        "utc_offset": null,
+        "verified": false
+    }
+}

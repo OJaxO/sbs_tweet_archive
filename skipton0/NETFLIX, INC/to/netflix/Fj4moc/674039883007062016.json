@@ -1,0 +1,163 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 08 01:36:45 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "media": [
+            {
+                "display_url": "pic.twitter.com/0MPAuURVlu",
+                "expanded_url": "http://twitter.com/Fj4moc/status/674039883007062016/photo/1",
+                "id": 674039878204567552,
+                "id_str": "674039878204567552",
+                "indices": [
+                    63,
+                    86
+                ],
+                "media_url": "http://pbs.twimg.com/media/CVqrsrDUsAAQi9H.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/CVqrsrDUsAAQi9H.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 768,
+                        "resize": "fit",
+                        "w": 1024
+                    },
+                    "medium": {
+                        "h": 450,
+                        "resize": "fit",
+                        "w": 600
+                    },
+                    "small": {
+                        "h": 255,
+                        "resize": "fit",
+                        "w": 340
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/0MPAuURVlu"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 16573941,
+                "id_str": "16573941",
+                "indices": [
+                    0,
+                    8
+                ],
+                "name": "Netflix US",
+                "screen_name": "netflix"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 674039883007062016,
+    "id_str": "674039883007062016",
+    "in_reply_to_screen_name": "netflix",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 16573941,
+    "in_reply_to_user_id_str": "16573941",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -117.944051,
+                        33.691774
+                    ],
+                    [
+                        -117.830826,
+                        33.691774
+                    ],
+                    [
+                        -117.830826,
+                        33.78821
+                    ],
+                    [
+                        -117.944051,
+                        33.78821
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Santa Ana, CA",
+        "id": "0562e9e53cddf6ec",
+        "name": "Santa Ana",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/0562e9e53cddf6ec.json"
+    },
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@netflix why there's no English version of sword art online ll https://t.co/0MPAuURVlu",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Aug 26 16:51:58 +0000 2014",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "hi everyone my name is co2 riot assassin #ACSyndicate #JacobFrye #EvieFrye #TwinAssassins",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 19689,
+        "follow_request_sent": false,
+        "followers_count": 566,
+        "following": false,
+        "friends_count": 962,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 2770436310,
+        "id_str": "2770436310",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 12,
+        "location": "California, USA",
+        "name": "CO2_Riot_Assassin",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2770436310/1443240646",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/647625599062687745/5_WRNDnA_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/647625599062687745/5_WRNDnA_normal.jpg",
+        "profile_link_color": "DD2E44",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "Fj4moc",
+        "statuses_count": 17118,
+        "time_zone": null,
+        "url": null,
+        "utc_offset": null,
+        "verified": false
+    }
+}

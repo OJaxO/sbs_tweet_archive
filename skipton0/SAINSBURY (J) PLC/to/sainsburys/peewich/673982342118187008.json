@@ -1,0 +1,124 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 07 21:48:07 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 80685646,
+                "id_str": "80685646",
+                "indices": [
+                    0,
+                    11
+                ],
+                "name": "Sainsbury's",
+                "screen_name": "sainsburys"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 673982342118187008,
+    "id_str": "673982342118187008",
+    "in_reply_to_screen_name": "sainsburys",
+    "in_reply_to_status_id": 673819233940303872,
+    "in_reply_to_status_id_str": "673819233940303872",
+    "in_reply_to_user_id": 80685646,
+    "in_reply_to_user_id_str": "80685646",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -0.5093057,
+                        51.286606
+                    ],
+                    [
+                        0.334433,
+                        51.286606
+                    ],
+                    [
+                        0.334433,
+                        51.6916388
+                    ],
+                    [
+                        -0.5093057,
+                        51.6916388
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United Kingdom",
+        "country_code": "GB",
+        "full_name": "London, England",
+        "id": "5d838f7a011f4a2d",
+        "name": "London",
+        "place_type": "admin",
+        "url": "https://api.twitter.com/1.1/geo/id/5d838f7a011f4a2d.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@sainsburys Perfect for Christmas viewing",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu May 09 16:47:12 +0000 2013",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 232,
+        "follow_request_sent": false,
+        "followers_count": 109,
+        "following": false,
+        "friends_count": 781,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 1415968651,
+        "id_str": "1415968651",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 3,
+        "location": "",
+        "name": "patricia walpole",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1415968651/1403263442",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/479947554759520256/Bz-KzF3Z_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/479947554759520256/Bz-KzF3Z_normal.jpeg",
+        "profile_link_color": "7700B3",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "peewich",
+        "statuses_count": 1446,
+        "time_zone": null,
+        "url": null,
+        "utc_offset": null,
+        "verified": false
+    }
+}

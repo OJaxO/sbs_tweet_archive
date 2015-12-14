@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 08 00:30:40 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 37435412,
+                "id_str": "37435412",
+                "indices": [
+                    0,
+                    15
+                ],
+                "name": "Verizon Support",
+                "screen_name": "VerizonSupport"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 674023252415660032,
+    "id_str": "674023252415660032",
+    "in_reply_to_screen_name": "VerizonSupport",
+    "in_reply_to_status_id": 674005949166821376,
+    "in_reply_to_status_id_str": "674005949166821376",
+    "in_reply_to_user_id": 37435412,
+    "in_reply_to_user_id_str": "37435412",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -77.65493,
+                        37.624458
+                    ],
+                    [
+                        -77.582259,
+                        37.624458
+                    ],
+                    [
+                        -77.582259,
+                        37.689361
+                    ],
+                    [
+                        -77.65493,
+                        37.689361
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Short Pump, VA",
+        "id": "018325d17666f4e3",
+        "name": "Short Pump",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/018325d17666f4e3.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@VerizonSupport as of today it appears so. Now it needs to cascade to yellow/white/super pages. Hopefully we will then show up on maps",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Jan 30 21:34:07 +0000 2015",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Repairing Mobile Phones, Tablets, PCs and Game Systems",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "cellphonerepair.com/glen-allen-va/",
+                        "expanded_url": "http://www.cellphonerepair.com/glen-allen-va/",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/B678pvqMBm"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 7,
+        "follow_request_sent": false,
+        "followers_count": 24,
+        "following": false,
+        "friends_count": 131,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 3006492977,
+        "id_str": "3006492977",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 0,
+        "location": "10827 W. Broad St., Glen Allen",
+        "name": "CPR Glen Allen",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3006492977/1422820946",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/561278171593453568/KpnssAPs_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/561278171593453568/KpnssAPs_normal.jpeg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "cprglenallen",
+        "statuses_count": 118,
+        "time_zone": null,
+        "url": "http://t.co/B678pvqMBm",
+        "utc_offset": null,
+        "verified": false
+    }
+}

@@ -1,0 +1,124 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 07 23:38:06 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 30973,
+                "id_str": "30973",
+                "indices": [
+                    0,
+                    10
+                ],
+                "name": "Starbucks Coffee",
+                "screen_name": "Starbucks"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 674010022284759040,
+    "id_str": "674010022284759040",
+    "in_reply_to_screen_name": "Starbucks",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 30973,
+    "in_reply_to_user_id_str": "30973",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -82.2679052,
+                        27.930926
+                    ],
+                    [
+                        -82.0556591,
+                        27.930926
+                    ],
+                    [
+                        -82.0556591,
+                        28.0934082
+                    ],
+                    [
+                        -82.2679052,
+                        28.0934082
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Plant City, FL",
+        "id": "5a5924d17d76eb63",
+        "name": "Plant City",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/5a5924d17d76eb63.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@Starbucks you should probably look into hiring new workers at this location. I've been waiting in drive thru line for 20 minutes.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Sep 01 03:50:39 +0000 2012",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Jesus, Disney, puppies.. in that order.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 5380,
+        "follow_request_sent": false,
+        "followers_count": 455,
+        "following": false,
+        "friends_count": 522,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 795252918,
+        "id_str": "795252918",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 0,
+        "location": "Lakeland, FL",
+        "name": "rich homie han",
+        "notifications": false,
+        "profile_background_color": "050A09",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/795252918/1446952155",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/663557187181150208/_CcTl0XR_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/663557187181150208/_CcTl0XR_normal.jpg",
+        "profile_link_color": "4EE0C8",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "hannieegrace",
+        "statuses_count": 7640,
+        "time_zone": "Atlantic Time (Canada)",
+        "url": null,
+        "utc_offset": -14400,
+        "verified": false
+    }
+}

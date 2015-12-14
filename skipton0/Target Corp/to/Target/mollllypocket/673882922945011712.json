@@ -1,0 +1,134 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 07 15:13:03 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 89084561,
+                "id_str": "89084561",
+                "indices": [
+                    0,
+                    7
+                ],
+                "name": "Target",
+                "screen_name": "Target"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 673882922945011712,
+    "id_str": "673882922945011712",
+    "in_reply_to_screen_name": "Target",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 89084561,
+    "in_reply_to_user_id_str": "89084561",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -87.699649,
+                        37.9239819
+                    ],
+                    [
+                        -87.449732,
+                        37.9239819
+                    ],
+                    [
+                        -87.449732,
+                        38.082951
+                    ],
+                    [
+                        -87.699649,
+                        38.082951
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Evansville, IN",
+        "id": "ad815dfe8c34a012",
+        "name": "Evansville",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/ad815dfe8c34a012.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@Target requested a replacement redcard over 2 weeks ago and I haven't received it \ud83d\ude16\ud83d\ude16\ud83d\ude16 I'm missing my 5% off!",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Dec 23 05:24:33 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "https://t.co/jRTObvl0W9",
+        "entities": {
+            "description": {
+                "urls": [
+                    {
+                        "display_url": "vine.co/v/eJlPUOH2Xqa",
+                        "expanded_url": "https://vine.co/v/eJlPUOH2Xqa",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/jRTObvl0W9"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 2597,
+        "follow_request_sent": false,
+        "followers_count": 418,
+        "following": false,
+        "friends_count": 500,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 98804845,
+        "id_str": "98804845",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 3,
+        "location": "Flavortown, USA",
+        "name": "Molly Stukey",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/817274390/acf9d2ad3d3b2b8d9c19d0e6f2bb3697.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/817274390/acf9d2ad3d3b2b8d9c19d0e6f2bb3697.jpeg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/98804845/1418097325",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/650425801914085376/LBps3nGH_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/650425801914085376/LBps3nGH_normal.jpg",
+        "profile_link_color": "000000",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "FFFFFF",
+        "profile_text_color": "CB0A11",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "mollllypocket",
+        "statuses_count": 26212,
+        "time_zone": "Mountain Time (US & Canada)",
+        "url": null,
+        "utc_offset": -25200,
+        "verified": false
+    }
+}

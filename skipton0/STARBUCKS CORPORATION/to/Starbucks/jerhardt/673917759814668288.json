@@ -1,0 +1,175 @@
+{
+    "contributors": null,
+    "coordinates": {
+        "coordinates": [
+            -156.43055556,
+            20.89861111
+        ],
+        "type": "Point"
+    },
+    "created_at": "Mon Dec 07 17:31:29 +0000 2015",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    27,
+                    32
+                ],
+                "text": "maui"
+            },
+            {
+                "indices": [
+                    33,
+                    37
+                ],
+                "text": "ogg"
+            }
+        ],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "instagram.com/p/-_8LSGuZPS/",
+                "expanded_url": "https://www.instagram.com/p/-_8LSGuZPS/",
+                "indices": [
+                    56,
+                    79
+                ],
+                "url": "https://t.co/87UQGCAN4f"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 30973,
+                "id_str": "30973",
+                "indices": [
+                    0,
+                    10
+                ],
+                "name": "Starbucks Coffee",
+                "screen_name": "Starbucks"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": {
+        "coordinates": [
+            20.89861111,
+            -156.43055556
+        ],
+        "type": "Point"
+    },
+    "id": 673917759814668288,
+    "id_str": "673917759814668288",
+    "in_reply_to_screen_name": "Starbucks",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 30973,
+    "in_reply_to_user_id_str": "30973",
+    "is_quote_status": false,
+    "lang": "et",
+    "metadata": {
+        "iso_language_code": "et",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -156.451736,
+                        20.882087
+                    ],
+                    [
+                        -156.392681,
+                        20.882087
+                    ],
+                    [
+                        -156.392681,
+                        20.914336
+                    ],
+                    [
+                        -156.451736,
+                        20.914336
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Spreckelsville, HI",
+        "id": "00a153942e628520",
+        "name": "Spreckelsville",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/00a153942e628520.json"
+    },
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+    "text": "@starbucks starbuckscanada #maui #ogg @ Kahului Airport https://t.co/87UQGCAN4f",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Jun 09 18:55:32 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Cubicle slave, Government employee, amatuer photographer.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "freestylecruizing.blogspot.com",
+                        "expanded_url": "http://freestylecruizing.blogspot.com/",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/Nplr51DtTu"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 91,
+        "follow_request_sent": false,
+        "followers_count": 131,
+        "following": false,
+        "friends_count": 600,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 153863209,
+        "id_str": "153863209",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 6,
+        "location": "Vancouver, BC Canada",
+        "name": "John E",
+        "notifications": false,
+        "profile_background_color": "0099B9",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/762500025/f7eaedab151fba45bf63f324a96c88cf.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/762500025/f7eaedab151fba45bf63f324a96c88cf.jpeg",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/153863209/1358048030",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/673963497500246016/aYluB_Wn_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/673963497500246016/aYluB_Wn_normal.jpg",
+        "profile_link_color": "0099B9",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "95E8EC",
+        "profile_text_color": "3C3940",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "jerhardt",
+        "statuses_count": 3594,
+        "time_zone": "Arizona",
+        "url": "http://t.co/Nplr51DtTu",
+        "utc_offset": -25200,
+        "verified": false
+    }
+}

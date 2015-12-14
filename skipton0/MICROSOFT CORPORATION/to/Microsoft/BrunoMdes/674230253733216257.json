@@ -1,0 +1,147 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 08 14:13:13 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 74286565,
+                "id_str": "74286565",
+                "indices": [
+                    0,
+                    10
+                ],
+                "name": "Microsoft",
+                "screen_name": "Microsoft"
+            },
+            {
+                "id": 20571756,
+                "id_str": "20571756",
+                "indices": [
+                    11,
+                    24
+                ],
+                "name": "Satya Nadella",
+                "screen_name": "satyanadella"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 674230253733216257,
+    "id_str": "674230253733216257",
+    "in_reply_to_screen_name": "Microsoft",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 74286565,
+    "in_reply_to_user_id_str": "74286565",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -43.268711,
+                        -22.939285
+                    ],
+                    [
+                        -43.229879,
+                        -22.939285
+                    ],
+                    [
+                        -43.229879,
+                        -22.914961
+                    ],
+                    [
+                        -43.268711,
+                        -22.914961
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "Brasil",
+        "country_code": "BR",
+        "full_name": "Andara\u00ed, Rio de Janeiro",
+        "id": "7dbf9252ae5b1e19",
+        "name": "Andara\u00ed",
+        "place_type": "neighborhood",
+        "url": "https://api.twitter.com/1.1/geo/id/7dbf9252ae5b1e19.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "text": "@Microsoft @satyanadella What is happening? I'm having trouble with E5 plan. From the day 12/2 . I\u2019am extremely disappointed.  SN:1315900028",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Oct 08 20:57:02 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Consultor, empreendedor, livreiro por natureza, apaixonado por tecnologia, design e mercado.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "coisadelivreiro.com.br",
+                        "expanded_url": "http://coisadelivreiro.com.br",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/3j1g4sOwot"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 11,
+        "follow_request_sent": false,
+        "followers_count": 99,
+        "following": false,
+        "friends_count": 66,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 387317830,
+        "id_str": "387317830",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "pt",
+        "listed_count": 1,
+        "location": "Rio de Janeiro",
+        "name": "Bruno Mendes",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/387317830/1437193676",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/622261272466325504/EUZ1edHQ_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/622261272466325504/EUZ1edHQ_normal.jpg",
+        "profile_link_color": "FA743E",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "BrunoMdes",
+        "statuses_count": 1029,
+        "time_zone": "Brasilia",
+        "url": "https://t.co/3j1g4sOwot",
+        "utc_offset": -7200,
+        "verified": false
+    }
+}

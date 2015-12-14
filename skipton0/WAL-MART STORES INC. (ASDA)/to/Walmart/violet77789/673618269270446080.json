@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Dec 06 21:41:25 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 17137891,
+                "id_str": "17137891",
+                "indices": [
+                    0,
+                    8
+                ],
+                "name": "Walmart",
+                "screen_name": "Walmart"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 673618269270446080,
+    "id_str": "673618269270446080",
+    "in_reply_to_screen_name": "Walmart",
+    "in_reply_to_status_id": 673618213717061633,
+    "in_reply_to_status_id_str": "673618213717061633",
+    "in_reply_to_user_id": 17137891,
+    "in_reply_to_user_id_str": "17137891",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -111.960775,
+                        33.4358637
+                    ],
+                    [
+                        -111.756022,
+                        33.4358637
+                    ],
+                    [
+                        -111.756022,
+                        33.842816
+                    ],
+                    [
+                        -111.960775,
+                        33.842816
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Scottsdale, AZ",
+        "id": "0a0de7bd49ef942d",
+        "name": "Scottsdale",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/0a0de7bd49ef942d.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@Walmart no problem xx",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Jun 17 23:34:06 +0000 2012",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "The Tide RTx5/favx4| Nate replied x2 RTx11/favx15| Drew repliedx3 RTx3/favx8| Con favx1| Tris replied fav/RTx1|Austin Mahone/Kendall Schmidt follow",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "twitter.com/violet77789/st\u2026",
+                        "expanded_url": "https://twitter.com/violet77789/status/668532986816540672",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/j4WA5ys5nv"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 21545,
+        "follow_request_sent": false,
+        "followers_count": 1093,
+        "following": false,
+        "friends_count": 522,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 611295897,
+        "id_str": "611295897",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 3,
+        "location": "5/5the tide 3/5the vamps+waddy",
+        "name": "Megan Simpson\u2764\ufe0f",
+        "notifications": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/516039491467739136/kigzVPsz.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/516039491467739136/kigzVPsz.jpeg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/611295897/1446402648",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/671286482103963650/fjRLZL8o_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/671286482103963650/fjRLZL8o_normal.jpg",
+        "profile_link_color": "4A913C",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "95E8EC",
+        "profile_text_color": "3C3940",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "violet77789",
+        "statuses_count": 22497,
+        "time_zone": "Arizona",
+        "url": "https://t.co/j4WA5ys5nv",
+        "utc_offset": -25200,
+        "verified": false
+    }
+}

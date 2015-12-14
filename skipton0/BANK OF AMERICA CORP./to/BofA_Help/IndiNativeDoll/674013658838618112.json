@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 07 23:52:33 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 18735040,
+                "id_str": "18735040",
+                "indices": [
+                    0,
+                    10
+                ],
+                "name": "Bank of America Help",
+                "screen_name": "BofA_Help"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 674013658838618112,
+    "id_str": "674013658838618112",
+    "in_reply_to_screen_name": "BofA_Help",
+    "in_reply_to_status_id": 674012850109718528,
+    "in_reply_to_status_id_str": "674012850109718528",
+    "in_reply_to_user_id": 18735040,
+    "in_reply_to_user_id_str": "18735040",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -84.576827,
+                        33.647549
+                    ],
+                    [
+                        -84.289385,
+                        33.647549
+                    ],
+                    [
+                        -84.289385,
+                        33.8868859
+                    ],
+                    [
+                        -84.576827,
+                        33.8868859
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Atlanta, GA",
+        "id": "8173485c72e78ca5",
+        "name": "Atlanta",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/8173485c72e78ca5.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@BofA_Help I made a claim and was told it got denied and reversed.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Jul 12 18:05:57 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Tupac my daddy.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "mymynavy.tumblr.com",
+                        "expanded_url": "http://mymynavy.tumblr.com/",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/BE7BWn4fQe"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 642,
+        "follow_request_sent": false,
+        "followers_count": 1379,
+        "following": false,
+        "friends_count": 748,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 165848431,
+        "id_str": "165848431",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 4,
+        "location": "KANSAS CITY MADE \u2708 ATL LIVING",
+        "name": "MyMy",
+        "notifications": false,
+        "profile_background_color": "E60E11",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/731253315/ca4ab205e80c983e864759fbff8de829.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/731253315/ca4ab205e80c983e864759fbff8de829.jpeg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/165848431/1415393529",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/655456729979842560/OqJkJak0_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/655456729979842560/OqJkJak0_normal.jpg",
+        "profile_link_color": "706264",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "FFFFFF",
+        "profile_text_color": "A48BF5",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "IndiNativeDoll",
+        "statuses_count": 47392,
+        "time_zone": "Central Time (US & Canada)",
+        "url": "https://t.co/BE7BWn4fQe",
+        "utc_offset": -21600,
+        "verified": false
+    }
+}

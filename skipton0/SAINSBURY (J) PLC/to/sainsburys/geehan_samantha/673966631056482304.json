@@ -1,0 +1,132 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 07 20:45:41 +0000 2015",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    98,
+                    117
+                ],
+                "text": "crosscontamination"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 80685646,
+                "id_str": "80685646",
+                "indices": [
+                    0,
+                    11
+                ],
+                "name": "Sainsbury's",
+                "screen_name": "sainsburys"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 673966631056482304,
+    "id_str": "673966631056482304",
+    "in_reply_to_screen_name": "sainsburys",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 80685646,
+    "in_reply_to_user_id_str": "80685646",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -1.3089948,
+                        52.346556
+                    ],
+                    [
+                        -1.198457,
+                        52.346556
+                    ],
+                    [
+                        -1.198457,
+                        52.4019728
+                    ],
+                    [
+                        -1.3089948,
+                        52.4019728
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United Kingdom",
+        "country_code": "GB",
+        "full_name": "Rugby, England",
+        "id": "06b6b2a6eb0f9d37",
+        "name": "Rugby",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/06b6b2a6eb0f9d37.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@sainsburys server on fresh meat counter chopping steak no gloves on! Then served other cold cuts!#crosscontamination",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Apr 20 17:58:46 +0000 2012",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Dedicated teacher & SENCO. Daughter, wife, mum to netball fanatic,sister,friend. Loves family, friends, my dog and life. Loves holidays.Grateful for every day.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 2360,
+        "follow_request_sent": false,
+        "followers_count": 82,
+        "following": false,
+        "friends_count": 114,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 558828586,
+        "id_str": "558828586",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 3,
+        "location": "",
+        "name": "Sammylou",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/558828586/1438816069",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/654381038232334336/jY08iiCU_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/654381038232334336/jY08iiCU_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "geehan_samantha",
+        "statuses_count": 2578,
+        "time_zone": null,
+        "url": null,
+        "utc_offset": null,
+        "verified": false
+    }
+}

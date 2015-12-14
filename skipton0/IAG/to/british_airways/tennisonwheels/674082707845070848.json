@@ -1,0 +1,184 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 08 04:26:56 +0000 2015",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    87,
+                    104
+                ],
+                "text": "wheelchairtennis"
+            }
+        ],
+        "media": [
+            {
+                "display_url": "pic.twitter.com/HtiQ5b8HD6",
+                "expanded_url": "http://twitter.com/tennisonwheels/status/674082707845070848/photo/1",
+                "id": 674082705525592064,
+                "id_str": "674082705525592064",
+                "indices": [
+                    106,
+                    129
+                ],
+                "media_url": "http://pbs.twimg.com/media/CVrSpjQWUAAgrTW.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/CVrSpjQWUAAgrTW.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 600,
+                        "resize": "fit",
+                        "w": 800
+                    },
+                    "medium": {
+                        "h": 450,
+                        "resize": "fit",
+                        "w": 600
+                    },
+                    "small": {
+                        "h": 255,
+                        "resize": "fit",
+                        "w": 340
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/HtiQ5b8HD6"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 18332190,
+                "id_str": "18332190",
+                "indices": [
+                    0,
+                    16
+                ],
+                "name": "British Airways",
+                "screen_name": "British_Airways"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 674082707845070848,
+    "id_str": "674082707845070848",
+    "in_reply_to_screen_name": "British_Airways",
+    "in_reply_to_status_id": 674081788533305344,
+    "in_reply_to_status_id_str": "674081788533305344",
+    "in_reply_to_user_id": 18332190,
+    "in_reply_to_user_id_str": "18332190",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -73.991482,
+                        -33.7510506
+                    ],
+                    [
+                        -32.378186,
+                        -33.7510506
+                    ],
+                    [
+                        -32.378186,
+                        5.27192
+                    ],
+                    [
+                        -73.991482,
+                        5.27192
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "Brasil",
+        "country_code": "BR",
+        "full_name": "Brazil",
+        "id": "1b107df3ccc0aaa1",
+        "name": "Brazil",
+        "place_type": "country",
+        "url": "https://api.twitter.com/1.1/geo/id/1b107df3ccc0aaa1.json"
+    },
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@British_Airways Thanks! I am not with one particular team.  We oversee all aspects of #wheelchairtennis. https://t.co/HtiQ5b8HD6",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Oct 19 15:24:45 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "ITF Wheelchair Tennis Manager. Tweets my own.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "itftennis.com/wheelchair",
+                        "expanded_url": "http://www.itftennis.com/wheelchair",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/RB8UG6AcP4"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 2175,
+        "follow_request_sent": false,
+        "followers_count": 1027,
+        "following": false,
+        "friends_count": 1359,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 83622816,
+        "id_str": "83622816",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 19,
+        "location": "",
+        "name": "mark bullock",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/634909983675564032/R6yyYsWQ.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/634909983675564032/R6yyYsWQ.jpg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/83622816/1402234358",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/666860650438787072/GnRdhQXG_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/666860650438787072/GnRdhQXG_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "tennisonwheels",
+        "statuses_count": 2973,
+        "time_zone": null,
+        "url": "http://t.co/RB8UG6AcP4",
+        "utc_offset": null,
+        "verified": false
+    }
+}

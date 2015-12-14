@@ -1,0 +1,124 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 07 16:28:02 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 18332190,
+                "id_str": "18332190",
+                "indices": [
+                    0,
+                    16
+                ],
+                "name": "British Airways",
+                "screen_name": "British_Airways"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 673901793231962112,
+    "id_str": "673901793231962112",
+    "in_reply_to_screen_name": "British_Airways",
+    "in_reply_to_status_id": 673897525544374276,
+    "in_reply_to_status_id_str": "673897525544374276",
+    "in_reply_to_user_id": 18332190,
+    "in_reply_to_user_id_str": "18332190",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -2.570863,
+                        53.2364774
+                    ],
+                    [
+                        -2.47076,
+                        53.2364774
+                    ],
+                    [
+                        -2.47076,
+                        53.281203
+                    ],
+                    [
+                        -2.570863,
+                        53.281203
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United Kingdom",
+        "country_code": "GB",
+        "full_name": "Northwich, England",
+        "id": "700261a746f3cd96",
+        "name": "Northwich",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/700261a746f3cd96.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@British_Airways more of an independent contractor to be honest. Specialist in transporting old men, silly teenagers, and annoying robots",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Nov 16 09:04:57 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Smuggler, Rogue, Scoundrel, and Comedian. Will ship anything for cash, and deliver it with a smooth one-liner. Hate green people.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 20,
+        "follow_request_sent": false,
+        "followers_count": 134,
+        "following": false,
+        "friends_count": 350,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 90357174,
+        "id_str": "90357174",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 2,
+        "location": "Tattooine",
+        "name": "Han Solo",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/92336309/front_1_.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/92336309/front_1_.jpg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/90357174/1447401924",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/665077989416312832/_SdgxVAy_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/665077989416312832/_SdgxVAy_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "FlamosFlamini",
+        "statuses_count": 3909,
+        "time_zone": null,
+        "url": null,
+        "utc_offset": null,
+        "verified": false
+    }
+}

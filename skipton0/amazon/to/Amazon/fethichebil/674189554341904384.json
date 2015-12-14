@@ -1,0 +1,278 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 08 11:31:30 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/wef/status/674\u2026",
+                "expanded_url": "https://twitter.com/wef/status/674189266373746688",
+                "indices": [
+                    10,
+                    33
+                ],
+                "url": "https://t.co/0bFjpxx5Rg"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 20793816,
+                "id_str": "20793816",
+                "indices": [
+                    0,
+                    7
+                ],
+                "name": "Amazon",
+                "screen_name": "amazon"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 674189554341904384,
+    "id_str": "674189554341904384",
+    "in_reply_to_screen_name": "amazon",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 20793816,
+    "in_reply_to_user_id_str": "20793816",
+    "is_quote_status": true,
+    "lang": "und",
+    "metadata": {
+        "iso_language_code": "und",
+        "result_type": "recent"
+    },
+    "place": null,
+    "possibly_sensitive": false,
+    "quoted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Tue Dec 08 11:30:21 +0000 2015",
+        "entities": {
+            "hashtags": [
+                {
+                    "indices": [
+                        76,
+                        81
+                    ],
+                    "text": "work"
+                }
+            ],
+            "media": [
+                {
+                    "display_url": "pic.twitter.com/h3zyRrqX8m",
+                    "expanded_url": "http://twitter.com/wef/status/674189266373746688/photo/1",
+                    "id": 674189266092732416,
+                    "id_str": "674189266092732416",
+                    "indices": [
+                        82,
+                        105
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/CVszkMTWsAAAxTz.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/CVszkMTWsAAAxTz.jpg",
+                    "sizes": {
+                        "large": {
+                            "h": 496,
+                            "resize": "fit",
+                            "w": 597
+                        },
+                        "medium": {
+                            "h": 496,
+                            "resize": "fit",
+                            "w": 597
+                        },
+                        "small": {
+                            "h": 282,
+                            "resize": "fit",
+                            "w": 340
+                        },
+                        "thumb": {
+                            "h": 150,
+                            "resize": "crop",
+                            "w": 150
+                        }
+                    },
+                    "type": "photo",
+                    "url": "https://t.co/h3zyRrqX8m"
+                }
+            ],
+            "symbols": [],
+            "urls": [
+                {
+                    "display_url": "wef.ch/1lnIaX9",
+                    "expanded_url": "http://wef.ch/1lnIaX9",
+                    "indices": [
+                        52,
+                        75
+                    ],
+                    "url": "https://t.co/4P4N6uMwyj"
+                }
+            ],
+            "user_mentions": [
+                {
+                    "id": 15390530,
+                    "id_str": "15390530",
+                    "indices": [
+                        37,
+                        51
+                    ],
+                    "name": "Belinda Parmar",
+                    "screen_name": "belindaparmar"
+                }
+            ]
+        },
+        "favorite_count": 44,
+        "favorited": false,
+        "geo": null,
+        "id": 674189266373746688,
+        "id_str": "674189266373746688",
+        "in_reply_to_screen_name": null,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "is_quote_status": false,
+        "lang": "en",
+        "metadata": {
+            "iso_language_code": "und",
+            "result_type": "recent"
+        },
+        "place": null,
+        "possibly_sensitive": false,
+        "retweet_count": 69,
+        "retweeted": false,
+        "source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+        "text": "Which companies are best at empathy? @belindaparmar https://t.co/4P4N6uMwyj #work https://t.co/h3zyRrqX8m",
+        "truncated": false,
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Wed Apr 18 14:00:19 +0000 2007",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "The international organization for public private cooperation. Follow us for research, insight and analysis on global issues.",
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "wef.ch/agenda",
+                            "expanded_url": "http://wef.ch/agenda",
+                            "indices": [
+                                0,
+                                22
+                            ],
+                            "url": "http://t.co/1vmI17VRPv"
+                        }
+                    ]
+                }
+            },
+            "favourites_count": 1846,
+            "follow_request_sent": false,
+            "followers_count": 2723810,
+            "following": false,
+            "friends_count": 267,
+            "geo_enabled": true,
+            "has_extended_profile": false,
+            "id": 5120691,
+            "id_str": "5120691",
+            "is_translation_enabled": false,
+            "is_translator": false,
+            "lang": "en",
+            "listed_count": 17456,
+            "location": "Geneva, Switzerland",
+            "name": "World Economic Forum",
+            "notifications": false,
+            "profile_background_color": "FCFCFC",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/459256738458267648/NQmn-I-R.png",
+            "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/459256738458267648/NQmn-I-R.png",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/5120691/1441680349",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/565498192171507712/r2Hb2gvX_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/565498192171507712/r2Hb2gvX_normal.png",
+            "profile_link_color": "419FCF",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "7AC3EE",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "protected": false,
+            "screen_name": "wef",
+            "statuses_count": 29632,
+            "time_zone": "Bern",
+            "url": "http://t.co/1vmI17VRPv",
+            "utc_offset": 3600,
+            "verified": true
+        }
+    },
+    "quoted_status_id": 674189266373746688,
+    "quoted_status_id_str": "674189266373746688",
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@amazon ? https://t.co/0bFjpxx5Rg",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Jul 13 06:08:03 +0000 2008",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Love music, wine, travel and enjoying a good time with friends talking and laughing. Will twitt on politics and economy.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "fethi-chebil.ca",
+                        "expanded_url": "http://www.fethi-chebil.ca",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/PEGfpne2ZU"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 24,
+        "follow_request_sent": false,
+        "followers_count": 606,
+        "following": false,
+        "friends_count": 1737,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 15412445,
+        "id_str": "15412445",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 7,
+        "location": "iPhone: 45.519855,-73.608780",
+        "name": "fethi chebil",
+        "notifications": false,
+        "profile_background_color": "9AE4E8",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/2733397/4794.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/2733397/4794.jpg",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/15412445/1412708760",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1664019952/Fethi_20Chebil_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1664019952/Fethi_20Chebil_normal.jpg",
+        "profile_link_color": "0000FF",
+        "profile_sidebar_border_color": "87BC44",
+        "profile_sidebar_fill_color": "E0FF92",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "fethichebil",
+        "statuses_count": 1264,
+        "time_zone": "Hawaii",
+        "url": "http://t.co/PEGfpne2ZU",
+        "utc_offset": -36000,
+        "verified": false
+    }
+}

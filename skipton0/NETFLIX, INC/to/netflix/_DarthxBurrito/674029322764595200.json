@@ -1,0 +1,132 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 08 00:54:48 +0000 2015",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    13,
+                    26
+                ],
+                "text": "GridironGang"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 16573941,
+                "id_str": "16573941",
+                "indices": [
+                    0,
+                    8
+                ],
+                "name": "Netflix US",
+                "screen_name": "netflix"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 674029322764595200,
+    "id_str": "674029322764595200",
+    "in_reply_to_screen_name": "netflix",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 16573941,
+    "in_reply_to_user_id_str": "16573941",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -118.098575,
+                        33.882744
+                    ],
+                    [
+                        -118.028833,
+                        33.882744
+                    ],
+                    [
+                        -118.028833,
+                        33.975123
+                    ],
+                    [
+                        -118.098575,
+                        33.975123
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Santa Fe Springs, CA",
+        "id": "00b028b400039d97",
+        "name": "Santa Fe Springs",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/00b028b400039d97.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@netflix add #GridironGang so I can watch it online!!!",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Jun 09 02:56:05 +0000 2012",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Ambassador of the KINGDOM.Family.Friends.Art.Music.Pure Life.Work Hard & Stay Humble.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 8848,
+        "follow_request_sent": false,
+        "followers_count": 505,
+        "following": false,
+        "friends_count": 387,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 603259282,
+        "id_str": "603259282",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 5,
+        "location": "Santa Fe Spring",
+        "name": "Guido",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/613779475/b87ejntwlvlvdn5qd1z2.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/613779475/b87ejntwlvlvdn5qd1z2.jpeg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/603259282/1403048230",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/594585441577271296/6tYk1a4M_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/594585441577271296/6tYk1a4M_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "_DarthxBurrito",
+        "statuses_count": 20901,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": null,
+        "utc_offset": -28800,
+        "verified": false
+    }
+}

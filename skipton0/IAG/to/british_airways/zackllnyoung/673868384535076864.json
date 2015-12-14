@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 07 14:15:17 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 18332190,
+                "id_str": "18332190",
+                "indices": [
+                    0,
+                    16
+                ],
+                "name": "British Airways",
+                "screen_name": "British_Airways"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 673868384535076864,
+    "id_str": "673868384535076864",
+    "in_reply_to_screen_name": "British_Airways",
+    "in_reply_to_status_id": 673836096166449152,
+    "in_reply_to_status_id_str": "673836096166449152",
+    "in_reply_to_user_id": 18332190,
+    "in_reply_to_user_id_str": "18332190",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        107.210974,
+                        14.951393
+                    ],
+                    [
+                        108.73944,
+                        14.951393
+                    ],
+                    [
+                        108.73944,
+                        16.067552
+                    ],
+                    [
+                        107.210974,
+                        16.067552
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "Vi\u1ec7t Nam",
+        "country_code": "VN",
+        "full_name": "Qu\u1ea3ng Nam, Vietnam",
+        "id": "01fa487b5dd6504f",
+        "name": "Qu\u1ea3ng Nam",
+        "place_type": "admin",
+        "url": "https://api.twitter.com/1.1/geo/id/01fa487b5dd6504f.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@British_Airways okay, thanks for the quick reply!",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Jan 23 17:42:22 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Entrepreneur, Coach & Digital Strategist. #Startups #GenY #NLP #JCI #SocialMedia #Travel #Founder #DigitalNomad",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "zackyoung.co",
+                        "expanded_url": "http://www.zackyoung.co",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/gdC08HCQkR"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 7807,
+        "follow_request_sent": false,
+        "followers_count": 53243,
+        "following": false,
+        "friends_count": 8485,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 19404311,
+        "id_str": "19404311",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 341,
+        "location": "London / Global",
+        "name": "Zack Young",
+        "notifications": false,
+        "profile_background_color": "001527",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/697126512/8d103865d6f4ac5b3d12158f7ff751fe.png",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/697126512/8d103865d6f4ac5b3d12158f7ff751fe.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/19404311/1447949660",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/670493499020541952/KASBSM00_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/670493499020541952/KASBSM00_normal.jpg",
+        "profile_link_color": "3B94D9",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "C0DFEC",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "zackllnyoung",
+        "statuses_count": 34718,
+        "time_zone": "London",
+        "url": "https://t.co/gdC08HCQkR",
+        "utc_offset": 0,
+        "verified": false
+    }
+}

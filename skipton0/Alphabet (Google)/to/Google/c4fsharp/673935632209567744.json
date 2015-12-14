@@ -1,0 +1,103 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 07 18:42:30 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 20536157,
+                "id_str": "20536157",
+                "indices": [
+                    0,
+                    7
+                ],
+                "name": "Google",
+                "screen_name": "google"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 673935632209567744,
+    "id_str": "673935632209567744",
+    "in_reply_to_screen_name": "google",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 20536157,
+    "in_reply_to_user_id_str": "20536157",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "text": "@google We previously used +Pages to manage a calendar of Hangouts on Air. That seems to have been removed. What should we do now?",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Dec 02 18:22:47 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Community for F# is a virtual user group for F# enthusiasts!",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "c4fsharp.net",
+                        "expanded_url": "http://www.c4fsharp.net",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/q0xhedod7C"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 627,
+        "follow_request_sent": false,
+        "followers_count": 2188,
+        "following": false,
+        "friends_count": 308,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 94144339,
+        "id_str": "94144339",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 147,
+        "location": "Virtually everywhere.",
+        "name": "Community for F#",
+        "notifications": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/700533439/fsharp-1_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/700533439/fsharp-1_normal.png",
+        "profile_link_color": "009999",
+        "profile_sidebar_border_color": "EEEEEE",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "c4fsharp",
+        "statuses_count": 5606,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "http://t.co/q0xhedod7C",
+        "utc_offset": -28800,
+        "verified": false
+    }
+}

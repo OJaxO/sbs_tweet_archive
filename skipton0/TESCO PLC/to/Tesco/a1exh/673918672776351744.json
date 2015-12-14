@@ -1,0 +1,136 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 07 17:35:07 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 271986064,
+                "id_str": "271986064",
+                "indices": [
+                    0,
+                    6
+                ],
+                "name": "Tesco",
+                "screen_name": "Tesco"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 673918672776351744,
+    "id_str": "673918672776351744",
+    "in_reply_to_screen_name": "Tesco",
+    "in_reply_to_status_id": 673901169232736256,
+    "in_reply_to_status_id_str": "673901169232736256",
+    "in_reply_to_user_id": 271986064,
+    "in_reply_to_user_id_str": "271986064",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -1.95729593780907,
+                        50.5746064789388
+                    ],
+                    [
+                        1.45178800018019,
+                        50.5746064789388
+                    ],
+                    [
+                        1.45178800018019,
+                        52.1962850088601
+                    ],
+                    [
+                        -1.95729593780907,
+                        52.1962850088601
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United Kingdom",
+        "country_code": "GB",
+        "full_name": "South East, England",
+        "id": "06168d1feda43857",
+        "name": "South East",
+        "place_type": "admin",
+        "url": "https://api.twitter.com/1.1/geo/id/06168d1feda43857.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@Tesco DM sent including the time, description of the employee and brief summary of our discussion",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Dec 07 18:24:45 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "thalion.atari.org",
+                        "expanded_url": "http://thalion.atari.org",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/azw6thtNMZ"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 3,
+        "follow_request_sent": false,
+        "followers_count": 51,
+        "following": false,
+        "friends_count": 111,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 95252362,
+        "id_str": "95252362",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 0,
+        "location": "Oxford",
+        "name": "Alexander Holland",
+        "notifications": false,
+        "profile_background_color": "642D8B",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/58352833/background.gif",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/58352833/background.gif",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1525381498/alex_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1525381498/alex_normal.jpg",
+        "profile_link_color": "FF0000",
+        "profile_sidebar_border_color": "65B0DA",
+        "profile_sidebar_fill_color": "7AC3EE",
+        "profile_text_color": "3D1957",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "a1exh",
+        "statuses_count": 151,
+        "time_zone": "London",
+        "url": "http://t.co/azw6thtNMZ",
+        "utc_offset": 0,
+        "verified": false
+    }
+}

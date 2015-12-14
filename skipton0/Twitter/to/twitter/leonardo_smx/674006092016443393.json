@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 07 23:22:29 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 783214,
+                "id_str": "783214",
+                "indices": [
+                    0,
+                    8
+                ],
+                "name": "Twitter",
+                "screen_name": "twitter"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 674006092016443393,
+    "id_str": "674006092016443393",
+    "in_reply_to_screen_name": "twitter",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 783214,
+    "in_reply_to_user_id_str": "783214",
+    "is_quote_status": false,
+    "lang": "pt",
+    "metadata": {
+        "iso_language_code": "pt",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -36.231229,
+                        -7.399847
+                    ],
+                    [
+                        -35.724385,
+                        -7.399847
+                    ],
+                    [
+                        -35.724385,
+                        -7.150577
+                    ],
+                    [
+                        -36.231229,
+                        -7.150577
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "Brasil",
+        "country_code": "BR",
+        "full_name": "Campina Grande, Para\u00edba",
+        "id": "0e831c5c9510013a",
+        "name": "Campina Grande",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/0e831c5c9510013a.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@twitter N\u00c3O FOI A GENTE QUE PEDIU!!! DEVOLVE AS NOTIFICA\u00c7\u00d5ES PRO LUGAR, VC LEMBRA Q VC PEDIU MANO? MAS \u00c9 AQUELE DITADO VM FAZ\u00ca OQ?",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Mar 28 02:12:25 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Jurista. Escritor. Beta-tester.\n\nPB \u2708 CE",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "medium.com/@leonardo_smx",
+                        "expanded_url": "https://medium.com/@leonardo_smx",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/M2qQnGAnSH"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 2702,
+        "follow_request_sent": false,
+        "followers_count": 1417,
+        "following": false,
+        "friends_count": 852,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 27156400,
+        "id_str": "27156400",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "pt",
+        "listed_count": 17,
+        "location": "Campina Grande, PB - Brasil",
+        "name": "Leonardo Maximiano",
+        "notifications": false,
+        "profile_background_color": "89C9FA",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/591778784606486528/vxiv0vWZ.png",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/591778784606486528/vxiv0vWZ.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/27156400/1448055750",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/660977596134531072/VHSsQ6xF_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/660977596134531072/VHSsQ6xF_normal.jpg",
+        "profile_link_color": "01131D",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "leonardo_smx",
+        "statuses_count": 36142,
+        "time_zone": "Brasilia",
+        "url": "https://t.co/M2qQnGAnSH",
+        "utc_offset": -7200,
+        "verified": false
+    }
+}

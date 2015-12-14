@@ -1,0 +1,144 @@
+{
+    "contributors": null,
+    "coordinates": {
+        "coordinates": [
+            22.9141498,
+            45.8723289
+        ],
+        "type": "Point"
+    },
+    "created_at": "Mon Dec 07 18:11:42 +0000 2015",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    14,
+                    23
+                ],
+                "text": "Dominion"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 16573941,
+                "id_str": "16573941",
+                "indices": [
+                    0,
+                    8
+                ],
+                "name": "Netflix US",
+                "screen_name": "netflix"
+            }
+        ]
+    },
+    "favorite_count": 4,
+    "favorited": false,
+    "geo": {
+        "coordinates": [
+            45.8723289,
+            22.9141498
+        ],
+        "type": "Point"
+    },
+    "id": 673927880091521024,
+    "id_str": "673927880091521024",
+    "in_reply_to_screen_name": "netflix",
+    "in_reply_to_status_id": 673925799607533569,
+    "in_reply_to_status_id_str": "673925799607533569",
+    "in_reply_to_user_id": 16573941,
+    "in_reply_to_user_id_str": "16573941",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        22.8473385,
+                        45.8013853
+                    ],
+                    [
+                        22.9754695,
+                        45.8013853
+                    ],
+                    [
+                        22.9754695,
+                        45.9101253
+                    ],
+                    [
+                        22.8473385,
+                        45.9101253
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "Rom\u00e2nia",
+        "country_code": "RO",
+        "full_name": "Deva, Hunedoara",
+        "id": "010e6d4c1090c233",
+        "name": "Deva",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/010e6d4c1090c233.json"
+    },
+    "retweet_count": 1,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@netflix pick #Dominion",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Jun 20 07:58:02 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Jericho Ranger.NUTS.DOMINION",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 6739,
+        "follow_request_sent": false,
+        "followers_count": 411,
+        "following": false,
+        "friends_count": 907,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 48957270,
+        "id_str": "48957270",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 11,
+        "location": "Rom\u00e2nia",
+        "name": "flori #SAVEDOMINION",
+        "notifications": false,
+        "profile_background_color": "ACDED6",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/639148521472438272/8jxhw0JM.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/639148521472438272/8jxhw0JM.jpg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/48957270/1445368240",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/673242223857790976/Zp8z8aLH_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/673242223857790976/Zp8z8aLH_normal.jpg",
+        "profile_link_color": "DD2E44",
+        "profile_sidebar_border_color": "2280A9",
+        "profile_sidebar_fill_color": "020812",
+        "profile_text_color": "2280A9",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "twisterdeva",
+        "statuses_count": 7581,
+        "time_zone": "Bucharest",
+        "url": null,
+        "utc_offset": 7200,
+        "verified": false
+    }
+}

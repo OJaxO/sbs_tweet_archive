@@ -1,0 +1,133 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 07 19:29:03 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 36665547,
+                "id_str": "36665547",
+                "indices": [
+                    0,
+                    11
+                ],
+                "name": "ExxonMobil",
+                "screen_name": "exxonmobil"
+            },
+            {
+                "id": 1536791610,
+                "id_str": "1536791610",
+                "indices": [
+                    16,
+                    22
+                ],
+                "name": "President Obama",
+                "screen_name": "POTUS"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 673947347265589248,
+    "id_str": "673947347265589248",
+    "in_reply_to_screen_name": "exxonmobil",
+    "in_reply_to_status_id": 669878455413018624,
+    "in_reply_to_status_id_str": "669878455413018624",
+    "in_reply_to_user_id": 36665547,
+    "in_reply_to_user_id_str": "36665547",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -111.107896,
+                        32.297257
+                    ],
+                    [
+                        -110.956722,
+                        32.297257
+                    ],
+                    [
+                        -110.956722,
+                        32.388159
+                    ],
+                    [
+                        -111.107896,
+                        32.388159
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Casas Adobes, AZ",
+        "id": "832feeba7eb96a20",
+        "name": "Casas Adobes",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/832feeba7eb96a20.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@exxonmobil Let @POTUS know Emissions are down to the lowest level in 27 years. He's like Don Quixote, going after Man Made \"Global Warming\"",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Oct 21 18:03:41 +0000 2011",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Nationality: American: Conservative: Allegiance to one Flag: One Country, USA: One Language, English: One Culture, American: Ethnicity: Conservative Hispanic",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 1690,
+        "follow_request_sent": false,
+        "followers_count": 1898,
+        "following": false,
+        "friends_count": 1625,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 395462175,
+        "id_str": "395462175",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 67,
+        "location": "Arizona",
+        "name": "Mauricio D Mendez",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1746309984/Mauricio_Mendez_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1746309984/Mauricio_Mendez_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "mauriciod44",
+        "statuses_count": 28186,
+        "time_zone": "Arizona",
+        "url": null,
+        "utc_offset": -25200,
+        "verified": false
+    }
+}

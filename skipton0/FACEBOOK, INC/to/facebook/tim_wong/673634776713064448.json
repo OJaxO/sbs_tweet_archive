@@ -1,0 +1,186 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Dec 06 22:47:00 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "media": [
+            {
+                "display_url": "pic.twitter.com/HENjqy1n1k",
+                "expanded_url": "http://twitter.com/tim_wong/status/673634776713064448/photo/1",
+                "id": 673634775425400833,
+                "id_str": "673634775425400833",
+                "indices": [
+                    47,
+                    70
+                ],
+                "media_url": "http://pbs.twimg.com/media/CVk7QlmUwAEXBjK.png",
+                "media_url_https": "https://pbs.twimg.com/media/CVk7QlmUwAEXBjK.png",
+                "sizes": {
+                    "large": {
+                        "h": 637,
+                        "resize": "fit",
+                        "w": 1024
+                    },
+                    "medium": {
+                        "h": 373,
+                        "resize": "fit",
+                        "w": 600
+                    },
+                    "small": {
+                        "h": 211,
+                        "resize": "fit",
+                        "w": 340
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/HENjqy1n1k"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 2425151,
+                "id_str": "2425151",
+                "indices": [
+                    0,
+                    9
+                ],
+                "name": "Facebook",
+                "screen_name": "facebook"
+            },
+            {
+                "id": 16101626,
+                "id_str": "16101626",
+                "indices": [
+                    37,
+                    45
+                ],
+                "name": "Wayfair.com",
+                "screen_name": "Wayfair"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 673634776713064448,
+    "id_str": "673634776713064448",
+    "in_reply_to_screen_name": "facebook",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 2425151,
+    "in_reply_to_user_id_str": "2425151",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -122.473595,
+                        37.6009088
+                    ],
+                    [
+                        -122.399963,
+                        37.6009088
+                    ],
+                    [
+                        -122.399963,
+                        37.641689
+                    ],
+                    [
+                        -122.473595,
+                        37.641689
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "San Bruno, CA",
+        "id": "5358b6f78dd95ef6",
+        "name": "San Bruno",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/5358b6f78dd95ef6.json"
+    },
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@facebook Typos make me sad. :-( (cc @Wayfair) https://t.co/HENjqy1n1k",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Sep 06 21:14:52 +0000 2008",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Extraverting. Sensing. Thinking. Judging. Consider yourself forewarned.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "va.nityplat.es",
+                        "expanded_url": "http://va.nityplat.es",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/jzhHRtUoW1"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 0,
+        "follow_request_sent": false,
+        "followers_count": 987,
+        "following": false,
+        "friends_count": 1,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 16160909,
+        "id_str": "16160909",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 49,
+        "location": "San Francisco, CA",
+        "name": "Tim Wong",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/383042882/background.png",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/383042882/background.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/16160909/1398356179",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/542193959427002368/_NjLBL1s_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/542193959427002368/_NjLBL1s_normal.jpeg",
+        "profile_link_color": "FF0000",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "tim_wong",
+        "statuses_count": 7618,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "http://t.co/jzhHRtUoW1",
+        "utc_offset": -28800,
+        "verified": false
+    }
+}

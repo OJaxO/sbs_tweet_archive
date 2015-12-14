@@ -1,0 +1,133 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 07 20:39:37 +0000 2015",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    98,
+                    104
+                ],
+                "text": "cloud"
+            }
+        ],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "youtube.com/watch?v=La7fiE\u2026",
+                "expanded_url": "https://www.youtube.com/watch?v=La7fiE00slQ",
+                "indices": [
+                    49,
+                    72
+                ],
+                "url": "https://t.co/HeeoBp0oGo"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 15749983,
+                "id_str": "15749983",
+                "indices": [
+                    0,
+                    6
+                ],
+                "name": "Cisco",
+                "screen_name": "Cisco"
+            },
+            {
+                "id": 1138959692,
+                "id_str": "1138959692",
+                "indices": [
+                    41,
+                    48
+                ],
+                "name": "Docker",
+                "screen_name": "docker"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 673965103746703361,
+    "id_str": "673965103746703361",
+    "in_reply_to_screen_name": "Cisco",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 15749983,
+    "in_reply_to_user_id_str": "15749983",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "text": "@Cisco ACI now provides integration with @docker https://t.co/HeeoBp0oGo Also expands support for #cloud automation tools",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Aug 25 09:10:04 +0000 2011",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Cloud team at Cisco. All tweets are my own opinion.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "iroddy.com",
+                        "expanded_url": "http://iroddy.com",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/mDNKeIeODe"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 80,
+        "follow_request_sent": false,
+        "followers_count": 817,
+        "following": false,
+        "friends_count": 290,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 361767437,
+        "id_str": "361767437",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 11,
+        "location": "Melbourne, Australia",
+        "name": "Rodney Hamill",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/361767437/1357558654",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/2491369991/qrd2k1h4fysanxpymled_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/2491369991/qrd2k1h4fysanxpymled_normal.jpeg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Rodneyhamill",
+        "statuses_count": 1001,
+        "time_zone": null,
+        "url": "http://t.co/mDNKeIeODe",
+        "utc_offset": null,
+        "verified": false
+    }
+}

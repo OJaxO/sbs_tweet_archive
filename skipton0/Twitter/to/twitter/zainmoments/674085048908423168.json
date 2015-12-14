@@ -1,0 +1,124 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 08 04:36:14 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 783214,
+                "id_str": "783214",
+                "indices": [
+                    0,
+                    8
+                ],
+                "name": "Twitter",
+                "screen_name": "twitter"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 674085048908423168,
+    "id_str": "674085048908423168",
+    "in_reply_to_screen_name": "twitter",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 783214,
+    "in_reply_to_user_id_str": "783214",
+    "is_quote_status": false,
+    "lang": "pt",
+    "metadata": {
+        "iso_language_code": "pt",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -47.989299,
+                        -21.368536
+                    ],
+                    [
+                        -47.646692,
+                        -21.368536
+                    ],
+                    [
+                        -47.646692,
+                        -21.0593092
+                    ],
+                    [
+                        -47.989299,
+                        -21.0593092
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "Brasil",
+        "country_code": "BR",
+        "full_name": "Ribeir\u00e3o Preto, S\u00e3o Paulo",
+        "id": "f0e55b3f11b41899",
+        "name": "Ribeir\u00e3o Preto",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/f0e55b3f11b41899.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@Twitter eu s\u00f3 te pe\u00e7o uma coisa, colabora cmg. J\u00e1 to irritada",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Feb 06 20:54:09 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Mas eu vou voltar pq eu amei te ver",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 2928,
+        "follow_request_sent": false,
+        "followers_count": 23973,
+        "following": false,
+        "friends_count": 16263,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 248360355,
+        "id_str": "248360355",
+        "is_translation_enabled": false,
+        "is_translator": true,
+        "lang": "pt",
+        "listed_count": 155,
+        "location": "",
+        "name": "ju",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/558793985745899520/9vSwBgRY.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/558793985745899520/9vSwBgRY.jpeg",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/248360355/1449549248",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/674067497784631296/y-6qokaJ_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/674067497784631296/y-6qokaJ_normal.jpg",
+        "profile_link_color": "ABB8C2",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "zainmoments",
+        "statuses_count": 180388,
+        "time_zone": "Greenland",
+        "url": null,
+        "utc_offset": -10800,
+        "verified": false
+    }
+}

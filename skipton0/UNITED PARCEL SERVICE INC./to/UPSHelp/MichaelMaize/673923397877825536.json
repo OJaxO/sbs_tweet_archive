@@ -1,0 +1,154 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 07 17:53:53 +0000 2015",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    129,
+                    140
+                ],
+                "text": "frustrated"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 271516607,
+                "id_str": "271516607",
+                "indices": [
+                    0,
+                    8
+                ],
+                "name": "UPS Customer Support",
+                "screen_name": "UPSHelp"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 673923397877825536,
+    "id_str": "673923397877825536",
+    "in_reply_to_screen_name": "UPSHelp",
+    "in_reply_to_status_id": 673913764027191296,
+    "in_reply_to_status_id_str": "673913764027191296",
+    "in_reply_to_user_id": 271516607,
+    "in_reply_to_user_id_str": "271516607",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -118.668404,
+                        33.704538
+                    ],
+                    [
+                        -118.155409,
+                        33.704538
+                    ],
+                    [
+                        -118.155409,
+                        34.337041
+                    ],
+                    [
+                        -118.668404,
+                        34.337041
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Los Angeles, CA",
+        "id": "3b77caf94bfc81fe",
+        "name": "Los Angeles",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/3b77caf94bfc81fe.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@UPSHelp their response: \"At this time, your pkg is not avail for p/u. I do not have any additional information to provide you.\" #frustrated",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue May 26 19:44:04 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "actor #tv #film #life http://t.co/JhZDjj6BzC",
+        "entities": {
+            "description": {
+                "urls": [
+                    {
+                        "display_url": "michaelmaize.com",
+                        "expanded_url": "http://www.michaelmaize.com",
+                        "indices": [
+                            22,
+                            44
+                        ],
+                        "url": "http://t.co/JhZDjj6BzC"
+                    }
+                ]
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "imdb.com/name/nm0538002",
+                        "expanded_url": "http://www.imdb.com/name/nm0538002",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/O5B3Au8TcQ"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 325,
+        "follow_request_sent": false,
+        "followers_count": 14534,
+        "following": false,
+        "friends_count": 273,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 42701791,
+        "id_str": "42701791",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 52,
+        "location": "Los Angeles",
+        "name": "Michael Maize",
+        "notifications": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000000381617/b4406bc9befb2a90838f05d8bf3342a2.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000000381617/b4406bc9befb2a90838f05d8bf3342a2.jpeg",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/378800000002095488/ce5ab60a4794fdfc54996ae416e2dd43_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000002095488/ce5ab60a4794fdfc54996ae416e2dd43_normal.jpeg",
+        "profile_link_color": "99002B",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "MichaelMaize",
+        "statuses_count": 1440,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "http://t.co/O5B3Au8TcQ",
+        "utc_offset": -28800,
+        "verified": false
+    }
+}

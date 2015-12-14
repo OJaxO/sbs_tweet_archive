@@ -1,0 +1,147 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 08 12:36:51 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 18332190,
+                "id_str": "18332190",
+                "indices": [
+                    0,
+                    16
+                ],
+                "name": "British Airways",
+                "screen_name": "British_Airways"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 674205999478214656,
+    "id_str": "674205999478214656",
+    "in_reply_to_screen_name": "British_Airways",
+    "in_reply_to_status_id": 674205650805747712,
+    "in_reply_to_status_id_str": "674205650805747712",
+    "in_reply_to_user_id": 18332190,
+    "in_reply_to_user_id_str": "18332190",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        14.9358197,
+                        37.3577042
+                    ],
+                    [
+                        15.1258768,
+                        37.3577042
+                    ],
+                    [
+                        15.1258768,
+                        37.5624391
+                    ],
+                    [
+                        14.9358197,
+                        37.5624391
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "Italia",
+        "country_code": "IT",
+        "full_name": "Catania, Sicily",
+        "id": "d6aa76b6a017112c",
+        "name": "Catania",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/d6aa76b6a017112c.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@British_Airways yes, I'll do, but from Sicily (where I Live) to your island: from Catania to London, It works for you?",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Nov 14 23:34:33 +0000 2008",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Freelance digital strategist and content creator \u2022 Contributor at @wireditalia \u2022 Founder of @dieci_cose \u2022 Stories: http://t.co/4eeT1crlzI",
+        "entities": {
+            "description": {
+                "urls": [
+                    {
+                        "display_url": "instagram.com/roccorossitto",
+                        "expanded_url": "http://www.instagram.com/roccorossitto",
+                        "indices": [
+                            115,
+                            137
+                        ],
+                        "url": "http://t.co/4eeT1crlzI"
+                    }
+                ]
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "roccorossitto.it",
+                        "expanded_url": "http://www.roccorossitto.it",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/5NjncF67Sr"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 9649,
+        "follow_request_sent": false,
+        "followers_count": 5592,
+        "following": false,
+        "friends_count": 864,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 17398391,
+        "id_str": "17398391",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "it",
+        "listed_count": 295,
+        "location": "Catania, Sicilia",
+        "name": "Rocco Rossitto",
+        "notifications": false,
+        "profile_background_color": "050505",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000000317252/3cf084fcbfe76f942f421d379ba660c5.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000000317252/3cf084fcbfe76f942f421d379ba660c5.jpeg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/17398391/1449245238",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/480617855835066369/eDZvSe7m_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/480617855835066369/eDZvSe7m_normal.jpeg",
+        "profile_link_color": "ABB8C2",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "roccorossitto",
+        "statuses_count": 56408,
+        "time_zone": "Rome",
+        "url": "http://t.co/5NjncF67Sr",
+        "utc_offset": 3600,
+        "verified": false
+    }
+}

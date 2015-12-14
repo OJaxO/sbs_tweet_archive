@@ -1,0 +1,136 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 08 17:47:55 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 18735040,
+                "id_str": "18735040",
+                "indices": [
+                    0,
+                    10
+                ],
+                "name": "Bank of America Help",
+                "screen_name": "BofA_Help"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 674284284723744769,
+    "id_str": "674284284723744769",
+    "in_reply_to_screen_name": "BofA_Help",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 18735040,
+    "in_reply_to_user_id_str": "18735040",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -71.177553,
+                        42.135115
+                    ],
+                    [
+                        -71.0665792,
+                        42.135115
+                    ],
+                    [
+                        -71.0665792,
+                        42.227797
+                    ],
+                    [
+                        -71.177553,
+                        42.227797
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Canton, MA",
+        "id": "01ed0b8e28d505ae",
+        "name": "Canton",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/01ed0b8e28d505ae.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@BofA_Help I have a confirmation email that an order was canceled last Friday but the money is still pending in my account 5 days later.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Mar 14 02:10:49 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Alt Model / Beauty Blogger / Band Manager: Callback Holly / Snap: ShannonElainexx / Insta: @ShannonElainexo & @CallbackHollyMa",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "expanded_url": null,
+                        "indices": [
+                            0,
+                            35
+                        ],
+                        "url": "http://Facebook.com/ShannonElainexo"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 8909,
+        "follow_request_sent": false,
+        "followers_count": 514,
+        "following": false,
+        "friends_count": 491,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 24308262,
+        "id_str": "24308262",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 12,
+        "location": "Boston, Ma",
+        "name": "Shannon Elaine xo",
+        "notifications": false,
+        "profile_background_color": "FFFFFF",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/697091482/35ea1f88059bcff39ef7f1ad4ba90cc0.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/697091482/35ea1f88059bcff39ef7f1ad4ba90cc0.jpeg",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/24308262/1448728621",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/669940699220021248/SYAxmhRs_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/669940699220021248/SYAxmhRs_normal.jpg",
+        "profile_link_color": "E888E8",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "303018",
+        "profile_text_color": "757527",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "ShannonElainexo",
+        "statuses_count": 16065,
+        "time_zone": "Eastern Time (US & Canada)",
+        "url": "http://Facebook.com/ShannonElainexo",
+        "utc_offset": -18000,
+        "verified": false
+    }
+}

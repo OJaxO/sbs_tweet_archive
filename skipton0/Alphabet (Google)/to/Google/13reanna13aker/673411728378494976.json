@@ -1,0 +1,201 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Dec 06 08:00:42 +0000 2015",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    50,
+                    58
+                ],
+                "text": "sitebug"
+            },
+            {
+                "indices": [
+                    59,
+                    66
+                ],
+                "text": "Google"
+            }
+        ],
+        "media": [
+            {
+                "display_url": "pic.twitter.com/ZdjnVOewy8",
+                "expanded_url": "http://twitter.com/13reanna13aker/status/673411728378494976/photo/1",
+                "id": 673411727845777408,
+                "id_str": "673411727845777408",
+                "indices": [
+                    67,
+                    90
+                ],
+                "media_url": "http://pbs.twimg.com/media/CVhwZgnUYAA1GXc.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/CVhwZgnUYAA1GXc.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 538,
+                        "resize": "fit",
+                        "w": 1024
+                    },
+                    "medium": {
+                        "h": 315,
+                        "resize": "fit",
+                        "w": 600
+                    },
+                    "small": {
+                        "h": 178,
+                        "resize": "fit",
+                        "w": 340
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/ZdjnVOewy8"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 20536157,
+                "id_str": "20536157",
+                "indices": [
+                    0,
+                    7
+                ],
+                "name": "Google",
+                "screen_name": "google"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 673411728378494976,
+    "id_str": "673411728378494976",
+    "in_reply_to_screen_name": "google",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 20536157,
+    "in_reply_to_user_id_str": "20536157",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -122.514926,
+                        37.708075
+                    ],
+                    [
+                        -122.357031,
+                        37.708075
+                    ],
+                    [
+                        -122.357031,
+                        37.833238
+                    ],
+                    [
+                        -122.514926,
+                        37.833238
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "San Francisco, CA",
+        "id": "5a110d312052166f",
+        "name": "San Francisco",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/5a110d312052166f.json"
+    },
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@google Hey Google, you might want to fix this... #sitebug #Google https://t.co/ZdjnVOewy8",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Oct 26 10:53:27 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Efficiency-driven workaholic | Major note-taker | Soylent drinker | Occasional spaz | Weakness: ice cream https://t.co/fxuTppoNno |  #ModelLearnsCode",
+        "entities": {
+            "description": {
+                "urls": [
+                    {
+                        "display_url": "BreannaBaker.com",
+                        "expanded_url": "http://www.BreannaBaker.com",
+                        "indices": [
+                            106,
+                            129
+                        ],
+                        "url": "https://t.co/fxuTppoNno"
+                    }
+                ]
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "imdb.me/breannabaker",
+                        "expanded_url": "http://www.imdb.me/breannabaker",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/z5bdnMBWYi"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 12818,
+        "follow_request_sent": false,
+        "followers_count": 611,
+        "following": false,
+        "friends_count": 411,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 398650304,
+        "id_str": "398650304",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 35,
+        "location": "Uber Addicts Anonymous",
+        "name": "Breanna Baker",
+        "notifications": false,
+        "profile_background_color": "292929",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000001080231/65c852825e5eb70999321e0b7649b588.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000001080231/65c852825e5eb70999321e0b7649b588.jpeg",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/398650304/1398214698",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/645342770010296320/lkR5u29l_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/645342770010296320/lkR5u29l_normal.jpg",
+        "profile_link_color": "3B94D9",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "DAECF4",
+        "profile_text_color": "663B12",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "13reanna13aker",
+        "statuses_count": 5806,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "http://t.co/z5bdnMBWYi",
+        "utc_offset": -28800,
+        "verified": false
+    }
+}

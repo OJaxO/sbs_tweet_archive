@@ -1,0 +1,158 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 08 10:32:48 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "bit.ly/1IBYnls",
+                "expanded_url": "http://bit.ly/1IBYnls",
+                "indices": [
+                    87,
+                    110
+                ],
+                "url": "https://t.co/K2028yFDan"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 74286565,
+                "id_str": "74286565",
+                "indices": [
+                    0,
+                    10
+                ],
+                "name": "Microsoft",
+                "screen_name": "Microsoft"
+            },
+            {
+                "id": 19936330,
+                "id_str": "19936330",
+                "indices": [
+                    19,
+                    32
+                ],
+                "name": "HPE Software",
+                "screen_name": "HPE_Software"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 674174783366545408,
+    "id_str": "674174783366545408",
+    "in_reply_to_screen_name": "Microsoft",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 74286565,
+    "in_reply_to_user_id_str": "74286565",
+    "is_quote_status": false,
+    "lang": "de",
+    "metadata": {
+        "iso_language_code": "de",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        13.579443,
+                        50.975948
+                    ],
+                    [
+                        13.965473,
+                        50.975948
+                    ],
+                    [
+                        13.965473,
+                        51.177706
+                    ],
+                    [
+                        13.579443,
+                        51.177706
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "Deutschland",
+        "country_code": "DE",
+        "full_name": "Dresden, Sachsen",
+        "id": "00e647d09931fc10",
+        "name": "Dresden",
+        "place_type": "admin",
+        "url": "https://api.twitter.com/1.1/geo/id/00e647d09931fc10.json"
+    },
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@Microsoft Azure + @HPE_Software Services = Transformation auf Hybrid Cloud-Umgebungen https://t.co/K2028yFDan",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Jul 08 12:23:18 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Wir sind Experten f\u00fcr das IT-Qualit\u00e4ts-management.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "proficom.de",
+                        "expanded_url": "http://www.proficom.de",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/LnKVxwzrZW"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 6,
+        "follow_request_sent": false,
+        "followers_count": 41,
+        "following": false,
+        "friends_count": 60,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 164254450,
+        "id_str": "164254450",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "de",
+        "listed_count": 23,
+        "location": "Dresden",
+        "name": "profi.com",
+        "notifications": false,
+        "profile_background_color": "0099B9",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/639402572852367360/I06c9bUG.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/639402572852367360/I06c9bUG.jpg",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/164254450/1441280875",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/639403631113060352/vclc2pAC_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/639403631113060352/vclc2pAC_normal.jpg",
+        "profile_link_color": "0099B9",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "proficom",
+        "statuses_count": 199,
+        "time_zone": "Berlin",
+        "url": "http://t.co/LnKVxwzrZW",
+        "utc_offset": 3600,
+        "verified": false
+    }
+}

@@ -1,0 +1,236 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 07 19:59:36 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "media": [
+            {
+                "display_url": "pic.twitter.com/JScX31kGiA",
+                "expanded_url": "http://twitter.com/maryenglish/status/673955033218686978/photo/1",
+                "id": 673955026667184128,
+                "id_str": "673955026667184128",
+                "indices": [
+                    106,
+                    129
+                ],
+                "media_url": "http://pbs.twimg.com/media/CVpehqcWIAAMCdb.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/CVpehqcWIAAMCdb.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 480,
+                        "resize": "fit",
+                        "w": 640
+                    },
+                    "medium": {
+                        "h": 450,
+                        "resize": "fit",
+                        "w": 600
+                    },
+                    "small": {
+                        "h": 255,
+                        "resize": "fit",
+                        "w": 340
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/JScX31kGiA"
+            }
+        ],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "amzn.to/1IhqDtf",
+                "expanded_url": "http://amzn.to/1IhqDtf",
+                "indices": [
+                    13,
+                    36
+                ],
+                "url": "https://t.co/A8nmejaCN5"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 20793816,
+                "id_str": "20793816",
+                "indices": [
+                    0,
+                    7
+                ],
+                "name": "Amazon",
+                "screen_name": "amazon"
+            },
+            {
+                "id": 80557779,
+                "id_str": "80557779",
+                "indices": [
+                    50,
+                    66
+                ],
+                "name": "Writing Magazine",
+                "screen_name": "WritingMagazine"
+            },
+            {
+                "id": 18964696,
+                "id_str": "18964696",
+                "indices": [
+                    67,
+                    81
+                ],
+                "name": "Writer's Digest",
+                "screen_name": "WritersDigest"
+            },
+            {
+                "id": 209241489,
+                "id_str": "209241489",
+                "indices": [
+                    82,
+                    97
+                ],
+                "name": "Society of Authors",
+                "screen_name": "Soc_of_Authors"
+            },
+            {
+                "id": 43304523,
+                "id_str": "43304523",
+                "indices": [
+                    98,
+                    105
+                ],
+                "name": "O Books MBS Cluster",
+                "screen_name": "obooks"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 673955033218686978,
+    "id_str": "673955033218686978",
+    "in_reply_to_screen_name": "amazon",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 20793816,
+    "in_reply_to_user_id_str": "20793816",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -2.4113744,
+                        51.350545
+                    ],
+                    [
+                        -2.322492,
+                        51.350545
+                    ],
+                    [
+                        -2.322492,
+                        51.408754
+                    ],
+                    [
+                        -2.4113744,
+                        51.408754
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United Kingdom",
+        "country_code": "GB",
+        "full_name": "Bath, England",
+        "id": "1db4f0a70fc5c9db",
+        "name": "Bath",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/1db4f0a70fc5c9db.json"
+    },
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@amazon Yay! https://t.co/A8nmejaCN5 Best Seller! @WritingMagazine @WritersDigest @Soc_of_Authors @obooks https://t.co/JScX31kGiA",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Jun 07 11:38:16 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Author of A Little at a Time:Homeopathy For You&Those You Love https://t.co/DITKD2bDRY +14 non-fiction Homeopath Hypnotherapist Astrologer Vegan Saluki-Lover",
+        "entities": {
+            "description": {
+                "urls": [
+                    {
+                        "display_url": "amzn.to/1IhqDtf",
+                        "expanded_url": "http://amzn.to/1IhqDtf",
+                        "indices": [
+                            63,
+                            86
+                        ],
+                        "url": "https://t.co/DITKD2bDRY"
+                    }
+                ]
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "maryenglish.com",
+                        "expanded_url": "http://www.maryenglish.com",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/tndXcUi6WE"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 1619,
+        "follow_request_sent": false,
+        "followers_count": 754,
+        "following": false,
+        "friends_count": 521,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 45325064,
+        "id_str": "45325064",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 34,
+        "location": "Bath, UK",
+        "name": "Mary English",
+        "notifications": false,
+        "profile_background_color": "0099B9",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/45325064/1433594024",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/499944635561545728/Y-iH3cPl_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/499944635561545728/Y-iH3cPl_normal.jpeg",
+        "profile_link_color": "0099B9",
+        "profile_sidebar_border_color": "5ED4DC",
+        "profile_sidebar_fill_color": "95E8EC",
+        "profile_text_color": "3C3940",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "maryenglish",
+        "statuses_count": 8991,
+        "time_zone": "London",
+        "url": "http://t.co/tndXcUi6WE",
+        "utc_offset": 0,
+        "verified": false
+    }
+}

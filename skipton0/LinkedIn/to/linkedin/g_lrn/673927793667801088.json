@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 07 18:11:21 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 13058772,
+                "id_str": "13058772",
+                "indices": [
+                    0,
+                    9
+                ],
+                "name": "LinkedIn",
+                "screen_name": "LinkedIn"
+            }
+        ]
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": null,
+    "id": 673927793667801088,
+    "id_str": "673927793667801088",
+    "in_reply_to_screen_name": "LinkedIn",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 13058772,
+    "in_reply_to_user_id_str": "13058772",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -117.282538,
+                        32.53962
+                    ],
+                    [
+                        -116.9274403,
+                        32.53962
+                    ],
+                    [
+                        -116.9274403,
+                        33.0804044
+                    ],
+                    [
+                        -117.282538,
+                        33.0804044
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "San Diego, CA",
+        "id": "a592bd6ceb1319f7",
+        "name": "San Diego",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/a592bd6ceb1319f7.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@LinkedIn app redesign: LOVE- new interface is much easier to navigate. EH- font choice seems a little... juvenile?",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Jan 04 02:39:21 +0000 2013",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "girl wakes up with optimistic new outlook // #MAIP2015",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "linkedin.com/in/gloriamlin",
+                        "expanded_url": "http://linkedin.com/in/gloriamlin",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/TcAzmUYPdx"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 6387,
+        "follow_request_sent": false,
+        "followers_count": 325,
+        "following": false,
+        "friends_count": 442,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 1059352880,
+        "id_str": "1059352880",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 9,
+        "location": "",
+        "name": "gloria lin",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/595463054684397568/K6UDv99L.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/595463054684397568/K6UDv99L.jpg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1059352880/1434549563",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/673166978526220290/Q1OseGRS_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/673166978526220290/Q1OseGRS_normal.jpg",
+        "profile_link_color": "DD2E44",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "A0C5C7",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "g_lrn",
+        "statuses_count": 1276,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "https://t.co/TcAzmUYPdx",
+        "utc_offset": -28800,
+        "verified": false
+    }
+}

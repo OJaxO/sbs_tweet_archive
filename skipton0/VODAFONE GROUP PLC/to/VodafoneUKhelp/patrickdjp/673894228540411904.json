@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 07 15:57:59 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 1567914936,
+                "id_str": "1567914936",
+                "indices": [
+                    0,
+                    15
+                ],
+                "name": "Vodafone UK Help",
+                "screen_name": "VodafoneUKhelp"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 673894228540411904,
+    "id_str": "673894228540411904",
+    "in_reply_to_screen_name": "VodafoneUKhelp",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 1567914936,
+    "in_reply_to_user_id_str": "1567914936",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -0.187894,
+                        51.483718
+                    ],
+                    [
+                        -0.109978,
+                        51.483718
+                    ],
+                    [
+                        -0.109978,
+                        51.5164655
+                    ],
+                    [
+                        -0.187894,
+                        51.5164655
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United Kingdom",
+        "country_code": "GB",
+        "full_name": "London, England",
+        "id": "457b4814b4240d87",
+        "name": "London",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/457b4814b4240d87.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@VodafoneUKhelp hi there - my phone is not connecting to London Underground WiFi, can you please help?",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun May 17 18:14:49 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Irish marketer from Galway | Former Dubaian | Party DJ | Fitness fanatic | Music lover | Runner of London Marathon \u2b50\ufe0f",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "patrickdjp.com",
+                        "expanded_url": "http://patrickdjp.com",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/jTKBAG6FkT"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 2440,
+        "follow_request_sent": false,
+        "followers_count": 1250,
+        "following": false,
+        "friends_count": 993,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 40706120,
+        "id_str": "40706120",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 77,
+        "location": "London",
+        "name": "Patrick Farrell",
+        "notifications": false,
+        "profile_background_color": "9E1F13",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000049868517/ff1be9d5615da0fdc5b6f305d48c6bca.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000049868517/ff1be9d5615da0fdc5b6f305d48c6bca.jpeg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/40706120/1412791564",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/579681528105574400/CLYeVbzB_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/579681528105574400/CLYeVbzB_normal.jpg",
+        "profile_link_color": "9E1F13",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "E2C18B",
+        "profile_text_color": "521C17",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "patrickdjp",
+        "statuses_count": 11141,
+        "time_zone": "London",
+        "url": "https://t.co/jTKBAG6FkT",
+        "utc_offset": 0,
+        "verified": false
+    }
+}

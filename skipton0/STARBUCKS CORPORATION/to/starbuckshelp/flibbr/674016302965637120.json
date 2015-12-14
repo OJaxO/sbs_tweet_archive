@@ -1,0 +1,166 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 08 00:03:03 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 2917968139,
+                "id_str": "2917968139",
+                "indices": [
+                    0,
+                    14
+                ],
+                "name": "Starbucks Help",
+                "screen_name": "starbuckshelp"
+            },
+            {
+                "id": 3559278016,
+                "id_str": "3559278016",
+                "indices": [
+                    15,
+                    28
+                ],
+                "name": "Lip Service",
+                "screen_name": "lalipservice"
+            }
+        ]
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": null,
+    "id": 674016302965637120,
+    "id_str": "674016302965637120",
+    "in_reply_to_screen_name": "starbuckshelp",
+    "in_reply_to_status_id": 673962651496620033,
+    "in_reply_to_status_id_str": "673962651496620033",
+    "in_reply_to_user_id": 2917968139,
+    "in_reply_to_user_id_str": "2917968139",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -74.045819,
+                        40.750571
+                    ],
+                    [
+                        -74.0148147,
+                        40.750571
+                    ],
+                    [
+                        -74.0148147,
+                        40.782669
+                    ],
+                    [
+                        -74.045819,
+                        40.782669
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Union City, NJ",
+        "id": "b46619b2722d9703",
+        "name": "Union City",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/b46619b2722d9703.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@starbuckshelp @lalipservice Password recovery link in the email is always coming back as 'expired' when u click it. Please pass on to the",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Feb 26 14:34:18 +0000 2013",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Passionate about #fintech. Bitcoin Trader; Co-Run WC Trading community: http://t.co/KVbqS3AiiA ~~ More Info: http://t.co/7pZ1G85ZF5",
+        "entities": {
+            "description": {
+                "urls": [
+                    {
+                        "display_url": "ts.whaleclub.co",
+                        "expanded_url": "http://ts.whaleclub.co",
+                        "indices": [
+                            72,
+                            94
+                        ],
+                        "url": "http://t.co/KVbqS3AiiA"
+                    },
+                    {
+                        "display_url": "bit.ly/13V8KgW",
+                        "expanded_url": "http://bit.ly/13V8KgW",
+                        "indices": [
+                            109,
+                            131
+                        ],
+                        "url": "http://t.co/7pZ1G85ZF5"
+                    }
+                ]
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "flibbr.com",
+                        "expanded_url": "http://www.flibbr.com",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/16TIp11a93"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 5211,
+        "follow_request_sent": false,
+        "followers_count": 3391,
+        "following": false,
+        "friends_count": 2391,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 1221931562,
+        "id_str": "1221931562",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 159,
+        "location": "",
+        "name": "flibbr",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/820227643/737df50b2896bade28191ca09c3a9bb6.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/820227643/737df50b2896bade28191ca09c3a9bb6.jpeg",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1221931562/1398940575",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/639581348819283968/3Vm6DXC1_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/639581348819283968/3Vm6DXC1_normal.jpg",
+        "profile_link_color": "206A85",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "flibbr",
+        "statuses_count": 6835,
+        "time_zone": null,
+        "url": "http://t.co/16TIp11a93",
+        "utc_offset": null,
+        "verified": false
+    }
+}

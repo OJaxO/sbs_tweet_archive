@@ -1,0 +1,144 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 07 22:50:00 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 20793816,
+                "id_str": "20793816",
+                "indices": [
+                    0,
+                    7
+                ],
+                "name": "Amazon",
+                "screen_name": "amazon"
+            },
+            {
+                "id": 1603218127,
+                "id_str": "1603218127",
+                "indices": [
+                    34,
+                    45
+                ],
+                "name": "Robert Galbraith",
+                "screen_name": "RGalbraith"
+            },
+            {
+                "id": 62513246,
+                "id_str": "62513246",
+                "indices": [
+                    129,
+                    140
+                ],
+                "name": "J.K. Rowling",
+                "screen_name": "jk_rowling"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 673997918857248768,
+    "id_str": "673997918857248768",
+    "in_reply_to_screen_name": "amazon",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 20793816,
+    "in_reply_to_user_id_str": "20793816",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -2.033651,
+                        52.381063
+                    ],
+                    [
+                        -1.74763,
+                        52.381063
+                    ],
+                    [
+                        -1.74763,
+                        52.60687
+                    ],
+                    [
+                        -2.033651,
+                        52.60687
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United Kingdom",
+        "country_code": "GB",
+        "full_name": "Birmingham, England",
+        "id": "53b67b1d1cc81a51",
+        "name": "Birmingham",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/53b67b1d1cc81a51.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@amazon justify charging more for @RGalbraith kindle edition than a delivered hardback. Aren't we all trying to save the planet? @jk_rowling",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Mar 27 20:54:11 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Be excellent to one another.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 108,
+        "follow_request_sent": false,
+        "followers_count": 140,
+        "following": false,
+        "friends_count": 9,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 127036621,
+        "id_str": "127036621",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 5,
+        "location": "UK",
+        "name": "Stu Small",
+        "notifications": false,
+        "profile_background_color": "1A1B1F",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/127036621/1417196652",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1469043956/photo-18_copy_normal.JPG",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1469043956/photo-18_copy_normal.JPG",
+        "profile_link_color": "2FC2EF",
+        "profile_sidebar_border_color": "181A1E",
+        "profile_sidebar_fill_color": "252429",
+        "profile_text_color": "666666",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Boatdrinks",
+        "statuses_count": 818,
+        "time_zone": "London",
+        "url": null,
+        "utc_offset": 0,
+        "verified": false
+    }
+}

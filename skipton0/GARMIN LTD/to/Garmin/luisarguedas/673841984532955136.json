@@ -1,0 +1,132 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 07 12:30:23 +0000 2015",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    80,
+                    94
+                ],
+                "text": "forerunner235"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 15324722,
+                "id_str": "15324722",
+                "indices": [
+                    0,
+                    7
+                ],
+                "name": "Garmin",
+                "screen_name": "Garmin"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 673841984532955136,
+    "id_str": "673841984532955136",
+    "in_reply_to_screen_name": "Garmin",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 15324722,
+    "in_reply_to_user_id_str": "15324722",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -84.2022247,
+                        9.9435368
+                    ],
+                    [
+                        -83.7017059,
+                        9.9435368
+                    ],
+                    [
+                        -83.7017059,
+                        10.7896442
+                    ],
+                    [
+                        -84.2022247,
+                        10.7896442
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "Costa Rica",
+        "country_code": "CR",
+        "full_name": "Heredia, Costa Rica",
+        "id": "012c447f4ce72363",
+        "name": "Heredia",
+        "place_type": "admin",
+        "url": "https://api.twitter.com/1.1/geo/id/012c447f4ce72363.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@Garmin so disappointed, I placed order las week on Amazon and was back ordered #forerunner235",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Jul 20 15:09:00 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "I love God, my wife and family.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 619,
+        "follow_request_sent": false,
+        "followers_count": 75,
+        "following": false,
+        "friends_count": 344,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 58496237,
+        "id_str": "58496237",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 0,
+        "location": "Costa Rica",
+        "name": "Luis Arguedas",
+        "notifications": false,
+        "profile_background_color": "B2DFDA",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/58496237/1408238898",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/667864688277909504/2SHapQ3i_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/667864688277909504/2SHapQ3i_normal.jpg",
+        "profile_link_color": "93A644",
+        "profile_sidebar_border_color": "EEEEEE",
+        "profile_sidebar_fill_color": "FFFFFF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "luisarguedas",
+        "statuses_count": 1886,
+        "time_zone": "Central America",
+        "url": null,
+        "utc_offset": -21600,
+        "verified": false
+    }
+}

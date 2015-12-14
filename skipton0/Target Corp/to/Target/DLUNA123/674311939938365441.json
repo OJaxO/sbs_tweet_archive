@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 08 19:37:49 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 89084561,
+                "id_str": "89084561",
+                "indices": [
+                    0,
+                    7
+                ],
+                "name": "Target",
+                "screen_name": "Target"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 674311939938365441,
+    "id_str": "674311939938365441",
+    "in_reply_to_screen_name": "Target",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 89084561,
+    "in_reply_to_user_id_str": "89084561",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -97.662618,
+                        27.578509
+                    ],
+                    [
+                        -97.202232,
+                        27.578509
+                    ],
+                    [
+                        -97.202232,
+                        27.895793
+                    ],
+                    [
+                        -97.662618,
+                        27.895793
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Corpus Christi, TX",
+        "id": "a3d770a00f15bcb1",
+        "name": "Corpus Christi",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/a3d770a00f15bcb1.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@Target Corpus Christi PLEASE bring back Express Lanes back. Even WalMart puts ur lines to shame. Waited over 25 minutes to check out.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Mar 23 15:16:38 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "facebook.com/DanielLuna824",
+                        "expanded_url": "http://www.facebook.com/DanielLuna824",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/DygOmcUDak"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 511,
+        "follow_request_sent": false,
+        "followers_count": 712,
+        "following": false,
+        "friends_count": 873,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 26019347,
+        "id_str": "26019347",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 7,
+        "location": "Corpus Christi,Tx",
+        "name": "D.",
+        "notifications": false,
+        "profile_background_color": "000405",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/43395420/BOON3.bmp",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/43395420/BOON3.bmp",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/26019347/1411263555",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/670261610577956864/hV8vvp52_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/670261610577956864/hV8vvp52_normal.jpg",
+        "profile_link_color": "08F2FA",
+        "profile_sidebar_border_color": "FA0AD6",
+        "profile_sidebar_fill_color": "E468F7",
+        "profile_text_color": "050005",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "DLUNA123",
+        "statuses_count": 6209,
+        "time_zone": "Central Time (US & Canada)",
+        "url": "http://t.co/DygOmcUDak",
+        "utc_offset": -21600,
+        "verified": false
+    }
+}

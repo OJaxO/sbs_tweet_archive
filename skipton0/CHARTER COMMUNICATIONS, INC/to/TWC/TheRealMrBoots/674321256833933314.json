@@ -1,0 +1,163 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 08 20:14:50 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "media": [
+            {
+                "display_url": "pic.twitter.com/VmrdS3UG7X",
+                "expanded_url": "http://twitter.com/TheRealMrBoots/status/674321256833933314/photo/1",
+                "id": 674321255961485316,
+                "id_str": "674321255961485316",
+                "indices": [
+                    74,
+                    97
+                ],
+                "media_url": "http://pbs.twimg.com/media/CVurnA4UYAQ1lTM.png",
+                "media_url_https": "https://pbs.twimg.com/media/CVurnA4UYAQ1lTM.png",
+                "sizes": {
+                    "large": {
+                        "h": 101,
+                        "resize": "fit",
+                        "w": 1024
+                    },
+                    "medium": {
+                        "h": 59,
+                        "resize": "fit",
+                        "w": 600
+                    },
+                    "small": {
+                        "h": 33,
+                        "resize": "fit",
+                        "w": 340
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/VmrdS3UG7X"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 127975950,
+                "id_str": "127975950",
+                "indices": [
+                    0,
+                    4
+                ],
+                "name": "Time Warner Cable",
+                "screen_name": "TWC"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 674321256833933314,
+    "id_str": "674321256833933314",
+    "in_reply_to_screen_name": "TWC",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 127975950,
+    "in_reply_to_user_id_str": "127975950",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -97.928935,
+                        30.127892
+                    ],
+                    [
+                        -97.5805133,
+                        30.127892
+                    ],
+                    [
+                        -97.5805133,
+                        30.5187994
+                    ],
+                    [
+                        -97.928935,
+                        30.5187994
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Austin, TX",
+        "id": "c3f37afa9efcf94b",
+        "name": "Austin",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/c3f37afa9efcf94b.json"
+    },
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@twc Curious why you have two different prices for STB's on your website? https://t.co/VmrdS3UG7X",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Apr 10 15:36:57 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Ambivert from Kansas living in Austin, TX. I enjoy photography, biking, and anything tech related. iWork at a large fruit company. #Apple. #Science #Space",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 1172,
+        "follow_request_sent": false,
+        "followers_count": 1222,
+        "following": false,
+        "friends_count": 393,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 30239798,
+        "id_str": "30239798",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 14,
+        "location": "Austin, TX",
+        "name": "Jayme Boots",
+        "notifications": false,
+        "profile_background_color": "1A1B1F",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/758302834/72a72975d1b2db92d7d23585e7dc4098.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/758302834/72a72975d1b2db92d7d23585e7dc4098.jpeg",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/30239798/1447872984",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/613424220639502336/pCdw2GMd_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/613424220639502336/pCdw2GMd_normal.jpg",
+        "profile_link_color": "0000DD",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "252429",
+        "profile_text_color": "666666",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "TheRealMrBoots",
+        "statuses_count": 3647,
+        "time_zone": "Central Time (US & Canada)",
+        "url": null,
+        "utc_offset": -21600,
+        "verified": false
+    }
+}

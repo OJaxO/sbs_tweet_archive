@@ -1,0 +1,157 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 07 21:48:28 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 158129535,
+                "id_str": "158129535",
+                "indices": [
+                    0,
+                    4
+                ],
+                "name": "UPS",
+                "screen_name": "UPS"
+            },
+            {
+                "id": 204812327,
+                "id_str": "204812327",
+                "indices": [
+                    92,
+                    103
+                ],
+                "name": "FTD Flowers",
+                "screen_name": "ftdflowers"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 673982432039714816,
+    "id_str": "673982432039714816",
+    "in_reply_to_screen_name": "UPS",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 158129535,
+    "in_reply_to_user_id_str": "158129535",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -82.758209,
+                        27.694323
+                    ],
+                    [
+                        -82.587597,
+                        27.694323
+                    ],
+                    [
+                        -82.587597,
+                        27.8971155
+                    ],
+                    [
+                        -82.758209,
+                        27.8971155
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "St Petersburg, FL",
+        "id": "5d231ed8656fcf5a",
+        "name": "St Petersburg",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/5d231ed8656fcf5a.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@UPS 's website tracker tells me only the label has been created. Just saying my order from @ftdflowers is supposed to be delievered today",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Mar 26 23:25:14 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Loser of 130+ LBS. Read my story here - http://t.co/KsCeVNAUm4 / Lover of Phillies & Baseball - Job-seeking writer. Follow @On_MyLveBasball / @StateofPhillies",
+        "entities": {
+            "description": {
+                "urls": [
+                    {
+                        "display_url": "thewalkingnondead.wordpress.com",
+                        "expanded_url": "http://thewalkingnondead.wordpress.com",
+                        "indices": [
+                            40,
+                            62
+                        ],
+                        "url": "http://t.co/KsCeVNAUm4"
+                    }
+                ]
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "facebook.com/Shieldsy2007",
+                        "expanded_url": "http://www.facebook.com/Shieldsy2007",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/9WRHnMDl0c"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 1077,
+        "follow_request_sent": false,
+        "followers_count": 982,
+        "following": false,
+        "friends_count": 1969,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 26885637,
+        "id_str": "26885637",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 36,
+        "location": "Phillies Country!",
+        "name": "J.S.",
+        "notifications": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/296876215/philadelphia-phillies.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/296876215/philadelphia-phillies.jpg",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/26885637/1416753531",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/3578285609/3f2fef86ba6a476a18b82a4bc23fcdf2_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/3578285609/3f2fef86ba6a476a18b82a4bc23fcdf2_normal.png",
+        "profile_link_color": "009999",
+        "profile_sidebar_border_color": "EEEEEE",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "The_WalkingJohn",
+        "statuses_count": 86119,
+        "time_zone": "Eastern Time (US & Canada)",
+        "url": "http://t.co/9WRHnMDl0c",
+        "utc_offset": -18000,
+        "verified": false
+    }
+}

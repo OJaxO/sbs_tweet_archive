@@ -1,0 +1,281 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 07 17:21:47 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/richarddawkins\u2026",
+                "expanded_url": "https://twitter.com/richarddawkins/status/673914074384769025",
+                "indices": [
+                    76,
+                    99
+                ],
+                "url": "https://t.co/1A9uzvkBCP"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 20536157,
+                "id_str": "20536157",
+                "indices": [
+                    0,
+                    7
+                ],
+                "name": "Google",
+                "screen_name": "google"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 673915318926987265,
+    "id_str": "673915318926987265",
+    "in_reply_to_screen_name": "google",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 20536157,
+    "in_reply_to_user_id_str": "20536157",
+    "is_quote_status": true,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -7.66085699743185,
+                        54.6336309570711
+                    ],
+                    [
+                        -0.740025000483186,
+                        54.6336309570711
+                    ],
+                    [
+                        -0.740025000483186,
+                        60.8452769694519
+                    ],
+                    [
+                        -7.66085699743185,
+                        60.8452769694519
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United Kingdom",
+        "country_code": "GB",
+        "full_name": "Scotland, United Kingdom",
+        "id": "0af014accd6f6e99",
+        "name": "Scotland",
+        "place_type": "admin",
+        "url": "https://api.twitter.com/1.1/geo/id/0af014accd6f6e99.json"
+    },
+    "possibly_sensitive": false,
+    "quoted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Mon Dec 07 17:16:50 +0000 2015",
+        "entities": {
+            "hashtags": [],
+            "media": [
+                {
+                    "display_url": "pic.twitter.com/AERwtWwztz",
+                    "expanded_url": "http://twitter.com/RichardDawkins/status/673914074384769025/photo/1",
+                    "id": 673913278779826177,
+                    "id_str": "673913278779826177",
+                    "indices": [
+                        113,
+                        136
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/CVo4jncXIAEl08z.png",
+                    "media_url_https": "https://pbs.twimg.com/media/CVo4jncXIAEl08z.png",
+                    "sizes": {
+                        "large": {
+                            "h": 719,
+                            "resize": "fit",
+                            "w": 1024
+                        },
+                        "medium": {
+                            "h": 421,
+                            "resize": "fit",
+                            "w": 600
+                        },
+                        "small": {
+                            "h": 238,
+                            "resize": "fit",
+                            "w": 340
+                        },
+                        "thumb": {
+                            "h": 150,
+                            "resize": "crop",
+                            "w": 150
+                        }
+                    },
+                    "type": "photo",
+                    "url": "https://t.co/AERwtWwztz"
+                }
+            ],
+            "symbols": [],
+            "urls": [],
+            "user_mentions": []
+        },
+        "favorite_count": 720,
+        "favorited": false,
+        "geo": null,
+        "id": 673914074384769025,
+        "id_str": "673914074384769025",
+        "in_reply_to_screen_name": null,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "is_quote_status": false,
+        "lang": "en",
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "place": null,
+        "possibly_sensitive": false,
+        "retweet_count": 540,
+        "retweeted": false,
+        "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+        "text": "Is Evolution True?\nType that question into Google, and what are the first two items that come up? Truly amazing! https://t.co/AERwtWwztz",
+        "truncated": false,
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Tue Jun 17 08:15:17 +0000 2008",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "English biologist & writer. Likes science, the poetry of reality. Dislikes pretentious obscurantism. Treats all religions with good-humoured ridicule.",
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "richarddawkins.net",
+                            "expanded_url": "http://richarddawkins.net",
+                            "indices": [
+                                0,
+                                22
+                            ],
+                            "url": "http://t.co/HGuuVn25X5"
+                        }
+                    ]
+                }
+            },
+            "favourites_count": 36,
+            "follow_request_sent": false,
+            "followers_count": 1309348,
+            "following": false,
+            "friends_count": 349,
+            "geo_enabled": false,
+            "has_extended_profile": false,
+            "id": 15143478,
+            "id_str": "15143478",
+            "is_translation_enabled": true,
+            "is_translator": false,
+            "lang": "en",
+            "listed_count": 18124,
+            "location": "",
+            "name": "Richard Dawkins",
+            "notifications": false,
+            "profile_background_color": "9AE4E8",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000065634610/c8b58f876986dbce3b6f0cb9df328ede.jpeg",
+            "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000065634610/c8b58f876986dbce3b6f0cb9df328ede.jpeg",
+            "profile_background_tile": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/486455188073349121/OzzZhX-__normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/486455188073349121/OzzZhX-__normal.png",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "DDFFCC",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "RichardDawkins",
+            "statuses_count": 28699,
+            "time_zone": "London",
+            "url": "http://t.co/HGuuVn25X5",
+            "utc_offset": 0,
+            "verified": true
+        }
+    },
+    "quoted_status_id": 673914074384769025,
+    "quoted_status_id_str": "673914074384769025",
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@google this needs fixed don't you think. This is BAD SEO if ever I saw it. https://t.co/1A9uzvkBCP",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Oct 06 09:12:16 +0000 2007",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Aberdeen's code monkey. A lot online has bothered me today, I've managed not to tweet about most of it. I'll make y'famous. #tickTock",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "the-kid.org",
+                        "expanded_url": "http://the-kid.org",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/56FKezkRNr"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 4421,
+        "follow_request_sent": false,
+        "followers_count": 4065,
+        "following": false,
+        "friends_count": 1589,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 9277152,
+        "id_str": "9277152",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en-gb",
+        "listed_count": 106,
+        "location": "Aberdeen, Scotland ",
+        "name": "billythekid",
+        "notifications": false,
+        "profile_background_color": "BADA55",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/479344134/OTHER-Tuxsta_1600x1200.png",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/479344134/OTHER-Tuxsta_1600x1200.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/9277152/1447624777",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/629099594257956865/husM5DTf_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/629099594257956865/husM5DTf_normal.jpg",
+        "profile_link_color": "BADA55",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "F7DAB3",
+        "profile_text_color": "332314",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "billythekid",
+        "statuses_count": 6509,
+        "time_zone": "London",
+        "url": "https://t.co/56FKezkRNr",
+        "utc_offset": 0,
+        "verified": false
+    }
+}

@@ -1,0 +1,316 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 07 20:01:16 +0000 2015",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    12,
+                    17
+                ],
+                "text": "dead"
+            },
+            {
+                "indices": [
+                    18,
+                    26
+                ],
+                "text": "Company"
+            },
+            {
+                "indices": [
+                    36,
+                    44
+                ],
+                "text": "Miracle"
+            },
+            {
+                "indices": [
+                    51,
+                    59
+                ],
+                "text": "amazing"
+            },
+            {
+                "indices": [
+                    60,
+                    68
+                ],
+                "text": "product"
+            },
+            {
+                "indices": [
+                    73,
+                    83
+                ],
+                "text": "BringItOn"
+            },
+            {
+                "indices": [
+                    88,
+                    93
+                ],
+                "text": "Path"
+            },
+            {
+                "indices": [
+                    110,
+                    115
+                ],
+                "text": "fame"
+            }
+        ],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/ForbesTech/sta\u2026",
+                "expanded_url": "https://twitter.com/ForbesTech/status/673929970448736257",
+                "indices": [
+                    117,
+                    140
+                ],
+                "url": "https://t.co/XiMfXNF3L9"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 19380829,
+                "id_str": "19380829",
+                "indices": [
+                    0,
+                    6
+                ],
+                "name": "Yahoo",
+                "screen_name": "Yahoo"
+            }
+        ]
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": null,
+    "id": 673955452556734464,
+    "id_str": "673955452556734464",
+    "in_reply_to_screen_name": "Yahoo",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 19380829,
+    "in_reply_to_user_id_str": "19380829",
+    "is_quote_status": true,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": null,
+    "possibly_sensitive": false,
+    "quoted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Mon Dec 07 18:20:00 +0000 2015",
+        "entities": {
+            "hashtags": [],
+            "media": [
+                {
+                    "display_url": "pic.twitter.com/oVJRIYMQU0",
+                    "expanded_url": "http://twitter.com/ForbesTech/status/673929970448736257/photo/1",
+                    "id": 673929970314555394,
+                    "id_str": "673929970314555394",
+                    "indices": [
+                        117,
+                        140
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/CVpHvMQWsAI_eJ-.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/CVpHvMQWsAI_eJ-.jpg",
+                    "sizes": {
+                        "large": {
+                            "h": 576,
+                            "resize": "fit",
+                            "w": 1024
+                        },
+                        "medium": {
+                            "h": 337,
+                            "resize": "fit",
+                            "w": 600
+                        },
+                        "small": {
+                            "h": 191,
+                            "resize": "fit",
+                            "w": 340
+                        },
+                        "thumb": {
+                            "h": 150,
+                            "resize": "crop",
+                            "w": 150
+                        }
+                    },
+                    "type": "photo",
+                    "url": "https://t.co/oVJRIYMQU0"
+                }
+            ],
+            "symbols": [],
+            "urls": [
+                {
+                    "display_url": "onforb.es/1XWqGNn",
+                    "expanded_url": "http://onforb.es/1XWqGNn",
+                    "indices": [
+                        93,
+                        116
+                    ],
+                    "url": "https://t.co/e6spddzsI5"
+                }
+            ],
+            "user_mentions": []
+        },
+        "favorite_count": 72,
+        "favorited": false,
+        "geo": null,
+        "id": 673929970448736257,
+        "id_str": "673929970448736257",
+        "in_reply_to_screen_name": null,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "is_quote_status": false,
+        "lang": "en",
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "place": null,
+        "possibly_sensitive": false,
+        "retweet_count": 152,
+        "retweeted": false,
+        "source": "<a href=\"http://www.sprinklr.com\" rel=\"nofollow\">Sprinklr</a>",
+        "text": "Verizon bought AOL this past summer for $4.4 billion and now it 'will look at' buying Yahoo: https://t.co/e6spddzsI5 https://t.co/oVJRIYMQU0",
+        "truncated": false,
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Fri May 23 19:32:37 +0000 2008",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "Tech news and insights from Forbes.",
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "forbes.com/technology/",
+                            "expanded_url": "http://www.forbes.com/technology/",
+                            "indices": [
+                                0,
+                                22
+                            ],
+                            "url": "http://t.co/BtZjDpK3en"
+                        }
+                    ]
+                }
+            },
+            "favourites_count": 18,
+            "follow_request_sent": false,
+            "followers_count": 2283245,
+            "following": false,
+            "friends_count": 15825,
+            "geo_enabled": false,
+            "has_extended_profile": false,
+            "id": 14885549,
+            "id_str": "14885549",
+            "is_translation_enabled": false,
+            "is_translator": false,
+            "lang": "en",
+            "listed_count": 27966,
+            "location": "On and off the grid.",
+            "name": "Forbes Tech News",
+            "notifications": false,
+            "profile_background_color": "FFFFFF",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/92775085/twitter-background.jpg",
+            "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/92775085/twitter-background.jpg",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/14885549/1428350682",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/828527305/technology_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/828527305/technology_normal.jpg",
+            "profile_link_color": "336699",
+            "profile_sidebar_border_color": "CCCCCC",
+            "profile_sidebar_fill_color": "F7F7F7",
+            "profile_text_color": "000000",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "ForbesTech",
+            "statuses_count": 76598,
+            "time_zone": "Quito",
+            "url": "http://t.co/BtZjDpK3en",
+            "utc_offset": -18000,
+            "verified": true
+        }
+    },
+    "quoted_status_id": 673929970448736257,
+    "quoted_status_id_str": "673929970448736257",
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@Yahoo is a #dead #Company , only a #Miracle or an #amazing #product can #BringItOn the #Path of it's initial #fame  https://t.co/XiMfXNF3L9",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Nov 10 11:28:18 +0000 2015",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Founder at VoX Internet Group (@voxinternet) & Lead Developer at WikiVD (@wiki_vd) , Passionate about Sustainable Development & Educational technology !!",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "aashishloknathpanigrahi.weebly.com",
+                        "expanded_url": "http://aashishloknathpanigrahi.weebly.com",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/ugb3P1SOOW"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 800,
+        "follow_request_sent": false,
+        "followers_count": 46,
+        "following": false,
+        "friends_count": 55,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 4189809193,
+        "id_str": "4189809193",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 5,
+        "location": "Pune, Maharashtra",
+        "name": "Aashish L. Panigrahi",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/4189809193/1449256264",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/673936104823742464/kIRQQ_j6_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/673936104823742464/kIRQQ_j6_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "aalpanigrahi",
+        "statuses_count": 274,
+        "time_zone": null,
+        "url": "https://t.co/ugb3P1SOOW",
+        "utc_offset": null,
+        "verified": false
+    }
+}

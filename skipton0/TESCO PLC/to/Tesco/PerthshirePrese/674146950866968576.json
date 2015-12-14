@@ -1,0 +1,147 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 08 08:42:12 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 271986064,
+                "id_str": "271986064",
+                "indices": [
+                    0,
+                    6
+                ],
+                "name": "Tesco",
+                "screen_name": "Tesco"
+            },
+            {
+                "id": 34988300,
+                "id_str": "34988300",
+                "indices": [
+                    23,
+                    38
+                ],
+                "name": "St. Kitts Tourism",
+                "screen_name": "StKittsTourism"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 674146950866968576,
+    "id_str": "674146950866968576",
+    "in_reply_to_screen_name": "Tesco",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 271986064,
+    "in_reply_to_user_id_str": "271986064",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -7.66085699743185,
+                        54.6336309570711
+                    ],
+                    [
+                        -0.740025000483186,
+                        54.6336309570711
+                    ],
+                    [
+                        -0.740025000483186,
+                        60.8452769694519
+                    ],
+                    [
+                        -7.66085699743185,
+                        60.8452769694519
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United Kingdom",
+        "country_code": "GB",
+        "full_name": "Scotland, United Kingdom",
+        "id": "0af014accd6f6e99",
+        "name": "Scotland",
+        "place_type": "admin",
+        "url": "https://api.twitter.com/1.1/geo/id/0af014accd6f6e99.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@Tesco We are going to @StKittsTourism on vacation in March. Can you deliver there, might be a tad easier than Scotland.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Jun 21 15:10:38 +0000 2012",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Perthshire Preserves produce Award winning preserves without using artificial additives and are suitable for vegetarians and coeliacs. Check out our website",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "perthshirepreserves.co.uk",
+                        "expanded_url": "http://www.perthshirepreserves.co.uk",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/OFR6PgITk3"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 12425,
+        "follow_request_sent": false,
+        "followers_count": 3638,
+        "following": false,
+        "friends_count": 3404,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 614386310,
+        "id_str": "614386310",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 66,
+        "location": "Callander",
+        "name": "Perthshire Preserves",
+        "notifications": false,
+        "profile_background_color": "709397",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/629273977/x21f0a4f16aef1b47c1052c8cfce94b9.png",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/629273977/x21f0a4f16aef1b47c1052c8cfce94b9.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/614386310/1358767075",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/665787999708401664/bjNw6oIT_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/665787999708401664/bjNw6oIT_normal.jpg",
+        "profile_link_color": "FF3300",
+        "profile_sidebar_border_color": "F0A830",
+        "profile_sidebar_fill_color": "78C0A8",
+        "profile_text_color": "5E412F",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "PerthshirePrese",
+        "statuses_count": 21248,
+        "time_zone": "Edinburgh",
+        "url": "http://t.co/OFR6PgITk3",
+        "utc_offset": 0,
+        "verified": false
+    }
+}

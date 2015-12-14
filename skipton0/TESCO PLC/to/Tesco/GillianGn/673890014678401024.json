@@ -1,0 +1,123 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 07 15:41:14 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 271986064,
+                "id_str": "271986064",
+                "indices": [
+                    0,
+                    6
+                ],
+                "name": "Tesco",
+                "screen_name": "Tesco"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 673890014678401024,
+    "id_str": "673890014678401024",
+    "in_reply_to_screen_name": "Tesco",
+    "in_reply_to_status_id": 673888212180451328,
+    "in_reply_to_status_id_str": "673888212180451328",
+    "in_reply_to_user_id": 271986064,
+    "in_reply_to_user_id_str": "271986064",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -1.93759,
+                        50.7095004
+                    ],
+                    [
+                        -1.7676241,
+                        50.7095004
+                    ],
+                    [
+                        -1.7676241,
+                        50.775036
+                    ],
+                    [
+                        -1.93759,
+                        50.775036
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United Kingdom",
+        "country_code": "GB",
+        "full_name": "Bournemouth, England",
+        "id": "7de31e05e99a00f8",
+        "name": "Bournemouth",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/7de31e05e99a00f8.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@Tesco the Poole Tower Park store would be grateful if you could sort this also if you could get them to stock Genius original brown bread",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Jan 21 09:34:23 +0000 2013",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Fibromite, Gluten Free, Asthmatic, Socialist, Grumpy old woman into most forms of art and crafts",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 1268,
+        "follow_request_sent": false,
+        "followers_count": 907,
+        "following": false,
+        "friends_count": 1678,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 1108577893,
+        "id_str": "1108577893",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 38,
+        "location": "Bournemouth UK",
+        "name": "Gillian Nielsen",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/633577753132949504/MNTv9qRB_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/633577753132949504/MNTv9qRB_normal.png",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "GillianGn",
+        "statuses_count": 25203,
+        "time_zone": "London",
+        "url": null,
+        "utc_offset": 0,
+        "verified": false
+    }
+}

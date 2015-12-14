@@ -1,0 +1,388 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 08 06:37:07 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/DograNishant/s\u2026",
+                "expanded_url": "https://twitter.com/DograNishant/status/674114292791115777",
+                "indices": [
+                    109,
+                    132
+                ],
+                "url": "https://t.co/RG64Xla9Av"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 20536157,
+                "id_str": "20536157",
+                "indices": [
+                    0,
+                    7
+                ],
+                "name": "Google",
+                "screen_name": "google"
+            },
+            {
+                "id": 190934040,
+                "id_str": "190934040",
+                "indices": [
+                    8,
+                    12
+                ],
+                "name": "\u304a\u304a\u3048",
+                "screen_name": "goi"
+            },
+            {
+                "id": 2790990372,
+                "id_str": "2790990372",
+                "indices": [
+                    13,
+                    20
+                ],
+                "name": "Jai Mata Di",
+                "screen_name": "SMVDSB"
+            },
+            {
+                "id": 1864685238,
+                "id_str": "1864685238",
+                "indices": [
+                    21,
+                    28
+                ],
+                "name": "J&K BJP",
+                "screen_name": "JKBJP1"
+            },
+            {
+                "id": 1543482600,
+                "id_str": "1543482600",
+                "indices": [
+                    29,
+                    44
+                ],
+                "name": "Dr. Nirmal Singh",
+                "screen_name": "NirmalSinghBJP"
+            },
+            {
+                "id": 146360682,
+                "id_str": "146360682",
+                "indices": [
+                    45,
+                    61
+                ],
+                "name": "Dr Jitendra Singh",
+                "screen_name": "DrJitendraSingh"
+            },
+            {
+                "id": 63423375,
+                "id_str": "63423375",
+                "indices": [
+                    62,
+                    73
+                ],
+                "name": "Sandeep Kumar",
+                "screen_name": "SANDEEPCOL"
+            },
+            {
+                "id": 6509832,
+                "id_str": "6509832",
+                "indices": [
+                    74,
+                    82
+                ],
+                "name": "CNN-IBN News",
+                "screen_name": "ibnlive"
+            },
+            {
+                "id": 19897138,
+                "id_str": "19897138",
+                "indices": [
+                    83,
+                    94
+                ],
+                "name": "India Today",
+                "screen_name": "IndiaToday"
+            },
+            {
+                "id": 466484786,
+                "id_str": "466484786",
+                "indices": [
+                    96,
+                    108
+                ],
+                "name": "State Times",
+                "screen_name": "State_Times"
+            }
+        ]
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": null,
+    "id": 674115473353478148,
+    "id_str": "674115473353478148",
+    "in_reply_to_screen_name": "google",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 20536157,
+    "in_reply_to_user_id_str": "20536157",
+    "is_quote_status": true,
+    "lang": "und",
+    "metadata": {
+        "iso_language_code": "und",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        72.5294654,
+                        32.2755403
+                    ],
+                    [
+                        80.3286439,
+                        32.2755403
+                    ],
+                    [
+                        80.3286439,
+                        37.07827
+                    ],
+                    [
+                        72.5294654,
+                        37.07827
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "India",
+        "country_code": "IN",
+        "full_name": "Jammu And Kashmir, India",
+        "id": "7589e3f2b73287da",
+        "name": "Jammu And Kashmir",
+        "place_type": "admin",
+        "url": "https://api.twitter.com/1.1/geo/id/7589e3f2b73287da.json"
+    },
+    "possibly_sensitive": false,
+    "quoted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Tue Dec 08 06:32:26 +0000 2015",
+        "entities": {
+            "hashtags": [],
+            "media": [
+                {
+                    "display_url": "pic.twitter.com/FBdckCilGn",
+                    "expanded_url": "http://twitter.com/DograNishant/status/674114292791115777/photo/1",
+                    "id": 674114175170293760,
+                    "id_str": "674114175170293760",
+                    "indices": [
+                        120,
+                        143
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/CVrvRU0UsAAC9zV.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/CVrvRU0UsAAC9zV.jpg",
+                    "sizes": {
+                        "large": {
+                            "h": 1820,
+                            "resize": "fit",
+                            "w": 1024
+                        },
+                        "medium": {
+                            "h": 1066,
+                            "resize": "fit",
+                            "w": 600
+                        },
+                        "small": {
+                            "h": 604,
+                            "resize": "fit",
+                            "w": 340
+                        },
+                        "thumb": {
+                            "h": 150,
+                            "resize": "crop",
+                            "w": 150
+                        }
+                    },
+                    "type": "photo",
+                    "url": "https://t.co/FBdckCilGn"
+                }
+            ],
+            "symbols": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "id": 2790990372,
+                    "id_str": "2790990372",
+                    "indices": [
+                        0,
+                        7
+                    ],
+                    "name": "Jai Mata Di",
+                    "screen_name": "SMVDSB"
+                }
+            ]
+        },
+        "favorite_count": 0,
+        "favorited": false,
+        "geo": null,
+        "id": 674114292791115777,
+        "id_str": "674114292791115777",
+        "in_reply_to_screen_name": "SMVDSB",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": 2790990372,
+        "in_reply_to_user_id_str": "2790990372",
+        "is_quote_status": false,
+        "lang": "en",
+        "metadata": {
+            "iso_language_code": "und",
+            "result_type": "recent"
+        },
+        "place": {
+            "attributes": {},
+            "bounding_box": {
+                "coordinates": [
+                    [
+                        [
+                            72.5294654,
+                            32.2755403
+                        ],
+                        [
+                            80.3286439,
+                            32.2755403
+                        ],
+                        [
+                            80.3286439,
+                            37.07827
+                        ],
+                        [
+                            72.5294654,
+                            37.07827
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "contained_within": [],
+            "country": "India",
+            "country_code": "IN",
+            "full_name": "Jammu And Kashmir, India",
+            "id": "7589e3f2b73287da",
+            "name": "Jammu And Kashmir",
+            "place_type": "admin",
+            "url": "https://api.twitter.com/1.1/geo/id/7589e3f2b73287da.json"
+        },
+        "possibly_sensitive": false,
+        "retweet_count": 1,
+        "retweeted": false,
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "text": "@smvdsb JAI MATA DI.\nAsk staff at Darshani Gt. to attend Yatris 1st &amp; not phone. Uncalled behaviour.Need follow up. https://t.co/FBdckCilGn",
+        "truncated": false,
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Mon Jul 04 10:51:00 +0000 2011",
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "",
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "favourites_count": 21,
+            "follow_request_sent": false,
+            "followers_count": 27,
+            "following": false,
+            "friends_count": 109,
+            "geo_enabled": true,
+            "has_extended_profile": false,
+            "id": 328978942,
+            "id_str": "328978942",
+            "is_translation_enabled": false,
+            "is_translator": false,
+            "lang": "en",
+            "listed_count": 3,
+            "location": "Katra, Jammu And Kashmir",
+            "name": "Nishant Dogra",
+            "notifications": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/626706732903829504/ZYaWica6_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/626706732903829504/ZYaWica6_normal.jpg",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "DograNishant",
+            "statuses_count": 200,
+            "time_zone": null,
+            "url": null,
+            "utc_offset": null,
+            "verified": false
+        }
+    },
+    "quoted_status_id": 674114292791115777,
+    "quoted_status_id_str": "674114292791115777",
+    "retweet_count": 1,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@google @goi @smvdsb @JKBJP1 @NirmalSinghBJP @DrJitendraSingh @SANDEEPCOL @ibnlive @IndiaToday  @State_Times https://t.co/RG64Xla9Av",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Jul 04 10:51:00 +0000 2011",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 21,
+        "follow_request_sent": false,
+        "followers_count": 27,
+        "following": false,
+        "friends_count": 109,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 328978942,
+        "id_str": "328978942",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 3,
+        "location": "Katra, Jammu And Kashmir",
+        "name": "Nishant Dogra",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/626706732903829504/ZYaWica6_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/626706732903829504/ZYaWica6_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "DograNishant",
+        "statuses_count": 200,
+        "time_zone": null,
+        "url": null,
+        "utc_offset": null,
+        "verified": false
+    }
+}

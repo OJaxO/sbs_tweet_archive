@@ -1,0 +1,124 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 07 16:45:11 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 271986064,
+                "id_str": "271986064",
+                "indices": [
+                    0,
+                    6
+                ],
+                "name": "Tesco",
+                "screen_name": "Tesco"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 673906107212017664,
+    "id_str": "673906107212017664",
+    "in_reply_to_screen_name": "Tesco",
+    "in_reply_to_status_id": 673886375951925248,
+    "in_reply_to_status_id_str": "673886375951925248",
+    "in_reply_to_user_id": 271986064,
+    "in_reply_to_user_id_str": "271986064",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -0.187894,
+                        51.483718
+                    ],
+                    [
+                        -0.109978,
+                        51.483718
+                    ],
+                    [
+                        -0.109978,
+                        51.5164655
+                    ],
+                    [
+                        -0.187894,
+                        51.5164655
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United Kingdom",
+        "country_code": "GB",
+        "full_name": "London, England",
+        "id": "457b4814b4240d87",
+        "name": "London",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/457b4814b4240d87.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@Tesco Streatham Tesco Extra",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Aug 30 23:33:23 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Personal Assistant  \nPart-time student",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 173,
+        "follow_request_sent": false,
+        "followers_count": 397,
+        "following": false,
+        "friends_count": 297,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 70245721,
+        "id_str": "70245721",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 5,
+        "location": "London, England",
+        "name": "Miss Johnson",
+        "notifications": false,
+        "profile_background_color": "DBE9ED",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/684796186/cc358652c8009cfe331d020967ad7821.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/684796186/cc358652c8009cfe331d020967ad7821.jpeg",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/70245721/1436091604",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/673599097031565312/Qgmf5cQL_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/673599097031565312/Qgmf5cQL_normal.jpg",
+        "profile_link_color": "CC3366",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "E6F6F9",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "lissyisthebest",
+        "statuses_count": 15655,
+        "time_zone": "London",
+        "url": null,
+        "utc_offset": 0,
+        "verified": false
+    }
+}

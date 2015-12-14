@@ -1,0 +1,124 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 07 18:52:35 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 783214,
+                "id_str": "783214",
+                "indices": [
+                    0,
+                    8
+                ],
+                "name": "Twitter",
+                "screen_name": "twitter"
+            }
+        ]
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": null,
+    "id": 673938169826414592,
+    "id_str": "673938169826414592",
+    "in_reply_to_screen_name": "twitter",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 783214,
+    "in_reply_to_user_id_str": "783214",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -123.208615,
+                        43.988281
+                    ],
+                    [
+                        -123.0361879,
+                        43.988281
+                    ],
+                    [
+                        -123.0361879,
+                        44.142961
+                    ],
+                    [
+                        -123.208615,
+                        44.142961
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Eugene, OR",
+        "id": "01241e9666cacdd2",
+        "name": "Eugene",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/01241e9666cacdd2.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@twitter when can I start retweeting myself?",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Apr 14 02:46:00 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Catch me as champagne_babi on the Instagram.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 63011,
+        "follow_request_sent": false,
+        "followers_count": 346,
+        "following": false,
+        "friends_count": 812,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 281846990,
+        "id_str": "281846990",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 0,
+        "location": "Eugene, OR",
+        "name": "Blondre 3000",
+        "notifications": false,
+        "profile_background_color": "ACDED6",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/281846990/1409810812",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/660542933045612544/ux4TnzrR_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/660542933045612544/ux4TnzrR_normal.jpg",
+        "profile_link_color": "038543",
+        "profile_sidebar_border_color": "EEEEEE",
+        "profile_sidebar_fill_color": "F6F6F6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "AvaCrum",
+        "statuses_count": 12113,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": null,
+        "utc_offset": -28800,
+        "verified": false
+    }
+}

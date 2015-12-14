@@ -1,0 +1,145 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Dec 09 04:59:01 +0000 2015",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    122,
+                    144
+                ],
+                "text": "keepingchristmasmerry"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 20793816,
+                "id_str": "20793816",
+                "indices": [
+                    0,
+                    7
+                ],
+                "name": "Amazon",
+                "screen_name": "amazon"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 674453171347939329,
+    "id_str": "674453171347939329",
+    "in_reply_to_screen_name": "amazon",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 20793816,
+    "in_reply_to_user_id_str": "20793816",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -97.848463,
+                        31.014356
+                    ],
+                    [
+                        -97.659217,
+                        31.014356
+                    ],
+                    [
+                        -97.659217,
+                        31.144257
+                    ],
+                    [
+                        -97.848463,
+                        31.144257
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Killeen, TX",
+        "id": "a27a0542e774e138",
+        "name": "Killeen",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/a27a0542e774e138.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@amazon's customer service continues to \"wow\" me. Package was lost in transit &amp; no questions asked, they refunded me. #keepingchristmasmerry",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Aug 17 20:54:48 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Social Media Client Services Supervisor with @ICUC. (910) to (254). I like sunshine, daisies, mermaids & my family! Tweets are my own.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "facebook.com/sarbethhh",
+                        "expanded_url": "http://facebook.com/sarbethhh",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/fLWs4NBK84"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 458,
+        "follow_request_sent": false,
+        "followers_count": 253,
+        "following": false,
+        "friends_count": 514,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 179660881,
+        "id_str": "179660881",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 6,
+        "location": "Fort Hood, Texas",
+        "name": "Sarah Benton",
+        "notifications": false,
+        "profile_background_color": "2A0A19",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000057235629/49e5f2b8aef9b84563836880d2b4e654.png",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000057235629/49e5f2b8aef9b84563836880d2b4e654.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/179660881/1443551827",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/596025588688662528/7cvXFr2l_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/596025588688662528/7cvXFr2l_normal.jpg",
+        "profile_link_color": "FFCC4D",
+        "profile_sidebar_border_color": "A3EADC",
+        "profile_sidebar_fill_color": "D9E6DC",
+        "profile_text_color": "ECABA5",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "sarahelizbenton",
+        "statuses_count": 2884,
+        "time_zone": "Central Time (US & Canada)",
+        "url": "https://t.co/fLWs4NBK84",
+        "utc_offset": -21600,
+        "verified": false
+    }
+}

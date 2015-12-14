@@ -1,0 +1,147 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 07 03:11:16 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 30973,
+                "id_str": "30973",
+                "indices": [
+                    0,
+                    10
+                ],
+                "name": "Starbucks Coffee",
+                "screen_name": "Starbucks"
+            },
+            {
+                "id": 30016344,
+                "id_str": "30016344",
+                "indices": [
+                    11,
+                    25
+                ],
+                "name": "Starbucks Rewards",
+                "screen_name": "starbucksgold"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 673701277994459136,
+    "id_str": "673701277994459136",
+    "in_reply_to_screen_name": "Starbucks",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 30973,
+    "in_reply_to_user_id_str": "30973",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -88.04052,
+                        43.192104
+                    ],
+                    [
+                        -87.89591,
+                        43.192104
+                    ],
+                    [
+                        -87.89591,
+                        43.280387
+                    ],
+                    [
+                        -88.04052,
+                        43.280387
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Mequon, WI",
+        "id": "7f88808f3d4e1c41",
+        "name": "Mequon",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/7f88808f3d4e1c41.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "text": "@Starbucks @starbucksgold Having website trouble now? It won\u2019t let me log into my account to re-load. Tried two different browsers too.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Mar 06 05:15:21 +0000 2008",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Young professional. @DrakeUniversity graduate. Mrktg / Communications enthusiast. 4sq SU2. Cyclist. @JDRF_Ride rider. Tweets are mine only.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "jasonsigal.com",
+                        "expanded_url": "http://www.jasonsigal.com",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/NjL3r2l0Il"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 1792,
+        "follow_request_sent": false,
+        "followers_count": 926,
+        "following": false,
+        "friends_count": 718,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 14087066,
+        "id_str": "14087066",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 43,
+        "location": "Milwaukee, WI",
+        "name": "Jason Sigal",
+        "notifications": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/14087066/1353452996",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1157186773/401c271e-7f44-4454-a3f6-7b426230cf75_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1157186773/401c271e-7f44-4454-a3f6-7b426230cf75_normal.png",
+        "profile_link_color": "009999",
+        "profile_sidebar_border_color": "EEEEEE",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "jasonsigal",
+        "statuses_count": 9074,
+        "time_zone": "Eastern Time (US & Canada)",
+        "url": "http://t.co/NjL3r2l0Il",
+        "utc_offset": -18000,
+        "verified": false
+    }
+}

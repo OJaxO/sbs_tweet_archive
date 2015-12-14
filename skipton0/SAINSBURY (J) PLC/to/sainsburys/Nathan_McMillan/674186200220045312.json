@@ -1,0 +1,124 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 08 11:18:10 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 80685646,
+                "id_str": "80685646",
+                "indices": [
+                    0,
+                    11
+                ],
+                "name": "Sainsbury's",
+                "screen_name": "sainsburys"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 674186200220045312,
+    "id_str": "674186200220045312",
+    "in_reply_to_screen_name": "sainsburys",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 80685646,
+    "in_reply_to_user_id_str": "80685646",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -3.185635,
+                        54.9812711
+                    ],
+                    [
+                        -3.169628,
+                        54.9812711
+                    ],
+                    [
+                        -3.169628,
+                        54.989728
+                    ],
+                    [
+                        -3.185635,
+                        54.989728
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United Kingdom",
+        "country_code": "GB",
+        "full_name": "Eastriggs, Scotland",
+        "id": "1715de25e453a2d5",
+        "name": "Eastriggs",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/1715de25e453a2d5.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@sainsburys we've got vouchers to be used in the next few weeks, however we can't use them as our local store (Carlisle) is flooded?",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Jan 02 00:51:44 +0000 2013",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "From scotland\u270c aged 1\ufe0f\u20e38\ufe0f\u20e3 \u2708\ufe0f\u2600\ufe0f",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 274,
+        "follow_request_sent": false,
+        "followers_count": 529,
+        "following": false,
+        "friends_count": 220,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 1053848142,
+        "id_str": "1053848142",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 3,
+        "location": "Eastriggs",
+        "name": "\u303d\ufe0fNath\u303d\ufe0f",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1053848142/1449434566",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/673603508243951617/vED__6R__normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/673603508243951617/vED__6R__normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Nathan_McMillan",
+        "statuses_count": 3073,
+        "time_zone": null,
+        "url": null,
+        "utc_offset": null,
+        "verified": false
+    }
+}

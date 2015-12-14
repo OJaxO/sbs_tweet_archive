@@ -1,0 +1,163 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 07 10:20:25 +0000 2015",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    48,
+                    57
+                ],
+                "text": "LukeCage"
+            }
+        ],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "therealstanlee.com/hero-for-hire",
+                "expanded_url": "http://therealstanlee.com/hero-for-hire",
+                "indices": [
+                    100,
+                    123
+                ],
+                "url": "https://t.co/qVn4mZFmQh"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 16573941,
+                "id_str": "16573941",
+                "indices": [
+                    0,
+                    8
+                ],
+                "name": "Netflix US",
+                "screen_name": "netflix"
+            },
+            {
+                "id": 15687962,
+                "id_str": "15687962",
+                "indices": [
+                    20,
+                    27
+                ],
+                "name": "Marvel Entertainment",
+                "screen_name": "Marvel"
+            },
+            {
+                "id": 65289126,
+                "id_str": "65289126",
+                "indices": [
+                    31,
+                    46
+                ],
+                "name": "stan lee",
+                "screen_name": "TheRealStanLee"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 673809278973669376,
+    "id_str": "673809278973669376",
+    "in_reply_to_screen_name": "netflix",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 16573941,
+    "in_reply_to_user_id_str": "16573941",
+    "is_quote_status": false,
+    "lang": "es",
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -63.39386,
+                        -41.035009
+                    ],
+                    [
+                        -56.665836,
+                        -41.035009
+                    ],
+                    [
+                        -56.665836,
+                        -33.260144
+                    ],
+                    [
+                        -63.39386,
+                        -33.260144
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "Argentina",
+        "country_code": "AR",
+        "full_name": "Buenos Aires, Argentina",
+        "id": "4afa2757051c5192",
+        "name": "Buenos Aires",
+        "place_type": "admin",
+        "url": "https://api.twitter.com/1.1/geo/id/4afa2757051c5192.json"
+    },
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@Netflix a full con @Marvel y  @TheRealStanLee: #LukeCage ampliar\u00e1 el mundo Hell's Kitchen en 2016! https://t.co/qVn4mZFmQh",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Sep 05 23:18:04 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Estudiante de Artes Audiovisuales. \u00bfCr\u00edtico? \u00bfDirector? de cine. F\u00f3rmula 1, mi pasi\u00f3n. Ah! Y ocasional spotter @ EZE!",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 2905,
+        "follow_request_sent": false,
+        "followers_count": 241,
+        "following": false,
+        "friends_count": 854,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 187334924,
+        "id_str": "187334924",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "es",
+        "listed_count": 9,
+        "location": "Buenos Aires, Argentina",
+        "name": "SebsSaez",
+        "notifications": false,
+        "profile_background_color": "0EEDD3",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/613124595638501376/LxHhwqvw.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/613124595638501376/LxHhwqvw.jpg",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/187334924/1444675048",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/609525493562507264/EAi7Udab_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/609525493562507264/EAi7Udab_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "C0DFEC",
+        "profile_text_color": "4F14E3",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "SebsSaez",
+        "statuses_count": 10253,
+        "time_zone": "Buenos Aires",
+        "url": null,
+        "utc_offset": -10800,
+        "verified": false
+    }
+}

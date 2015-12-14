@@ -1,0 +1,145 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 07 16:59:56 +0000 2015",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    108,
+                    120
+                ],
+                "text": "frustrating"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 3046525515,
+                "id_str": "3046525515",
+                "indices": [
+                    0,
+                    15
+                ],
+                "name": "Barclays UK Help",
+                "screen_name": "BarclaysUKHelp"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 673909818940366848,
+    "id_str": "673909818940366848",
+    "in_reply_to_screen_name": "BarclaysUKHelp",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 3046525515,
+    "in_reply_to_user_id_str": "3046525515",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -0.213503,
+                        51.512805
+                    ],
+                    [
+                        -0.105303,
+                        51.512805
+                    ],
+                    [
+                        -0.105303,
+                        51.572068
+                    ],
+                    [
+                        -0.213503,
+                        51.572068
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United Kingdom",
+        "country_code": "GB",
+        "full_name": "Camden Town, London",
+        "id": "5de8cffc145c486b",
+        "name": "Camden Town",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/5de8cffc145c486b.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@BarclaysUKHelp Can someone get in touch re my mortgage info. Impossible to get anyone to answer the phone! #frustrating",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Jun 12 18:59:56 +0000 2012",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Susannah Hall Tailors, mens and womens bespoke tailoring made in the UK by expert craftsmen. Suits, bespoke and stock shirts, ties and accessories.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "susannahhall.com",
+                        "expanded_url": "http://susannahhall.com",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/jvEinHtrGI"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 6941,
+        "follow_request_sent": false,
+        "followers_count": 1601,
+        "following": false,
+        "friends_count": 580,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 606633573,
+        "id_str": "606633573",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 24,
+        "location": "Clerkenwell London",
+        "name": "Susannah Hall",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/740831844/03e48075a9660bff203b8491dd848e40.png",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/740831844/03e48075a9660bff203b8491dd848e40.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/606633573/1399389476",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/3081629325/af0b4a027e1e45acf0722d4a10ecac6a_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/3081629325/af0b4a027e1e45acf0722d4a10ecac6a_normal.png",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Shalltailors",
+        "statuses_count": 6430,
+        "time_zone": "London",
+        "url": "http://t.co/jvEinHtrGI",
+        "utc_offset": 0,
+        "verified": false
+    }
+}

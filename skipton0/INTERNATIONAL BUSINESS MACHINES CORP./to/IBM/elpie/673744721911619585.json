@@ -1,0 +1,104 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 07 06:03:53 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/IBM/status/672\u2026",
+                "expanded_url": "https://twitter.com/IBM/status/672809095213113344",
+                "indices": [
+                    110,
+                    133
+                ],
+                "url": "https://t.co/2dATewBo6T"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 18994444,
+                "id_str": "18994444",
+                "indices": [
+                    8,
+                    12
+                ],
+                "name": "IBM",
+                "screen_name": "IBM"
+            }
+        ]
+    },
+    "favorite_count": 4,
+    "favorited": false,
+    "geo": null,
+    "id": 673744721911619585,
+    "id_str": "673744721911619585",
+    "in_reply_to_screen_name": "IBM",
+    "in_reply_to_status_id": 672809095213113344,
+    "in_reply_to_status_id_str": "672809095213113344",
+    "in_reply_to_user_id": 18994444,
+    "in_reply_to_user_id_str": "18994444",
+    "is_quote_status": true,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": null,
+    "possibly_sensitive": false,
+    "quoted_status_id": 672809095213113344,
+    "quoted_status_id_str": "672809095213113344",
+    "retweet_count": 7,
+    "retweeted": false,
+    "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for i\u039fS</a>",
+    "text": "Oh dear @IBM I think you need to engage brain before dreaming up campaigns. This is wrong on so many levels.  https://t.co/2dATewBo6T",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Nov 27 06:49:43 +0000 2007",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Open source geek, web developer, writer, blogger, site designer. Partial to fine single-malts, strong coffee, good food and good company.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 24,
+        "follow_request_sent": false,
+        "followers_count": 2650,
+        "following": false,
+        "friends_count": 1374,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 10649452,
+        "id_str": "10649452",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 245,
+        "location": "",
+        "name": "Elpie",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000115257683/df5d585d86799a04f5e2719a046a2630.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000115257683/df5d585d86799a04f5e2719a046a2630.jpeg",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/10649452/1384269163",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/2169335640/elpie-lp_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/2169335640/elpie-lp_normal.png",
+        "profile_link_color": "990000",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "96B2B6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "elpie",
+        "statuses_count": 1991,
+        "time_zone": "Eastern Time (US & Canada)",
+        "url": null,
+        "utc_offset": -18000,
+        "verified": false
+    }
+}

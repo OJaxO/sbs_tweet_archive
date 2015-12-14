@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 07 13:57:37 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 18735040,
+                "id_str": "18735040",
+                "indices": [
+                    0,
+                    10
+                ],
+                "name": "Bank of America Help",
+                "screen_name": "BofA_Help"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 673863939701268480,
+    "id_str": "673863939701268480",
+    "in_reply_to_screen_name": "BofA_Help",
+    "in_reply_to_status_id": 673859452618022912,
+    "in_reply_to_status_id_str": "673859452618022912",
+    "in_reply_to_user_id": 18735040,
+    "in_reply_to_user_id_str": "18735040",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -80.946496,
+                        35.445762
+                    ],
+                    [
+                        -80.842478,
+                        35.445762
+                    ],
+                    [
+                        -80.842478,
+                        35.507042
+                    ],
+                    [
+                        -80.946496,
+                        35.507042
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Cornelius, NC",
+        "id": "6ac2e48ec4892d20",
+        "name": "Cornelius",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/6ac2e48ec4892d20.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@BofA_Help just a football joke, guys",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Aug 12 18:12:38 +0000 2008",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "@theobserver sports producer/social media manager, Colombiano, a Tar Heel and @laurajtovar's husband. Opinions here are my own.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "charlotteobserver.com",
+                        "expanded_url": "http://www.charlotteobserver.com",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/EFV1CW2eyG"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 393,
+        "follow_request_sent": false,
+        "followers_count": 1046,
+        "following": false,
+        "friends_count": 954,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 15825766,
+        "id_str": "15825766",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 48,
+        "location": "Cornelius, N.C.",
+        "name": "Sergio Tovar",
+        "notifications": false,
+        "profile_background_color": "F8F8FF",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/15825766/1425759115",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/659043666812645376/TSiiEosb_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/659043666812645376/TSiiEosb_normal.jpg",
+        "profile_link_color": "56A0D3",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "sergiotovar",
+        "statuses_count": 19488,
+        "time_zone": "Eastern Time (US & Canada)",
+        "url": "http://t.co/EFV1CW2eyG",
+        "utc_offset": -18000,
+        "verified": true
+    }
+}

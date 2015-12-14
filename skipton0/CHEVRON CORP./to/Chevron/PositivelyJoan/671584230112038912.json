@@ -1,0 +1,136 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 01 06:58:52 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 21021891,
+                "id_str": "21021891",
+                "indices": [
+                    11,
+                    19
+                ],
+                "name": "Chevron",
+                "screen_name": "Chevron"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 671584230112038912,
+    "id_str": "671584230112038912",
+    "in_reply_to_screen_name": "Chevron",
+    "in_reply_to_status_id": 668934321072242688,
+    "in_reply_to_status_id_str": "668934321072242688",
+    "in_reply_to_user_id": 21021891,
+    "in_reply_to_user_id_str": "21021891",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -122.857378,
+                        45.527087
+                    ],
+                    [
+                        -122.824348,
+                        45.527087
+                    ],
+                    [
+                        -122.824348,
+                        45.555039
+                    ],
+                    [
+                        -122.857378,
+                        45.555039
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Oak Hills, OR",
+        "id": "7116080c8926fb6b",
+        "name": "Oak Hills",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/7116080c8926fb6b.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "Well hello @Chevron Thanx 4 promo ad Nice 2 know oil industry helps businesses, ppl by destroying our environment health climate w pollution",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Mar 20 23:55:26 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Natural & Holistic Lifestyles \u2022 Feng Shui \u2013 Environmental Harmonization \u2022 Real Estate \u2013Staging \u2022 Love music, ethnic cuisine, NY pizza, Mai Tai, adventure, life!",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "page.is/positively-joan",
+                        "expanded_url": "http://page.is/positively-joan",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/lN3QzVeFs9"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 28612,
+        "follow_request_sent": false,
+        "followers_count": 4089,
+        "following": false,
+        "friends_count": 4676,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 124896632,
+        "id_str": "124896632",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 444,
+        "location": "",
+        "name": "Positively Joan",
+        "notifications": false,
+        "profile_background_color": "106E73",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/84781713/dolphin.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/84781713/dolphin.jpg",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/502667691501432832/1hU6DK0S_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/502667691501432832/1hU6DK0S_normal.jpeg",
+        "profile_link_color": "94D487",
+        "profile_sidebar_border_color": "73E6C3",
+        "profile_sidebar_fill_color": "73E6C3",
+        "profile_text_color": "106E73",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "PositivelyJoan",
+        "statuses_count": 239864,
+        "time_zone": "Eastern Time (US & Canada)",
+        "url": "http://t.co/lN3QzVeFs9",
+        "utc_offset": -18000,
+        "verified": false
+    }
+}

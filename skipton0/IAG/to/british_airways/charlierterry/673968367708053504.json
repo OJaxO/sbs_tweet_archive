@@ -1,0 +1,156 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 07 20:52:35 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 18332190,
+                "id_str": "18332190",
+                "indices": [
+                    0,
+                    16
+                ],
+                "name": "British Airways",
+                "screen_name": "British_Airways"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 673968367708053504,
+    "id_str": "673968367708053504",
+    "in_reply_to_screen_name": "British_Airways",
+    "in_reply_to_status_id": 673959200880525312,
+    "in_reply_to_status_id_str": "673959200880525312",
+    "in_reply_to_user_id": 18332190,
+    "in_reply_to_user_id_str": "18332190",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        2.0574361,
+                        41.2765605
+                    ],
+                    [
+                        2.146839,
+                        41.2765605
+                    ],
+                    [
+                        2.146839,
+                        41.3484986
+                    ],
+                    [
+                        2.0574361,
+                        41.3484986
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "Espa\u00f1a",
+        "country_code": "ES",
+        "full_name": "el Prat de Llobregat, Catalunya",
+        "id": "37ded68f419372ee",
+        "name": "el Prat de Llobregat",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/37ded68f419372ee.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@British_Airways you aren't following.   ...",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Jan 12 02:14:50 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Leisure & Hospitality Entrepreneur https://t.co/mNahcMKp86 Director @GoldmillsGroup - https://t.co/UwI8gxQyDq",
+        "entities": {
+            "description": {
+                "urls": [
+                    {
+                        "display_url": "goldmills.co.uk",
+                        "expanded_url": "http://goldmills.co.uk",
+                        "indices": [
+                            35,
+                            58
+                        ],
+                        "url": "https://t.co/mNahcMKp86"
+                    },
+                    {
+                        "display_url": "uk.linkedin.com/in/charlieterr\u2026",
+                        "expanded_url": "http://uk.linkedin.com/in/charlieterry/",
+                        "indices": [
+                            86,
+                            109
+                        ],
+                        "url": "https://t.co/UwI8gxQyDq"
+                    }
+                ]
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "Instagram.com/charlierterry",
+                        "expanded_url": "http://Instagram.com/charlierterry",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/LJPZRg97yz"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 19613,
+        "follow_request_sent": false,
+        "followers_count": 37904,
+        "following": false,
+        "friends_count": 28949,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 237093734,
+        "id_str": "237093734",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 105,
+        "location": "London, England",
+        "name": "Charlie Terry",
+        "notifications": false,
+        "profile_background_color": "2B4E72",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/496814973/amazing-holiday-beach-1920x1200_cool_twitter_backgrounds.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/496814973/amazing-holiday-beach-1920x1200_cool_twitter_backgrounds.jpg",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/237093734/1437433477",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/619860072408158208/rflvseXI_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/619860072408158208/rflvseXI_normal.jpg",
+        "profile_link_color": "007AF7",
+        "profile_sidebar_border_color": "FAFAFA",
+        "profile_sidebar_fill_color": "E5EEF8",
+        "profile_text_color": "4383C4",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "charlierterry",
+        "statuses_count": 11655,
+        "time_zone": "London",
+        "url": "https://t.co/LJPZRg97yz",
+        "utc_offset": 0,
+        "verified": false
+    }
+}

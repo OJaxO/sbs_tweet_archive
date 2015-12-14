@@ -1,0 +1,157 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 07 19:46:31 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 783214,
+                "id_str": "783214",
+                "indices": [
+                    0,
+                    8
+                ],
+                "name": "Twitter",
+                "screen_name": "twitter"
+            },
+            {
+                "id": 2967538341,
+                "id_str": "2967538341",
+                "indices": [
+                    24,
+                    37
+                ],
+                "name": "Stay Strong",
+                "screen_name": "Nikolina_994"
+            }
+        ]
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": null,
+    "id": 673951743764381696,
+    "id_str": "673951743764381696",
+    "in_reply_to_screen_name": "twitter",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 783214,
+    "in_reply_to_user_id_str": "783214",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -46.826039,
+                        -24.008814
+                    ],
+                    [
+                        -46.365052,
+                        -24.008814
+                    ],
+                    [
+                        -46.365052,
+                        -23.356792
+                    ],
+                    [
+                        -46.826039,
+                        -23.356792
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "Brasil",
+        "country_code": "BR",
+        "full_name": "Sao Paulo, Brazil",
+        "id": "68e019afec7d0ba5",
+        "name": "Sao Paulo",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/68e019afec7d0ba5.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@twitter Can you unlock @Nikolina_994 account please?? She really needs it to WORK!!",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Dec 28 22:49:26 +0000 2014",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "New single #CoolForTheSummer out now!! https://t.co/RALevC8Zda \u2022 Buy NOW on iTunes or Google Play",
+        "entities": {
+            "description": {
+                "urls": [
+                    {
+                        "display_url": "smarturl.it/dls2",
+                        "expanded_url": "http://smarturl.it/dls2",
+                        "indices": [
+                            39,
+                            62
+                        ],
+                        "url": "https://t.co/RALevC8Zda"
+                    }
+                ]
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "instagram.com/ddl.brt",
+                        "expanded_url": "http://instagram.com/ddl.brt",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/OFY7w7Rv0l"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 11896,
+        "follow_request_sent": false,
+        "followers_count": 3625,
+        "following": false,
+        "friends_count": 146,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 2946667486,
+        "id_str": "2946667486",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "pt",
+        "listed_count": 10,
+        "location": "Brasil \u2022 Brazil ",
+        "name": "Demi Lovato Brasil",
+        "notifications": false,
+        "profile_background_color": "E4C916",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/664895083469230080/4FUpu-UX.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/664895083469230080/4FUpu-UX.jpg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2946667486/1448736713",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/670676519166058498/diwpYK16_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/670676519166058498/diwpYK16_normal.jpg",
+        "profile_link_color": "0C3372",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "DDLBRT",
+        "statuses_count": 21355,
+        "time_zone": "Atlantic Time (Canada)",
+        "url": "https://t.co/OFY7w7Rv0l",
+        "utc_offset": -14400,
+        "verified": false
+    }
+}

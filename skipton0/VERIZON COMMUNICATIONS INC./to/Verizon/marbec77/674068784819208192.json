@@ -1,0 +1,144 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 08 03:31:36 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 59889953,
+                "id_str": "59889953",
+                "indices": [
+                    0,
+                    8
+                ],
+                "name": "Verizon",
+                "screen_name": "verizon"
+            },
+            {
+                "id": 739895959,
+                "id_str": "739895959",
+                "indices": [
+                    9,
+                    21
+                ],
+                "name": "\u2620Adrian\u2620",
+                "screen_name": "Rock_n_Gunz"
+            },
+            {
+                "id": 22434818,
+                "id_str": "22434818",
+                "indices": [
+                    22,
+                    37
+                ],
+                "name": "gabriel arteaga",
+                "screen_name": "gabrielarteaga"
+            }
+        ]
+    },
+    "favorite_count": 2,
+    "favorited": false,
+    "geo": null,
+    "id": 674068784819208192,
+    "id_str": "674068784819208192",
+    "in_reply_to_screen_name": "verizon",
+    "in_reply_to_status_id": 673884107089121281,
+    "in_reply_to_status_id_str": "673884107089121281",
+    "in_reply_to_user_id": 59889953,
+    "in_reply_to_user_id_str": "59889953",
+    "is_quote_status": false,
+    "lang": "und",
+    "metadata": {
+        "iso_language_code": "und",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -116.9618908,
+                        32.7337262
+                    ],
+                    [
+                        -116.875,
+                        32.7337262
+                    ],
+                    [
+                        -116.875,
+                        32.787924
+                    ],
+                    [
+                        -116.9618908,
+                        32.787924
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Rancho San Diego, CA",
+        "id": "85ffb048a1b30f4f",
+        "name": "Rancho San Diego",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/85ffb048a1b30f4f.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@verizon @Rock_n_Gunz @gabrielarteaga",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Jan 24 21:04:08 +0000 2010",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 569,
+        "follow_request_sent": false,
+        "followers_count": 68,
+        "following": false,
+        "friends_count": 170,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 108097897,
+        "id_str": "108097897",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 0,
+        "location": "",
+        "name": "Martin",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/108097897/1430100460",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/581499629692293122/JDvuydZ3_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/581499629692293122/JDvuydZ3_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "marbec77",
+        "statuses_count": 785,
+        "time_zone": "Eastern Time (US & Canada)",
+        "url": null,
+        "utc_offset": -18000,
+        "verified": false
+    }
+}

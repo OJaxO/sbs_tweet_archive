@@ -1,0 +1,139 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 07 21:57:36 +0000 2015",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    15,
+                    20
+                ],
+                "text": "STEM"
+            },
+            {
+                "indices": [
+                    121,
+                    136
+                ],
+                "text": "HackAHairDryer"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 18994444,
+                "id_str": "18994444",
+                "indices": [
+                    0,
+                    4
+                ],
+                "name": "IBM",
+                "screen_name": "IBM"
+            }
+        ]
+    },
+    "favorite_count": 2,
+    "favorited": false,
+    "geo": null,
+    "id": 673984732485591040,
+    "id_str": "673984732485591040",
+    "in_reply_to_screen_name": "IBM",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 18994444,
+    "in_reply_to_user_id_str": "18994444",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -92.889433,
+                        42.491889
+                    ],
+                    [
+                        -86.24955,
+                        42.491889
+                    ],
+                    [
+                        -86.24955,
+                        47.309715
+                    ],
+                    [
+                        -92.889433,
+                        47.309715
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Wisconsin, USA",
+        "id": "7dc5c6d3bfb10ccc",
+        "name": "Wisconsin",
+        "place_type": "admin",
+        "url": "https://api.twitter.com/1.1/geo/id/7dc5c6d3bfb10ccc.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@IBM Promoting #STEM to more girls is great, but first ask STEM women why they love their work, and it's not their hair. #HackAHairDryer",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Jun 12 04:10:15 +0000 2013",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Sociologist, Futurist, Centrist\n\nGeneral wisdom and interesting news",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 259,
+        "follow_request_sent": false,
+        "followers_count": 39,
+        "following": false,
+        "friends_count": 182,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 1508665290,
+        "id_str": "1508665290",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 5,
+        "location": "Menomonee Falls, WI",
+        "name": "Tom Rabbitt",
+        "notifications": false,
+        "profile_background_color": "709397",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1508665290/1371158309",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/423190184373407746/P7ClJh7P_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/423190184373407746/P7ClJh7P_normal.jpeg",
+        "profile_link_color": "FF8400",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "The4thRabbitt",
+        "statuses_count": 1254,
+        "time_zone": "Eastern Time (US & Canada)",
+        "url": null,
+        "utc_offset": -18000,
+        "verified": false
+    }
+}

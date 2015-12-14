@@ -1,0 +1,230 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 07 06:03:49 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/jenninaandreu/\u2026",
+                "expanded_url": "https://twitter.com/jenninaandreu/status/673742974757376000",
+                "indices": [
+                    10,
+                    33
+                ],
+                "url": "https://t.co/ulOLWRkHFI"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 16573941,
+                "id_str": "16573941",
+                "indices": [
+                    0,
+                    8
+                ],
+                "name": "Netflix US",
+                "screen_name": "netflix"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 673744705188794369,
+    "id_str": "673744705188794369",
+    "in_reply_to_screen_name": "netflix",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 16573941,
+    "in_reply_to_user_id_str": "16573941",
+    "is_quote_status": true,
+    "lang": "und",
+    "metadata": {
+        "iso_language_code": "und",
+        "result_type": "recent"
+    },
+    "place": null,
+    "possibly_sensitive": false,
+    "quoted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Mon Dec 07 05:56:57 +0000 2015",
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "urls": [
+                {
+                    "display_url": "twitter.com/huntermooere/s\u2026",
+                    "expanded_url": "https://twitter.com/huntermooere/status/672670166476525568",
+                    "indices": [
+                        6,
+                        29
+                    ],
+                    "url": "https://t.co/QF78RDpBl2"
+                }
+            ],
+            "user_mentions": []
+        },
+        "favorite_count": 0,
+        "favorited": false,
+        "geo": null,
+        "id": 673742974757376000,
+        "id_str": "673742974757376000",
+        "in_reply_to_screen_name": null,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "is_quote_status": true,
+        "lang": "en",
+        "metadata": {
+            "iso_language_code": "und",
+            "result_type": "recent"
+        },
+        "place": {
+            "attributes": {},
+            "bounding_box": {
+                "coordinates": [
+                    [
+                        [
+                            -98.778559,
+                            29.141956
+                        ],
+                        [
+                            -98.302744,
+                            29.141956
+                        ],
+                        [
+                            -98.302744,
+                            29.693046
+                        ],
+                        [
+                            -98.778559,
+                            29.693046
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "contained_within": [],
+            "country": "United States",
+            "country_code": "US",
+            "full_name": "San Antonio, TX",
+            "id": "3df4f427b5a60fea",
+            "name": "San Antonio",
+            "place_type": "city",
+            "url": "https://api.twitter.com/1.1/geo/id/3df4f427b5a60fea.json"
+        },
+        "possibly_sensitive": false,
+        "quoted_status_id": 672670166476525568,
+        "quoted_status_id_str": "672670166476525568",
+        "retweet_count": 0,
+        "retweeted": false,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "True  https://t.co/QF78RDpBl2",
+        "truncated": false,
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Sat Jul 31 03:41:35 +0000 2010",
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "insta: ninaandreu \u2022 UIW \u2022 twentyone",
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "favourites_count": 5569,
+            "follow_request_sent": false,
+            "followers_count": 502,
+            "following": false,
+            "friends_count": 332,
+            "geo_enabled": true,
+            "has_extended_profile": true,
+            "id": 172989302,
+            "id_str": "172989302",
+            "is_translation_enabled": false,
+            "is_translator": false,
+            "lang": "en",
+            "listed_count": 2,
+            "location": "satx",
+            "name": "ridinroundwitdatNina",
+            "notifications": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/172989302/1447533342",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/673709789109600257/ejzk7tV0_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/673709789109600257/ejzk7tV0_normal.jpg",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "JenninaAndreu",
+            "statuses_count": 10298,
+            "time_zone": "Mountain Time (US & Canada)",
+            "url": null,
+            "utc_offset": -25200,
+            "verified": false
+        }
+    },
+    "quoted_status_id": 673742974757376000,
+    "quoted_status_id_str": "673742974757376000",
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@netflix  https://t.co/ulOLWRkHFI",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Mar 22 22:17:08 +0000 2012",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "blessed",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 2687,
+        "follow_request_sent": false,
+        "followers_count": 298,
+        "following": false,
+        "friends_count": 396,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 533571157,
+        "id_str": "533571157",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 3,
+        "location": "rosenberg, tx",
+        "name": "Ditmas",
+        "notifications": false,
+        "profile_background_color": "060606",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/453746134087766016/wA1uX2M7.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/453746134087766016/wA1uX2M7.jpeg",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/533571157/1421174773",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/610986836786200576/zhxe5wIU_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/610986836786200576/zhxe5wIU_normal.jpg",
+        "profile_link_color": "781304",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "372DB2",
+        "profile_text_color": "555657",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "supersantos22",
+        "statuses_count": 4812,
+        "time_zone": null,
+        "url": null,
+        "utc_offset": null,
+        "verified": false
+    }
+}

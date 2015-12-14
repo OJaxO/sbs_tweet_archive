@@ -1,0 +1,135 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 08 19:04:31 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "store.google.com/product/moto_3\u2026",
+                "expanded_url": "https://store.google.com/product/moto_360",
+                "indices": [
+                    84,
+                    107
+                ],
+                "url": "https://t.co/b2EyJESK6V"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 20536157,
+                "id_str": "20536157",
+                "indices": [
+                    0,
+                    7
+                ],
+                "name": "Google",
+                "screen_name": "google"
+            }
+        ]
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": null,
+    "id": 674303559693967360,
+    "id_str": "674303559693967360",
+    "in_reply_to_screen_name": "google",
+    "in_reply_to_status_id": 674302509385666560,
+    "in_reply_to_status_id_str": "674302509385666560",
+    "in_reply_to_user_id": 20536157,
+    "in_reply_to_user_id_str": "20536157",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -1.6128929,
+                        52.3653979
+                    ],
+                    [
+                        -1.4244104,
+                        52.3653979
+                    ],
+                    [
+                        -1.4244104,
+                        52.458428
+                    ],
+                    [
+                        -1.6128929,
+                        52.458428
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United Kingdom",
+        "country_code": "GB",
+        "full_name": "Coventry, England",
+        "id": "52bb236ce4bb9be1",
+        "name": "Coventry",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/52bb236ce4bb9be1.json"
+    },
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@google looks cool! when will the moto 360 first gen be back in stock on the store? https://t.co/b2EyJESK6V",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Aug 15 16:46:05 +0000 2012",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "I moan alot.... This is my moan place...",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 35,
+        "follow_request_sent": false,
+        "followers_count": 81,
+        "following": false,
+        "friends_count": 198,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 759722700,
+        "id_str": "759722700",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 1,
+        "location": "West brom",
+        "name": "#Paragon#",
+        "notifications": false,
+        "profile_background_color": "001329",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/506603160081670144/y7FmGgig.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/506603160081670144/y7FmGgig.jpeg",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/759722700/1440268241",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/635156921155211264/cLHzCPEz_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/635156921155211264/cLHzCPEz_normal.jpg",
+        "profile_link_color": "004358",
+        "profile_sidebar_border_color": "F7B565",
+        "profile_sidebar_fill_color": "000B17",
+        "profile_text_color": "448668",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "Toamastar",
+        "statuses_count": 3960,
+        "time_zone": "Amsterdam",
+        "url": null,
+        "utc_offset": 3600,
+        "verified": false
+    }
+}

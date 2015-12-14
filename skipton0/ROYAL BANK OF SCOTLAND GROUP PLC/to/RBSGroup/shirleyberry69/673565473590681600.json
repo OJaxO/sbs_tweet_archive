@@ -1,0 +1,355 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Dec 06 18:11:37 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/lynnemantle/st\u2026",
+                "expanded_url": "https://twitter.com/lynnemantle/status/671819991503736832",
+                "indices": [
+                    96,
+                    119
+                ],
+                "url": "https://t.co/A7aIAyulmR"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 429724798,
+                "id_str": "429724798",
+                "indices": [
+                    0,
+                    9
+                ],
+                "name": "RoyalBankofScotland",
+                "screen_name": "RBSGroup"
+            },
+            {
+                "id": 2765872446,
+                "id_str": "2765872446",
+                "indices": [
+                    10,
+                    26
+                ],
+                "name": "Chris Gordon",
+                "screen_name": "chrisgordon_BCT"
+            },
+            {
+                "id": 167396341,
+                "id_str": "167396341",
+                "indices": [
+                    27,
+                    38
+                ],
+                "name": "Bethany",
+                "screen_name": "_BethanyCT"
+            }
+        ]
+    },
+    "favorite_count": 2,
+    "favorited": false,
+    "geo": null,
+    "id": 673565473590681600,
+    "id_str": "673565473590681600",
+    "in_reply_to_screen_name": "RBSGroup",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 429724798,
+    "in_reply_to_user_id_str": "429724798",
+    "is_quote_status": true,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -4.3610022,
+                        55.9010777
+                    ],
+                    [
+                        -4.2971064,
+                        55.9010777
+                    ],
+                    [
+                        -4.2971064,
+                        55.9529553
+                    ],
+                    [
+                        -4.3610022,
+                        55.9529553
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United Kingdom",
+        "country_code": "GB",
+        "full_name": "Milngavie, Scotland",
+        "id": "0c58089507faec00",
+        "name": "Milngavie",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/0c58089507faec00.json"
+    },
+    "possibly_sensitive": false,
+    "quoted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Tue Dec 01 22:35:42 +0000 2015",
+        "entities": {
+            "hashtags": [
+                {
+                    "indices": [
+                        17,
+                        33
+                    ],
+                    "text": "allyourhardwork"
+                },
+                {
+                    "indices": [
+                        53,
+                        74
+                    ],
+                    "text": "caringchristmastrees"
+                }
+            ],
+            "media": [
+                {
+                    "display_url": "pic.twitter.com/XA6xBhmtVd",
+                    "expanded_url": "http://twitter.com/LynneMantle/status/671819991503736832/photo/1",
+                    "id": 671819979705212928,
+                    "id_str": "671819979705212928",
+                    "indices": [
+                        114,
+                        137
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/CVLItktW4AA-1Py.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/CVLItktW4AA-1Py.jpg",
+                    "sizes": {
+                        "large": {
+                            "h": 1024,
+                            "resize": "fit",
+                            "w": 768
+                        },
+                        "medium": {
+                            "h": 800,
+                            "resize": "fit",
+                            "w": 600
+                        },
+                        "small": {
+                            "h": 453,
+                            "resize": "fit",
+                            "w": 340
+                        },
+                        "thumb": {
+                            "h": 150,
+                            "resize": "crop",
+                            "w": 150
+                        }
+                    },
+                    "type": "photo",
+                    "url": "https://t.co/XA6xBhmtVd"
+                }
+            ],
+            "symbols": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "id": 2765872446,
+                    "id_str": "2765872446",
+                    "indices": [
+                        0,
+                        16
+                    ],
+                    "name": "Chris Gordon",
+                    "screen_name": "chrisgordon_BCT"
+                },
+                {
+                    "id": 429724798,
+                    "id_str": "429724798",
+                    "indices": [
+                        34,
+                        43
+                    ],
+                    "name": "RoyalBankofScotland",
+                    "screen_name": "RBSGroup"
+                },
+                {
+                    "id": 2715388293,
+                    "id_str": "2715388293",
+                    "indices": [
+                        75,
+                        91
+                    ],
+                    "name": "fiona",
+                    "screen_name": "fionaeaston3131"
+                },
+                {
+                    "id": 1868566104,
+                    "id_str": "1868566104",
+                    "indices": [
+                        92,
+                        105
+                    ],
+                    "name": "shaun",
+                    "screen_name": "ShaunGSmiith"
+                },
+                {
+                    "id": 1944774967,
+                    "id_str": "1944774967",
+                    "indices": [
+                        106,
+                        113
+                    ],
+                    "name": "jamie hogg",
+                    "screen_name": "hoggjc"
+                }
+            ]
+        },
+        "favorite_count": 4,
+        "favorited": false,
+        "geo": null,
+        "id": 671819991503736832,
+        "id_str": "671819991503736832",
+        "in_reply_to_screen_name": "chrisgordon_BCT",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": 2765872446,
+        "in_reply_to_user_id_str": "2765872446",
+        "is_quote_status": false,
+        "lang": "en",
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "place": null,
+        "possibly_sensitive": false,
+        "retweet_count": 3,
+        "retweeted": false,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "@chrisgordon_BCT #allyourhardwork @RBSGroup branches #caringchristmastrees @fionaeaston3131 @ShaunGSmiith @hoggjc https://t.co/XA6xBhmtVd",
+        "truncated": false,
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Sat Apr 13 19:27:08 +0000 2013",
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "All views are my own and not that of my employer.  tiktaks or polo mints",
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "favourites_count": 823,
+            "follow_request_sent": false,
+            "followers_count": 100,
+            "following": false,
+            "friends_count": 168,
+            "geo_enabled": false,
+            "has_extended_profile": false,
+            "id": 1350019884,
+            "id_str": "1350019884",
+            "is_translation_enabled": false,
+            "is_translator": false,
+            "lang": "en",
+            "listed_count": 11,
+            "location": "Edinburgh",
+            "name": "Lynne mantle",
+            "notifications": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1350019884/1446763491",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/662400205183172608/_voMtiWZ_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/662400205183172608/_voMtiWZ_normal.jpg",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "LynneMantle",
+            "statuses_count": 839,
+            "time_zone": null,
+            "url": null,
+            "utc_offset": null,
+            "verified": false
+        }
+    },
+    "quoted_status_id": 671819991503736832,
+    "quoted_status_id_str": "671819991503736832",
+    "retweet_count": 2,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@RBSGroup @chrisgordon_BCT @_BethanyCT thanks RBS for supporting our work - trees looking great https://t.co/A7aIAyulmR",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Sep 22 22:54:41 +0000 2015",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Love life. Follow Jesus. Love my family and my dog. collector of spoons and tea cosy's.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "bethanychristiantrust.co.uk",
+                        "expanded_url": "http://www.bethanychristiantrust.co.uk",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/LpelQ1pzit"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 79,
+        "follow_request_sent": false,
+        "followers_count": 86,
+        "following": false,
+        "friends_count": 309,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 3743346437,
+        "id_str": "3743346437",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en-GB",
+        "listed_count": 0,
+        "location": "Glasgow, Scotland",
+        "name": "Shirley Berry",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3743346437/1447107861",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/655850614228959232/NpwZQEPk_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/655850614228959232/NpwZQEPk_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "shirleyberry69",
+        "statuses_count": 168,
+        "time_zone": null,
+        "url": "https://t.co/LpelQ1pzit",
+        "utc_offset": null,
+        "verified": false
+    }
+}

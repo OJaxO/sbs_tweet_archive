@@ -1,0 +1,124 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Dec 09 00:40:11 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 20793816,
+                "id_str": "20793816",
+                "indices": [
+                    0,
+                    7
+                ],
+                "name": "Amazon",
+                "screen_name": "amazon"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 674388034297552897,
+    "id_str": "674388034297552897",
+    "in_reply_to_screen_name": "amazon",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 20793816,
+    "in_reply_to_user_id_str": "20793816",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -105.109815,
+                        39.614151
+                    ],
+                    [
+                        -104.734372,
+                        39.614151
+                    ],
+                    [
+                        -104.734372,
+                        39.812975
+                    ],
+                    [
+                        -105.109815,
+                        39.812975
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Denver, CO",
+        "id": "b49b3053b5c25bf5",
+        "name": "Denver",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/b49b3053b5c25bf5.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@amazon For god's sake, stop using USPS for shipping. They are ALWAYS late. Prime's supposed to guarantee 2-day shipping. You're failing.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Apr 15 20:08:49 +0000 2008",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Enough about me.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 0,
+        "follow_request_sent": false,
+        "followers_count": 67,
+        "following": false,
+        "friends_count": 34,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 14400520,
+        "id_str": "14400520",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 5,
+        "location": "Denver, CO",
+        "name": "Jason Stone",
+        "notifications": false,
+        "profile_background_color": "022330",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/14400520/1398276793",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/481503548/jason_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/481503548/jason_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "A8C7F7",
+        "profile_sidebar_fill_color": "C0DFEC",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "jasonmstone",
+        "statuses_count": 303,
+        "time_zone": "Mountain Time (US & Canada)",
+        "url": null,
+        "utc_offset": -25200,
+        "verified": false
+    }
+}

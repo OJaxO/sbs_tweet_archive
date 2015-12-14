@@ -1,0 +1,135 @@
+{
+    "contributors": null,
+    "coordinates": {
+        "coordinates": [
+            -122.02533689,
+            37.56777605
+        ],
+        "type": "Point"
+    },
+    "created_at": "Tue Dec 08 03:11:53 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 30973,
+                "id_str": "30973",
+                "indices": [
+                    0,
+                    10
+                ],
+                "name": "Starbucks Coffee",
+                "screen_name": "Starbucks"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": {
+        "coordinates": [
+            37.56777605,
+            -122.02533689
+        ],
+        "type": "Point"
+    },
+    "id": 674063822949244928,
+    "id_str": "674063822949244928",
+    "in_reply_to_screen_name": "Starbucks",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 30973,
+    "in_reply_to_user_id_str": "30973",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -122.069956,
+                        37.454962
+                    ],
+                    [
+                        -121.889098,
+                        37.454962
+                    ],
+                    [
+                        -121.889098,
+                        37.592327
+                    ],
+                    [
+                        -122.069956,
+                        37.592327
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Fremont, CA",
+        "id": "30344aecffe6a491",
+        "name": "Fremont",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/30344aecffe6a491.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for i\u039fS</a>",
+    "text": "@Starbucks I\u2019m no prude, but it certainly seems odd to hear an explicit track (Double Tap by Jordin Sparks, 2 Chainz) playing at this loc.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Nov 22 13:22:09 +0000 2010",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Drinking & eating, supporting folks @SlackHQ, and living an adventure with the wonderful @NikoleOkole.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 928,
+        "follow_request_sent": false,
+        "followers_count": 204,
+        "following": false,
+        "friends_count": 151,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 218480097,
+        "id_str": "218480097",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 3,
+        "location": "East Bay, CA",
+        "name": "James Neal",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/615268814519824384/Z7f8LKqt_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/615268814519824384/Z7f8LKqt_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "jamesnjr",
+        "statuses_count": 2600,
+        "time_zone": null,
+        "url": null,
+        "utc_offset": null,
+        "verified": false
+    }
+}

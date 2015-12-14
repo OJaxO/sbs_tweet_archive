@@ -1,0 +1,163 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 07 17:46:34 +0000 2015",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    24,
+                    34
+                ],
+                "text": "lightbulb"
+            },
+            {
+                "indices": [
+                    102,
+                    107
+                ],
+                "text": "vlog"
+            }
+        ],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "youtu.be/x9tnwgCdjyo?t=\u2026",
+                "expanded_url": "https://youtu.be/x9tnwgCdjyo?t=3m38s",
+                "indices": [
+                    109,
+                    132
+                ],
+                "url": "https://t.co/IcTINd8dpY"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 89084561,
+                "id_str": "89084561",
+                "indices": [
+                    0,
+                    7
+                ],
+                "name": "Target",
+                "screen_name": "Target"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 673921556276359168,
+    "id_str": "673921556276359168",
+    "in_reply_to_screen_name": "Target",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 89084561,
+    "in_reply_to_user_id_str": "89084561",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -122.514926,
+                        37.708075
+                    ],
+                    [
+                        -122.357031,
+                        37.708075
+                    ],
+                    [
+                        -122.357031,
+                        37.833238
+                    ],
+                    [
+                        -122.514926,
+                        37.833238
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "San Francisco, CA",
+        "id": "5a110d312052166f",
+        "name": "San Francisco",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/5a110d312052166f.json"
+    },
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@Target, thanks for the #lightbulb! See our shopping trip to SF Metreon and City Target in our latest #vlog: https://t.co/IcTINd8dpY",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Jul 23 02:11:42 +0000 2015",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "We make short films for people who shape the world, upgrade the status quo, and can't sleep at night unless their days are spent improving others' lives.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "goforwardfilms.com",
+                        "expanded_url": "http://goforwardfilms.com",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/iKZimygStk"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 112,
+        "follow_request_sent": false,
+        "followers_count": 83,
+        "following": false,
+        "friends_count": 65,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 3288055146,
+        "id_str": "3288055146",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 16,
+        "location": "San Francisco, CA",
+        "name": "Forward Films",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3288055146/1449015066",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/671879900739993600/F4Bw_IBm_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/671879900739993600/F4Bw_IBm_normal.png",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "goforwardfilms",
+        "statuses_count": 122,
+        "time_zone": null,
+        "url": "http://t.co/iKZimygStk",
+        "utc_offset": null,
+        "verified": false
+    }
+}

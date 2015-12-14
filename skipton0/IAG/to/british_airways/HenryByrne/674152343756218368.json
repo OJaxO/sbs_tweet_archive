@@ -1,0 +1,124 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 08 09:03:38 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 18332190,
+                "id_str": "18332190",
+                "indices": [
+                    0,
+                    16
+                ],
+                "name": "British Airways",
+                "screen_name": "British_Airways"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 674152343756218368,
+    "id_str": "674152343756218368",
+    "in_reply_to_screen_name": "British_Airways",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 18332190,
+    "in_reply_to_user_id_str": "18332190",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -0.457966,
+                        51.420633
+                    ],
+                    [
+                        -0.243419,
+                        51.420633
+                    ],
+                    [
+                        -0.243419,
+                        51.502851
+                    ],
+                    [
+                        -0.457966,
+                        51.502851
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United Kingdom",
+        "country_code": "GB",
+        "full_name": "Hounslow, London",
+        "id": "0b30aadf406d13cc",
+        "name": "Hounslow",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/0b30aadf406d13cc.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@British_Airways My hold luggage was damaged on last night's BA42 from CPT. How do I make a claim please?",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Jan 24 12:49:45 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "TV Researcher at the BBC. All views my own. tweet twoo",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 29,
+        "follow_request_sent": false,
+        "followers_count": 541,
+        "following": false,
+        "friends_count": 365,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 19444715,
+        "id_str": "19444715",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 1,
+        "location": "London",
+        "name": "Henry",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/19444715/1449573545",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/648619088256856064/wpXOOkof_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/648619088256856064/wpXOOkof_normal.jpg",
+        "profile_link_color": "3B94D9",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "HenryByrne",
+        "statuses_count": 1918,
+        "time_zone": "London",
+        "url": null,
+        "utc_offset": 0,
+        "verified": false
+    }
+}

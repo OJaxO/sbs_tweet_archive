@@ -1,0 +1,175 @@
+{
+    "contributors": null,
+    "coordinates": {
+        "coordinates": [
+            -90.48268825,
+            38.79220439
+        ],
+        "type": "Point"
+    },
+    "created_at": "Sun Dec 06 22:22:03 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "media": [
+            {
+                "display_url": "pic.twitter.com/cBYKxOBfg2",
+                "expanded_url": "http://twitter.com/SarFinnegan/status/673628497177214976/photo/1",
+                "id": 673628487786213377,
+                "id_str": "673628487786213377",
+                "indices": [
+                    111,
+                    134
+                ],
+                "media_url": "http://pbs.twimg.com/media/CVk1imUUsAERxcs.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/CVk1imUUsAERxcs.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 577,
+                        "resize": "fit",
+                        "w": 1024
+                    },
+                    "medium": {
+                        "h": 338,
+                        "resize": "fit",
+                        "w": 600
+                    },
+                    "small": {
+                        "h": 191,
+                        "resize": "fit",
+                        "w": 340
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/cBYKxOBfg2"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 17137891,
+                "id_str": "17137891",
+                "indices": [
+                    0,
+                    8
+                ],
+                "name": "Walmart",
+                "screen_name": "Walmart"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": {
+        "coordinates": [
+            38.79220439,
+            -90.48268825
+        ],
+        "type": "Point"
+    },
+    "id": 673628497177214976,
+    "id_str": "673628497177214976",
+    "in_reply_to_screen_name": "Walmart",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 17137891,
+    "in_reply_to_user_id_str": "17137891",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -90.5706573,
+                        38.737756
+                    ],
+                    [
+                        -88.2494761,
+                        38.737756
+                    ],
+                    [
+                        -88.2494761,
+                        41.9567958
+                    ],
+                    [
+                        -90.5706573,
+                        41.9567958
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "St Charles, IL",
+        "id": "13eb8d7f6e12a684",
+        "name": "St Charles",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/13eb8d7f6e12a684.json"
+    },
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@Walmart I'm trying to find the curtains pictured in your header on your website, but can't locate them, help? https://t.co/cBYKxOBfg2",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Mar 30 21:13:49 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "\u270c\u2764 LSGR",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 897,
+        "follow_request_sent": false,
+        "followers_count": 273,
+        "following": false,
+        "friends_count": 586,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 274687698,
+        "id_str": "274687698",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 1,
+        "location": "",
+        "name": "Sara",
+        "notifications": false,
+        "profile_background_color": "642D8B",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/397405166/northern_lights.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/397405166/northern_lights.jpg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/274687698/1399315125",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/463324741307084800/HRN5iCNC_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/463324741307084800/HRN5iCNC_normal.jpeg",
+        "profile_link_color": "FF0000",
+        "profile_sidebar_border_color": "65B0DA",
+        "profile_sidebar_fill_color": "7AC3EE",
+        "profile_text_color": "3D1957",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "SarFinnegan",
+        "statuses_count": 6657,
+        "time_zone": "Central Time (US & Canada)",
+        "url": null,
+        "utc_offset": -21600,
+        "verified": false
+    }
+}

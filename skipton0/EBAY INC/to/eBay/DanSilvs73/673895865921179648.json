@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 07 16:04:29 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 19709040,
+                "id_str": "19709040",
+                "indices": [
+                    0,
+                    5
+                ],
+                "name": "eBay",
+                "screen_name": "eBay"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 673895865921179648,
+    "id_str": "673895865921179648",
+    "in_reply_to_screen_name": "eBay",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 19709040,
+    "in_reply_to_user_id_str": "19709040",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -0.2925791,
+                        51.555179
+                    ],
+                    [
+                        -0.12921,
+                        51.555179
+                    ],
+                    [
+                        -0.12921,
+                        51.6685903
+                    ],
+                    [
+                        -0.2925791,
+                        51.6685903
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United Kingdom",
+        "country_code": "GB",
+        "full_name": "Barnet, London",
+        "id": "7ef79c5ab17d518c",
+        "name": "Barnet",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/7ef79c5ab17d518c.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@eBay can you tell me how to list football players that don't care or lack passion &amp; desire \nMany Thanks \nJose M\nFulham/Cobham area",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Mar 14 14:12:57 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Chelsea Fan. I was there when we were shit. London's first. London's Finest. Stockholm,Munich,Amsterdam I was there for them all.1\u20e39\u20e30\u20e35\u20e32\u20e30\u20e31\u20e32\u20e3",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "chelseafancast.com",
+                        "expanded_url": "http://chelseafancast.com/",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/TsDPPLXxkl"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 909,
+        "follow_request_sent": false,
+        "followers_count": 1592,
+        "following": false,
+        "friends_count": 1419,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 266016034,
+        "id_str": "266016034",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 27,
+        "location": "London",
+        "name": "Danny Boy Blue",
+        "notifications": false,
+        "profile_background_color": "022330",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/266016034/1448110754",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/668466637515964416/odl_K2yL_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/668466637515964416/odl_K2yL_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "A8C7F7",
+        "profile_sidebar_fill_color": "C0DFEC",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "DanSilvs73",
+        "statuses_count": 10019,
+        "time_zone": "London",
+        "url": "https://t.co/TsDPPLXxkl",
+        "utc_offset": 0,
+        "verified": false
+    }
+}

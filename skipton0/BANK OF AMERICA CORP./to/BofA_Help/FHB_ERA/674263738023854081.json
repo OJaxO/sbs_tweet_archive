@@ -1,0 +1,124 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 08 16:26:17 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 18735040,
+                "id_str": "18735040",
+                "indices": [
+                    0,
+                    10
+                ],
+                "name": "Bank of America Help",
+                "screen_name": "BofA_Help"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 674263738023854081,
+    "id_str": "674263738023854081",
+    "in_reply_to_screen_name": "BofA_Help",
+    "in_reply_to_status_id": 674260069123563520,
+    "in_reply_to_status_id_str": "674260069123563520",
+    "in_reply_to_user_id": 18735040,
+    "in_reply_to_user_id_str": "18735040",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -78.818343,
+                        35.7158045
+                    ],
+                    [
+                        -78.497331,
+                        35.7158045
+                    ],
+                    [
+                        -78.497331,
+                        35.9718611
+                    ],
+                    [
+                        -78.818343,
+                        35.9718611
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Raleigh, NC",
+        "id": "161d2f18e3a0445a",
+        "name": "Raleigh",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/161d2f18e3a0445a.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@BofA_Help Can I send an email?",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Jun 05 01:54:34 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "R.I.P Pops Georgia Tech Student Athlete just trying to graduate #58 F.w.S\u2122 IG: FHBERA",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 4502,
+        "follow_request_sent": false,
+        "followers_count": 2126,
+        "following": false,
+        "friends_count": 906,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 311194914,
+        "id_str": "311194914",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 25,
+        "location": "Statesboro / Atlanta ",
+        "name": "Freddie B",
+        "notifications": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/311194914/1447643599",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/667346314217308160/LtoC0A7e_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/667346314217308160/LtoC0A7e_normal.jpg",
+        "profile_link_color": "009999",
+        "profile_sidebar_border_color": "EEEEEE",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "FHB_ERA",
+        "statuses_count": 52769,
+        "time_zone": "Eastern Time (US & Canada)",
+        "url": null,
+        "utc_offset": -18000,
+        "verified": false
+    }
+}

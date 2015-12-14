@@ -1,0 +1,171 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 07 12:19:57 +0000 2015",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    31,
+                    53
+                ],
+                "text": "ChristmasIsForSharing"
+            }
+        ],
+        "media": [
+            {
+                "display_url": "pic.twitter.com/oGhIqucTO9",
+                "expanded_url": "http://twitter.com/tamalyn1/status/673839361260130304/photo/1",
+                "id": 673839360442142720,
+                "id_str": "673839360442142720",
+                "indices": [
+                    54,
+                    77
+                ],
+                "media_url": "http://pbs.twimg.com/media/CVn1VALUkAAicl4.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/CVn1VALUkAAicl4.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 540,
+                        "resize": "fit",
+                        "w": 959
+                    },
+                    "medium": {
+                        "h": 337,
+                        "resize": "fit",
+                        "w": 600
+                    },
+                    "small": {
+                        "h": 191,
+                        "resize": "fit",
+                        "w": 340
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/oGhIqucTO9"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 80685646,
+                "id_str": "80685646",
+                "indices": [
+                    0,
+                    11
+                ],
+                "name": "Sainsbury's",
+                "screen_name": "sainsburys"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 673839361260130304,
+    "id_str": "673839361260130304",
+    "in_reply_to_screen_name": "sainsburys",
+    "in_reply_to_status_id": 673773973948141568,
+    "in_reply_to_status_id_str": "673773973948141568",
+    "in_reply_to_user_id": 80685646,
+    "in_reply_to_user_id_str": "80685646",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -3.364431,
+                        51.557104
+                    ],
+                    [
+                        -3.260433,
+                        51.557104
+                    ],
+                    [
+                        -3.260433,
+                        51.6300116
+                    ],
+                    [
+                        -3.364431,
+                        51.6300116
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United Kingdom",
+        "country_code": "GB",
+        "full_name": "Pontypridd, Wales",
+        "id": "305d1c7ecdf99e37",
+        "name": "Pontypridd",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/305d1c7ecdf99e37.json"
+    },
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@sainsburys thinking of summer #ChristmasIsForSharing https://t.co/oGhIqucTO9",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Jul 08 11:30:06 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "3 teenagers, just hit 40. am impulsive, bold, up for a laugh, love reading, adventures, travelling & want to see the world! oh & i love zombie books!",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 882,
+        "follow_request_sent": false,
+        "followers_count": 9023,
+        "following": false,
+        "friends_count": 9928,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 54868761,
+        "id_str": "54868761",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 55,
+        "location": " N. Wales",
+        "name": "\u2022.\u272bTamalyn\u272b.\u2022",
+        "notifications": false,
+        "profile_background_color": "FFF04D",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme19/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme19/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/54868761/1426720527",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/664094951500701696/TqqPq5Gn_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/664094951500701696/TqqPq5Gn_normal.jpg",
+        "profile_link_color": "0099CC",
+        "profile_sidebar_border_color": "FFF8AD",
+        "profile_sidebar_fill_color": "F6FFD1",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "tamalyn1",
+        "statuses_count": 218255,
+        "time_zone": "Dublin",
+        "url": null,
+        "utc_offset": 0,
+        "verified": false
+    }
+}

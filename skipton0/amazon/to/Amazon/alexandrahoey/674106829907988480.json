@@ -1,0 +1,186 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 08 06:02:47 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "media": [
+            {
+                "display_url": "pic.twitter.com/qwqjtUqZDq",
+                "expanded_url": "http://twitter.com/alexandrahoey/status/674106829907988480/photo/1",
+                "id": 674106826988720128,
+                "id_str": "674106826988720128",
+                "indices": [
+                    100,
+                    123
+                ],
+                "media_url": "http://pbs.twimg.com/media/CVrolmtUEAA37zr.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/CVrolmtUEAA37zr.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 1024,
+                        "resize": "fit",
+                        "w": 768
+                    },
+                    "medium": {
+                        "h": 800,
+                        "resize": "fit",
+                        "w": 600
+                    },
+                    "small": {
+                        "h": 453,
+                        "resize": "fit",
+                        "w": 340
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/qwqjtUqZDq"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 20793816,
+                "id_str": "20793816",
+                "indices": [
+                    0,
+                    7
+                ],
+                "name": "Amazon",
+                "screen_name": "amazon"
+            },
+            {
+                "id": 2377837022,
+                "id_str": "2377837022",
+                "indices": [
+                    64,
+                    78
+                ],
+                "name": "Kermit the Frog",
+                "screen_name": "KermitTheFrog"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 674106829907988480,
+    "id_str": "674106829907988480",
+    "in_reply_to_screen_name": "amazon",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 20793816,
+    "in_reply_to_user_id_str": "20793816",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -118.668404,
+                        33.704538
+                    ],
+                    [
+                        -118.155409,
+                        33.704538
+                    ],
+                    [
+                        -118.155409,
+                        34.337041
+                    ],
+                    [
+                        -118.668404,
+                        34.337041
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Los Angeles, CA",
+        "id": "3b77caf94bfc81fe",
+        "name": "Los Angeles",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/3b77caf94bfc81fe.json"
+    },
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@amazon I know they say bigger is better but c'mon. Let's do as @KermitTheFrog says and be greener. https://t.co/qwqjtUqZDq",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Feb 10 01:30:03 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Curiouser and curiouser",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "alexandrahoey.com/about",
+                        "expanded_url": "http://www.alexandrahoey.com/about",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/5iMZeV3ksc"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 2358,
+        "follow_request_sent": false,
+        "followers_count": 129,
+        "following": false,
+        "friends_count": 389,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 20484057,
+        "id_str": "20484057",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 7,
+        "location": "Los Angeles, CA",
+        "name": "Alexandra Hoey",
+        "notifications": false,
+        "profile_background_color": "0F0F0F",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000175528405/jxGVeMqw.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000175528405/jxGVeMqw.jpeg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/20484057/1429774421",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/3367377527/36a82c9f050c990817acdbfc880d70e2_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/3367377527/36a82c9f050c990817acdbfc880d70e2_normal.jpeg",
+        "profile_link_color": "D8A7E1",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "1C1C1C",
+        "profile_text_color": "627E91",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "alexandrahoey",
+        "statuses_count": 1151,
+        "time_zone": "Eastern Time (US & Canada)",
+        "url": "http://t.co/5iMZeV3ksc",
+        "utc_offset": -18000,
+        "verified": false
+    }
+}

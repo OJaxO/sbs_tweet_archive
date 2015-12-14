@@ -1,0 +1,158 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Dec 06 16:13:39 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "wired.com/2015/12/micros\u2026",
+                "expanded_url": "http://www.wired.com/2015/12/microsoft-to-open-source-a-key-piece-of-its-web-browser/",
+                "indices": [
+                    100,
+                    123
+                ],
+                "url": "https://t.co/xslFcFcOwm"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 74286565,
+                "id_str": "74286565",
+                "indices": [
+                    0,
+                    10
+                ],
+                "name": "Microsoft",
+                "screen_name": "Microsoft"
+            },
+            {
+                "id": 19315174,
+                "id_str": "19315174",
+                "indices": [
+                    60,
+                    74
+                ],
+                "name": "Microsoft Edge",
+                "screen_name": "MicrosoftEdge"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 673535786965467137,
+    "id_str": "673535786965467137",
+    "in_reply_to_screen_name": "Microsoft",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 74286565,
+    "in_reply_to_user_id_str": "74286565",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -71.403412,
+                        42.24214
+                    ],
+                    [
+                        -71.305249,
+                        42.24214
+                    ],
+                    [
+                        -71.305249,
+                        42.329027
+                    ],
+                    [
+                        -71.403412,
+                        42.329027
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Natick, MA",
+        "id": "003a365b39428a40",
+        "name": "Natick",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/003a365b39428a40.json"
+    },
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@Microsoft doing special things with their awesome browser, @MicrosoftEdge; Making it open-source!\n\nhttps://t.co/xslFcFcOwm",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Feb 23 14:51:43 +0000 2012",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "The official Twitter of Albert Levin! #Windows #HourOfCode #PatriotsNation",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "twitter.com/AlbertLevin",
+                        "expanded_url": "https://twitter.com/AlbertLevin",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/iTbH5Sfvxp"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 13,
+        "follow_request_sent": false,
+        "followers_count": 19,
+        "following": false,
+        "friends_count": 40,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 500854590,
+        "id_str": "500854590",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 0,
+        "location": "Boston, MA",
+        "name": "Albert Levin",
+        "notifications": false,
+        "profile_background_color": "0099B9",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/458226743036215296/0q4ERLRm.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/458226743036215296/0q4ERLRm.jpeg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/500854590/1449352870",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/624310465707966466/6i3jr-jo_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/624310465707966466/6i3jr-jo_normal.jpg",
+        "profile_link_color": "3B94D9",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "95E8EC",
+        "profile_text_color": "3C3940",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "AlbertLevin",
+        "statuses_count": 336,
+        "time_zone": "Eastern Time (US & Canada)",
+        "url": "https://t.co/iTbH5Sfvxp",
+        "utc_offset": -18000,
+        "verified": false
+    }
+}

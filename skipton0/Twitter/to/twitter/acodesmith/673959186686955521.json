@@ -1,0 +1,145 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 07 20:16:06 +0000 2015",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    135,
+                    138
+                ],
+                "text": "UI"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 783214,
+                "id_str": "783214",
+                "indices": [
+                    0,
+                    8
+                ],
+                "name": "Twitter",
+                "screen_name": "twitter"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 673959186686955521,
+    "id_str": "673959186686955521",
+    "in_reply_to_screen_name": "twitter",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 783214,
+    "in_reply_to_user_id_str": "783214",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -82.681852,
+                        35.421216
+                    ],
+                    [
+                        -82.452163,
+                        35.421216
+                    ],
+                    [
+                        -82.452163,
+                        35.656929
+                    ],
+                    [
+                        -82.681852,
+                        35.656929
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Asheville, NC",
+        "id": "00836cb90515ddd1",
+        "name": "Asheville",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/00836cb90515ddd1.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@twitter moved the \"Moments\" link closer to home. Still not clicking on it. The content is a like a highschool friend facebook feed. \ud83d\ude27 #UI",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue May 10 20:23:57 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Software developer building eCommerce solutions, javascript heavy UI and mobile apps. #meteorjs #php #nodejs #ui #ux #webdev",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "acodesmith.com",
+                        "expanded_url": "http://acodesmith.com",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/Eyr3vOIx9E"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 527,
+        "follow_request_sent": false,
+        "followers_count": 266,
+        "following": false,
+        "friends_count": 247,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 296469528,
+        "id_str": "296469528",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 70,
+        "location": "Asheville, NC",
+        "name": "Adam Smith",
+        "notifications": false,
+        "profile_background_color": "1A1B1F",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/674055375180709889/xxmSQs-x.png",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/674055375180709889/xxmSQs-x.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/296469528/1433297661",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/638508100299948032/GaCn4Z5L_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/638508100299948032/GaCn4Z5L_normal.png",
+        "profile_link_color": "ABB8C2",
+        "profile_sidebar_border_color": "181A1E",
+        "profile_sidebar_fill_color": "252429",
+        "profile_text_color": "666666",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "acodesmith",
+        "statuses_count": 727,
+        "time_zone": "Quito",
+        "url": "http://t.co/Eyr3vOIx9E",
+        "utc_offset": -18000,
+        "verified": false
+    }
+}

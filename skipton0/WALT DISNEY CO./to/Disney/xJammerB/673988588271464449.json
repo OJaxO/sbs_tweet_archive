@@ -1,0 +1,173 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 07 22:12:56 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "media": [
+            {
+                "display_url": "pic.twitter.com/8z7py7rnNt",
+                "expanded_url": "http://twitter.com/xJammerB/status/673988588271464449/photo/1",
+                "id": 673988579865968640,
+                "id_str": "673988579865968640",
+                "indices": [
+                    115,
+                    138
+                ],
+                "media_url": "http://pbs.twimg.com/media/CVp9Ct2UwAAFTJu.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/CVp9Ct2UwAAFTJu.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 600,
+                        "resize": "fit",
+                        "w": 600
+                    },
+                    "medium": {
+                        "h": 600,
+                        "resize": "fit",
+                        "w": 600
+                    },
+                    "small": {
+                        "h": 340,
+                        "resize": "fit",
+                        "w": 340
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/8z7py7rnNt"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 67418441,
+                "id_str": "67418441",
+                "indices": [
+                    0,
+                    7
+                ],
+                "name": "Disney",
+                "screen_name": "Disney"
+            },
+            {
+                "id": 78411917,
+                "id_str": "78411917",
+                "indices": [
+                    8,
+                    20
+                ],
+                "name": "Disney Store",
+                "screen_name": "DisneyStore"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 673988588271464449,
+    "id_str": "673988588271464449",
+    "in_reply_to_screen_name": "Disney",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 67418441,
+    "in_reply_to_user_id_str": "67418441",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -75.280284,
+                        39.871811
+                    ],
+                    [
+                        -74.955712,
+                        39.871811
+                    ],
+                    [
+                        -74.955712,
+                        40.13792
+                    ],
+                    [
+                        -75.280284,
+                        40.13792
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Philadelphia, PA",
+        "id": "e4a0d228eb6be76b",
+        "name": "Philadelphia",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/e4a0d228eb6be76b.json"
+    },
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@Disney @DisneyStore Help, please! Got this ornament for my daughter's birthday, but was broken. Need replacement! https://t.co/8z7py7rnNt",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Sep 19 01:40:28 +0000 2012",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "100% Geek, 100% Gay, 100% American",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 525,
+        "follow_request_sent": false,
+        "followers_count": 130,
+        "following": false,
+        "friends_count": 726,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 832293620,
+        "id_str": "832293620",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 7,
+        "location": "Philadelphia, PA",
+        "name": "X Jammer",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/832293620/1430147818",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/592708798495731712/w8GWZNEt_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/592708798495731712/w8GWZNEt_normal.png",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "xJammerB",
+        "statuses_count": 4142,
+        "time_zone": null,
+        "url": null,
+        "utc_offset": null,
+        "verified": false
+    }
+}

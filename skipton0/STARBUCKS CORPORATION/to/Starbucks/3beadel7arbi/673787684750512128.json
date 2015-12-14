@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 07 08:54:37 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 30973,
+                "id_str": "30973",
+                "indices": [
+                    0,
+                    10
+                ],
+                "name": "Starbucks Coffee",
+                "screen_name": "Starbucks"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 673787684750512128,
+    "id_str": "673787684750512128",
+    "in_reply_to_screen_name": "Starbucks",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 30973,
+    "in_reply_to_user_id_str": "30973",
+    "is_quote_status": false,
+    "lang": "ar",
+    "metadata": {
+        "iso_language_code": "ar",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -85.601741,
+                        36.046986
+                    ],
+                    [
+                        -85.418673,
+                        36.046986
+                    ],
+                    [
+                        -85.418673,
+                        36.232069
+                    ],
+                    [
+                        -85.601741,
+                        36.232069
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Cookeville, TN",
+        "id": "3448f4f82d2187bc",
+        "name": "Cookeville",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/3448f4f82d2187bc.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@Starbucks \n\u064a\u0635\u064a\u0631 \u062a\u0641\u062a\u062d \u0662\u0664 \u0633\u0627\u0639\u0647 \u0628\u0633 \u0647\u0627\u0644\u0627\u0633\u0628\u0648\u0639 \u061f",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Jun 20 13:16:01 +0000 2011",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "\u063a\u0627\u0644\u0628\u0627\u064b ... \u0644\u0646 \u062a\u0633\u062a\u0637\u064a\u0639 \u0645\u0639\u064a \u0635\u0628\u0631\u0627 !",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "instagram.com/3baid_al7arbi",
+                        "expanded_url": "https://instagram.com/3baid_al7arbi",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/svY59Npog3"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 141,
+        "follow_request_sent": false,
+        "followers_count": 295,
+        "following": false,
+        "friends_count": 171,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 320746615,
+        "id_str": "320746615",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 1,
+        "location": "United States",
+        "name": "\u0646\u064e\u062d\u0646\u064f/\u0639\u0628\u064a\u0640\u062f \u0627\u0644\u062d\u0631\u0628\u0640\u064a",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/320746615/1446481764",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/671213329352810497/OdOoqSKP_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/671213329352810497/OdOoqSKP_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "3beadel7arbi",
+        "statuses_count": 3778,
+        "time_zone": "Minsk",
+        "url": "https://t.co/svY59Npog3",
+        "utc_offset": 10800,
+        "verified": false
+    }
+}

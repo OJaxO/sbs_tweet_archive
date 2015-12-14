@@ -1,0 +1,179 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 07 12:38:17 +0000 2015",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    22,
+                    29
+                ],
+                "text": "flight"
+            },
+            {
+                "indices": [
+                    33,
+                    43
+                ],
+                "text": "Bangalore"
+            },
+            {
+                "indices": [
+                    44,
+                    55
+                ],
+                "text": "overbooked"
+            },
+            {
+                "indices": [
+                    99,
+                    106
+                ],
+                "text": "inhale"
+            },
+            {
+                "indices": [
+                    107,
+                    114
+                ],
+                "text": "exhale"
+            },
+            {
+                "indices": [
+                    115,
+                    128
+                ],
+                "text": "pleasesayyes"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 18332190,
+                "id_str": "18332190",
+                "indices": [
+                    0,
+                    16
+                ],
+                "name": "British Airways",
+                "screen_name": "British_Airways"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 673843972851294208,
+    "id_str": "673843972851294208",
+    "in_reply_to_screen_name": "British_Airways",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 18332190,
+    "in_reply_to_user_id_str": "18332190",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -0.5093057,
+                        51.286606
+                    ],
+                    [
+                        0.334433,
+                        51.286606
+                    ],
+                    [
+                        0.334433,
+                        51.6916388
+                    ],
+                    [
+                        -0.5093057,
+                        51.6916388
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United Kingdom",
+        "country_code": "GB",
+        "full_name": "London, England",
+        "id": "5d838f7a011f4a2d",
+        "name": "London",
+        "place_type": "admin",
+        "url": "https://api.twitter.com/1.1/geo/id/5d838f7a011f4a2d.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@British_Airways 1400 #flight to #Bangalore #overbooked :( waiting to find out if I will board!!!! #inhale #exhale #pleasesayyes",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed May 05 22:18:41 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Wherever you go, there you are.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "uk.linkedin.com/in/filipehenri\u2026",
+                        "expanded_url": "https://uk.linkedin.com/in/filipehenriquesmartins",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/LLEC9Oeyco"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 47,
+        "follow_request_sent": false,
+        "followers_count": 221,
+        "following": false,
+        "friends_count": 159,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 140586933,
+        "id_str": "140586933",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 14,
+        "location": "London",
+        "name": "Filipe H Martins",
+        "notifications": false,
+        "profile_background_color": "022330",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/582960172991119360/Tl2wQQre_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/582960172991119360/Tl2wQQre_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "A8C7F7",
+        "profile_sidebar_fill_color": "C0DFEC",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "mynameisfilipe",
+        "statuses_count": 1394,
+        "time_zone": "London",
+        "url": "https://t.co/LLEC9Oeyco",
+        "utc_offset": 0,
+        "verified": false
+    }
+}

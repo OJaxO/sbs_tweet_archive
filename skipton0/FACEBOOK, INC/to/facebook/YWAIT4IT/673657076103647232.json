@@ -1,0 +1,145 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 07 00:15:37 +0000 2015",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    112,
+                    121
+                ],
+                "text": "Facebook"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 2425151,
+                "id_str": "2425151",
+                "indices": [
+                    0,
+                    9
+                ],
+                "name": "Facebook",
+                "screen_name": "facebook"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 673657076103647232,
+    "id_str": "673657076103647232",
+    "in_reply_to_screen_name": "facebook",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 2425151,
+    "in_reply_to_user_id_str": "2425151",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -76.711517,
+                        39.197211
+                    ],
+                    [
+                        -76.529388,
+                        39.197211
+                    ],
+                    [
+                        -76.529388,
+                        39.372215
+                    ],
+                    [
+                        -76.711517,
+                        39.372215
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Baltimore, MD",
+        "id": "c0b8e8dc81930292",
+        "name": "Baltimore",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/c0b8e8dc81930292.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@facebook  What's The Issue w/ Loading LINKS.\nI'd Like To See My LINK Posted To My Profile &amp; Pages In Full. #Facebook",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Mar 14 23:41:56 +0000 2014",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "COOKIE.. PT- 2  CREATIVE / SUPPORTIVE/ DAUGHTER /MOTHER / FRIEND / REALIST/ LOVER OF; Music / Art / Room`Decor / Photography / Fashion. NLIFE #MAKEITHAPPEN  ;)",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "facebook.com/pages/Remy-Sha\u2026",
+                        "expanded_url": "https://www.facebook.com/pages/Remy-Shand-Fanpage/407666539369739",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/jGKZJpYKJY"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 20024,
+        "follow_request_sent": false,
+        "followers_count": 898,
+        "following": false,
+        "friends_count": 2061,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 2390043048,
+        "id_str": "2390043048",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 39,
+        "location": "BALTIMORE, MD.",
+        "name": "COOKIE2*",
+        "notifications": false,
+        "profile_background_color": "120909",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/444705718369665024/3VMiXlZR.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/444705718369665024/3VMiXlZR.jpeg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2390043048/1394841408",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/528824884365758464/mx6IiSvU_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/528824884365758464/mx6IiSvU_normal.jpeg",
+        "profile_link_color": "A15C44",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "YWAIT4IT",
+        "statuses_count": 8096,
+        "time_zone": "Eastern Time (US & Canada)",
+        "url": "https://t.co/jGKZJpYKJY",
+        "utc_offset": -18000,
+        "verified": false
+    }
+}

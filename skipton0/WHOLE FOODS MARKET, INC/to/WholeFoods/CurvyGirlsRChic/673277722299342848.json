@@ -1,0 +1,136 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Dec 05 23:08:12 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 15131310,
+                "id_str": "15131310",
+                "indices": [
+                    0,
+                    11
+                ],
+                "name": "Whole Foods Market",
+                "screen_name": "WholeFoods"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 673277722299342848,
+    "id_str": "673277722299342848",
+    "in_reply_to_screen_name": "WholeFoods",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 15131310,
+    "in_reply_to_user_id_str": "15131310",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -79.487651,
+                        37.886607
+                    ],
+                    [
+                        -74.986286,
+                        37.886607
+                    ],
+                    [
+                        -74.986286,
+                        39.723622
+                    ],
+                    [
+                        -79.487651,
+                        39.723622
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Maryland, USA",
+        "id": "dea1eac2d7ef8878",
+        "name": "Maryland",
+        "place_type": "admin",
+        "url": "https://api.twitter.com/1.1/geo/id/dea1eac2d7ef8878.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@WholeFoods what happened to the mini biscotti w/pistachios you guys had last year \ud83d\ude29\ud83d\ude29\ud83d\ude29 it was your own brand.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Mar 24 15:07:01 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Chic Fashions for the Curvy Girl over 40",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "curvygirlsarechic.com",
+                        "expanded_url": "http://www.curvygirlsarechic.com",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/94AOB4SXDM"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 455,
+        "follow_request_sent": false,
+        "followers_count": 842,
+        "following": false,
+        "friends_count": 811,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 26253465,
+        "id_str": "26253465",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 12,
+        "location": "\u00dcT: 39.092421,-76.860191",
+        "name": "Curvy Girls are Chic",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/378800000771597999/baa12a73142564dda7ca6705a0c31e61_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000771597999/baa12a73142564dda7ca6705a0c31e61_normal.jpeg",
+        "profile_link_color": "DD2E44",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "CurvyGirlsRChic",
+        "statuses_count": 9948,
+        "time_zone": "Eastern Time (US & Canada)",
+        "url": "http://t.co/94AOB4SXDM",
+        "utc_offset": -18000,
+        "verified": false
+    }
+}

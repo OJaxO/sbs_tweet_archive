@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 07 17:01:14 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 35737385,
+                "id_str": "35737385",
+                "indices": [
+                    19,
+                    26
+                ],
+                "name": "BT",
+                "screen_name": "BTCare"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 673910148218376192,
+    "id_str": "673910148218376192",
+    "in_reply_to_screen_name": "BTCare",
+    "in_reply_to_status_id": 673905649990922240,
+    "in_reply_to_status_id_str": "673905649990922240",
+    "in_reply_to_user_id": 35737385,
+    "in_reply_to_user_id_str": "35737385",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -1.158894,
+                        52.904985
+                    ],
+                    [
+                        -1.098288,
+                        52.904985
+                    ],
+                    [
+                        -1.098288,
+                        52.942041
+                    ],
+                    [
+                        -1.158894,
+                        52.942041
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United Kingdom",
+        "country_code": "GB",
+        "full_name": "West Bridgford, England",
+        "id": "2cdd3c8e98aaa7ae",
+        "name": "West Bridgford",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/2cdd3c8e98aaa7ae.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "text": "Just warning other @BTCare that the onus is on them to ensure BT keep their word and do their job or they are liable for unfair charges",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Mar 23 11:52:17 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "40 something, ace goalkeeper, head of product design, ex BBC Computer Graphics Workshop. Into 3d, cycles, photography, kites, films and creative coding.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "netsmith.co.uk",
+                        "expanded_url": "http://www.netsmith.co.uk",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/hvVGnSr1bh"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 113,
+        "follow_request_sent": false,
+        "followers_count": 224,
+        "following": false,
+        "friends_count": 241,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 25987528,
+        "id_str": "25987528",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 24,
+        "location": "Nottingham, England",
+        "name": "chris aldridge",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/777022717/498f5053b968f00f2b1919224ccea4fc.png",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/777022717/498f5053b968f00f2b1919224ccea4fc.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/25987528/1398249023",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/3117076365/6d80fe5a163c24770d0358e95988a9bd_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/3117076365/6d80fe5a163c24770d0358e95988a9bd_normal.jpeg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "netsmith",
+        "statuses_count": 3854,
+        "time_zone": null,
+        "url": "http://t.co/hvVGnSr1bh",
+        "utc_offset": null,
+        "verified": false
+    }
+}

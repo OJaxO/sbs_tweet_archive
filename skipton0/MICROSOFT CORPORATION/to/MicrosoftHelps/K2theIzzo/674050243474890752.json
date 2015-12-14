@@ -1,0 +1,293 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 08 02:17:55 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/espnmondaynigh\u2026",
+                "expanded_url": "https://twitter.com/espnmondaynight/status/674049346917302272",
+                "indices": [
+                    17,
+                    40
+                ],
+                "url": "https://t.co/6zZ9Vpd2Fh"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 75691804,
+                "id_str": "75691804",
+                "indices": [
+                    0,
+                    15
+                ],
+                "name": "Microsoft Support",
+                "screen_name": "MicrosoftHelps"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 674050243474890752,
+    "id_str": "674050243474890752",
+    "in_reply_to_screen_name": "MicrosoftHelps",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 75691804,
+    "in_reply_to_user_id_str": "75691804",
+    "is_quote_status": true,
+    "lang": "und",
+    "metadata": {
+        "iso_language_code": "und",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -73.962582,
+                        40.541722
+                    ],
+                    [
+                        -73.699793,
+                        40.541722
+                    ],
+                    [
+                        -73.699793,
+                        40.8000371
+                    ],
+                    [
+                        -73.962582,
+                        40.8000371
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Queens, NY",
+        "id": "00c39537733fa112",
+        "name": "Queens",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/00c39537733fa112.json"
+    },
+    "possibly_sensitive": false,
+    "quoted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Tue Dec 08 02:14:22 +0000 2015",
+        "entities": {
+            "hashtags": [],
+            "media": [
+                {
+                    "display_url": "pic.twitter.com/BbWMUCLptL",
+                    "expanded_url": "http://twitter.com/ESPNMondayNight/status/674049346917302272/photo/1",
+                    "id": 674049346472685568,
+                    "id_str": "674049346472685568",
+                    "indices": [
+                        90,
+                        113
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/CVq0TzGWsAA4tQJ.png",
+                    "media_url_https": "https://pbs.twimg.com/media/CVq0TzGWsAA4tQJ.png",
+                    "sizes": {
+                        "large": {
+                            "h": 511,
+                            "resize": "fit",
+                            "w": 1024
+                        },
+                        "medium": {
+                            "h": 299,
+                            "resize": "fit",
+                            "w": 600
+                        },
+                        "small": {
+                            "h": 169,
+                            "resize": "fit",
+                            "w": 340
+                        },
+                        "thumb": {
+                            "h": 150,
+                            "resize": "crop",
+                            "w": 150
+                        }
+                    },
+                    "type": "photo",
+                    "url": "https://t.co/BbWMUCLptL"
+                }
+            ],
+            "symbols": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "id": 26515347,
+                    "id_str": "26515347",
+                    "indices": [
+                        13,
+                        22
+                    ],
+                    "name": "lisa salters",
+                    "screen_name": "saltersl"
+                }
+            ]
+        },
+        "favorite_count": 191,
+        "favorited": false,
+        "geo": null,
+        "id": 674049346917302272,
+        "id_str": "674049346917302272",
+        "in_reply_to_screen_name": null,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "is_quote_status": false,
+        "lang": "en",
+        "metadata": {
+            "iso_language_code": "und",
+            "result_type": "recent"
+        },
+        "place": null,
+        "possibly_sensitive": false,
+        "retweet_count": 147,
+        "retweeted": false,
+        "source": "<a href=\"http://www.spredfast.com\" rel=\"nofollow\">Spredfast app</a>",
+        "text": "According to @saltersl, the tablets and printers are not working on the Cowboys sideline. https://t.co/BbWMUCLptL",
+        "truncated": false,
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Sun Aug 30 20:11:38 +0000 2009",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "The official twitter page of ESPN's Monday Night Football. #Spider2YBanana fans",
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "instagram.com/espnmondaynigh\u2026",
+                            "expanded_url": "https://instagram.com/espnmondaynight/",
+                            "indices": [
+                                0,
+                                23
+                            ],
+                            "url": "https://t.co/i1SfsQhU3r"
+                        }
+                    ]
+                }
+            },
+            "favourites_count": 218,
+            "follow_request_sent": false,
+            "followers_count": 271931,
+            "following": false,
+            "friends_count": 1255,
+            "geo_enabled": true,
+            "has_extended_profile": true,
+            "id": 70202449,
+            "id_str": "70202449",
+            "is_translation_enabled": false,
+            "is_translator": false,
+            "lang": "en",
+            "listed_count": 2398,
+            "location": "",
+            "name": "ESPN Monday Night",
+            "notifications": false,
+            "profile_background_color": "131516",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/647822519400071168/IFB2SAsG.jpg",
+            "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/647822519400071168/IFB2SAsG.jpg",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/70202449/1448997964",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/640375355883196417/dh2YzZvg_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/640375355883196417/dh2YzZvg_normal.png",
+            "profile_link_color": "009999",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "EFEFEF",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "ESPNMondayNight",
+            "statuses_count": 8406,
+            "time_zone": "Eastern Time (US & Canada)",
+            "url": "https://t.co/i1SfsQhU3r",
+            "utc_offset": -18000,
+            "verified": true
+        }
+    },
+    "quoted_status_id": 674049346917302272,
+    "quoted_status_id_str": "674049346917302272",
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@MicrosoftHelps  https://t.co/6zZ9Vpd2Fh",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Mar 19 18:49:10 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Everything I've done since 2010 has been fantastic.  #SteelersNation",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "blackamericandad.tumblr.com",
+                        "expanded_url": "http://blackamericandad.tumblr.com/",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/obSz1GDiKN"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 170,
+        "follow_request_sent": false,
+        "followers_count": 447,
+        "following": false,
+        "friends_count": 451,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 25359292,
+        "id_str": "25359292",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 17,
+        "location": "Queens",
+        "name": "B.A.D.",
+        "notifications": false,
+        "profile_background_color": "A84830",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/588356999340949505/ezmpWc4A.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/588356999340949505/ezmpWc4A.jpg",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/25359292/1429886874",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/661582987256078337/V-zPha25_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/661582987256078337/V-zPha25_normal.jpg",
+        "profile_link_color": "000000",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "D8D8C0",
+        "profile_text_color": "F0F0D8",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "K2theIzzo",
+        "statuses_count": 30030,
+        "time_zone": "Eastern Time (US & Canada)",
+        "url": "https://t.co/obSz1GDiKN",
+        "utc_offset": -18000,
+        "verified": false
+    }
+}

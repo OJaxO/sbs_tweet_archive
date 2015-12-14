@@ -1,0 +1,163 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 07 19:33:29 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "media": [
+            {
+                "display_url": "pic.twitter.com/mHMtI3y0qx",
+                "expanded_url": "http://twitter.com/StefanAleo/status/673948461864230913/photo/1",
+                "id": 673948453941084160,
+                "id_str": "673948453941084160",
+                "indices": [
+                    33,
+                    56
+                ],
+                "media_url": "http://pbs.twimg.com/media/CVpYjFIVAAAWuka.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/CVpYjFIVAAAWuka.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 1024,
+                        "resize": "fit",
+                        "w": 768
+                    },
+                    "medium": {
+                        "h": 800,
+                        "resize": "fit",
+                        "w": 600
+                    },
+                    "small": {
+                        "h": 453,
+                        "resize": "fit",
+                        "w": 340
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/mHMtI3y0qx"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 271516607,
+                "id_str": "271516607",
+                "indices": [
+                    0,
+                    8
+                ],
+                "name": "UPS Customer Support",
+                "screen_name": "UPSHelp"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 673948461864230913,
+    "id_str": "673948461864230913",
+    "in_reply_to_screen_name": "UPSHelp",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 271516607,
+    "in_reply_to_user_id_str": "271516607",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -76.616577,
+                        39.996003
+                    ],
+                    [
+                        -76.592543,
+                        39.996003
+                    ],
+                    [
+                        -76.592543,
+                        40.010151
+                    ],
+                    [
+                        -76.616577,
+                        40.010151
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Hallam, PA",
+        "id": "ddfb09fff6721021",
+        "name": "Hallam",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/ddfb09fff6721021.json"
+    },
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@UPSHelp this is not acceptable! https://t.co/mHMtI3y0qx",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Dec 26 17:29:12 +0000 2012",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Digital Editor @WGAL | Formerly @WHSV @WPXI | QU '13, TV News Junkie & Disney Channel fan",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 779,
+        "follow_request_sent": false,
+        "followers_count": 49,
+        "following": false,
+        "friends_count": 173,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 1037622848,
+        "id_str": "1037622848",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 2,
+        "location": "Lancaster, PA",
+        "name": "Stefan Aleo",
+        "notifications": false,
+        "profile_background_color": "020812",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/765638629/e2ad3863748b23abc3e43c876c77d749.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/765638629/e2ad3863748b23abc3e43c876c77d749.jpeg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1037622848/1447913750",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/667228961781514240/2CRpJuW-_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/667228961781514240/2CRpJuW-_normal.jpg",
+        "profile_link_color": "2280A9",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "020812",
+        "profile_text_color": "17406C",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "StefanAleo",
+        "statuses_count": 604,
+        "time_zone": null,
+        "url": null,
+        "utc_offset": null,
+        "verified": false
+    }
+}

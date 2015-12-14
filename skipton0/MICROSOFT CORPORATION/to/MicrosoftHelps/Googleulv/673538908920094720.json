@@ -1,0 +1,123 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Dec 06 16:26:04 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 75691804,
+                "id_str": "75691804",
+                "indices": [
+                    0,
+                    15
+                ],
+                "name": "Microsoft Support",
+                "screen_name": "MicrosoftHelps"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 673538908920094720,
+    "id_str": "673538908920094720",
+    "in_reply_to_screen_name": "MicrosoftHelps",
+    "in_reply_to_status_id": 673517251635597312,
+    "in_reply_to_status_id_str": "673517251635597312",
+    "in_reply_to_user_id": 75691804,
+    "in_reply_to_user_id_str": "75691804",
+    "is_quote_status": false,
+    "lang": "es",
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        8.9578811,
+                        55.828308
+                    ],
+                    [
+                        9.5589439,
+                        55.828308
+                    ],
+                    [
+                        9.5589439,
+                        56.2758608
+                    ],
+                    [
+                        8.9578811,
+                        56.2758608
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "Danmark",
+        "country_code": "DK",
+        "full_name": "Ikast-Brande, Midtjylland",
+        "id": "dc949d551ad8e212",
+        "name": "Ikast-Brande",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/dc949d551ad8e212.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+    "text": "@MicrosoftHelps no, no, NOOO",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Mar 17 21:41:31 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Man, 40 year, is computer geek in microsoft windows and ms office. Also techie interest internet og network and coding, are single",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 21299,
+        "follow_request_sent": false,
+        "followers_count": 913,
+        "following": false,
+        "friends_count": 710,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 24961070,
+        "id_str": "24961070",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "da",
+        "listed_count": 1765,
+        "location": "7430 Ikast Denmark Europe",
+        "name": "Kristian Erik Munk",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/631872006645022720/C3D_WfIt_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/631872006645022720/C3D_WfIt_normal.jpg",
+        "profile_link_color": "3B94D9",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "Googleulv",
+        "statuses_count": 47270,
+        "time_zone": "Copenhagen",
+        "url": null,
+        "utc_offset": 3600,
+        "verified": false
+    }
+}

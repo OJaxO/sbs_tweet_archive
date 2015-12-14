@@ -1,0 +1,148 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 07 18:30:37 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "bit.ly/1LZaDap",
+                "expanded_url": "http://bit.ly/1LZaDap",
+                "indices": [
+                    94,
+                    117
+                ],
+                "url": "https://t.co/cot7jJjniN"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 56488059,
+                "id_str": "56488059",
+                "indices": [
+                    0,
+                    7
+                ],
+                "name": "Pfizer Inc.",
+                "screen_name": "pfizer"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 673932640777584641,
+    "id_str": "673932640777584641",
+    "in_reply_to_screen_name": "pfizer",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 56488059,
+    "in_reply_to_user_id_str": "56488059",
+    "is_quote_status": false,
+    "lang": "es",
+    "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -74.8493027649486,
+                        10.6961950034479
+                    ],
+                    [
+                        -74.4663600015422,
+                        10.6961950034479
+                    ],
+                    [
+                        -74.4663600015422,
+                        11.1050717499522
+                    ],
+                    [
+                        -74.8493027649486,
+                        11.1050717499522
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "Colombia",
+        "country_code": "CO",
+        "full_name": "Sitionuevo, Magdalena",
+        "id": "00345a791fbe0951",
+        "name": "Sitionuevo",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/00345a791fbe0951.json"
+    },
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@pfizer Sanofi, con problemas para fabricar vacuna contra tosferina, difteria, t\u00e9tano y polio https://t.co/cot7jJjniN",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Sep 08 22:05:25 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Somos un portal web dedicado a la divulgaci\u00f3n de informaci\u00f3n y a la generaci\u00f3n de opini\u00f3n en el sector salud. smopinionysalud@gmail.com",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "opinionysalud.com",
+                        "expanded_url": "http://opinionysalud.com",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/IygYH11Aj4"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 859,
+        "follow_request_sent": false,
+        "followers_count": 2144,
+        "following": false,
+        "friends_count": 973,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 188503741,
+        "id_str": "188503741",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "es",
+        "listed_count": 39,
+        "location": "Colombia",
+        "name": "Opini\u00f3n y Salud",
+        "notifications": false,
+        "profile_background_color": "A4D6DB",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/890080139/454bb573a4815dbf14c0a6520ed73f06.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/890080139/454bb573a4815dbf14c0a6520ed73f06.jpeg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/188503741/1449180657",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/597783122873298944/hpO3aWdF_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/597783122873298944/hpO3aWdF_normal.jpg",
+        "profile_link_color": "3B94D9",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "A0C5C7",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "OpinionYSalud",
+        "statuses_count": 16808,
+        "time_zone": "Bogota",
+        "url": "http://t.co/IygYH11Aj4",
+        "utc_offset": -18000,
+        "verified": false
+    }
+}

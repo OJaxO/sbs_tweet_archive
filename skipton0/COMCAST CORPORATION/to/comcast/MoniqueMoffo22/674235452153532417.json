@@ -1,0 +1,171 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 08 14:33:53 +0000 2015",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    75,
+                    88
+                ],
+                "text": "ignition2015"
+            }
+        ],
+        "media": [
+            {
+                "display_url": "pic.twitter.com/qch09xDFXG",
+                "expanded_url": "http://twitter.com/MoniqueMoffo22/status/674235452153532417/photo/1",
+                "id": 674235444184399872,
+                "id_str": "674235444184399872",
+                "indices": [
+                    89,
+                    112
+                ],
+                "media_url": "http://pbs.twimg.com/media/CVtdkHGWwAAxjSN.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/CVtdkHGWwAAxjSN.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 1024,
+                        "resize": "fit",
+                        "w": 768
+                    },
+                    "medium": {
+                        "h": 800,
+                        "resize": "fit",
+                        "w": 600
+                    },
+                    "small": {
+                        "h": 453,
+                        "resize": "fit",
+                        "w": 340
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/qch09xDFXG"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 89587925,
+                "id_str": "89587925",
+                "indices": [
+                    0,
+                    8
+                ],
+                "name": "Comcast",
+                "screen_name": "comcast"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 674235452153532417,
+    "id_str": "674235452153532417",
+    "in_reply_to_screen_name": "comcast",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 89587925,
+    "in_reply_to_user_id_str": "89587925",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -74.026675,
+                        40.683935
+                    ],
+                    [
+                        -73.910408,
+                        40.683935
+                    ],
+                    [
+                        -73.910408,
+                        40.877483
+                    ],
+                    [
+                        -74.026675,
+                        40.877483
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Manhattan, NY",
+        "id": "01a9a39529b27f36",
+        "name": "Manhattan",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/01a9a39529b27f36.json"
+    },
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@comcast CEO Brian Roberts demoing the X1, showing off the newest features #ignition2015 https://t.co/qch09xDFXG",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Mar 31 21:22:15 +0000 2011",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Mother, Wife, Friend, Program Manager @comcast focusing on Entrepreneurial and x1 Engagement",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 853,
+        "follow_request_sent": false,
+        "followers_count": 216,
+        "following": false,
+        "friends_count": 546,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 275219266,
+        "id_str": "275219266",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 12,
+        "location": "Philadelphia, PA",
+        "name": "Monique Moffo",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/275219266/1440466453",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/668578000674430976/F_ocVAXW_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/668578000674430976/F_ocVAXW_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "MoniqueMoffo22",
+        "statuses_count": 1234,
+        "time_zone": null,
+        "url": null,
+        "utc_offset": null,
+        "verified": false
+    }
+}

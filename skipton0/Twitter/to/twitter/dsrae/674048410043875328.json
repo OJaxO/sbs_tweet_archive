@@ -1,0 +1,138 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 08 02:10:38 +0000 2015",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    86,
+                    97
+                ],
+                "text": "rescuedogs"
+            },
+            {
+                "indices": [
+                    137,
+                    144
+                ],
+                "text": "nokill"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 783214,
+                "id_str": "783214",
+                "indices": [
+                    0,
+                    8
+                ],
+                "name": "Twitter",
+                "screen_name": "twitter"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 674048410043875328,
+    "id_str": "674048410043875328",
+    "in_reply_to_screen_name": "twitter",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 783214,
+    "in_reply_to_user_id_str": "783214",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -105.274207,
+                        38.387356
+                    ],
+                    [
+                        -105.1772361,
+                        38.387356
+                    ],
+                    [
+                        -105.1772361,
+                        38.479399
+                    ],
+                    [
+                        -105.274207,
+                        38.479399
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Ca\u00f1on City, CO",
+        "id": "0028bdaf6ce56325",
+        "name": "Ca\u00f1on City",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/0028bdaf6ce56325.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for i\u039fS</a>",
+    "text": "@twitter needs a message that says, \u201cyou have tweeted too much today.  Go walk your   #rescuedogs &amp; keep your phone in your pocket.\u201d #nokill",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Dec 18 21:32:33 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 266,
+        "follow_request_sent": false,
+        "followers_count": 133,
+        "following": false,
+        "friends_count": 284,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 97752270,
+        "id_str": "97752270",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 2,
+        "location": "Canon City, CO",
+        "name": "Doug Rae",
+        "notifications": false,
+        "profile_background_color": "709397",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/60707891/IMG_0152.JPG",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/60707891/IMG_0152.JPG",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/775301245/0436_4x5_forWEBsite_3_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/775301245/0436_4x5_forWEBsite_3_normal.jpg",
+        "profile_link_color": "FF3300",
+        "profile_sidebar_border_color": "86A4A6",
+        "profile_sidebar_fill_color": "A0C5C7",
+        "profile_text_color": "333333",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "dsrae",
+        "statuses_count": 235,
+        "time_zone": "Eastern Time (US & Canada)",
+        "url": null,
+        "utc_offset": -18000,
+        "verified": false
+    }
+}

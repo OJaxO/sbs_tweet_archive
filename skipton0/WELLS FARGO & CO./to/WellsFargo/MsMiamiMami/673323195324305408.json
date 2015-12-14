@@ -1,0 +1,149 @@
+{
+    "contributors": null,
+    "coordinates": {
+        "coordinates": [
+            -84.1623041,
+            33.85585586
+        ],
+        "type": "Point"
+    },
+    "created_at": "Sun Dec 06 02:08:54 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 1178011,
+                "id_str": "1178011",
+                "indices": [
+                    0,
+                    11
+                ],
+                "name": "Wells Fargo",
+                "screen_name": "WellsFargo"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": {
+        "coordinates": [
+            33.85585586,
+            -84.1623041
+        ],
+        "type": "Point"
+    },
+    "id": 673323195324305408,
+    "id_str": "673323195324305408",
+    "in_reply_to_screen_name": "WellsFargo",
+    "in_reply_to_status_id": 673317673778966528,
+    "in_reply_to_status_id_str": "673317673778966528",
+    "in_reply_to_user_id": 1178011,
+    "in_reply_to_user_id_str": "1178011",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -84.1677245,
+                        33.862496
+                    ],
+                    [
+                        -84.103494,
+                        33.862496
+                    ],
+                    [
+                        -84.103494,
+                        33.908639
+                    ],
+                    [
+                        -84.1677245,
+                        33.908639
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Lilburn, GA",
+        "id": "8d350371e2769966",
+        "name": "Lilburn",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/8d350371e2769966.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://www.tweetcaster.com\" rel=\"nofollow\">TweetCaster for Android</a>",
+    "text": "@WellsFargo thanks for the Nellie info!",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Oct 10 06:52:27 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "From the Bottom but I ALWAYS come out on TOP! Single, educated diva raising my mini diva! I'm my own #TT! #Writer #Poet #Naturalista #Militant #Aries #FutureCEO",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "msmiamimamismadness.blogspot.com",
+                        "expanded_url": "http://msmiamimamismadness.blogspot.com/",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/LJRWNoVJYS"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 17,
+        "follow_request_sent": false,
+        "followers_count": 1152,
+        "following": false,
+        "friends_count": 1791,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 81299799,
+        "id_str": "81299799",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 16,
+        "location": "I'm in the A now!",
+        "name": "\u2648Mishy\u2648",
+        "notifications": false,
+        "profile_background_color": "0CEBEB",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/506886214385819648/mbDrCnOP.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/506886214385819648/mbDrCnOP.jpeg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/81299799/1409688004",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/670930007770980352/e5eZknqp_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/670930007770980352/e5eZknqp_normal.jpg",
+        "profile_link_color": "96CFE0",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "E5507E",
+        "profile_text_color": "362720",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "MsMiamiMami",
+        "statuses_count": 16805,
+        "time_zone": "Central Time (US & Canada)",
+        "url": "https://t.co/LJRWNoVJYS",
+        "utc_offset": -21600,
+        "verified": false
+    }
+}

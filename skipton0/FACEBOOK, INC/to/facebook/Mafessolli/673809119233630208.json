@@ -1,0 +1,134 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 07 10:19:47 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 2425151,
+                "id_str": "2425151",
+                "indices": [
+                    0,
+                    9
+                ],
+                "name": "Facebook",
+                "screen_name": "facebook"
+            }
+        ]
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": null,
+    "id": 673809119233630208,
+    "id_str": "673809119233630208",
+    "in_reply_to_screen_name": "facebook",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 2425151,
+    "in_reply_to_user_id_str": "2425151",
+    "is_quote_status": false,
+    "lang": "pt",
+    "metadata": {
+        "iso_language_code": "pt",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -49.206993,
+                        -27.1325356
+                    ],
+                    [
+                        -49.0122597,
+                        -27.1325356
+                    ],
+                    [
+                        -49.0122597,
+                        -26.613085
+                    ],
+                    [
+                        -49.206993,
+                        -26.613085
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "Brasil",
+        "country_code": "BR",
+        "full_name": "Blumenau, Santa Catarina",
+        "id": "63968ec77ab62d12",
+        "name": "Blumenau",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/63968ec77ab62d12.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@facebook olha meus \u00faltimos dois Twitter",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Jan 14 00:13:44 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Blumenau/nt http://t.co/uSYWRdgt9w",
+        "entities": {
+            "description": {
+                "urls": [
+                    {
+                        "display_url": "instagram.com/mafessolipablo/",
+                        "expanded_url": "http://instagram.com/mafessolipablo/",
+                        "indices": [
+                            12,
+                            34
+                        ],
+                        "url": "http://t.co/uSYWRdgt9w"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 510,
+        "follow_request_sent": false,
+        "followers_count": 186,
+        "following": false,
+        "friends_count": 105,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 104652765,
+        "id_str": "104652765",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "pt",
+        "listed_count": 0,
+        "location": "",
+        "name": "Mafessoli ",
+        "notifications": false,
+        "profile_background_color": "010A09",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/558435538084966400/-eXPe1Z4.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/558435538084966400/-eXPe1Z4.jpeg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/104652765/1417140737",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/624742998463614976/AlEdlk21_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/624742998463614976/AlEdlk21_normal.jpg",
+        "profile_link_color": "050405",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Mafessolli",
+        "statuses_count": 12054,
+        "time_zone": "Greenland",
+        "url": null,
+        "utc_offset": -10800,
+        "verified": false
+    }
+}

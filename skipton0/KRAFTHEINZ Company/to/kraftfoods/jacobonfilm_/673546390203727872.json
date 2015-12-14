@@ -1,0 +1,124 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Dec 06 16:55:47 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 70553530,
+                "id_str": "70553530",
+                "indices": [
+                    0,
+                    11
+                ],
+                "name": "Kraft Foods",
+                "screen_name": "kraftfoods"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 673546390203727872,
+    "id_str": "673546390203727872",
+    "in_reply_to_screen_name": "kraftfoods",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 70553530,
+    "in_reply_to_user_id_str": "70553530",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -91.51308,
+                        36.970298
+                    ],
+                    [
+                        -87.019935,
+                        36.970298
+                    ],
+                    [
+                        -87.019935,
+                        42.508303
+                    ],
+                    [
+                        -91.51308,
+                        42.508303
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Illinois, USA",
+        "id": "f54a2170ff4b15f7",
+        "name": "Illinois",
+        "place_type": "admin",
+        "url": "https://api.twitter.com/1.1/geo/id/f54a2170ff4b15f7.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@kraftfoods Did you change the mac&amp;cheese formula? It's been tasting weird lately..",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Feb 26 16:50:57 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "jacob whitesides is everything to me || MET JACOB 7.28 || JACOB FOLLOWED 10.29 || bunny rt x4 || BUNNY FOLLOWED 7.25 || rip emily\u2764\ufe0f",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 3431,
+        "follow_request_sent": false,
+        "followers_count": 1074,
+        "following": false,
+        "friends_count": 1299,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 257950724,
+        "id_str": "257950724",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 0,
+        "location": "bloomington",
+        "name": "emily",
+        "notifications": false,
+        "profile_background_color": "642D8B",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/272407000/jb3.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/272407000/jb3.jpg",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/257950724/1447640475",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/665623591002599424/rqjrfJb7_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/665623591002599424/rqjrfJb7_normal.jpg",
+        "profile_link_color": "9266CC",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "0A0AFF",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "jacobonfilm_",
+        "statuses_count": 8750,
+        "time_zone": "Central Time (US & Canada)",
+        "url": null,
+        "utc_offset": -21600,
+        "verified": false
+    }
+}

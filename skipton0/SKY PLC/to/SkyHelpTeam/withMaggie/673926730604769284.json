@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 07 18:07:08 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 403522137,
+                "id_str": "403522137",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "Sky Help Team",
+                "screen_name": "SkyHelpTeam"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 673926730604769284,
+    "id_str": "673926730604769284",
+    "in_reply_to_screen_name": "SkyHelpTeam",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 403522137,
+    "in_reply_to_user_id_str": "403522137",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -1.95729593780907,
+                        50.5746064789388
+                    ],
+                    [
+                        1.45178800018019,
+                        50.5746064789388
+                    ],
+                    [
+                        1.45178800018019,
+                        52.1962850088601
+                    ],
+                    [
+                        -1.95729593780907,
+                        52.1962850088601
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United Kingdom",
+        "country_code": "GB",
+        "full_name": "South East, England",
+        "id": "06168d1feda43857",
+        "name": "South East",
+        "place_type": "admin",
+        "url": "https://api.twitter.com/1.1/geo/id/06168d1feda43857.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@SkyHelpTeam My 80yrold mother has a Life Line and reported her phone fault to you Friday or Sat. After I pushed you to escalate her case...",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Aug 25 12:03:08 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "#meditation teacher \u2022 writer \u2022 founder of #Mindfulness for Mums \u2022 rubber of bellies",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "meditationwithmaggie.com",
+                        "expanded_url": "http://www.meditationwithmaggie.com",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/fgaqPY1JsU"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 764,
+        "follow_request_sent": false,
+        "followers_count": 582,
+        "following": false,
+        "friends_count": 564,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 361828969,
+        "id_str": "361828969",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 27,
+        "location": "London, UK",
+        "name": "Maggie Richards",
+        "notifications": false,
+        "profile_background_color": "FFCC4D",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/595958272/52e8rgrzg4zgmu0df3w1.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/595958272/52e8rgrzg4zgmu0df3w1.jpeg",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/361828969/1410777874",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/570391384838787072/k36H8J53_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/570391384838787072/k36H8J53_normal.jpeg",
+        "profile_link_color": "FF0000",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "F3F3F3",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "withMaggie",
+        "statuses_count": 2226,
+        "time_zone": "London",
+        "url": "http://t.co/fgaqPY1JsU",
+        "utc_offset": 0,
+        "verified": false
+    }
+}

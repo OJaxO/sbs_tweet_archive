@@ -1,0 +1,152 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 07 21:07:18 +0000 2015",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    68,
+                    82
+                ],
+                "text": "medicaldevice"
+            },
+            {
+                "indices": [
+                    107,
+                    122
+                ],
+                "text": "HackAHairDryer"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 18994444,
+                "id_str": "18994444",
+                "indices": [
+                    0,
+                    4
+                ],
+                "name": "IBM",
+                "screen_name": "IBM"
+            }
+        ]
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": null,
+    "id": 673972070468964352,
+    "id_str": "673972070468964352",
+    "in_reply_to_screen_name": "IBM",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 18994444,
+    "in_reply_to_user_id_str": "18994444",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -0.8117117,
+                        51.5631491
+                    ],
+                    [
+                        -0.7561578,
+                        51.5631491
+                    ],
+                    [
+                        -0.7561578,
+                        51.6002484
+                    ],
+                    [
+                        -0.8117117,
+                        51.6002484
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United Kingdom",
+        "country_code": "GB",
+        "full_name": "Marlow, England",
+        "id": "3c6b13ac2f931ead",
+        "name": "Marlow",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/3c6b13ac2f931ead.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@IBM , if it's ok with u I'd rather design some new products for my #medicaldevice company, but enjoy your #HackAHairDryer thing....  ;)",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Jul 09 06:40:21 +0000 2013",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "A team dedicated to Women's Health, providing healthcare professionals with high quality solutions. Winners of BEST NEW BUSINESS 2015 BUCKS. UK",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "junemedical.com",
+                        "expanded_url": "http://www.junemedical.com",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/DK890blp9o"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 43,
+        "follow_request_sent": false,
+        "followers_count": 84,
+        "following": false,
+        "friends_count": 58,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 1579597968,
+        "id_str": "1579597968",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 1,
+        "location": "United Kingdom",
+        "name": "JUNEMEDICAL",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1579597968/1428670404",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/586512477837365249/Fp2QdiP1_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/586512477837365249/Fp2QdiP1_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "JuneMedical",
+        "statuses_count": 381,
+        "time_zone": "Amsterdam",
+        "url": "http://t.co/DK890blp9o",
+        "utc_offset": 3600,
+        "verified": false
+    }
+}

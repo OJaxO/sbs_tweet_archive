@@ -1,0 +1,333 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 08 15:54:28 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "media": [
+            {
+                "display_url": "pic.twitter.com/bPvz49aPNR",
+                "expanded_url": "http://twitter.com/1MillionDegrees/status/674012353835479041/photo/1",
+                "id": 674012338291384320,
+                "id_str": "674012338291384320",
+                "indices": [
+                    122,
+                    140
+                ],
+                "media_url": "http://pbs.twimg.com/media/CVqSpo4WoAAvLQc.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/CVqSpo4WoAAvLQc.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 766,
+                        "resize": "fit",
+                        "w": 1023
+                    },
+                    "medium": {
+                        "h": 449,
+                        "resize": "fit",
+                        "w": 600
+                    },
+                    "small": {
+                        "h": 254,
+                        "resize": "fit",
+                        "w": 340
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "source_status_id": 674012353835479041,
+                "source_status_id_str": "674012353835479041",
+                "source_user_id": 883256256,
+                "source_user_id_str": "883256256",
+                "type": "photo",
+                "url": "https://t.co/bPvz49aPNR"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 883256256,
+                "id_str": "883256256",
+                "indices": [
+                    3,
+                    19
+                ],
+                "name": "One Million Degrees",
+                "screen_name": "1MillionDegrees"
+            },
+            {
+                "id": 1155522630,
+                "id_str": "1155522630",
+                "indices": [
+                    30,
+                    39
+                ],
+                "name": "J.P. Morgan",
+                "screen_name": "jpmorgan"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 674255734503247873,
+    "id_str": "674255734503247873",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 5,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Mon Dec 07 23:47:22 +0000 2015",
+        "entities": {
+            "hashtags": [],
+            "media": [
+                {
+                    "display_url": "pic.twitter.com/bPvz49aPNR",
+                    "expanded_url": "http://twitter.com/1MillionDegrees/status/674012353835479041/photo/1",
+                    "id": 674012338291384320,
+                    "id_str": "674012338291384320",
+                    "indices": [
+                        101,
+                        124
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/CVqSpo4WoAAvLQc.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/CVqSpo4WoAAvLQc.jpg",
+                    "sizes": {
+                        "large": {
+                            "h": 766,
+                            "resize": "fit",
+                            "w": 1023
+                        },
+                        "medium": {
+                            "h": 449,
+                            "resize": "fit",
+                            "w": 600
+                        },
+                        "small": {
+                            "h": 254,
+                            "resize": "fit",
+                            "w": 340
+                        },
+                        "thumb": {
+                            "h": 150,
+                            "resize": "crop",
+                            "w": 150
+                        }
+                    },
+                    "type": "photo",
+                    "url": "https://t.co/bPvz49aPNR"
+                }
+            ],
+            "symbols": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "id": 1155522630,
+                    "id_str": "1155522630",
+                    "indices": [
+                        9,
+                        18
+                    ],
+                    "name": "J.P. Morgan",
+                    "screen_name": "jpmorgan"
+                }
+            ]
+        },
+        "favorite_count": 5,
+        "favorited": false,
+        "geo": null,
+        "id": 674012353835479041,
+        "id_str": "674012353835479041",
+        "in_reply_to_screen_name": null,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "is_quote_status": false,
+        "lang": "en",
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "place": {
+            "attributes": {},
+            "bounding_box": {
+                "coordinates": [
+                    [
+                        [
+                            -87.940033,
+                            41.644102
+                        ],
+                        [
+                            -87.523993,
+                            41.644102
+                        ],
+                        [
+                            -87.523993,
+                            42.0230669
+                        ],
+                        [
+                            -87.940033,
+                            42.0230669
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "contained_within": [],
+            "country": "United States",
+            "country_code": "US",
+            "full_name": "Chicago, IL",
+            "id": "1d9a5370a355ab0c",
+            "name": "Chicago",
+            "place_type": "city",
+            "url": "https://api.twitter.com/1.1/geo/id/1d9a5370a355ab0c.json"
+        },
+        "possibly_sensitive": false,
+        "retweet_count": 5,
+        "retweeted": false,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "Congrats @jpmorgan on this beautiful student-created TFI mural - and tnx for your leadership in Chi! https://t.co/bPvz49aPNR",
+        "truncated": false,
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Mon Oct 15 22:42:24 +0000 2012",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "One Million Degrees provides critical student supports to low-income community college students to empower them to succeed in school, work and life.",
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "onemilliondegrees.org",
+                            "expanded_url": "http://www.onemilliondegrees.org",
+                            "indices": [
+                                0,
+                                22
+                            ],
+                            "url": "http://t.co/YOLJr0supK"
+                        }
+                    ]
+                }
+            },
+            "favourites_count": 375,
+            "follow_request_sent": false,
+            "followers_count": 745,
+            "following": false,
+            "friends_count": 857,
+            "geo_enabled": true,
+            "has_extended_profile": false,
+            "id": 883256256,
+            "id_str": "883256256",
+            "is_translation_enabled": false,
+            "is_translator": false,
+            "lang": "en",
+            "listed_count": 19,
+            "location": "Chicago, IL ",
+            "name": "One Million Degrees",
+            "notifications": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/743343646/300f6957d014bc36d2857128c2e4a1a3.jpeg",
+            "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/743343646/300f6957d014bc36d2857128c2e4a1a3.jpeg",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/883256256/1431533739",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/2983871713/81aeae4aaae8f2d34342c68799eb0aad_normal.jpeg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/2983871713/81aeae4aaae8f2d34342c68799eb0aad_normal.jpeg",
+            "profile_link_color": "000000",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "1MillionDegrees",
+            "statuses_count": 1735,
+            "time_zone": "Central Time (US & Canada)",
+            "url": "http://t.co/YOLJr0supK",
+            "utc_offset": -21600,
+            "verified": false
+        }
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "RT @1MillionDegrees: Congrats @jpmorgan on this beautiful student-created TFI mural - and tnx for your leadership in Chi! https://t.co/bPvz\u2026",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Feb 07 00:35:00 +0000 2013",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Official Twitter account for the latest company news and updates from Asset Management, Private Banking, and the Corporate and Investment Bank. Learn more at:",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "jpmorgan.com",
+                        "expanded_url": "http://www.jpmorgan.com",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/RGvGoCqk0Y"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 74,
+        "follow_request_sent": false,
+        "followers_count": 195413,
+        "following": false,
+        "friends_count": 53,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 1155522630,
+        "id_str": "1155522630",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 1236,
+        "location": "",
+        "name": "J.P. Morgan",
+        "notifications": false,
+        "profile_background_color": "321B0F",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000066830587/d0d0b1fc488eb54de172af2b9faf9c43.png",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000066830587/d0d0b1fc488eb54de172af2b9faf9c43.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1155522630/1447883166",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/461908736106168320/S9sGEWmY_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/461908736106168320/S9sGEWmY_normal.png",
+        "profile_link_color": "4F2824",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "jpmorgan",
+        "statuses_count": 3216,
+        "time_zone": "Eastern Time (US & Canada)",
+        "url": "https://t.co/RGvGoCqk0Y",
+        "utc_offset": -18000,
+        "verified": true
+    }
+}

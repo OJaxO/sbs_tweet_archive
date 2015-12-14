@@ -1,0 +1,137 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 07 13:57:58 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 271516607,
+                "id_str": "271516607",
+                "indices": [
+                    0,
+                    8
+                ],
+                "name": "UPS Customer Support",
+                "screen_name": "UPSHelp"
+            }
+        ]
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": null,
+    "id": 673864025554448384,
+    "id_str": "673864025554448384",
+    "in_reply_to_screen_name": "UPSHelp",
+    "in_reply_to_status_id": 673863150136086528,
+    "in_reply_to_status_id_str": "673863150136086528",
+    "in_reply_to_user_id": 271516607,
+    "in_reply_to_user_id_str": "271516607",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -0.7406154,
+                        52.2833446
+                    ],
+                    [
+                        -0.6669501,
+                        52.2833446
+                    ],
+                    [
+                        -0.6669501,
+                        52.3268293
+                    ],
+                    [
+                        -0.7406154,
+                        52.3268293
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United Kingdom",
+        "country_code": "GB",
+        "full_name": "Wellingborough, England",
+        "id": "26a15ccf79e83f9c",
+        "name": "Wellingborough",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/26a15ccf79e83f9c.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@UPSHelp \"We're here to help\" yet sadly no-one seems to be able to help me. It's extremely frustrating. How can it be so difficult?",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Feb 22 21:34:28 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Global travelling explorer, a flaneur electronique. Loves possibilities. International avant garde sex symbol, magician and amusing raconteur",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "scannerdot.com",
+                        "expanded_url": "http://www.scannerdot.com",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/v2fw4BehQF"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 1073,
+        "follow_request_sent": false,
+        "followers_count": 6994,
+        "following": false,
+        "friends_count": 384,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 21600839,
+        "id_str": "21600839",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 307,
+        "location": "London/Global",
+        "name": "Scanner",
+        "notifications": false,
+        "profile_background_color": "9AE4E8",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000165663688/-X17Qt4x.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000165663688/-X17Qt4x.jpeg",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/21600839/1389347665",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/421580320404537345/U-pTnEgU_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/421580320404537345/U-pTnEgU_normal.jpeg",
+        "profile_link_color": "3B94D9",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDFFCC",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "robinrimbaud",
+        "statuses_count": 26975,
+        "time_zone": "London",
+        "url": "http://t.co/v2fw4BehQF",
+        "utc_offset": 0,
+        "verified": false
+    }
+}

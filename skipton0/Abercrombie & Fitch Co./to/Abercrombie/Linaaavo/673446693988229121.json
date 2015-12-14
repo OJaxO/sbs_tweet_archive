@@ -1,0 +1,173 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Dec 06 10:19:38 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "media": [
+            {
+                "display_url": "pic.twitter.com/dTc4sHGWVN",
+                "expanded_url": "http://twitter.com/Linaaavo/status/673446693988229121/photo/1",
+                "id": 673446688925724673,
+                "id_str": "673446688925724673",
+                "indices": [
+                    74,
+                    97
+                ],
+                "media_url": "http://pbs.twimg.com/media/CViQMgyUsAEY6Fm.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/CViQMgyUsAEY6Fm.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 1024,
+                        "resize": "fit",
+                        "w": 768
+                    },
+                    "medium": {
+                        "h": 800,
+                        "resize": "fit",
+                        "w": 600
+                    },
+                    "small": {
+                        "h": 453,
+                        "resize": "fit",
+                        "w": 340
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/dTc4sHGWVN"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 270533441,
+                "id_str": "270533441",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "Abercrombie & Fitch",
+                "screen_name": "Abercrombie"
+            },
+            {
+                "id": 2256151926,
+                "id_str": "2256151926",
+                "indices": [
+                    59,
+                    73
+                ],
+                "name": "BETSY",
+                "screen_name": "Besstiebabeyy"
+            }
+        ]
+    },
+    "favorite_count": 5,
+    "favorited": false,
+    "geo": null,
+    "id": 673446693988229121,
+    "id_str": "673446693988229121",
+    "in_reply_to_screen_name": "Abercrombie",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 270533441,
+    "in_reply_to_user_id_str": "270533441",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -121.4875756,
+                        38.361325
+                    ],
+                    [
+                        -121.276607,
+                        38.361325
+                    ],
+                    [
+                        -121.276607,
+                        38.481738
+                    ],
+                    [
+                        -121.4875756,
+                        38.481738
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Elk Grove, CA",
+        "id": "6daef4115502c39e",
+        "name": "Elk Grove",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/6daef4115502c39e.json"
+    },
+    "possibly_sensitive": false,
+    "retweet_count": 3,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@Abercrombie why u got 3 bottons turnt niggas canr do thjs @Besstiebabeyy https://t.co/dTc4sHGWVN",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Nov 06 04:07:48 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "SC: xlinavo",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 7430,
+        "follow_request_sent": false,
+        "followers_count": 748,
+        "following": false,
+        "friends_count": 420,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 406017413,
+        "id_str": "406017413",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 0,
+        "location": "",
+        "name": "Lina Vo",
+        "notifications": false,
+        "profile_background_color": "FFFFFF",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000084198635/f73059c9d3691c33414585c7a7b27e6c.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000084198635/f73059c9d3691c33414585c7a7b27e6c.jpeg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/406017413/1439639741",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/661094258363924480/oCaiLGFi_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/661094258363924480/oCaiLGFi_normal.jpg",
+        "profile_link_color": "000000",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "E3E2DE",
+        "profile_text_color": "634047",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Linaaavo",
+        "statuses_count": 10003,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": null,
+        "utc_offset": -28800,
+        "verified": false
+    }
+}

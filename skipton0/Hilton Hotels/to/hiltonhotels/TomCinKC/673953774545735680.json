@@ -1,0 +1,155 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 07 19:54:35 +0000 2015",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    53,
+                    61
+                ],
+                "text": "hhonors"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 64510593,
+                "id_str": "64510593",
+                "indices": [
+                    0,
+                    13
+                ],
+                "name": "Hilton Hotels",
+                "screen_name": "HiltonHotels"
+            },
+            {
+                "id": 102719502,
+                "id_str": "102719502",
+                "indices": [
+                    14,
+                    28
+                ],
+                "name": "Hilton Times Square",
+                "screen_name": "HiltonTimesSq"
+            }
+        ]
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": null,
+    "id": 673953774545735680,
+    "id_str": "673953774545735680",
+    "in_reply_to_screen_name": "HiltonHotels",
+    "in_reply_to_status_id": 673948428477460480,
+    "in_reply_to_status_id_str": "673948428477460480",
+    "in_reply_to_user_id": 64510593,
+    "in_reply_to_user_id_str": "64510593",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -102.051769,
+                        36.9931101
+                    ],
+                    [
+                        -94.588081,
+                        36.9931101
+                    ],
+                    [
+                        -94.588081,
+                        40.003282
+                    ],
+                    [
+                        -102.051769,
+                        40.003282
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Kansas, USA",
+        "id": "27c45d804c777999",
+        "name": "Kansas",
+        "place_type": "admin",
+        "url": "https://api.twitter.com/1.1/geo/id/27c45d804c777999.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@HiltonHotels @HiltonTimesSq headed there next week! #hhonors",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Oct 16 22:12:46 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Husband & dad. Ultra runner. Banker interested in #fintech. Jayhawk. 2015 Pearl Izumi Champion Team. These tweets are mine.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "tomcinkc.tumblr.com",
+                        "expanded_url": "http://tomcinkc.tumblr.com",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/EF28ioIlKe"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 331,
+        "follow_request_sent": false,
+        "followers_count": 1073,
+        "following": false,
+        "friends_count": 1418,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 203696172,
+        "id_str": "203696172",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 89,
+        "location": "Overland Park, KS",
+        "name": "TomC",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/203696172/1435898831",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/601078923305189377/-afCSswu_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/601078923305189377/-afCSswu_normal.jpg",
+        "profile_link_color": "3B94D9",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "TomCinKC",
+        "statuses_count": 12920,
+        "time_zone": "Central Time (US & Canada)",
+        "url": "http://t.co/EF28ioIlKe",
+        "utc_offset": -21600,
+        "verified": false
+    }
+}

@@ -1,0 +1,136 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 07 11:17:25 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 16696296,
+                "id_str": "16696296",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "Costa Coffee",
+                "screen_name": "CostaCoffee"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 673823624059609088,
+    "id_str": "673823624059609088",
+    "in_reply_to_screen_name": "CostaCoffee",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 16696296,
+    "in_reply_to_user_id_str": "16696296",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        0.435659,
+                        51.698636
+                    ],
+                    [
+                        0.521299,
+                        51.698636
+                    ],
+                    [
+                        0.521299,
+                        51.78115
+                    ],
+                    [
+                        0.435659,
+                        51.78115
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United Kingdom",
+        "country_code": "GB",
+        "full_name": "Chelmsford, England",
+        "id": "6a779d5cb7e570e8",
+        "name": "Chelmsford",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/6a779d5cb7e570e8.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for i\u039fS</a>",
+    "text": "@CostaCoffee You really need tray return points.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Jun 04 14:34:25 +0000 2008",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Compressing thoughts into 140 characters. Some data may be lost.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "blog.hairydalek.com",
+                        "expanded_url": "http://blog.hairydalek.com",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/ob5KqLjy4Y"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 530,
+        "follow_request_sent": false,
+        "followers_count": 597,
+        "following": false,
+        "friends_count": 469,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 15005528,
+        "id_str": "15005528",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 40,
+        "location": "Essex",
+        "name": "Paul Dunning",
+        "notifications": false,
+        "profile_background_color": "727193",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/473731976554229760/W85YARe-.png",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/473731976554229760/W85YARe-.png",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/843893525/34b5aca7dea88d7fb51d10a711f4cf57_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/843893525/34b5aca7dea88d7fb51d10a711f4cf57_normal.png",
+        "profile_link_color": "8F7C9A",
+        "profile_sidebar_border_color": "F0B8A7",
+        "profile_sidebar_fill_color": "E3AFA4",
+        "profile_text_color": "C7999B",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "hairydalek",
+        "statuses_count": 35791,
+        "time_zone": "London",
+        "url": "http://t.co/ob5KqLjy4Y",
+        "utc_offset": 0,
+        "verified": false
+    }
+}

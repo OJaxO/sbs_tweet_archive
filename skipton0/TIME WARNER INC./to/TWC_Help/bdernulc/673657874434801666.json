@@ -1,0 +1,123 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 07 00:18:47 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 110782268,
+                "id_str": "110782268",
+                "indices": [
+                    0,
+                    9
+                ],
+                "name": "TWC Help",
+                "screen_name": "TWC_Help"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 673657874434801666,
+    "id_str": "673657874434801666",
+    "in_reply_to_screen_name": "TWC_Help",
+    "in_reply_to_status_id": 673657320673435648,
+    "in_reply_to_status_id_str": "673657320673435648",
+    "in_reply_to_user_id": 110782268,
+    "in_reply_to_user_id_str": "110782268",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -97.928935,
+                        30.127892
+                    ],
+                    [
+                        -97.5805133,
+                        30.127892
+                    ],
+                    [
+                        -97.5805133,
+                        30.5187994
+                    ],
+                    [
+                        -97.928935,
+                        30.5187994
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Austin, TX",
+        "id": "c3f37afa9efcf94b",
+        "name": "Austin",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/c3f37afa9efcf94b.json"
+    },
+    "retweet_count": 1,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@TWC_Help no issues with what channel? I see other people in my area complaining about the same problems.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Jan 19 06:00:35 +0000 2011",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Syracuse. Basketball. Bulls. Cubs. Everton. Chicago. Good food. Dark beer. Jeopardy contestant is a life goal. Don't go to law school.",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 736,
+        "follow_request_sent": false,
+        "followers_count": 120,
+        "following": false,
+        "friends_count": 726,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 240122559,
+        "id_str": "240122559",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 6,
+        "location": "Austin, TX",
+        "name": "Brian",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/656852572666368001/FHQQlYwg_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/656852572666368001/FHQQlYwg_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "bdernulc",
+        "statuses_count": 7929,
+        "time_zone": "Central Time (US & Canada)",
+        "url": null,
+        "utc_offset": -21600,
+        "verified": false
+    }
+}

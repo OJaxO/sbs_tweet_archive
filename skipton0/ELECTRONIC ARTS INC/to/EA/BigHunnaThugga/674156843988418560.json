@@ -1,0 +1,173 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 08 09:21:31 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "media": [
+            {
+                "display_url": "pic.twitter.com/MV0mJrIyK8",
+                "expanded_url": "http://twitter.com/BigHunnaThugga/status/674156843988418560/video/1",
+                "id": 674156793413500928,
+                "id_str": "674156793413500928",
+                "indices": [
+                    17,
+                    40
+                ],
+                "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/674156793413500928/pu/img/lGKEJ_DDL5X2N_-i.jpg",
+                "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/674156793413500928/pu/img/lGKEJ_DDL5X2N_-i.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 720,
+                        "resize": "fit",
+                        "w": 720
+                    },
+                    "medium": {
+                        "h": 600,
+                        "resize": "fit",
+                        "w": 600
+                    },
+                    "small": {
+                        "h": 340,
+                        "resize": "fit",
+                        "w": 340
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/MV0mJrIyK8"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 15234657,
+                "id_str": "15234657",
+                "indices": [
+                    0,
+                    3
+                ],
+                "name": "Electronic Arts",
+                "screen_name": "EA"
+            },
+            {
+                "id": 50096544,
+                "id_str": "50096544",
+                "indices": [
+                    4,
+                    16
+                ],
+                "name": "EA SPORTS Madden NFL",
+                "screen_name": "EAMaddenNFL"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 674156843988418560,
+    "id_str": "674156843988418560",
+    "in_reply_to_screen_name": "EA",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 15234657,
+    "in_reply_to_user_id_str": "15234657",
+    "is_quote_status": false,
+    "lang": "und",
+    "metadata": {
+        "iso_language_code": "und",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -99.835853,
+                        32.321246
+                    ],
+                    [
+                        -99.665259,
+                        32.321246
+                    ],
+                    [
+                        -99.665259,
+                        32.508856
+                    ],
+                    [
+                        -99.835853,
+                        32.508856
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Abilene, TX",
+        "id": "c386efac4d8d46d2",
+        "name": "Abilene",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/c386efac4d8d46d2.json"
+    },
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@EA @EAMaddenNFL https://t.co/MV0mJrIyK8",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Jun 17 22:40:24 +0000 2015",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Levitated \u2728 ACU'19",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 1045,
+        "follow_request_sent": false,
+        "followers_count": 179,
+        "following": false,
+        "friends_count": 263,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 3248240605,
+        "id_str": "3248240605",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 0,
+        "location": "214 \u2708\ufe0f 325",
+        "name": "Jesse",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3248240605/1449295463",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/673020174476427264/zZazfCou_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/673020174476427264/zZazfCou_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "BigHunnaThugga",
+        "statuses_count": 1903,
+        "time_zone": null,
+        "url": null,
+        "utc_offset": null,
+        "verified": false
+    }
+}

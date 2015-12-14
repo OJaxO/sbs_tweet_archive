@@ -1,0 +1,124 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Dec 06 21:37:35 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 86925202,
+                "id_str": "86925202",
+                "indices": [
+                    0,
+                    4
+                ],
+                "name": "ITV",
+                "screen_name": "ITV"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 673617307512512513,
+    "id_str": "673617307512512513",
+    "in_reply_to_screen_name": "ITV",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 86925202,
+    "in_reply_to_user_id_str": "86925202",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -1.147867,
+                        52.0826242
+                    ],
+                    [
+                        -1.1349913,
+                        52.0826242
+                    ],
+                    [
+                        -1.1349913,
+                        52.0944991
+                    ],
+                    [
+                        -1.147867,
+                        52.0944991
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United Kingdom",
+        "country_code": "GB",
+        "full_name": "Helmdon, England",
+        "id": "38eaf8e82a091275",
+        "name": "Helmdon",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/38eaf8e82a091275.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@ITV When did eating live animals on TV become acceptable?",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Dec 25 13:06:26 +0000 2011",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 111,
+        "follow_request_sent": false,
+        "followers_count": 69,
+        "following": false,
+        "friends_count": 191,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 446228791,
+        "id_str": "446228791",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 0,
+        "location": "",
+        "name": "George Stubbs",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/446228791/1376838042",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/2978706816/6deed625d22d0f11098843ff314f0bd3_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/2978706816/6deed625d22d0f11098843ff314f0bd3_normal.jpeg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "stubbs_g",
+        "statuses_count": 316,
+        "time_zone": null,
+        "url": null,
+        "utc_offset": null,
+        "verified": false
+    }
+}

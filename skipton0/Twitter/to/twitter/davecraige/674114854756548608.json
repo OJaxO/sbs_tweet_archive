@@ -1,0 +1,174 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 08 06:34:40 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 783214,
+                "id_str": "783214",
+                "indices": [
+                    0,
+                    8
+                ],
+                "name": "Twitter",
+                "screen_name": "twitter"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 674114854756548608,
+    "id_str": "674114854756548608",
+    "in_reply_to_screen_name": "twitter",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 783214,
+    "in_reply_to_user_id_str": "783214",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -105.109815,
+                        39.614151
+                    ],
+                    [
+                        -104.734372,
+                        39.614151
+                    ],
+                    [
+                        -104.734372,
+                        39.812975
+                    ],
+                    [
+                        -105.109815,
+                        39.812975
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Denver, CO",
+        "id": "b49b3053b5c25bf5",
+        "name": "Denver",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/b49b3053b5c25bf5.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@twitter can you improve search to include usernames in my lists \n\nThat would be a huge help",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Dec 01 19:41:19 +0000 2008",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "I love this stuff! Building https://t.co/boy6UMOXC3 , https://t.co/knqxpOTYLL ,   https://t.co/ihRS0Ka2f9 , https://t.co/OpSHXY36e8 and FastFast (coming soon)",
+        "entities": {
+            "description": {
+                "urls": [
+                    {
+                        "display_url": "400Hour.com",
+                        "expanded_url": "http://400Hour.com",
+                        "indices": [
+                            28,
+                            51
+                        ],
+                        "url": "https://t.co/boy6UMOXC3"
+                    },
+                    {
+                        "display_url": "TheStudio.io",
+                        "expanded_url": "http://TheStudio.io",
+                        "indices": [
+                            54,
+                            77
+                        ],
+                        "url": "https://t.co/knqxpOTYLL"
+                    },
+                    {
+                        "display_url": "MonkDay.net",
+                        "expanded_url": "http://MonkDay.net",
+                        "indices": [
+                            82,
+                            105
+                        ],
+                        "url": "https://t.co/ihRS0Ka2f9"
+                    },
+                    {
+                        "display_url": "BuildGreatThings.net",
+                        "expanded_url": "http://BuildGreatThings.net",
+                        "indices": [
+                            108,
+                            131
+                        ],
+                        "url": "https://t.co/OpSHXY36e8"
+                    }
+                ]
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "DaveCraige.com",
+                        "expanded_url": "http://www.DaveCraige.com",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/rXCUIHP9wr"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 38525,
+        "follow_request_sent": false,
+        "followers_count": 2178,
+        "following": false,
+        "friends_count": 1,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 17786914,
+        "id_str": "17786914",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 123,
+        "location": "",
+        "name": "Dave Craige",
+        "notifications": false,
+        "profile_background_color": "DBE9ED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/17786914/1433159188",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/588081168723091458/fp5R7sKG_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/588081168723091458/fp5R7sKG_normal.jpg",
+        "profile_link_color": "CC3366",
+        "profile_sidebar_border_color": "DBE9ED",
+        "profile_sidebar_fill_color": "E6F6F9",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "davecraige",
+        "statuses_count": 29595,
+        "time_zone": "Central Time (US & Canada)",
+        "url": "https://t.co/rXCUIHP9wr",
+        "utc_offset": -21600,
+        "verified": false
+    }
+}

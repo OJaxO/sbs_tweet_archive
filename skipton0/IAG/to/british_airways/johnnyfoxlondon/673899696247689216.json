@@ -1,0 +1,136 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 07 16:19:42 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 18332190,
+                "id_str": "18332190",
+                "indices": [
+                    12,
+                    28
+                ],
+                "name": "British Airways",
+                "screen_name": "British_Airways"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 673899696247689216,
+    "id_str": "673899696247689216",
+    "in_reply_to_screen_name": "British_Airways",
+    "in_reply_to_status_id": 673899429808766977,
+    "in_reply_to_status_id_str": "673899429808766977",
+    "in_reply_to_user_id": 18332190,
+    "in_reply_to_user_id_str": "18332190",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -0.5093057,
+                        51.286606
+                    ],
+                    [
+                        0.334433,
+                        51.286606
+                    ],
+                    [
+                        0.334433,
+                        51.6916388
+                    ],
+                    [
+                        -0.5093057,
+                        51.6916388
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United Kingdom",
+        "country_code": "GB",
+        "full_name": "London, England",
+        "id": "5d838f7a011f4a2d",
+        "name": "London",
+        "place_type": "admin",
+        "url": "https://api.twitter.com/1.1/geo/id/5d838f7a011f4a2d.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "OK Ashleigh @British_Airways what's the rate for a F to CW downgrade on LGW-BGI ?",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Nov 25 14:30:26 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "theatre reviewer (Londonist, Whatsonstage etc) and urban SilverFox with wide to panoramic interests in travel, architecture, food, music, media and sex.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "johnnyfox.london",
+                        "expanded_url": "http://www.johnnyfox.london",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/MJLnT7iooe"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 402,
+        "follow_request_sent": false,
+        "followers_count": 859,
+        "following": false,
+        "friends_count": 678,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 92533331,
+        "id_str": "92533331",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 64,
+        "location": "London, UK",
+        "name": "JohnnyFox",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/543423693/Moscow_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/543423693/Moscow_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "johnnyfoxlondon",
+        "statuses_count": 5671,
+        "time_zone": "London",
+        "url": "http://t.co/MJLnT7iooe",
+        "utc_offset": 0,
+        "verified": false
+    }
+}

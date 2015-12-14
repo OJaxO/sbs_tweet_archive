@@ -1,0 +1,124 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Dec 06 07:03:33 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 74594552,
+                "id_str": "74594552",
+                "indices": [
+                    0,
+                    9
+                ],
+                "name": "App Store",
+                "screen_name": "AppStore"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 673397348362354688,
+    "id_str": "673397348362354688",
+    "in_reply_to_screen_name": "AppStore",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 74594552,
+    "in_reply_to_user_id_str": "74594552",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -97.662618,
+                        27.578509
+                    ],
+                    [
+                        -97.202232,
+                        27.578509
+                    ],
+                    [
+                        -97.202232,
+                        27.895793
+                    ],
+                    [
+                        -97.662618,
+                        27.895793
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Corpus Christi, TX",
+        "id": "a3d770a00f15bcb1",
+        "name": "Corpus Christi",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/a3d770a00f15bcb1.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@AppStore can we get a hot Cheetos emoji",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Aug 08 02:57:17 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Buy art not drugs. I'm gonna work for vice one day // Logan.erinn@gmail.com IG:mariahvanessa",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 25257,
+        "follow_request_sent": false,
+        "followers_count": 2012,
+        "following": false,
+        "friends_count": 1001,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 350642446,
+        "id_str": "350642446",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 6,
+        "location": "buy me hot cheetos",
+        "name": "yung riah",
+        "notifications": false,
+        "profile_background_color": "FFFFFF",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/767601362/e9c1dd3210b888e9bcdc63a222fe951a.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/767601362/e9c1dd3210b888e9bcdc63a222fe951a.jpeg",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/350642446/1447476900",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/665751249812197377/uc0VPN3v_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/665751249812197377/uc0VPN3v_normal.jpg",
+        "profile_link_color": "000000",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "C5EC65",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "OfficialMariahV",
+        "statuses_count": 93623,
+        "time_zone": "Arizona",
+        "url": null,
+        "utc_offset": -25200,
+        "verified": false
+    }
+}

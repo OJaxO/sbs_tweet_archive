@@ -1,0 +1,147 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 07 20:13:28 +0000 2015",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 252792134,
+                "id_str": "252792134",
+                "indices": [
+                    0,
+                    13
+                ],
+                "name": "LinkedIn Help",
+                "screen_name": "LinkedInHelp"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 673958525526220800,
+    "id_str": "673958525526220800",
+    "in_reply_to_screen_name": "LinkedInHelp",
+    "in_reply_to_status_id": 673958073166360576,
+    "in_reply_to_status_id_str": "673958073166360576",
+    "in_reply_to_user_id": 252792134,
+    "in_reply_to_user_id_str": "252792134",
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": {
+        "attributes": {},
+        "bounding_box": {
+            "coordinates": [
+                [
+                    [
+                        -79.76259,
+                        40.477383
+                    ],
+                    [
+                        -71.777492,
+                        40.477383
+                    ],
+                    [
+                        -71.777492,
+                        45.015851
+                    ],
+                    [
+                        -79.76259,
+                        45.015851
+                    ]
+                ]
+            ],
+            "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "New York, USA",
+        "id": "94965b2c45386f87",
+        "name": "New York",
+        "place_type": "admin",
+        "url": "https://api.twitter.com/1.1/geo/id/94965b2c45386f87.json"
+    },
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "@LinkedInHelp Taking care of that. :) Thanks again!",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Aug 22 22:35:44 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Social media coach, journalist and personal branding blogger. Left my ad career to tell people's stories. I blog at http://t.co/hnj2uetMhM",
+        "entities": {
+            "description": {
+                "urls": [
+                    {
+                        "display_url": "brandmeajournalist.com",
+                        "expanded_url": "http://www.brandmeajournalist.com",
+                        "indices": [
+                            116,
+                            138
+                        ],
+                        "url": "http://t.co/hnj2uetMhM"
+                    }
+                ]
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "linkedin.com/in/jennifergai\u2026",
+                        "expanded_url": "http://linkedin.com/in/jennifergaiehellum",
+                        "indices": [
+                            0,
+                            22
+                        ],
+                        "url": "http://t.co/GUVIC7v0gI"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 2500,
+        "follow_request_sent": false,
+        "followers_count": 1696,
+        "following": false,
+        "friends_count": 1608,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 68001927,
+        "id_str": "68001927",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 209,
+        "location": "Pelham, NY",
+        "name": "Jennifer Gaie Hellum",
+        "notifications": false,
+        "profile_background_color": "0099B9",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/68001927/1443707789",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/646721162068758528/8HXLB7AK_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/646721162068758528/8HXLB7AK_normal.jpg",
+        "profile_link_color": "0099B9",
+        "profile_sidebar_border_color": "5ED4DC",
+        "profile_sidebar_fill_color": "95E8EC",
+        "profile_text_color": "3C3940",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "jghellum",
+        "statuses_count": 7143,
+        "time_zone": "Pacific Time (US & Canada)",
+        "url": "http://t.co/GUVIC7v0gI",
+        "utc_offset": -28800,
+        "verified": false
+    }
+}
